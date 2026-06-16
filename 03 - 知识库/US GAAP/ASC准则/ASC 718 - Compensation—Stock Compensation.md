@@ -1,0 +1,3645 @@
+---
+tags: [us-gaap, asc-718]
+standard: ASC 718
+source: FASB ASC
+source_url: https://asc.fasb.org/718/showallinonepage
+source_type: Codification
+import_method: cursor-ide-browser
+scraped_date: "2026-06-10"
+subtopics: ["718-10"]
+key: true
+---
+
+# ASC 718 — Compensation—Stock Compensation（股份支付） ⭐ 重点准则
+
+---
+
+18 Compensation—Stock Compensation
+718 Compensation—Stock Compensation
+10 Overall
+00 Status
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General
+718-10-00-1
+The following table identifies the changes made to this Subtopic.
+Paragraph	Action	Accounting Standards Update	Date
+			
+Award	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+Broker-Assisted Cashless Exercise	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+Contract	Added	Accounting Standards Update No. 2018-07	06/20/2018
+Convertible Security	Added	Accounting Standards Update No. 2020-06	08/05/2020
+Corporate Joint Venture	Added	Accounting Standards Update No. 2023-05	08/23/2023
+Customer	Added	Accounting Standards Update No. 2025-04	05/15/2025
+Customer	Superseded	Accounting Standards Update No. 2019-08	11/11/2019
+Customer (1st def.)	Added	Accounting Standards Update No. 2018-07	06/20/2018
+Employee (2nd def.)	Amended	Accounting Standards Update No. 2024-03	11/04/2024
+Grant Date	Amended	Accounting Standards Update No. 2019-08	11/11/2019
+Grant Date	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+Issued, Issuance, or Issuing of an Equity Instrument	Added	Accounting Standards Update No. 2016-19	12/14/2016
+Joint Venture	Added	Accounting Standards Update No. 2023-05	08/23/2023
+Modification	Amended	Accounting Standards Update No. 2017-09	05/10/2017
+Nonvested Shares	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+Option	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+Performance Condition	Amended	Accounting Standards Update No. 2025-04	05/15/2025
+Performance Condition	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+Public Business Entity	Amended	Maintenance Update 2017-06	04/07/2017
+Public Business Entity	Amended	Maintenance Update 2016-11	06/27/2016
+Public Business Entity	Added	Accounting Standards Update No. 2016-09	03/30/2016
+Reload Feature and Reload Option	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+Restricted Share	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+Service Condition	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+Service Inception Date	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+Share Option	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+Vest	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+			
+718-10-05-1 through 05-3	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-10-1	Amended	Accounting Standards Update No. 2019-08	11/11/2019
+718-10-10-1	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-10-1	Amended	Accounting Standards Update No. 2016-19	12/14/2016
+718-10-10-2	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-15-2	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-15-3	Amended	Accounting Standards Update No. 2024-01	3/21/2024
+718-10-15-3	Amended	Accounting Standards Update No. 2019-08	11/11/2019
+718-10-15-3	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-15-3	Amended	Accounting Standards Update No. 2016-19	12/14/2016
+718-10-15-3A	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-15-3B	Added	Accounting Standards Update No. 2024-01	03/21/2024
+718-10-15-4	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-15-5	Amended	Accounting Standards Update No. 2021-04	05/03/2021
+718-10-15-5	Amended	Accounting Standards Update No. 2019-08	11/11/2019
+718-10-15-5	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-15-5A	Amended	Accounting Standards Update No. 2025-04	05/15/2025
+718-10-15-5A	Amended	Accounting Standards Update No. 2019-08	11/11/2019
+718-10-15-5A	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-15-5B	Added	Accounting Standards Update No. 2025-04	05/15/2025
+718-10-15-6	Amended	Accounting Standards Update No. 2016-19	12/14/2016
+718-10-15-8	Added	Accounting Standards Update No. 2023-05	08/23/2023
+718-10-25-1	Amended	Accounting Standards Update No. 2012-04	10/01/2012
+718-10-25-2	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-25-2A through 25-2C	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-25-2C	Amended	Accounting Standards Update No. 2019-08	11/11/2019
+718-10-25-3	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-25-5	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-25-6	Amended	Accounting Standards Update No. 2016-09	03/30/2016
+718-10-25-7 through 25-9	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-25-9	Amended	Accounting Standards Update No. 2016-19	12/14/2016
+718-10-25-11	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-25-12	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-25-14 through 25-16	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-25-14A	Added	Accounting Standards Update No. 2010-13	04/16/2010
+718-10-25-17	Amended	Accounting Standards Update No. 2012-04	10/01/2012
+718-10-25-18	Amended	Accounting Standards Update No. 2016-09	03/30/2016
+718-10-25-19	Superseded	Accounting Standards Update No. 2016-09	03/30/2016
+718-10-25-19A	Added	Accounting Standards Update No. 2016-09	03/30/2016
+718-10-25-20	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-25-21	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-30-2	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-30-2	Amended	Accounting Standards Update No. 2016-19	12/14/2016
+718-10-30-3	Amended	Accounting Standards Update No. 2019-08	11/11/2019
+718-10-30-3	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-30-5	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-30-6	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-30-8	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-30-10	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-30-10A	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-30-10B	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-30-11 through 30-14	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-30-17 through 30-19	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-30-19A	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-30-20A	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-30-20A	Added	Accounting Standards Update No. 2016-09	03/30/2016
+718-10-30-20B	Amended	Accounting Standards Update No. 2019-08	11/11/2019
+718-10-30-20B	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-30-20B	Added	Accounting Standards Update No. 2016-09	03/30/2016
+718-10-30-20C through 30-20H	Added	Accounting Standards Update No. 2021-07	10/25/2021
+718-10-30-24	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-30-27	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-30-28	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-30-28	Amended	Accounting Standards Update No. 2016-09	03/30/2016
+718-10-30-28	Added	Accounting Standards Update No. 2014-12	06/19/2014
+718-10-35-1A through 35-1F	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-35-1D	Amended	Accounting Standards Update No. 2025-04	05/15/2025
+718-10-35-1D	Amended	Accounting Standards Update No. 2019-08	11/11/2019
+718-10-35-2	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-35-3	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-35-3	Amended	Accounting Standards Update No. 2016-09	03/30/2016
+718-10-35-5	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-35-8	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-35-9	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-35-9A	Superseded	Accounting Standards Update No. 2020-06	08/05/2020
+718-10-35-9A	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-35-10	Amended	Accounting Standards Update No. 2020-06	08/05/2020
+718-10-35-10	Amended	Accounting Standards Update No. 2019-08	11/11/2019
+718-10-35-10	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-35-10A	Added	Accounting Standards Update No. 2019-08	11/11/2019
+718-10-35-11	Amended	Accounting Standards Update No. 2019-08	11/11/2019
+718-10-35-11	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-35-12	Amended	Accounting Standards Update No. 2016-09	03/30/2016
+718-10-35-13	Superseded	Accounting Standards Update No. 2016-09	03/30/2016
+718-10-35-14	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-35-15	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-45-1	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-45-1	Amended	Accounting Standards Update No. 2016-09	03/30/2016
+718-10-45-3	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-50-1	Amended	Accounting Standards Update No. 2025-11	12/08/2025
+718-10-50-1	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-50-2	Amended	Accounting Standards Update No. 2021-07	10/25/2021
+718-10-50-2	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-50-2	Amended	Accounting Standards Update No. 2017-09	05/10/2017
+718-10-50-2	Amended	Accounting Standards Update No. 2016-19	12/14/2016
+718-10-50-2	Amended	Accounting Standards Update No. 2016-09	03/30/2016
+718-10-50-2A	Added	Accounting Standards Update No. 2016-09	03/30/2016
+718-10-55-2	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-55-2	Amended	Accounting Standards Update No. 2016-09	03/30/2016
+718-10-55-4 through 55-6	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-55-8 through 55-12	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-55-15 through 55-19	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-55-21	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-55-22	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-55-24	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-55-27	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-55-29A	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-55-30	Amended	Accounting Standards Update No. 2016-09	03/30/2016
+718-10-55-34A	Added	Accounting Standards Update No. 2016-09	03/30/2016
+718-10-55-45	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-55-45	Amended	Accounting Standards Update No. 2016-09	03/30/2016
+718-10-55-47 through 55-49	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-55-50A	Added	Accounting Standards Update No. 2016-09	03/30/2016
+718-10-55-52	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-55-53	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-55-59 through 55-63	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-55-61A	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-55-65	Amended	Accounting Standards Update No. 2010-13	04/16/2010
+718-10-55-66	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-55-67	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-55-69	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-55-76	Amended	Accounting Standards Update No. 2016-09	03/30/2016
+718-10-55-81 through 55-83	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-55-85	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-55-86	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-55-88	Amended	Accounting Standards Update No. 2014-12	06/19/2014
+718-10-55-92	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-55-97	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-55-100	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-55-107	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-55-116A	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-55-116B	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-55-131	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-55-134	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-55-137	Amended	Accounting Standards Update No. 2016-09	03/30/2016
+718-10-55-138 through 55-148	Added	Accounting Standards Update No. 2024-01	03/21/2024
+718-10-60-1B	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-60-2	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-65-1	Superseded	Accounting Standards Update No. 2016-09	03/30/2016
+718-10-65-2	Added	Accounting Standards Update No. 2010-13	04/16/2010
+718-10-65-3	Added	Accounting Standards Update No. 2014-12	06/19/2014
+718-10-65-4 through 65-10	Added	Accounting Standards Update No. 2016-09	03/30/2016
+718-10-65-11 through 65-14	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-10-65-15	Added	Accounting Standards Update No. 2019-08	11/11/2019
+718-10-65-16	Added	Accounting Standards Update No. 2021-07	10/25/2021
+718-10-65-17	Added	Accounting Standards Update No. 2024-01	03/21/2024
+
+05 Overview and Background
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+General
+718-10-05-1
+The Compensation—Stock Compensation Topic provides guidance on share-based payment transactions. This Topic includes the following Subtopics:
+aOverall
+bAwards Classified as Equity
+cAwards Classified as Liabilities
+dEmployee Stock Ownership Plans
+eEmployee Stock Purchase Plans
+fIncome Taxes.
+718-10-05-2
+This Topic provides guidance for employee and nonemployee share-based payment transactions.
+718-10-05-3
+This Subtopic provides general guidance related to share-based payment arrangements. This Subtopic and Subtopics 718-20 and 718-30 are interrelated and the required guidance may be located in either this Subtopic or one of the other Subtopics. In general, material that relates to both equity and liability instruments is included in this Subtopic, while material more specifically related to either equity or liability instruments is included in their respective Subtopics. Guidance referencing grantees is intended to be applicable to recipients of both employee and nonemployee awards, and guidance referencing employees or nonemployees is only applicable to those specific types of awards.
+
+10 Objectives
+General Note:The Objectives Section provides the high-level objectives that the Subtopic is intended to accomplish or attain. The Section does not summarize or discuss the main principles of accounting and reporting requirements.
+General
+718-10-10-1
+The objective of accounting for transactions under share-based payment arrangements is to recognize in the financial statements the goods or services received in exchange for equity instruments granted or liabilities incurred and the related cost to the entity as those goods or services are received. This Topic uses the terms compensation and payment in their broadest senses to refer to the consideration paid for goods or services or the consideration paid to a customer.
+718-10-10-2
+This Topic requires that the cost resulting from all share-based payment transactions be recognized in the financial statements. This Topic establishes fair value as the measurement objective in accounting for share-based payment arrangements and requires all entities to apply a fair-value-based measurement method in accounting for share-based payment transactions except for equity instruments held by employee stock ownership plans.
+
+15 Scope and Scope Exceptions
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+General
+> Overall Guidance
+718-10-15-1
+The Scope Section of the Overall Subtopic establishes the pervasive scope for all Subtopics of the Compensation—Stock Compensation Topic. Unless explicitly addressed within specific Subtopics, the following scope guidance applies to all Subtopics of the Compensation—Stock Compensation Topic, with the exception of Subtopic 718-50, which has its own discrete scope.
+> Entities
+718-10-15-2
+The guidance in the Compensation—Stock Compensation Topic applies to all entities that enter into share-based payment transactions.
+> Transactions
+718-10-15-3
+The guidance in the Compensation—Stock Compensation Topic applies to all share-based payment transactions in which a grantor acquires goods or services to be used or consumed in the grantor's own operations or provides consideration payable to a customer by issuing (or offering to issue) its shares, share options, or other equity instruments or by incurring liabilities to an employeeor a nonemployee that meet either of the following conditions:
+aThe amounts are based, at least in part, on the price of the entity's shares or other equity instruments. (The phrase at least in part is used because an award of share-based compensation may be indexed to both the price of an entity's shares and something else that is neither the price of the entity's shares nor a market, performance, or service condition.)
+bThe awards require or may require settlement by issuing the entity's equity shares or other equity instruments.
+PENDING CONTENT
+Transition Date: December 16, 2024;  December 16, 2025Transition Guidance:718-10-65-17
+The guidance in the Compensation—Stock Compensation Topic applies to all share-based payment transactions in which a grantor acquires goods or services to be used or consumed in the grantor's own operations or provides consideration payable to a customer by either of the following:
+aIssuing (or offering to issue) its shares, share options, or other equity instruments to an employee or a nonemployee
+bIncurring liabilities to an employee or a nonemployee that meet either of the following conditions:
+1The amounts are based, at least in part, on the price of the entity's shares or other equity instruments. (The phrase at least in part is used because an award of share-based compensation may be indexed to both the price of an entity's shares and something else that is neither the price of the entity's shares nor a market, performance, or service condition.)
+2The awards require or may require settlement by issuing the entity's equity shares or other equity instruments.
+718-10-15-3A
+Paragraphs 323-10-25-3 through 25-5 provide guidance on accounting for share-based compensation granted by an investor to employees or nonemployees of an equity method investee that provide goods or services to the investee that are used or consumed in the investee's operations.
+718-10-15-3B
+PENDING CONTENT
+Transition Date: December 16, 2024;  December 16, 2025Transition Guidance:718-10-65-17
+An entity shall apply the guidance in paragraph 718-10-15-3 to determine whether a profits interest or similar award is within the scope of this Topic. Paragraphs 718-10-55-138 through 55-148 illustrate how the guidance in paragraph 718-10-15-3 applies to common features in a profits interest or similar award.
+718-10-15-4
+Share-based payments awarded to a grantee by a related party or other holder of an economic interest in the entity as compensation for goods or services provided to the reporting entity are share-based payment transactions to be accounted for under this Topic unless the transfer is clearly for a purpose other than compensation for goods or services to the reporting entity. The substance of such a transaction is that the economic interest holder makes a capital contribution to the reporting entity, and that entity makes a share-based payment to the grantee in exchange for services rendered or goods received. An example of a situation in which such a transfer is not compensation is a transfer to settle an obligation of the economic interest holder to the grantee that is unrelated to goods or services to be used or consumed in a grantor's own operations.
+718-10-15-5
+The guidance in this Topic does not apply to transactions involving share-based payment awards granted to a lender or an investor that provides financing to the issuer. However, see paragraphs 815-40-35-14 through 35-15, 815-40-35-18, 815-40-55-49, and 815-40-55-52 for guidance on an issuer's accounting for modifications or exchanges of written call options to compensate grantees.
+aSubparagraph superseded by Accounting Standards Update No. 2018-07.
+bSubparagraph superseded by Accounting Standards Update No. 2019-08.
+cSubparagraph superseded by Accounting Standards Update No. 2019-08.
+718-10-15-5A
+Share-based payment awards granted to a customer shall be measured and classified in accordance with the guidance in this Topic (see paragraph 606-10-32-25A) and reflected as a reduction of the transaction price and, therefore, of revenue in accordance with paragraph 606-10-32-25 unless the consideration is in exchange for a distinct good or service. If share-based payment awards are granted to a customer as payment for a distinct good or service from the customer, then an entity shall apply the guidance in paragraph 606-10-32-26.
+PENDING CONTENT
+Transition Date: December 16, 2026;  December 16, 2026Transition Guidance:606-10-65-2
+Share-based consideration granted to a customer (or to other parties that purchase the grantor’s goods or services from the customer) shall be measured and classified in accordance with the guidance in this Topic (see paragraph 606-10-32-25A) and reflected as a reduction of the transaction price and, therefore, of revenue in accordance with paragraph 606-10-32-25 unless the consideration is in exchange for a distinct good or service. If share-based payment awards are granted to a customer as payment for a distinct good or service from the customer, then the grantor shall apply the guidance in paragraph 606-10-32-26. See also paragraph 606-10-55-88AB.
+718-10-15-5B
+PENDING CONTENT
+Transition Date: December 16, 2026;  December 16, 2026Transition Guidance:606-10-65-2
+A grantor shall not apply by analogy the aspects of the definition of performance condition that are specific to share-based consideration payable to a customer described in paragraph 606-10-55-88AA to awards granted to employees or nonemployees in which the grantor acquires goods or services to be used or consumed in the grantor’s own operations that are solely within the scope of the guidance in this Topic. See also paragraphs 606-10-55-88AB through 55-88AC.
+718-10-15-6
+Paragraphs 805-30-30-9 through 30-13 provide guidance on determining whether share-based payment awards issued in a business combination are part of the consideration transferred in exchange for the acquiree, and therefore in the scope of Topic 805, or are for continued service to be recognized in the postcombination period in accordance with this Topic.
+718-10-15-7
+The guidance in the Overall Subtopic does not apply to equity instruments held by an employee stock ownership plan.
+718-10-15-8
+PENDING CONTENT
+Transition Date: January 1, 2025;  January 1, 2025Transition Guidance:805-60-65-1
+Paragraph 805-60-25-8 provides guidance on determining whether share-based payment awards issued by a joint venture upon formation are part of the joint venture formation transaction and, therefore, are within the scope of Subtopic 805-60, or are for continued service to be recognized in the postformation period in accordance with this Topic.
+
+20 Glossary
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+Award
+The collective noun for multiple instruments with the same terms and conditions granted at the same time either to a single grantee or to a group of grantees. An award may specify multiple vesting dates, referred to as graded vesting, and different parts of an award may have different expected terms. References to an award also apply to a portion of an award.
+Blackout Period
+A period of time during which exercise of an equity share option is contractually or legally prohibited.
+Broker-Assisted Cashless Exercise
+The simultaneous exercise by a grantee of a share option and sale of the shares through a broker (commonly referred to as a broker-assisted exercise).
+Generally, under this method of exercise:
+aThe grantee authorizes the exercise of an option and the immediate sale of the option shares in the open market.
+bOn the same day, the entity notifies the broker of the sale order.
+cThe broker executes the sale and notifies the entity of the sales price.
+dThe entity determines the minimum statutory tax-withholding requirements.
+eBy the settlement day (generally three days later), the entity delivers the stock certificates to the broker.
+fOn the settlement day, the broker makes payment to the entity for the exercise price and the minimum statutory withholding taxes and remits the balance of the net sales proceeds to the grantee.
+Calculated Value
+A measure of the value of a share option or similar instrument determined by substituting the historical volatility of an appropriate industry sector index for the expected volatility of a nonpublic entity's share price in an option-pricing model.
+Call Option
+A contract that allows the holder to buy a specified quantity of stock from the writer of the contract at a fixed price for a given period. See Option and Purchased Call Option.
+Closed-Form Model
+A valuation model that uses an equation to produce an estimated fair value. The Black-Scholes-Merton formula is a closed-form model. In the context of option valuation, both closed-form models and lattice models are based on risk-neutral valuation and a contingent claims framework. The payoff of a contingent claim, and thus its value, depends on the value(s) of one or more other assets. The contingent claims framework is a valuation methodology that explicitly recognizes that dependency and values the contingent claim as a function of the value of the underlying asset(s). One application of that methodology is risk-neutral valuation in which the contingent claim can be replicated by a combination of the underlying asset and a risk-free bond. If that replication is possible, the value of the contingent claim can be determined without estimating the expected returns on the underlying asset. The Black-Scholes-Merton formula is a special case of that replication.
+Combination Award
+An award with two or more separate components, each of which can be separately exercised. Each component of the award is actually a separate award, and compensation cost is measured and recognized for each component.
+Contract
+An agreement between two or more parties that creates enforceable rights and obligations.
+Convertible Security
+A security that is convertible into another security based on a conversion rate. For example, convertible preferred stock that is convertible into common stock on a two-for-one basis (two shares of common for each share of preferred).
+Corporate Joint Venture
+A corporation owned and operated by a small group of entities (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a corporate joint venture frequently is to share risks and rewards in developing a new market, product or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A corporate joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a corporate joint venture. The ownership of a corporate joint venture seldom changes, and its stock is usually not traded publicly. A noncontrolling interest held by public ownership, however, does not preclude a corporation from being a corporate joint venture.
+Customer
+A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.
+Derived Service Period
+A service period for an award with a market condition that is inferred from the application of certain valuation techniques used to estimate fair value. For example, the derived service period for an award of share options that the employee can exercise only if the share price increases by 25 percent at any time during a 5-year period can be inferred from certain valuation techniques. In a lattice model, that derived service period represents the duration of the median of the distribution of share price paths on which the market condition is satisfied. That median is the middle share price path (the midpoint of the distribution of paths) on which the market condition is satisfied. The duration is the period of time from the service inception date to the expected date of satisfaction (as inferred from the valuation technique). If the derived service period is three years, the estimated requisite service period is three years and all compensation cost would be recognized over that period, unless the market condition was satisfied at an earlier date. Compensation cost would not be recognized beyond three years even if after the grant date the entity determines that it is not probable that the market condition will be satisfied within that period. Further, an award of fully vested, deep out-of-the-money share options has a derived service period that must be determined from the valuation techniques used to estimate fair value. See Explicit Service Period, Implicit Service Period, and Requisite Service Period.
+Economic Interest in an Entity
+Any type or form of pecuniary interest or arrangement that an entity could issue or be a party to, including equity securities; financial instruments with characteristics of equity, liabilities, or both; long-term debt and other debt-financing arrangements; leases; and contractual arrangements such as management contracts, service contracts, or intellectual property licenses.
+Employee
+An individual over whom the grantor of a share-based compensation award exercises or has the right to exercise sufficient control to establish an employer-employee relationship based on common law as illustrated in case law and currently under U.S. Internal Revenue Service (IRS) Revenue Ruling 87-41. A reporting entity based in a foreign jurisdiction would determine whether an employee-employer relationship exists based on the pertinent laws of that jurisdiction. Accordingly, a grantee meets the definition of an employee if the grantor consistently represents that individual to be an employee under common law. The definition of an employee for payroll tax purposes under the U.S. Internal Revenue Code includes common law employees. Accordingly, a grantor that classifies a grantee potentially subject to U.S. payroll taxes as an employee also must represent that individual as an employee for payroll tax purposes (unless the grantee is a leased employee as described below). A grantee does not meet the definition of an employee solely because the grantor represents that individual as an employee for some, but not all, purposes. For example, a requirement or decision to classify a grantee as an employee for U.S. payroll tax purposes does not, by itself, indicate that the grantee is an employee because the grantee also must be an employee of the grantor under common law.
+A leased individual is deemed to be an employee of the lessee if all of the following requirements are met:
+aThe leased individual qualifies as a common law employee of the lessee, and the lessor is contractually required to remit payroll taxes on the compensation paid to the leased individual for the services provided to the lessee.
+bThe lessor and lessee agree in writing to all of the following conditions related to the leased individual:
+1The lessee has the exclusive right to grant stock compensation to the individual for the employee service to the lessee.
+2The lessee has a right to hire, fire, and control the activities of the individual. (The lessor also may have that right.)
+3The lessee has the exclusive right to determine the economic value of the services performed by the individual (including wages and the number of units and value of stock compensation granted).
+4The individual has the ability to participate in the lessee's employee benefit plans, if any, on the same basis as other comparable employees of the lessee.
+5The lessee agrees to and remits to the lessor funds sufficient to cover the complete compensation, including all payroll taxes, of the individual on or before a contractually agreed upon date or dates.
+A nonemployee director does not satisfy this definition of employee. Nevertheless, nonemployee directors acting in their role as members of a board of directors are treated as employees if those directors were elected by the employer's shareholders or appointed to a board position that will be filled by shareholder election when the existing term expires. However, that requirement applies only to awards granted to nonemployee directors for their services as directors. Awards granted to those individuals for other services shall be accounted for as awards to nonemployees.
+PENDING CONTENT
+Transition Date: December 16, 2026;  December 16, 2026Transition Guidance:220-40-65-1
+An individual over whom a reporting entity exercises or has the right to exercise sufficient control to establish an employer-employee relationship based on common law as illustrated in case law and currently under U.S. Internal Revenue Service (IRS) Revenue Ruling 87-41. A reporting entity based in a foreign jurisdiction would determine whether an employee-employer relationship exists based on the pertinent laws of that jurisdiction. Accordingly, an individual meets the definition of an employee if the reporting entity consistently represents that individual to be an employee under common law. The definition of an employee for payroll tax purposes under the U.S. Internal Revenue Code includes common law employees. Accordingly, a reporting entity that classifies an individual potentially subject to U.S. payroll taxes as an employee also must represent that individual as an employee for payroll tax purposes (unless the individual is a leased employee as described below). An individual that meets the definition of an employee includes, but is not limited to, a full-time, part-time, temporary, or seasonal employee. An individual does not meet the definition of an employee solely because the reporting entity represents that individual as an employee for some, but not all, purposes. For example, a requirement or decision to classify an individual as an employee for U.S. payroll tax purposes does not, by itself, indicate that the individual is an employee because the individual also must be an employee of the reporting entity under common law.
+A leased individual is deemed to be an employee of the lessee if all of the following requirements are met:
+aThe leased individual qualifies as a common law employee of the lessee, and the lessor is contractually required to remit payroll taxes on the compensation paid to the leased individual for the services provided to the lessee.
+bThe lessor and lessee agree in writing to all of the following conditions related to the leased individual:
+1The lessee has the exclusive right to grant compensation to the individual for the employee service to the lessee.
+2The lessee has a right to hire, fire, and control the activities of the individual. (The lessor also may have that right.)
+3The lessee has the exclusive right to determine the economic value of the services performed by the individual (including wages and the number of units and value of stock compensation granted).
+4The individual has the ability to participate in the lessee's employee benefit plans, if any, on the same basis as other comparable employees of the lessee.
+5The lessee agrees to and remits to the lessor funds sufficient to cover the complete compensation, including all payroll taxes, of the individual on or before a contractually agreed upon date or dates.
+A nonemployee director does not satisfy this definition of employee. Nevertheless, nonemployee directors acting in their role as members of a board of directors are treated as employees if those directors were elected by the employer's shareholders or appointed to a board position that will be filled by shareholder election when the existing term expires. However, that requirement applies only to awards and other compensation granted to nonemployee directors for their services as directors. Awards granted and compensation paid to those individuals for other services shall be accounted for as awards and compensation to nonemployees.
+Employee Stock Ownership Plan
+An employee stock ownership plan is an employee benefit plan that is described by the Employee Retirement Income Security Act of 1974 and the Internal Revenue Code of 1986 as a stock bonus plan, or combination stock bonus and money purchase pension plan, designed to invest primarily in employer stock. Also called an employee share ownership plan.
+Equity Restructuring
+A nonreciprocal transaction between an entity and its shareholders that causes the per-share fair value of the shares underlying an option or similar award to change, such as a stock dividend, stock split, spinoff, rights offering, or recapitalization through a large, nonrecurring cash dividend.
+Explicit Service Period
+A service period that is explicitly stated in the terms of a share-based payment award. For example, an award stating that it vests after three years of continuous employee service from a given date (usually the grant date) has an explicit service period of three years. See Derived Service Period, Implicit Service Period, and Requisite Service Period.
+Fair Value
+The amount at which an asset (or liability) could be bought (or incurred) or sold (or settled) in a current transaction between willing parties, that is, other than in a forced or liquidation sale.
+Freestanding Financial Instrument
+A financial instrument that meets either of the following conditions:
+aIt is entered into separately and apart from any of the entity's other financial instruments or equity transactions.
+bIt is entered into in conjunction with some other transaction and is legally detachable and separately exercisable.
+Grant Date
+The date at which a grantor and a grantee reach a mutual understanding of the key terms and conditions of a share-based payment award. The grantor becomes contingently obligated on the grant date to issue equity instruments or transfer assets to a grantee who delivers goods or renders services or purchases goods or services as a customer. Awards made under an arrangement that is subject to shareholder approval are not deemed to be granted until that approval is obtained unless approval is essentially a formality (or perfunctory), for example, if management and the members of the board of directors control enough votes to approve the arrangement. Similarly, individual awards that are subject to approval by the board of directors, management, or both are not deemed to be granted until all such approvals are obtained. The grant date for an award of equity instruments is the date that a grantee begins to benefit from, or be adversely affected by, subsequent changes in the price of the grantor's equity shares. Paragraph 718-10-25-5 provides guidance on determining the grant date. See Service Inception Date.
+Implicit Service Period
+A service period that is not explicitly stated in the terms of a share-based payment award but that may be inferred from an analysis of those terms and other facts and circumstances. For instance, if an award of share options vests upon the completion of a new product design and it is probable that the design will be completed in 18 months, the implicit service period is 18 months. See Derived Service Period, Explicit Service Period, and Requisite Service Period.
+Intrinsic Value
+The amount by which the fair value of the underlying stock exceeds the exercise price of an option. For example, an option with an exercise price of $20 on a stock whose current market price is $25 has an intrinsic value of $5. (A nonvested share may be described as an option on that share with an exercise price of zero. Thus, the fair value of a share is the same as the intrinsic value of such an option on that share.)
+Issued, Issuance, or Issuing of an Equity Instrument
+An equity instrument is issued when the issuing entity receives the agreed-upon consideration, which may be cash, an enforceable right to receive cash, or another financial instrument, goods, or services. An entity may conditionally transfer an equity instrument to another party under an arrangement that permits that party to choose at a later date or for a specified time whether to deliver the consideration or to forfeit the right to the conditionally transferred instrument with no further obligation. In that situation, the equity instrument is not issued until the issuing entity has received the consideration. The grant of stock options or other equity instruments subject to vesting conditions is not considered to be issuance.
+Joint Venture
+An entity owned and operated by a small group of businesses (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a joint venture frequently is to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a joint venture. The ownership of a joint venture seldom changes, and its equity interests usually are not traded publicly. A minority public ownership, however, does not preclude an entity from being a joint venture. As distinguished from a corporate joint venture, a joint venture is not limited to corporate entities.
+Lattice Model
+A model that produces an estimated fair value based on the assumed changes in prices of a financial instrument over successive periods of time. The binomial model is an example of a lattice model. In each time period, the model assumes that at least two price movements are possible. The lattice represents the evolution of the value of either a financial instrument or a market variable for the purpose of valuing a financial instrument. In this context, a lattice model is based on risk-neutral valuation and a contingent claims framework. See Closed-Form Model for an explanation of the terms risk-neutral valuation and contingent claims framework.
+Market Condition
+A condition affecting the exercise price, exercisability, or other pertinent factors used in determining the fair value of an award under a share-based payment arrangement that relates to the achievement of either of the following:
+aA specified price of the issuer's shares or a specified amount of intrinsic value indexed solely to the issuer's shares
+bA specified price of the issuer's shares in terms of a similar (or index of similar) equity security (securities). The term similar as used in this definition refers to an equity security of another entity that has the same type of residual rights. For example, common stock of one entity generally would be similar to the common stock of another entity for this purpose.
+Measurement Date
+The date at which the equity share price and other pertinent factors, such as expected volatility, that enter into measurement of the total recognized amount of compensation cost for an award of share-based payment are fixed.
+Modification
+A change in the terms or conditions of a share-based payment award.
+Nonpublic Entity
+Any entity other than one that meets any of the following criteria:
+aHas equity securities that trade in a public market either on a stock exchange (domestic or foreign) or in an over-the-counter market, including securities quoted only locally or regionally
+bMakes a filing with a regulatory agency in preparation for the sale of any class of equity securities in a public market
+cIs controlled by an entity covered by the preceding criteria.
+An entity that has only debt securities trading in a public market (or that has made a filing with a regulatory agency in preparation to trade only debt securities) is a nonpublic entity.
+Nonvested Shares
+Shares that an entity has not yet issued because the agreed-upon consideration, such as the delivery of specified goods or services and any other conditions necessary to earn the right to benefit from the instruments, has not yet been satisfied. Nonvested shares cannot be sold. The restriction on sale of nonvested shares is due to the forfeitability of the shares if specified events occur (or do not occur).
+Not-for-Profit Entity
+An entity that possesses the following characteristics, in varying degrees, that distinguish it from a business entity:
+aContributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
+bOperating purposes other than to provide goods or services at a profit
+cAbsence of ownership interests like those of business entities.
+Entities that clearly fall outside this definition include the following:
+aAll investor-owned entities
+bEntities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
+Option
+Unless otherwise stated, a call option that gives the holder the right to purchase shares of common stock from the reporting entity in accordance with an agreement upon payment of a specified amount. Options include, but are not limited to, options granted and stock purchase agreements entered into with grantees. Options are considered securities. See Call Option.
+Performance Condition
+A condition affecting the vesting, exercisability, exercise price, or other pertinent factors used in determining the fair value of an award that relates to both of the following:
+aRendering service or delivering goods for a specified (either explicitly or implicitly) period of time
+bAchieving a specified performance target that is defined solely by reference to the grantor's own operations (or activities) or by reference to the grantee's performance related to the grantor's own operations (or activities).
+Attaining a specified growth rate in return on assets, obtaining regulatory approval to market a specified product, selling shares in an initial public offering or other financing event, and a change in control are examples of performance conditions. A performance target also may be defined by reference to the same performance measure of another entity or group of entities. For example, attaining a growth rate in earnings per share (EPS) that exceeds the average growth rate in EPS of other entities in the same industry is a performance condition. A performance target might pertain to the performance of the entity as a whole or to some part of the entity, such as a division, or to the performance of the grantee if such performance is in accordance with the terms of the award and solely relates to the grantor's own operations (or activities).
+PENDING CONTENT
+Transition Date: December 16, 2026;  December 16, 2026Transition Guidance:606-10-65-2
+1For share-based payments in which a grantor acquires goods or services to be used or consumed in the grantor’s own operations, a condition affecting the vesting, exercisability, exercise price, or other pertinent factors used in determining the fair value of an award that relates to both of the following:
+aRendering service or delivering goods for a specified (either explicitly or implicitly) period of time
+bAchieving a specified performance target that is defined solely by reference to the grantor's own operations (or activities) or by reference to the grantee's performance related to the grantor's own operations (or activities).
+Attaining a specified growth rate in return on assets, obtaining regulatory approval to market a specified product, selling shares in an initial public offering or other financing event, and a change in control are examples of performance conditions. A performance target also may be defined by reference to the same performance measure of another entity or group of entities. For example, attaining a growth rate in earnings per share (EPS) that exceeds the average growth rate in EPS of other entities in the same industry is a performance condition. A performance target might pertain to the performance of the entity as a whole or to some part of the entity, such as a division, or to the performance of the grantee if such performance is in accordance with the terms of the award and solely relates to the grantor's own operations (or activities).
+2For share-based consideration payable to a customer that can result in a reduction of the transaction price in accordance with Topic 606, a condition affecting the vesting, exercisability, exercise price, or other pertinent factors used in determining the fair value of an award that relates to any of the following:
+aAchieving a specified performance target that is defined solely by reference to the grantor’s own operations (or activities) or by reference to the grantee’s (the customer’s) performance related to the grantor’s own operations (or activities)
+bThe grantee’s purchase (or potential purchase) of the grantor’s goods or services from either the grantor or the grantor’s customers
+cA purchase (or potential purchase) of the grantor’s goods or services from either the grantee or the grantee’s customers.
+The performance targets listed in this definition for employee and nonemployee awards (for example, a change in control) are also examples of performance conditions for share-based consideration payable to a customer.
+Probable
+The future event or events are likely to occur.
+Public Business Entity
+A public business entity is a business entity meeting any one of the criteria below. Neither a not-for-profit entity nor an employee benefit plan is a business entity.
+aIt is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing).
+bIt is required by the Securities Exchange Act of 1934 (the Act), as amended, or rules or regulations promulgated under the Act, to file or furnish financial statements with a regulatory agency other than the SEC.
+cIt is required to file or furnish financial statements with a foreign or domestic regulatory agency in preparation for the sale of or for purposes of issuing securities that are not subject to contractual restrictions on transfer.
+dIt has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market.
+eIt has one or more securities that are not subject to contractual restrictions on transfer, and it is required by law, contract, or regulation to prepare U.S. GAAP financial statements (including notes) and make them publicly available on a periodic basis (for example, interim or annual periods). An entity must meet both of these conditions to meet this criterion.
+An entity may meet the definition of a public business entity solely because its financial statements or financial information is included in another entity's filing with the SEC. In that case, the entity is only a public business entity for purposes of financial statements that are filed or furnished with the SEC.
+Public Entity
+An entity that meets any of the following criteria:
+aHas equity securities that trade in a public market, either on a stock exchange (domestic or foreign) or in an over-the-counter market, including securities quoted only locally or regionally
+bMakes a filing with a regulatory agency in preparation for the sale of any class of equity securities in a public market
+cIs controlled by an entity covered by the preceding criteria. That is, a subsidiary of a public entity is itself a public entity.
+An entity that has only debt securities trading in a public market (or that has made a filing with a regulatory agency in preparation to trade only debt securities) is not a public entity.
+Purchased Call Option
+A contract that allows the reporting entity to buy a specified quantity of its own stock from the writer of the contract at a fixed price for a given period. See Call Option.
+Related Parties
+Related parties include:
+aAffiliates of the entity
+bEntities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
+cTrusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
+dPrincipal owners of the entity and members of their immediate families
+eManagement of the entity and members of their immediate families
+fOther parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
+gOther parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
+Reload Feature and Reload Option
+A reload feature provides for automatic grants of additional options whenever a grantee exercises previously granted options using the entity's shares, rather than cash, to satisfy the exercise price. At the time of exercise using shares, the grantee is automatically granted a new option, called a reload option, for the shares used to exercise the previous option.
+Requisite Service Period
+The period or periods during which an employee is required to provide service in exchange for an award under a share-based payment arrangement. The service that an employee is required to render during that period is referred to as the requisite service. The requisite service period for an award that has only a service condition is presumed to be the vesting period, unless there is clear evidence to the contrary. If an award requires future service for vesting, the entity cannot define a prior period as the requisite service period. Requisite service periods may be explicit, implicit, or derived, depending on the terms of the share-based payment award.
+Restricted Share
+A share for which sale is contractually or governmentally prohibited for a specified period of time. Most grants of shares to grantees are better termed nonvested shares because the limitation on sale stems solely from the forfeitability of the shares before grantees have satisfied the service, performance, or other condition(s) necessary to earn the rights to the shares. Restricted shares issued for consideration other than for goods or services, on the other hand, are fully paid for immediately. For those shares, there is no period analogous to an employee's requisite service period or a nonemployee's vesting period during which the issuer is unilaterally obligated to issue shares when the purchaser pays for those shares, but the purchaser is not obligated to buy the shares. The term restricted shares refers only to fully vested and outstanding shares whose sale is contractually or governmentally prohibited for a specified period of time. Vested equity instruments that are transferable to a grantee's immediate family members or to a trust that benefits only those family members are restricted if the transferred instruments retain the same prohibition on sale to third parties. See Nonvested Shares.
+Restriction
+A contractual or governmental provision that prohibits sale (or substantive sale by using derivatives or other means to effectively terminate the risk of future changes in the share price) of an equity instrument for a specified period of time.
+Securities and Exchange Commission Registrant
+An entity (or an entity that is controlled by an entity) that meets any of the following criteria:
+aIt has issued or will issue debt or equity securities that are traded in a public market (a domestic or foreign stock exchange or an over-the-counter market, including local or regional markets).
+bIt is required to file financial statements with the Securities and Exchange Commission (SEC).
+cIt provides financial statements for the purpose of issuing any class of securities in a public market.
+Security
+A share, participation, or other interest in property or in an entity of the issuer or an obligation of the issuer that has all of the following characteristics:
+aIt is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
+bIt is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
+cIt either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
+Service Condition
+A condition affecting the vesting, exercisability, exercise price, or other pertinent factors used in determining the fair value of an award that depends solely on an employee rendering service to the employer for the requisite service period or a nonemployee delivering goods or rendering services to the grantor over a vesting period. A condition that results in the acceleration of vesting in the event of a grantee's death, disability, or termination without cause is a service condition.
+Service Inception Date
+The date at which the employee's requisite service period or the nonemployee's vesting period begins. The service inception date usually is the grant date, but the service inception date may differ from the grant date (see Example 6 [see paragraph 718-10-55-107] for an illustration of the application of this term to an employee award).
+Settlement of an Award
+An action or event that irrevocably extinguishes the issuing entity's obligation under a share-based payment award. Transactions and events that constitute settlements include the following:
+aExercise of a share option or lapse of an option at the end of its contractual term
+bVesting of shares
+cForfeiture of shares or share options due to failure to satisfy a vesting condition
+dAn entity's repurchase of instruments in exchange for assets or for fully vested and transferable equity instruments.
+The vesting of a share option is not a settlement because the entity remains obligated to issue shares upon exercise of the option.
+Share Option
+A contract that gives the holder the right, but not the obligation, either to purchase (to call) or to sell (to put) a certain number of shares at a predetermined price for a specified period of time.
+Share Unit
+A contract under which the holder has the right to convert each unit into a specified number of shares of the issuing entity.
+Share-Based Payment Arrangements
+An arrangement under which either of the following conditions is met:
+aOne or more suppliers of goods or services (including employees) receive awards of equity shares, equity share options, or other equity instruments.
+bThe entity incurs liabilities to suppliers that meet either of the following conditions:
+1The amounts are based, at least in part, on the price of the entity's shares or other equity instruments. (The phrase at least in part is used because an award may be indexed to both the price of the entity's shares and something other than either the price of the entity's shares or a market, performance, or service condition.)
+2The awards require or may require settlement by issuance of the entity's shares.
+The term shares includes various forms of ownership interest that may not take the legal form of securities (for example, partnership interests), as well as other interests, including those that are liabilities in substance but not in form. Equity shares refers only to shares that are accounted for as equity.
+Also called share-based compensation arrangements.
+Share-Based Payment Transactions
+A transaction under a share-based payment arrangement, including a transaction in which an entity acquires goods or services because related parties or other holders of economic interests in that entity awards a share-based payment to an employee or other supplier of goods or services for the entity's benefit. Also called share-based compensation transactions.
+Tandem Award
+An award with two or more components in which exercise of one part cancels the other(s).
+Terms of a Share-Based Payment Award
+The contractual provisions that determine the nature and scope of a share-based payment award. For example, the exercise price of share options is one of the terms of an award of share options. As indicated in paragraph 718-10-25-15, the written terms of a share-based payment award and its related arrangement, if any, usually provide the best evidence of its terms. However, an entity's past practice or other factors may indicate that some aspects of the substantive terms differ from the written terms. The substantive terms of a share-based payment award, as those terms are mutually understood by the entity and a party (either an employee or a nonemployee) who receives the award, provide the basis for determining the rights conveyed to a party and the obligations imposed on the issuer, regardless of how the award and related arrangement, if any, are structured. See paragraph 718-10-30-5.
+Time Value
+The portion of the fair value of an option that exceeds its intrinsic value. For example, a call option with an exercise price of $20 on a stock whose current market price is $25 has intrinsic value of $5. If the fair value of that option is $7, the time value of the option is $2 ($7 - $5).
+Vest
+To earn the rights to. A share-based payment award becomes vested at the date that the grantee's right to receive or retain shares, other instruments, or cash under the award is no longer contingent on satisfaction of either a service condition or a performance condition. Market conditions are not vesting conditions.
+The stated vesting provisions of an award often establish the employee's requisite service period or the nonemployee's vesting period, and an award that has reached the end of the applicable period is vested. However, as indicated in the definition of requisite service period and equally applicable to a nonemployee's vesting period, the stated vesting period may differ from those periods in certain circumstances. Thus, the more precise terms would be options, shares, or awards for which the requisite good has been delivered or service has been rendered and the end of the employee's requisite service period or the nonemployee's vesting period.
+Volatility
+A measure of the amount by which a financial variable such as a share price has fluctuated (historical volatility) or is expected to fluctuate (expected volatility) during a period. Volatility also may be defined as a probability-weighted measure of the dispersion of returns about the mean. The volatility of a share price is the standard deviation of the continuously compounded rates of return on the share over a specified period. That is the same as the standard deviation of the differences in the natural logarithms of the stock prices plus dividends, if any, over the period. The higher the volatility, the more the returns on the shares can be expected to vary—up or down. Volatility is typically expressed in annualized terms.
+
+25 Recognition
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+General
+718-10-25-1
+The guidance in this Section is organized as follows:
+aRecognition principle for share-based payment transactions
+bDetermining the grant date
+cDetermining whether to classify a financial instrument as a liability or as equity
+dMarket, performance, and service conditions
+eSubparagraph superseded by Accounting Standards Update No. 2012-04.
+fPayroll taxes.
+> Recognition Principle for Share-Based Payment Transactions
+718-10-25-2
+An entity shall recognize the goods acquired or services received in a share-based payment transaction when it obtains the goods or as services are received, as further described in paragraphs 718-10-25-2A through 25-2B. The entity shall recognize either a corresponding increase in equity or a liability, depending on whether the instruments granted satisfy the equity or liability classification criteria (see paragraphs 718-10-25-6 through 25-19A).
+718-10-25-2A
+Employee services themselves are not recognized before they are received. As the services are consumed, the entity shall recognize the related cost. For example, as services are consumed, the cost usually is recognized in determining net income of that period, for example, as expenses incurred for employee services. In some circumstances, the cost of services may be initially capitalized as part of the cost to acquire or construct another asset, such as inventory, and later recognized in the income statement when that asset is disposed of or consumed. This Topic refers to recognizing compensation cost rather than compensation expense because any compensation cost that is capitalized as part of the cost to acquire or construct an asset would not be recognized as compensation expense in the income statement.
+718-10-25-2B
+Transactions with nonemployees in which share-based payment awards are granted in exchange for the receipt of goods or services may involve a contemporaneous exchange of the share-based payment awards for goods or services or may involve an exchange that spans several financial reporting periods. Furthermore, by virtue of the terms of the exchange with the grantee, the quantity and terms of the share-based payment awards to be granted may be known or not known when the transaction arrangement is established because of specific conditions dictated by the agreement (for example, performance conditions). Judgment is required in determining the period over which to recognize cost, otherwise known as the nonemployee's vesting period.
+718-10-25-2C
+This guidance does not address the period(s) or the manner (that is, capitalize versus expense) in which an entity granting the share-based payment award (the purchaser or grantor) to a nonemployee shall recognize the cost of the share-based payment award that will be issued, other than to require that an asset or expense be recognized (or previous recognition reversed) in the same period(s) and in the same manner as if the grantor had paid cash for the goods or services instead of paying with or using the share-based payment award. A share-based payment award granted to a customer shall be reflected as a reduction of the transaction price and, therefore, of revenue as described in paragraph 606-10-32-25 unless the payment to the customer is in exchange for a distinct good or service, in which case the guidance in paragraph 606-10-32-26 shall apply.
+718-10-25-3
+The accounting for all share-based payment transactions shall reflect the rights conveyed to the holder of the instruments and the obligations imposed on the issuer of the instruments, regardless of how those transactions are structured. For example, the rights and obligations embodied in a transfer of equity shares for a note that provides no recourse to other assets of the grantee (that is, other than the shares) are substantially the same as those embodied in a grant of equity share options. Thus, that transaction shall be accounted for as a substantive grant of equity share options.
+718-10-25-4
+Assessment of both the rights and obligations in a share-based payment award and any related arrangement and how those rights and obligations affect the fair value of an award requires the exercise of judgment in considering the relevant facts and circumstances.
+> Determining the Grant Date
+718-10-25-5
+As a practical accommodation, in determining the grant date of an award subject to this Topic, assuming all other criteria in the grant date definition have been met, a mutual understanding of the key terms and conditions of an award to an individual grantee shall be presumed to exist at the date the award is approved in accordance with the relevant corporate governance requirements (that is, by the Board or management with the relevant authority) if both of the following conditions are met:
+aThe award is a unilateral grant and, therefore, the recipient does not have the ability to negotiate the key terms and conditions of the award with the grantor.
+bThe key terms and conditions of the award are expected to be communicated to an individual recipient within a relatively short time period from the date of approval. A relatively short time period is that period in which an entity could reasonably complete all actions necessary to communicate the awards to the recipients in accordance with the entity's customary practices.
+For additional guidance see paragraphs 718-10-55-80 through 55-83.
+> Determining Whether to Classify a Financial Instrument as a Liability or as Equity
+718-10-25-6
+This paragraph through paragraph 718-10-25-19A provide guidance for determining whether certain financial instruments awarded in share-based payment transactions are liabilities. In determining whether an instrument not specifically discussed in those paragraphs shall be classified as a liability or as equity, an entity shall apply generally accepted accounting principles (GAAP) applicable to financial instruments issued in transactions not involving share-based payment.
+718-10-25-7
+Topic 480 excludes from its scope instruments that are accounted for under this Topic. Nevertheless, unless paragraphs 718-10-25-8 through 25-19A require otherwise, an entity shall apply the classification criteria in Section 480-10-25 and paragraphs 480-10-15-3 through 15-4 in determining whether to classify as a liability a freestanding financial instrument given to a grantee in a share-based payment transaction. Paragraphs 718-10-35-9 through 35-14 provide criteria for determining when instruments subject to this Topic subsequently become subject to Topic 480 or to other applicable GAAP.
+718-10-25-8
+In determining the classification of an instrument, an entity shall take into account the classification requirements as established by Topic 480. In addition, a call option written on an instrument that is not classified as a liability under those classification requirements (for example, a call option on a mandatorily redeemable share for which liability classification is not required for the specific entity under the requirements) also shall be classified as equity so long as those equity classification requirements for the entity continue to be met, unless liability classification is required under the provisions of paragraphs 718-10-25-11 through 25-12.
+718-10-25-9
+Topic 480 does not apply to outstanding shares embodying a conditional obligation to transfer assets, for example, shares that give the grantee the right to require the grantor to repurchase them for cash equal to their fair value (puttable shares). A put right may be granted to the grantee in a transaction that is related to a share-based compensation arrangement. If exercise of such a put right would require the entity to repurchase shares issued under the share-based compensation arrangement, the shares shall be accounted for as puttable shares. A puttable (or callable) share awarded to a grantee as compensation shall be classified as a liability if either of the following conditions is met:
+aThe repurchase feature permits the grantee to avoid bearing the risks and rewards normally associated with equity share ownership for a reasonable period of time from the date the good is delivered or the service is rendered and the share is issued. A grantee begins to bear the risks and rewards normally associated with equity share ownership when all the goods are delivered or all the service has been rendered and the share is issued. A repurchase feature that can be exercised only upon the occurrence of a contingent event that is outside the grantee's control (such as an initial public offering) would not meet this condition until it becomes probable that the event will occur within the reasonable period of time.
+bIt is probable that the grantor would prevent the grantee from bearing those risks and rewards for a reasonable period of time from the date the share is issued.
+For this purpose, a period of six months or more is a reasonable period of time.
+718-10-25-10
+A puttable (or callable) share that does not meet either of those conditions shall be classified as equity (see paragraph 718-10-55-85).
+718-10-25-11
+Options or similar instruments on shares shall be classified as liabilities if either of the following conditions is met:
+aThe underlying shares are classified as liabilities.
+bThe entity can be required under any circumstances to settle the option or similar instrument by transferring cash or other assets. A cash settlement feature that can be exercised only upon the occurrence of a contingent event that is outside the grantee's control (such as an initial public offering) would not meet this condition until it becomes probable that event will occur.
+718-10-25-12
+For example, a Securities and Exchange Commission (SEC) registrant may grant an option to a grantee that, upon exercise, would be settled by issuing a mandatorily redeemable share. Because the mandatorily redeemable share would be classified as a liability under Topic 480, the option also would be classified as a liability.
+718-10-25-13
+An award may be indexed to a factor in addition to the entity's share price. If that additional factor is not a market, performance, or service condition, the award shall be classified as a liability for purposes of this Topic, and the additional factor shall be reflected in estimating the fair value of the award. Paragraph 718-10-55-65 provides examples of such awards.
+718-10-25-14
+For this purpose, an award of equity share options granted to a grantee of an entity's foreign operation that provides for a fixed exercise price denominated either in the foreign operation's functional currency or in the currency in which the foreign operation's employee's pay is denominated shall not be considered to contain a condition that is not a market, performance, or service condition. Therefore, such an award is not required to be classified as a liability if it otherwise qualifies as equity. For example, equity share options with an exercise price denominated in euros granted to employees or nonemployees of a U.S. entity's foreign operation whose functional currency is the euro are not required to be classified as liabilities if those options otherwise qualify as equity. In addition, options granted to employees and nonemployees are not required to be classified as liabilities even if the functional currency of the foreign operation is the U.S. dollar, provided that the foreign operation's employees are paid in euros.
+718-10-25-14A
+For purposes of applying paragraph 718-10-25-13, a share-based payment award with an exercise price denominated in the currency of a market in which a substantial portion of the entity's equity securities trades shall not be considered to contain a condition that is not a market, performance, or service condition. Therefore, in accordance with that paragraph, such an award shall not be classified as a liability if it otherwise qualifies for equity classification. For example, a parent entity whose functional currency is the Canadian dollar grants equity share options with an exercise price denominated in U.S. dollars to grantees of a Canadian entity with the functional and payroll currency of the Canadian dollar. If a substantial portion of the parent entity's equity securities trades on a U.S. dollar denominated exchange, the options are not precluded from equity classification.
+718-10-25-15
+The accounting for an award of share-based payment shall reflect the substantive terms of the award and any related arrangement. Generally, the written terms provide the best evidence of the substantive terms of an award. However, an entity's past practice may indicate that the substantive terms of an award differ from its written terms. For example, an entity that grants a tandem award under which a grantee receives either a stock option or a cash-settled stock appreciation right is obligated to pay cash on demand if the choice is the grantee's, and the entity thus incurs a liability to the grantee. In contrast, if the choice is the entity's, it can avoid transferring its assets by choosing to settle in stock, and the award qualifies as an equity instrument. However, if an entity that nominally has the choice of settling awards by issuing stock predominantly settles in cash or if the entity usually settles in cash whenever a grantee asks for cash settlement, the entity is settling a substantive liability rather than repurchasing an equity instrument. In determining whether an entity that has the choice of settling an award by issuing equity shares has a substantive liability, the entity also shall consider whether:
+aIt has the ability to deliver the shares. (Requirements to deliver registered shares do not, by themselves, imply that an entity does not have the ability to deliver shares and thus do not require an award that otherwise qualifies as equity to be classified as a liability.)
+bIt is required to pay cash if a contingent event occurs (see paragraphs 718-10-25-11 through 25-12).
+718-10-25-16
+A provision that permits grantees to effect a broker-assisted cashless exercise of part or all of an award of share options through a broker does not result in liability classification for instruments that otherwise would be classified as equity if both of the following criteria are satisfied:
+aThe cashless exercise requires a valid exercise of the share options.
+bThe grantee is the legal owner of the shares subject to the option (even though the grantee has not paid the exercise price before the sale of the shares subject to the option).
+718-10-25-17
+A broker that is a related party of the entity must sell the shares in the open market within a normal settlement period, which generally is three days, for the award to qualify as equity.
+718-10-25-18
+Similarly, a provision for either direct or indirect (through a net-settlement feature) repurchase of shares issued upon exercise of options (or the vesting of nonvested shares), with any payment due employees withheld to meet the employer's statutory withholding requirements resulting from the exercise, does not, by itself, result in liability classification of instruments that otherwise would be classified as equity. However, if the amount that is withheld, or may be withheld at the employee's discretion, is in excess of the maximum statutory tax rates in the employees' applicable jurisdictions, the entire award shall be classified and accounted for as a liability. That is, to qualify for equity classification, the employer must have a statutory obligation to withhold taxes on the employee's behalf, and the amount withheld cannot exceed the maximum statutory tax rates in the employees' applicable jurisdictions. The maximum statutory tax rates are based on the applicable rates of the relevant tax authorities (for example, federal, state, and local), including the employee's share of payroll or similar taxes, as provided in tax law, regulations, or the authority's administrative practices, not to exceed the highest statutory rate in that jurisdiction, even if that rate exceeds the highest rate that may be applicable to the specific award grantee.
+718-10-25-19
+Paragraph superseded by Accounting Standards Update No. 2016-09.
+718-10-25-19A
+Paragraph 230-10-45-15 provides guidance on the classification on the statement of cash flows for cash paid to a tax authority by an employer when withholding shares from an employee's award for tax-withholding purposes.
+> Market, Performance, and Service Conditions
+718-10-25-20
+Accruals of compensation cost for an award with a performance condition shall be based on the probable outcome of that performance condition—compensation cost shall be accrued if it is probable that the performance condition will be achieved and shall not be accrued if it is not probable that the performance condition will be achieved. If an award has multiple performance conditions (for example, if the number of options or shares a grantee earns varies depending on which, if any, of two or more performance conditions is satisfied), compensation cost shall be accrued if it is probable that a performance condition will be satisfied. In making that assessment, it may be necessary to take into account the interrelationship of those performance conditions. Example 2 (see paragraph 718-20-55-35) provides an illustration of how to account for awards with multiple performance conditions.
+718-10-25-21
+If an award requires satisfaction of one or more market, performance, or service conditions (or any combination thereof), compensation cost shall be recognized if the good is delivered or the service is rendered, and no compensation cost shall be recognized if the good is not delivered or the service is not rendered. Paragraphs 718-10-55-60 through 55-63 provide guidance on applying this provision to awards with market, performance, or service conditions (or any combination thereof).
+> Payroll Taxes
+718-10-25-22
+A liability for employee payroll taxes on employee stock compensation shall be recognized on the date of the event triggering the measurement and payment of the tax to the taxing authority (for a nonqualified option in the United States, generally the exercise date).
+718-10-25-23
+Payroll taxes, even though directly related to the appreciation on stock options, are operating expenses and shall be reflected as such in the statement of operations.
+
+30 Initial Measurement
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+General
+718-10-30-1
+While some of the material in this Section was written in terms of awards classified as equity, it applies equally to awards classified as liabilities.
+> Fair-Value-Based
+718-10-30-2
+A share-based payment transaction shall be measured based on the fair value (or in certain situations specified in this Topic, a calculated value or intrinsic value) of the equity instruments issued.
+718-10-30-3
+An entity shall account for the compensation cost from share-based payment transactions in accordance with the fair-value-based method set forth in this Topic. That is, the cost of goods obtained or services received in exchange for awards of share-based compensation generally shall be measured based on the grant-date fair value of the equity instruments issued or on the fair value of the liabilities incurred. The cost of goods obtained or services received by an entity as consideration for equity instruments issued or liabilities incurred in share-based compensation transactions shall be measured based on the fair value of the equity instruments issued or the liabilities settled. The portion of the fair value of an instrument attributed to goods obtained or services received is net of any amount that a grantee pays (or becomes obligated to pay) for that instrument when it is granted. For example, if a grantee pays $5 at the grant date for an option with a grant-date fair value of $50, the amount attributed to goods or services provided by the grantee is $45. An entity shall apply the guidance in paragraph 606-10-32-26 when determining the portion of the fair value of an equity instrument attributed to goods obtained or services received from a customer. 
+718-10-30-4
+However, this Topic provides certain exceptions (see paragraph 718-10-30-21) to that measurement method if it is not possible to reasonably estimate the fair value of an award at the grant date. A nonpublic entity also may choose to measure its liabilities under share-based payment arrangements at intrinsic value (see paragraphs 718-10-30-20 and 718-30-30-2).
+· > Terms of the Award Affect Fair Value
+718-10-30-5
+The terms of a share-based payment award and any related arrangement affect its value and, except for certain explicitly excluded features, such as a reload feature, shall be reflected in determining the fair value of the equity or liability instruments granted. For example, the fair value of a substantive option structured as the exchange of equity shares for a nonrecourse note will differ depending on whether the grantee is required to pay nonrefundable interest on the note.
+> Measurement Objective—Fair Value at Grant Date
+718-10-30-6
+The measurement objective for equity instruments awarded to grantees is to estimate the fair value at the grant date of the equity instruments that the entity is obligated to issue when grantees have delivered the good or rendered the service and satisfied any other conditions necessary to earn the right to benefit from the instruments (for example, to exercise share options). That estimate is based on the share price and other pertinent factors, such as expected volatility, at the grant date.
+718-10-30-7
+The fair value of an equity share option or similar instrument shall be measured based on the observable market price of an option with the same or similar terms and conditions, if one is available (see paragraph 718-10-55-10).
+718-10-30-8
+Such market prices for equity share options and similar instruments granted in share-based payment transactions are frequently not available; however, they may become so in the future.
+718-10-30-9
+As such, the fair value of an equity share option or similar instrument shall be estimated using a valuation technique such as an option-pricing model. For this purpose, a similar instrument is one whose fair value differs from its intrinsic value, that is, an instrument that has time value. For example, a share appreciation right that requires net settlement in equity shares has time value; an equity share does not. Paragraphs 718-10-55-4 through 55-47 provide additional guidance on estimating the fair value of equity instruments, including the factors to be taken into account in estimating the fair value of equity share options or similar instruments as described in paragraphs 718-10-55-21 through 55-22.
+> Factors or Restrictions That Impact the Determination of Fair Value at Grant Date
+· > Vesting versus Nontransferability
+718-10-30-10
+To satisfy the measurement objective in paragraph 718-10-30-6, the restrictions and conditions inherent in equity instruments awarded are treated differently depending on whether they continue in effect after the requisite service period or the nonemployee's vesting period. A restriction that continues in effect after an entity has issued awards, such as the inability to transfer vested equity share options to third parties or the inability to sell vested shares for a period of time, is considered in estimating the fair value of the instruments at the grant date. For equity share options and similar instruments, the effect of nontransferability (and nonhedgeability, which has a similar effect) is taken into account by reflecting the effects of grantees' expected exercise and postvesting termination behavior in estimating fair value (referred to as an option's expected term).
+718-10-30-10A
+On an award-by-award basis, an entity may elect to use the contractual term as the expected term when estimating the fair value of a nonemployee award to satisfy the measurement objective in paragraph 718-10-30-6. Otherwise, an entity shall apply the guidance in this Topic in estimating the expected term of a nonemployee award, which may result in a term less than the contractual term of the award.
+718-10-30-10B
+When a nonpublic entity chooses to measure a nonemployee share-based payment award by estimating its expected term and applies the practical expedient in paragraph 718-10-30-20A, it must apply the practical expedient to all nonemployee awards that meet the conditions in paragraph 718-10-30-20B. However, a nonpublic entity may still elect, on an award-by-award basis, to use the contractual term as the expected term as described in paragraph 718-10-30-10A.
+· > Forfeitability
+718-10-30-11
+A restriction that stems from the forfeitability of instruments to which grantees have not yet earned the right, such as the inability either to exercise a nonvested equity share option or to sell nonvested shares, is not reflected in estimating the fair value of the related instruments at the grant date. Instead, those restrictions are taken into account by recognizing compensation cost only for awards for which grantees deliver the good or render the service.
+· > Performance or Service Conditions
+718-10-30-12
+Awards of share-based compensation ordinarily specify a performance condition or a service condition (or both) that must be satisfied for a grantee to earn the right to benefit from the award. No compensation cost is recognized for instruments forfeited because a service condition or a performance condition is not satisfied (for example, instruments for which the good is not delivered or the service is not rendered). Examples 1 through 2 (see paragraphs 718-20-55-4 through 55-40) and Example 1 (see paragraph 718-30-55-1) provide illustrations of how compensation cost is recognized for awards with service and performance conditions.
+718-10-30-13
+The fair-value-based method described in paragraphs 718-10-30-6 and 718-10-30-10 through 30-14 uses fair value measurement techniques, and the grant-date share price and other pertinent factors are used in applying those techniques. However, the effects on the grant-date fair value of service and performance conditions that apply only during the employee's requisite service period or a nonemployee's vesting period are reflected based on the outcomes of those conditions. This Topic refers to the required measure as fair value.
+· > Market Conditions
+718-10-30-14
+Some awards contain a market condition. The effect of a market condition is reflected in the grant-date fair value of an award. (Valuation techniques have been developed to value path-dependent options as well as other options with complex terms. Awards with market conditions, as defined in this Topic, are path-dependent options.) Compensation cost thus is recognized for an award with a market condition provided that the good is delivered or the service is rendered, regardless of when, if ever, the market condition is satisfied.
+· > Market, Performance, and Service Conditions That Affect Factors Other Than Vesting or Exercisability
+718-10-30-15
+Market, performance, and service conditions (or any combination thereof) may affect an award's exercise price, contractual term, quantity, conversion ratio, or other factors that are considered in measuring an award's grant-date fair value. A grant-date fair value shall be estimated for each possible outcome of such a performance or service condition, and the final measure of compensation cost shall be based on the amount estimated at the grant date for the condition or outcome that is actually satisfied. Paragraphs 718-10-55-64 through 55-66 provide additional guidance on the effects of market, performance, and service conditions that affect factors other than vesting or exercisability. Examples 2 (see paragraph 718-20-55-35); 3 (see paragraph 718-20-55-41); 4 (see paragraph 718-20-55-47); 5 (see paragraph 718-20-55-51); and 7 (see paragraph 718-20-55-68) provide illustrations of accounting for awards with such conditions.
+718-10-30-16
+Paragraph not used.
+· > Nonvested or Restricted Shares
+718-10-30-17
+A nonvested equity share or nonvested equity share unit shall be measured at its fair value as if it were vested and issued on the grant date.
+718-10-30-18
+Nonvested shares granted in share-based payment transactions usually are referred to as restricted shares, but this Topic reserves that term for fully vested and outstanding shares whose sale is contractually or governmentally prohibited for a specified period of time.
+718-10-30-19
+A restricted share awarded to a grantee, that is, a share that will be restricted after the grantee has a vested right to it, shall be measured at its fair value, which is the same amount for which a similarly restricted share would be issued to third parties. Example 8 (see paragraph 718-20-55-71) provides an illustration of accounting for an award of nonvested shares to employees.
+> Nonpublic Entity—Calculated Value for Nonemployee Awards
+718-10-30-19A
+Similar to employee equity share options and similar instruments, a nonpublic entity may not be able to reasonably estimate the fair value of nonemployee awards because it is not practicable for the nonpublic entity to estimate the expected volatility of its share price. In that situation, the nonpublic entity shall account for nonemployee equity share options and similar instruments on the basis of a value calculated using the historical volatility of an appropriate industry sector index instead of the expected volatility of the nonpublic entity's share price (the calculated value) in accordance with paragraph 718-10-30-20. A nonpublic entity's use of calculated value shall be consistent between employee share-based payment transactions and nonemployee share-based payment transactions.
+> Nonpublic Entity—Calculated Value
+718-10-30-20
+A nonpublic entity may not be able to reasonably estimate the fair value of its equity share options and similar instruments because it is not practicable for it to estimate the expected volatility of its share price. In that situation, the entity shall account for its equity share options and similar instruments based on a value calculated using the historical volatility of an appropriate industry sector index instead of the expected volatility of the entity's share price (the calculated value). Throughout the remainder of this Topic, provisions that apply to accounting for share options and similar instruments at fair value also apply to calculated value. Paragraphs 718-10-55-51 through 55-58 and Example 9 (see paragraph 718-20-55-76) provide additional guidance on applying the calculated value method to equity share options and similar instruments granted by a nonpublic entity.
+> Nonpublic Entity—Practical Expedient for Expected Term
+718-10-30-20A
+For an award that meets the conditions in paragraph 718-10-30-20B, a nonpublic entity may make an entity-wide accounting policy election to estimate the expected term using the following practical expedient:
+aIf vesting is only dependent upon a service condition, a nonpublic entity shall estimate the expected term as the midpoint between the employee's requisite service period or the nonemployee's vesting period and the contractual term of the award.
+bIf vesting is dependent upon satisfying a performance condition, a nonpublic entity first would determine whether the performance condition is probable of being achieved.
+1If the nonpublic entity concludes that the performance condition is probable of being achieved, the nonpublic entity shall estimate the expected term as the midpoint between the employee's requisite service period (a nonpublic entity shall consider the guidance in paragraphs 718-10-55-69 through 55-79 when determining the requisite service period of the award) or the nonemployee's vesting period and the contractual term.
+2If the nonpublic entity concludes that the performance condition is not probable of being achieved, the nonpublic entity shall estimate the expected term as either:
+iThe contractual term if the service period is implied (that is, the requisite service period or the nonemployee's vesting period is not explicitly stated but inferred based on the achievement of the performance condition at some undetermined point in the future)
+iiThe midpoint between the employee's requisite service period or the nonemployee's vesting period and the contractual term if the requisite service period is stated explicitly.
+Paragraph 718-10-55-50A provides implementation guidance on the practical expedient.
+718-10-30-20B
+A nonpublic entity that elects to apply the practical expedient in paragraph 718-10-30-20A shall apply the practical expedient to a share option or similar award that has all of the following characteristics:
+aThe share option or similar award is granted at the money.
+bThe grantee has only a limited time to exercise the award (typically 30-90 days) if the grantee no longer provides goods, terminates service after vesting, or ceases to be a customer.
+cThe grantee can only exercise the award. The grantee cannot sell or hedge the award.
+dThe award does not include a market condition.
+A nonpublic entity that elects to apply the practical expedient in paragraph 718-10-30-20A may always elect to use the contractual term as the expected term when estimating the fair value of a nonemployee award as described in paragraph 718-10-30-10A. However, a nonpublic entity must apply the practical expedient in paragraph 718-10-30-20A for all nonemployee awards that have all the characteristics listed in this paragraph if that nonpublic entity does not elect to use the contractual term as the expected term and that nonpublic entity elects the accounting policy election to apply the practical expedient in paragraph 718-10-30-20A.
+> Nonpublic Entity—Practical Expedient for Current Price
+718-10-30-20C
+As a practical expedient, a nonpublic entity may use a value determined by the reasonable application of a reasonable valuation method as the current price of its underlying share for purposes of determining the fair value of an award that is classified as equity in accordance with paragraphs 718-10-25-6 through 25-18 at grant date or upon a modification. This practical expedient may not be used for awards classified as liabilities in accordance with paragraphs 718-10-25-6 through 25-18.
+718-10-30-20D
+The determination of whether a valuation method is reasonable, or whether an application of a valuation method is reasonable, shall be made based on the facts and circumstances as of the measurement date. Factors to be considered under a reasonable valuation method include, as applicable:
+aThe value of tangible and intangible assets of the nonpublic entity
+bThe present value of anticipated future cash flows of the nonpublic entity
+cThe market value of stock or equity interests in similar corporations and other entities engaged in trades or businesses substantially similar to those engaged in by the nonpublic entity for which the stock is to be valued, the value of which can be readily determined through nondiscretionary, objective means (such as through trading prices on an established securities market or an amount paid in an arm's-length private transaction)
+dRecent arm's-length transactions involving the sale or transfer of stock or equity interests of the nonpublic entity
+eOther relevant factors such as control premiums or discounts for lack of marketability and whether the valuation method is used for other purposes that have a material economic effect on the nonpublic entity, its stockholders, or its creditors
+fThe nonpublic entity's consistent use of a valuation method to determine the value of its stock or assets for other purposes, including for purposes unrelated to compensation of service providers.
+718-10-30-20E
+The use of a valuation method is not reasonable if that valuation method does not take into consideration when applying its methodology all available information material to the value of the nonpublic entity.
+718-10-30-20F
+The use of a value previously calculated under a valuation method is not reasonable as of a later date if either of the following conditions is met:
+aThe calculation fails to reflect information available after the date of the calculation that may materially affect the value of the nonpublic entity (for example, the resolution of material litigation or the issuance of a patent).
+bThe value was calculated with respect to a date that is more than 12 months earlier than the date for which the valuation is being used.
+718-10-30-20G
+A valuation performed in accordance with Treasury Regulation Section 1.409A-1(b)(5)(iv)(B) having the characteristics described in paragraphs 718-10-30-20D through 30-20F is an example of a valuation that is reasonable under the practical expedient in those paragraphs.
+718-10-30-20H
+A nonpublic entity that elects the practical expedient in paragraphs 718-10-30-20C through 30-20F shall do so on a measurement-date-by-measurement-date basis. That is, the practical expedient shall be applied to all share-based awards within the scope of the practical expedient having the same underlying share and the same measurement date.
+> Difficulty of Estimation
+718-10-30-21
+It should be possible to reasonably estimate the fair value of most equity share options and other equity instruments at the date they are granted. Section 718-10-55 illustrates techniques for estimating the fair values of several instruments with complicated features. However, in rare circumstances, it may not be possible to reasonably estimate the fair value of an equity share option or other equity instrument at the grant date because of the complexity of its terms.
+· > Intrinsic Value Method
+718-10-30-22
+An equity instrument for which it is not possible to reasonably estimate fair value at the grant date shall be accounted for based on its intrinsic value (see paragraph 718-20-35-1 for measurement after issue date).
+> Reload and Contingent Features
+718-10-30-23
+The fair value of each award of equity instruments, including an award of options with a reload feature (reload options), shall be measured separately based on its terms and the share price and other pertinent factors at the grant date. The effect of a reload feature in the terms of an award shall not be included in estimating the grant-date fair value of the award. Rather, a subsequent grant of reload options pursuant to that provision shall be accounted for as a separate award when the reload options are granted.
+718-10-30-24
+A contingent feature of an award that might cause a grantee to return to the entity either equity instruments earned or realized gains from the sale of equity instruments earned for consideration that is less than fair value on the date of transfer (including no consideration), such as a clawback feature (see paragraph 718-10-55-8), shall not be reflected in estimating the grant-date fair value of an equity instrument.
+> Requisite Service Period
+718-10-30-25
+An entity shall make its initial best estimate of the requisite service period at the grant date (or at the service inception date, if that date precedes the grant date) and shall base accruals of compensation cost on that period.
+718-10-30-26
+The initial best estimate and any subsequent adjustment to that estimate of the requisite service period for an award with a combination of market, performance, or service conditions shall be based on an analysis of all of the following:
+aAll vesting and exercisability conditions
+bAll explicit, implicit, and derived service periods
+cThe probability that performance or service conditions will be satisfied.
+> Market, Performance, and Service Conditions
+718-10-30-27
+Performance or service conditions that affect vesting are not reflected in estimating the fair value of an award at the grant date because those conditions are restrictions that stem from the forfeitability of instruments to which grantees have not yet earned the right. However, the effect of a market condition is reflected in estimating the fair value of an award at the grant date (see paragraph 718-10-30-14). For purposes of this Topic, a market condition is not considered to be a vesting condition, and an award is not deemed to be forfeited solely because a market condition is not satisfied.
+718-10-30-28
+In some cases, the terms of an award may provide that a performance target that affects vesting could be achieved after an employee completes the requisite service period or a nonemployee satisfies a vesting period. That is, the grantee would be eligible to vest in the award regardless of whether the grantee is rendering service or delivering goods on the date the performance target is achieved. A performance target that affects vesting and that could be achieved after an employee's requisite service period or a nonemployee's vesting period shall be accounted for as a performance condition. As such, the performance target shall not be reflected in estimating the fair value of the award at the grant date. Compensation cost shall be recognized in the period in which it becomes probable that the performance target will be achieved and should represent the compensation cost attributable to the period(s) for which the service or goods already have been provided. If the performance target becomes probable of being achieved before the end of the employee's requisite service period or the nonemployee's vesting period, the remaining unrecognized compensation cost for which service or goods have not yet been provided shall be recognized prospectively over the remaining employee's requisite service period or the nonemployee's vesting period. The total amount of compensation cost recognized during and after the employee's requisite service period or the nonemployee's vesting period shall reflect the number of awards that are expected to vest based on the performance target and shall be adjusted to reflect those awards that ultimately vest. An entity that has an accounting policy to account for forfeitures when they occur in accordance with paragraph 718-10-35-1D or 718-10-35-3 shall reverse compensation cost previously recognized, in the period the award is forfeited, for an award that is forfeited before completion of the employee's requisite service period or the nonemployee's vesting period. The employee's requisite service period and the nonemployee's vesting period end when the grantee can cease rendering service or delivering goods and still be eligible to vest in the award if the performance target is achieved. As indicated in the definition of vest, the stated vesting period (which includes the period in which the performance target could be achieved) may differ from the employee's requisite service period or the nonemployee's vesting period.
+
+35 Subsequent Measurement
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+General
+718-10-35-1
+This Subtopic is interrelated with Subtopics 718-20 and 718-30. Material that equally applies to both liabilities and equity is generally found in this Subtopic. However, material may have been placed in one of the other Subtopics.
+> Recognition of Nonemployee Compensation Costs
+718-10-35-1A
+A grantor shall recognize the goods acquired or services received in a share-based payment transaction with nonemployees when it obtains the goods or as services are received. A grantor may need to recognize an asset before it actually receives goods or services if it first exchanges a share-based payment for an enforceable right to receive those goods or services. Nevertheless, the goods or services themselves are not recognized before they are received.
+718-10-35-1B
+If fully vested, nonforfeitable equity instruments are granted at the date the grantor and nonemployee enter into an agreement for goods or services (no specific performance is required by the nonemployee to retain those equity instruments), then, because of the elimination of any obligation on the part of the nonemployee to earn the equity instruments, a grantor shall recognize the equity instruments when they are granted (in most cases, when the agreement is entered into). Whether the corresponding cost is an immediate expense or a prepaid asset (or whether the debit should be characterized as contra-equity under the requirements of paragraph 718-10-45-3) depends on the specific facts and circumstances.
+718-10-35-1C
+An entity may grant fully vested, nonforfeitable equity instruments that are exercisable by the nonemployee only after a specified period of time if the terms of the agreement provide for earlier exercisability if the nonemployee achieves specified performance conditions. Any measured cost of the transaction shall be recognized in the same period(s) and in the same manner as if the entity had paid cash for the goods or services instead of paying with, or using, the share-based payment awards.
+718-10-35-1D
+The total amount of compensation cost recognized for share-based payment awards to nonemployees shall be based on the number of instruments for which a good has been delivered or a service has been rendered. To determine the amount of compensation cost to be recognized in each period, an entity shall make an entity-wide accounting policy election for all nonemployee share-based payment awards, including share-based payment awards granted to customers, to do either of the following:
+aEstimate the number of forfeitures expected to occur. The entity shall base initial accruals of compensation cost on the estimated number of nonemployee share-based payment awards for which a good is expected to be delivered or a service is expected to be rendered. The entity shall revise that estimate if subsequent information indicates that the actual number of instruments is likely to differ from previous estimates. The cumulative effect on current and prior periods of a change in the estimates shall be recognized in compensation cost in the period of the change.
+bRecognize the effect of forfeitures in compensation cost when they occur. Previously recognized compensation cost for a nonemployee share-based payment award shall be reversed in the period that the award is forfeited.
+PENDING CONTENT
+Transition Date: December 16, 2026;  December 16, 2026Transition Guidance:606-10-65-2
+The total amount of compensation cost recognized for share-based payment awards to nonemployees shall be based on the number of instruments for which a good has been delivered or a service has been rendered. To determine the amount of compensation cost to be recognized in each period, an entity shall make an entity-wide accounting policy election for nonemployee share-based payment awards, including share-based payment awards granted to customers in exchange for a distinct good or service, to do either of the following:
+aEstimate the number of forfeitures expected to occur. The entity shall base initial accruals of compensation cost on the estimated number of nonemployee share-based payment awards for which a good is expected to be delivered or a service is expected to be rendered. The entity shall revise that estimate if subsequent information indicates that the actual number of instruments is likely to differ from previous estimates. The cumulative effect on current and prior periods of a change in the estimates shall be recognized in compensation cost in the period of the change.
+bRecognize the effect of forfeitures in compensation cost when they occur. Previously recognized compensation cost for a nonemployee share-based payment award shall be reversed in the period that the award is forfeited.
+For share-based consideration payable to a customer that is not in exchange for a distinct good or service (or that is in exchange for a distinct good or service and can result in a reduction of the transaction price in accordance with paragraph 606-10-32-26), a grantor shall estimate the number of forfeitures expected to occur in accordance with paragraph 718-10-35-1D(a). If share-based consideration payable to a customer is a payment for a distinct good or service from the customer and the grantor accounts for any portion of the share-based consideration as a reduction of the transaction price in accordance with paragraph 606-10-32-26, the grantor shall estimate the number of forfeitures expected to occur for the entire award (including the portion that is not accounted for as a reduction of the transaction price).
+718-10-35-1E
+A recognized asset or expense shall not be reversed if a stock option that the nonemployee has the right to exercise expires unexercised.
+718-10-35-1F
+A grantor shall recognize either a corresponding increase in equity or a liability, depending on whether the instruments granted satisfy the equity or liability classification criteria established in paragraphs 718-10-25-6 through 25-19A. As the goods or services are disposed of or consumed, the grantor shall recognize the related cost. For example, when inventory is sold, the cost is recognized in the income statement as cost of goods sold, and as services are consumed, the cost usually is recognized in determining net income of that period, for example, as expenses incurred for services. In some circumstances, the cost of services (or goods) may be initially capitalized as part of the cost to acquire or construct another asset, such as inventory, and later recognized in the income statement when that asset is disposed of or consumed.
+> Recognition of Employee Compensation Costs over the Requisite Service Period
+718-10-35-2
+The compensation cost for an award of share-based employee compensation classified as equity shall be recognized over the requisite service period, with a corresponding credit to equity (generally, paid-in capital). The requisite service period is the period during which an employee is required to provide service in exchange for an award, which often is the vesting period. The requisite service period is estimated based on an analysis of the terms of the share-based payment award.
+718-10-35-3
+The total amount of compensation cost recognized at the end of the requisite service period for an award of share-based compensation shall be based on the number of instruments for which the requisite service has been rendered (that is, for which the requisite service period has been completed). Previously recognized compensation cost shall not be reversed if an employee share option (or share unit) for which the requisite service has been rendered expires unexercised (or unconverted). To determine the amount of compensation cost to be recognized in each period, an entity shall make an entity-wide accounting policy election for all employee share-based payment awards to do either of the following:
+aEstimate the number of awards for which the requisite service will not be rendered (that is, estimate the number of forfeitures expected to occur). The entity shall base initial accruals of compensation cost on the estimated number of instruments for which the requisite service is expected to be rendered. The entity shall revise that estimate if subsequent information indicates that the actual number of instruments is likely to differ from previous estimates. The cumulative effect on current and prior periods of a change in the estimated number of instruments for which the requisite service is expected to be or has been rendered shall be recognized in compensation cost in the period of the change.
+bRecognize the effect of awards for which the requisite service is not rendered when the award is forfeited (that is, recognize the effect of forfeitures in compensation cost when they occur). Previously recognized compensation cost for an award shall be reversed in the period that the award is forfeited.
+718-10-35-4
+An entity shall reverse previously recognized compensation cost for an award with a market condition only if the requisite service is not rendered.
+> Estimating the Requisite Service Period for Employee Awards
+718-10-35-5
+The requisite service period for employee awards may be explicit or it may be implicit, being inferred from an analysis of other terms in the award, including other explicit service or performance conditions. The requisite service period for an award that contains a market condition can be derived from certain valuation techniques that may be used to estimate grant-date fair value (see paragraph 718-10-55-71). An award may have one or more explicit, implicit, or derived service periods; however, an award may have only one requisite service period for accounting purposes unless it is accounted for as in-substance multiple awards. An award with a graded vesting schedule that is accounted for as in-substance multiple awards is an example of an award that has more than one requisite service period (see paragraph 718-10-35-8). Paragraphs 718-10-55-69 through 55-79 and 718-10-55-93 through 55-106 provide guidance on estimating the requisite service period and provide examples of how that period shall be estimated if an award's terms include more than one explicit, implicit, or derived service period.
+718-10-35-6
+The service inception date is the beginning of the requisite service period. If the service inception date precedes the grant date (see paragraph 718-10-55-108), accrual of compensation cost for periods before the grant date shall be based on the fair value of the award at the reporting date. In the period in which the grant date occurs, cumulative compensation cost shall be adjusted to reflect the cumulative effect of measuring compensation cost based on fair value at the grant date rather than the fair value previously used at the service inception date (or any subsequent reporting date). Example 6 (see paragraph 718-10-55-107) illustrates the concept of service inception date and how it is to be applied.
+718-10-35-7
+An entity shall adjust that initial best estimate in light of changes in facts and circumstances. Whether and how the initial best estimate of the requisite service period is adjusted depends on both the nature of the conditions identified in paragraph 718-10-30-26 and the manner in which they are combined, for example, whether an award vests or becomes exercisable when either a market or a performance condition is satisfied or whether both conditions must be satisfied. Paragraphs 718-10-55-69 through 55-79 provide guidance on adjusting the initial estimate of the requisite service period.
+> Graded Vesting Employee Awards
+718-10-35-8
+An entity shall make a policy decision about whether to recognize compensation cost for an employee award with only service conditions that has a graded vesting schedule in either of the following ways:
+aOn a straight-line basis over the requisite service period for each separately vesting portion of the award as if the award was, in-substance, multiple awards
+bOn a straight-line basis over the requisite service period for the entire award (that is, over the requisite service period of the last separately vesting portion of the award).
+However, the amount of compensation cost recognized at any date must at least equal the portion of the grant-date value of the award that is vested at that date. Example 1, Case B (see paragraph 718-20-55-25) provides an illustration of the accounting for an award with a graded vesting schedule.
+> Awards May Become Subject to Other Guidance
+718-10-35-9
+Paragraphs 718-10-35-10 through 35-14 are intended to apply to those instruments issued in share-based payment transactions with employees and nonemployees accounted for under this Topic, and to instruments exchanged in a business combination for share-based payment awards of the acquired business that were originally granted to grantees of the acquired business and are outstanding as of the date of the business combination.
+718-10-35-9A
+Paragraph superseded by Accounting Standards Update No. 2020-06.
+718-10-35-10
+A freestanding financial instrumentor a convertible securityissued to a grantee that is subject to initial recognition and measurement guidance within this Topic shall continue to be subject to the recognition and measurement provisions of this Topic throughout the life of the instrument, unless its terms are modified after any of the following:
+aSubparagraph superseded by Accounting Standards Update No. 2019-08.
+bSubparagraph superseded by Accounting Standards Update No. 2019-08.
+cA grantee vests in the award and is no longer providing goods or services.
+dA grantee vests in the award and is no longer a customer.
+eA grantee is no longer an employee.
+718-10-35-10A
+Only for purposes of paragraph 718-10-35-10, a modification does not include a change to the terms of an award if that change is made solely to reflect an equity restructuring provided that both of the following conditions are met:
+aThere is no increase in fair value of the award (or the ratio of intrinsic value to the exercise price of the award is preserved, that is, the holder is made whole) or the antidilution provision is not added to the terms of the award in contemplation of an equity restructuring.
+bAll holders of the same class of equity instruments (for example, stock options) are treated in the same manner.
+718-10-35-11
+Other modifications of that instrument that take place after a grantee vests in the award and is no longer providing goods or services, is no longer a customer, or is no longer an employee should be subject to the modification guidance in paragraph 718-10-35-14. Following modification, recognition and measurement of the instrument shall be determined through reference to other applicable GAAP.
+718-10-35-12
+Once the classification of an instrument is determined, the recognition and measurement provisions of this Topic shall be applied until the instrument ceases to be subject to the requirements discussed in paragraph 718-10-35-10. Topic 480 or other applicable GAAP, such as Topic 815, applies to a freestanding financial instrument that was issued under a share-based payment arrangement but that is no longer subject to this Topic. This guidance is not intended to suggest that all freestanding financial instruments shall be accounted for as liabilities pursuant to Topic 480, but rather that freestanding financial instruments issued in share-based payment transactions may become subject to that Topic or other applicable GAAP depending on their substantive characteristics and when certain criteria are met.
+718-10-35-13
+Paragraph superseded by Accounting Standards Update No. 2016-09.
+718-10-35-14
+An entity may modify (including cancel and replace) or settle a fully vested, freestanding financial instrument after it becomes subject to Topic 480 or other applicable GAAP. Such a modification or settlement shall be accounted for under the provisions of this Topic unless it applies equally to all financial instruments of the same class regardless of the holder of the financial instrument. Following the modification, the instrument continues to be accounted for under that Topic or other applicable GAAP. A modification or settlement of a class of financial instrument that is designed exclusively for and held only by grantees (or their beneficiaries) may stem from the employment or vendor relationship depending on the terms of the modification or settlement. Thus, such a modification or settlement may be subject to the requirements of this Topic. See paragraph 718-10-35-10 for a discussion of changes to awards made solely to reflect an equity restructuring.
+> Change in Classification Due to Change in Probable Settlement Outcome
+718-10-35-15
+An option or similar instrument that is classified as equity, but subsequently becomes a liability because the contingent cash settlement event is probable of occurring, shall be accounted for similar to a modification from an equity to liability award. That is, on the date the contingent event becomes probable of occurring (and therefore the award must be recognized as a liability), the entity recognizes a share-based liability equal to the portion of the award attributed to past performance (which reflects any provision for acceleration of vesting) multiplied by the award's fair value on that date. To the extent the liability equals or is less than the amount previously recognized in equity, the offsetting debit is a charge to equity. To the extent that the liability exceeds the amount previously recognized in equity, the excess is recognized as compensation cost. The total recognized compensation cost for an award with a contingent cash settlement feature shall at least equal the fair value of the award at the grant date. The guidance in this paragraph is applicable only for options or similar instruments issued as part of compensation arrangements. That is, the guidance included in this paragraph is not applicable, by analogy or otherwise, to instruments outside share-based payment arrangements.
+
+45 Other Presentation Matters
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+General
+> Earnings per Share
+718-10-45-1
+Topic 260 requires that equity share options, nonvested shares, and similar equity instruments granted under share-based payment transactions be treated as potential common shares in computing diluted earnings per share (EPS). Diluted EPS shall be based on the actual number of options or shares granted and not yet forfeited regardless of the entity's accounting policy for forfeitures in accordance with paragraphs 718-10-35-1D and 718-10-35-3, unless doing so would be antidilutive. If vesting in or the ability to exercise (or retain) an award is contingent on a performance or market condition, such as the level of future earnings, the shares or share options shall be treated as contingently issuable shares in accordance with paragraphs 260-10-45-48 through 45-57. If equity share options or other equity instruments are outstanding for only part of a period, the shares issuable shall be weighted to reflect the portion of the period during which the equity instruments are outstanding.
+718-10-45-2
+Paragraphs 260-10-45-29 through 45-34 and Example 8 (see paragraph 260-10-55-68) provide guidance on applying the treasury stock method for equity instruments granted in share-based payment transactions in determining diluted EPS.
+> Classification of Assets Other Than a Note or a Receivable for Nonemployee Awards
+718-10-45-3
+As discussed in paragraph 718-10-35-1B, a grantor may conclude that an asset (other than a note or a receivable) has been received in return for fully vested, nonforfeitable, nonemployee share-based payment awards that are issued at the date the grantor and nonemployee enter into an agreement for goods or services (and no specific performance is required by the nonemployee to retain those equity instruments). Such an asset shall not be displayed as contra-equity by the grantor of the award. The transferability (or lack thereof) of the awards shall not affect the balance sheet display of the asset. This guidance is limited to transactions in which awards are transferred to nonemployees in exchange for goods or services.
+
+50 Disclosure
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General
+718-10-50-1
+An entity with one or more share-based payment arrangements shall disclose information that enables users of the financial statements to understand all of the following:
+aThe nature and terms of such arrangements that existed during the period and the potential effects of those arrangements on shareholders
+bThe effect of compensation cost arising from share-based payment arrangements on the income statement
+cThe method of estimating the fair value of the equity instruments granted (or offered to grant), during the period
+dThe cash flow effects resulting from share-based payment arrangements.
+This disclosure is not required for interim reporting. For interim reporting see Topic 270. See Example 9 (paragraphs 718-10-55-134 through 55-137) for an illustration of this guidance.
+PENDING CONTENT
+Transition Date: December 16, 2027;  December 16, 2028Transition Guidance:270-10-65-1
+An entity with one or more share-based payment arrangements shall disclose information that enables users of the financial statements to understand all of the following:
+aThe nature and terms of such arrangements that existed during the period and the potential effects of those arrangements on shareholders
+bThe effect of compensation cost arising from share-based payment arrangements on the income statement
+cThe method of estimating the fair value of the equity instruments granted (or offered to grant), during the period
+dThe cash flow effects resulting from share-based payment arrangements.
+This disclosure is not required for interim reporting. See Example 9 (paragraphs 718-10-55-134 through 55-137) for an illustration of this guidance.
+718-10-50-2
+The following list indicates the minimum information needed to achieve the objectives in paragraph 718-10-50-1 and illustrates how the disclosure requirements might be satisfied. In some circumstances, an entity may need to disclose information beyond the following to achieve the disclosure objectives:
+aA description of the share-based payment arrangement(s), including the general terms of awards under the arrangement(s), such as:
+1The employee's requisite service period(s)and, if applicable, the nonemployee's vesting period and any other substantive conditions (including those related to vesting)
+2The maximum contractual term of equity (or liability) share options or similar instruments
+3The number of shares authorized for awards of equity share options or other equity instruments.
+bThe method it uses for measuring compensation cost from share-based payment arrangements.
+cFor the most recent year for which an income statement is provided, both of the following:
+1The number and weighted-average exercise prices (or conversion ratios) for each of the following groups of share options (or share units):
+iThose outstanding at the beginning of the year
+iiThose outstanding at the end of the year
+iiiThose exercisable or convertible at the end of the year
+ivThose that during the year were:
+01Granted
+02Exercised or converted
+03Forfeited
+04Expired.
+2The number and weighted-average grant-date fair value (or calculated value for a nonpublic entity that uses that method or intrinsic value for awards measured pursuant to paragraph 718-10-30-21) of equity instruments not specified in (c)(1), for all of the following groups of equity instruments:
+iThose nonvested at the beginning of the year
+iiThose nonvested at the end of the year
+iiiThose that during the year were:
+01Granted
+02Vested
+03Forfeited.
+dFor each year for which an income statement is provided, both of the following:
+1The weighted-average grant-date fair value (or calculated value for a nonpublic entity that uses that method or intrinsic value for awards measured at that value pursuant to paragraphs 718-10-30-21 through 30-22) of equity options or other equity instruments granted during the year
+2The total intrinsic value of options exercised (or share units converted), share-based liabilities paid, and the total fair value of shares vested during the year.
+eFor fully vested share options (or share units) and share options expected to vest(or unvested share options for which the employee's requisite service period or the nonemployee's vesting period has not been rendered but that are expected to vest based on the achievement of a performance condition, if an entity accounts for forfeitures when they occur in accordance with paragraph 718-10-35-1D or 718-10-35-3) at the date of the latest statement of financial position, both of the following:
+1The number, weighted-average exercise price (or conversion ratio), aggregate intrinsic value (except for nonpublic entities), and weighted-average remaining contractual term of options (or share units) outstanding
+2The number, weighted-average exercise price (or conversion ratio), aggregate intrinsic value (except for nonpublic entities), and weighted-average remaining contractual term of options (or share units) currently exercisable (or convertible).
+fFor each year for which an income statement is presented, both of the following (An entity that uses the intrinsic value method pursuant to paragraphs 718-10-30-21 through 30-22 is not required to disclose the following information for awards accounted for under that method):
+1A description of the method used during the year to estimate the fair value (or calculated value) of awards under share-based payment arrangements
+2A description of the significant assumptions used during the year to estimate the fair value (or calculated value) of share-based compensation awards, including (if applicable):
+iExpected term of share options and similar instruments, including a discussion of the method used to incorporate the contractual term of the instruments and grantees' expected exercise and postvesting termination behavior into the fair value (or calculated value) of the instrument.
+iiExpected volatility of the entity's shares and the method used to estimate it. An entity that uses a method that employs different volatilities during the contractual term shall disclose the range of expected volatilities used and the weighted-average expected volatility. A nonpublic entity that uses the calculated value method shall disclose the reasons why it is not practicable for it to estimate the expected volatility of its share price, the appropriate industry sector index that it has selected, the reasons for selecting that particular index, and how it has calculated historical volatility using that index.
+iiiExpected dividends. An entity that uses a method that employs different dividend rates during the contractual term shall disclose the range of expected dividends used and the weighted-average expected dividends.
+ivRisk-free rate(s). An entity that uses a method that employs different risk-free rates shall disclose the range of risk-free rates used.
+vDiscount for postvesting restrictions and the method for estimating it.
+viPractical expedient for current price input. A nonpublic entity that elects to apply the practical expedient in paragraphs 718-10-30-20C through 30-20F shall disclose that election.
+gAn entity that grants equity or liability instruments under multiple share-based payment arrangements shall provide the information specified in paragraph (a) through (f) separately for different types of awards (including nonemployee versus employee) to the extent that the differences in the characteristics of the awards make separate disclosure important to an understanding of the entity's use of share-based compensation. For example, separate disclosure of weighted-average exercise prices (or conversion ratios) at the end of the year for options (or share units) with a fixed exercise price (or conversion ratio) and those with an indexed exercise price (or conversion ratio) could be important. It also could be important to segregate the number of options (or share units) not yet exercisable into those that will become exercisable (or convertible) based solely on fulfilling a service condition and those for which a performance condition must be met for the options (share units) to become exercisable (convertible). It could be equally important to provide separate disclosures for awards that are classified as equity and those classified as liabilities. In addition, an entity that has multiple share-based payment arrangements shall disclose information separately for different types of awards under those arrangements to the extent that differences in the characteristics of the awards make separate disclosure important to an understanding of the entity's use of share-based compensation.
+hFor each year for which an income statement is presented, both of the following:
+1Total compensation cost for share-based payment arrangements
+iRecognized in income as well as the total recognized tax benefit related thereto
+iiCapitalized as part of the cost of an asset.
+2A description of significant modifications, including:
+iThe terms of the modifications
+iiThe number of grantees affected
+iiiThe total (or lack of) incremental compensation cost resulting from the modifications.
+iAs of the latest balance sheet date presented, the total compensation cost related to nonvested awards not yet recognized and the weighted-average period over which it is expected to be recognized
+jSubparagraph superseded by Accounting Standards Update No. 2016-09.
+kIf not separately disclosed elsewhere, the amount of cash used to settle equity instruments granted under share-based payment arrangements
+lA description of the entity's policy, if any, for issuing shares upon share option exercise (or share unit conversion), including the source of those shares (that is, new shares or treasury shares). If as a result of its policy, an entity expects to repurchase shares in the following annual period, the entity shall disclose an estimate of the amount (or a range, if more appropriate) of shares to be repurchased during that period.
+mIf not separately disclosed elsewhere, the policy for estimating expected forfeitures or recognizing forfeitures as they occur.
+718-10-50-2A
+Another item of minimum information needed to achieve the objectives in paragraph 718-10-50-1 is the following:
+aIf not separately disclosed elsewhere, the amount of cash received from exercise of share options and similar instruments granted under share-based payment arrangements and the tax benefit from stock options exercised during the annual period
+718-10-50-3
+Paragraph not used.
+718-10-50-4
+In addition to the information required by this Topic, an entity may disclose supplemental information that it believes would be useful to investors and creditors, such as a range of values calculated on the basis of different assumptions, provided that the supplemental information is reasonable and does not lessen the prominence and credibility of the information required by this Topic. The alternative assumptions shall be described to enable users of the financial statements to understand the basis for the supplemental information.
+
+55 Implementation Guidance and Illustrations
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+General
+> Implementation Guidance
+718-10-55-1
+This Subtopic and Subtopics 718-20 and 718-30 are interrelated and the required guidance may be located in either this Subtopic or one of the other Subtopics. In general, material that relates to both equity and liability instruments is included in this Subtopic, while material more specifically related to either equity or liability instruments is included in their respective Subtopics.
+718-10-55-2
+Implementation guidance is provided on the following matters:
+aFair value measurement objectives and application
+bFair-value-based instruments in a share-based transaction
+cValuation techniques
+dSelecting assumptions for use in an option pricing model
+1Consistent use of valuation techniques and methods for selecting assumptions
+2Selecting or estimating the risk-free rate for the expected term
+3Selecting or estimating the expected term
+4Selecting or estimating the expected volatility
+5Selecting or estimating expected dividends
+6Dividend protected awards
+7Selecting or considering credit risk
+8Contingency features that affect the option pricing model
+9Consider dilution.
+ddNonpublic entity—practical expedient for expected term
+eCalculated value for certain nonpublic entities
+fMarket, performance, and service conditions
+1Market, performance, and service conditions that affect vesting and exercisability
+2Market, performance, and service conditions that affect factors other than vesting and exercisability
+3Estimating the employee's requisite service period
+4Explicit, implicit, and derived employee's requisite service periods.
+gDetermination of grant date
+hService inception date and grant date
+iEquity restructuring
+jClassification of certain awards with repurchase features
+kEmployee of a physician practice.
+718-10-55-3
+In this Section fair value also applies to nonpublic entities that use the calculated value method pursuant to paragraph 718-10-30-20.
+· > Fair Value Measurement Objectives and Application
+718-10-55-4
+The measurement objective for equity instruments granted in share-based payment transactions is to estimate the grant-date fair value of the equity instruments that the entity is obligated to issue when grantees have delivered the good or have rendered the service and satisfied any other conditions necessary to earn the right to benefit from the instruments. That estimate is based on the share price and other pertinent factors (including those enumerated in paragraphs 718-10-55-21 through 55-22, if applicable) at the grant date and is not remeasured in subsequent periods under the fair-value-based method.
+718-10-55-5
+A restriction that continues in effect after the entity has issued instruments to grantees, such as the inability to transfer vested equity share options to third parties or the inability to sell vested shares for a period of time, is considered in estimating the fair value of the instruments at the grant date. For instance, if shares are traded in an active market, postvesting restrictions may have little, if any, effect on the amount at which the shares being valued would be exchanged. For share options and similar instruments, the effect of nontransferability (and nonhedgeability, which has a similar effect) is taken into account by reflecting the effects of grantees' expected exercise and postvesting termination behavior in estimating fair value (referred to as an option's expected term).
+718-10-55-6
+In contrast, a restriction that stems from the forfeitability of instruments to which grantees have not yet earned the right, such as the inability either to exercise a nonvested equity share option or to sell nonvested shares, is not reflected in the fair value of the instruments at the grant date. Instead, those restrictions are taken into account by recognizing compensation cost only for awards for which grantees deliver the goods or render the service.
+718-10-55-7
+Note that performance and service conditions are vesting conditions for purposes of this Topic. Market conditions are not vesting conditions for purposes of this Topic but market conditions may affect exercisability of an award. Market conditions are included in the estimate of the grant-date fair value of awards (see paragraphs 718-10-55-64 through 55-66).
+718-10-55-8
+Reload features and contingent features that require a grantee to transfer equity shares earned, or realized gains from the sale of equity instruments earned, to the issuing entity for consideration that is less than fair value on the date of transfer (including no consideration), such as a clawback feature, shall not be reflected in the grant-date fair value of an equity award. Those features are accounted for if and when a reload grant or contingent event occurs. A clawback feature can take various forms but often functions as a noncompete mechanism. For example, an employee that terminates the employment relationship and begins to work for a competitor is required to transfer to the issuing entity (former employer) equity shares granted and earned in a share-based payment transaction.
+718-10-55-9
+The fair value measurement objective for liabilities incurred in a share-based payment transaction is the same as for equity instruments. However, awards classified as liabilities are subsequently remeasured to their fair values (or a portion thereof until the promised good has been delivered or the service has been rendered) at the end of each reporting period until the liability is settled.
+· > Fair-Value-Based Instruments in a Share-Based Transaction
+718-10-55-10
+The definition of fair value refers explicitly only to assets and liabilities, but the concept of value in a current exchange embodied in it applies equally to the equity instruments subject to this Topic. Observable market prices of identical or similar equity or liability instruments in active markets are the best evidence of fair value and, if available, shall be used as the basis for the measurement of equity and liability instruments awarded in a share-based payment transaction. Determining whether an equity or liability instrument is similar is a matter of judgment, based on an analysis of the terms of the instrument and other relevant facts and circumstances. For example, awards to grantees of a public entity of shares of its common stock, subject only to a service or performance condition for vesting (nonvested shares), shall be measured based on the market price of otherwise identical (that is, identical except for the vesting condition) common stock at the grant date.
+718-10-55-11
+If observable market prices of identical or similar equity or liability instruments of the entity are not available, the fair value of equity and liability instruments awarded to grantees shall be estimated by using a valuation technique that meets all of the following criteria:
+aIt is applied in a manner consistent with the fair value measurement objective and the other requirements of this Topic.
+bIt is based on established principles of financial economic theory and generally applied in that field (see paragraph 718-10-55-16). Established principles of financial economic theory represent fundamental propositions that form the basis of modern corporate finance (for example, the time value of money and risk-neutral valuation).
+cIt reflects all substantive characteristics of the instrument (except for those explicitly excluded by this Topic, such as vesting conditions and reload features).
+That is, the fair values of equity and liability instruments granted in a share-based payment transaction shall be estimated by applying a valuation technique that would be used in determining an amount at which instruments with the same characteristics (except for those explicitly excluded by this Topic) would be exchanged.
+718-10-55-12
+An estimate of the amount at which instruments similar to share options and other instruments granted in share-based payment transactions would be exchanged would factor in expectations of the probability that the good would be delivered or the service would be rendered and the instruments would vest (that is, that the performance or service conditions would be satisfied). However, as noted in paragraph 718-10-55-4, the measurement objective in this Topic is to estimate the fair value at the grant date of the equity instruments that the entity is obligated to issue when grantees have delivered the good or rendered the service and satisfied any other conditions necessary to earn the right to benefit from the instruments. Therefore, the estimated fair value of the instruments at grant date does not take into account the effect on fair value of vesting conditions and other restrictions that apply only during the employee's requisite service period or the nonemployee's vesting period. Under the fair-value-based method required by this Topic, the effect of vesting conditions and other restrictions that apply only during the employee's requisite service period or the nonemployee's vesting period is reflected by recognizing compensation cost only for instruments for which the good is delivered or the service is rendered.
+· > Valuation Techniques
+718-10-55-13
+In applying a valuation technique, the assumptions used shall be consistent with the fair value measurement objective. That is, assumptions shall reflect information that is (or would be) available to form the basis for an amount at which the instruments being valued would be exchanged. In estimating fair value, the assumptions used shall not represent the biases of a particular party. Some of those assumptions will be based on or determined from external data. Other assumptions, such as the employees' expected exercise behavior, may be derived from the entity's own historical experience with share-based payment arrangements.
+718-10-55-14
+The fair value of any equity or liability instrument depends on its substantive characteristics. Paragraphs 718-10-55-21 through 55-22 list the minimum set of substantive characteristics of instruments with option (or option-like) features that shall be considered in estimating those instruments' fair value. However, a share-based payment award could contain other characteristics, such as a market condition, that should be included in a fair value estimate. Judgment is required to identify an award's substantive characteristics and, as described in paragraphs 718-10-55-15 through 55-20, to select a valuation technique that incorporates those characteristics.
+718-10-55-15
+Valuation techniques used for share options and similar instruments granted in share-based payment transactions estimate the fair value of those instruments at a single point in time (for example, at the grant date). The assumptions used in a fair value measurement are based on expectations at the time the measurement is made, and those expectations reflect the information that is available at the time of measurement. The fair value of those instruments will change over time as factors used in estimating their fair value subsequently change, for instance, as share prices fluctuate, risk-free interest rates change, or dividend streams are modified. Changes in the fair value of those instruments are a normal economic process to which any valuable resource is subject and do not indicate that the expectations on which previous fair value measurements were based were incorrect. The fair value of those instruments at a single point in time is not a forecast of what the estimated fair value of those instruments may be in the future.
+718-10-55-16
+A lattice model (for example, a binomial model) and a closed-form model (for example, the Black-Scholes-Merton formula) are among the valuation techniques that meet the criteria required by this Topic for estimating the fair values of share options and similar instruments granted in share-based payment transactions. A Monte Carlo simulation technique is another type of valuation technique that satisfies the requirements in paragraph 718-10-55-11. Other valuation techniques not mentioned in this Topic also may satisfy the requirements in that paragraph. Those valuation techniques or models, sometimes referred to as option-pricing models, are based on established principles of financial economic theory. Those techniques are used by valuation professionals, dealers of derivative instruments, and others to estimate the fair values of options and similar instruments related to equity securities, currencies, interest rates, and commodities. Those techniques are used to establish trade prices for derivative instruments and to establish values in adjudications. As discussed in paragraphs 718-10-55-21 through 55-50, both lattice models and closed-form models can be adjusted to account for the substantive characteristics of share options and similar instruments granted granted in share-based payment transactions.
+718-10-55-17
+This Topic does not specify a preference for a particular valuation technique or model in estimating the fair values of share options and similar instruments granted in share-based payment transactions. Rather, this Topic requires the use of a valuation technique or model that meets the measurement objective in paragraph 718-10-30-6 and the requirements in paragraph 718-10-55-11. The selection of an appropriate valuation technique or model will depend on the substantive characteristics of the instrument being valued. Because an entity may grant different types of instruments, each with its own unique set of substantive characteristics, an entity may use a different valuation technique for each different type of instrument. The appropriate valuation technique or model selected to estimate the fair value of an instrument with a market condition must take into account the effect of that market condition. The designs of some techniques and models better reflect the substantive characteristics of a particular share option or similar instrument granted in share-based payment transactions. Paragraphs 718-10-55-18 through 55-20 discuss certain factors that an entity should consider in selecting a valuation technique or model for its share options or similar instruments.
+718-10-55-18
+The Black-Scholes-Merton formula assumes that option exercises occur at the end of an option's contractual term, and that expected volatility, expected dividends, and risk-free interest rates are constant over the option's term. If used to estimate the fair value of instruments in the scope of this Topic, the Black-Scholes-Merton formula must be adjusted to take account of certain characteristics of share options and similar instruments that are not consistent with the model's assumptions (for example, exercising before the end of the option's contractual term when estimating expected term). Because of the nature of the formula, those adjustments take the form of weighted-average assumptions about those characteristics. In contrast, a lattice model can be designed to accommodate dynamic assumptions of expected volatility and dividends over the option's contractual term, and estimates of expected option exercise patterns during the option's contractual term, including the effect of blackout periods. Therefore, the design of a lattice model more fully reflects the substantive characteristics of particular share options or similar instruments. Nevertheless, both a lattice model and the Black-Scholes-Merton formula, as well as other valuation techniques that meet the requirements in paragraph 718-10-55-11, can provide a fair value estimate that is consistent with the measurement objective and fair-value-based method of this Topic.
+718-10-55-19
+Regardless of the valuation technique or model selected, an entity shall develop reasonable and supportable estimates for each assumption used in the model, including the share option or similar instrument's expected term, taking into account both the contractual term of the option and the effects of grantees' expected exercise and postvesting termination behavior. The term supportable is used in its general sense: capable of being maintained, confirmed, or made good; defensible. An application is supportable if it is based on reasonable arguments that consider the substantive characteristics of the instruments being valued and other relevant facts and circumstances.
+718-10-55-20
+An entity shall change the valuation technique it uses to estimate fair value if it concludes that a different technique is likely to result in a better estimate of fair value (see paragraph 718-10-55-27). For example, an entity that uses a closed-form model might conclude, when information becomes available, that a lattice model or another valuation technique would provide a fair value estimate that better achieves the fair value measurement objective and, therefore, change the valuation technique it uses.
+· > Selecting Assumptions for Use in an Option Pricing Model
+718-10-55-21
+If an observable market price is not available for a share option or similar instrument with the same or similar terms and conditions, an entity shall estimate the fair value of that instrument using a valuation technique or model that meets the requirements in paragraph 718-10-55-11 and takes into account, at a minimum, all of the following:
+aThe exercise price of the option.
+bThe expected term of the option. This should take into account both the contractual term of the option and the effects of grantees' expected exercise and postvesting termination behavior. In a closed-form model, the expected term is an assumption used in (or input to) the model, while in a lattice model, the expected term is an output of the model (see paragraphs 718-10-55-29 through 55-34, which provide further explanation of the expected term in the context of a lattice model).
+cThe current price of the underlying share.
+dThe expected volatility of the price of the underlying share for the expected term of the option.
+eThe expected dividends on the underlying share for the expected term of the option (except as provided in paragraphs 718-10-55-44 through 55-45).
+fThe risk-free interest rate(s) for the expected term of the option.
+718-10-55-22
+The term expected in (b); (d); (e); and (f) in paragraph 718-10-55-21 relates to expectations at the measurement date about the future evolution of the factor that is used as an assumption in a valuation model. The term is not necessarily used in the same sense as in the term expected future cash flows that appears elsewhere in the Codification. The phrase expected term of the option in (d); (e); and (f) in paragraph 718-10-55-21 applies to both closed-form models and lattice models (as well as all other valuation techniques). However, if an entity uses a lattice model (or other similar valuation technique, for instance, a Monte Carlo simulation technique) that has been modified to take into account an option's contractual term and grantees' expected exercise and postvesting termination behavior, then (d); (e); and (f) in paragraph 718-10-55-21 apply to the contractual term of the option.
+718-10-55-23
+There is likely to be a range of reasonable estimates for expected volatility, dividends, and term of the option. If no amount within the range is more or less likely than any other amount, an average of the amounts in the range (the expected value) shall be used. In a lattice model, the assumptions used are to be determined for a particular node (or multiple nodes during a particular time period) of the lattice and not over multiple periods, unless such application is supportable.
+718-10-55-24
+Historical experience is generally the starting point for developing expectations about the future. Expectations based on historical experience shall be modified to reflect ways in which currently available information indicates that the future is reasonably expected to differ from the past. The appropriate weight to place on historical experience is a matter of judgment, based on relevant facts and circumstances. For example, an entity with two distinctly different lines of business of approximately equal size may dispose of the one that was significantly less volatile and generated more cash than the other. In that situation, the entity might place relatively little weight on volatility, dividends, and perhaps grantees' exercise and postvesting termination behavior from the predisposition (or disposition) period in developing reasonable expectations about the future. In contrast, an entity that has not undergone such a restructuring might place heavier weight on historical experience. That entity might conclude, based on its analysis of information available at the time of measurement, that its historical experience provides a reasonable estimate of expected volatility, dividends, and grantees' exercise and postvesting termination behavior. This guidance is not intended to suggest either that historical volatility is the only indicator of expected volatility or that an entity must identify a specific event in order to place less weight on historical experience. Expected volatility is an expectation of volatility over the expected term of an option or similar instrument; that expectation shall consider all relevant factors in paragraph 718-10-55-37, including possible mean reversion. Paragraphs 718-10-55-35 through 55-41 provide further guidance on estimating expected volatility.
+718-10-55-25
+In certain circumstances, historical information may not be available. For example, an entity whose common stock has only recently become publicly traded may have little, if any, historical information on the volatility of its own shares. That entity might base expectations about future volatility on the average volatilities of similar entities for an appropriate period following their going public. A nonpublic entity will need to exercise judgment in selecting a method to estimate expected volatility and might do so by basing its expected volatility on the average volatilities of otherwise similar public entities. For purposes of identifying otherwise similar entities, an entity would likely consider characteristics such as industry, stage of life cycle, size, and financial leverage. Because of the effects of diversification that are present in an industry sector index, the volatility of an index should not be substituted for the average of volatilities of otherwise similar entities in a fair value measurement.
+718-10-55-26
+This guidance is organized as follows:
+aSelecting consistent assumptions
+bSelecting or estimating the risk-free rate for the expected term
+cSelecting or estimating the expected term
+dSelecting or estimating the expected volatility
+eSelecting or estimating expected dividends
+fDividend protected awards
+gSelecting or considering credit risk
+hContingency features that affect the option pricing model
+iConsider dilution.
+· · > Consistent Use of Valuation Techniques and Methods for Selecting Assumptions
+718-10-55-27
+Assumptions used to estimate the fair value of equity and liability instruments granted in share-based payment transactions shall be determined in a consistent manner from period to period. For example, an entity might use the closing share price or the share price at another specified time as the current share price on the grant date in estimating fair value, but whichever method is selected, it shall be used consistently. The valuation technique an entity selects to estimate fair value for a particular type of instrument also shall be used consistently and shall not be changed unless a different valuation technique is expected to produce a better estimate of fair value. A change in either the valuation technique or the method of determining appropriate assumptions used in a valuation technique is a change in accounting estimate for purposes of applying Topic 250, and shall be applied prospectively to new awards.
+· · > Selecting or Estimating the Risk-Free Rate for the Expected Term
+718-10-55-28
+Option-pricing models call for the risk-free interest rate as an assumption to take into account, among other things, the time value of money. A U.S. entity issuing an option on its own shares must use as the risk-free interest rates the implied yields currently available from the U.S. Treasury zero-coupon yield curve over the contractual term of the option if the entity is using a lattice model incorporating the option's contractual term. If the entity is using a closed-form model, the risk-free interest rate is the implied yield currently available on U.S. Treasury zero-coupon issues with a remaining term equal to the expected term used as the assumption in the model. For entities based in jurisdictions outside the United States, the risk-free interest rate is the implied yield currently available on zero-coupon government issues denominated in the currency of the market in which the share (or underlying share), which is the basis for the instrument awarded, primarily trades. It may be necessary to use an appropriate substitute if no such government issues exist or if circumstances indicate that the implied yield on zero-coupon government issues is not representative of a risk-free interest rate.
+· · > Selecting or Estimating the Expected Term
+718-10-55-29
+The fair value of a traded (or transferable) share option is based on its contractual term because rarely is it economically advantageous to exercise, rather than sell, a transferable share option before the end of its contractual term. Employee share options generally differ from transferable share options in that employees cannot sell (or hedge) their share options—they can only exercise them; because of this, employees generally exercise their options before the end of the options' contractual term. Thus, the inability to sell or hedge an employee share option effectively reduces the option's value because exercise prior to the option's expiration terminates its remaining life and thus its remaining time value. In addition, some employee share options contain prohibitions on exercise during blackout periods. To reflect the effect of those restrictions (which may lead to exercise before the end of the option's contractual term) on employee options relative to transferable options, this Topic requires that the fair value of an employee share option or similar instrument be based on its expected term, rather than its contractual term (see paragraphs 718-10-55-5 and 718-10-55-21).
+718-10-55-29A
+Paragraph 718-10-30-10A states that, on an award-by-award basis, an entity may elect to use the contractual term as the expected term when estimating the fair value of a nonemployee award to satisfy the measurement objective in paragraph 718-10-30-6. Otherwise, an entity shall apply the guidance in this Topic in estimating the expected term of a nonemployee award, which may result in a term less than the contractual term of the award. If an entity does not elect to use the contractual term as the expected term, similar considerations discussed in paragraph 718-10-55-29, such as the inability to sell or hedge a nonemployee award, apply when estimating its expected term.
+718-10-55-30
+The expected term of an employee share option or similar instrument is the period of time for which the instrument is expected to be outstanding (that is, the period of time from the service inception date to the date of expected exercise or other expected settlement). The expected term is an assumption in a closed-form model. However, if an entity uses a lattice model that has been modified to take into account an option's contractual term and employees' expected exercise and post-vesting employment termination behavior, the expected term is estimated based on the resulting output of the lattice. For example, an entity's experience might indicate that option holders tend to exercise their options when the share price reaches 200 percent of the exercise price. If so, that entity might use a lattice model that assumes exercise of the option at each node along each share price path in a lattice at which the early exercise expectation is met, provided that the option is vested and exercisable at that point. Moreover, such a model would assume exercise at the end of the contractual term on price paths along which the exercise expectation is not met but the options are in-the-money at the end of the contractual term. The terms at-the-money, in-the-money, and out-of-the-money are used to describe share options whose exercise price is equal to, less than, or greater than the market price of the underlying share, respectively. The valuation approach described recognizes that employees' exercise behavior is correlated with the price of the underlying share. Employees' expected post-vesting employment termination behavior also would be factored in. Expected term, which is a required disclosure (see paragraphs 718-10-50-2 through 50-2A), then could be estimated based on the output of the resulting lattice. An example of an acceptable method for purposes of financial statement disclosures of estimating the expected term based on the results of a lattice model is to use the lattice model's estimated fair value of a share option as an input to a closed-form model, and then to solve the closed-form model for the expected term. Other methods also are available to estimate expected term.
+718-10-55-31
+Other factors that may affect expectations about employees' exercise and post-vesting employment termination behavior include the following:
+aThe vesting period of the award. An option's expected term must at least include the vesting period. Under some share option arrangements, an option holder may exercise an option prior to vesting (usually to obtain a specific tax treatment); however, such arrangements generally require that any shares received upon exercise be returned to the entity (with or without a return of the exercise price to the holder) if the vesting conditions are not satisfied. Such an exercise is not substantive for accounting purposes.
+bEmployees' historical exercise and post-vesting employment termination behavior for similar grants.
+cExpected volatility of the price of the underlying share. An entity also might consider whether the evolution of the share price affects an employee's exercise behavior (for example, an employee may be more likely to exercise a share option shortly after it becomes in-the-money if the option had been out-of-the-money for a long period of time).
+dBlackout periods and other coexisting arrangements such as agreements that allow for exercise to automatically occur during blackout periods if certain conditions are satisfied.
+eEmployees' ages, lengths of service, and home jurisdictions (that is, domestic or foreign).
+718-10-55-32
+If sufficient information about employees' expected exercise and post-vesting employment termination behavior is available, a method like the one described in paragraph 718-10-55-30 might be used because that method reflects more information about the instrument being valued (see paragraph 718-10-55-18). However, expected term might be estimated in some other manner, taking into account whatever relevant and supportable information is available, including industry averages and other pertinent evidence such as published academic research.
+718-10-55-33
+Option value increases at a decreasing rate as the term lengthens (for most, if not all, options). For example, a two-year option is worth less than twice as much as a one-year option, other things equal. Accordingly, estimating the fair value of an option based on a single expected term that effectively averages the differing exercise and postvesting employment termination behaviors of identifiable groups of employees will potentially misstate the value of the entire award.
+718-10-55-34
+Aggregating individual awards into relatively homogeneous groups with respect to exercise and postvesting employment termination behaviors and estimating the fair value of the options granted to each group separately reduces such potential misstatement. An entity shall aggregate individual awards into relatively homogeneous groups with respect to exercise and postvesting employment termination behaviors regardless of the valuation technique or model used to estimate the fair value. For example, the historical experience of an employer that grants options broadly to all levels of employees might indicate that hourly employees tend to exercise for a smaller percentage gain than do salaried employees.
+718-10-55-34A
+A nonpublic entity may make an accounting policy election to apply a practical expedient to estimate the expected term for certain awards that do not include a market condition (see paragraphs 718-10-30-20A through 30-20B). Paragraph 718-10-55-50A provides implementation guidance on the practical expedient.
+· · > Selecting or Estimating the Expected Volatility
+718-10-55-35
+As with other aspects of estimating fair value, the objective is to determine the assumption about expected volatility that marketplace participants would be likely to use in determining an exchange price for an option.
+718-10-55-36
+Volatility is a measure of the amount by which a financial variable, such as share price, has fluctuated (historical volatility) or is expected to fluctuate (expected volatility) during a period. Option-pricing models require expected volatility as an assumption because an option's value is dependent on potential share returns over the option's term. The higher the volatility, the more the returns on the shares can be expected to vary—up or down. Because an option's value is unaffected by expected negative returns on the shares, other things equal, an option on a share with higher volatility is worth more than an option on a share with lower volatility. This Topic does not specify a method of estimating expected volatility; rather, the following paragraph provides a list of factors that shall be considered in estimating expected volatility. An entity's estimate of expected volatility shall be reasonable and supportable.
+718-10-55-37
+Factors to consider in estimating expected volatility include the following:
+aVolatility of the share price, including changes in that volatility and possible mean reversion of that volatility. Mean reversion refers to the tendency of a financial variable, such as volatility, to revert to some long-run average level. Statistical models have been developed that take into account the mean-reverting tendency of volatility. In computing historical volatility, for example, an entity might disregard an identifiable period of time in which its share price was extraordinarily volatile because of a failed takeover bid if a similar event is not expected to recur during the expected or contractual term. If an entity's share price was extremely volatile for an identifiable period of time, due to a general market decline, that entity might place less weight on its volatility during that period of time because of possible mean reversion. Volatility over the most recent period is generally commensurate with either of the following:
+1The contractual term of the option if a lattice model is being used to estimate fair value
+2The expected term of the option if a closed-form model is being used. An entity might evaluate changes in volatility and mean reversion over that period by dividing the contractual or expected term into regular intervals and evaluating evolution of volatility through those intervals.
+bThe implied volatility of the share price determined from the market prices of traded options or other traded financial instruments such as outstanding convertible debt, if any.
+cFor a public entity, the length of time its shares have been publicly traded. If that period is shorter than the expected or contractual term of the option, the term structure of volatility for the longest period for which trading activity is available shall be more relevant. A newly public entity also might consider the expected volatility of similar entities. In evaluating similarity, an entity would likely consider factors such as industry, stage of life cycle, size, and financial leverage. A nonpublic entity might base its expected volatility on the expected volatilities of entities that are similar except for having publicly traded securities.
+dAppropriate and regular intervals for price observations. If an entity considers historical volatility in estimating expected volatility, it shall use intervals that are appropriate based on the facts and circumstances and that provide the basis for a reasonable fair value estimate. For example, a publicly traded entity would likely use daily price observations, while a nonpublic entity with shares that occasionally change hands at negotiated prices might use monthly price observations.
+eCorporate and capital structure. An entity's corporate structure may affect expected volatility (see paragraph 718-10-55-24). An entity's capital structure also may affect expected volatility; for example, highly leveraged entities tend to have higher volatilities.
+718-10-55-38
+Although use of unadjusted historical volatility may be appropriate for some entities (or even for most entities in some time periods), a marketplace participant would not use historical volatility without considering the extent to which the future is likely to differ from the past.
+718-10-55-39
+A closed-form model, such as the Black-Scholes-Merton formula, cannot incorporate a range of expected volatilities over the option's expected term (see paragraph 718-10-55-18). Lattice models can incorporate a term structure of expected volatility; that is, a range of expected volatilities can be incorporated into the lattice over an option's contractual term. Determining how to incorporate a range of expected volatilities into a lattice model to provide a reasonable fair value estimate is a matter of judgment and shall be based on a careful consideration of the factors listed in paragraph 718-10-55-37 as well as other relevant factors that are consistent with the fair value measurement objective of this Topic.
+718-10-55-40
+An entity shall establish a process for estimating expected volatility and apply that process consistently from period to period (see paragraph 718-10-55-27). That process:
+aShall comprehend an identification of information available to the entity and applicable factors such as those described in paragraph 718-10-55-37
+bShall include a procedure for evaluating and weighting that information.
+718-10-55-41
+The process developed by an entity shall be determined by the information available to it and its assessment of how that information would be used to estimate fair value. For example, consistent with paragraph 718-10-55-24, an entity's starting point in estimating expected volatility might be its historical volatility. That entity also shall consider the extent to which currently available information indicates that future volatility will differ from the historical volatility. An example of such information is implied volatility (from traded options or other instruments).
+· · > Selecting or Estimating Expected Dividends
+718-10-55-42
+Option-pricing models generally call for expected dividend yield as an assumption. However, the models may be modified to use an expected dividend amount rather than a yield. An entity may use either its expected yield or its expected payments. Additionally, an entity's historical pattern of dividend increases (or decreases) shall be considered. For example, if an entity has historically increased dividends by approximately 3 percent per year, its estimated share option value shall not be based on a fixed dividend amount throughout the share option's expected term. As with other assumptions in an option-pricing model, an entity shall use the expected dividends that would likely be reflected in an amount at which the option would be exchanged (see paragraph 718-10-55-13).
+718-10-55-43
+As with other aspects of estimating fair value, the objective is to determine the assumption about expected dividends that would likely be used by marketplace participants in determining an exchange price for the option.
+· · > Dividend Protected Awards
+718-10-55-44
+Expected dividends are taken into account in using an option-pricing model to estimate the fair value of a share option because dividends paid on the underlying shares reduce the fair value of those shares and option holders generally are not entitled to receive those dividends. However, an award of share options may be structured to protect option holders from that effect by providing them with some form of dividend rights. Such dividend protection may take a variety of forms and shall be appropriately reflected in estimating the fair value of a share option. For example, if a dividend paid on the underlying shares is applied to reduce the exercise price of the option, the effect of the dividend protection is appropriately reflected by using an expected dividend assumption of zero.
+718-10-55-45
+In certain situations, grantees may receive the dividends paid on the underlying equity shares while the option is outstanding. Dividends or dividend equivalents paid to grantees on the portion of an award of equity shares or other equity instruments that vests shall be charged to retained earnings. If grantees are not required to return the dividends or dividend equivalents received if they forfeit their awards, dividends or dividend equivalents paid on instruments that do not vest shall be recognized as additional compensation cost. If an entity's accounting policy is to estimate the number of awards expected to be forfeited in accordance with paragraph 718-10-35-1D or 718-10-35-3, the estimate of compensation cost for dividends or dividend equivalents paid on instruments that are not expected to vest shall be consistent with an entity's estimates of forfeitures. Dividends and dividend equivalents shall be reclassified between retained earnings and compensation cost in a subsequent period if the entity changes its forfeiture estimates (or actual forfeitures differ from previous estimates). If an entity's accounting policy is to account for forfeitures when they occur in accordance with paragraph 718-10-35-1D or 718-10-35-3, the entity shall reclassify to compensation cost in the period in which the forfeitures occur the amount of dividends and dividend equivalents previously charged to retained earnings relating to awards that are forfeited.
+· · > Selecting or Considering Credit Risk
+718-10-55-46
+An entity may need to consider the effect of its credit risk on the estimated fair value of liability awards that contain cash settlement features because potential cash payoffs from the awards are not independent of the entity's risk of default. Any credit-risk adjustment to the estimated fair value of awards with cash payoffs that increase with increases in the price of the underlying share is expected to be de minimis because increases in an entity's share price generally are positively associated with its ability to liquidate its liabilities. However, a credit-risk adjustment to the estimated fair value of awards with cash payoffs that increase with decreases in the price of the entity's shares may be necessary because decreases in an entity's share price generally are negatively associated with an entity's ability to liquidate its liabilities.
+· · > Contingency Features That Affect the Option Pricing Model
+718-10-55-47
+Contingent features that might cause a grantee to return to the entity either equity shares earned or realized gains from the sale of equity instruments earned as a result of share-based payment arrangements, such as a clawback feature (see paragraph 718-10-55-8), shall not be reflected in estimating the grant-date fair value of an equity instrument. Instead, the effect of such a contingent feature shall be accounted for if and when the contingent event occurs. For instance, a share-based payment arrangement may stipulate the return of vested equity shares to the issuing entity for no consideration if the grantee terminates the employment or vendor relationship to work for a competitor. The effect of that provision on the grant-date fair value of the equity shares shall not be considered. If the issuing entity subsequently receives those shares (or their equivalent value in cash or other assets) as a result of that provision, a credit shall be recognized in the income statement upon the receipt of the shares. That credit is limited to the lesser of the recognized compensation cost associated with the share-based payment arrangement that contains the contingent feature and the fair value of the consideration received. The event is recognized in the income statement because the resulting transaction takes place with a grantee as a result of the current (or prior) employment or vendor relationship rather than as a result of the grantee's role as an equity owner. Example 10 (see paragraph 718-20-55-84) provides an illustration of the accounting for an employee award that contains a clawback feature, which also applies to nonemployee awards.
+· · > Consider Dilution
+718-10-55-48
+Traded options ordinarily are written by parties other than the entity that issues the underlying shares, and when exercised result in an exchange of already outstanding shares between those parties. In contrast, exercise of share options as part of a share-based payment transaction results in the issuance of new shares by the entity that wrote the option (the grantor), which increases the number of shares outstanding. That dilution might reduce the fair value of the underlying shares, which in turn might reduce the benefit realized from option exercise.
+718-10-55-49
+If the market for an entity's shares is reasonably efficient, the effect of potential dilution from the exercise of share options that are part of a share-based payment transaction will be reflected in the market price of the underlying shares, and no adjustment for potential dilution usually is needed in estimating the fair value of the grantee share options. For a public entity, an exception might be a large grant of options that the market is not expecting, and also does not believe will result in commensurate benefit to the entity. For a nonpublic entity, on the other hand, potential dilution may not be fully reflected in the share price if sufficient information about the frequency and size of the entity's grants of equity share options is not available for third parties who may exchange the entity's shares to anticipate the dilutive effect.
+718-10-55-50
+An entity shall consider whether the potential dilutive effect of an award of share options needs to be reflected in estimating the fair value of its options at the grant date. For public entities, the expectation is that situations in which such a separate adjustment is needed will be rare.
+· > Nonpublic Entity—Practical Expedient for Expected Term
+718-10-55-50A
+In accordance with paragraph 718-10-30-20A, a nonpublic entity may elect a practical expedient to estimate the expected term. For liability-classified awards, an entity would update the estimate of the expected term each reporting period until settlement. The updated estimate should reflect the loss of time value associated with the award and any change in the assessment of whether a performance condition is probable of being achieved.
+· > Calculated Value for Certain Nonpublic Entities
+718-10-55-51
+Nonpublic entities may have sufficient information available on which to base a reasonable and supportable estimate of the expected volatility of their share prices. For example, a nonpublic entity that has an internal market for its shares, has private transactions in its shares, or issues new equity or convertible debt instruments may be able to consider the historical volatility, or implied volatility, of its share price in estimating expected volatility. Alternatively, a nonpublic entity that can identify similar public entities for which share or option price information is available may be able to consider the historical, expected, or implied volatility of those entities' share prices in estimating expected volatility. Similarly this information may be used to estimate the fair value of its shares or to benchmark various aspects of its performance (see paragraph 718-10-55-25).
+718-10-55-52
+This Topic requires all entities to use the fair-value-based method to account for share-based payment arrangements that are classified as equity instruments. However, if it is not practicable for a nonpublic entity to estimate the expected volatility of its share price, paragraphs 718-10-30-19A through 30-20 require it to use the calculated value method. Alternatively, it may not be possible for a nonpublic entity to reasonably estimate the fair value of its equity share options and similar instruments at the date they are granted because the complexity of the award's terms prevents it from doing so. In that case, paragraphs 718-10-30-21 through 30-22 require that the nonpublic entity account for its equity instruments at their intrinsic value, remeasured at each reporting date through the date of exercise or other settlement.
+718-10-55-53
+Many nonpublic entities that plan an initial public offering likely will be able to reasonably estimate the fair value of their equity share options and similar instruments using the guidance on selecting an appropriate expected volatility assumption provided in paragraphs 718-10-55-35 through 55-41.
+718-10-55-54
+Estimating the expected volatility of a nonpublic entity's shares may be difficult and that the resulting estimated fair value may be more subjective than the estimated fair value of a public entity's options. However, many nonpublic entities could consider internal and industry factors likely to affect volatility, and the average volatility of comparable entities, to develop an estimate of expected volatility. Using an expected volatility estimate determined in that manner often would result in a reasonable estimate of fair value.
+718-10-55-55
+For purposes of this Topic, it is not practicable for a nonpublic entity to estimate the expected volatility of its share price if it is unable to obtain sufficient historical information about past volatility, or other information such as that noted in paragraph 718-10-55-51, on which to base a reasonable and supportable estimate of expected volatility at the grant date of the award without undue cost and effort. In that situation, this Topic requires a nonpublic entity to estimate a value for its equity share options and similar instruments by substituting the historical volatility of an appropriate industry sector index for the expected volatility of its share price as an assumption in its valuation model. All other inputs to a nonpublic entity's valuation model shall be determined in accordance with the guidance in paragraphs 718-10-55-4 through 55-47.
+718-10-55-56
+There are many different indexes available to consider in selecting an appropriate industry sector index. For example, Dow Jones Indexes maintain a global series of stock market indexes with industry sector splits available for many countries, including the United States. The historical values of those indexes are easily obtainable from its website. An appropriate industry sector index is one that is representative of the industry sector in which the nonpublic entity operates and that also reflects, if possible, the size of the entity. If a nonpublic entity operates in a variety of different industry sectors, then it might select a number of different industry sector indexes and weight them according to the nature of its operations; alternatively, it might select an index for the industry sector that is most representative of its operations. If a nonpublic entity operates in an industry sector in which no public entities operate, then it shall select an index for the industry sector that is most closely related to the nature of its operations. However, in no circumstances shall a nonpublic entity use a broad-based market index like the S&P 500, Russell 3000, or Dow Jones Wilshire 5000 because those indexes are sufficiently diversified as to be not representative of the industry sector, or sectors, in which the nonpublic entity operates.
+718-10-55-57
+A nonpublic entity shall use the selected index consistently, unless the nature of the entity's operations changes such that another industry sector index is more appropriate, in applying the calculated value method in both the following circumstances:
+aFor all of its equity share options or similar instruments
+bIn each accounting period.
+718-10-55-58
+The calculation of the historical volatility of an appropriate industry sector index shall be made using the daily historical closing values of the index selected for the period of time prior to the grant date (or service inception date) of the equity share option or similar instrument that is equal in length to the expected term of the equity share option or similar instrument. If daily values are not readily available, then an entity shall use the most frequent observations available of the historical closing values of the selected index. If historical closing values of the index selected are not available for the entire expected term, then a nonpublic entity shall use the closing values for the longest period of time available. The method used shall be consistently applied (see paragraph 718-10-55-27). Example 9 (see paragraph 718-20-55-77) provides an illustration of accounting for an equity share option award granted by a nonpublic entity that uses the calculated value method.
+· > Market, Performance, and Service Conditions
+718-10-55-59
+This guidance is organized as follows:
+aMarket, performance, and service conditions that affect vesting and exercisability
+bMarket, performance, and service conditions that affect factors other than vesting and exercisability
+cEstimating the employee's requisite service period
+dExplicit, implicit, and derived employee's requisite service periods.
+· · > Market, Performance, and Service Conditions That Affect Vesting and Exercisability
+718-10-55-60
+A grantee's share-based payment award becomes vested at the date that the grantee's right to receive or retain equity shares, other equity instruments, or assets under the award is no longer contingent on satisfaction of either a performance condition or a service condition. This Topic distinguishes among market conditions, performance conditions, and service conditions that affect the vesting or exercisability of an award (see paragraphs 718-10-30-12 and 718-10-30-14). Exercisability is used for market conditions in the same context as vesting is used for performance and service conditions. Other conditions affecting vesting, exercisability, exercise price, and other pertinent factors in measuring fair value that do not meet the definitions of a market condition, performance condition, or service condition are discussed in paragraph 718-10-55-65.
+718-10-55-61
+Analysis of the market, performance, or service conditions (or any combination thereof) that are explicit or implicit in the terms of an award is required to determine the employee's requisite service period or the nonemployee's vesting period over which compensation cost is recognized and whether recognized compensation cost may be reversed if an award fails to vest or become exercisable (see paragraph 718-10-30-27). If exercisability or the ability to retain the award (for example, an award of equity shares may contain a market condition that affects the grantee's ability to retain those shares) is based solely on one or more market conditions compensation cost for that award is recognized if the grantee delivers the promised good or renders the service, even if the market condition is not satisfied. If exercisability (or the ability to retain the award) is based solely on one or more market conditions, compensation cost for that award is reversed if the grantee does not deliver the promised good or render the service, unless the market condition is satisfied prior to the end of the employee's requisite service period or the nonemployee's vesting period, in which case any unrecognized compensation cost would be recognized at the time the market condition is satisfied. If vesting is based solely on one or more performance or service conditions, any previously recognized compensation cost is reversed if the award does not vest (that is, the good is not delivered or the service is not rendered or the performance condition is not achieved). Examples 1 through 4 (see paragraphs 718-20-55-4 through 55-50) provide illustrations of awards in which vesting is based solely on performance or service conditions.
+718-10-55-61A
+An employee award containing one or more market conditions may have an explicit, implicit, or derived service period. Paragraphs 718-10-55-69 through 55-79 provide guidance on explicit, implicit, and derived service periods.
+718-10-55-62
+Vesting or exercisability may be conditional on satisfying two or more types of conditions (for example, vesting and exercisability occur upon satisfying both a market and a performance or service condition). Vesting also may be conditional on satisfying one of two or more types of conditions (for example, vesting and exercisability occur upon satisfying either a market condition or a performance or service condition). Regardless of the nature and number of conditions that must be satisfied, the existence of a market condition requires recognition of compensation cost if the good is delivered or the service is rendered, even if the market condition is never satisfied.
+718-10-55-63
+Even if only one of two or more conditions must be satisfied and a market condition is present in the terms of the award, then compensation cost is recognized if the good is delivered or the service is rendered, regardless of whether the market, performance, or service condition is satisfied (see Example 5 [paragraph 718-10-55-100] for an example of such an employee award).
+· · > Market, Performance, and Service Conditions That Affect Factors Other Than Vesting and Exercisability
+718-10-55-64
+Market, performance, and service conditions may affect an award's exercise price, contractual term, quantity, conversion ratio, or other pertinent factors that are relevant in measuring an award's fair value. For instance, an award's quantity may double, or an award's contractual term may be extended, if a company-wide revenue target is achieved. Market conditions that affect an award's fair value (including exercisability) are included in the estimate of grant-date fair value (see paragraph 718-10-30-15). Performance or service conditions that only affect vesting are excluded from the estimate of grant-date fair value, but all other performance or service conditions that affect an award's fair value are included in the estimate of grant-date fair value (see that same paragraph). Examples 3, 4, and 6 (see paragraphs 718-20-55-41, 718-20-55-47, and 718-20-55-61) provide further guidance on how performance conditions are considered in the estimate of grant-date fair value.
+718-10-55-65
+An award may be indexed to a factor in addition to the entity's share price. If that factor is not a market, performance, or service condition, that award shall be classified as a liability for purposes of this Topic (see paragraphs 718-10-25-13 through 25-14A). An example would be an award of options whose exercise price is indexed to the market price of a commodity, such as gold. Another example would be a share award that will vest based on the appreciation in the price of a commodity, such as gold; that award is indexed to both the value of that commodity and the issuing entity's shares. If an award is so indexed, the relevant factors shall be included in the fair value estimate of the award. Such an award would be classified as a liability even if the entity granting the share-based payment instrument is a producer of the commodity whose price changes are part or all of the conditions that affect an award's vesting conditions or fair value.
+718-10-55-66
+The following flowchart provides guidance on determining how to account for an award based on the existence of market, performance, or service conditions (or any combination thereof).
+Accounting for Awards with Market, Performance, or Service Conditions
+· · > Estimating the Employee's Requisite Service Period
+718-10-55-67
+Paragraph 718-10-35-2 requires that compensation cost be recognized over the requisite service period. The requisite service period for an award that has only a service condition is presumed to be the vesting period, unless there is clear evidence to the contrary. The requisite service period shall be estimated based on an analysis of the terms of the award and other relevant facts and circumstances, including co-existing employment agreements and an entity's past practices; that estimate shall ignore nonsubstantive vesting conditions. For example, the grant of a deep out-of-the-money share option award without an explicit service condition will have a derived service period. Likewise, if an award with an explicit service condition that was at-the-money when granted is subsequently modified to accelerate vesting at a time when the award is deep out-of-the-money, that modification is not substantive because the explicit service condition is replaced by a derived service condition. If a market, performance, or service condition requires future service for vesting (or exercisability), an entity cannot define a prior period as the requisite service period. The requisite service period for awards with market, performance, or service conditions (or any combination thereof) shall be consistent with assumptions used in estimating the grant-date fair value of those awards.
+718-10-55-68
+An employee's share-based payment award becomes vested at the date that the employee's right to receive or retain equity shares, other equity instruments, or cash under the award is no longer contingent on satisfaction of either a performance condition or a service condition. Any unrecognized compensation cost shall be recognized when an award becomes vested. If an award includes no market, performance, or service conditions, then the entire amount of compensation cost shall be recognized when the award is granted (which also is the date of issuance in this case). Example 1 (see paragraph 718-10-55-86) provides an illustration of estimating the requisite service period.
+· · > Explicit, Implicit, and Derived Employee's Requisite Service Periods
+718-10-55-69
+A requisite service period for an employee may be explicit, implicit, or derived. An explicit service period is one that is stated in the terms of the share-based payment award. For example, an award that vests after three years of continuous employee service has an explicit service period of three years, which also would be the requisite service period.
+718-10-55-70
+An implicit service period is one that may be inferred from an analysis of an award's terms. For example, if an award of share options vests only upon the completion of a new product design and the design is expected to be completed 18 months from the grant date, the implicit service period is 18 months, which also would be the requisite service period.
+718-10-55-71
+A derived service period is based on a market condition in a share-based payment award that affects exercisability, exercise price, or the employee's ability to retain the award. A derived service period is inferred from the application of certain valuation techniques used to estimate fair value. For example, the derived service period for an award of share options that an employee can exercise only if the share price doubles at any time during a five-year period can be inferred from certain valuation techniques that are used to estimate fair value. This example, and others noted in this Section, implicitly assume that the rights conveyed by the instrument to the holder are dependent on the holder's being an employee of the entity. That is, if the employment relationship is terminated, the award lapses or is forfeited shortly thereafter. In a lattice model, that derived service period represents the duration of the median of the distribution of share price paths on which the market condition is satisfied. That median is the middle share price path (the midpoint of the distribution of paths) on which the market condition is satisfied. The duration is the period of time from the service inception date to the expected date of market condition satisfaction (as inferred from the valuation technique). For example, if the derived service period is three years, the requisite service period is three years and all compensation cost would be recognized over that period, unless the market condition is satisfied at an earlier date, in which case any unrecognized compensation cost would be recognized immediately upon its satisfaction. If the requisite service is not rendered, all previously recognized compensation cost would be reversed. If the requisite service is rendered, the recognized compensation is not reversed even if the market condition is never satisfied. An entity that uses a closed-form model to estimate the grant-date fair value of an award with a market condition may need to use another valuation technique to estimate the derived service period.
+718-10-55-72
+An award with a combination of market, performance, or service conditions may contain multiple explicit, implicit, or derived service periods. For such an award, the estimate of the requisite service period shall be based on an analysis of all of the following:
+aAll vesting and exercisability conditions
+bAll explicit, implicit, and derived service periods
+cThe probability that performance or service conditions will be satisfied.
+718-10-55-73
+Thus, if vesting (or exercisability) of an award is based on satisfying both a market condition and a performance or service condition and it is probable that the performance or service condition will be satisfied, the initial estimate of the requisite service period generally is the longest of the explicit, implicit, or derived service periods. If vesting (or exercisability) of an award is based on satisfying either a market condition or a performance or service condition and it is probable that the performance or service condition will be satisfied, the initial estimate of the requisite service period generally is the shortest of the explicit, implicit, or derived service periods.
+718-10-55-74
+For example, a share option might specify that vesting occurs after three years of continuous employee service or when the employee completes a specified project. The employer estimates that it is probablethat the project will be completed within 18 months. The employer also believes it is probable that the service condition will be satisfied. Thus, that award contains an explicit service period of 3 years related to the service condition and an implicit service period of 18 months related to the performance condition. Because it is considered probable that both the performance condition and the service condition will be achieved, the requisite service period over which compensation cost is recognized is 18 months, which is the shorter of the explicit and implicit service periods.
+718-10-55-75
+As illustrated in the preceding paragraph , if an award vests upon the earlier of the satisfaction of a service condition (for example, four years of service) or the satisfaction of one or more performance conditions, it will be necessary to estimate when, if at all, the performance conditions are probable of achievement. For example, if initially the four-year service condition is probable of achievement and no performance condition is probable of achievement, the requisite service period is four years. If one year into the four-year requisite service period a performance condition becomes probable of achievement by the end of the second year, the requisite service period would be revised to two years for attribution of compensation cost (at that point in time, there would be only one year of the two-year requisite service period remaining).
+718-10-55-76
+If an award vests upon the satisfaction of both a service condition and the satisfaction of one or more performance conditions, the entity also must initially determine which outcomes are probable of achievement. For example, an award contains a four-year service condition and two performance conditions, all of which need to be satisfied. If initially the four-year service condition is probable of achievement and no performance condition is probable of achievement, then no compensation cost would be recognized unless the two performance conditions and the service condition subsequently become probable of achievement. If both performance conditions become probable of achievement one year after the grant date and the entity estimates that both performance conditions will be achieved by the end of the second year, the requisite service period would be four years as that is the longest period of both the explicit service period and the implicit service periods. Because the performance conditions are now probable of achievement, compensation cost will be recognized in the period of the change in estimate (see paragraph 718-10-35-3) as the cumulative effect on current and prior periods of the change in the estimated number of awards for which the requisite service is expected to be rendered. Therefore, compensation cost for the first year will be recognized immediately at the time of the change in estimate for the awards for which the requisite service is expected to be rendered. The remaining unrecognized compensation cost for those awards would be recognized prospectively over the remaining requisite service period. An entity that has an accounting policy to account for forfeitures when they occur in accordance with paragraph 718-10-35-3 would assume that the achievement of a service condition is probable when determining the amount of compensation cost to recognize unless the award has been forfeited.
+718-10-55-77
+As indicated in paragraph 718-10-55-75, the initial estimate of the requisite service period based on an explicit or implicit service period shall be adjusted for changes in the expected and actual outcomes of the related service or performance conditions that affect vesting of the award. Such adjustments will occur as the entity revises its estimates of whether or when different conditions or combinations of conditions are probable of being satisfied. Compensation cost ultimately recognized is equal to the grant-date fair value of the award based on the actual outcome of the performance or service conditions (see paragraph 718-10-30-15). If an award contains a market condition and a performance or a service condition and the initial estimate of the requisite service period is based on the market condition's derived service period, then the requisite service period shall not be revised unless either of the following criteria is met:
+aThe market condition is satisfied before the end of the derived service period
+bSatisfying the market condition is no longer the basis for determining the requisite service period.
+718-10-55-78
+How a change to the initial estimate of the requisite service period is accounted for depends on whether that change would affect the grant-date fair value of the award (including the quantity of instruments) that is to be recognized as compensation. For example, if the quantity of instruments for which the requisite service is expected to be rendered changes because a vesting condition becomes probable of satisfaction or if the grant-date fair value of an instrument changes because another performance or service condition becomes probable of satisfaction (for example, a performance or service condition that affects exercise price becomes probable of satisfaction), the cumulative effect on current and prior periods of those changes in estimates shall be recognized in the period of the change. In contrast, if compensation cost is already being attributed over an initially estimated requisite service period and that initially estimated period changes solely because another market, performance, or service condition becomes the basis for the requisite service period, any unrecognized compensation cost at that date of change shall be recognized prospectively over the revised requisite service period, if any (that is, no cumulative-effect adjustment is recognized).
+718-10-55-79
+To summarize, changes in actual or estimated outcomes that affect either the grant-date fair value of the instrument awarded or the quantity of instruments for which the requisite service is expected to be rendered (or both) are accounted for using a cumulative effect adjustment, and changes in estimated requisite service periods for awards for which compensation cost is already being attributed are accounted for prospectively only over the revised requisite service period, if any.
+· > Determination of Grant Date
+718-10-55-80
+This guidance expands on the guidance provided in paragraph 718-10-25-5.
+718-10-55-81
+The definition of grant date requires that a grantor and a grantee have a mutual understanding of the key terms and conditions of the share-based compensation arrangement. Those terms may be established through any of the following:
+aA formal, written agreement
+bAn informal, oral arrangement
+cAn entity's past practice.
+718-10-55-82
+A mutual understanding of the key terms and conditions means that there is sufficient basis for both the grantor and the grantee to understand the nature of the relationship established by the award, including both the compensatory relationship and the equity relationship subsequent to the date of grant. The grant date for an award will be the date that a grantee begins to benefit from, or be adversely affected by, subsequent changes in the price of the grantor's equity shares. In order to assess that financial exposure, the grantor and grantee must agree to the terms; that is, there must be a mutual understanding. Awards made under an arrangement that is subject to shareholder approval are not deemed to be granted until that approval is obtained unless approval is essentially a formality (or perfunctory). Additionally, to have a grant date for an award to an employee, the recipient of that award must meet the definition of an employee.
+718-10-55-83
+The determination of the grant date shall be based on the relevant facts and circumstances. For instance, a look-back share option may be granted with an exercise price equal to the lower of the current share price or the share price one year hence. The ultimate exercise price is not known at the date of grant, but it cannot be greater than the current share price. In this case, the relationship between the exercise price and the current share price provides a sufficient basis to understand both the compensatory and equity relationship established by the award; the recipient begins to benefit from subsequent changes in the price of the grantor's equity shares. However, if the award's terms call for the exercise price to be set equal to the share price one year hence, the recipient does not begin to benefit from, or be adversely affected by, changes in the price of the grantor's equity shares until then. Therefore, grant date would not occur until one year hence. Awards of share options whose exercise price is determined solely by reference to a future share price generally would not provide a sufficient basis to understand the nature of the compensatory and equity relationships established by the award until the exercise price is known.
+· > Classification of Certain Awards with Repurchase Features
+718-10-55-84
+The following paragraph further explains the guidance in paragraphs 718-10-25-9 through 25-12.
+718-10-55-85
+An entity may, for example, grant shares under a share-based compensation arrangement that the grantee can put (sell) to the grantor (the entity) shortly after the vesting date for cash equal to the fair value of the shares on the date of repurchase. That award of puttable shares would be classified as a liability because the repurchase feature permits the grantee to avoid bearing the risks and rewards normally associated with equity share ownership for a reasonable period of time from the date the share is issued (see paragraph 718-10-25-9(a)). Alternatively, an entity might grant its own shares under a share-based compensation arrangement that may be put to the grantor only after the grantee has held them for a reasonable period of time after vesting but at a fixed redemption amount. Those puttable shares also would be classified as liabilities under the requirements of this Topic because the repurchase price is based on a fixed amount rather than variations in the fair value of the grantor's shares. The grantee cannot bear the risks and rewards normally associated with equity share ownership for a reasonable period of time because of that redemption feature. However, if a share with a repurchase feature gives the grantee the right to sell shares back to the entity for a fixed amount over the fair value of the shares at the date of repurchase, paragraph 718-20-35-7 requires that the fixed amount over the fair value be recognized and attributed as additional compensation cost over the employee's requisite service period (with a corresponding liability being accrued). The fixed amount over the fair value of a nonemployee award should be recognized as additional compensation cost over the vesting period (with a corresponding liability being accrued) in accordance with paragraph 718-10-25-2C.
+· > Identifying an Employee of a Physician Practice Management Entity
+718-10-55-85A
+A physician practice management entity shall determine whether an employee of the physician practice is considered an employee of the physician practice management entity for purposes of determining the method of accounting for that person's share-based compensation as follows:
+aAn employee of a physician practice that is consolidated by the physician practice management entity shall be considered an employee of the physician practice management entity and its subsidiaries.
+bAn employee of a physician practice that is not consolidated by the physician practice management entity shall not be considered an employee of the physician practice management entity and its subsidiaries.
+> Illustrations
+· > Example 1: Estimating the Employee's Requisite Service Period
+718-10-55-86
+This Example illustrates the guidance in paragraphs 718-10-30-25 through 30-26.
+718-10-55-87
+Assume that Entity A uses a point system for retirement. An employee who accumulates 60 points becomes eligible to retire with certain benefits, including the retention of any nonvested share-based payment awards for their remaining contractual life, even if another explicit service condition has not been satisfied. In this case, the point system effectively accelerates vesting. On January 1, 20X5, an employee receives at-the-money options on 100 shares of Entity A's stock. All options vest at the end of 3 years of service and have a 10-year contractual term. At the grant date, the employee has 60 points and, therefore, is eligible to retire at any time.
+718-10-55-88
+Because the employee is eligible to retire at the grant date, the award's explicit service condition is nonsubstantive. Consequently, Entity A has granted an award that does not contain a service condition for vesting, that is, the award is effectively vested, and thus, the award's entire fair value should be recognized as compensation cost on the grant date. All of the terms of a share-based payment award and other relevant facts and circumstances must be analyzed when determining the requisite service period.
+· > Example 2: Definition of Employee
+718-10-55-89
+This Example illustrates the evaluation as to whether an individual meets conditions to be considered an employee under the definition of that term used in this Topic.
+718-10-55-90
+This Topic defines employee as an individual over whom the grantor of a share-based compensation award exercises or has the right to exercise sufficient control to establish an employer-employee relationship based on common law as illustrated in case law and currently under U.S. Internal Revenue Service (IRS) Revenue Ruling 87-41 . An example of whether that condition exists follows. Entity A issues options to members of its Advisory Board, which is separate and distinct from Entity A's board of directors. Members of the Advisory Board are knowledgeable about Entity A's industry and advise Entity A on matters such as policy development, strategic planning, and product development. The Advisory Board members are appointed for two-year terms and meet four times a year for one day, receiving a fixed number of options for services rendered at each meeting. Based on an evaluation of the relationship between Entity A and the Advisory Board members, Entity A concludes that the Advisory Board members do not meet the common law definition of employee. Accordingly, the awards to the Advisory Board members are accounted for as awards to nonemployees under the provisions of this Topic.
+718-10-55-91
+Nonemployee directors acting in their role as members of an entity's board of directors shall be treated as employees if those directors were elected by the entity's shareholders or appointed to a board position that will be filled by shareholder election when the existing term expires. However, that requirement applies only to awards granted to them for their services as directors. Awards granted to those individuals for other services shall be accounted for as awards to nonemployees in accordance with Section 505-50-25. Additionally, consolidated groups may have multiple boards of directors; this guidance applies only to either of the following:
+aThe nonemployee directors acting in their role as members of a parent entity's board of directors
+bNonemployee members of a consolidated subsidiary's board of directors to the extent that those members are elected by shareholders that are not controlled directly or indirectly by the parent or another member of the consolidated group.
+· > Example 3: Employee Share-Based Payment Award with a Performance Condition and Multiple Service Periods
+718-10-55-92
+The following Cases illustrate employee share-based payment awards with a performance condition (see paragraphs 718-10-25-20 through 25-21; 718-10-30-27; and 718-10-35-4) and multiple service dates:
+aPerformance targets are set at the inception of the arrangement (Case A).
+bPerformance targets are established at some time in the future (Case B).
+cPerformance targets established up front but vesting is tied to the vesting of a preceding award (Case C).
+718-10-55-93
+Cases A, B, and C share the following assumptions:
+aOn January 1, 20X5, Entity T enters into an arrangement with its chief executive officer relating to 40,000 share options on its stock with an exercise price of $30 per option.
+bThe arrangement is structured such that 10,000 share options will vest or be forfeited in each of the next 4 years (20X5 through 20X8) depending on whether annual performance targets relating to Entity T's revenues and net income are achieved.
+· · > Case A: Performance Targets Are Set at the Inception of the Arrangement
+718-10-55-94
+All of the annual performance targets are set at the inception of the arrangement. Because a mutual understanding of the key terms and conditions is reached on January 1, 20X5, each tranche would have a grant date and, therefore, a measurement date, of January 1, 20X5. However, each tranche of 10,000 share options should be accounted for as a separate award with its own service inception date, grant-date fair value, and 1-year requisite service period, because the arrangement specifies for each tranche an independent performance condition for a stated period of service. The chief executive officer's ability to retain (vest in) the award pertaining to 20X5 is not dependent on service beyond 20X5, and the failure to satisfy the performance condition in any one particular year has no effect on the outcome of any preceding or subsequent period. This arrangement is similar to an arrangement that would have provided a $10,000 cash bonus for each year for satisfaction of the same performance conditions. The four separate service inception dates (one for each tranche) are at the beginning of each year.
+· · > Case B: Performance Targets Are Established at Some Time in the Future
+718-10-55-95
+If the arrangement had instead provided that the annual performance targets would be established during January of each year, the grant date (and, therefore, the measurement date) for each tranche would be that date in January of each year (20X5 through 20X8) because a mutual understanding of the key terms and conditions would not be reached until then. In that case, each tranche of 10,000 share options has its own service inception date, grant-date fair value, and 1-year requisite service period. The fair value measurement of compensation cost for each tranche would be affected because not all of the key terms and conditions of each award are known until the compensation committee sets the performance targets and, therefore, the grant dates are those dates.
+· · > Case C: Performance Targets Established up Front but Vesting Is Tied to the Vesting of a Preceding Award
+718-10-55-96
+If the arrangement in Case A instead stated that the vesting for awards in periods from 20X6 through 20X8 was dependent on satisfaction of the performance targets related to the preceding award, the requisite service provided in exchange for each preceding award would not be independent of the requisite service provided in exchange for each successive award. In contrast to the arrangement described in Case A, failure to achieve the annual performance targets in 20X5 would result in forfeiture of all awards. The requisite service provided in exchange for each successive award is dependent on the requisite service provided for each preceding award. In that circumstance, all awards have the same service inception date and the same grant date (January 1, 20X5); however, each award has its own explicit service period (for example, the 20X5 grant has a one-year service period, the 20X6 grant has a two-year service period, and so on) over which compensation cost would be recognized. Because this award contains a performance condition, it is not subject to the attribution guidance in paragraph 718-10-35-8.
+· > Example 4: Employee Share-Based Payment Award with a Service Condition and Multiple Service Periods
+718-10-55-97
+The following Cases illustrate the guidance in paragraph 718-10-30-12 to determine the service period for employee awards with multiple service periods:
+aExercise price established at subsequent dates (Case A)
+bExercise price established at inception (Case B).
+· · > Case A: Exercise Price Established at Subsequent Dates
+718-10-55-98
+The chief executive officer of Entity T enters into a five-year employment contract on January 1, 20X5. The contract stipulates that the chief executive officer will be given 10,000 fully vested share options at the end of each year (50,000 share options in total). The exercise price of each tranche will be equal to the market price at the date of issuance (December 31 of each year in the five-year contractual term). In this Case, there are five separate grant dates. The grant date for each tranche is December 31 of each year because that is the date when there is a mutual understanding of the key terms and conditions of the agreement—that is, the exercise price is known and the chief executive officer begins to benefit from, or be adversely affected by, subsequent changes in the price of the employer's equity shares (see paragraphs 718-10-55-80 through 55-83 for additional guidance on determining the grant date). Because the awards' terms do not include a substantive future requisite service condition that exists at the grant date (the options are fully vested when they are issued), and the exercise price (and, therefore, the grant date) is determined at the end of each period, the service inception date precedes the grant date. The requisite service provided in exchange for the first award (pertaining to 20X5) is independent of the requisite service provided in exchange for each consecutive award. The terms of the share-based compensation arrangement provide evidence that each tranche compensates the chief executive officer for one year of service, and each tranche shall be accounted for as a separate award with its own service inception date, grant date, and one-year service period; therefore, the provisions of paragraph 718-10-35-8 would not be applicable to this award because of its structure.
+· · > Case B: Exercise Price Established at Inception
+718-10-55-99
+If the arrangement described in Case A provided instead that the exercise price for all 50,000 share options would be the January 1, 20X5, market price, then the grant date (and, therefore, the measurement date) for each tranche would be January 1, 20X5, because that is the date at which there is a mutual understanding of the key terms and conditions. All tranches would have the same service inception date and the same grant date (January 1, 20X5). Because of the nature of this award, Entity T would make a policy decision pursuant to paragraph 718-10-35-8 as to whether it considers the award as in-substance, multiple awards each with its own requisite service period (that is, the 20X5 grant has a one-year service period, the 20X6 grant has a two-year service period, and so on) or whether the entity considers the award as a single award with a single requisite service period based on the last separately vesting portion of the award (that is, a requisite service period of five years). Once chosen, this Topic requires that accounting policy be applied consistently to all similar awards.
+· > Example 5: Employee Share-Based Payment Award with Market and Service Conditions and Multiple Service Periods
+718-10-55-100
+The following Cases illustrate the guidance in paragraph 718-10-35-5 applicable to employee awards in circumstances in which an award includes both a market condition and a service condition:
+aWhen only one condition must be met (Case A)
+bWhen both conditions must be met (Case B).
+718-10-55-101
+Cases A and B share the following assumptions.
+718-10-55-102
+On January 1, 20X5, Entity T grants an executive 200,000 share options on its stock with an exercise price of $30 per option. The award specifies that vesting (or exercisability) will occur upon the earlier of the following for Case A or both are met for Case B:
+aThe share price reaching and maintaining at least $70 per share for 30 consecutive trading days
+bThe completion of eight years of service.
+718-10-55-103
+The award contains an explicit service period of eight years related to the service condition and a derived service period related to the market condition.
+· · > Case A: When Only One Condition Must Be Met
+718-10-55-104
+An entity shall make its best estimate of the derived service period related to the market condition (see paragraph 718-10-55-71). The derived service period may be estimated using any reasonable methodology, including Monte Carlo simulation techniques. For this Case, the derived service period is assumed to be six years. As described in paragraphs 718-10-55-72 through 55-73, if an award's vesting (or exercisability) is conditional upon the achievement of either a market condition or performance or service conditions, the requisite service period is generally the shortest of the explicit, implicit, and derived service periods. In this Case, the requisite service period over which compensation cost would be attributed is six years (shorter of eight and six years). (An entity may grant a fully vested deep out-of-the-money share option that would lapse shortly after termination of service, which is the equivalent of an award with both a market condition and a service condition. The explicit service period associated with the explicit service condition is zero; however, because the option is deep out-of-the-money at the grant date, there would be a derived service period.)
+718-10-55-105
+Continuing with this Case, if the market condition is actually satisfied in February 20X9 (based on market prices for the prior 30 consecutive trading days), Entity T would immediately recognize any unrecognized compensation cost because no further service is required to earn the award. If the market condition is not satisfied as of that date but the executive renders the six years of requisite service, compensation cost shall not be reversed under any circumstances.
+· · > Case B: When Both the Market and Service Condition Must Be Met
+718-10-55-106
+The initial estimate of the requisite service period for an award requiring satisfaction of both market and performance or service conditions is generally the longest of the explicit, implicit, and derived service periods (see paragraphs 718-10-55-72 through 55-73). For example, if the award described in Case A required both the completion of 8 years of service and the share price reaching and maintaining at least $70 per share for 30 consecutive trading days, compensation cost would be recognized over the 8-year explicit service period. If the employee were to terminate service prior to the eight-year requisite service period, compensation cost would be reversed even if the market condition had been satisfied by that time.
+· > Example 6: Service Inception Date and Grant Date for Employee Awards
+718-10-55-107
+The following Example illustrates the guidance in paragraph 718-10-35-6.
+718-10-55-108
+This Topic distinguishes between service inception date and grant date. The service inception date is the date at which the requisite service period begins. The service inception date usually is the grant date, but the service inception date precedes the grant date if all of the following criteria are met:
+aAn award is authorized. (Compensation cost would not be recognized before receiving all necessary approvals unless approval is essentially a formality [or perfunctory].)
+bService begins before a mutual understanding of the key terms and conditions of a share-based payment award is reached.
+cEither of the following conditions applies:
+1The award's terms do not include a substantive future requisite service condition that exists at the grant date (see paragraph 718-10-55-113 for an example illustrating that condition).
+2The award contains a market or performance condition that if not satisfied during the service period preceding the grant date and following the inception of the arrangement results in forfeiture of the award (see paragraph 718-10-55-114 for an example illustrating that condition).
+718-10-55-109
+In certain circumstances the service inception date may begin after the grant date (see paragraphs 718-10-55-93 through 55-94 for an example illustrating that circumstance).
+718-10-55-110
+For example, Entity T offers a position to an individual on April 1, 20X5, that has been approved by the chief executive officer and board of directors. In addition to salary and other benefits, Entity T offers to grant 10,000 shares of Entity T stock that vest upon the completion of 5 years of service (the market price of Entity T's stock is $25 on April 1, 20X5). The share award will begin vesting on the date the offer is accepted. The individual accepts the offer on April 2, 20X5, but is unable to begin providing services to Entity T until June 2, 20X5 (that is, substantive employment begins on June 2, 20X5). The individual also does not receive a salary or participate in other employee benefits until June 2, 20X5. On June 2, 20X5, the market price of Entity T stock is $40. In this Example, the service inception date is June 2, 20X5, the first date that the individual begins providing substantive employee services to Entity T. The grant date is the same date because that is when the individual would meet the definition of an employee. The grant-date fair value of the share award is $400,000 (10,000 × $40).
+718-10-55-111
+If necessary board approval of the award described in the preceding paragraph was obtained on August 5, 20X5, two months after substantive employment begins (June 2, 20X5), both the service inception date and the grant date would be August 5, 20X5, as that is the date when all necessary authorizations were obtained. If the market price of Entity T's stock was $38 per share on August 5, 20X5, the grant-date fair value of the share award would be $380,000 (10,000 × $38). Additionally, Entity T would not recognize compensation cost for the shares for the period between June 2, 20X5, and August 4, 20X5, neither during that period nor cumulatively on August 5, 20X5, when both the service inception date and the grant date occur. This is consistent with the definition of requisite service period, which states that if an award requires future service for vesting, the entity cannot define a prior period as the requisite service period. Future service in this context represents the service to be rendered beginning as of the service inception date.
+718-10-55-112
+If the service inception date precedes the grant date, recognition of compensation cost for periods before the grant date shall be based on the fair value of the award at the reporting dates that occur before the grant date. In the period in which the grant date occurs, cumulative compensation cost shall be adjusted to reflect the cumulative effect of measuring compensation cost based on the fair value at the grant date rather than the fair value previously used at the service inception date (or any subsequent reporting dates) (see paragraph 718-10-35-6).
+718-10-55-113
+If an award's terms do not include a substantive future requisite service condition that exists at the grant date, the service inception date can precede the grant date. For example, on January 1, 20X5, an employee is informed that an award of 100 fully vested options will be made on January 1, 20X6, with an exercise price equal to the share price on January 1, 20X6. All approvals for that award have been obtained as of January 1, 20X5. That individual is still an employee on January 1, 20X6, and receives the 100 fully vested options on that date. There is no substantive future service period associated with the options after January 1, 20X6. Therefore, the requisite service period is from the January 1, 20X5, service inception date through the January 1, 20X6, grant date, as that is the period during which the employee is required to perform service in exchange for the award. The relationship between the exercise price and the current share price that provides a sufficient basis to understand the equity relationship established by the award is known on January 1, 20X6. Compensation cost would be recognized during 20X5 in accordance with the preceding paragraph.
+718-10-55-114
+If an award contains either a market or a performance condition, which if not satisfied during the service period preceding the grant date and following the date the award is given results in a forfeiture of the award, then the service inception date may precede the grant date. For example, an authorized award is given on January 1, 20X5, with a two-year cliff vesting service requirement commencing on that date. The exercise price will be set on January 1, 20X6. The award will be forfeited if Entity T does not sell 1,000 units of product X in 20X5. In this Example, the employee earns the right to retain the award if the performance condition is met and the employee renders service in 20X5 and 20X6. The requisite service period is two years beginning on January 1, 20X5. The service inception date (January 1, 20X5) precedes the grant date (January 1, 20X6). Compensation cost would be recognized during 20X5 in accordance with paragraph 718-10-55-112.
+718-10-55-115
+In contrast, consider an award that is given on January 1, 20X5, with only a three-year cliff vesting explicit service condition, which commences on that date. The exercise price will be set on January 1, 20X6. In this Example, the service inception date cannot precede the grant date because there is a substantive future requisite service condition that exists at the grant date (two years of service). Therefore, there would be no attribution of compensation cost for the period between January 1, 20X5, and December 31, 20X5, neither during that period nor cumulatively on January 1, 20X6, when both the service inception date and the grant date occur. This is consistent with the definition of requisite service period, which states that if an award requires future service for vesting, the entity cannot define a prior period as the requisite service period. The requisite service period would be two years, commencing on January 1, 20X6.
+· > Example 7: Tandem Awards
+718-10-55-116
+A tandem award is an award with two or more components in which exercise of one part cancels the other(s). In contrast, a combination award is an award with two or more separate components, all of which can be exercised. The following Cases illustrates one aspect of the guidance in paragraph 718-10-25-15:
+aShare option or cash settled stock appreciation rights (Case A)
+bPhantom shares or share options (Case B).
+718-10-55-116A
+Cases A and B of this Example (see paragraphs 718-10-55-117 through 55-130) describe employee awards. However, the principles on accounting for employee awards, except for compensation cost attribution, are the same for nonemployee awards. Therefore, the guidance in these Cases may serve as implementation guidance for nonemployee awards.
+718-10-55-116B
+Compensation cost attribution for awards to nonemployees may be the same as or different from the attribution for the employee awards in Case A (see paragraph 718-10-55-119) and Case B (see paragraph 718-10-55-130). That is because an entity is required to recognize compensation cost for nonemployee awards in the same manner as if the entity had paid cash in accordance with paragraph 718-10-25-2C. Additionally, valuation amounts used in the Cases could be different because an entity may elect to use the contractual term as the expected term of share options and similar instruments when valuing nonemployee share-based transactions.
+· · > Case A: Share Option or Cash Settled Stock Appreciation Rights
+718-10-55-117
+This Case illustrates the accounting for a tandem award in which employees have a choice of either share options or cash-settled stock appreciation rights. Entity T grants to its employees an award of 900,000 share options or 900,000 cash-settled stock appreciation rights on January 1, 20X5. The award vests on December 31, 20X7, and has a contractual life of 10 years. If an employee exercises the stock appreciation rights, the related share options are cancelled. Conversely, if an employee exercises the share options, the related stock appreciation rights are cancelled.
+718-10-55-118
+The tandem award results in Entity T's incurring a liability because the employees can demand settlement in cash. If Entity T could choose whether to settle the award in cash or by issuing stock, the award would be an equity instrument unless Entity T's predominant past practice is to settle most awards in cash or to settle awards in cash whenever requested to do so by the employee, indicating that Entity T has incurred a substantive liability as indicated in paragraph 718-10-25-15. In this Case, however, Entity T incurs a liability to pay cash, which it will recognize over the requisite service period. The amount of the liability will be adjusted each year to reflect changes in its fair value. If employees choose to exercise the share options rather than the stock appreciation rights, the liability is settled by issuing stock.
+718-10-55-119
+The fair value of the stock appreciation rights at the grant date is $12,066,454, as computed in Example 1 (see paragraph 718-30-55-1), because the value of the stock appreciation rights and the value of the share options are equal. Accordingly, at the end of 20X5, when the assumed fair value per stock appreciation right is $10, the amount of the liability is $8,214,060 (821,406 cash-settled stock appreciation rights expected to vest × $10). One-third of that amount, $2,738,020, is recognized as compensation cost for 20X5. At the end of each year during the vesting period, the liability is remeasured to its fair value for all stock appreciation rights expected to vest. After the vesting period, the liability for all outstanding vested awards is remeasured through the date of settlement.
+· · > Case B: Phantom Shares or Share Options
+718-10-55-120
+This Case illustrates a tandem award in which the components have different values after the grant date, depending on movements in the price of the entity's stock. The employee's choice of which component to exercise will depend on the relative values of the components when the award is exercised.
+718-10-55-121
+Entity T grants to its chief executive officer an immediately vested award consisting of the following two parts:
+a1,000 phantom share units (units) whose value is always equal to the value of 1,000 shares of Entity T's common stock
+bShare options on 3,000 shares of Entity T's stock with an exercise price of $30 per share.
+718-10-55-122
+At the grant date, Entity T's share price is $30 per share. The chief executive officer may choose whether to exercise the share options or to cash in the units at any time during the next five years. Exercise of all of the share options cancels all of the units, and cashing in all of the units cancels all of the share options. The cash value of the units will be paid to the chief executive officer at the end of five years if the share option component of the tandem award is not exercised before then.
+718-10-55-123
+With a 3-to-1 ratio of share options to units, exercise of 3 share options will produce a higher gain than receipt of cash equal to the value of 1 share of stock if the share price appreciates from the grant date by more than 50 percent. Below that point, one unit is more valuable than the gain on three share options. To illustrate that relationship, the results if the share price increases 50 percent to $45 are as follows.
+718-10-55-124
+If the price of Entity T's common stock increases to $45 per share from its price of $30 at the grant date, each part of the tandem grant will produce the same net cash payment (ignoring transaction costs) to the chief executive officer. If the price increases to $44, the value of 1 share of stock exceeds the gain on exercising 3 share options, which would be $42 [3 × ($44-$30)]. But if the price increases to $46, the gain on exercising 3 share options, $48 [3 × ($46-$30)], exceeds the value of 1 share of stock.
+718-10-55-125
+At the grant date, the chief executive officer could take $30,000 cash for the units and forfeit the share options. Therefore, the total value of the award at the grant date must exceed $30,000 because at share prices above $45, the chief executive officer receives a higher amount than would the holder of 1 share of stock. To exercise the 3,000 options, the chief executive officer must forfeit the equivalent of 1,000 shares of stock, in addition to paying the total exercise price of $90,000 (3,000 × $30). In effect, the chief executive officer receives only 2,000 shares of Entity T stock upon exercise. That is the same as if the share option component of the tandem award consisted of share options to purchase 2,000 shares of stock for $45 per share.
+718-10-55-126
+The cash payment obligation associated with the units qualifies the award as a liability of Entity T. The maximum amount of that liability, which is indexed to the price of Entity T's common stock, is $45,000 because at share prices above $45, the chief executive officer will exercise the share options.
+718-10-55-127
+In measuring compensation cost, the award may be thought of as a combination —not tandem—grant of both of the following:
+a1,000 units with a value at grant of $30,000
+b2,000 options with a strike price of $45 per share.
+718-10-55-128
+Compensation cost is measured based on the combined value of the two parts.
+718-10-55-129
+The fair value per share option with an exercise price of $45 is assumed to be $10. Therefore, the total value of the award at the grant date is as follows.
+718-10-55-130
+Therefore, compensation cost recognized at the date of grant (the award is immediately vested) would be $30,000 with a corresponding credit to a share-based compensation liability of $30,000. However, because the share option component is the substantive equivalent of 2,000 deep out-of-the-money options, it contains a derived service period (assumed to be 2 years). Hence, compensation cost for the share option component of $20,000 would be recognized over the requisite service period. The share option component would not be remeasured because it is not a liability. That total amount of both components (or $50,000) is more than either of the components by itself, but less than the total amount if both components (1,000 units and 3,000 share options with an exercise price of $30) were exercisable. Because granting the units creates a liability, changes in the liability that result from increases or decreases in the price of Entity T's share price would be recognized each period until exercise, except that the amount of the liability would not exceed $45,000.
+· > Example 8: Book Value Plans for Employees
+718-10-55-131
+A nonpublic entity that is not a Securities and Exchange Commission (SEC) registrant has two classes of stock. Class A is voting and held only by the members of the founding family, and Class B (book value shares) is nonvoting and held only by employees. The purchase price of Class B shares is a formula price based on book value. Class B shares require that the employee, six months after retirement or separation from the entity, sell the shares back to the entity for cash at a price determined by using the same formula used to establish the purchase price. Class B shares may not be required to be accounted for as liabilities pursuant to Topic 480 because the entity is a nonpublic entity that is not an SEC registrant. Nevertheless, Class B shares may be classified as liabilities if they are granted as part of a share-based payment transaction and those shares contain certain repurchase features meeting criteria in paragraph 718-10-25-9; this Example assumes that Class B shares do not meet those criteria. Because book value shares of public entities generally are not indexed to their stock prices, such shares would be classified as liabilities pursuant to this Topic.
+718-10-55-132
+Determining whether a transaction involving Class B shares is compensatory will depend on the terms of the arrangement. For instance, if an employee acquires 100 shares of Class B stock in exchange for cash equal to the formula price of those shares, the transaction is not compensatory because the employee has acquired those shares on the same terms available to all other Class B shareholders and at the current formula price based on the current book value. Subsequent changes in the formula price of those shares held by the employee are not deemed compensation for services.
+718-10-55-133
+However, if an employee acquires 100 shares of Class B stock in exchange for cash equal to 50 percent of the formula price of those shares, the transaction is compensatory because the employee is not paying the current formula price. Therefore, the value of the 50 percent discount should be attributed over the requisite service period. However, subsequent changes in the formula price of those shares held by the employee are not compensatory.
+· > Example 9: Disclosure
+718-10-55-134
+This Example illustrates disclosures (see paragraphs 718-10-50-1 through 50-2) of a public entity's share-based compensation arrangements. The illustration assumes that compensation cost has been recognized in accordance with this Topic for several years. The amount of compensation cost recognized each year includes both costs from that year's grants and costs from prior years' grants. The number of options outstanding, exercised, forfeited, or expired each year includes options granted in prior years. Although this Example focuses on employee share-based payment plans, the disclosures are equally applicable to share-based payment awards issued to nonemployees. An entity should refer to the guidance in paragraph 718-10-50-2(g) when evaluating whether separate disclosure of nonemployee share-based payment awards is warranted.
+718-10-55-135
+On December 31, 20Y1, the Entity has two share-based compensation plans: The compensation cost that has been charged against income for those plans was $29.4 million, $28.7 million, and $23.3 million for 20Y1, 20Y0, and 20X9, respectively. The total income tax benefit recognized in the income statement for share-based compensation arrangements was $10.3 million, $10.1 million, and $8.2 million for 20Y1, 20Y0, and 20X9, respectively. Compensation cost capitalized as part of inventory and fixed assets for 20Y1, 20Y0, and 20X9 was $0.5 million, $0.2 million, and $0.4 million, respectively.
+· · > Case A: Share Option Plan
+718-10-55-136
+The following illustrates disclosure for a share option plan.
+The Entity's 20X4 employee share option plan, which is shareholder-approved, permits the grant of share options and shares to its employees for up to 8 million shares of common stock. Entity A believes that such awards better align the interests of its employees with those of its shareholders. Option awards are generally granted with an exercise price equal to the market price of Entity A's stock at the date of grant; those option awards generally vest based on 5 years of continuous service and have 10-year contractual terms. Share awards generally vest over five years. Certain option and share awards provide for accelerated vesting if there is a change in control (as defined in the employee share option plan).
+The fair value of each option award is estimated on the date of grant using a lattice-based option valuation model that uses the assumptions noted in the following table. Because lattice-based option valuation models incorporate ranges of assumptions for inputs, those ranges are disclosed. Expected volatilities are based on implied volatilities from traded options on Entity A's stock, historical volatility of Entity A's stock, and other factors. Entity A uses historical data to estimate option exercise and employee termination within the valuation model; separate groups of employees that have similar historical exercise behavior are considered separately for valuation purposes. The expected term of options granted is derived from the output of the option valuation model and represents the period of time that options granted are expected to be outstanding; the range given below results from certain groups of employees exhibiting different behavior. The risk-free rate for periods within the contractual life of the option is based on the U.S. Treasury yield curve in effect at the time of grant.
+A summary of option activity under the employee share option plan as of December 31, 20Y1, and changes during the year then ended is presented below.
+The weighted-average grant-date fair value of options granted during the years 20Y1, 20Y0, and 20X9 was $19.57, $17.46, and $15.90, respectively. The total intrinsic value of options exercised during the years ended December 31, 20Y1, 20Y0, and 20X9, was $25.2 million, $20.9 million, and $18.1 million, respectively.
+A summary of the status of Entity A's nonvested shares as of December 31, 20Y1, and changes during the year ended December 31, 20Y1, is presented below.
+As of December 31, 20Y1, there was $25.9 million of total unrecognized compensation cost related to nonvested share-based compensation arrangements granted under the employee share option plan. That cost is expected to be recognized over a weighted-average period of 4.9 years. The total fair value of shares vested during the years ended December 31, 20Y1, 20Y0, and 20X9, was $22.8 million, $21 million, and $20.7 million, respectively.
+During 20Y1, Entity A extended the contractual life of 200,000 fully vested share options held by 10 employees. As a result of that modification, the Entity recognized additional compensation expense of $1.0 million for the year ended December 31, 20Y1.
+· · > Case B: Performance Share Option Plan
+718-10-55-137
+The following illustrates disclosure for a performance share option plan.
+Under its 20X7 performance share option plan, which is shareholder-approved, each January 1 Entity A grants selected executives and other key employees share option awards whose vesting is contingent upon meeting various departmental and company-wide performance goals, including decreasing time to market for new products, revenue growth in excess of an index of competitors' revenue growth, and sales targets for Segment X. Share options under the performance share option plan are generally granted at-the-money, contingently vest over a period of 1 to 5 years, depending on the nature of the performance goal, and have contractual lives of 7 to 10 years. The number of shares subject to options available for issuance under this plan cannot exceed 5 million.
+The fair value of each option grant under the performance share option plan was estimated on the date of grant using the same option valuation model used for options granted under the employee share option plan and assumes that performance goals will be achieved. If such goals are not met, no compensation cost is recognized and any recognized compensation cost is reversed. The inputs for expected volatility, expected dividends, and risk-free rate used in estimating those options' fair value are the same as those noted in the table related to options issued under the employee share option plan. The expected term for options granted under the performance share option plan in 20Y1, 20Y0, and 20X9 is 3.3 to 5.4 years, 2.4 to 6.5 years, and 2.5 to 5.3 years, respectively.
+A summary of the activity under the performance share option plan as of December 31, 20Y1, and changes during the year then ended is presented below.
+The weighted-average grant-date fair value of options granted during the years 20Y1, 20Y0, and 20X9 was $17.32, $16.05, and $14.25, respectively. The total intrinsic value of options exercised during the years ended December 31, 20Y1, 20Y0, and 20X9, was $5 million, $8 million, and $3 million, respectively. As of December 31, 20Y1, there was $16.9 million of total unrecognized compensation cost related to nonvested share-based compensation arrangements granted under the performance share option plan; that cost is expected to be recognized over a period of 4 years.
+Cash received from option exercise under all share-based payment arrangements for the years ended December 31, 20Y1, 20Y0, and 20X9, was $32.4 million, $28.9 million, and $18.9 million, respectively. The actual tax benefit for the tax deductions from option exercise of the share-based payment arrangements totaled $11.3 million, $10.1 million, and $6.6 million, respectively, for the years ended December 31, 20Y1, 20Y0, and 20X9.
+Entity A has a policy of repurchasing shares on the open market to satisfy share option exercises and expects to repurchase approximately 1 million shares during 20Y2, based on estimates of option exercises for that period.
+· > Example 10: Profits Interest and Similar Awards
+718-10-55-138
+PENDING CONTENT
+Transition Date: December 16, 2024;  December 16, 2025Transition Guidance:718-10-65-17
+This Example illustrates how an entity should apply the guidance in paragraph 718-10-15-3 to determine whether a profits interest or similar award is a share-based payment arrangement and is within the scope of this Topic or is not a share-based payment arrangement and, therefore, is within the scope of other Topics. The guidance in this Example is limited to the application of paragraph 718-10-15-3 and does not address how to apply other Sections of this Topic, including recognition, classification, initial measurement, subsequent measurement, other presentation matters, and disclosure.
+718-10-55-139
+PENDING CONTENT
+Transition Date: December 16, 2024;  December 16, 2025Transition Guidance:718-10-65-17
+Cases A, B, C, and D share the following assumptions:
+aEntity X is a partnership. Before June 1, 20X1, Entity X had Class A units outstanding. On June 1, 20X1, Entity X grants Class B incentive units to employees of a subsidiary of Entity X in exchange for services.
+bAn exit event may include an initial public offering, a change in control, or a liquidation of Entity X's assets.
+· · > Case A: Award Is a Share-Based Payment Arrangement
+718-10-55-140
+PENDING CONTENT
+Transition Date: December 16, 2024;  December 16, 2025Transition Guidance:718-10-65-17
+Additional assumptions are as follows:
+aThe Class B units are profits interest units that are subordinated to the Class A units because after vesting they participate pro rata with the Class A units once the holders of the Class A units have received distributions equal to a predetermined distribution threshold established on the grant date of the Class B units.
+bThe Class B units cliff vest at the end of three years of service.
+cUpon an exit event, the Class B units vest immediately if a grantee is still providing services to the subsidiary of Entity X. Upon such an event, the grantee would retain the vested Class B units, or if Class B units are settled through the exit event, Entity X would distribute proceeds to the Class B unit holders in the same manner as is described in (a).
+dIf a grantee of the Class B units terminates employment with the subsidiary of Entity X (whether voluntarily, upon death, disability, or retirement or at the election of Entity X for reasons other than cause), any unvested Class B units will be forfeited for no consideration. If a grantee of the Class B units terminates employment after vesting, the grantee retains ownership of the vested Class B units, but upon the grantee’s termination of employment, Entity X has a call right to repurchase the Class B units. If the call right is exercised, Entity X would pay the grantee of the Class B units an amount of cash equal to the fair value of the Class B units on the call date.
+718-10-55-141
+PENDING CONTENT
+Transition Date: December 16, 2024;  December 16, 2025Transition Guidance:718-10-65-17
+Entity X evaluates the conditions in paragraph 718-10-15-3 to determine whether to account for the Class B units by applying the guidance in this Topic. The Class B units meet the condition in paragraph 718-10-15-3(a) because both of the following indicate that Entity X is offering to issue shares or other equity instruments:
+aEither upon three years of service or an exit event, the grantor will have received the agreed-upon consideration (that is, the service will have been provided and the performance condition will have been met, if applicable) and the award will vest.
+bHolding the vested Class B units provides the grantee with the right to participate in the residual interest of Entity X through periodic distributions, upon an exit event, or upon settlement proportionate to ownership of Class B units of Entity X in accordance with the distribution waterfall described in paragraph 718-10-55-140(a).
+Therefore, Entity X would account for the Class B units by applying the guidance in this Topic.
+· · > Case B: Award Is a Share-Based Payment Arrangement
+718-10-55-142
+PENDING CONTENT
+Transition Date: December 16, 2024;  December 16, 2025Transition Guidance:718-10-65-17
+Additional assumptions are as follows:
+aThe Class B units are profits interest units that are subordinated to the Class A units because once granted, they participate pro rata with the Class A units once the holders of the Class A units have received distributions equal to a predetermined distribution threshold established on the grant date of the Class B units.
+bThe grantee of the Class B units is eligible to begin participating in nonforfeitable operating distributions at the grant date.
+cThe Class B units only vest upon an exit event. Upon such an event, the grantee would retain the vested Class B units, or if Class B units are settled through the exit event, Entity X would distribute proceeds to the Class B unit holders in the same manner as is described in (a). Class B units are forfeitable upon the grantee’s termination for any reason at any time before an exit event.
+718-10-55-143
+PENDING CONTENT
+Transition Date: December 16, 2024;  December 16, 2025Transition Guidance:718-10-65-17
+Entity X evaluates the conditions in paragraph 718-10-15-3 to determine whether to account for the Class B units by applying the guidance in this Topic. The Class B units meet the condition in paragraph 718-10-15-3(a) because both of the following indicate that Entity X is offering to issue shares or other equity instruments:
+aUpon an exit event, the grantor will have received the agreed-upon consideration (that is, the service will have been provided and the performance condition will have been met) and the award will vest.
+bHolding the vested Class B units provides the grantee with the right to participate in the residual interest of Entity X through periodic distributions, upon an exit event, or upon settlement proportionate to ownership of Class B units of Entity X in accordance with the distribution waterfall described in paragraph 718-10-55-142(a).
+Therefore, Entity X would account for the Class B units by applying the guidance in this Topic.
+718-10-55-144
+PENDING CONTENT
+Transition Date: December 16, 2024;  December 16, 2025Transition Guidance:718-10-65-17
+The grantee of the Class B units is not entitled to retain the units if the grantee ceases to provide services before an exit event. Upon termination of employment before an exit event, the grantee of the Class B units would forfeit all rights to future distributions and would forfeit Class B units for no consideration. Entity X would account for the grantee’s right to participate in nonforfeitable operating distributions in accordance with paragraph 718-10-55-45.
+· · > Case C: Award Is a Share-Based Payment Arrangement
+718-10-55-145
+PENDING CONTENT
+Transition Date: December 16, 2024;  December 16, 2025Transition Guidance:718-10-65-17
+Additional assumptions are as follows:
+aThe Class B units do not entitle the grantee to receive equity instruments of Entity X. This type of unit is often referred to as a phantom share unit.
+bThe grantee of the Class B units is not eligible to participate in distributions in the ordinary course of business.
+cThe grantee of the Class B units is eligible to receive cash upon an exit event. Upon an exit event, the Class B units vest immediately and must be settled in cash on the basis of the fair value of the Class B units. The fair value of the Class B units is calculated by reference to the price of Class A units of Entity X as determined at the date of the exit event.
+dThe grantee of the Class B units must be providing services when the exit event occurs to receive any proceeds, and the Class B units are forfeitable upon the grantee’s termination for any reason at any time before an exit event.
+718-10-55-146
+PENDING CONTENT
+Transition Date: December 16, 2024;  December 16, 2025Transition Guidance:718-10-65-17
+Entity X evaluates the conditions in paragraph 718-10-15-3 to determine whether to account for the Class B units by applying the guidance in this Topic. The Class B units do not meet the condition in paragraph 718-10-15-3(a) because they do not entitle the grantee to receive shares or other equity instruments of Entity X; therefore, Entity X is not issuing, or offering to issue, shares, share options, or other equity instruments. However, the condition in paragraph 718-10-15-3(b)(1) is met because the cash proceeds received by the grantee upon settlement in an exit event are based, at least in part, on the price of Entity X’s shares. Therefore, Entity X would account for the Class B units by applying the guidance in this Topic.
+· · > Case D: Award Is Not a Share-Based Payment Arrangement
+718-10-55-147
+PENDING CONTENT
+Transition Date: December 16, 2024;  December 16, 2025Transition Guidance:718-10-65-17
+Additional assumptions are as follows:
+aThe Class B units do not entitle the grantee to receive equity instruments of Entity X. This type of unit is often referred to as a phantom share unit.
+bThe grantee of the Class B units is eligible to participate in operating distributions made by Entity X equal to 1 percent of the preceding fiscal year’s net income. The grantee of the Class B units is eligible to begin participating in these operating distributions after three years of service.
+cThe grantee of the Class B units is not eligible to participate in any proceeds distributed upon an exit event.
+dThe Class B units are forfeitable upon the grantee’s termination for any reason at any time (including after the grantee has rendered three years of service).
+718-10-55-148
+PENDING CONTENT
+Transition Date: December 16, 2024;  December 16, 2025Transition Guidance:718-10-65-17
+Entity X evaluates the conditions in paragraph 718-10-15-3 to determine whether to account for the Class B units by applying the guidance in this Topic. The Class B units do not meet the condition in paragraph 718-10-15-3(a) because they do not entitle the grantee to receive shares or other equity instruments of Entity X; therefore, Entity X is not issuing or offering to issue shares, share options, or other equity instruments. In addition, the condition in paragraph 718-10-15-3(b)(1) is not met because the proceeds received by the grantee related to operating distributions are based on an operating metric (1 percent of the preceding fiscal year’s net income) of Entity X and are not based, at least in part, on the price of Entity X’s shares. Furthermore, the condition in paragraph 718-10-15-3(b)(2) is not met because there is no circumstance in which Entity X would be required to issue its equity shares or other equity instruments. Therefore, Entity X would not apply the guidance in this Topic to account for the Class B units and, instead, would account for the Class B units in accordance with other Topics.
+
+60 Relationships
+General Note:The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
+General
+> Equity
+718-10-60-1
+For guidance related to an investor providing stock compensation on behalf of an investee, see paragraph 505-10-25-3 for investee accounting.
+> Business Combinations
+718-10-60-1A
+For guidance on accounting for contractual termination benefits and curtailment losses under employee benefit plans that will be triggered by the consummation of a business combination, see paragraphs 805-20-55-50 through 55-51.
+> Derivatives and Hedging
+718-10-60-1B
+For guidance related to equity-linked financial instruments issued to investors for purposes of establishing a market-based measure of the grant-date fair value of stock options granted in share-based payment transactions, see paragraph 815-40-15-5A.
+718-10-60-2
+For guidance related to stock options in an unrelated entity granted in a share-based payment transaction, see paragraphs 815-10-55-46 through 55-48.
+
+65 Transition and Open Effective Date Information
+General Note:The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
+General
+718-10-65-1
+Paragraph superseded on 03/30/2016 by Accounting Standards Update No. 2016-09, Compensation—Stock Compensation (Topic 718): Improvements to Employee Share-Based Payment Accounting.
+718-10-65-2
+Paragraph superseded on 06/18/2012 after the end of the transition period stated in Accounting Standards Update No. 2010-13, Compensation—Stock Compensation (Topic 718): Effect of Denominating the Exercise Price of a Share-Based Payment Award in the Currency of the Market in Which the Underlying Equity Security Trades.
+718-10-65-3
+Paragraph superseded on 07/05/2017 after the end of the transition period stated in Accounting Standards Update No. 2014-12, Compensation—Stock Compensation (Topic 718): Accounting for Share-Based Payments When the Terms of an Award Provide That a Performance Target Could Be Achieved after the Requisite Service Period.
+718-10-65-4
+Paragraph superseded on 07/17/2019 after the end of the transition period stated in Accounting Standards Update No. 2016-09, Compensation—Stock Compensation (Topic 718): Improvements to Employee Share-Based Payment Accounting.
+718-10-65-5
+Paragraph superseded on 07/17/2019 after the end of the transition period stated in Accounting Standards Update No. 2016-09, Compensation—Stock Compensation (Topic 718): Improvements to Employee Share-Based Payment Accounting.
+718-10-65-6
+Paragraph superseded on 07/17/2019 after the end of the transition period stated in Accounting Standards Update No. 2016-09, Compensation—Stock Compensation (Topic 718): Improvements to Employee Share-Based Payment Accounting.
+718-10-65-7
+Paragraph superseded on 07/17/2019 after the end of the transition period stated in Accounting Standards Update No. 2016-09, Compensation—Stock Compensation (Topic 718): Improvements to Employee Share-Based Payment Accounting.
+718-10-65-8
+Paragraph superseded on 07/17/2019 after the end of the transition period stated in Accounting Standards Update No. 2016-09, Compensation—Stock Compensation (Topic 718): Improvements to Employee Share-Based Payment Accounting.
+718-10-65-9
+Paragraph superseded on 07/17/2019 after the end of the transition period stated in Accounting Standards Update No. 2016-09, Compensation—Stock Compensation (Topic 718): Improvements to Employee Share-Based Payment Accounting.
+718-10-65-10
+Paragraph superseded on 07/17/2019 after the end of the transition period stated in Accounting Standards Update No. 2016-09, Compensation—Stock Compensation (Topic 718): Improvements to Employee Share-Based Payment Accounting.
+718-10-65-11
+Paragraph superseded on 08/19/2021 after the end of the transition period stated in Accounting Standards Update No. 2018-07, Compensation—Stock Compensation (Topic 718): Improvements to Nonemployee Share-Based Payment Accounting.
+718-10-65-12
+Paragraph superseded on 08/19/2021 after the end of the transition period stated in Accounting Standards Update No. 2018-07, Compensation—Stock Compensation (Topic 718): Improvements to Nonemployee Share-Based Payment Accounting.
+718-10-65-13
+Paragraph superseded on 08/19/2021 after the end of the transition period stated in Accounting Standards Update No. 2018-07, Compensation—Stock Compensation (Topic 718): Improvements to Nonemployee Share-Based Payment Accounting.
+718-10-65-14
+Paragraph superseded on 08/19/2021 after the end of the transition period stated in Accounting Standards Update No. 2018-07, Compensation—Stock Compensation (Topic 718): Improvements to Nonemployee Share-Based Payment Accounting.
+718-10-65-15
+Paragraph superseded on 08/19/2021 after the end of the transition period stated in Accounting Standards Update No. 2019-08, Compensation—Stock Compensation (Topic 718) and Revenue from Contracts with Customers (Topic 606): Codification Improvements—Share-Based Consideration Payable to a Customer.
+718-10-65-16
+Paragraph superseded on 07/10/2023 after the end of the transition period stated in Accounting Standards Update No. 2021-07, Compensation—Stock Compensation (Topic 718): Determining the Current Price of an Underlying Share for Equity-Classified Share-Based Awards.
+> Transition Related to Accounting Standards Update No. 2024-01, Compensation—Stock Compensation (Topic 718): Scope Application of Profits Interest and Similar Awards
+718-10-65-17
+The following represents the transition and effective date information related to Accounting Standards Update No. 2024-01, Compensation—Stock Compensation (Topic 718): Scope Application of Profits Interest and Similar Awards:
+aThe pending content that links to this paragraph shall be effective for public business entities for annual periods beginning after December 15, 2024, and interim periods within those annual periods.
+bFor entities other than public business entities, the pending content that links to this paragraph shall be effective for annual periods beginning after December 15, 2025, and interim periods within those annual periods.
+cEarly adoption of the pending content that links to this paragraph is permitted for both interim and annual financial statements that have not yet been issued or made available for issuance. If an entity adopts the pending content that links to this paragraph in an interim period, it shall adopt the pending content as of the beginning of the annual period that includes that interim period.
+dAn entity shall apply the pending content that links to this paragraph either:
+1Retrospectively to all prior periods presented in the financial statements in accordance with paragraphs 250-10-45-5 through 45-8. An entity that selects retrospective application shall provide the disclosures in paragraphs 250-10-50-1 through 50-3 in the period of adoption.
+2Prospectively to profits interest or similar awards granted or modified on or after the date at which the entity first applies the pending content that links to this paragraph with disclosure that describes the nature of and reason for the change in accounting principle.
+
+S00 Status
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General
+718-10-S00-1
+The following table identifies the changes made to this Subtopic.
+Paragraph	Action	Accounting Standards Update	Date
+			
+718-10-S25-1	Added	Accounting Standards Update No. 2010-05	01/15/2010
+718-10-S30-1	Amended	Accounting Standards Update No. 2009-04	08/26/2009
+718-10-S45-2	Amended	Accounting Standards Update No. 2009-04	08/26/2009
+718-10-S50-1	Amended	Accounting Standards Update No. 2009-07	09/15/2009
+718-10-S99-1	Amended	Accounting Standards Update No. 2023-03	07/14/2023
+718-10-S99-1	Amended	Accounting Standards Update No. 2012-03	08/27/2012
+718-10-S99-1	Amended	Accounting Standards Update No. 2009-07	09/15/2009
+718-10-S99-1	Amended	Accounting Standards Update No. 2009-03	08/24/2009
+718-10-S99-2	Added	Accounting Standards Update No. 2010-05	01/15/2010
+
+S15 Scope and Scope Exceptions
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+General
+> Applicability of Topic 718 to Share-Based Transactions with Nonemployees
+718-10-S15-1
+See paragraph 718-10-S99-1, SAB Topic 14.A, for SEC Staff views regarding the applicability of Topic 718 to transactions with nonemployees.
+
+S25 Recognition
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+General
+> Escrowed Share Arrangements and the Presumption of Compensation
+718-10-S25-1
+See paragraph 718-10-S99-2: SEC Staff Announcement: Escrowed Share Arrangements and the Presumption of Compensation, for SEC Staff views on the accounting for escrowed share arrangements.
+
+S30 Initial Measurement
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+General
+> Initial Carrying Amount of Certain Employee Share-Based Payment Arrangements with Redemption Provisions
+718-10-S30-1
+See paragraph 480-10-S99-3A, SEC Staff Announcement: Classification and Measurement of Redeemable Securities, for SEC Staff views on the accounting for options or similar instruments granted in conjunction with share-based payment arrangements with employees for which the terms may permit redemption of the option or underlying share.
+
+S45 Other Presentation Matters
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+General
+> Presentation of Compensation Expense Associated with Share-Based Payment Arrangements
+718-10-S45-1
+See paragraph 718-10-S99-1, SAB Topic 14.F, for SEC Staff views on income statement presentation of the expense related to share-based payment arrangements.
+> Consideration of Redemption Features on Classification of Certain Employee Share-Based Payment Awards
+718-10-S45-2
+See paragraph 480-10-S99-3A, SEC Staff Announcement: Classification and Measurement of Redeemable Securities, for SEC Staff views on classification of certain employee share-based payment awards with redemption features.
+
+S50 Disclosure
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General
+> Disclosures Upon Becoming a Public Entity
+718-10-S50-1
+See paragraph 718-10-S99-1, SAB Topic 14.B, Question 4, for SEC Staff views on appropriate disclosures upon becoming a public entity in addition to those prescribed by paragraphs 718-10-50-1 through 50-4.
+> Changes in Valuation Technique or Model Used to Value Instruments
+718-10-S50-2
+See paragraph 718-10-S99-1, SAB Topic 14.C, Question 3, for SEC Staff views on disclosures pertaining to a change in valuation technique or model used to value instruments.
+> Changes in Assumptions Used in Valuation Models
+718-10-S50-3
+See paragraph 718-10-S99-1, SAB Topic 14.D, for SEC Staff views on disclosures pertaining to changes in assumptions used in valuation models.
+> Expected Volatility Assumptions
+718-10-S50-4
+See paragraph 718-10-S99-1, SAB Topic 14.D.1, Question 5, for SEC Staff views on disclosures pertaining to an entity's assumption of expected volatility.
+> Expected Term
+718-10-S50-5
+See paragraph 718-10-S99-1, SAB Topic 14.D.2, Question 6, for SEC Staff views on disclosures pertaining to an entity's assumption of expected term.
+> First Time Adoption of Topic 718 in an Interim Period
+718-10-S50-6
+See paragraph 718-10-S99-1, SAB Topic 14.H, for SEC Staff views on interim disclosures pertaining to the first time adoption of Topic 718.
+> Modification of Employee Share Options Before Adoption of Topic 718
+718-10-S50-7
+See paragraph 718-10-S99-1, SAB Topic 14.K, for SEC Staff views on disclosures pertaining to the modification of significant terms of outstanding awards.
+
+S55 Implementation Guidance and Illustrations
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+General
+> Accounting Issues Upon Transition from Nonpublic to Public Entity
+718-10-S55-1
+See paragraph 718-10-S99-1, SAB Topic 14.B., for SEC Staff views on issues pertaining to the transition from a nonpublic to a public entity.
+> Valuation Methods
+718-10-S55-2
+See paragraph 718-10-S99-1, SAB Topic 14.C, for SEC Staff views on the use of valuation techniques or models to estimate fair value.
+> Certain Assumptions Used in Valuation Methods
+· > Expected Volatility
+718-10-S55-3
+See paragraph 718-10-S99-1, SAB Topic 14.D.1, for SEC Staff views on the factors to be considered when estimating expected volatility.
+· > Expected Term
+718-10-S55-4
+See paragraph 718-10-S99-1, SAB Topic 14.D.2, for SEC Staff views on factors to be considered when estimating expected term.
+> Modification of Employee Share Options Before Adoption of Topic 718
+718-10-S55-5
+See paragraph 718-10-S99-1, SAB Topic 14.K, for SEC Staff views on the modification of employee share options before the adoption of Topic 718.
+> Application of the Measurement Provisions of Topic 718 to Foreign Private Issuers
+718-10-S55-6
+See paragraph 718-10-S99-1, SAB Topic 14.L, for SEC Staff views on the application of the measurement provisions of Topic 718 to foreign private issuers.
+
+S60 Relationships
+General Note:The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
+General
+> Accounting by an Investor for Stock-Based Compensation Granted to Employees of an Equity Method Investee
+718-10-S60-1
+See paragraph 323-10-S99-4, SEC Observer Comment: Accounting by an Investor for Stock-based Compensation Granted to Employees of an Equity Method Investee, for SEC Staff views on classification by an investor of investor shares issued to employees of an equity method investee.
+
+S99 SEC Materials
+General Note:As more fully described in About the Codification, the Codification includes selected SEC and SEC Staff content for reference by public companies. The Codification does not replace or affect how the SEC or SEC Staff issues or updates SEC content. SEC Staff content does not constitute Commission-approved rules or interpretations of the SEC.
+General
+> SEC Staff Guidance
+· > Staff Accounting Bulletins
+· · > SAB Topic 14, Share-Based Payment
+718-10-S99-1
+The following is the text of SAB Topic 14, Share-Based Payment.
+The interpretations in this SAB express views of the staff regarding the interaction between FASB ASC Topic 718, Compensation—Stock Compensation, and certain SEC rules and regulations and provide the staff's views regarding the valuation of share-based payment arrangements for public companies. FASB ASC Topic 718 is based on the underlying accounting principle that compensation cost resulting from share-based payment transactions be recognized in financial statements at fair value. FN1 Recognition of compensation cost at fair value will provide investors and other users of financial statements with more complete and comparable financial information.
+FN1 FASB ASC paragraphs 718-10-30-2 through 30-4.
+FASB ASC Topic 718 addresses a wide range of share-based compensation arrangements including share options, restricted share plans, performance-based awards, share appreciation rights, and employee share purchase plans.
+FASB ASC Topic 718 replaced guidance originally issued in 1995 that established as preferable, but did not require, a fair-value-based method of accounting for share-based payment transactions with employees. It also replaced guidance originally issued in 1996 that provided different recognition and measurement requirements for share-based payment awards granted to nonemployees than for those granted to employees.
+The staff believes the guidance in this SAB will assist issuers in their application of FASB ASC Topic 718 and enhance the information received by investors and other users of financial statements, thereby assisting them in making investment and other decisions. This SAB includes interpretive guidance related to the transition from nonpublic to public entity FN2 status, valuation methods (including assumptions such as expected volatility, expected term, and current price of the underlying share, particularly when valuing spring-loaded awardsFN3), the accounting for certain redeemable financial instruments issued under share-based payment arrangements, the classification of compensation expense, and capitalization of compensation cost related to share-based payment arrangements.
+FN2 Defined in the FASB ASC Master Glossary.
+FN3 A share-based payment award granted when a company is in possession of material nonpublic information to which the market is likely to react positively when the information is announced is sometimes referred to as being "spring-loaded." The interpretive guidance included in this SAB with respect to spring-loaded share-based payment awards is not limited to share options, and applies to all instruments including, for example, restricted stock units.
+The staff recognizes that there is a range of conduct that a reasonable issuer might use to make estimates and valuations and otherwise apply FASB ASC Topic 718, and the interpretive guidance provided by this SAB. Thus, throughout this SAB the use of the terms "reasonable" and "reasonably" is not meant to imply a single conclusion or methodology, but to encompass the full range of potential conduct, conclusions or methodologies upon which an issuer may reasonably base its valuation decisions. Different conduct, conclusions or methodologies by different issuers in a given situation does not of itself raise an inference that any of those issuers is acting unreasonably. While the zone of reasonable conduct is not unlimited, the staff expects that it will be rare, except when observable market prices of identical or similar equity or liability instruments in active markets are available, when there is only one acceptable choice in estimating the fair value of share-based payment arrangements under the provisions of FASB ASC Topic 718 and the interpretive guidance provided by this SAB in any given situation. In addition, as discussed in the Interpretive Response to Question 1 of Section C, Valuation Methods, estimates of fair value are not intended to predict actual future events, and subsequent events are not indicative of the reasonableness of the original estimates of fair value made under FASB ASC Topic 718.
+A. Removed by SAB 120
+B. Transition From Nonpublic to Public Entity Status
+Facts: Company A is a nonpublic entity FN4 that first files a registration statement with the SEC to register its equity securities for sale in a public market on January 2, 20X8. As a nonpublic entity, Company A had been assigning value to its share options FN5 under the calculated value method prescribed by FASB ASC Topic 718, Compensation—Stock Compensation, FN6 and had elected to measure its liability awards based on intrinsic value. Company A is considered a public entity on January 2, 20X8 when it makes its initial filing with the SEC in preparation for the sale of its shares in a public market.
+FN4 Defined in the FASB ASC Master Glossary.
+FN5 For purposes of this staff accounting bulletin, the phrase "share options" is used to refer to "share options or similar instruments."
+FN6 FASB ASC paragraph 718-10-30-20 requires a nonpublic entity to use the calculated value method when it is not able to reasonably estimate the fair value of its equity share options and similar instruments because it is not practicable for it to estimate the expected volatility of its share price. FASB ASC paragraph 718-10-55-51 indicates that a nonpublic entity may be able to identify similar public entities for which share or option price information is available and may consider the historical, expected, or implied volatility of those entities' share prices in estimating expected volatility. The staff would expect an entity that becomes a public entity and had previously measured its share options under the calculated value method to be able to support its previous decision to use calculated value and to provide the disclosures required by FASB ASC subparagraph 718-10-50-2(f)(2)(ii).
+Question 1: How should Company A account for the share options that were granted prior to January 2, 20X8 for which the requisite service has not been rendered by January 2, 20X8?
+Interpretive Response: Prior to becoming a public entity, Company A had been assigning value to its share options under the calculated value method. The staff believes that Company A should continue to follow that approach for those share options that were granted prior to January 2, 20X8, unless those share options are subsequently modified, repurchased or cancelled. FN7 If the share options are subsequently modified, repurchased or cancelled, Company A would assess the event under the public company provisions of FASB ASC Topic 718. For example, if Company A modified the share options on February 1, 20X8, any incremental compensation cost would be measured under FASB ASC subparagraph 718-20-35-3(a), as the fair value of the modified share options over the fair value of the original share options measured immediately before the terms were modified. FN8
+FN7 This view is consistent with the FASB's basis for rejecting full retrospective application of FASB ASC Topic 718 as described in the basis for conclusions of Statement 123R, paragraph B251.
+FN8 FASB ASC paragraph 718-20-55-94. The staff believes that because Company A is a public entity as of the date of the modification, it would be inappropriate to use the calculated value method to measure the original share options immediately before the terms were modified.
+Question 2: How should Company A account for its liability awards granted prior to January 2, 20X8 that are fully vested but have not been settled by January 2, 20X8?
+Interpretive Response: As a nonpublic entity, Company A had elected to measure its liability awards subject to FASB ASC Topic 718 at intrinsic value. FN9 When Company A becomes a public entity, it should measure the liability awards at their fair value determined in accordance with FASB ASC Topic 718. FN10 In that reporting period there will be an incremental amount of measured cost for the difference between fair value as determined under FASB ASC Topic 718 and intrinsic value. For example, assume the intrinsic value in the period ended December 31, 20X7 was $10 per award. At the end of the first reporting period ending after January 2, 20X8 (when Company A becomes a public entity), assume the intrinsic value of the award is $12 and the fair value as determined in accordance with FASB ASC Topic 718 is $15. The measured cost in the first reporting period after December 31, 20X7 would be $5. FN11
+FN9 FASB ASC paragraph 718-30-30-2.
+FN10 FASB ASC paragraph 718-30-35-3.
+FN11 $15 fair value less $10 intrinsic value equals $5 of incremental cost.
+Question 3: After becoming a public entity, may Company A retrospectively apply the fair-value-based method to its awards that were granted prior to the date Company A became a public entity?
+Interpretive Response: No. Before becoming a public entity, Company A did not use the fair-value-based method for either its share options or its liability awards. The staff does not believe it is appropriate for Company A to apply the fair-value-based method on a retrospective basis, because it would require the entity to make estimates of a prior period, which, due to hindsight, may vary significantly from estimates that would have been made contemporaneously in prior periods. FN12
+FN12 This view is consistent with the FASB's basis for rejecting full retrospective application of FASB ASC Topic 718 as described in the basis for conclusions of Statement 123R, paragraph B251.
+Question 4: Upon becoming a public entity, what disclosures should Company A consider in addition to those prescribed by FASB ASC Topic 718? FN13
+FN13 FASB ASC Section 718-10-50.
+Interpretive Response: In the registration statement filed on January 2, 20X8, Company A should clearly describe in MD&A the change in accounting policy that will be required by FASB ASC Topic 718 in subsequent periods and the reasonably likely material future effects. FN14 In subsequent filings, Company A should provide financial statement disclosure of the effects of the changes in accounting policy. In addition, Company A should consider the requirements of Item 303(b)(3) of Regulation S-K regarding critical accounting estimates in MD&A.
+FN14 See Item 303 of Regulation S-K.
+C. Valuation Methods
+FASB ASC paragraph 718-10-30-6 (Compensation—Stock Compensation Topic) indicates that the measurement objective for equity instruments awarded to grantees is to estimate at the grant date the fair value of the equity instruments the entity is obligated to issue when grantees have delivered the good or rendered the service and satisfied any other conditions necessary to earn the right to benefit from the instruments. FN15 The Topic also states that observable market prices of identical or similar equity or liability instruments in active markets are the best evidence of fair value and, if available, should be used as the basis for the measurement for equity and liability instruments awarded in a share-based payment transaction. FN16 However, if observable market prices of identical or similar equity or liability instruments are not available, the fair value shall be estimated by using a valuation technique or model that complies with the measurement objective, as described in FASB ASC Topic 718. FN17
+FN15 FASB ASC paragraph 718-10-30-1 states that this guidance applies equally to awards classified as liabilities.
+FN16 FASB ASC paragraph 718-10-55-10.
+FN17 FASB ASC paragraph 718-10-55-11.
+Question 1: If a valuation technique or model is used to estimate fair value, to what extent will the staff consider a company's estimates of fair value to be materially misleading because the estimates of fair value do not correspond to the value ultimately realized by the grantees who received the share options?
+Interpretive Response: The staff understands that estimates of fair value of share options, while derived from expected value calculations, cannot predict actual future events. FN18 The estimate of fair value represents the measurement of the cost of the grantee’s goods or services to the company. The estimate of fair value should reflect the assumptions marketplace participants would use in determining how much to pay for an instrument on the fair value measurement date FN19. For example, valuation techniques used in estimating the fair value of share options may consider information about a large number of possible share price paths, while, of course, only one share price path will ultimately emerge. If a company makes a good faith fair value estimate in accordance with the provisions of FASB ASC Topic 718 in a way that is designed to take into account the assumptions that underlie the instrument's value that marketplace participants would reasonably make, then subsequent future events that affect the instrument's value do not provide meaningful information about the quality of the original fair value estimate. As long as the share options were originally so measured, changes in a share option's value, no matter how significant, subsequent to its grant date do not call into question the reasonableness of the grant date fair value estimate.
+FN18 FASB ASC paragraph 718-10-55-15states, "The fair value of those instruments at a single point in time is not a forecast of what the estimated fair value of those instruments may be in the future."
+FN19 Generally, the grant date for equity awards or the reporting date for liability-classified awards.
+Question 2: In order to meet the fair value measurement objective in FASB ASC Topic 718, are certain valuation techniques preferred over others?
+Interpretive Response: FASB ASC paragraph 718-10-55-17 clarifies that the Topic does not specify a preference for a particular valuation technique or model. As stated in FASB ASC paragraph 718-10-55-11 in order to meet the fair value measurement objective, a company should select a valuation technique or model that (a) is applied in a manner consistent with the fair value measurement objective and other requirements of FASB ASC Topic 718, (b) is based on established principles of financial economic theory and generally applied in that field and (c) reflects all substantive characteristics of the instrument (except for those explicitly excluded by FASB ASC Topic 718).
+The chosen valuation technique or model must meet all three of the requirements stated above. In valuing a particular instrument, certain techniques or models may meet the first and second criteria but may not meet the third criterion because the techniques or models are not designed to reflect certain characteristics contained in the instrument. For example, for a share option in which the exercisability is conditional on a specified increase in the price of the underlying shares, the Black-Scholes-Merton closed-form model would not generally be an appropriate valuation model because, while it meets both the first and second criteria, it is not designed to take into account that type of market condition. FN20
+FN20 See FASB ASC paragraphs 718-10-55-16 and 718-10-55-20.
+Further, the staff understands that a company may consider multiple techniques or models that meet the fair value measurement objective before making its selection as to the appropriate technique or model. The staff would not object to a company's choice of a technique or model as long as the technique or model meets the fair value measurement objective. For example, a company is not required to use a lattice model simply because that model was the most complex of the models the company considered.
+Question 3: In subsequent periods, may a company change the valuation technique or model chosen to value instruments with similar characteristics? FN21
+FN21 FASB ASC paragraph 718-10-55-17 indicates that an entity may use different valuation techniques or models for instruments with different characteristics.
+Interpretive Response: As long as the new technique or model meets the fair value measurement objective as described in Question 2 above, the staff would not object to a company changing its valuation technique or model. FN22 A change in the valuation technique or model used to meet the fair value measurement objective would not be considered a change in accounting principle.FN23 As such, a company would not be required to file a preferability letter from its independent accountants as described in Rule 10-01(b)(6) of Regulation S-X when it changes valuation techniques or models. However, the staff would not expect that a company would frequently switch between valuation techniques or models, particularly in circumstances where there was no significant variation in the form of share-based payments being valued. Disclosure in the footnotes of the basis for any change in technique or model would be appropriate. FN24
+FN22 The staff believes that a company should take into account the reason for the change in technique or model in determining whether the new technique or model meets the fair value measurement objective. For example, changing a technique or model from period to period for the sole purpose of lowering the fair value estimate of a share option would not meet the fair value measurement objective of the Topic.
+FN23 FASB ASC paragraph 718-10-55-27.
+FN24 See generally FASB ASC paragraph 718-10-50-1.
+Question 4: Must every company that issues share options or similar instruments hire an outside third party to assist in determining the fair value of the share options?
+Interpretive Response: No. However, the valuation of a company's share options or similar instruments should be performed by a person with the requisite expertise.
+D. Certain Assumptions Used in Valuation Methods
+FASB ASC Topic 718's (Compensation—Stock Compensation Topic) fair value measurement objective for equity instruments awarded to grantees for goods or services is to estimate the grant-date fair value of the equity instruments that the entity is obligated to issue when grantees have delivered the good or rendered the service and satisfied any other conditions necessary to earn the right to benefit from the instruments. FN25 In order to meet this fair value measurement objective, management will generally be required to develop estimates regarding (1) the expected volatility of its company's share price; (2) the expected term of the option, taking into account both the contractual term of the option and the effects of grantees’ expected exercise and post-vesting termination behavior; and (3) the determination of the current price of the underlying share. The staff is providing guidance in the following sections related to the expected volatility, expected term and current share price assumptions to assist public entities in applying those requirements.
+FN25 FASB ASC paragraph 718-10-30-6. FASB ASC paragraph 718-10-30-1 states that this guidance applies equally to awards classified as liabilities.
+1. Expected Volatility
+FASB ASC paragraph 718-10-55-36 states, "Volatility is a measure of the amount by which a financial variable, such as share price, has fluctuated (historical volatility) or is expected to fluctuate (expected volatility) during a period. Option-pricing models require an estimate of expected volatility as an assumption because an option's value is dependent on potential share returns over the option's term. The higher the volatility, the more the returns on the share can be expected to vary—up or down. Because an option's value is unaffected by expected negative returns on the shares, other things [being] equal, an option on a share with higher volatility is worth more than an option on a share with lower volatility."
+Facts: Company B is a public entity whose common shares have been publicly traded for over twenty years. Company B also has multiple options on its shares outstanding that are traded on an exchange ("traded options"). Company B grants share options on January 2, 20X6.
+Question 1: What should Company B consider when estimating expected volatility for purposes of measuring the fair value of its share options?
+Interpretive Response: FASB ASC Topic 718 does not specify a particular method of estimating expected volatility. However, the Topic does clarify that the objective in estimating expected volatility is to ascertain the assumption about expected volatility that marketplace participants would likely use in determining an exchange price for an option. FN26 FASB ASC Topic 718 provides a list of factors entities should consider in estimating expected volatility. FN27 Company B may begin its process of estimating expected volatility by considering its historical volatility. FN28 However, Company B should also then consider, based on available information, how the expected volatility of its share price may differ from historical volatility. FN29 Implied volatility FN30 can be useful in estimating expected volatility because it is generally reflective of both historical volatility and expectations of how future volatility will differ from historical volatility.
+FN26 FASB ASC paragraph 718-10-55-35.
+FN27 FASB ASC paragraph 718-10-55-37.
+FN28 FASB ASC paragraph 718-10-55-40.
+FN29 Ibid.
+FN30 Implied volatility is the volatility assumption inherent in the market prices of a company's traded options or other financial instruments that have option-like features. Implied volatility is derived by entering the market price of the traded financial instrument, along with assumptions specific to the financial options being valued, into a model based on a constant volatility estimate (e.g., the Black-Scholes-Merton closed-form model) and solving for the unknown assumption of volatility.
+The staff believes that companies should make good faith efforts to identify and use sufficient information in determining whether taking historical volatility, implied volatility or a combination of both into account will result in the best estimate of expected volatility. The staff believes companies that have appropriate traded financial instruments from which they can derive an implied volatility should generally consider this measure. The extent of the ultimate reliance on implied volatility will depend on a company's facts and circumstances; however, the staff believes that a company with actively traded options or other financial instruments with embedded options FN31 generally could place greater (or even exclusive) reliance on implied volatility. (See the Interpretive Responses to Questions 3 and 4 below.)
+FN31 The staff believes implied volatility derived from embedded options can be utilized in determining expected volatility if, in deriving the implied volatility, the company considers all relevant features of the instruments (e.g., value of the host instrument, value of the option, etc.). The staff believes the derivation of implied volatility from other than simple instruments (e.g., a simple convertible bond) can, in some cases, be impracticable due to the complexity of multiple features.
+The process used to gather and review available information to estimate expected volatility should be applied consistently from period to period. When circumstances indicate the availability of new or different information that would be useful in estimating expected volatility, a company should incorporate that information.
+Question 2: What should Company B consider if computing historical volatility? FN32
+FN32 See FASB ASC paragraph 718-10-55-37.
+Interpretive Response: The following should be considered in the computation of historical volatility:
+1. Method of Computing Historical Volatility—
+The staff believes the method selected by Company B to compute its historical volatility should produce an estimate that is representative of a marketplace participant’s expectations about Company B's future volatility over the expected (if using a Black-Scholes-Merton closed-form model) or contractual (if using a lattice model) term FN33 of its share options. Certain methods may not be appropriate for longer term share options if they weight the most recent periods of Company B's historical volatility much more heavily than earlier periods. FN34 For example, a method that applies a factor to certain historical price intervals to reflect a decay or loss of relevance of that historical information emphasizes the most recent historical periods and thus would likely bias the estimate to this recent history. FN35
+FN33 For purposes of this staff accounting bulletin, the phrase "expected or contractual term, as applicable" has the same meaning as the phrase "expected (if using a Black-Scholes-Merton closed-form model) or contractual (if using a lattice model) term of a share option."
+FN34 FASB ASC subparagraph 718-10-55-37(a) states that entities should consider historical volatility over a period generally commensurate with the expected or contractual term, as applicable, of the share option. Accordingly, the staff believes methods that place extreme emphasis on the most recent periods may be inconsistent with this guidance.
+FN35 Generalized Autoregressive Conditional Heteroskedasticity (GARCH) is an example of a method that demonstrates this characteristic.
+2. Amount of Historical Data—
+FASB ASC subparagraph 718-10-55-37(a) indicates entities should consider historical volatility over a period generally commensurate with the expected or contractual term, as applicable, of the share option. The staff believes Company B could utilize a period of historical data longer than the expected or contractual term, as applicable, if it reasonably believes the additional historical information will improve the estimate. For example, assume Company B decided to utilize a Black-Scholes-Merton closed-form model to estimate the value of the share options granted on January 2, 20X6 and determined that the expected term was six years. Company B would not be precluded from using historical data longer than six years if it concludes that data would be relevant.
+3. Frequency of Price Observations—
+FASB ASC subparagraph 718-10-55-37(d) indicates an entity should use appropriate and regular intervals for price observations based on facts and circumstances that provide the basis for a reasonable fair value estimate. Accordingly, the staff believes Company B should consider the frequency of the trading of its shares and the length of its trading history in determining the appropriate frequency of price observations. The staff believes using daily, weekly or monthly price observations may provide a sufficient basis to estimate expected volatility if the history provides enough data points on which to base the estimate. FN36 Company B should select a consistent point in time within each interval when selecting data points. FN37
+FN36 Further, if shares of a company are thinly traded the staff believes the use of weekly or monthly price observations would generally be more appropriate than the use of daily price observations. The volatility calculation using daily observations for such shares could be artificially inflated due to a larger spread between the bid and asked quotes and lack of consistent trading in the market.
+FN37 FASB ASC paragraph 718-10-55-40 states that a company should establish a process for estimating expected volatility and apply that process consistently from period to period. In addition, FASB ASC paragraph 718-10-55-27 indicates that assumptions used to estimate the fair value of instruments granted in share-based payment transactions should be determined in a consistent manner from period to period.
+4. Consideration of Future Events—
+The objective in estimating expected volatility is to ascertain the assumptions that marketplace participants would likely use in determining an exchange price for an option. FN38 Accordingly, the staff believes that Company B should consider those future events that it reasonably concludes a marketplace participant would also consider in making the estimation. For example, if Company B has recently announced a merger with a company that would change its business risk in the future, then it should consider the impact of the merger in estimating the expected volatility if it reasonably believes a marketplace participant would also consider this event.
+The staff believes that careful consideration is required to determine whether material non-public information is currently available (or would be available) to the issuer that would be considered by a marketplace participant in estimating the expected volatility. FN39 For example, if Company B has entered into a material transaction that has not yet been announced prior to its grant of equity instruments, the specific facts and circumstances of the material transaction may lead Company B to conclude that the impact of this event should be included in estimating the expected volatility when determining the grant-date fair value of those equity instruments.
+FN38 FASB ASC paragraph 718-10-55-35.
+FN39 FASB ASC paragraph 718-10-55-13 states "assumptions shall reflect information that is (or would be) available to form the basis for an amount at which the instruments being valued would be exchanged. In estimating fair value, the assumptions used shall not represent the biases of a particular party."
+5. Exclusion of Periods of Historical Data—
+In some instances, due to a company's particular business situations, a period of historical volatility data may not be relevant in evaluating expected volatility. FN40 In these instances, that period should be disregarded. The staff believes that if Company B disregards a period of historical volatility, it should be prepared to support its conclusion that its historical share price during that previous period is not relevant to estimating expected volatility due to one or more discrete and specific historical events and that similar events are not expected to occur during the expected term of the share option. The staff believes these situations would be rare.
+FN40 FASB ASC paragraph 718-10-55-37.
+Question 3: What should Company B consider when evaluating the extent of its reliance on the implied volatility derived from its traded options?
+Interpretive Response: To achieve the objective of estimating expected volatility as stated in FASB ASC paragraphs 718-10-55-35 through 55-41, the staff believes Company B generally should consider the following in its evaluation:
+1) the volume of market activity of the underlying shares and traded options;
+2) the ability to synchronize the variables used to derive implied volatility;
+3) the similarity of the exercise prices of the traded options to the exercise price of the newly-granted share options;
+4) the similarity of the length of the term of the traded and newly-granted share options; FN41 and
+5) consideration of material non-public information.
+FN41 See generally Options, Futures, and Other Derivatives by John C. Hull (Pearson, 11th Edition, 2021).
+1. Volume of Market Activity—
+The staff believes Company B should consider the volume of trading in its underlying shares as well as the traded options. For example, prices for instruments in actively traded markets are more likely to reflect a marketplace participant's expectations regarding expected volatility.
+2. Synchronization of the Variables—
+Company B should synchronize the variables used to derive implied volatility. For example, to the extent reasonably practicable, Company B should use market prices (either traded prices or the average of bid and asked quotes) of the traded options and its shares measured at the same point in time. This measurement should also be synchronized with the grant of the share options; however, when this is not reasonably practicable, the staff believes Company B should derive implied volatility as of a point in time as close to the grant of the share options as reasonably practicable.
+3. Similarity of the Exercise Prices—
+The staff believes that when valuing an at-the-money share option, the implied volatility derived from at- or near-the-money traded options generally would be most relevant. FN42 If, however, it is not possible to find at- or near-the-money traded options, Company B should select multiple traded options with an average exercise price close to the exercise price of the share option. FN43
+FN42 Implied volatilities of options differ systematically over the "moneyness" of the option. This pattern of implied volatilities across exercise prices is known as the "volatility smile" or "volatility skew." Studies such as "Implied Volatility" by Stewart Mayhew, Financial Analysts Journal, July-August 1995, as well as more recent studies, have found that implied volatilities based on near-the-money options do as well as sophisticated weighted implied volatilities in estimating expected volatility. In addition, the staff believes that because near-the-money options are generally more actively traded, they may provide a better basis for deriving implied volatility.
+FN43 The staff believes a company could use a weighted-average implied volatility based on traded options that are either in-the-money or out-of-the-money. For example, if the share option has an exercise price of $52, but the only traded options available have exercise prices of $50 and $55, then the staff believes that it is appropriate to use a weighted average based on the implied volatilities from the two traded options; for this example, a 40% weight on the implied volatility calculated from the option with an exercise price of $55 and a 60% weight on the option with an exercise price of $50.
+4. Similarity of Length of Terms—
+The staff believes that when valuing a share option with a given expected or contractual term, as applicable, the implied volatility derived from a traded option with a similar term would be the most relevant. However, if there are no traded options with maturities that are similar to the share option's contractual or expected term, as applicable, then the staff believes Company B could consider traded options with a remaining maturity of six months or greater. FN44 However, when using traded options with a term of less than one year, FN45 the staff would expect the company to also consider other relevant information in estimating expected volatility. In general, the staff believes more reliance on the implied volatility derived from a traded option would be expected the closer the remaining term of the traded option is to the expected or contractual term, as applicable, of the share option.
+FN44 The staff believes it may also be appropriate to consider the entire term structure of volatility provided by traded options with a variety of remaining maturities. If a company considers the entire term structure in deriving implied volatility, the staff would expect a company to include some options in the term structure with a remaining maturity of six months or greater.
+FN45 The staff believes the implied volatility derived from a traded option with a term of one year or greater would typically not be significantly different from the implied volatility that would be derived from a traded option with a significantly longer term.
+5. Consideration of Material Nonpublic Information—
+When a company is in possession of material non-public information, the staff believes that the related guidance in the interpretive response to Question 2 above would also be relevant in determining whether the implied volatility appropriately reflects a marketplace participant’s expectations of future volatility.
+The staff believes Company B's evaluation of the factors above should assist in determining whether the implied volatility appropriately reflects the market's expectations of future volatility and thus the extent of reliance that Company B reasonably places on the implied volatility.
+Question 4: Are there situations in which it is acceptable for Company B to rely exclusively on either implied volatility or historical volatility in its estimate of expected volatility?
+Interpretive Response: As stated above, FASB ASC Topic 718 does not specify a method of estimating expected volatility; rather, it provides a list of factors that should be considered and requires that an entity's estimate of expected volatility be reasonable and supportable. FN46 Many of the factors listed in FASB ASC Topic 718 are discussed in Questions 2 and 3 above. The objective of estimating volatility, as stated in FASB ASC Topic 718, is to ascertain the assumption about expected volatility that marketplace participants would likely use in determining an exchange price for an option. FN47 The staff believes that a company, after considering the factors listed in FASB ASC Topic 718, could, in certain situations, reasonably conclude that exclusive reliance on either historical or implied volatility would provide an estimate of expected volatility that meets this stated objective.
+FN46 FASB ASC paragraphs 718-10-55-36 through 55-37.
+FN47 FASB ASC paragraph 718-10-55-35.
+The staff would not object to Company B placing exclusive reliance on implied volatility when the following factors are present, as long as the methodology is consistently applied:
+• Company B utilizes a valuation model that is based upon a constant volatility assumption to value its share options; FN48
+FN48 FASB ASC paragraphs 718-10-55-18 and 718-10-55-39 discuss the incorporation of a range of expected volatilities into option pricing models. The staff believes that a company that utilizes an option pricing model that incorporates a range of expected volatilities over the option's contractual term should consider the factors listed in FASB ASC Topic 718, and those discussed in the Interpretive Responses to Questions 2 and 3 above, to determine the extent of its reliance (including exclusive reliance) on the derived implied volatility.
+• The implied volatility is derived from options that are actively traded;
+• The market prices (trades or quotes) of both the traded options and underlying shares are measured at a similar point in time to each other and on a date reasonably close to the fair value measurement date of the share options;
+• The traded options have exercise prices that are both (a) near-the-money and (b) close to the exercise price of the share options; FN49
+FN49 When near-the-money options are not available, the staff believes the use of a weighted-average approach, as noted previously, may be appropriate.
+• The remaining maturities of the traded options on which the estimate is based are at least one year, and
+• Material nonpublic information that would be considered in a marketplace participant’s expectation of future volatility does not exist.
+The staff would not object to Company B placing exclusive reliance on historical volatility when the following factors are present, so long as the methodology is consistently applied:
+• Company B has no reason to believe that its future volatility over the expected or contractual term, as applicable, is likely to differ from its past; FN50
+FN50 See FASB ASC paragraph 718-10-55-38. A change in a company's business model that results in a material alteration to the company's risk profile is an example of a circumstance in which the company's future volatility would be expected to differ from its historical volatility. Other examples may include, but are not limited to, the introduction of a new product that is central to a company's business model or the receipt of U.S. Food and Drug Administration approval for the sale of a new prescription drug.
+• The computation of historical volatility uses a simple average calculation method;
+• A sequential period of historical data at least equal to the expected or contractual term of the share option, as applicable, is used; and
+• A reasonably sufficient number of price observations are used, measured at a consistent point throughout the applicable historical period. FN51
+FN51 If the expected or contractual term, as applicable, of the employee share option is less than three years, the staff believes monthly price observations would not provide a sufficient amount of data.
+Question 5: What disclosures would the staff expect Company B to include in its financial statements and MD&A regarding its assumption of expected volatility?
+Interpretive Response: FASB ASC paragraph 718-10-50-2 prescribes the minimum information needed to achieve the Topic's disclosure objectives. FN52 Under that guidance, Company B is required to disclose the expected volatility and the method used to estimate it. FN53 Accordingly, the staff expects that, at a minimum, Company B would disclose in a footnote to its financial statements how it determined the expected volatility assumption for purposes of determining the fair value of its share options in accordance with FASB ASC Topic 718. For example, at a minimum, the staff would expect Company B to disclose whether it used only implied volatility, historical volatility, or a combination of both, and how it determined any significant adjustments to historical volatility.
+FN52 FASB ASC paragraph 718-10-50-1.
+FN53 FASB ASC subparagraph 718-10-50-2(f)(2)(ii).
+In addition, Company B should consider the requirements of Regulation S-K Item 303(b)(3) regarding critical accounting estimates in MD&A. A company should determine whether its evaluation of any of the factors listed in Questions 2 and 3 of this section, such as consideration of future events in estimating expected volatility, resulted in an estimate that involves a significant level of estimation uncertainty and has had or is reasonably likely to have a material impact on the financial condition or results of operations of the company.
+Facts: Company C is a newly public entity with limited historical data on the price of its publicly-traded shares and no other traded financial instruments. Company C believes that it does not have sufficient company-specific information regarding the volatility of its share price on which to base an estimate of expected volatility.
+Question 6: What other sources of information should Company C consider in order to estimate the expected volatility of its share price?
+Interpretive Response: FASB ASC Topic 718 provides guidance on estimating expected volatility for newly-public and nonpublic entities that do not have company-specific historical or implied volatility information available. FN54 Company C may base its estimate of expected volatility on the historical, expected or implied volatility of similar entities whose share or option prices are publicly available. In making its determination as to similarity, Company C would likely consider the industry, stage of life cycle, size and financial leverage of such other entities. FN55
+FN54 FASB ASC paragraphs 718-10-55-25 and 718-10-55-51.
+FN55 FASB ASC paragraph 718-10-55-25.
+The staff would not object to Company C looking to an industry sector index (e.g., NASDAQ Computer Index) that is representative of Company C's industry, and possibly its size, to identify one or more similar entities. FN56 Once Company C has identified similar entities, it would substitute a measure of the individual volatilities of the similar entities for the expected volatility of its share price as an assumption in its valuation model. FN57 Because of the effects of diversification that are present in an industry sector index, Company C should not substitute the volatility of an index for the expected volatility of its share price as an assumption in its valuation model. FN58
+FN56 If a company operates in a number of different industries, it could look to several industry indices. However, when considering the volatilities of multiple companies, each operating only in a single industry, the staff believes a company should take into account its own leverage, the leverages of each of the entities, and the correlation of the entities' stock returns.
+FN57 FASB ASC paragraph 718-10-55-51.
+FN58 FASB ASC paragraph 718-10-55-25.
+After similar entities have been identified, Company C should continue to consider the volatilities of those entities unless circumstances change such that the identified entities are no longer similar to Company C. Until Company C has sufficient information available, the staff would not object to Company C basing its estimate of expected volatility on the volatility of similar entities for those periods for which it does not have sufficient information available. FN59 Until Company C has either a sufficient amount of historical information regarding the volatility of its share price or other traded financial instruments are available to derive an implied volatility to support an estimate of expected volatility, it should consistently apply a process as described above to estimate expected volatility based on the volatilities of similar entities. FN60
+FN59 FASB ASC paragraph 718-10-55-37. The staff believes that at least two years of daily or weekly historical data could provide a reasonable basis on which to base an estimate of expected volatility if a company has no reason to believe that its future volatility will differ materially during the expected or contractual term, as applicable, from the volatility calculated from this past information. If the expected or contractual term, as applicable, of a share option is shorter than two years, the staff believes a company should use daily or weekly historical data for at least the length of that applicable term.
+FN60 FASB ASC paragraph 718-10-55-40.
+2. Expected Term
+FASB ASC paragraph 718-10-55-29 states, "The fair value of a traded (or transferable) share option is based on its contractual term because rarely is it economically advantageous to exercise, rather than sell, a transferable share option before the end of its contractual term. Employee share options generally differ from transferable [or tradable] share options in that employees cannot sell (or hedge) their share options—they can only exercise them; because of this, employees generally exercise their options before the end of the options' contractual term. Thus, the inability to sell or hedge an employee share option effectively reduces the option's value [compared to a transferable option] because exercise prior to the option's expiration terminates its remaining life and thus its remaining time value." Accordingly, FASB ASC Topic 718 requires that when valuing an employee share option under the Black-Scholes-Merton framework the fair value of employee share options be based on the share options' expected term rather than the contractual term.
+FASB ASC paragraph 718-10-55-29A states, "On an award-by-award basis, an entity may elect to use the contractual term as the expected term when estimating the fair value of a nonemployee award to satisfy the measurement objective in paragraph 718-10-30-6. Otherwise, an entity shall apply the guidance in [Topic 718] in estimating the expected term of a nonemployee award, which may result in a term less than the contractual term of the award. If an entity does not elect to use the contractual term as the expected term, similar considerations discussed in paragraph 718-10-55-29, such as the inability to sell or hedge a nonemployee award, apply when estimating its expected term."
+The staff believes the estimate of expected term should be based on the facts and circumstances available in each particular case. Consistent with our Topic 14 introductory guidance regarding reasonableness, the fact that other possible estimates are later determined to have more accurately reflected the term does not necessarily mean that the particular choice was unreasonable. The staff reminds registrants of the expected term disclosure requirements described in FASB ASC subparagraph 718-10-50-2(f)(2)(i).
+Facts: Company D utilizes the Black-Scholes-Merton closed-form model to value its share options for the purposes of determining the fair value of the options under FASB ASC Topic 718. Company D recently granted share options to its employees. Based on its review of various factors, Company D determines that the expected term of the options is six years, which is less than the contractual term of ten years.
+Question 1: When determining the fair value of the share options in accordance with FASB ASC Topic 718, should Company D consider an additional discount for nonhedgability and nontransferability?
+Interpretive Response: No. FASB ASC paragraph 718-10-55-29 indicates that nonhedgability and nontransferability have the effect of increasing the likelihood that an employee share option will be exercised before the end of its contractual term. Nonhedgability and nontransferability therefore factor into the expected term assumption (in this case reducing the term assumption from ten years to six years), and the expected term reasonably adjusts for the effect of these factors. Accordingly, the staff believes that no additional reduction in the term assumption or other discount to the estimated fair value is appropriate for these particular factors. FN61
+FN61 The staff notes the existence of academic literature that supports the assertion that the Black-Scholes-Merton closed-form model, with expected term as an input, can produce reasonable estimates of fair value. Such literature includes J. Carpenter, "The exercise and valuation of executive stock options," Journal of Financial Economics, May 1998, pp.127-158; C. Marquardt, "The Cost of Employee Stock Option Grants: An Empirical Analysis," Journal of Accounting Research, September 2002, p. 1191-1217); and J. Bettis, J. Bizjak and M. Lemmon, "Exercise behavior, valuation, and the incentive effect of employee stock options," Journal of Financial Economics, May 2005, pp. 445-470, as well as more recent studies.
+Question 2: Should forfeitures or terms that stem from forfeitability be factored into the determination of expected term?
+Interpretive Response: No. FASB ASC Topic 718 indicates that the expected term that is utilized as an assumption in a closed-form option-pricing model or a resulting output of a lattice option pricing model when determining the fair value of the share options should not incorporate restrictions or other terms that stem from the pre-vesting forfeitability of the instruments. Under FASB ASC Topic 718, these pre-vesting restrictions or other terms are taken into account by ultimately recognizing compensation cost only for awards for which grantees deliver the good or render the requisite service. FN62
+FN62 FASB ASC paragraph 718-10-30-11.
+Question 3: Can a company's estimate of expected term ever be shorter than the vesting period?
+Interpretive Response: No. The vesting period forms the lower bound of the estimate of expected term. FN63
+FN63 FASB ASC paragraph 718-10-55-31.
+Question 4: FASB ASC paragraph 718-10-55-34indicates that an entity shall aggregate individual awards into relatively homogenous groups with respect to exercise and post-vesting employment termination behaviors for the purpose of determining expected term, regardless of the valuation technique or model used to estimate the fair value. How many groupings are typically considered sufficient?
+Interpretive Response: As it relates to employee groupings, the staff believes that an entity may generally make a reasonable fair value estimate with as few as one or two groupings. FN64
+FN64 The staff believes the focus should be on groups of employees with significantly different expected exercise behavior. Academic research suggests two such groups might be executives and non-executives. A study by S. Huddart found executives and other senior managers to be significantly more patient in their exercise behavior than more junior employees. (Employee rank was proxied for by the number of options issued to that employee.) See S. Huddart, "Patterns of stock option exercise in the United States," in: J. Carpenter and D. Yermack, eds., Executive Compensation and Shareholder Value: Theory and Evidence (Kluwer, Boston, MA, 1999), pp. 115-142. See also S. Huddart and M. Lang, "Employee stock option exercises: An empirical analysis," Journal of Accounting and Economics, 1996, pp. 5-43.
+Question 5: What approaches could a company use to estimate the expected term of its employee share options?
+Interpretive Response: A company should use an approach that is reasonable and supportable under FASB ASC Topic 718's fair value measurement objective, which establishes that assumptions and measurement techniques should be consistent with those that marketplace participants would be likely to use in determining an exchange price for the share options. FN65 If, in developing its estimate of expected term, a company determines that its historical share option exercise experience is the best estimate of future exercise patterns, the staff will not object to the use of the historical share option exercise experience to estimate expected term. FN66
+FN65 FASB ASC paragraph 718-10-55-13.
+FN66 Historical share option exercise experience encompasses data related to share option exercise, post-vesting termination, and share option contractual term expiration.
+A company may also conclude that its historical share option exercise experience does not provide a reasonable basis upon which to estimate expected term. This may be the case for a variety of reasons, including, but not limited to, the life of the company and its relative stage of development, past or expected structural changes in the business, differences in terms of past equity-based share option grants, FN67 or a lack of variety of price paths that the company may have experienced. FN68
+FN67 For example, if a company had historically granted share options that were always in-the-money, and will grant at-the-money options prospectively, the exercise behavior related to the in-the-money options may not be sufficient as the sole basis to form the estimate of expected term for the at-the-money grants.
+FN68 For example, if a company had a history of previous equity-based share option grants and exercises only in periods in which the company's share price was rising, the exercise behavior related to those options may not be sufficient as the sole basis to form the estimate of expected term for current option grants.
+FASB ASC Topic 718 describes other alternative sources of information that might be used in those cases when a company determines that its historical share option exercise experience does not provide a reasonable basis upon which to estimate expected term. For example, a lattice model (which by definition incorporates multiple price paths) can be used to estimate expected term as an input into a Black-Scholes-Merton closed-form model. FN69 In addition, FASB ASC paragraph 718-10-55-32 states that "…expected term might be estimated in some other manner, taking into account whatever relevant and supportable information is available, including industry averages and other pertinent evidence such as published academic research." For example, data about exercise patterns of employees in similar industries and/or situations as the company's might be used.
+FN69 FASB ASC paragraph 718-10-55-30.
+Facts: Company E grants equity share options to its employees that have the following basic characteristics: FN70
+FN70 Employee share options with these features are sometimes referred to as "plain vanilla" options.
+• The share options are granted at-the-money;
+• Exercisability is conditional only on performing service through the vesting date; FN71
+FN71 In this fact pattern the requisite service period equals the vesting period.
+• If an employee terminates service prior to vesting, the employee would forfeit the share options;
+• If an employee terminates service after vesting, the employee would have a limited time to exercise the share options (typically 30-90 days); and
+• The share options are nontransferable and nonhedgeable.
+Company E utilizes the Black-Scholes-Merton closed-form model for valuing its employee share options.
+Question 6: As share options with these "plain vanilla" characteristics have been granted in significant quantities by many companies in the past, is the staff aware of any "simple" methodologies that can be used to estimate expected term?
+Interpretive Response: The staff understands that an entity that is unable to rely on its historical exercise data may find that certain alternative information, such as exercise data relating to employees of other companies, is not easily obtainable. As such, some companies may encounter difficulties in making a refined estimate of expected term. Accordingly, if a company concludes that its historical share option exercise experience does not provide a reasonable basis upon which to estimate expected term, the staff will accept the following "simplified" method for "plain vanilla" options consistent with those in the fact set above: Expected term = ((vesting term + original contractual term) / 2). Assuming a ten year original contractual term and graded vesting over four years (25% of the options in each grant vest annually) for the share options in the fact set described above, the resultant expected term would be 6.25 years. FN72 Academic research on the exercise of options issued to executives provides some general support for outcomes that would be produced by the application of this method. FN73
+FN72 Calculated as [[[1 year vesting term (for the first 25% vested) plus 2 year vesting term (for the second 25% vested) plus 3 year vesting term (for the third 25% vested) plus 4 year vesting term (for the last 25% vested)] divided by 4 total years of vesting] plus 10 year contractual life] divided by 2; that is, (((1+2+3+4)/4) + 10) /2 = 6.25 years.
+FN73 J.N. Carpenter, "The exercise and valuation of executive stock options," Journal of Financial Economics, 1998, pp.127-158 studies a sample of 40 NYSE and AMEX firms over the period 1979-1994 with share option terms reasonably consistent to the terms presented in the fact set and example. The mean time to exercise after grant was 5.83 years and the median was 6.08 years. The "mean time to exercise" is shorter than expected term since the study's sample included only exercised options. Other research on executive options includes (but is not limited to) J. Carr Bettis; John M. Bizjak; and Michael L. Lemmon, "Exercise behavior, valuation, and the incentive effects of employee stock options," Journal of Financial Economics, May 2005, pp. 445-470. One of the few studies on nonexecutive employee options the staff is aware of is S. Huddart, "Patterns of stock option exercise in the United States," in: J. Carpenter and D. Yermack, eds., Executive Compensation and Shareholder Value: Theory and Evidence (Kluwer, Boston, MA, 1999), pp. 115-142.
+Examples of situations in which the staff believes that it may be appropriate to use this simplified method include the following:
+• A company does not have sufficient historical exercise data to provide a reasonable basis upon which to estimate expected term due to the limited period of time its equity shares have been publicly traded.
+• A company significantly changes the terms of its share option grants or the types of employees that receive share option grants such that its historical exercise data may no longer provide a reasonable basis upon which to estimate expected term.
+• A company has or expects to have significant structural changes in its business such that its historical exercise data may no longer provide a reasonable basis upon which to estimate expected term.
+The staff understands that a company may have sufficient historical exercise data for some of its share option grants but not for others. In such cases, the staff will accept the use of the simplified method for only some but not all share option grants. The staff also does not believe that it is necessary for a company to consider using a lattice model before it decides that it is eligible to use this simplified method. Further, the staff will not object to the use of this simplified method in periods prior to the time a company's equity shares are traded in a public market.
+If a company uses this simplified method, the company should disclose in the notes to its financial statements the use of the method, the reason why the method was used, the types of share option grants for which the method was used if the method was not used for all share option grants, and the periods for which the method was used if the method was not used in all periods. Companies that have sufficient historical share option exercise experience upon which to estimate expected term may not apply this simplified method. In addition, this simplified method is not intended to be applied as a benchmark in evaluating the appropriateness of more refined estimates of expected term.
+The staff does not expect that such a simplified method would be used for share option grants when more relevant detailed information becomes widely available.
+3. Current Price of the Underlying Share (Including Considerations for Spring-Loaded Grants)
+FASB ASC paragraph 718-10-55-21 states that "if an observable market price is not available for a share option or similar instrument with the same or similar terms and conditions, an entity shall estimate the fair value of that instrument using a valuation technique or model that meets the requirements in paragraph718-10-55-11," and requires such valuation technique or model to take into account, at a minimum a number of factors including the current price of the underlying share.
+FASB ASC paragraph 718-10-55-27 states, "Assumptions used to estimate the fair value of equity and liability instruments granted in share-based payment transactions shall be determined in a consistent manner from period to period. For example, an entity might use the closing share price or the share price at another specified time as the current share price on the grant date in estimating fair value, but whichever method is selected, it shall be used consistently."
+For a valuation technique to be consistent with the fair value measurement objective and the other requirements of Topic 718, the staff believes that a consistently applied method to determine the current price of the underlying share should include consideration of whether adjustments to observable market prices (e.g.,the closing share price or the share price at another specified time) are required. Such adjustments may be required, for example, when the observable market price does not reflect certain material non-public information known to the company but unavailable to marketplace participants at the time the market price is observed.
+Determining whether an adjustment to the observable market price is necessary, and if so, the magnitude of any adjustment, requires significant judgment. The staff acknowledges that companies generally possess non-public information when entering into share-based payment transactions. The staff believes that an observable market price on the grant date is generally a reasonable and supportable estimate of the current price of the underlying share in a share-based payment transaction, for example, when estimating the grant-date fair value of a routine annual grant to employees that is not designed to be spring-loaded.
+However, companies should carefully consider whether an adjustment to the observable market price is required, for example, when share-based payments arrangements are entered into in contemplation of or shortly before a planned release of material non-public information, and such information is expected to result in a material increase in share price. The staff believes that non-routine spring-loaded grants merit particular scrutiny by those charged with compensation and financial reporting governance. Additionally, when a company has a planned release of material non-public information within a short period of time after the measurement date of a share-based payment, the staff believes a material increase in the market price of the company’s shares upon release of such information indicates marketplace participants would have considered an adjustment to the observable market price on the measurement date to determine the current price of the underlying share.
+Facts: Company D is a public company that entered into a material contract with a customer after market close. Subsequent to entering into the contract but before the market opens the next trading day, Company D awards share options to its executives. The share option award is non-routine, and the award is approved by the Board of Directors in contemplation of the material contract. Company D expects the share price to increase significantly once the announcement of the contract is made the next day. Company D’s accounting policy is to consistently use the closing share price on the day of the grant as the current share price in estimating the grant-date fair value of share options.
+Question 1: Should Company D make an adjustment to the closing share price to determine the current price of shares underlying share options?
+Interpretive Response: Prior to awarding share options in this fact pattern, the staff expects Company D to consider whether such awards are consistent with its policies and procedures, including the terms of the compensation plan approved by shareholders, other governance policies, and legal requirements. The staff reminds companies of the importance of strong corporate governance and controls in granting share options, as well as the requirements to maintain effective internal control over financial reporting and disclosure controls and procedures.
+In estimating the grant-date fair value of share options in this fact pattern, absent an adjustment to the closing share price to reflect the impact of Company D’s new material contract with a customer, the staff believes the closing share price would not be a reasonable and supportable estimate and, without an adjustment the valuation of the award would not meet the fair value measurement objective of FASB ASC Topic 718 because the closing share price would not reflect a price that is unbiased for marketplace participants at the time of the grant. FN74
+FN74 FASB ASC paragraph 718-10-55-13.
+Question 2: What disclosures would the staff expect Company D to include in its financial statements regarding its determination of the current price of shares underlying newly-granted share options?
+Interpretive Response: FASB ASC paragraph 718-10-50-1 requires disclosure of information that enables users of the financial statements to understand, among other things, the nature and terms of share-based payment arrangements that existed during the period and the potential effects of those arrangements on shareholders. FASB ASC paragraph 718-10-50-2 prescribes the minimum information needed to achieve the Topic’s disclosure objectives, including a description of the method used and significant assumptions used to estimate the fair value of awards under share-based payment arrangements.
+Accordingly, the staff expects that, at a minimum, Company D would disclose in a footnote to its financial statements how it determined the current price of shares underlying share options for purposes of determining the grant-date fair value of its share options in accordance with FASB ASC Topic 718. For example, the staff would expect Company D to disclose its accounting policy related to how it identifies when an adjustment to the closing price is required, how it determined the amount of the adjustment to the closing share price, and any significant assumptions used to determine such adjustment, if material. Further, the characteristics of the share options, including their spring-loaded nature, may differ from Company D’s other share-based payment arrangements to such an extent Company D should disclose information regarding these share options separately from other share-based payment arrangements to allow investors to understand Company D’s use of share-based compensation. FN75
+FN75 FASB ASC paragraphs 718-10-50-1 and 718-10-50-2(g).
+Additionally, Company D should consider the applicability of MD&A and other disclosure requirements, including those related to liquidity and capital resources, results of operations, critical accounting estimates, executive compensation, and transactions with related persons. FN76
+FN76 Items 303, 402, and 404 of Regulation S-K.
+E. FASB ASC Topic 718, Compensation—Stock Compensation, and Certain Redeemable Financial Instruments
+Certain financial instruments awarded in conjunction with share-based payment arrangements have redemption features that require settlement by cash or other assets upon the occurrence of events that are outside the control of the issuer. FN77 FASB ASC Topic 718 provides guidance for determining whether instruments granted in conjunction with share-based payment arrangements should be classified as liability or equity instruments. Under that guidance, most instruments with redemption features that are outside the control of the issuer are required to be classified as liabilities; however, some redeemable instruments will qualify for equity classification. FN78 SEC Accounting Series Release No. 268, Presentation in Financial Statements of "Redeemable Preferred Stocks," FN79 ("ASR 268") and related guidance FN80 address the classification and measurement of certain redeemable equity instruments.
+FN77 The terminology “outside the control of the issuer” is used to refer to any of the three redemption conditions described in Rule 5-02.27 of Regulation S-X that would require classification outside permanent equity. That rule requires preferred securities that are redeemable for cash or other assets to be classified outside of permanent equity if they are redeemable (1) at a fixed or determinable price on a fixed or determinable date, (2) at the option of the holder, or (3) upon the occurrence of an event that is not solely within the control of the issuer.
+FN78 FASB ASC paragraphs 718-10-25-6 through 25-19A.
+FN79 ASR 268, July 27, 1979, Rule 5-02.27 of Regulation S-X.
+FN80 Related guidance includes EITF Topic No. D-98, Classification and Measurement of Redeemable Securities, included in the FASB ASC paragraph 480-10-S99-3A.
+Facts: Under a share-based payment arrangement, Company F grants to an employee shares (or share options) that all vest at the end of four years (cliff vest). The shares (or shares underlying the share options) are redeemable for cash at fair value at the holder's option, but only after six months from the date of share issuance (as defined in FASB ASC Topic 718). Company F has determined that the shares (or share options) would be classified as equity instruments under the guidance of FASB ASC Topic 718. However, under ASR 268 and related guidance, the instruments would be considered to be redeemable for cash or other assets upon the occurrence of events (e. g., redemption at the option of the holder) that are outside the control of the issuer.
+Question 1: While the instruments are subject to FASB ASC Topic 718, is ASR 268 and related guidance applicable to instruments issued under share-based payment arrangements that are classified as equity instruments under FASB ASC Topic 718?
+Interpretive Response: Yes. The staff believes that registrants must evaluate whether the terms of instruments granted in conjunction with share-based payment arrangements that are not classified as liabilities under FASB ASC Topic 718 result in the need to present certain amounts outside of permanent equity (also referred to as being presented in "temporary equity") in accordance with ASR 268 and related guidance. FN81
+FN81 Instruments granted in conjunction with share-based payment arrangements with employees that do not by their terms require redemption for cash or other assets (at a fixed or determinable price on a fixed or determinable date, at the option of the holder, or upon the occurrence of an event that is not solely within the control of the issuer) would not be assumed by the staff to require net cash settlement for purposes of applying ASR 268 in circumstances in which FASB ASC Section 815-40-25, Derivatives and Hedging—Contracts in Entity's Own Equity—Recognition, would otherwise require the assumption of net cash settlement. See FASB ASC paragraph 815-40-25-11 (See FASB ASC paragraph 815-10-65-1 for the transition and effective date information related to FASB ASU No. 2020-06, Debt—Debt with Conversion and Other Options (Subtopic 470-20) and Derivatives and Hedging—Contracts in Entity’s Own Equity (Subtopic 815-40): Accounting for Convertible Instruments and Contracts in an Entity’s Own Equity, which superseded FASB ASC paragraph 815-40-25-11.), which states, in part: "…the events or actions necessary to deliver registered shares are not controlled by an entity and, therefore, except under the circumstances described in FASB ASC paragraph 815-40-25-16, if the contract permits the entity to net share or physically settle the contract only by delivering registered shares, it is assumed that the entity will be required to net cash settle the contract." See also FASB ASC subparagraph 718-10-25-15(a).
+When an instrument ceases to be subject to FASB ASC Topic 718 and becomes subject to the recognition and measurement requirements of other applicable GAAP, the staff believes that the company should reassess the classification of the instrument as a liability or equity at that time and consequently may need to reconsider the applicability of ASR 268.
+Question 2: How should Company F apply ASR 268 and related guidance to the shares (or share options) granted under the share-based payment arrangements with employees that may be unvested at the date of grant?
+Interpretive Response: Under FASB ASC Topic 718, when compensation cost is recognized for instruments classified as equity instruments, additional paid-in-capital FN82 is increased. If the award is not fully vested at the grant date, compensation cost is recognized and additional paid-in-capital is increased over time as services are rendered over the requisite service period. A similar pattern of recognition should be used to reflect the amount presented as temporary equity for share-based payment awards that have redemption features that are outside the issuer’s control but are classified as equity instruments under FASB ASC Topic 718. The staff believes Company F should present as temporary equity at each balance sheet date an amount that is based on the redemption amount of the instrument, but takes into account the proportion of consideration received in the form of employee services. Thus, for example, if a nonvested share that qualifies for equity classification under FASB ASC Topic 718 is redeemable at fair value more than six months after vesting, and that nonvested share is 75% vested at the balance sheet date, an amount equal to 75% of the fair value of the share should be presented as temporary equity at that date. Similarly, if an option on a share of redeemable stock that qualifies for equity classification under FASB ASC Topic 718 is 75% vested at the balance sheet date, an amount equal to 75% of the intrinsic FN83 value of the option should be presented as temporary equity at that date.
+FN82 Depending on the fact pattern, this may be recorded as common stock and additional paid in capital.
+FN83 The potential redemption amount of the share option in this illustration is its intrinsic value because the holder would pay the exercise price upon exercise of the option and then, upon redemption of the underlying shares, the company would pay the holder the fair value of those shares. Thus, the net cash outflow from the arrangement would be equal to the intrinsic value of the share option. In situations where there would be no cash inflows from the share option holder, the cash required to be paid to redeem the underlying shares upon the exercise of the put option would be the redemption value.
+Question 3: Would the methodology described for employee awards in the Interpretive Response to Question 2 above apply to nonemployee awards to be issued in exchange for goods or services with similar terms to those described above?
+Interpretive Response: The staff believes it would generally be appropriate to apply the methodology described in the Interpretive Response to Question 2 above to nonemployee awards.
+F. Classification of Compensation Expense Associated with Share-Based Payment Arrangements
+Facts: Company G utilizes both cash and share-based payment arrangements to compensate its employees and nonemployee service providers. Company G would like to emphasize in its income statement the amount of its compensation that did not involve a cash outlay.
+Question: How should Company G present in its income statement the non-cash nature of its expense related to share-based payment arrangements?
+Interpretive Response: The staff believes Company G should present the expense related to share-based payment arrangements in the same line or lines as cash compensation paid to the same employees or nonemployees. FN84 The staff believes a company could consider disclosing the amount of expense related to share-based payment arrangements included in specific line items in the financial statements. Disclosure of this information might be appropriate in a parenthetical note to the appropriate income statement line items, on the cash flow statement, in the footnotes to the financial statements, or within MD&A.
+FN84 FASB ASC 718 does not identify a specific line item in the income statement for presentation of the expense related to share-based payment arrangements, with the exception of the guidance in FASB ASC paragraph 718-10-15-5A on share-based payment awards granted to a customer.
+G. Removed by SAB 114
+H. Removed by SAB 114
+I. Capitalization of Compensation Cost Related to Share-Based Payment Arrangements
+Facts: Company K is a manufacturing company that grants share options to its production employees. Company K has determined that the cost of the production employees' service is an inventoriable cost. As such, Company K is required to initially capitalize the cost of the share option grants to these production employees as inventory and later recognize the cost in the income statement when the inventory is consumed. FN85
+FN85 FASB ASC paragraph 718-10-25-2A.
+Question: If Company K elects to adjust its period end inventory balance for the allocable amount of share-option cost through a period end adjustment to its financial statements, instead of incorporating the share-option cost through its inventory costing system, would this be considered a deficiency in internal controls?
+Interpretive Response: No. FASB ASC Topic 718, Compensation—Stock Compensation, does not prescribe the mechanism a company should use to incorporate a portion of share-option costs in an inventory-costing system. The staff believes Company K may accomplish this through a period end adjustment to its financial statements. Company K should establish appropriate controls surrounding the calculation and recording of this period end adjustment, as it would any other period end adjustment. The fact that the entry is recorded as a period end adjustment, by itself, should not impact management’s ability to determine that the internal control over financial reporting, as defined by the SEC's rules implementing Section 404 of the Sarbanes-Oxley Act of 2002, FN86 is effective.
+FN86 Release No. 34-47986, June 5, 2003, Management’s Report on Internal Control Over Financial Reporting and Certification of Disclosure in Exchange Act Period Reports.
+J. Removed by SAB 114
+K. Removed by SAB 114
+L. Removed by SAB 114
+M. Removed by SAB 114
+· > Announcements Made by SEC Staff at Emerging Issues Task Force (EITF) Meetings
+· · > SEC Staff Announcement: Escrowed Share Arrangements and the Presumption of Compensation
+718-10-S99-2
+This SEC staff announcement provides the SEC staff's views regarding Escrowed Share Arrangements and the Presumption of Compensation.
+The SEC Observer made the following announcement of the SEC staff's position on escrowed share arrangements. The SEC Observer has been asked to clarify SEC staff views on overcoming the presumption that for certain shareholders these arrangements represent compensation.
+Historically, the SEC staff has expressed the view that an escrowed share arrangement involving the release of shares to certain shareholders based on performance-related criteria is presumed to be compensatory, equivalent to a reverse stock split followed by the grant of a restricted stock award under a performance-based plan. FN 1
+When evaluating whether the presumption of compensation has been overcome, registrants should consider the substance of the arrangement, including whether the arrangement was entered into for purposes unrelated to, and not contingent upon, continued employment. For example, as a condition of a financing transaction, investors may request that specific significant shareholders, who also may be officers or directors, participate in an escrowed share arrangement. If the escrowed shares will be released or canceled without regard to continued employment, specific facts and circumstances may indicate that the arrangement is in substance an inducement made to facilitate the transaction on behalf of the company, rather than as compensatory. In such cases, the SEC staff generally believes that the arrangement should be recognized and measured according to its nature and reflected as a reduction of the proceeds allocated to the newly-issued securities. FN 2, 3
+The SEC staff believes that an escrowed share arrangement in which the shares are automatically forfeited if employment terminates is compensation, consistent with the principle articulated in paragraph 805-10-55-25(a).
+FN 1 Under these arrangements, which can be between shareholders and a company or directly between the shareholders and new investors, shareholders agree to place a portion of their shares in escrow in connection with an initial public offering or other capital-raising transaction. Shares placed in escrow are released back to the shareholders only if specified performance-related criteria are met.
+FN 2 The SEC staff notes that discounts on debt instruments are amortized using the effective interest method as discussed in Section 835-30-35, while discounts on common equity are not generally amortized.
+FN 3 Consistent with the views in paragraph 220-10-S99-4, SAB Topic 5.T., Accounting for Expenses or Liabilities Paid by Principal Stockholder(s), and paragraph 220-10-S99-3, SAB Topic 1.B., Allocation of Expenses and Related Disclosure in Financial Statements of Subsidiaries, Divisions or Lesser Business Components of Another Entity, the SEC staff believes that the benefit created by the shareholder's escrow arrangement should be reflected in the company's financial statements even when the company is not party to the arrangement.
+
+718 Compensation—Stock Compensation
+20 Awards Classified as Equity
+00 Status
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General
+718-20-00-1
+The following table identifies the changes made to this Subtopic.
+Paragraph	Action	Accounting Standards Update	Date
+			
+Award	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+Customer	Added	Accounting Standards Update No. 2025-04	05/15/2025
+Employee (2nd def.)	Amended	Accounting Standards Update No. 2024-03	11/04/2024
+Excess Tax Benefits	Superseded	Accounting Standards Update No. 2016-09	03/30/2016
+Grant Date	Amended	Accounting Standards Update No. 2019-08	11/11/2019
+Grant Date	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+Modification	Amended	Accounting Standards Update No. 2017-09	05/10/2017
+Nonvested Shares	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+Performance Condition	Amended	Accounting Standards Update No. 2025-04	05/15/2025
+Performance Condition	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+Public Business Entity	Added	Accounting Standards Update No. 2017-09	05/10/2017
+Restricted Share	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+Service Condition	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+Service Inception Date	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+Share Option	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+Vest	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+			
+718-20-05-1	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-15-2	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-35-1	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-35-2	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-35-2A	Added	Accounting Standards Update No. 2017-09	05/10/2017
+718-20-35-3	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-35-3	Amended	Accounting Standards Update No. 2017-09	05/10/2017
+718-20-35-3A	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-35-3A	Added	Accounting Standards Update No. 2016-09	03/30/2016
+718-20-35-5	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-35-5	Amended	Accounting Standards Update No. 2017-09	05/10/2017
+718-20-35-6	Amended	Accounting Standards Update No. 2017-09	05/10/2017
+718-20-35-7	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-35-8	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-35-8	Amended	Accounting Standards Update No. 2017-09	05/10/2017
+718-20-55-2	Amended	Accounting Standards Update No. 2017-09	05/10/2017
+718-20-55-3	Amended	Accounting Standards Update No. 2017-09	05/10/2017
+718-20-55-3A	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-55-4	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-55-4 through 55-7	Amended	Accounting Standards Update No. 2016-09	03/30/2016
+718-20-55-4A through 55-4C	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-55-10	Amended	Accounting Standards Update No. 2016-09	03/30/2016
+718-20-55-12	Amended	Accounting Standards Update No. 2016-09	03/30/2016
+718-20-55-20	Amended	Accounting Standards Update No. 2016-09	03/30/2016
+718-20-55-21	Amended	Accounting Standards Update No. 2016-09	03/30/2016
+718-20-55-22	Superseded	Accounting Standards Update No. 2016-09	03/30/2016
+718-20-55-23	Amended	Accounting Standards Update No. 2016-09	03/30/2016
+718-20-55-23A	Added	Accounting Standards Update No. 2016-09	03/30/2016
+718-20-55-24	Superseded	Accounting Standards Update No. 2016-09	03/30/2016
+718-20-55-34A through 55-34G	Added	Accounting Standards Update No. 2016-09	03/30/2016
+718-20-55-35A	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-55-35B	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-55-41A	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-55-41B	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-55-47A	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-55-47B	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-55-51A	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-55-51B	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-55-60	Amended	Accounting Standards Update No. 2016-09	03/30/2016
+718-20-55-61A	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-55-61B	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-55-68A	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-55-68B	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-55-71	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-55-74	Amended	Accounting Standards Update No. 2016-09	03/30/2016
+718-20-55-75	Amended	Accounting Standards Update No. 2016-09	03/30/2016
+718-20-55-76	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-55-76A	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-55-76B	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-55-84A	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-55-84B	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-55-87	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-55-87	Amended	Accounting Standards Update No. 2016-09	03/30/2016
+718-20-55-93A through 55-93D	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-55-104	Amended	Accounting Standards Update No. 2017-09	05/10/2017
+718-20-55-105	Amended	Accounting Standards Update No. 2017-09	05/10/2017
+718-20-55-108	Amended	Maintenance Update 2018-12	09/10/2018
+718-20-55-108	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-55-109A	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-55-109B	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-55-120A	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-55-120B	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-55-121	Amended	Accounting Standards Update No. 2016-09	03/30/2016
+718-20-55-122	Amended	Accounting Standards Update No. 2017-09	05/10/2017
+718-20-55-122A through 55-122C	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-20-55-123	Amended	Accounting Standards Update No. 2016-09	03/30/2016
+718-20-55-132	Amended	Accounting Standards Update No. 2016-09	03/30/2016
+718-20-55-133	Amended	Accounting Standards Update No. 2016-09	03/30/2016
+718-20-55-134	Amended	Accounting Standards Update No. 2017-09	05/10/2017
+718-20-55-144	Amended	Accounting Standards Update No. 2017-09	05/10/2017
+718-20-55-144	Amended	Accounting Standards Update No. 2016-09	03/30/2016
+718-20-65-1	Added	Accounting Standards Update No. 2017-09	05/10/2017
+
+05 Overview and Background
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+General
+718-20-05-1
+Share-based payment awards may be classified as either equity or liabilities. This Subtopic deals with instruments classified as equity. It is interrelated with Subtopic 718-10, which contains guidance applicable to instruments classified as either equity or liabilities issued in share-based payment transactions. It may also be necessary in some cases to refer to the guidance contained in Subtopic 718-30.
+
+15 Scope and Scope Exceptions
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+General
+> Overall Guidance
+718-20-15-1
+This Subtopic follows the same Scope and Scope Exceptions as outlined in the Overall Subtopic, see Section 718-10-15, with specific transaction qualifications noted below.
+> Transactions
+718-20-15-2
+The guidance in this Subtopic applies to share-based payment awards that are classified as equity (see paragraphs 718-10-25-6 through 25-19A for a description of what is classified as equity).
+718-20-15-3
+The guidance in this Subtopic does not apply to equity instruments held by an employee stock ownership plan.
+
+20 Glossary
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+Award
+The collective noun for multiple instruments with the same terms and conditions granted at the same time either to a single grantee or to a group of grantees. An award may specify multiple vesting dates, referred to as graded vesting, and different parts of an award may have different expected terms. References to an award also apply to a portion of an award.
+Calculated Value
+A measure of the value of a share option or similar instrument determined by substituting the historical volatility of an appropriate industry sector index for the expected volatility of a nonpublic entity's share price in an option-pricing model.
+Closed-Form Model
+A valuation model that uses an equation to produce an estimated fair value. The Black-Scholes-Merton formula is a closed-form model. In the context of option valuation, both closed-form models and lattice models are based on risk-neutral valuation and a contingent claims framework. The payoff of a contingent claim, and thus its value, depends on the value(s) of one or more other assets. The contingent claims framework is a valuation methodology that explicitly recognizes that dependency and values the contingent claim as a function of the value of the underlying asset(s). One application of that methodology is risk-neutral valuation in which the contingent claim can be replicated by a combination of the underlying asset and a risk-free bond. If that replication is possible, the value of the contingent claim can be determined without estimating the expected returns on the underlying asset. The Black-Scholes-Merton formula is a special case of that replication.
+Cross-Volatility
+A measure of the relationship between the volatilities of the prices of two assets taking into account the correlation between movements in the prices of the assets. See Volatility.
+Customer
+A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.
+Derived Service Period
+A service period for an award with a market condition that is inferred from the application of certain valuation techniques used to estimate fair value. For example, the derived service period for an award of share options that the employee can exercise only if the share price increases by 25 percent at any time during a 5-year period can be inferred from certain valuation techniques. In a lattice model, that derived service period represents the duration of the median of the distribution of share price paths on which the market condition is satisfied. That median is the middle share price path (the midpoint of the distribution of paths) on which the market condition is satisfied. The duration is the period of time from the service inception date to the expected date of satisfaction (as inferred from the valuation technique). If the derived service period is three years, the estimated requisite service period is three years and all compensation cost would be recognized over that period, unless the market condition was satisfied at an earlier date. Compensation cost would not be recognized beyond three years even if after the grant date the entity determines that it is not probable that the market condition will be satisfied within that period. Further, an award of fully vested, deep out-of-the-money share options has a derived service period that must be determined from the valuation techniques used to estimate fair value. See Explicit Service Period, Implicit Service Period, and Requisite Service Period.
+Employee
+An individual over whom the grantor of a share-based compensation award exercises or has the right to exercise sufficient control to establish an employer-employee relationship based on common law as illustrated in case law and currently under U.S. Internal Revenue Service (IRS) Revenue Ruling 87-41. A reporting entity based in a foreign jurisdiction would determine whether an employee-employer relationship exists based on the pertinent laws of that jurisdiction. Accordingly, a grantee meets the definition of an employee if the grantor consistently represents that individual to be an employee under common law. The definition of an employee for payroll tax purposes under the U.S. Internal Revenue Code includes common law employees. Accordingly, a grantor that classifies a grantee potentially subject to U.S. payroll taxes as an employee also must represent that individual as an employee for payroll tax purposes (unless the grantee is a leased employee as described below). A grantee does not meet the definition of an employee solely because the grantor represents that individual as an employee for some, but not all, purposes. For example, a requirement or decision to classify a grantee as an employee for U.S. payroll tax purposes does not, by itself, indicate that the grantee is an employee because the grantee also must be an employee of the grantor under common law.
+A leased individual is deemed to be an employee of the lessee if all of the following requirements are met:
+aThe leased individual qualifies as a common law employee of the lessee, and the lessor is contractually required to remit payroll taxes on the compensation paid to the leased individual for the services provided to the lessee.
+bThe lessor and lessee agree in writing to all of the following conditions related to the leased individual:
+1The lessee has the exclusive right to grant stock compensation to the individual for the employee service to the lessee.
+2The lessee has a right to hire, fire, and control the activities of the individual. (The lessor also may have that right.)
+3The lessee has the exclusive right to determine the economic value of the services performed by the individual (including wages and the number of units and value of stock compensation granted).
+4The individual has the ability to participate in the lessee's employee benefit plans, if any, on the same basis as other comparable employees of the lessee.
+5The lessee agrees to and remits to the lessor funds sufficient to cover the complete compensation, including all payroll taxes, of the individual on or before a contractually agreed upon date or dates.
+A nonemployee director does not satisfy this definition of employee. Nevertheless, nonemployee directors acting in their role as members of a board of directors are treated as employees if those directors were elected by the employer's shareholders or appointed to a board position that will be filled by shareholder election when the existing term expires. However, that requirement applies only to awards granted to nonemployee directors for their services as directors. Awards granted to those individuals for other services shall be accounted for as awards to nonemployees.
+PENDING CONTENT
+Transition Date: December 16, 2026;  December 16, 2026Transition Guidance:220-40-65-1
+An individual over whom a reporting entity exercises or has the right to exercise sufficient control to establish an employer-employee relationship based on common law as illustrated in case law and currently under U.S. Internal Revenue Service (IRS) Revenue Ruling 87-41. A reporting entity based in a foreign jurisdiction would determine whether an employee-employer relationship exists based on the pertinent laws of that jurisdiction. Accordingly, an individual meets the definition of an employee if the reporting entity consistently represents that individual to be an employee under common law. The definition of an employee for payroll tax purposes under the U.S. Internal Revenue Code includes common law employees. Accordingly, a reporting entity that classifies an individual potentially subject to U.S. payroll taxes as an employee also must represent that individual as an employee for payroll tax purposes (unless the individual is a leased employee as described below). An individual that meets the definition of an employee includes, but is not limited to, a full-time, part-time, temporary, or seasonal employee. An individual does not meet the definition of an employee solely because the reporting entity represents that individual as an employee for some, but not all, purposes. For example, a requirement or decision to classify an individual as an employee for U.S. payroll tax purposes does not, by itself, indicate that the individual is an employee because the individual also must be an employee of the reporting entity under common law.
+A leased individual is deemed to be an employee of the lessee if all of the following requirements are met:
+aThe leased individual qualifies as a common law employee of the lessee, and the lessor is contractually required to remit payroll taxes on the compensation paid to the leased individual for the services provided to the lessee.
+bThe lessor and lessee agree in writing to all of the following conditions related to the leased individual:
+1The lessee has the exclusive right to grant compensation to the individual for the employee service to the lessee.
+2The lessee has a right to hire, fire, and control the activities of the individual. (The lessor also may have that right.)
+3The lessee has the exclusive right to determine the economic value of the services performed by the individual (including wages and the number of units and value of stock compensation granted).
+4The individual has the ability to participate in the lessee's employee benefit plans, if any, on the same basis as other comparable employees of the lessee.
+5The lessee agrees to and remits to the lessor funds sufficient to cover the complete compensation, including all payroll taxes, of the individual on or before a contractually agreed upon date or dates.
+A nonemployee director does not satisfy this definition of employee. Nevertheless, nonemployee directors acting in their role as members of a board of directors are treated as employees if those directors were elected by the employer's shareholders or appointed to a board position that will be filled by shareholder election when the existing term expires. However, that requirement applies only to awards and other compensation granted to nonemployee directors for their services as directors. Awards granted and compensation paid to those individuals for other services shall be accounted for as awards and compensation to nonemployees.
+Equity Restructuring
+A nonreciprocal transaction between an entity and its shareholders that causes the per-share fair value of the shares underlying an option or similar award to change, such as a stock dividend, stock split, spinoff, rights offering, or recapitalization through a large, nonrecurring cash dividend.
+Explicit Service Period
+A service period that is explicitly stated in the terms of a share-based payment award. For example, an award stating that it vests after three years of continuous employee service from a given date (usually the grant date) has an explicit service period of three years. See Derived Service Period, Implicit Service Period, and Requisite Service Period.
+Fair Value
+The amount at which an asset (or liability) could be bought (or incurred) or sold (or settled) in a current transaction between willing parties, that is, other than in a forced or liquidation sale.
+Grant Date
+The date at which a grantor and a grantee reach a mutual understanding of the key terms and conditions of a share-based payment award. The grantor becomes contingently obligated on the grant date to issue equity instruments or transfer assets to a grantee who delivers goods or renders services or purchases goods or services as a customer. Awards made under an arrangement that is subject to shareholder approval are not deemed to be granted until that approval is obtained unless approval is essentially a formality (or perfunctory), for example, if management and the members of the board of directors control enough votes to approve the arrangement. Similarly, individual awards that are subject to approval by the board of directors, management, or both are not deemed to be granted until all such approvals are obtained. The grant date for an award of equity instruments is the date that a grantee begins to benefit from, or be adversely affected by, subsequent changes in the price of the grantor's equity shares. Paragraph 718-10-25-5 provides guidance on determining the grant date. See Service Inception Date.
+Implicit Service Period
+A service period that is not explicitly stated in the terms of a share-based payment award but that may be inferred from an analysis of those terms and other facts and circumstances. For instance, if an award of share options vests upon the completion of a new product design and it is probable that the design will be completed in 18 months, the implicit service period is 18 months. See Derived Service Period, Explicit Service Period, and Requisite Service Period.
+Intrinsic Value
+The amount by which the fair value of the underlying stock exceeds the exercise price of an option. For example, an option with an exercise price of $20 on a stock whose current market price is $25 has an intrinsic value of $5. (A nonvested share may be described as an option on that share with an exercise price of zero. Thus, the fair value of a share is the same as the intrinsic value of such an option on that share.)
+Lattice Model
+A model that produces an estimated fair value based on the assumed changes in prices of a financial instrument over successive periods of time. The binomial model is an example of a lattice model. In each time period, the model assumes that at least two price movements are possible. The lattice represents the evolution of the value of either a financial instrument or a market variable for the purpose of valuing a financial instrument. In this context, a lattice model is based on risk-neutral valuation and a contingent claims framework. See Closed-Form Model for an explanation of the terms risk-neutral valuation and contingent claims framework.
+Market Condition
+A condition affecting the exercise price, exercisability, or other pertinent factors used in determining the fair value of an award under a share-based payment arrangement that relates to the achievement of either of the following:
+aA specified price of the issuer's shares or a specified amount of intrinsic value indexed solely to the issuer's shares
+bA specified price of the issuer's shares in terms of a similar (or index of similar) equity security (securities). The term similar as used in this definition refers to an equity security of another entity that has the same type of residual rights. For example, common stock of one entity generally would be similar to the common stock of another entity for this purpose.
+Modification
+A change in the terms or conditions of a share-based payment award.
+Nonpublic Entity
+Any entity other than one that meets any of the following criteria:
+aHas equity securities that trade in a public market either on a stock exchange (domestic or foreign) or in an over-the-counter market, including securities quoted only locally or regionally
+bMakes a filing with a regulatory agency in preparation for the sale of any class of equity securities in a public market
+cIs controlled by an entity covered by the preceding criteria.
+An entity that has only debt securities trading in a public market (or that has made a filing with a regulatory agency in preparation to trade only debt securities) is a nonpublic entity.
+Nonvested Shares
+Shares that an entity has not yet issued because the agreed-upon consideration, such as the delivery of specified goods or services and any other conditions necessary to earn the right to benefit from the instruments, has not yet been satisfied. Nonvested shares cannot be sold. The restriction on sale of nonvested shares is due to the forfeitability of the shares if specified events occur (or do not occur).
+Not-for-Profit Entity
+An entity that possesses the following characteristics, in varying degrees, that distinguish it from a business entity:
+aContributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
+bOperating purposes other than to provide goods or services at a profit
+cAbsence of ownership interests like those of business entities.
+Entities that clearly fall outside this definition include the following:
+aAll investor-owned entities
+bEntities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
+Performance Condition
+A condition affecting the vesting, exercisability, exercise price, or other pertinent factors used in determining the fair value of an award that relates to both of the following:
+aRendering service or delivering goods for a specified (either explicitly or implicitly) period of time
+bAchieving a specified performance target that is defined solely by reference to the grantor's own operations (or activities) or by reference to the grantee's performance related to the grantor's own operations (or activities).
+Attaining a specified growth rate in return on assets, obtaining regulatory approval to market a specified product, selling shares in an initial public offering or other financing event, and a change in control are examples of performance conditions. A performance target also may be defined by reference to the same performance measure of another entity or group of entities. For example, attaining a growth rate in earnings per share (EPS) that exceeds the average growth rate in EPS of other entities in the same industry is a performance condition. A performance target might pertain to the performance of the entity as a whole or to some part of the entity, such as a division, or to the performance of the grantee if such performance is in accordance with the terms of the award and solely relates to the grantor's own operations (or activities).
+PENDING CONTENT
+Transition Date: December 16, 2026;  December 16, 2026Transition Guidance:606-10-65-2
+1For share-based payments in which a grantor acquires goods or services to be used or consumed in the grantor’s own operations, a condition affecting the vesting, exercisability, exercise price, or other pertinent factors used in determining the fair value of an award that relates to both of the following:
+aRendering service or delivering goods for a specified (either explicitly or implicitly) period of time
+bAchieving a specified performance target that is defined solely by reference to the grantor's own operations (or activities) or by reference to the grantee's performance related to the grantor's own operations (or activities).
+Attaining a specified growth rate in return on assets, obtaining regulatory approval to market a specified product, selling shares in an initial public offering or other financing event, and a change in control are examples of performance conditions. A performance target also may be defined by reference to the same performance measure of another entity or group of entities. For example, attaining a growth rate in earnings per share (EPS) that exceeds the average growth rate in EPS of other entities in the same industry is a performance condition. A performance target might pertain to the performance of the entity as a whole or to some part of the entity, such as a division, or to the performance of the grantee if such performance is in accordance with the terms of the award and solely relates to the grantor's own operations (or activities).
+2For share-based consideration payable to a customer that can result in a reduction of the transaction price in accordance with Topic 606, a condition affecting the vesting, exercisability, exercise price, or other pertinent factors used in determining the fair value of an award that relates to any of the following:
+aAchieving a specified performance target that is defined solely by reference to the grantor’s own operations (or activities) or by reference to the grantee’s (the customer’s) performance related to the grantor’s own operations (or activities)
+bThe grantee’s purchase (or potential purchase) of the grantor’s goods or services from either the grantor or the grantor’s customers
+cA purchase (or potential purchase) of the grantor’s goods or services from either the grantee or the grantee’s customers.
+The performance targets listed in this definition for employee and nonemployee awards (for example, a change in control) are also examples of performance conditions for share-based consideration payable to a customer.
+Probable
+The future event or events are likely to occur.
+Public Business Entity
+A public business entity is a business entity meeting any one of the criteria below. Neither a not-for-profit entity nor an employee benefit plan is a business entity.
+aIt is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing).
+bIt is required by the Securities Exchange Act of 1934 (the Act), as amended, or rules or regulations promulgated under the Act, to file or furnish financial statements with a regulatory agency other than the SEC.
+cIt is required to file or furnish financial statements with a foreign or domestic regulatory agency in preparation for the sale of or for purposes of issuing securities that are not subject to contractual restrictions on transfer.
+dIt has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market.
+eIt has one or more securities that are not subject to contractual restrictions on transfer, and it is required by law, contract, or regulation to prepare U.S. GAAP financial statements (including notes) and make them publicly available on a periodic basis (for example, interim or annual periods). An entity must meet both of these conditions to meet this criterion.
+An entity may meet the definition of a public business entity solely because its financial statements or financial information is included in another entity's filing with the SEC. In that case, the entity is only a public business entity for purposes of financial statements that are filed or furnished with the SEC.
+Public Entity
+An entity that meets any of the following criteria:
+aHas equity securities that trade in a public market, either on a stock exchange (domestic or foreign) or in an over-the-counter market, including securities quoted only locally or regionally
+bMakes a filing with a regulatory agency in preparation for the sale of any class of equity securities in a public market
+cIs controlled by an entity covered by the preceding criteria. That is, a subsidiary of a public entity is itself a public entity.
+An entity that has only debt securities trading in a public market (or that has made a filing with a regulatory agency in preparation to trade only debt securities) is not a public entity.
+Replacement Award
+An award of share-based compensation that is granted (or offered to grant) concurrently with the cancellation of another award.
+Requisite Service Period
+The period or periods during which an employee is required to provide service in exchange for an award under a share-based payment arrangement. The service that an employee is required to render during that period is referred to as the requisite service. The requisite service period for an award that has only a service condition is presumed to be the vesting period, unless there is clear evidence to the contrary. If an award requires future service for vesting, the entity cannot define a prior period as the requisite service period. Requisite service periods may be explicit, implicit, or derived, depending on the terms of the share-based payment award.
+Restricted Share
+A share for which sale is contractually or governmentally prohibited for a specified period of time. Most grants of shares to grantees are better termed nonvested shares because the limitation on sale stems solely from the forfeitability of the shares before grantees have satisfied the service, performance, or other condition(s) necessary to earn the rights to the shares. Restricted shares issued for consideration other than for goods or services, on the other hand, are fully paid for immediately. For those shares, there is no period analogous to an employee's requisite service period or a nonemployee's vesting period during which the issuer is unilaterally obligated to issue shares when the purchaser pays for those shares, but the purchaser is not obligated to buy the shares. The term restricted shares refers only to fully vested and outstanding shares whose sale is contractually or governmentally prohibited for a specified period of time. Vested equity instruments that are transferable to a grantee's immediate family members or to a trust that benefits only those family members are restricted if the transferred instruments retain the same prohibition on sale to third parties. See Nonvested Shares.
+Restriction
+A contractual or governmental provision that prohibits sale (or substantive sale by using derivatives or other means to effectively terminate the risk of future changes in the share price) of an equity instrument for a specified period of time.
+Security
+A share, participation, or other interest in property or in an entity of the issuer or an obligation of the issuer that has all of the following characteristics:
+aIt is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
+bIt is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
+cIt either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
+Service Condition
+A condition affecting the vesting, exercisability, exercise price, or other pertinent factors used in determining the fair value of an award that depends solely on an employee rendering service to the employer for the requisite service period or a nonemployee delivering goods or rendering services to the grantor over a vesting period. A condition that results in the acceleration of vesting in the event of a grantee's death, disability, or termination without cause is a service condition.
+Service Inception Date
+The date at which the employee's requisite service period or the nonemployee's vesting period begins. The service inception date usually is the grant date, but the service inception date may differ from the grant date (see Example 6 [see paragraph 718-10-55-107] for an illustration of the application of this term to an employee award).
+Settlement of an Award
+An action or event that irrevocably extinguishes the issuing entity's obligation under a share-based payment award. Transactions and events that constitute settlements include the following:
+aExercise of a share option or lapse of an option at the end of its contractual term
+bVesting of shares
+cForfeiture of shares or share options due to failure to satisfy a vesting condition
+dAn entity's repurchase of instruments in exchange for assets or for fully vested and transferable equity instruments.
+The vesting of a share option is not a settlement because the entity remains obligated to issue shares upon exercise of the option.
+Share Option
+A contract that gives the holder the right, but not the obligation, either to purchase (to call) or to sell (to put) a certain number of shares at a predetermined price for a specified period of time.
+Share Unit
+A contract under which the holder has the right to convert each unit into a specified number of shares of the issuing entity.
+Share-Based Payment Arrangements
+An arrangement under which either of the following conditions is met:
+aOne or more suppliers of goods or services (including employees) receive awards of equity shares, equity share options, or other equity instruments.
+bThe entity incurs liabilities to suppliers that meet either of the following conditions:
+1The amounts are based, at least in part, on the price of the entity's shares or other equity instruments. (The phrase at least in part is used because an award may be indexed to both the price of the entity's shares and something other than either the price of the entity's shares or a market, performance, or service condition.)
+2The awards require or may require settlement by issuance of the entity's shares.
+The term shares includes various forms of ownership interest that may not take the legal form of securities (for example, partnership interests), as well as other interests, including those that are liabilities in substance but not in form. Equity shares refers only to shares that are accounted for as equity.
+Also called share-based compensation arrangements.
+Share-Based Payment Transactions
+A transaction under a share-based payment arrangement, including a transaction in which an entity acquires goods or services because related parties or other holders of economic interests in that entity awards a share-based payment to an employee or other supplier of goods or services for the entity's benefit. Also called share-based compensation transactions.
+Short-Term Inducement
+An offer by the entity that would result in modification of an award to which an award holder may subscribe for a limited period of time.
+Vest
+To earn the rights to. A share-based payment award becomes vested at the date that the grantee's right to receive or retain shares, other instruments, or cash under the award is no longer contingent on satisfaction of either a service condition or a performance condition. Market conditions are not vesting conditions.
+The stated vesting provisions of an award often establish the employee's requisite service period or the nonemployee's vesting period, and an award that has reached the end of the applicable period is vested. However, as indicated in the definition of requisite service period and equally applicable to a nonemployee's vesting period, the stated vesting period may differ from those periods in certain circumstances. Thus, the more precise terms would be options, shares, or awards for which the requisite good has been delivered or service has been rendered and the end of the employee's requisite service period or the nonemployee's vesting period.
+Volatility
+A measure of the amount by which a financial variable such as a share price has fluctuated (historical volatility) or is expected to fluctuate (expected volatility) during a period. Volatility also may be defined as a probability-weighted measure of the dispersion of returns about the mean. The volatility of a share price is the standard deviation of the continuously compounded rates of return on the share over a specified period. That is the same as the standard deviation of the differences in the natural logarithms of the stock prices plus dividends, if any, over the period. The higher the volatility, the more the returns on the shares can be expected to vary—up or down. Volatility is typically expressed in annualized terms.
+
+35 Subsequent Measurement
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+General
+> Fair Value Not Reasonably Estimable
+718-20-35-1
+An equity instrument for which it is not possible to reasonably estimate fair value at the grant date shall be remeasured at each reporting date through the date of exercise or other settlement. The final measure of compensation cost shall be the intrinsic value of the instrument at the date it is settled. Compensation cost for each period until settlement shall be based on the change (or a portion of the change, depending on the percentage of the requisite service that has been rendered for an employee award or the percentage that would have been recognized had the grantor paid cash for the goods or services instead of paying with a nonemployee award at the reporting date) in the intrinsic value of the instrument in each reporting period. The entity shall continue to use the intrinsic value method for those instruments even if it subsequently concludes that it is possible to reasonably estimate their fair value.
+> Contingent Features
+718-20-35-2
+A contingent feature of an award that might cause a grantee to return to the entity either equity instruments earned or realized gains from the sale of equity instruments earned for consideration that is less than fair value on the date of transfer (including no consideration), such as a clawback feature (see paragraph 718-10-55-8), shall be accounted for if and when the contingent event occurs. Example 10 (see paragraph 718-20-55-84) provides an illustration of an employee award with a clawback feature.
+> Modification of an Award
+718-20-35-2A
+An entity shall account for the effects of a modification as described in paragraphs 718-20-35-3 through 35-9, unless all the following are met:
+aThe fair value (or calculated value or intrinsic value, if such an alternative measurement method is used) of the modified award is the same as the fair value (or calculated value or intrinsic value, if such an alternative measurement method is used) of the original award immediately before the original award is modified. If the modification does not affect any of the inputs to the valuation technique that the entity uses to value the award, the entity is not required to estimate the value immediately before and after the modification.
+bThe vesting conditions of the modified award are the same as the vesting conditions of the original award immediately before the original award is modified.
+cThe classification of the modified award as an equity instrument or a liability instrument is the same as the classification of the original award immediately before the original award is modified.
+The disclosure requirements in paragraphs 718-10-50-1 through 50-2A and 718-10-50-4 apply regardless of whether an entity is required to apply modification accounting.
+718-20-35-3
+Except as described in paragraph 718-20-35-2A, a modification of the terms or conditions of an equity award shall be treated as an exchange of the original award for a new award. In substance, the entity repurchases the original instrument by issuing a new instrument of equal or greater value, incurring additional compensation cost for any incremental value. The effects of a modification shall be measured as follows:
+aIncremental compensation cost shall be measured as the excess, if any, of the fair value of the modified award determined in accordance with the provisions of this Topic over the fair value of the original award immediately before its terms are modified, measured based on the share price and other pertinent factors at that date. As indicated in paragraph 718-10-30-20, references to fair value throughout this Topic shall be read also to encompass calculated value. The effect of the modification on the number of instruments expected to vest also shall be reflected in determining incremental compensation cost. The estimate at the modification date of the portion of the award expected to vest shall be subsequently adjusted, if necessary, in accordance with paragraph 718-10-35-1D or 718-10-35-3 and other guidance in Examples 14 through 15 (see paragraphs 718-20-55-107 through 55-121).
+bTotal recognized compensation cost for an equity award shall at least equal the fair value of the award at the grant date unless at the date of the modification the performance or service conditions of the original award are not expected to be satisfied. Thus, the total compensation cost measured at the date of a modification shall be the sum of the following:
+1The portion of the grant-date fair value of the original award for which the promised good is expected to be delivered (or has already been delivered) or the service is expected to be rendered (or has already been rendered) at that date
+2The incremental cost resulting from the modification.
+Compensation cost shall be subsequently adjusted, if necessary, in accordance with paragraph 718-10-35-1D or 718-10-35-3 and other guidance in Examples 14 through 15 (see paragraphs 718-20-55-107 through 55-121).
+cA change in compensation cost for an equity award measured at intrinsic value in accordance with paragraph 718-20-35-1 shall be measured by comparing the intrinsic value of the modified award, if any, with the intrinsic value of the original award, if any, immediately before the modification.
+718-20-35-3A
+An entity that has an accounting policy to account for forfeitures when they occur in accordance with paragraph 718-10-35-1D or 718-10-35-3 shall assess at the date of the modification whether the performance or service conditions of the original award are expected to be satisfied when measuring the effects of the modification in accordance with paragraph 718-20-35-3. However, the entity shall apply its accounting policy to account for forfeitures when they occur when subsequently accounting for the modified award.
+718-20-35-4
+Examples 12 through 16 (see paragraphs 718-20-55-93 through 55-144) provide additional guidance on, and illustrate the accounting for, modifications of both vested and nonvested awards, including a modification that changes the classification of the related financial instruments from equity to liability or vice versa, and modifications of vesting conditions. Paragraphs 718-10-35-9 through 35-14 provide additional guidance on accounting for modifications of certain freestanding financial instruments that initially were subject to this Topic but subsequently became subject to other applicable generally accepted accounting principles (GAAP).
+· > Short-Term Inducements
+718-20-35-5
+Except as described in paragraph 718-20-35-2A, a short-term inducement shall be accounted for as a modification of the terms of only the awards of grantees who accept the inducement, and other inducements shall be accounted for as modifications of the terms of all awards subject to them.
+· > Equity Restructuring or Business Combination
+718-20-35-6
+Exchanges of share options or other equity instruments or changes to their terms in conjunction with an equity restructuring or a business combination are modifications for purposes of this Subtopic. An entity shall apply the guidance in paragraph 718-20-35-2A to those exchanges or changes to determine whether it shall account for the effects of those modifications. Example 13 (see paragraph 718-20-55-103) provides further guidance on applying the provisions of this paragraph. See paragraph 718-10-35-10 for an exception.
+· > Repurchase or Cancellation
+718-20-35-7
+The amount of cash or other assets transferred (or liabilities incurred) to repurchase an equity award shall be charged to equity, to the extent that the amount paid does not exceed the fair value of the equity instruments repurchased at the repurchase date. Any excess of the repurchase price over the fair value of the instruments repurchased shall be recognized as additional compensation cost. An entity that repurchases an award for which the promised goods have not been delivered or the service has not been rendered has, in effect, modified the employee's requisite service period or nonemployee's vesting period to the period for which goods have already been delivered or service already has been rendered, and thus the amount of compensation cost measured at the grant date but not yet recognized shall be recognized at the repurchase date.
+· > Cancellation and Replacement
+718-20-35-8
+Except as described in paragraph 718-20-35-2A, cancellation of an award accompanied by the concurrent grant of (or offer to grant) a replacement award or other valuable consideration shall be accounted for as a modification of the terms of the cancelled award. (The phrase offer to grant is intended to cover situations in which the service inception date precedes the grant date.) Therefore, incremental compensation cost shall be measured as the excess of the fair value of the replacement award or other valuable consideration over the fair value of the cancelled award at the cancellation date in accordance with paragraph 718-20-35-3. Thus, the total compensation cost measured at the date of a cancellation and replacement shall be the portion of the grant-date fair value of the original award for which the promised good is expected to be delivered (or has already been delivered) or the service is expected to be rendered (or has already been rendered) at that date plus the incremental cost resulting from the cancellation and replacement.
+718-20-35-9
+A cancellation of an award that is not accompanied by the concurrent grant of (or offer to grant) a replacement award or other valuable consideration shall be accounted for as a repurchase for no consideration. Accordingly, any previously unrecognized compensation cost shall be recognized at the cancellation date.
+
+55 Implementation Guidance and Illustrations
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+General
+718-20-55-1
+This Section may contain summaries or references to specific tax code or other regulations that existed at the time that the standard was issued. The Financial Accounting Standards Board (FASB) does not monitor such code or regulations and assumes no responsibility for the current accuracy of the summaries or references. Users must evaluate such code or regulations to determine consistency of the current code or regulation with that presented.
+> Implementation Guidance
+· > Equity Restructuring
+718-20-55-2
+In accordance with paragraph 718-20-35-6, an entity shall apply the guidance in paragraph 718-20-35-2A to exchanges of share options or other equity instruments or changes to their terms in conjunction with an equity restructuring to determine whether it shall account for the effects of those modifications as described in paragraphs 718-20-35-3 through 35-9. Example 13 (see paragraph 718-20-55-103) provides additional guidance on accounting for modifications of awards in the context of equity restructurings.
+> Illustrations
+718-20-55-3
+The following Examples are included in this Subtopic because they assume equity classification. However, these Examples would also apply to awards classified as liabilities except that the amounts in the Examples would likely change due to the requirement under Subtopic 718-30 to remeasure share-based liability awards at fair value each reporting period until settlement.
+718-20-55-3A
+The following Examples describe awards to employees. However, where specifically identified, guidance for certain aspects of the Examples (for example, changes in total compensation cost to be recognized, forfeiture treatment, taxes, and modifications) also is applicable to nonemployee awards. Therefore, the guidance in those identified instances may serve as implementation guidance for nonemployee awards. Specific valuation amounts used in the Examples could be different because an entity may elect to use the contractual term as the expected term of share options and similar instruments when valuing nonemployee share-based payment transactions. An entity should consider the facts and circumstances of its nonemployee awards and use judgment in applying the guidance.
+· > Example 1: Accounting for Share Options with Service Conditions
+718-20-55-4
+The following Cases illustrate the guidance in paragraphs 718-10-35-1D through 35-1E for nonemployee awards, paragraphs 718-10-35-2 through 35-7 for employee awards, and paragraphs 718-740-25-2 through 25-3 for both nonemployee and employee awards, except for the vesting provisions:
+aShare options with cliff vesting and forfeitures estimated in initial accruals of compensation cost (Case A)
+bShare options with graded vesting and forfeitures estimated in initial accruals of compensation cost (Case B)
+cShare options with cliff vesting and forfeitures recognized when they occur (Case C).
+718-20-55-4A
+Cases A through C (see paragraphs 718-20-55-10 through 55-34G) describe employee awards. However, the principles on accounting for employee awards, except for the compensation cost attribution, are the same for nonemployee awards. Consequently, all of the following in Case A are equally applicable to nonemployee awards with the same features as the awards in Cases A through C (that is, awards with a specified time period for vesting):
+aThe assumptions in paragraphs 718-20-55-6 through 55-9
+bTotal compensation cost considerations (including estimates of forfeitures) in paragraphs 718-20-55-10 through 55-12
+cChanges in the estimation of forfeitures in paragraphs 718-20-55-14 through 55-15
+dExercise or expiration considerations in paragraphs 718-20-55-18 through 55-21 and 718-20-55-23.
+Therefore, the guidance in those paragraphs may serve as implementation guidance for nonemployee awards. Similarly, an entity also may elect to account for nonemployee award forfeitures as they occur as illustrated in Case C (see paragraph 718-20-55-34A).
+718-20-55-4B
+Nonemployee awards may be similar to employee awards (that is, cliff vesting or graded vesting). However, the compensation cost attribution for awards to nonemployees may be the same as or different from employee awards. That is because an entity is required to recognize compensation cost for nonemployee awards in the same manner as if the entity had paid cash in accordance with paragraph 718-10-25-2C. Additionally, valuation amounts used in the Cases could be different because an entity may elect to use the contractual term as the expected term of share options and similar instruments when valuing nonemployee share-based payment transactions.
+718-20-55-4C
+Because of the differences in compensation cost attribution, the accounting policy election illustrated in Case B (see paragraph 718-20-55-25) does not apply to nonemployee awards.
+718-20-55-5
+Cases A, B, and C share all of the assumptions in paragraphs 718-20-55-6 through 55-34G, with the following exceptions:
+aIn Case C, Entity T has an accounting policy to account for forfeitures when they occur in accordance with paragraph 718-10-35-3.
+bIn Cases A and B, Entity T has an accounting policy to estimate the number of forfeitures expected to occur, also in accordance with paragraph 718-10-35-3.
+cIn Case B, the share options have graded vesting.
+dIn Cases A and C, the share options have cliff vesting.
+718-20-55-6
+Entity T, a public entity, grants at-the-money employee share options with a contractual term of 10 years. All share options vest at the end of three years (cliff vesting), which is an explicit service (and requisite service) period of three years. The share options do not qualify as incentive stock options for U.S. tax purposes. The enacted tax rate is 35 percent. In each Case, Entity T concludes that it will have sufficient future taxable income to realize the deferred tax benefits from its share-based payment transactions.
+718-20-55-7
+The following table shows assumptions and information about the share options granted on January 1, 20X5 applicable to all Cases, except for expected forfeitures per year, which does not apply in Case C.
+718-20-55-8
+A suboptimal exercise factor of two means that exercise is generally expected to occur when the share price reaches two times the share option's exercise price. Option-pricing theory generally holds that the optimal (or profit-maximizing) time to exercise an option is at the end of the option's term; therefore, if an option is exercised before the end of its term, that exercise is referred to as suboptimal. Suboptimal exercise also is referred to as early exercise. Suboptimal or early exercise affects the expected term of an option. Early exercise can be incorporated into option-pricing models through various means. In this Case, Entity T has sufficient information to reasonably estimate early exercise and has incorporated it as a function of Entity T's future stock price changes (or the option's intrinsic value). In this Case, the factor of 2 indicates that early exercise would be expected to occur, on average, if the stock price reaches $60 per share ($30 × 2). Rather than use its weighted average suboptimal exercise factor, Entity T also may use multiple factors based on a distribution of early exercise data in relation to its stock price.
+718-20-55-9
+This Case assumes that each employee receives an equal grant of 300 options. Using as inputs the last 7 items from the table in paragraph 718-20-55-7, Entity T's lattice-based valuation model produces a fair value of $14.69 per option. A lattice model uses a suboptimal exercise factor to calculate the expected term (that is, the expected term is an output) rather than the expected term being a separate input. If an entity uses a Black-Scholes-Merton option-pricing formula, the expected term would be used as an input instead of a suboptimal exercise factor.
+· · > Case A: Share Options with Cliff Vesting and Forfeitures Estimated in Initial Accruals of Compensation Cost
+718-20-55-10
+Total compensation cost recognized over the requisite service period (which is the vesting period in this Case) shall be the grant-date fair value of all share options that actually vest (that is, all options for which the requisite service is rendered). This Case assumes that Entity T's accounting policy is to estimate the number of forfeitures expected to occur in accordance with paragraph 718-10-35-3. As a result, Entity T is required to estimate at the grant date the number of share options for which the requisite service is expected to be rendered (which, in this Case, is the number of share options for which vesting is deemed probable). If that estimate changes, it shall be accounted for as a change in estimate and its cumulative effect (from applying the change retrospectively) recognized in the period of change. Entity T estimates at the grant date the number of share options expected to vest and subsequently adjusts compensation cost for changes in the estimated rate of forfeitures and differences between expectations and actual experience. This Case also assumes that none of the compensation cost is capitalized as part of the cost of an asset.
+718-20-55-11
+The estimate of the number of forfeitures considers historical employee turnover rates and expectations about the future. Entity T has experienced historical turnover rates of approximately 3 percent per year for employees at the grantees' level, and it expects that rate to continue over the requisite service period of the awards. Therefore, at the grant date Entity T estimates the total compensation cost to be recognized over the requisite service period based on an expected forfeiture rate of 3 percent per year. Actual forfeitures are 5 percent in 20X5, but no adjustments to cumulative compensation cost are recognized in 20X5 because Entity T still expects actual forfeitures to average 3 percent per year over the 3-year vesting period. As of December 31, 20X6, management decides that the forfeiture rate will likely increase through 20X7 and changes its estimated forfeiture rate for the entire award to 6 percent per year. Adjustments to cumulative compensation cost to reflect the higher forfeiture rate are made at the end of 20X6. At the end of 20X7 when the award becomes vested, actual forfeitures have averaged 6 percent per year, and no further adjustment is necessary.
+718-20-55-12
+The first set of calculations illustrates the accounting for the award of share options on January 1, 20X5, assuming that the share options granted vest at the end of three years. (Case B illustrates the accounting for an award assuming graded vesting in which a specified portion of the share options granted vest at the end of each year.) The number of share options expected to vest is estimated at the grant date to be 821,406 (900,000 ×.97 3). Thus, the compensation cost to be recognized over the requisite service period at January 1, 20X5, is $12,066,454 (821,406 × $14.69), and the compensation cost to be recognized during each year of the 3-year vesting period is $4,022,151 ($12,066,454 ÷ 3). The journal entries to recognize compensation cost and related deferred tax benefit at the enacted tax rate of 35 percent are as follows for 20X5.
+To recognize compensation cost.
+To recognize the deferred tax asset for the temporary difference related to compensation cost ($4,022,151 ×.35 = $1,407,753).
+718-20-55-13
+The net after-tax effect on income of recognizing compensation cost for 20X5 is $2,614,398 ($4,022,151 - $1,407,753).
+718-20-55-14
+Absent a change in estimated forfeitures, the same journal entries would be made to recognize compensation cost and related tax effects for 20X6 and 20X7, resulting in a net after-tax cost for each year of $2,614,398. However, at the end of 20X6, management changes its estimated employee forfeiture rate from 3 percent to 6 percent per year. The revised number of share options expected to vest is 747,526 (900,000 ×.94 3). Accordingly, the revised cumulative compensation cost to be recognized by the end of 20X7 is $10,981,157 (747,526 × $14.69). The cumulative adjustment to reflect the effect of adjusting the forfeiture rate is the difference between two-thirds of the revised cost of the award and the cost already recognized for 20X5 and 20X6. The related journal entries and the computations follow.
+At December 31, 20X6, to adjust for new forfeiture rate.
+718-20-55-15
+The related journal entries are as follows.
+To adjust previously recognized compensation cost and equity to reflect a higher estimated forfeiture rate.
+To adjust the deferred tax accounts to reflect the tax effect of increasing the estimated forfeiture rate ($723,531 ×.35 = $253,236).
+718-20-55-16
+Journal entries for 20X7 are as follows.
+To recognize compensation cost ($10,981,157 ÷ 3 = $3,660,386).
+To recognize the deferred tax asset for additional compensation cost ($3,660,386 ×.35 = $1,281,135).
+718-20-55-17
+As of December 31, 20X7, the entity would examine its actual forfeitures and make any necessary adjustments to reflect cumulative compensation cost for the number of shares that actually vested.
+718-20-55-18
+All 747,526 vested share options are exercised on the last day of 20Y2. Entity T has already recognized its income tax expense for the year without regard to the effects of the exercise of the employee share options. In other words, current tax expense and current taxes payable were recognized based on income and deductions before consideration of additional deductions from exercise of the employee share options. Upon exercise, the amount credited to common stock (or other appropriate equity accounts) is the sum of the cash proceeds received and the amounts previously credited to additional paid-in capital in the periods the services were received (20X5 through 20X7). In this Case, Entity T has no-par common stock and at exercise, the share price is assumed to be $60.
+718-20-55-19
+At exercise the journal entries are as follows.
+To recognize the issuance of common stock upon exercise of share options and to reclassify previously recorded paid-in capital.
+718-20-55-20
+In this Case, the difference between the market price of the shares and the exercise price on the date of exercise is deductible for tax purposes pursuant to U.S. tax law in effect in 2004 (the share options do not qualify as incentive stock options). Paragraph 718-740-35-2 requires that the tax effect be recognized as income tax expense or benefit in the income statement for the difference between the deduction for an award for tax purposes and the cumulative compensation cost of that award recognized for financial reporting purposes. With the share price of $60 at exercise, the deductible amount is $22,425,780 [747,526 × ($60 - $30)], and the tax benefit is $7,849,023 ($22,425,780 ×.35).
+718-20-55-21
+At exercise the journal entries are as follows.
+To write off the deferred tax asset related to deductible share options at exercise ($10,981,157 ×.35 = $3,843,405).
+To adjust current tax expense and current taxes payable to recognize the current tax benefit from deductible compensation cost upon exercise of share options.
+718-20-55-22
+Paragraph superseded by Accounting Standards Update No. 2016-09.
+718-20-55-23
+If instead the share options expired unexercised, previously recognized compensation cost would not be reversed. There would be no deduction on the tax return and, therefore, the entire deferred tax asset of $3,843,405 would be charged to income tax expense.
+718-20-55-23A
+If employees terminated with out-of-the-money vested share options, the deferred tax asset related to those share options would be written off when those options expire.
+718-20-55-24
+Paragraph superseded by Accounting Standards Update No. 2016-09.
+· · > Case B: Share Options with Graded Vesting
+718-20-55-25
+Paragraph 718-10-35-8 provides for the following two methods to recognize compensation cost for awards with graded vesting:
+aOn a straight-line basis over the requisite service period for each separately vesting portion of the award as if the award was, in-substance, multiple awards (graded vesting attribution method)
+bOn a straight-line basis over the requisite service period for the entire award (that is, over the requisite service period of the last separately vesting portion of the award), subject to the limitation noted in paragraph 718-10-35-8.
+718-20-55-26
+The choice of attribution method for awards with graded vesting schedules is a policy decision that is not dependent on an entity's choice of valuation technique. In addition, the choice of attribution method applies to awards with only service conditions.
+718-20-55-27
+The accounting is illustrated below for both methods and uses the same assumptions as those noted in Case A except for the vesting provisions.
+718-20-55-28
+Entity T awards 900,000 share options on January 1, 20X5, that vest according to a graded schedule of 25 percent for the first year of service, 25 percent for the second year, and the remaining 50 percent for the third year. Each employee is granted 300 share options. The following table shows the calculation as of January 1, 20X5, of the number of employees and the related number of share options expected to vest. Using the expected 3 percent annual forfeiture rate, 90 employees are expected to terminate during 20X5 without having vested in any portion of the award, leaving 2,910 employees to vest in 25 percent of the award (75 options). During 20X6, 87 employees are expected to terminate, leaving 2,823 to vest in the second 25 percent of the award. During 20X7, 85 employees are expected to terminate, leaving 2,738 employees to vest in the last 50 percent of the award. That results in a total of 840,675 share options expected to vest from the award of 900,000 share options with graded vesting.
+718-20-55-29
+The value of the share options that vest over the three-year period is estimated by separating the total award into three groups (or tranches) according to the year in which they vest (because the expected life for each tranche differs). The following table shows the estimated compensation cost for the share options expected to vest. The estimates of expected volatility, expected dividends, and risk-free interest rates are incorporated into the lattice, and the graded vesting conditions affect only the earliest date at which suboptimal exercise can occur (see paragraph 718-20-55-8 for information on suboptimal exercise). Thus, the fair value of each of the 3 groups of options is based on the same lattice inputs for expected volatility, expected dividend yield, and risk-free interest rates used to determine the value of $14.69 for the cliff-vesting share options (see paragraphs 718-20-55-7 through 55-9). The different vesting terms affect the ability of the suboptimal exercise to occur sooner (and affect other factors as well, such as volatility), and therefore there is a different expected term for each tranche.
+718-20-55-30
+Compensation cost is recognized over the periods of requisite service during which each tranche of share options is earned. Thus, the $2,933,280 cost attributable to the 218,250 share options that vest in 20X5 is recognized in 20X5. The $3,000,143 cost attributable to the 211,725 share options that vest at the end of 20X6 is recognized over the 2-year vesting period (20X5 and 20X6). The $6,033,183 cost attributable to the 410,700 share options that vest at the end of 20X7 is recognized over the 3-year vesting period (20X5, 20X6, and 20X7).
+718-20-55-31
+The following table shows how the $11,966,606 expected amount of compensation cost determined at the grant date is attributed to the years 20X5, 20X6, and 20X7.
+718-20-55-32
+Entity T could use the same computation of estimated cost, as in the preceding table, but could elect to recognize compensation cost on a straight-line basis for all graded vesting awards. In that case, total compensation cost to be attributed on a straight-line basis over each year in the 3-year vesting period is approximately $3,988,868 ($11,966,606 ÷ 3). Entity T also could use a single weighted-average expected life to value the entire award and arrive at a different amount of total compensation cost. Total compensation cost could then be attributed on a straight-line basis over the three-year vesting period. However, this Topic requires that compensation cost recognized at any date must be at least equal to the amount attributable to options that are vested at that date. For example, if 50 percent of this same option award vested in the first year of the 3-year vesting period, 436,500 options [2,910 × 150 (300 × 50%)] would be vested at the end of 20X5. Compensation cost amounting to $5,866,560 (436,500 × $13.44) attributable to the vested awards would be recognized in the first year.
+718-20-55-33
+Compensation cost is adjusted for awards with graded vesting to reflect differences between estimated and actual forfeitures as illustrated for the cliff-vesting options, regardless of which method is used to estimate value and attribute cost.
+718-20-55-34
+Accounting for the tax effects of awards with graded vesting follows the same pattern illustrated in paragraphs 718-20-55-20 through 55-23. However, unless Entity T identifies and tracks the specific tranche from which share options are exercised, it would not know the recognized compensation cost that corresponds to exercised share options for purposes of calculating the tax effects resulting from that exercise. If an entity does not know the specific tranche from which share options are exercised, it should assume that options are exercised on a first-vested, first-exercised basis (which works in the same manner as the first-in, first-out [FIFO] basis for inventory costing).
+· · > Case C: Share Options with Cliff Vesting and Forfeitures Recognized When They Occur
+718-20-55-34A
+This Case uses the same assumptions as Case A except that Entity T's accounting policy is to account for forfeitures when they occur in accordance with paragraph 718-10-35-3. Consequently, compensation cost previously recognized for an employee share option is reversed in the period in which forfeiture of the award occurs. Previously recognized compensation cost is not reversed if an employee share option for which the requisite service has been rendered expires unexercised. This Case also assumes that none of the compensation cost is capitalized as part of the cost of an asset.
+718-20-55-34B
+In 20X5, 20X6, and 20X7, share option forfeitures are 45,000, 47,344, and 60,130, respectively.
+718-20-55-34C
+The compensation cost to be recognized over the requisite service period at January 1, 20X5, is $13,221,000 (900,000 × $14.69), and the compensation cost to be recognized (excluding the effect of forfeitures) during each year of the 3-year vesting period is $4,407,000 ($13,221,000 ÷ 3). The journal entries for 20X5 to recognize compensation cost and related deferred tax benefit at the enacted tax rate of 35 percent are as follows.
+To recognize compensation cost excluding the effect of forfeitures for 20X5.
+To recognize the deferred tax asset for the temporary difference related to compensation cost ($4,407,000 × .35).
+718-20-55-34D
+During 20X5, 45,000 share options are forfeited; accordingly, Entity T remeasures compensation cost to reflect the effect of forfeitures when they occur and recognizes compensation costs for 855,000 (900,000 - 45,000) share options (net of forfeitures) at an amount of $12,559,950 (855,000 × $14.69) over the 3-year vesting period, or $4,186,650 each year ($12,559,950 ÷ 3). Therefore, Entity T reverses recognized compensation cost of $220,350 (45,000 share options × $14.69 ÷ 3) to account for forfeitures that occurred during 20X5. The journal entries to recognize the effect of forfeitures during 20X5 and the related reduction in the deferred tax benefit are as follows.
+To recognize the effect of forfeitures on compensation cost when they occur for 20X5.
+To reverse the deferred tax asset related to the forfeited awards ($220,350 × .35).
+718-20-55-34E
+As of January 1, 20X6, Entity T determines the compensation cost and related tax effects to recognize during 20X6. The journal entries for 20X6 to recognize compensation cost and related deferred tax benefit at the enacted tax rate of 35 percent are as follows (excluding the effect of forfeitures in 20X6).
+To recognize compensation cost excluding the effect of awards that forfeited during 20X6.
+To recognize the deferred tax asset for the temporary difference related to compensation cost ($4,186,650 × .35).
+718-20-55-34F
+In 20X6, 47,344 share options are forfeited (that is, 92,344 share options in total have been forfeited by December 31, 20X6); accordingly, Entity T would recognize compensation cost for 807,656 share options over the 3-year vesting period. On the basis of actual forfeitures in 20X5 and 20X6, Entity T should recognize a cumulative compensation cost of $11,864,467 (807,656 × $14.69) for the 3-year vesting period, or $3,954,822 a year ($11,864,467 ÷ 3 years). Therefore, Entity T reverses recognized compensation cost of $231,828 ($4,186,650 - $3,954,822) for 20X5 and 20X6, or $463,656 in total, to account for forfeitures that occurred during 20X6. The journal entries to recognize the effect of forfeitures during 20X6 and the related reduction in the deferred tax benefit are as follows.
+To recognize the effect of the forfeitures on compensation cost when they occur for 20X6.
+To reverse the deferred tax asset related to the forfeited awards ($463,656 × .35).
+718-20-55-34G
+Entity T follows the same approach in 20X7 as it applied in 20X6 to recognize compensation cost and related tax effects.
+· > Example 2: Share Option Award under Which the Number of Options to Be Earned Varies
+718-20-55-35
+This Example illustrates the guidance in paragraph 718-10-30-15.
+718-20-55-35A
+This Example (see paragraphs 718-20-55-36 through 55-40) describes employee awards. However, the principles on how to account for the various aspects of employee awards, except for the compensation cost attribution and certain inputs to valuation, are the same for nonemployee awards. Consequently, all of the following are equally applicable to nonemployee awards with the same features as the awards in this Example (that is, the number of options earned varies on the basis of the achievement of particular performance conditions):
+aCertain valuation assumptions in paragraph 718-20-55-36
+bTotal compensation cost considerations provided in paragraphs 718-20-55-37 through 55-39 (that is, an entity must consider if it is probable that specific performance conditions will be achieved for an award with a specified time period for vesting and performance conditions)
+cForfeiture adjustments in paragraph 718-20-55-40.
+718-20-55-35B
+Compensation cost attribution for awards to nonemployees may be the same or different for employee awards. That is because an entity is required to recognize compensation cost for nonemployee awards in the same manner as if the entity had paid cash in accordance with paragraph 718-10-25-2C. Additionally, valuation amounts used in this Example could be different because an entity may elect to use the contractual term as the expected term of share options and similar instruments when valuing nonemployee share-based payment transactions.
+718-20-55-36
+This Example shows the computation of compensation cost if Entity T grants an award of share options with multiple performance conditions. Under the award, employees vest in differing numbers of options depending on the amount by which the market share of one of Entity T's products increases over a three-year period (the share options cannot vest before the end of the three-year period). The three-year explicit service period represents the requisite service period. On January 1, 20X5, Entity T grants to each of 1,000 employees an award of up to 300 10-year-term share options on its common stock. If market share increases by at least 5 percentage points by December 31, 20X7, each employee vests in at least 100 share options at that date. If market share increases by at least 10 percentage points, another 100 share options vest, for a total of 200. If market share increases by more than 20 percentage points, each employee vests in all 300 share options. Entity T's share price on January 1, 20X5, is $30 and other assumptions are the same as in Example 1 (see paragraph 718-20-55-4). The grant-date fair value per share option is $14.69. While the vesting conditions in this Example and in Example 1 (see paragraph 718-20-55-4) are different, the equity instruments being valued have the same estimate of grant-date fair value. That is a consequence of the modified grant-date method, which accounts for the effects of vesting requirements or other restrictions that apply during the vesting period by recognizing compensation cost only for the instruments that actually vest. (This discussion does not refer to awards with market conditions that affect exercisability or the ability to retain the award as described in paragraphs 718-10-55-60 through 55-63.)
+718-20-55-37
+The compensation cost of the award depends on the estimated number of options that will vest. Entity T must determine whether it is probable that any performance condition will be achieved, that is, whether the growth in market share over the 3-year period will be at least 5 percent. Accruals of compensation cost are initially based on the probable outcome of the performance conditions—in this case, different levels of market share growth over the three-year vesting period—and adjusted for subsequent changes in the estimated or actual outcome. If Entity T determines that no performance condition is probable of achievement (that is, market share growth is expected to be less than 5 percentage points), then no compensation cost is recognized; however, Entity T is required to reassess at each reporting date whether achievement of any performance condition is probable and would begin recognizing compensation cost if and when achievement of the performance condition becomes probable.
+718-20-55-38
+Paragraph 718-10-25-20 requires accruals of cost to be based on the probable outcome of performance conditions. Accordingly, this Topic prohibits Entity T from basing accruals of compensation cost on an amount that is not a possible outcome (and thus cannot be the probable outcome). For instance, if Entity T estimates that there is a 90 percent, 30 percent, and 10 percent likelihood that market share growth will be at least 5 percentage points, at least 10 percentage points, and greater than 20 percentage points, respectively, it would not try to determine a weighted average of the possible outcomes because that number of shares is not a possible outcome under the arrangement.
+718-20-55-39
+The following table shows the compensation cost that would be recognized in 20X5, 20X6, and 20X7 if Entity T estimates at the grant date that it is probable that market share will increase at least 5 but less than 10 percentage points (that is, each employee would receive 100 share options). That estimate remains unchanged until the end of 20X7, when Entity T's market share has increased over the 3-year period by more than 10 percentage points. Thus, each employee vests in 200 share options.
+718-20-55-40
+As in Example 1, Case A (see paragraph 718-20-55-10), Entity T experiences actual forfeiture rates of 5 percent in 20X5, and in 20X6 changes its estimate of forfeitures for the entire award from 3 percent to 6 percent per year. In 20X6, cumulative compensation cost is adjusted to reflect the higher forfeiture rate. By the end of 20X7, a 6 percent forfeiture rate has been experienced, and no further adjustments for forfeitures are necessary. Through 20X5, Entity T estimates that 913 employees (1,000 ×.97 3) will remain in service until the vesting date. At the end of 20X6, the number of employees estimated to remain in service is adjusted for the higher forfeiture rate, and the number of employees estimated to remain in service is 831 (1,000 ×.94 3). The compensation cost of the award is initially estimated based on the number of options expected to vest, which in turn is based on the expected level of performance and the fair value of each option. That amount would be adjusted as needed for changes in the estimated and actual forfeiture rates and for differences between estimated and actual market share growth. The amount of compensation cost recognized (or attributed) when achievement of a performance condition is probable depends on the relative satisfaction of the performance condition based on performance to date. Entity T determines that recognizing compensation cost ratably over the three-year vesting period is appropriate with one-third of the value of the award recognized each year.
+· > Example 3: Share Option Award under Which the Exercise Price Varies
+718-20-55-41
+This Example illustrates the guidance in paragraph 718-10-30-15.
+718-20-55-41A
+This Example (see paragraphs 718-20-55-42 through 55-46) describes employee awards. However, the principles on how to account for the various aspects of employee awards, except for the compensation cost attribution and certain inputs to valuation, are the same for nonemployee awards. Consequently, both of the following are equally applicable to nonemployee awards with the same features as the awards in this Example (that is, an immediately vested and exercisable award with an exercise price that varies on the basis of the achievement of particular performance conditions):
+aCertain valuation assumptions in paragraphs 718-20-55-42 through 55-43
+bThe total compensation cost considerations provided in paragraphs 718-20-55-44 through 55-46 (that is, an entity must consider if it is probable that specific performance conditions will be achieved).
+Therefore, the guidance in those paragraphs may serve as implementation guidance for similar nonemployee awards.
+718-20-55-41B
+Compensation cost attribution for awards to nonemployees may be the same or different for employee awards. That is because an entity is required to recognize compensation cost for nonemployee awards in the same manner as if the entity had paid cash in accordance with paragraph 718-10-25-2C. Additionally, valuation amounts used in this Example could be different because an entity may elect to use the contractual term as the expected term of share options and similar instruments when valuing nonemployee share-based payment transactions.
+718-20-55-42
+This Example shows the computation of compensation cost if Entity T grants a share option award with a performance condition under which the exercise price, rather than the number of shares, varies depending on the level of performance achieved. On January 1, 20X5, Entity T grants to its chief executive officer 10-year share options on 10,000 shares of its common stock, which are immediately vested and exercisable (an explicit service period of zero). The share price at the grant date is $30, and the initial exercise price also is $30. However, that price decreases to $15 if the market share for Entity T's products increases by at least 10 percentage points by December 31, 20X6, and provided that the chief executive officer continues to be employed by Entity T and has not previously exercised the options (an explicit service period of 2 years, which also is the requisite service period).
+718-20-55-43
+Entity T estimates at the grant date the expected level of market share growth, the exercise price of the options, and the expected term of the options. Other assumptions, including the risk-free interest rate and the service period over which the cost is attributed, are consistent with those estimates. Entity T estimates at the grant date that its market share growth will be at least 10 percentage points over the 2-year performance period, which means that the expected exercise price of the share options is $15, resulting in a fair value of $19.99 per option. Option value is determined using the same assumptions noted in paragraph 718-20-55-7 except the exercise price is $15 and the award is not exercisable at $15 per option for 2 years.
+718-20-55-44
+Total compensation cost to be recognized if the performance condition is satisfied would be $199,900 (10,000 x $19.99). Paragraph 718-10-30-15 requires that the fair value of both awards with service conditions and awards with performance conditions be estimated as of the date of grant. Paragraph 718-10-35-3 also requires recognition of cost for the number of instruments for which the requisite service is provided. For this performance award, Entity T also selects the expected assumptions at the grant date if the performance goal is not met. If market share growth is not at least 10 percentage points over the 2-year period, Entity T estimates a fair value of $13.08 per option. Option value is determined using the same assumptions noted in paragraph 718-20-55-7 except the award is immediately vested.
+718-20-55-45
+Total compensation cost to be recognized if the performance goal is not met would be $130,800 (10,000 × $13.08). Because Entity T estimates that the performance condition would be satisfied, it would recognize compensation cost of $130,800 on the date of grant related to the fair value of the fully vested award and recognize compensation cost of $69,100 ($199,900 - $130,800) over the 2-year requisite service period related to the condition. Because of the nature of the performance condition, the award has multiple requisite service periods that affect the manner in which compensation cost is attributed. Paragraphs 718-10-55-67 through 55-79 provide guidance on estimating the requisite service period.
+718-20-55-46
+During the two-year requisite service period, adjustments to reflect any change in estimate about satisfaction of the performance condition should be made, and, thus, aggregate cost recognized by the end of that period reflects whether the performance goal was met.
+· > Example 4: Share Option Award with Other Performance Conditions
+718-20-55-47
+This Example illustrates the guidance in paragraph 718-10-30-15.
+718-20-55-47A
+This Example (see paragraphs 718-20-55-48 through 55-50) describes employee awards. However, the principles on how to account for the various aspects of employee awards, except for the compensation cost attribution and certain inputs to valuation, are the same for nonemployee awards. Consequently, the concepts about valuation, expected term, and total compensation cost that should be recognized (that is, the consideration of whether it is probable that performance conditions will be achieved) in paragraphs 718-20-55-48 through 55-50 are equally applicable to nonemployee awards with the same features as the awards in this Example (that is, awards with performance conditions that affect inputs to an award's fair value). Therefore, the guidance in those paragraphs may serve as implementation guidance for similar nonemployee awards.
+718-20-55-47B
+Compensation cost attribution for awards to nonemployees may be the same or different for employee awards. That is because an entity is required to recognize compensation cost for nonemployee awards in the same manner as if the entity had paid cash in accordance with paragraph 718-10-25-2C. Additionally, valuation amounts used in this Example could be different because an entity may elect to use the contractual term as the expected term of share options and similar instruments when valuing nonemployee share-based payment transactions.
+718-20-55-48
+While performance conditions usually affect vesting conditions, they may affect exercise price, contractual term, quantity, or other factors that affect an award's fair value before, at the time of, or after vesting. This Topic requires that all performance conditions be accounted for similarly. A potential grant-date fair value is estimated for each of the possible outcomes that are reasonably determinable at the grant date and associated with the performance condition(s) of the award (as demonstrated in Example 3 [see paragraph 718-20-55-41)]. Compensation cost ultimately recognized is equal to the grant-date fair value of the award that coincides with the actual outcome of the performance condition(s).
+718-20-55-49
+To illustrate the notion described in the preceding paragraph and attribution of compensation cost if performance conditions have different service periods, assume Entity C grants 10,000 at-the-money share options on its common stock to an employee. The options have a 10-year contractual term. The share options vest upon successful completion of phase-two clinical trials to satisfy regulatory testing requirements related to a developmental drug therapy. Phase-two clinical trials are scheduled to be completed (and regulatory approval of that phase obtained) in approximately 18 months; hence, the implicit service period is approximately 18 months. Further, the share options will become fully transferable upon regulatory approval of the drug therapy (which is scheduled to occur in approximately four years). The implicit service period for that performance condition is approximately 30 months (beginning once phase-two clinical trials are successfully completed). Based on the nature of the performance conditions, the award has multiple requisite service periods (one pertaining to each performance condition) that affect the pattern in which compensation cost is attributed. Paragraphs 718-10-55-67 through 55-79 and 718-10-55-86 through 55-88 provide guidance on estimating the requisite service period of an award. The determination of whether compensation cost should be recognized depends on Entity C's assessment of whether the performance conditions are probable of achievement. Entity C expects that all performance conditions will be achieved. That assessment is based on the relevant facts and circumstances, including Entity C's historical success rate of bringing developmental drug therapies to market.
+718-20-55-50
+At the grant date, Entity C estimates that the potential fair value of each share option under the 2 possible outcomes is $10 (Outcome 1, in which the share options vest and do not become transferable) and $16 (Outcome 2, in which the share options vest and do become transferable). The difference in estimated fair values of each outcome is due to the change in estimate of the expected term of the share option. Outcome 1 uses an expected term in estimating fair value that is less than the expected term used for Outcome 2, which is equal to the award's 10-year contractual term. If a share option is transferable, its expected term is equal to its contractual term (see paragraph 718-10-55-29). If Outcome 1 is considered probable of occurring, Entity C would recognize $100,000 (10,000 × $10) of compensation cost ratably over the 18-month requisite service period related to the successful completion of phase-two clinical trials. If Outcome 2 is considered probable of occurring, then Entity C would recognize an additional $60,000 [10,000 × ($16 - $10)] of compensation cost ratably over the 30-month requisite service period (which begins after phase-two clinical trials are successfully completed) related to regulatory approval of the drug therapy. Because Entity C believes that Outcome 2 is probable, it recognizes compensation cost in the pattern described. However, if circumstances change and it is determined at the end of Year 3 that the regulatory approval of the developmental drug therapy is likely to be obtained in six years rather than four, the requisite service period for Outcome 2 is revised, and the remaining unrecognized compensation cost would be recognized prospectively through Year 6. On the other hand, if it becomes probable that Outcome 2 will not occur, compensation cost recognized for Outcome 2, if any, would be reversed.
+· > Example 5: Share Option with a Market Condition—Indexed Exercise Price
+718-20-55-51
+This Example illustrates the guidance in paragraph 718-10-30-15.
+718-20-55-51A
+This Example (see paragraphs 718-20-55-52 through 55-60) describes employee awards. However, the principles on how to account for the various aspects of employee awards, except for the compensation cost attribution and certain inputs to valuation, are the same for nonemployee awards. Consequently, the concepts about valuation in paragraphs 718-20-55-52 through 55-60 are equally applicable to nonemployee awards with the same features as the awards in this Example (that is, awards with market conditions that affect exercise prices). Therefore, the guidance in those paragraphs may serve as implementation guidance for similar nonemployee awards.
+718-20-55-51B
+Compensation cost attribution for awards to nonemployees may be the same or different for employee awards. That is because an entity is required to recognize compensation cost for nonemployee awards in the same manner as if the entity had paid cash in accordance with paragraph 718-10-25-2C. Additionally, valuation amounts used in this Example could be different because an entity may elect to use the contractual term as the expected term of share options and similar instruments when valuing nonemployee share-based payment transactions.
+718-20-55-52
+Entity T grants share options whose exercise price varies with an index of the share prices of a group of entities in the same industry, that is, a market condition. Assume that on January 1, 20X5, Entity T grants 100 share options on its common stock with an initial exercise price of $30 to each of 1,000 employees. The share options have a maximum term of 10 years. The exercise price of the share options increases or decreases on December 31 of each year by the same percentage that the index has increased or decreased during the year. For example, if the peer group index increases by 10 percent in 20X5, the exercise price of the share options during 20X6 increases to $33 ($30 × 1.10). On January 1, 20X5, the peer group index is assumed to be 400. The dividend yield on the index is assumed to be 1.25 percent.
+718-20-55-53
+Each indexed share option may be analyzed as a share option to exchange 0.0750 (30 ÷ 400) shares of the peer group index for a share of Entity T stock—that is, to exchange one noncash asset for another noncash asset. A share option to purchase stock for cash also can be thought of as a share option to exchange one asset (cash in the amount of the exercise price) for another (the share of stock). The intrinsic value of a cash share option equals the difference between the price of the stock upon exercise and the amount—the price—of the cash exchanged for the stock. The intrinsic value of a share option to exchange 0.0750 shares of the peer group index for a share of Entity T stock also equals the difference between the prices of the two assets exchanged.
+718-20-55-54
+To illustrate the equivalence of an indexed share option and the share option above, assume that an employee exercises the indexed share option when Entity T's share price has increased 100 percent to $60 and the peer group index has increased 75 percent, from 400 to 700. The exercise price of the indexed share option thus is $52.50 ($30 × 1.75).
+718-20-55-55
+That is the same as the intrinsic value of a share option to exchange 0.0750 shares of the index for 1 share of Entity T stock.
+718-20-55-56
+Option-pricing models can be extended to value a share option to exchange one asset for another. The principal extension is that the volatility of a share option to exchange two noncash assets is based on the relationship between the volatilities of the prices of the assets to be exchanged—their cross-volatility. In a share option with an exercise price payable in cash, the amount of cash to be paid has zero volatility, so only the volatility of the stock needs to be considered in estimating that option's fair value. In contrast, the fair value of a share option to exchange two noncash assets depends on possible movements in the prices of both assets—in this Example, fair value depends on the cross-volatility of a share of the peer group index and a share of Entity T stock. Historical cross-volatility can be computed directly based on measures of Entity T's share price in shares of the peer group index. For example, Entity T's share price was 0.0750 shares at the grant date and 0.0857 (60 ÷ 700) shares at the exercise date. Those share amounts then are used to compute cross-volatility. Cross-volatility also can be computed indirectly based on the respective volatilities of Entity T stock and the peer group index and the correlation between them. The expected cross-volatility between Entity T stock and the peer group index is assumed to be 30 percent.
+718-20-55-57
+In a share option with an exercise price payable in cash, the assumed risk-free interest rate (discount rate) represents the return on the cash that will not be paid until exercise. In this Example, an equivalent share of the index, rather than cash, is what will not be paid until exercise. Therefore, the dividend yield on the peer group index of 1.25 percent is used in place of the risk-free interest rate as an input to the option-pricing model.
+718-20-55-58
+The initial exercise price for the indexed share option is the value of an equivalent share of the peer group index, which is $30 (0.0750 × $400). The fair value of each share option granted is $7.55 based on the following inputs.
+718-20-55-59
+In this Example, the suboptimal exercise factor is 1.1. In Example 1 (see paragraph 718-20-55-4), the suboptimal exercise factor is 2.0. See paragraph 718-20-55-8 for an explanation of the meaning of a suboptimal exercise factor of 2.0.
+718-20-55-60
+The indexed share options have a three-year explicit service period. The market condition affects the grant-date fair value of the award and its exercisability; however, vesting is based solely on the explicit service period of three years. The at-the-money nature of the award makes the derived service period irrelevant in determining the requisite service period in this Example; therefore, the requisite service period of the award is three years based on the explicit service period. The accrual of compensation cost would be based on the number of options for which the requisite service is rendered or is expected to be rendered depending on an entity's accounting policy in accordance with paragraph 718-10-35-3 (which is not addressed in this Example). That cost would be recognized over the requisite service period as shown in Example 1 (see paragraph 718-20-55-4).
+· > Example 6: Share Unit with Performance and Market Conditions
+718-20-55-61
+This Example illustrates the guidance in paragraphs 718-10-25-20 through 25-21, 718-10-30-27, and 718-10-35-4.
+718-20-55-61A
+This Example (see paragraphs 718-20-55-62 through 55-67) describes employee awards. However, the principles on how to account for the various aspects of employee awards, except for the compensation cost attribution and certain inputs to valuation, are the same for nonemployee awards. Consequently, both of the following are equally applicable to nonemployee awards with the same features as the awards in this Example (that is, awards with a specified time period for vesting and the recognition of compensation cost based on the achievement of particular performance conditions):
+aThe performance conditions in paragraph 718-20-55-62
+bConcepts about valuation, compensation cost reversal, and total compensation cost that should be recognized (that is, the consideration of whether it is probable that performance conditions will be achieved) in paragraphs 718-20-55-63 and 718-20-55-65 through 55-67.
+Therefore, the guidance in those paragraphs may serve as implementation guidance for similar nonemployee awards.
+718-20-55-61B
+Compensation cost attribution for awards to nonemployees may be the same or different for employee awards. That is because an entity is required to recognize compensation cost for nonemployee awards in the same manner as if the entity had paid cash in accordance with paragraph 718-10-25-2C. Additionally, valuation amounts used in this Example could be different because an entity may elect to use the contractual term as the expected term of share options and similar instruments when valuing nonemployee share-based payment transactions.
+718-20-55-62
+Entity T grants 100,000 share units to each of 10 vice presidents (1 million share units in total) on January 1, 20X5. Each share unit has a contractual term of three years and a vesting condition based on performance. The performance condition is different for each vice president and is based on specified goals to be achieved over three years (an explicit three-year service period). If the specified goals are not achieved at the end of three years, the share units will not vest. Each share unit is convertible into shares of Entity T at contractual maturity as follows:
+aIf Entity T's share price has appreciated by a percentage that exceeds the percentage appreciation of the S&P 500 index by at least 10 percent (that is, the relative percentage increase is at least 10 percent), each share unit converts into 3 shares of Entity T stock.
+bIf the relative percentage increase is less than 10 percent but greater than zero percent, each share unit converts into 2 shares of Entity T stock.
+cIf the relative percentage increase is less than or equal to zero percent, each share unit converts into 1 share of Entity T stock.
+dIf Entity T's share price has depreciated, each share unit converts into zero shares of Entity T stock.
+718-20-55-63
+Appreciation or depreciation for Entity T's share price and the S&P 500 index is measured from the grant date.
+718-20-55-64
+This market condition affects the ability to retain the award because the conversion ratio could be zero; however, vesting is based solely on the explicit service period of three years, which is equal to the contractual maturity of the award. That set of circumstances makes the derived service period irrelevant in determining the requisite service period; therefore, the requisite service period of the award is three years based on the explicit service period.
+718-20-55-65
+The share units' conversion feature is based on a variable target stock price (that is, the target stock price varies based on the S&P 500 index); hence, it is a market condition. That market condition affects the fair value of the share units that vest. Each vice president's share units vest only if the individual's performance condition is achieved; consequently, this award is accounted for as an award with a performance condition (see paragraphs 718-10-55-60 through 55-63). This Example assumes that all share units become fully vested; however, if the share units do not vest because the performance conditions are not achieved, Entity T would reverse any previously recognized compensation cost associated with the nonvested share units.
+718-20-55-66
+The grant-date fair value of each share unit is assumed for purposes of this Example to be $36. Certain option-pricing models, including Monte Carlo simulation techniques, have been adapted to value path-dependent options and other complex instruments. In this case, the entity concludes that a Monte Carlo simulation technique provides a reasonable estimate of fair value. Each simulation represents a potential outcome, which determines whether a share unit would convert into three, two, one, or zero shares of stock. For simplicity, this Example assumes that no forfeitures will occur during the vesting period. The grant-date fair value of the award is $36 million (1 million × $36); management of Entity T expects that all share units will vest because the performance conditions are probable of achievement. Entity T recognizes compensation cost of $12 million ($36 million ÷ 3) in each year of the 3-year service period; the following journal entries are recognized by Entity T in 20X5, 20X6, and 20X7.
+To recognize compensation cost.
+To recognize the deferred tax asset for the temporary difference related to compensation cost ($12,000,000 ×.35 = $4,200,000).
+718-20-55-67
+Upon contractual maturity of the share units, four outcomes are possible; however, because all possible outcomes of the market condition were incorporated into the share units' grant-date fair value, no other entry related to compensation cost is necessary to account for the actual outcome of the market condition. However, if the share units' conversion ratio was based on achieving a performance condition rather than on satisfying a market condition, compensation cost would be adjusted according to the actual outcome of the performance condition (see Example 4 [paragraph 718-20-55-47]).
+· > Example 7: Share Option with Exercise Price That Increases by a Fixed Amount or Fixed Percentage
+718-20-55-68
+This Example illustrates the guidance in paragraph 718-10-30-15.
+718-20-55-68A
+This Example (see paragraphs 718-20-55-69 through 55-70) describes employee awards. However, the principles on how to account for the various aspects of employee awards, except for the compensation cost attribution and certain inputs to valuation, are the same for nonemployee awards. Consequently, the concepts about valuation in paragraphs 718-20-55-69 through 55-70 are equally applicable to nonemployee awards with the same features as the awards in this Example (that is, awards with exercise prices that increase by a fixed amount or fixed percentage). Therefore, the guidance in those paragraphs may serve as implementation guidance for similar nonemployee awards.
+718-20-55-68B
+Compensation cost attribution for awards to nonemployees may be the same or different for employee awards. That is because an entity is required to recognize compensation cost for nonemployee awards in the same manner as if the entity had paid cash in accordance with paragraph 718-10-25-2C. Additionally, valuation amounts used in this Example could be different because an entity may elect to use the contractual term as the expected term of share options and similar instruments when valuing nonemployee share-based payment transactions.
+718-20-55-69
+Some entities grant share options with exercise prices that increase by a fixed amount or a constant percentage periodically. For example, the exercise price of the share options in Example 1 (see paragraph 718-20-55-4) might increase by a fixed amount of $2.50 per year. Lattice models and other valuation techniques can be adapted to accommodate exercise prices that change over time by a fixed amount. Such an arrangement has a market condition and may have a derived service period.
+718-20-55-70
+Share options with exercise prices that increase by a constant percentage also can be valued using an option-pricing model that accommodates changes in exercise prices. Alternatively, those share options can be valued by deducting from the discount rate the annual percentage increase in the exercise price. That method works because a decrease in the risk-free interest rate and an increase in the exercise price have a similar effect—both reduce the share option value. For example, the exercise price of the share options in Example 1 (see paragraph 718-20-55-4) might increase at the rate of 1 percent annually. For that example, Entity T's share options would be valued based on a risk-free interest rate less 1 percent. Holding all other assumptions constant from that Example, the value of each share option granted by Entity T would be $14.34.
+· > Example 8: Employee Share Award Granted by a Nonpublic Entity
+718-20-55-71
+The Example illustrates the guidance in paragraphs 718-10-30-17 through 30-19 and 718-740-25-2 through 25-4 for employee awards. The accounting demonstrated in this Example also would be applicable to a public entity that grants share awards to its employees. The same measurement method and basis is used for both nonvested share awards and restricted share awards (which are a subset of nonvested share awards).
+718-20-55-72
+On January 1, 20X6, Entity W, a nonpublic entity, grants 100 shares of stock to each of its 100 employees. The shares cliff vest at the end of three years. Entity W estimates that the grant-date fair value of 1 share of stock is $7. The grant-date fair value of the share award is $70,000 (100 × 100 × $7). The fair value of shares, which is equal to their intrinsic value, is not subsequently remeasured. For simplicity, the example assumes that no forfeitures occur during the vesting period. Because the requisite service period is 3 years, Entity W recognizes $23,333 ($70,000 ÷ 3) of compensation cost for each annual period as follows.
+To recognize compensation cost.
+To recognize the deferred tax asset for the temporary difference related to compensation cost ($23,333 ×.35 = $8,167).
+718-20-55-73
+After three years, all shares are vested. For simplicity, this Example assumes that no employees made an Internal Revenue Service (IRS) Code §83(b) election and Entity W has already recognized its income tax expense for the year in which the shares become vested without regard to the effects of the share award. (IRS Code §83(b) permits an employee to elect either the grant date or the vesting date for measuring the fair market value of an award of shares.)
+718-20-55-74
+The fair value per share on the vesting date, assumed to be $20, is deductible for tax purposes. Paragraph 718-740-35-2 requires that the tax effect be recognized as income tax expense or benefit in the income statement for the difference between the deduction for an award for tax purposes and the cumulative compensation cost of that award recognized for financial reporting purposes. With the share price at $20 on the vesting date, the deductible amount is $200,000 (10,000 × $20), and the tax benefit is $70,000 ($200,000 ×.35).
+718-20-55-75
+At vesting the journal entries would be as follows.
+To write off deferred tax asset related to deductible share award at vesting ($70,000 ×.35 = $24,500).
+To adjust current tax expense and current taxes payable to recognize the current tax benefit from deductible compensation cost upon vesting of share award.
+· > Example 9: Share Award Granted by a Nonpublic Entity That Uses the Calculated Value Method
+718-20-55-76
+This Example illustrates the guidance in paragraphs 718-10-30-19A through 30-20.
+718-20-55-76A
+This Example (see paragraphs 718-20-55-77 through 55-83) describes employee awards. However, the principles on how to account for the various aspects of employee awards, except for the compensation cost attribution and certain inputs to valuation, are the same for nonemployee awards. Consequently, an entity should substitute the historical volatility of an appropriate industry sector index for expected volatility in accordance with paragraph 718-10-30-20 when measuring the grant-date fair value of nonemployee awards with similar facts and circumstances (that is, an entity has determined that it is not practicable for it to estimate the expected volatility of its share price), as illustrated in paragraphs 718-20-55-77 through 55-80. Therefore, the guidance in those paragraphs may serve as implementation guidance for similar nonemployee awards.
+718-20-55-76B
+Compensation cost attribution for awards to nonemployees may be the same as or different from that which is illustrated in paragraph 718-20-55-81 for employee awards. That is because an entity is required to recognize compensation cost for nonemployee awards in the same manner as if the entity had paid cash in accordance with paragraph 718-10-25-2C. Additionally, valuation amounts used in this Example could be different because an entity may elect to use the contractual term as the expected term of share options and similar instruments when valuing nonemployee share-based payment transactions.
+718-20-55-77
+On January 1, 20X6, Entity W, a small nonpublic entity that develops, manufactures, and distributes medical equipment, grants 100 share options to each of its 100 employees. The share price at the grant date is $7. The options are granted at-the-money, cliff vest at the end of 3 years, and have a 10-year contractual term. Entity W estimates the expected term of the share options granted as 5 years and the risk-free rate as 3.75 percent. For simplicity, this Example assumes that no forfeitures occur during the vesting period and that no dividends are expected to be paid in the future, and this Example does not reflect the accounting for income tax consequences of the awards.
+718-20-55-78
+Entity W does not maintain an internal market for its shares, which are rarely traded privately. It has not issued any new equity or convertible debt instruments for several years and has been unable to identify any similar entities that are public. Entity W has determined that it is not practicable for it to estimate the expected volatility of its share price and, therefore, it is not possible for it to reasonably estimate the grant-date fair value of the share options. Accordingly, Entity W is required to apply the provisions of paragraph 718-10-30-20 in accounting for the share options under the calculated value method.
+718-20-55-79
+Entity W operates exclusively in the medical equipment industry. It visits the Dow Jones Indexes website and, using the Industry Classification Benchmark, reviews the various industry sector components of the Dow Jones U.S. Total Market Index. It identifies the medical equipment subsector, within the health care equipment and services sector, as the most appropriate industry sector in relation to its operations. It reviews the current components of the medical equipment index and notes that, based on the most recent assessment of its share price and its issued share capital, in terms of size it would rank among entities in the index with a small market capitalization (or small-cap entities). Entity W selects the small-cap version of the medical equipment index as an appropriate industry sector index because it considers that index to be representative of its size and the industry sector in which it operates. Entity W obtains the historical daily closing total return values of the selected index for the five years immediately before January 1, 20X6, from the Dow Jones Indexes website. It calculates the annualized historical volatility of those values to be 24 percent, based on 252 trading days per year.
+718-20-55-80
+Entity W uses the inputs that it has determined above in a Black-Scholes-Merton option-pricing formula, which produces a value of $2.05 per share option. This results in total compensation cost of $20,500 (10,000 × $2.05) to be accounted for over the requisite service period of 3 years.
+718-20-55-81
+For each of the 3 years ending December 31, 20X6, 20X7, and 20X8, Entity W will recognize compensation cost of $6,833 ($20,500 ÷ 3). The journal entry for each year is as follows.
+To recognize compensation cost.
+718-20-55-82
+The share option award granted by a nonpublic entity that used the calculated value method is as follows.
+718-20-55-83
+Assuming that all 10,000 share options are exercised on the same day in 20Y2, the accounting for the option exercise will follow the same pattern as in Example 1, Case A (see paragraph 718-20-55-10) and will result in the following journal entry.
+At exercise the journal entry is as follows.
+To recognize the issuance of shares upon exercise of options and to reclassify previously recognized paid-in capital.
+· > Example 10: Share Award with a Clawback Feature
+718-20-55-84
+This Example illustrates the guidance in paragraph 718-20-35-2.
+718-20-55-84A
+This Example (see paragraphs 718-20-55-85 through 55-86) describes employee awards. However, the principles on how to account for the various aspects of employee awards, except for the compensation cost attribution and certain inputs to valuation, are the same for nonemployee awards. Consequently, the accounting for a contingent feature (such as a clawback) of an award that might cause a grantee to return to the entity either equity instruments earned or realized gains from the sale of the equity instruments earned is equally applicable to nonemployee awards with the same feature as the awards in this Example (that is, the clawback feature). Therefore, the guidance in this Example also serves as implementation guidance for similar nonemployee awards.
+718-20-55-84B
+Compensation cost attribution for awards to nonemployees may be the same or different for employee awards. That is because an entity is required to recognize compensation cost for nonemployee awards in the same manner as if the entity had paid cash in accordance with paragraph 718-10-25-2C. Additionally, valuation amounts used in this Example could be different because an entity may elect to use the contractual term as the expected term of share options and similar instruments when valuing nonemployee share-based payment transactions.
+718-20-55-85
+On January 1, 20X5, Entity T grants its chief executive officer an award of 100,000 shares of stock that vest upon the completion of 5 years of service. The market price of Entity T's stock is $30 per share on that date. The grant-date fair value of the award is $3,000,000 (100,000 × $30). The shares become freely transferable upon vesting; however, the award provisions specify that, in the event of the employee's termination and subsequent employment by a direct competitor (as defined by the award) within three years after vesting, the shares or their cash equivalent on the date of employment by the direct competitor must be returned to Entity T for no consideration (a clawback feature). The chief executive officer completes five years of service and vests in the award. Approximately two years after vesting in the share award, the chief executive officer terminates employment and is hired as an employee of a direct competitor. Paragraph 718-10-55-8 states that contingent features requiring an employee to transfer equity shares earned or realized gains from the sale of equity instruments earned as a result of share-based payment arrangements to the issuing entity for consideration that is less than fair value on the date of transfer (including no consideration) are not considered in estimating the fair value of an equity instrument on the date it is granted. Those features are accounted for if and when the contingent event occurs by recognizing the consideration received in the corresponding balance sheet account and a credit in the income statement equal to the lesser of the recognized compensation cost of the share-based payment arrangement that contains the contingent feature ($3,000,000) and the fair value of the consideration received. This guidance does not apply to cancellations of awards of equity instruments as discussed in paragraphs 718-20-35-7 through 35-9. The former chief executive officer returns 100,000 shares of Entity T's common stock with a total market value of $4,500,000 as a result of the award's provisions. The following journal entry accounts for that event.
+To recognize the receipt of consideration as a result of the clawback feature.
+718-20-55-86
+If instead of delivering shares to Entity T, the former chief executive officer had paid cash equal to the total market value of 100,000 shares of Entity T's common stock, the following journal entry would have been recorded.
+To recognize the receipt of consideration as a result of the clawback feature.
+· > Example 11: Certain Noncompete Agreements and Requisite Service for Employee Awards
+718-20-55-87
+Paragraphs 718-10-25-3 through 25-4 require that the accounting for all share-based payment transactions with employees or others reflect the rights conveyed to the holder of the instruments and the obligations imposed on the issuer of the instruments, regardless of how those transactions are structured. Some share-based compensation arrangements with employees may contain noncompete provisions. Those noncompete provisions may be in-substance service conditions because of their nature. Determining whether a noncompete provision or another type of provision represents an in-substance service condition is a matter of judgment based on relevant facts and circumstances. This Example illustrates a situation in which a noncompete provision represents an in-substance service condition.
+718-20-55-88
+Entity K is a professional services firm in which retention of qualified employees is important in sustaining its operations. Entity K's industry expertise and relationship networks are inextricably linked to its employees; if its employees terminate their employment relationship and work for a competitor, the entity's operations may be adversely impacted.
+718-20-55-89
+As part of its compensation structure, Entity K grants 100,000 restricted share units to an employee on January 1, 20X6. The fair value of the restricted share units represents approximately four times the expected future annual total compensation of the employee. The restricted share units are fully vested as of the date of grant, and retention of the restricted share units is not contingent on future service to Entity K. However, the units are transferred to the employee based on a 4-year delayed-transfer schedule (25,000 restricted share units to be transferred beginning on December 31, 20X6, and on December 31 in each of the 3 succeeding years) if and only if specified noncompete conditions are satisfied. The restricted share units are convertible into unrestricted shares any time after transfer.
+718-20-55-90
+The noncompete provisions require that no work in any capacity may be performed for a competitor (which would include any new competitor formed by the employee). Those noncompete provisions lapse with respect to the restricted share units as they are transferred. If the noncompete provisions are not satisfied, the employee loses all rights to any restricted share units not yet transferred. Additionally, the noncompete provisions stipulate that Entity K may seek other available legal remedies, including damages from the employee. Entity K has determined that the noncompete is legally enforceable and has legally enforced similar arrangements in the past.
+718-20-55-91
+The nature of the noncompete provision (being the corollary condition of active employment), the provision's legal enforceability, the employer's intent to enforce and past practice of enforcement, the delayed-transfer schedule mirroring the lapse of noncompete provisions, the magnitude of the award's fair value in relation to the employee's expected future annual total compensation, and the severity of the provision limiting the employee's ability to work in the industry in any capacity are facts that provide a preponderance of evidence suggesting that the arrangement is designed to compensate the employee for future service in spite of the employee's ability to terminate the employment relationship during the service period and retain the award (assuming satisfaction of the noncompete provision). Consequently, Entity K would recognize compensation cost related to the restricted share units over the four-year substantive service period.
+718-20-55-92
+Example 10 (see paragraph 718-20-55-84) provides an illustration of another noncompete agreement. That Example and this one are similar in that both noncompete agreements are not contingent upon employment termination (that is, both agreements may activate and lapse during a period of active employment after the vesting date). A key difference between the two Examples is that the award recipient in that Example must provide five years of service to vest in the award (as opposed to vesting immediately). Another key difference is that the award recipient in that Example receives the shares upon vesting and may sell them immediately without restriction as opposed to the restricted share units, which are transferred according to the delayed-transfer schedule. In that Example, the noncompete provision is not deemed to be an in-substance service condition. In making a determination about whether a noncompete provision may represent an in-substance service condition, the provision's legal enforceability, the entity's intent to enforce the provision and its past practice of enforcement, the employee's rights to the instruments such as the right to sell them, the severity of the provision, the fair value of the award, and the existence or absence of an explicit employee service condition are all factors that shall be considered. Because noncompete provisions can be structured differently, one or more of those factors (such as the entity's intent to enforce the provision) may be more important than others in making that determination. For example, if Entity K did not intend to enforce the provision, then the noncompete provision would not represent an in-substance service condition.
+· > Example 12: Modifications and Settlements
+718-20-55-93
+The following Cases illustrate the accounting for modifications of the terms of an award (see paragraphs 718-20-35-3 through 35-4) and are based on Example 1, Case A (see paragraph 718-20-55-10), in which Entity T granted its employees 900,000 share options with an exercise price of $30 on January 1, 20X5:
+aModification of vested share options (Case A)
+bShare settlement of vested share options (Case B)
+cModification of nonvested share options (Case C)
+dCash settlement of nonvested share options (Case D).
+718-20-55-93A
+Cases A through D (see paragraphs 718-20-55-94 through 55-102) describe employee awards. Specifically, each case is an extension of Case A in Example 1. However, the principles on how to account for the various aspects of employee awards, except for the compensation cost attribution and certain inputs to valuation, are the same for nonemployee awards. Consequently, the methodology for determining the additional compensation cost that an entity should recognize upon modification or settlement in paragraphs 718-20-55-94 through 55-102 is equally applicable to nonemployee awards with the same features as the awards in Cases A through D (that is, awards with a specified period of time for vesting). Therefore, the guidance in those paragraphs may serve as implementation guidance for similar nonemployee awards.
+718-20-55-93B
+All aspects of Case A (see paragraph 718-20-55-94) and Case B (see paragraph 718-20-55-97) that illustrate a modification and share settlement of vested share options, respectively, including the immediate recognition of any additional compensation cost, should be the same for both employee awards and nonemployee awards.
+718-20-55-93C
+The compensation cost attribution for awards to nonemployees may be the same or different for employee awards in Case C (see paragraph 718-20-55-98), which illustrates the modification of a nonvested share option. That is because an entity is required to recognize compensation cost for nonemployee awards in the same manner as if the entity had paid cash in accordance with paragraph 718-10-25-2C.
+718-20-55-93D
+All aspects of Case D (see paragraph 718-20-55-102), which illustrates a cash settlement of a nonvested share option, including the immediate recognition of any additional compensation cost, should be the same for both employee awards and nonemployee awards. That is because the cash settlement of a nonvested share option effectively vests the share option.
+· · > Case A: Modification of Vested Share Options
+718-20-55-94
+On January 1, 20X9, after the share options have vested, the market price of Entity T stock has declined to $20 per share, and Entity T decides to reduce the exercise price of the outstanding share options to $20. In effect, Entity T issues new share options with an exercise price of $20 and a contractual term equal to the remaining contractual term of the original January 1, 20X5, share options, which is 6 years, in exchange for the original vested share options. Entity T incurs additional compensation cost for the excess of the fair value of the modified share options issued over the fair value of the original share options at the date of the exchange, measured as shown in the following paragraph. A nonpublic entity using the calculated value would compare the calculated value of the original award immediately before the modification with the calculated value of the modified award unless an entity has ceased to use the calculated value, in which case it would follow the guidance in paragraph 718-20-35-3(a) through (b) (calculating the effect of the modification based on the fair value). The modified share options are immediately vested, and the additional compensation cost is recognized in the period the modification occurs.
+718-20-55-95
+The January 1, 20X9, fair value of the modified award is $7.14. To determine the amount of additional compensation cost arising from the modification, the fair value of the original vested share options assumed to be repurchased is computed immediately before the modification. The resulting fair value at January 1, 20X9, of the original share options is $3.67 per share option, based on their remaining contractual term of 6 years, suboptimal exercise factor of 2, $20 current share price, $30 exercise price, risk-free interest rates of 1.5 percent to 3.4 percent, expected volatility of 35 percent to 50 percent and a 1.0 percent expected dividend yield. The additional compensation cost stemming from the modification is $3.47 per share option, determined as follows.
+718-20-55-96
+Compensation cost already recognized during the vesting period of the original award is $10,981,157 for 747,526 vested share options (see paragraphs 718-20-55-14 through 55-17). For simplicity, it is assumed that no share options were exercised before the modification. Previously recognized compensation cost is not adjusted. Additional compensation cost of $2,593,915 (747,526 vested share options × $3.47) is recognized on January 1, 20X9, because the modified share options are fully vested; any income tax effects from the additional compensation cost are recognized accordingly.
+· · > Case B: Share Settlement of Vested Share Options
+718-20-55-97
+Rather than modify the option terms, Entity T offers to settle the original January 1, 20X5, share options for fully vested equity shares at January 1, 20X9. The fair value of each share option is estimated the same way as shown in Case A, resulting in a fair value of $3.67 per share option. Entity T recognizes the settlement as the repurchase of an outstanding equity instrument, and no additional compensation cost is recognized at the date of settlement unless the payment in fully vested equity shares exceeds $3.67 per share option. Previously recognized compensation cost for the fair value of the original share options is not adjusted.
+· · > Case C: Modification of Nonvested Share Options
+718-20-55-98
+On January 1, 20X6, 1 year into the 3-year vesting period, the market price of Entity T stock has declined to $20 per share, and Entity T decides to reduce the exercise price of the share options to $20. The three-year cliff-vesting requirement is not changed. In effect, in exchange for the original nonvested share options, Entity T grants new share options with an exercise price of $20 and a contractual term equal to the 9-year remaining contractual term of the original share options granted on January 1, 20X5. Entity T incurs additional compensation cost for the excess of the fair value of the modified share options issued over the fair value of the original share options at the date of the exchange determined in the manner described in paragraphs 718-20-55-95 through 55-96. Entity T adds that additional compensation cost to the remaining unrecognized compensation cost for the original share options at the date of modification and recognizes the total amount ratably over the remaining two years of the three-year vesting period. Because the original vesting provision is not changed, the modification has an explicit service period of two years, which represents the requisite service period as well. Thus, incremental compensation cost resulting from the modification would be recognized ratably over the remaining two years rather than in some other pattern.
+718-20-55-99
+The January 1, 20X6, fair value of the modified award is $8.59 per share option, based on its contractual term of 9 years, suboptimal exercise factor of 2, $20 current share price, $20 exercise price, risk-free interest rates of 1.5 percent to 4.0 percent, expected volatilities of 35 percent to 55 percent, and a 1.0 percent expected dividend yield. The fair value of the original award immediately before the modification is $5.36 per share option, based on its remaining contractual term of 9 years, suboptimal exercise factor of 2, $20 current share price, $30 exercise price, risk-free interest rates of 1.5 percent to 4.0 percent, expected volatilities of 35 percent to 55 percent, and a 1.0 percent expected dividend yield. Thus, the additional compensation cost stemming from the modification is $3.23 per share option, determined as follows.
+718-20-55-100
+On January 1, 20X6, the remaining balance of unrecognized compensation cost for the original share options is $9.79 per share option. Using a value of $14.69 for the original option as noted in paragraph 718-20-55-9 results in recognition of $4.90 ($14.69 ÷ 3) per year. The unrecognized balance at January 1, 20X6, is $9.79 ($14.69 - $4.90) per option. The total compensation cost for each modified share option that is expected to vest is $13.02, determined as follows.
+718-20-55-101
+That amount is recognized during 20X6 and 20X7, the two remaining years of the requisite service period.
+· · > Case D: Cash Settlement of Nonvested Share Options
+718-20-55-102
+Rather than modify the share option terms, Entity T offers on January 1, 20X6, to settle the original January 1, 20X5, grant of share options for cash. Because the share price decreased from $30 at the grant date to $20 at the date of settlement, the fair value of each share option is $5.36, the same as in Case C. If Entity T pays $5.36 per share option, it would recognize that cash settlement as the repurchase of an outstanding equity instrument and no incremental compensation cost would be recognized. However, the cash settlement of the share options effectively vests them. Therefore, the remaining unrecognized compensation cost of $9.79 per share option would be recognized at the date of settlement.
+· > Example 13: Modifications Due to an Equity Restructuring
+718-20-55-103
+As a reminder, exchanges of share options or other equity instruments or changes to their terms in conjunction with an equity restructuring are considered modifications for purposes of this Topic. The following Cases illustrate the guidance in paragraph 718-20-35-6:
+aOriginal award contains antidilution provisions (Case A).
+bOriginal award does not contain antidilution provisions (Case B).
+cOriginal award does not contain an antidilution provision but is modified on the date of equity restructuring (Case C).
+· · > Case A: Original Award Contains Antidilution Provisions
+718-20-55-104
+In this Case, assume an award contains antidilution provisions. On May 1 there is an announcement of a future equity restructuring. On October 12 the equity restructuring occurs and the terms of the award are modified in accordance with the antidilution provisions. In this Case, the modification occurs on October 12 when the terms of the award are changed. The fair value of the award is compared pre- and postmodification on October 12. The calculation of fair value is necessary to determine whether there is any incremental value transferred as a result of the modification, and if so, that incremental value would be recognized as additional compensation cost. If there is no change in fair value, vesting conditions, or the classification of the award, the entity would not account for the effect of the modification (see paragraph 718-20-35-2A).
+· · > Case B: Original Award Does Not Contain Antidilution Provisions
+718-20-55-105
+In this Case, the original award does not contain antidilution provisions. On May 1 there is an announcement of a future equity restructuring. On July 26 the terms of an award are modified to add antidilution provisions in contemplation of an equity restructuring. On September 30 the equity restructuring occurs. In this Case, there are two modifications to account for. The first modification occurs on July 26, when the terms of the award are changed to add antidilution provisions. There must be a comparison of the fair value of the award pre- and postmodification on July 26 in accordance with paragraph 718-20-35-2A to determine whether the entity should account for the effects of the modifications as described in paragraphs 718-20-35-3 through 35-9. The premodification fair value on July 26 is based on the award without antidilution provisions taking into account the effect of the contemplated restructuring on its value. The postmodification fair value is based on an award with antidilution provisions, taking into account the effect of the contemplated restructuring on its value. Any incremental value transferred would be recognized as additional compensation cost. Once the equity restructuring occurs, there is a second modification event on September 30 when the terms of the award are changed in accordance with the antidilution provisions. A second comparison of pre- and postmodification fair values is then required to determine whether the fair value of the award has changed as a result of the modification. If there is no change in fair value, vesting conditions, or the classification of the award, the entity would not account for the effect of the modification on September 30 (see paragraph 718-20-35-2A). Changes to the terms of an award in accordance with its antidilution provisions typically would not result in additional compensation cost if the antidilution provisions were properly structured. If there is a change in fair value, vesting conditions, or the classification of the award, the incremental value transferred, if any, would be recognized as additional compensation cost.
+· · > Case C: Original Award Does Not Contain an Antidilution Provision but Is Modified on the Date of Equity Restructuring
+718-20-55-106
+Assume the same facts as in Case B except the terms of the awards are modified on the date of the equity restructuring, September 30. In contrast to Case B in which there are two separate modifications, there is one modification that occurs on September 30 and the fair value is compared pre- and postmodification to determine whether any incremental value is transferred as a result of the modification. Any incremental value transferred would be recognized as additional compensation cost.
+· > Example 14: Modifications of Awards with Performance and Service Vesting Conditions
+718-20-55-107
+Paragraphs 718-10-55-60 through 55-63 note that awards may vest based on service conditions, performance conditions, or a combination of the two. Modifications of market conditions that affect exercisability or the ability to retain the award are not addressed by this Example. A modification of vesting conditions is accounted for based on the principles in paragraph 718-20-35-3; that is, total recognized compensation cost for an equity award that is modified shall at least equal the fair value of the award at the grant date unless, at the date of the modification, the performance or service conditions of the original award are not expected to be satisfied. If awards are expected to vest under the original vesting conditions at the date of the modification, an entity shall recognize compensation cost if either of the following criteria is met:
+aThe awards ultimately vest under the modified vesting conditions
+bThe awards ultimately would have vested under the original vesting conditions.
+718-20-55-108
+In contrast, if at the date of modification awards are not expected to vest under the original vesting conditions, an entity should recognize compensation cost only if the awards vest under the modified vesting conditions. Said differently, if the entity believes that the original performance or service vesting condition is not probable of achievement at the date of the modification, the cumulative compensation cost related to the modified award, assuming vesting occurs under the modified performance or service vesting condition, is the modified award's fair value at the date of the modification. The following Cases illustrate the application of those requirements:
+aType I probable to probable modification (Case A)
+bType II probable to improbable modification (Case B)
+cType III improbable to probable modification (Case C)
+dType IV improbable to improbable modification (Case D).
+718-20-55-109
+Cases A through D are all based on the same scenario: Entity T grants 1,000 share options to each of 10 employees in the sales department. The share options have the same terms and conditions as those described in Example 1 (see paragraph 718-20-55-4), except that the share options specify that vesting is conditional upon selling 150,000 units of product A (the original sales target) over the 3-year explicit service period. The grant-date fair value of each option is $14.69 (see paragraph 718-20-55-9). For simplicity, this Example assumes that no forfeitures will occur from employee termination; forfeitures will only occur if the sales target is not achieved. Example 15 (see paragraph 718-20-55-120) provides an additional illustration of a Type III modification.
+718-20-55-109A
+Cases A through D (see paragraphs 718-20-55-111 through 55-119) describe employee awards because the Cases use the terms and conditions of the employee awards presented as part of Example 1 of this Subtopic (see paragraph 718-20-55-4). However, the principles about determining the cumulative amount of compensation cost that an entity should recognize because of a modification to an employee award provided in Cases A through D are the same for nonemployee awards that are modified. Consequently, the guidance in paragraphs 718-20-55-111 through 55-119 should be applied to determine the cumulative amount of compensation cost that an entity should recognize because of a modification to a nonemployee award.
+718-20-55-109B
+Any additional compensation cost should be recognized by applying the guidance in paragraph 718-10-25-2C. That is, an asset or expense must be recognized (or previous recognition reversed) in the same period(s) and in the same manner as if the grantor had paid cash for the goods or services instead of paying with or using the share-based payment awards. Additionally, valuation amounts used in the Cases could be different because an entity may elect to use the contractual term as the expected term of share options and similar instruments when valuing nonemployee share-based payment transactions.
+718-20-55-110
+Cases A through D assume that the options are out-of-the-money when modified; however, that fact is not determinative in the illustrations (that is, options could be in- or out-of-the-money).
+· · > Case A: Type I Probable to Probable Modification
+718-20-55-111
+Based on historical sales patterns and expectations related to the future, management of Entity T believes at the grant date that it is probable that the sales target will be achieved. On January 1, 20X7, 102,000 units of Product A have been sold. During December 20X6, one of Entity T's competitors declared bankruptcy after a fire destroyed a factory and warehouse containing the competitor's inventory. To push the salespeople to take advantage of that situation, the award is modified on January 1, 20X7, to raise the sales target to 154,000 units of Product A (the modified sales target). Notwithstanding the nature of the modification's probability of occurrence, the objective of this Case is to demonstrate the accounting for a Type I modification. Additionally, as of January 1, 20X7, the options are out-of-the-money because of a general stock market decline. No other terms or conditions of the original award are modified, and management of Entity T continues to believe that it is probable that the modified sales target will be achieved. Immediately before the modification, total compensation cost expected to be recognized over the 3-year vesting period is $146,900 or $14.69 multiplied by the number of share options expected to vest (10,000). Because no other terms or conditions of the award were modified, the modification does not affect the per-share-option fair value (assumed to be $8 in this Case at the date of the modification). Moreover, because the modification does not affect the number of share options expected to vest, no incremental compensation cost is associated with the modification.
+718-20-55-112
+This paragraph illustrates the cumulative compensation cost Entity T should recognize for the modified award based on three potential outcomes:
+aOutcome 1—achievement of the modified sales target. In Outcome 1, all 10,000 share options vest because the salespeople sold at least 154,000 units of Product A. In that outcome, Entity T would recognize cumulative compensation cost of $146,900.
+bOutcome 2—achievement of the original sales target. In Outcome 2, no share options vest because the salespeople sold more than 150,000 units of Product A but less than 154,000 units (the modified sales target is not achieved). In that outcome, Entity T would recognize cumulative compensation cost of $146,900 because the share options would have vested under the original terms and conditions of the award.
+cOutcome 3—failure to achieve either sales target. In Outcome 3, no share options vest because the modified sales target is not achieved; additionally, no share options would have vested under the original terms and conditions of the award. In that case, Entity T would recognize cumulative compensation cost of $0.
+· · > Case B: Type II Probable to Improbable Modification
+718-20-55-113
+It is generally believed that Type II modifications will be rare; therefore, this illustration has been provided for the sake of completeness. Based on historical sales patterns and expectations related to the future, management of Entity T believes that at the grant date, it is probable that the sales target (150,000 units of product A) will be achieved. At January 1, 20X7, 102,000 units of product A have been sold and the options are out-of-the-money because of a general stock market decline. Entity T's management implements a cash bonus program based on achieving an annual sales target for 20X7. The options are neither cancelled nor settled as a result of the cash bonus program. The cash bonus program would be accounted for using the same accounting as for other cash bonus arrangements. Concurrently, the sales target for the option awards is revised to 170,000 units of Product A. No other terms or conditions of the original award are modified. Management believes that the modified sales target is not probable of achievement; however, they continue to believe that the original sales target is probable of achievement. Immediately before the modification, total compensation cost expected to be recognized over the 3-year vesting period is $146,900 or $14.69 multiplied by the number of share options expected to vest (10,000). Because no other terms or conditions of the award were modified, the modification does not affect the per-share-option fair value (assumed in this Case to be $8 at the modification date). Moreover, because the modification does not affect the number of share options expected to vest under the original vesting provisions, Entity T would determine incremental compensation cost in the following manner.
+718-20-55-114
+In determining the fair value of the modified award for this type of modification, an entity shall use the greater of the options expected to vest under the modified vesting condition or the options that previously had been expected to vest under the original vesting condition.
+718-20-55-115
+This paragraph illustrates the cumulative compensation cost Entity T should recognize for the modified award based on three potential outcomes:
+aOutcome 1—achievement of the modified sales target. In Outcome 1, all 10,000 share options vest because the salespeople sold at least 170,000 units of Product A. In that outcome, Entity T would recognize cumulative compensation cost of $146,900.
+bOutcome 2—achievement of the original sales target. In Outcome 2, no share options vest because the salespeople sold more than 150,000 units of Product A but less than 170,000 units (the modified sales target is not achieved). In that outcome, Entity T would recognize cumulative compensation cost of $146,900 because the share options would have vested under the original terms and conditions of the award.
+cOutcome 3—failure to achieve either sales target. In Outcome 3, no share options vest because the modified sales target is not achieved; additionally, no share options would have vested under the original terms and conditions of the award. In that case, Entity T would recognize cumulative compensation cost of $0.
+· · > Case C: Type III Improbable to Probable Modification
+718-20-55-116
+Based on historical sales patterns and expectations related to the future, management of Entity T believes at the grant date that none of the options will vest because it is not probable that the sales target will be achieved. On January 1, 20X7, 80,000 units of Product A have been sold. To further motivate the salespeople, the sales target (150,000 units of Product A) is lowered to 120,000 units of Product A (the modified sales target). No other terms or conditions of the original award are modified. Management believes that the modified sales target is probable of achievement. Immediately before the modification, total compensation cost expected to be recognized over the 3-year vesting period is $0 or $14.69 multiplied by the number of share options expected to vest (zero). Because no other terms or conditions of the award were modified, the modification does not affect the per-share-option fair value (assumed in this Case to be $8 at the modification date). Since the modification affects the number of share options expected to vest under the original vesting provisions, Entity T will determine incremental compensation cost in the following manner.
+718-20-55-117
+This paragraph illustrates the cumulative compensation cost Entity T should recognize for the modified award based on three potential outcomes:
+aOutcome 1—achievement of the modified sales target. In Outcome 1, all 10,000 share options vest because the salespeople sold at least 120,000 units of Product A. In that outcome, Entity T would recognize cumulative compensation cost of $80,000.
+bOutcome 2—achievement of the original sales target and the modified sales target. In Outcome 2, Entity T would recognize cumulative compensation cost of $80,000 because in a Type III modification the original vesting condition is generally not relevant (that is, the modified award generally vests at a lower threshold of service or performance).
+cOutcome 3—failure to achieve either sales target. In Outcome 3, no share options vest because the modified sales target is not achieved; in that case, Entity T would recognize cumulative compensation cost of $0.
+· · > Case D: Type IV Improbable to Improbable Modification
+718-20-55-118
+Based on historical sales patterns and expectations related to the future, management of Entity T believes that at the grant date it is not probable that the sales target will be achieved. On January 1, 20X7, 80,000 units of Product A have been sold. To further motivate the salespeople, the sales target is lowered to 130,000 units of Product A (the modified sales target). No other terms or conditions of the original award are modified. Entity T lost a major customer for Product A in December 20X6; hence, management continues to believe that the modified sales target is not probable of achievement. Immediately before the modification, total compensation cost expected to be recognized over the 3-year vesting period is $0 or $14.69 multiplied by the number of share options expected to vest (zero). Because no other terms or conditions of the award were modified, the modification does not affect the per-share-option fair value (assumed in this Case to be $8 at the modification date). Furthermore, the modification does not affect the number of share options expected to vest; hence, there is no incremental compensation cost associated with the modification.
+718-20-55-119
+This paragraph illustrates the cumulative compensation cost Entity T should recognize for the modified award based on three potential outcomes:
+aOutcome 1—achievement of the modified sales target. In Outcome 1, all 10,000 share options vest because the salespeople sold at least 130,000 units of Product A. In that outcome, Entity T would recognize cumulative compensation cost of $80,000 (10,000 × $8).
+bOutcome 2—achievement of the original sales target and the modified sales target. In Outcome 2, Entity T would recognize cumulative compensation cost of $80,000 because in a Type IV modification the original vesting condition is generally not relevant (that is, the modified award generally vests at a lower threshold of service or performance).
+cOutcome 3—failure to achieve either sales target. In Outcome 3, no share options vest because the modified sales target is not achieved; in that case, Entity T would recognize cumulative compensation cost of $0.
+· > Example 15: Illustration of a Type III Improbable to Probable Modification
+718-20-55-120
+This Example illustrates the guidance in paragraph 718-20-35-3.
+718-20-55-120A
+This Example (see paragraph 718-20-55-121) describes employee awards. However, the principle provided in paragraph 718-20-55-121 is the same for nonemployee awards that are modified. Consequently, that guidance should be applied to determine the cumulative amount of compensation cost, if any, that an entity should recognize because of a modification to a nonemployee award.
+718-20-55-120B
+Any additional compensation cost should be recognized by applying the guidance in paragraph 718-10-25-2C. That is, an asset or expense must be recognized (or previous recognition reversed) in the same period(s) and in the same manner as if the grantor had paid cash for the goods or services instead of paying with or using the share-based payment awards. Additionally, valuation amounts used in this Example could be different because an entity may elect to use the contractual term as the expected term of share options and similar instruments when valuing nonemployee share-based payment transactions.
+718-20-55-121
+On January 1, 20X7, Entity Z issues 1,000 at-the-money options with a 4-year explicit service condition to each of 50 employees that work in Plant J. On December 12, 20X7, Entity Z decides to close Plant J and notifies the 50 Plant J employees that their employment relationship will be terminated effective June 30, 20X8. On June 30, 20X8, Entity Z accelerates vesting of all options. The grant-date fair value of each option is $20 on January 1, 20X7, and $10 on June 30, 20X8, the modification date. At the date Entity Z decides to close Plant J and terminate the employees, the service condition of the original award is not expected to be satisfied because the employees cannot render the requisite service. Because Entity Z's accounting policy is to estimate the number of forfeitures expected to occur in accordance with paragraph 718-10-35-3, any compensation cost recognized before December 12, 20X7, for the original award would be reversed. At the date of the modification, the fair value of the original award, which is $0 ($10 × 0 options expected to vest under the original terms of the award), is subtracted from the fair value of the modified award $500,000 ($10 × 50,000 options expected to vest under the modified award). The total recognized compensation cost of $500,000 will be less than the fair value of the award at the grant date ($1 million) because at the date of the modification, the original vesting conditions were not expected to be satisfied. If Entity Z's accounting policy was to account for forfeitures when they occur in accordance with paragraph 718-10-35-3, then compensation cost recognized before December 12, 20X7, would not be reversed until the award is forfeited. However, Entity Z would be required to assess at the date of the modification whether the performance or service conditions of the original award are expected to be satisfied.
+· > Example 16: Modifications Regarding an Award's Classification
+718-20-55-122
+A modification may affect the classification of an award (for example, change the award from an equity instrument to a liability instrument). If an entity modifies an award in that manner, the Compensation—Stock Compensation Topic requires that the entity account for that modification in accordance with paragraph 718-20-35-3. The following Cases illustrate modifications regarding an award's classification:
+aEquity to liability modification (share-settled share options to cash-settled share options) (Case A)
+bEquity to equity modification (share options to shares) (Case B)
+cLiability to equity modification (cash-settled to share-settled stock appreciation rights) (Case C)
+dLiability to liability modification (cash-settled to cash-settled stock appreciation rights) (Case D)
+eEquity to liability modification (share options to fixed cash payment) (Case E).
+718-20-55-122A
+Cases A through E (see paragraphs 718-20-55-123 through 55-144) describe employee awards. Specifically, Case A (see paragraph 718-20-55-123), Case B (see paragraph 718-20-55-134), and Case E (see paragraph 718-20-55-144) are extensions of Case A in Example 1 of this Subtopic (see paragraph 718-20-55-10), and Cases C and D (see paragraphs 718-20-55-135 and 718-20-55-139, respectively) are extensions of Example 1 in Subtopic 718-30 on awards classified as liabilities (see paragraph 718-30-55-1). However, the principles of determining the additional compensation cost that an entity should recognize upon modification (if any) and the guidance for reclassification of awards from equity to liabilities or vice versa are the same for nonemployee awards with the same features as the awards in Cases A through E (that is, awards with a specified period of time for vesting). Consequently, the guidance provided in Cases A through E should be applied to determine the cumulative amount of compensation cost that an entity should recognize because of a modification (if any) to a nonemployee award. An entity should consider its specific facts and circumstances for the nonemployee awards it has issued when calculating any additional compensation cost resulting from a modification to the awards. For example, the pattern of recognition of previously recognized compensation cost (that is, compensation cost recognized before the modification) may have been different from that which is illustrated in Cases A through E because of the requirements of paragraph 718-10-25-2C.
+718-20-55-122B
+Any additional compensation cost resulting from a modification of a nonemployee award should be recognized in accordance with paragraph 718-10-25-2C. That is, an asset or expense must be recognized (or previous recognition reversed) in the same period(s) and in the same manner as if the grantor had paid cash for the goods or services rather than if the grantor had paid with or used the equity instruments. Additionally, valuation amounts used in the cases could be different because an entity may elect to use the contractual term as the expected term of share options and similar instruments when valuing nonemployee share-based transactions.
+718-20-55-122C
+Cases A through E should serve as guidance for any reclassification entries required because of a modification of a nonemployee award from equity to liability or vice versa.
+· · > Case A: Equity to Liability Modification (Share-Settled Share Options to Cash-Settled Share Options)
+718-20-55-123
+Entity T grants the same share options described in Example 1, Case A (see paragraph 718-20-55-10). As in Example 1, Case A, Entity T has an accounting policy to estimate the number of forfeitures expected to occur in accordance with paragraph 718-10-35-3. The number of options for which the requisite service is expected to be rendered is estimated at the grant date to be 821,406 (900,000 ×.973). For simplicity, this Case assumes that estimated forfeitures equal actual forfeitures. Thus, as shown in the table in paragraph 718-20-55-130, the fair value of the award at January 1, 20X5, is $12,066,454 (821,406 × $14.69), and the compensation cost to be recognized during each year of the 3-year vesting period is $4,022,151 ($12,066,454 ÷ 3). The journal entries for 20X5 are the same as those in paragraph 718-20-55-12.
+718-20-55-124
+On January 1, 20X6, Entity T modifies the share options granted to allow the employee the choice of share settlement or net cash settlement; the options no longer qualify as equity because the holder can require Entity T to settle the options by delivering cash. Because the modification affects no other terms or conditions of the options, the fair value (assumed to be $7 per share option) of the modified award equals the fair value of the original award immediately before its terms are modified on the date of modification; the modification also does not change the number of share options for which the requisite service is expected to be rendered. On the modification date, Entity T recognizes a liability equal to the portion of the award attributed to past service multiplied by the modified award's fair value. To the extent that the liability equals or is less than the amount recognized in equity for the original award, the offsetting debit is a charge to equity. To the extent that the liability exceeds the amount recognized in equity for the original award, the excess is recognized as compensation cost. In this Case, at the modification date, one-third of the award is attributed to past service (one year of service rendered/three-year requisite service period). The modified award's fair value is $5,749,842 (821,406 × $7), and the liability to be recognized at the modification date is $1,916,614 ($5,749,842 ÷ 3). The related journal entry follows.
+To recognize the share-based compensation liability.
+718-20-55-125
+No entry would be made to the deferred tax accounts at the modification date. The amount of remaining additional paid-in capital attributable to compensation cost recognized in 20X5 is $2,105,537 ($4,022,151 - $1,916,614).
+718-20-55-126
+Paragraph 718-20-35-3(b) specifies that total recognized compensation cost for an equity award shall at least equal the fair value of the award at the grant date unless at the date of the modification the service or performance conditions of the original award are not expected to be satisfied. In accordance with that principle, Entity T would ultimately recognize cumulative compensation cost equal to the greater of the following:
+aThe grant-date fair value of the original equity award
+bThe fair value of the modified liability award when it is settled.
+718-20-55-127
+To the extent that the recognized fair value of the modified liability award is less than the recognized compensation cost associated with the grant-date fair value of the original equity award, changes in that liability award's fair value through its settlement do not affect the amount of compensation cost recognized. To the extent that the fair value of the modified liability award exceeds the recognized compensation cost associated with the grant-date fair value of the original equity award, changes in the liability award's fair value are recognized as compensation cost.
+718-20-55-128
+At December 31, 20X6, the fair value of the modified award is assumed to be $25 per share option; hence, the modified award's fair value is $20,535,150 (821,406 × $25), and the corresponding liability at that date is $13,690,100 ($20,535,150 × 2/3) because two-thirds of the requisite service period has been rendered. The increase in the fair value of the liability award is $11,773,486 ($13,690,100 - $1,916,614). Before any adjustments for 20X6, the amount of remaining additional paid-in capital attributable to compensation cost recognized in 20X5 is $2,105,537 ($4,022,151 - $1,916,614). The cumulative compensation cost at December 31, 20X6, associated with the grant-date fair value of the original equity award is $8,044,302 ($4,022,151 × 2). Entity T would record the following journal entries for 20X6.
+To increase the share-based compensation liability to $13,690,100 and recognize compensation cost of $9,667,949 ($13,690,100 - $4,022,151).
+To recognize the deferred tax asset for additional compensation cost ($9,667,949 ×.35 = $3,383,782).
+718-20-55-129
+At December 31, 20X7, the fair value is assumed to be $10 per share option; hence, the modified award's fair value is $8,214,060 (821,406 × $10), and the corresponding liability for the fully vested award at that date is $8,214,060. The decrease in the fair value of the liability award is $5,476,040 ($8,214,060 - $13,690,100). The cumulative compensation cost as of December 31, 20X7, associated with the grant-date fair value of the original equity award is $12,066,454 (see paragraph 718-20-55-123). Entity T would record the following journal entries for 20X7.
+To recognize a share-based compensation liability of $8,214,060, a reduction of compensation cost of $1,623,646 ($13,690,100 - $12,066,454), and additional paid-in capital of $3,852,394 ($12,066,454 - $8,214,060).
+To reduce the deferred tax asset for the reduction in compensation cost ($1,623,646 ×.35 = $568,276).
+718-20-55-130
+The modified liability award is as follows.
+718-20-55-131
+For simplicity, this Case assumes that all share option holders elected to be paid in cash on the same day, that the liability award's fair value is $10 per option, and that Entity T has already recognized its income tax expense for the year without regard to the effects of the settlement of the award. In other words, current tax expense and current taxes payable were recognized based on income and deductions before consideration of additional deductions from settlement of the award.
+718-20-55-132
+The $8,214,060 in cash paid to the employees on the date of settlement is deductible for tax purposes. In the period of settlement, tax return deductions that are less than compensation cost recognized result in a charge to income tax expense. The tax benefit is $2,874,921 ($8,214,060 ×.35). Because tax return deductions are less than compensation cost recognized, the entity must write off the deferred tax assets recognized in excess of the tax benefit from the exercise of employee stock options to income tax expense in the income statement. The journal entries to reflect settlement of the share options are as follows.
+To recognize the cash paid to settle share options.
+To write off deferred tax asset related to compensation cost ($12,066,454 ×.35 = $4,223,259).
+To adjust current tax expense and current taxes payable for the tax benefit from deductible compensation cost upon settlement of share options.
+718-20-55-133
+If instead of requesting cash, employees had held their share options and those options had expired worthless, the share-based compensation liability account would have been eliminated over time with a corresponding increase to additional paid-in capital. Previously recognized compensation cost would not be reversed. Similar to the adjustment for the actual tax deduction described in paragraph 718-20-55-132, all of the deferred tax asset of $4,223,259 would be charged to income tax expense when the share options expire.
+· · > Case B: Equity to Equity Modification (Share Options to Shares)
+718-20-55-134
+Equity to equity modifications also are addressed in Examples 12 (see paragraph 718-20-55-93) and 14 (see paragraph 718-20-55-107). This Case is based on Example 1, Case A (see paragraph 718-20-55-10), in which Entity T granted its employees 900,000 options with an exercise price of $30 on January 1, 20X5. At January 1, 20X9, after 747,526 share options have vested, the market price of Entity T stock has declined to $8 per share, and Entity T offers to exchange 4 options with an assumed per-share-option fair value of $2 at the date of exchange for 1 share of nonvested stock, with a market price of $8 per share. The nonvested stock will cliff vest after two years of service. All option holders elect to participate, and at the date of exchange, Entity T grants 186,881 (747,526 ÷ 4) nonvested shares of stock. Entity T considers the guidance in paragraph 718-20-35-2A. Because the change in the terms or conditions of the award changes the vesting conditions of the award, Entity T applies modification accounting. However, because the fair value of the nonvested stock is equal to the fair value of the options, there is no incremental compensation cost. Entity T will not make any additional accounting entries for the shares regardless of whether they vest, other than possibly reclassifying amounts in equity; however, Entity T will need to account for the ultimate income tax effects related to the share-based compensation arrangement.
+· · > Case C: Liability to Equity Modification (Cash-Settled to Share-Settled Stock Appreciation Rights)
+718-20-55-135
+This Case is based on the facts given in Example 1 (see paragraph 718-30-55-1). Entity T grants cash-settled stock appreciation rights to its employees. The fair value of the award on January 1, 20X5, is $12,066,454 (821,406 × $14.69) (see paragraph 718-30-55-2).
+718-20-55-136
+On December 31, 20X5, the assumed fair value is $10 per stock appreciation right; hence, the fair value of the award at that date is $8,214,060 (821,406 × $10). The share-based compensation liability at December 31, 20X5, is $2,738,020 ($8,214,060 ÷ 3), which reflects the portion of the award related to the requisite service provided in 20X5 (1 year of the 3-year requisite service period). For convenience, this Case assumes that journal entries to account for the award are performed at year-end. The journal entries for 20X5 are as follows.
+To recognize compensation cost.
+To recognize the deferred tax asset for the temporary difference related to compensation cost ($2,738,020 ×.35 = $958,307).
+718-20-55-137
+On January 1, 20X6, Entity T modifies the stock appreciation rights by replacing the cash-settlement feature with a net share settlement feature, which converts the award from a liability award to an equity award because Entity T no longer has an obligation to transfer cash to settle the arrangement. Entity T would compare the fair value of the instrument immediately before the modification to the fair value of the modified award and recognize any incremental compensation cost. Because the modification affects no other terms or conditions, the fair value, assumed to be $10 per stock appreciation right, is unchanged by the modification and, therefore, no incremental compensation cost is recognized. The modified award's total fair value is $8,214,060. The modified award would be accounted for as an equity award from the date of modification with a fair value of $10 per share. Therefore, at the modification date, the entity would reclassify the liability of $2,738,020 recognized on December 31, 20X5, as additional paid-in capital. The related journal entry is as follows.
+To reclassify the award as equity.
+718-20-55-138
+Entity T will account for the modified awards as equity going forward following the pattern given in Example 1, Case A (see paragraph 718-20-55-1), recognizing $2,738,020 of compensation cost in each of 20X6 and 20X7, for a cumulative total of $8,214,060.
+· · > Case D: Liability to Liability Modification (Cash-Settled to Cash-Settled Stock Appreciation Rights)
+718-20-55-139
+This Case is based on the facts given in Example 1 (see paragraph 718-30-55-1). Entity T grants stock appreciation rights to its employees. The fair value of the award on January 1, 20X5, is $12,066,454 (821,406 × $14.69).
+718-20-55-140
+On December 31, 20X5, the fair value of each stock appreciation right is assumed to be $5; therefore, the fair value of the award is $4,107,030 (821,406 × $5). The share-based compensation liability at December 31, 20X5, is $1,369,010 ($4,107,030 ÷ 3), which reflects the portion of the award related to the requisite service provided in 20X5 (1 year of the 3-year requisite service period). For convenience, this Case assumes that journal entries to account for the award are performed at year-end. The journal entries to recognize compensation cost for 20X5 are as follows.
+To recognize compensation cost.
+To recognize the deferred tax asset for the temporary difference related to compensation cost ($1,369,010 ×.35 = $479,154).
+718-20-55-141
+On January 1, 20X6, Entity T reprices the stock appreciation rights, giving each holder the right to receive an amount in cash equal to the increase in value of 1 share of Entity T stock over $10. The modification affects no other terms or conditions of the stock appreciation rights and does not change the number of stock appreciation rights expected to vest. The fair value of each stock appreciation right based on its modified terms is $12. The incremental compensation cost is calculated per the method in Example 12 (see paragraph 718-20-55-93).
+718-20-55-142
+Entity T also could determine the incremental value of the modified stock appreciation right award by multiplying the fair value of the modified stock appreciation right award by the portion of the award that is earned and subtracting the cumulative recognized compensation cost [($9,856,872 ÷ 3) - $1,369,010 = $1,916,614]. As a result, Entity T would record the following journal entries at the date of the modification.
+To recognize incremental compensation cost.
+To recognize the deferred tax asset for the temporary difference related to additional compensation cost ($1,916,614 ×.35 = $670,815).
+718-20-55-143
+Entity T would continue to remeasure the liability award at each reporting date until the award's settlement.
+· · > Case E: Equity to Liability Modification (Share Options to Fixed Cash Payment)
+718-20-55-144
+Entity T grants the same share options described in Example 1, Case A (see paragraph 718-20-55-10) and records similar journal entries for 20X5 (see paragraphs 718-20-55-12 through 55-16). By January 1, 20X6, Entity T's share price has fallen, and the fair value per share option is assumed to be $2 at that date. Entity T provides its employees with an election to convert each share option into an award of a fixed amount of cash equal to the fair value of each share option on the election date ($2) accrued over the remaining requisite service period, payable upon vesting. The election does not affect vesting; that is, employees must satisfy the original service condition to vest in the award for a fixed amount of cash. Entity T considers the guidance in paragraph 718-20-35-2A. Because the change in the terms or conditions of the award changes the classification of the award from equity to liability, Entity T applies modification accounting. This transaction is considered a modification instead of a settlement because Entity T continues to have an obligation to its employees that is conditional upon the receipt of future employee services. There is no incremental compensation cost because the fair value of the modified award is the same as that of the original award. At the date of the modification, a liability of $547,604 [(821,406 × $2) × (1 year of requisite service rendered ÷ 3-year requisite service period)], which is equal to the portion of the award attributed to past service multiplied by the modified award's fair value, is recognized by reclassifying that amount from additional paid-in capital. The total liability of $1,642,812 (821,406 × $2) should be fully accrued by the end of the requisite service period. Because the possible tax deduction of the modified award is capped at $1,642,812, Entity T also must adjust its deferred tax asset at the date of the modification to the amount that corresponds to the recognized liability of $547,604. That amount is $191,661 ($547,604 ×.35), and the write-off of the deferred tax asset is $1,216,092 ($1,407,753 - $191,661). That write-off would be recognized as income tax expense in the income statement. Compensation cost of $4,022,151 would be recognized in each of 20X6 and 20X7 for a cumulative total of $12,066,454 (as calculated in Case A); of this, $547,604 would be recognized as an increase to the liability balance, with the remaining $3,474,547 recognized as an increase in additional paid-in capital. A deferred tax benefit would be recognized in the income statement, and a corresponding increase to the deferred tax asset would be recognized for the tax effect of the increased liability of $191,661 ($547,604 × .35). The compensation cost recognized in additional paid-in capital in this situation has no associated income tax effect (additional deferred tax assets are recognized based only on subsequent increases in the amount of the liability).
+
+65 Transition and Open Effective Date Information
+General Note:The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
+General
+718-20-65-1
+Paragraph superseded on 07/17/2019 after the end of the transition period stated in Accounting Standards Update No. 2017-09, Compensation—Stock Compensation (Topic 718): Scope of Modification Accounting.
+
+718 Compensation—Stock Compensation
+30 Awards Classified as Liabilities
+00 Status
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General
+718-30-00-1
+The following table identifies the changes made to this Subtopic.
+Paragraph	Action	Accounting Standards Update	Date
+			
+Award	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+Employee (2nd def.)	Amended	Accounting Standards Update No. 2024-03	11/04/2024
+Grant Date	Amended	Accounting Standards Update No. 2019-08	11/11/2019
+Grant Date	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+Modification	Amended	Accounting Standards Update No. 2017-09	05/10/2017
+Service Inception Date	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+Share Option	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+Vest	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+Volatility	Superseded	Accounting Standards Update No. 2018-07	06/20/2018
+			
+718-30-05-1	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-30-15-2	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-30-30-1 through 30-2A	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-30-30-2	Amended	Accounting Standards Update No. 2019-08	11/11/2019
+718-30-30-2A	Added	Accounting Standards Update No. 2016-09	03/30/2016
+718-30-35-1 through 35-3	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-30-35-2	Amended	Accounting Standards Update No. 2019-08	11/11/2019
+718-30-35-4	Amended	Accounting Standards Update No. 2019-08	11/11/2019
+718-30-55-1A	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-30-55-1B	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-30-55-2	Amended	Accounting Standards Update No. 2016-09	03/30/2016
+718-30-55-9	Amended	Accounting Standards Update No. 2016-09	03/30/2016
+718-30-55-12A	Added	Accounting Standards Update No. 2018-07	06/20/2018
+718-30-55-12B	Added	Accounting Standards Update No. 2018-07	06/20/2018
+
+05 Overview and Background
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+General
+718-30-05-1
+Share-based payment awards may be classified as either equity or liabilities. This Subtopic addresses instruments classified as liabilities. It is closely intertwined with Subtopic 718-10, which contains guidance applicable to instruments classified as either equity or liabilities issued in share-based payment transactions. It may also be necessary in some cases to refer to the guidance contained in Subtopic 718-20.
+
+15 Scope and Scope Exceptions
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+General
+> Overall Guidance
+718-30-15-1
+This Subtopic follows the same Scope and Scope Exceptions as outlined in the Overall Subtopic, see Section 718-10-15, with specific transaction qualifications noted below.
+> Transactions
+718-30-15-2
+The guidance in this Subtopic applies to share-based payment awards that are classified as liabilities by the grantor (see paragraphs 718-10-25-6 through 25-19A for a description of what is classified as liability).
+718-30-15-3
+The guidance in this Subtopic does not apply to equity instruments held by an employee stock ownership plan.
+
+20 Glossary
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+Award
+The collective noun for multiple instruments with the same terms and conditions granted at the same time either to a single grantee or to a group of grantees. An award may specify multiple vesting dates, referred to as graded vesting, and different parts of an award may have different expected terms. References to an award also apply to a portion of an award.
+Calculated Value
+A measure of the value of a share option or similar instrument determined by substituting the historical volatility of an appropriate industry sector index for the expected volatility of a nonpublic entity's share price in an option-pricing model.
+Conduit Debt Securities
+Certain limited-obligation revenue bonds, certificates of participation, or similar debt instruments issued by a state or local governmental entity for the express purpose of providing financing for a specific third party (the conduit bond obligor) that is not a part of the state or local government's financial reporting entity. Although conduit debt securities bear the name of the governmental entity that issues them, the governmental entity often has no obligation for such debt beyond the resources provided by a lease or loan agreement with the third party on whose behalf the securities are issued. Further, the conduit bond obligor is responsible for any future financial reporting requirements.
+Employee
+An individual over whom the grantor of a share-based compensation award exercises or has the right to exercise sufficient control to establish an employer-employee relationship based on common law as illustrated in case law and currently under U.S. Internal Revenue Service (IRS) Revenue Ruling 87-41. A reporting entity based in a foreign jurisdiction would determine whether an employee-employer relationship exists based on the pertinent laws of that jurisdiction. Accordingly, a grantee meets the definition of an employee if the grantor consistently represents that individual to be an employee under common law. The definition of an employee for payroll tax purposes under the U.S. Internal Revenue Code includes common law employees. Accordingly, a grantor that classifies a grantee potentially subject to U.S. payroll taxes as an employee also must represent that individual as an employee for payroll tax purposes (unless the grantee is a leased employee as described below). A grantee does not meet the definition of an employee solely because the grantor represents that individual as an employee for some, but not all, purposes. For example, a requirement or decision to classify a grantee as an employee for U.S. payroll tax purposes does not, by itself, indicate that the grantee is an employee because the grantee also must be an employee of the grantor under common law.
+A leased individual is deemed to be an employee of the lessee if all of the following requirements are met:
+aThe leased individual qualifies as a common law employee of the lessee, and the lessor is contractually required to remit payroll taxes on the compensation paid to the leased individual for the services provided to the lessee.
+bThe lessor and lessee agree in writing to all of the following conditions related to the leased individual:
+1The lessee has the exclusive right to grant stock compensation to the individual for the employee service to the lessee.
+2The lessee has a right to hire, fire, and control the activities of the individual. (The lessor also may have that right.)
+3The lessee has the exclusive right to determine the economic value of the services performed by the individual (including wages and the number of units and value of stock compensation granted).
+4The individual has the ability to participate in the lessee's employee benefit plans, if any, on the same basis as other comparable employees of the lessee.
+5The lessee agrees to and remits to the lessor funds sufficient to cover the complete compensation, including all payroll taxes, of the individual on or before a contractually agreed upon date or dates.
+A nonemployee director does not satisfy this definition of employee. Nevertheless, nonemployee directors acting in their role as members of a board of directors are treated as employees if those directors were elected by the employer's shareholders or appointed to a board position that will be filled by shareholder election when the existing term expires. However, that requirement applies only to awards granted to nonemployee directors for their services as directors. Awards granted to those individuals for other services shall be accounted for as awards to nonemployees.
+PENDING CONTENT
+Transition Date: December 16, 2026;  December 16, 2026Transition Guidance:220-40-65-1
+An individual over whom a reporting entity exercises or has the right to exercise sufficient control to establish an employer-employee relationship based on common law as illustrated in case law and currently under U.S. Internal Revenue Service (IRS) Revenue Ruling 87-41. A reporting entity based in a foreign jurisdiction would determine whether an employee-employer relationship exists based on the pertinent laws of that jurisdiction. Accordingly, an individual meets the definition of an employee if the reporting entity consistently represents that individual to be an employee under common law. The definition of an employee for payroll tax purposes under the U.S. Internal Revenue Code includes common law employees. Accordingly, a reporting entity that classifies an individual potentially subject to U.S. payroll taxes as an employee also must represent that individual as an employee for payroll tax purposes (unless the individual is a leased employee as described below). An individual that meets the definition of an employee includes, but is not limited to, a full-time, part-time, temporary, or seasonal employee. An individual does not meet the definition of an employee solely because the reporting entity represents that individual as an employee for some, but not all, purposes. For example, a requirement or decision to classify an individual as an employee for U.S. payroll tax purposes does not, by itself, indicate that the individual is an employee because the individual also must be an employee of the reporting entity under common law.
+A leased individual is deemed to be an employee of the lessee if all of the following requirements are met:
+aThe leased individual qualifies as a common law employee of the lessee, and the lessor is contractually required to remit payroll taxes on the compensation paid to the leased individual for the services provided to the lessee.
+bThe lessor and lessee agree in writing to all of the following conditions related to the leased individual:
+1The lessee has the exclusive right to grant compensation to the individual for the employee service to the lessee.
+2The lessee has a right to hire, fire, and control the activities of the individual. (The lessor also may have that right.)
+3The lessee has the exclusive right to determine the economic value of the services performed by the individual (including wages and the number of units and value of stock compensation granted).
+4The individual has the ability to participate in the lessee's employee benefit plans, if any, on the same basis as other comparable employees of the lessee.
+5The lessee agrees to and remits to the lessor funds sufficient to cover the complete compensation, including all payroll taxes, of the individual on or before a contractually agreed upon date or dates.
+A nonemployee director does not satisfy this definition of employee. Nevertheless, nonemployee directors acting in their role as members of a board of directors are treated as employees if those directors were elected by the employer's shareholders or appointed to a board position that will be filled by shareholder election when the existing term expires. However, that requirement applies only to awards and other compensation granted to nonemployee directors for their services as directors. Awards granted and compensation paid to those individuals for other services shall be accounted for as awards and compensation to nonemployees.
+Fair Value
+The amount at which an asset (or liability) could be bought (or incurred) or sold (or settled) in a current transaction between willing parties, that is, other than in a forced or liquidation sale.
+Fair Value
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+Grant Date
+The date at which a grantor and a grantee reach a mutual understanding of the key terms and conditions of a share-based payment award. The grantor becomes contingently obligated on the grant date to issue equity instruments or transfer assets to a grantee who delivers goods or renders services or purchases goods or services as a customer. Awards made under an arrangement that is subject to shareholder approval are not deemed to be granted until that approval is obtained unless approval is essentially a formality (or perfunctory), for example, if management and the members of the board of directors control enough votes to approve the arrangement. Similarly, individual awards that are subject to approval by the board of directors, management, or both are not deemed to be granted until all such approvals are obtained. The grant date for an award of equity instruments is the date that a grantee begins to benefit from, or be adversely affected by, subsequent changes in the price of the grantor's equity shares. Paragraph 718-10-25-5 provides guidance on determining the grant date. See Service Inception Date.
+Intrinsic Value
+The amount by which the fair value of the underlying stock exceeds the exercise price of an option. For example, an option with an exercise price of $20 on a stock whose current market price is $25 has an intrinsic value of $5. (A nonvested share may be described as an option on that share with an exercise price of zero. Thus, the fair value of a share is the same as the intrinsic value of such an option on that share.)
+Market Participants
+Buyers and sellers in the principal (or most advantageous) market for the asset or liability that have all of the following characteristics:
+aThey are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+bThey are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
+cThey are able to enter into a transaction for the asset or liability
+dThey are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
+Measurement Date
+The date at which the equity share price and other pertinent factors, such as expected volatility, that enter into measurement of the total recognized amount of compensation cost for an award of share-based payment are fixed.
+Modification
+A change in the terms or conditions of a share-based payment award.
+Nonpublic Entity
+Any entity other than one that meets any of the following criteria:
+aHas equity securities that trade in a public market either on a stock exchange (domestic or foreign) or in an over-the-counter market, including securities quoted only locally or regionally
+bMakes a filing with a regulatory agency in preparation for the sale of any class of equity securities in a public market
+cIs controlled by an entity covered by the preceding criteria.
+An entity that has only debt securities trading in a public market (or that has made a filing with a regulatory agency in preparation to trade only debt securities) is a nonpublic entity.
+Nonpublic Entity
+Any entity that does not meet any of the following conditions:
+aIts debt or equity securities trade in a public market either on a stock exchange (domestic or foreign) or in an over-the-counter market, including securities quoted only locally or regionally.
+bIt is a conduit bond obligor for conduit debt securities that are traded in a public market (a domestic or foreign stock exchange or an over-the-counter market, including local or regional markets).
+cIt files with a regulatory agency in preparation for the sale of any class of debt or equity securities in a public market.
+dIt is required to file or furnish financial statements with the Securities and Exchange Commission.
+eIt is controlled by an entity covered by criteria (a) through (d).
+Orderly Transaction
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+Public Entity
+An entity that meets any of the following criteria:
+aHas equity securities that trade in a public market, either on a stock exchange (domestic or foreign) or in an over-the-counter market, including securities quoted only locally or regionally
+bMakes a filing with a regulatory agency in preparation for the sale of any class of equity securities in a public market
+cIs controlled by an entity covered by the preceding criteria. That is, a subsidiary of a public entity is itself a public entity.
+An entity that has only debt securities trading in a public market (or that has made a filing with a regulatory agency in preparation to trade only debt securities) is not a public entity.
+Related Parties
+Related parties include:
+aAffiliates of the entity
+bEntities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
+cTrusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
+dPrincipal owners of the entity and members of their immediate families
+eManagement of the entity and members of their immediate families
+fOther parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
+gOther parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
+Service Inception Date
+The date at which the employee's requisite service period or the nonemployee's vesting period begins. The service inception date usually is the grant date, but the service inception date may differ from the grant date (see Example 6 [see paragraph 718-10-55-107] for an illustration of the application of this term to an employee award).
+Settlement of an Award
+An action or event that irrevocably extinguishes the issuing entity's obligation under a share-based payment award. Transactions and events that constitute settlements include the following:
+aExercise of a share option or lapse of an option at the end of its contractual term
+bVesting of shares
+cForfeiture of shares or share options due to failure to satisfy a vesting condition
+dAn entity's repurchase of instruments in exchange for assets or for fully vested and transferable equity instruments.
+The vesting of a share option is not a settlement because the entity remains obligated to issue shares upon exercise of the option.
+Share Option
+A contract that gives the holder the right, but not the obligation, either to purchase (to call) or to sell (to put) a certain number of shares at a predetermined price for a specified period of time.
+Share-Based Payment Arrangements
+An arrangement under which either of the following conditions is met:
+aOne or more suppliers of goods or services (including employees) receive awards of equity shares, equity share options, or other equity instruments.
+bThe entity incurs liabilities to suppliers that meet either of the following conditions:
+1The amounts are based, at least in part, on the price of the entity's shares or other equity instruments. (The phrase at least in part is used because an award may be indexed to both the price of the entity's shares and something other than either the price of the entity's shares or a market, performance, or service condition.)
+2The awards require or may require settlement by issuance of the entity's shares.
+The term shares includes various forms of ownership interest that may not take the legal form of securities (for example, partnership interests), as well as other interests, including those that are liabilities in substance but not in form. Equity shares refers only to shares that are accounted for as equity.
+Also called share-based compensation arrangements.
+Share-Based Payment Transactions
+A transaction under a share-based payment arrangement, including a transaction in which an entity acquires goods or services because related parties or other holders of economic interests in that entity awards a share-based payment to an employee or other supplier of goods or services for the entity's benefit. Also called share-based compensation transactions.
+Vest
+To earn the rights to. A share-based payment award becomes vested at the date that the grantee's right to receive or retain shares, other instruments, or cash under the award is no longer contingent on satisfaction of either a service condition or a performance condition. Market conditions are not vesting conditions.
+The stated vesting provisions of an award often establish the employee's requisite service period or the nonemployee's vesting period, and an award that has reached the end of the applicable period is vested. However, as indicated in the definition of requisite service period and equally applicable to a nonemployee's vesting period, the stated vesting period may differ from those periods in certain circumstances. Thus, the more precise terms would be options, shares, or awards for which the requisite good has been delivered or service has been rendered and the end of the employee's requisite service period or the nonemployee's vesting period.
+
+30 Initial Measurement
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+General
+> Measurement Objective and Measurement Date
+· > Public Entity
+718-30-30-1
+At the grant date, the measurement objective for liabilities incurred under share-based compensation arrangements is the same as the measurement objective for equity instruments awarded to grantees as described in paragraph 718-10-30-6. However, the measurement date for liability instruments is the date of settlement.
+· > Nonpublic Entity
+718-30-30-2
+A nonpublic entity shall make a policy decision of whether to measure all of its liabilities incurred under share-based payment arrangements (for employee and nonemployee awards) issued in exchange for distinct goods or services at fair value or at intrinsic value. However, a nonpublic entity shall initially and subsequently measure awards determined to be consideration payable to a customer (as described in paragraph 606-10-32-25) at fair value.
+718-30-30-2A
+Paragraph superseded by Accounting Standards Update No. 2016-09.
+
+35 Subsequent Measurement
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+General
+> Measurement
+718-30-35-1
+The fair value of liabilities incurred in share-based payment transactions shall be remeasured at the end of each reporting period through settlement.
+718-30-35-2
+Changes in the fair value (or intrinsic value for a nonpublic entity that elects that method) of a liability incurred under a share-based payment arrangement issued in exchange for goods or services that occur during the employee's requisite service period or the nonemployee's vesting period shall be recognized as compensation cost over that period. The percentage of the fair value (or intrinsic value) that is accrued as compensation cost at the end of each period shall equal the percentage of the requisite service that has been rendered for an employee award or the percentage that would have been recognized had the grantor paid cash for the goods or services instead of paying with a nonemployee award at that date. Changes in the fair value (or intrinsic value) of a liability issued in exchange for goods or services that occur after the end of the employee's requisite service period or the nonemployee's vesting period are compensation cost of the period in which the changes occur. Any difference between the amount for which a liability award issued in exchange for goods or services is settled and its fair value at the settlement date as estimated in accordance with the provisions of this Subtopic is an adjustment of compensation cost in the period of settlement. Example 1 (see paragraph 718-30-55-1) provides an illustration of accounting for a liability award issued in exchange for service from the grant date through its settlement.
+· > Public Entity
+718-30-35-3
+A public entity shall measure a liability award under a share-based payment arrangement based on the award's fair value remeasured at each reporting date until the date of settlement. Compensation cost for each period until settlement shall be based on the change (or a portion of the change, depending on the percentage of the requisite service that has been rendered for an employee award or the percentage that would have been recognized had the grantor paid cash for the goods or services instead of paying with a nonemployee award at the reporting date) in the fair value of the instrument for each reporting period. Example 1 (see paragraph 718-30-55-1) provides an illustration of accounting for an instrument classified as a liability using the fair-value-based method.
+· > Nonpublic Entity
+718-30-35-4
+Regardless of the measurement method initially selected under paragraph 718-10-30-20, a nonpublic entity shall remeasure its liabilities under share-based payment arrangements at each reporting date until the date of settlement. The fair-value-based method is preferable for purposes of justifying a change in accounting principle under Topic 250. Example 1 (see paragraph 718-30-55-1) provides an illustration of accounting for an instrument classified as a liability using the fair-value-based method. Example 2 (see paragraph 718-30-55-12) provides an illustration of accounting for an instrument classified as a liability using the intrinsic value method. A nonpublic entity shall subsequently measure awards determined to be consideration payable to a customer (as described in paragraph 606-10-32-25) at fair value.
+> Modification of an Award
+718-30-35-5
+A modification of a liability award is accounted for as the exchange of the original award for a new award. However, because liability awards are remeasured at their fair value (or intrinsic value for a nonpublic entity that elects that method) at each reporting date, no special guidance is necessary in accounting for a modification of a liability award that remains a liability after the modification (see Example 15, Case C [paragraph718-20-55-135] for what happens when the modification causes the award to no longer be a liability).
+
+55 Implementation Guidance and Illustrations
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+General
+> Illustrations
+· > Example 1: Cash-Settled Stock Appreciation Right
+718-30-55-1
+This Example illustrates the guidance in paragraphs 718-30-35-2 through 35-4 and 718-740-25-2 through 25-4.
+718-30-55-1A
+This Example (see paragraphs 718-30-55-2 through 55-11) describes employee awards. However, the principles on how to account for the various aspects of employee awards, except for the compensation cost attribution and certain inputs to valuation, are the same for nonemployee awards. Consequently, the concepts about valuation and forfeiture estimation and remeasurement of awards, exercise, and expiration in paragraphs 718-30-55-2 through 55-11 are equally applicable to nonemployee awards with the same features as the awards in this Example (that is, awards with a specified period of time for vesting classified as liabilities). Therefore, the guidance in those paragraphs may serve as implementation guidance for similar nonemployee awards.
+718-30-55-1B
+Compensation cost attribution for awards to nonemployees may be the same or different for employee awards. That is because an entity is required to recognize compensation cost for nonemployee awards in the same manner as if the entity had paid cash in accordance with paragraph 718-10-25-2C. Additionally, valuation amounts used in this Example could be different because an entity may elect to use the contractual term as the expected term of share options and similar instruments when valuing nonemployee share-based payment transactions.
+718-30-55-2
+Entity T, a public entity, grants share appreciation rights with the same terms and conditions as those described in Example 1 (see paragraph 718-20-55-4). As in Example 1, Case A, Entity T makes an accounting policy election in accordance with paragraph 718-10-35-3 to estimate the number of forfeitures expected to occur and includes that estimate in its initial accrual of compensation costs. Each stock appreciation right entitles the holder to receive an amount in cash equal to the increase in value of 1 share of Entity T stock over $30. Entity T determines the grant-date fair value of each stock appreciation right in the same manner as a share option and uses the same assumptions and option-pricing model used to estimate the fair value of the share options in that Example; consequently, the grant-date fair value of each stock appreciation right is $14.69 (see paragraphs 718-20-55-7 through 55-9). The awards cliff-vest at the end of three years of service (an explicit and requisite service period of three years). The number of stock appreciation rights for which the requisite service is expected to be rendered is estimated at the grant date to be 821,406 (900,000 ×.973). Thus, the fair value of the award as of January 1, 20X5, is $12,066,454 (821,406 × $14.69). For simplicity, this Example assumes that estimated forfeitures equal actual forfeitures.
+718-30-55-3
+Paragraph 718-30-35-4 permits a nonpublic entity to measure share-based payment liabilities at either fair value (or, in some cases, calculated value) or intrinsic value. If a nonpublic entity elects to measure those liabilities at fair value, the accounting demonstrated in this Example would be applicable. Paragraph 718-30-35-3 requires that share-based compensation liabilities be recognized at fair value or a portion thereof (depending on the percentage of requisite service rendered at the reporting date) and be remeasured at each reporting date through the date of settlement; consequently, compensation cost recognized during each year of the three-year vesting period (as well as during each year thereafter through the date of settlement) will vary based on changes in the award's fair value. As of December 31, 20X5, the assumed fair value is $10 per stock appreciation right; hence, the fair value of the award is $8,214,060 (821,406 × $10). The share-based compensation liability as of December 31, 20X5, is $2,738,020 ($8,214,060 ÷ 3) to account for the portion of the award related to the service rendered in 20X5 (1 year of the 3-year requisite service period). For convenience, this Example assumes that journal entries to account for the award are performed at year-end. The journal entries for 20X5 are as follows.
+To recognize compensation cost.
+To recognize the deferred tax asset for the temporary difference related to compensation cost ($2,738,020 ×.35 = $958,307).
+718-30-55-4
+As of December 31, 20X6, the fair value is assumed to be $25 per stock appreciation right; hence, the award's fair value is $20,535,150 (821,406 × $25), and the corresponding liability at that date is $13,690,100 ($20,535,150 × 2/3) because service has been provided for 2 years of the 3-year requisite service period. Compensation cost recognized for the award in 20X6 is $10,952,080 ($13,690,100 - $2,738,020). Entity T recognizes the following journal entries for 20X6.
+To recognize a share-based compensation liability of $13,690,100 and associated compensation cost.
+To recognize the deferred tax asset for additional compensation cost ($10,952,080 ×.35 = $3,833,228).
+718-30-55-5
+As of December 31, 20X7, the fair value is assumed to be $20 per stock appreciation right; hence, the award's fair value is $16,428,120 (821,406 × $20), and the corresponding liability at that date is $16,428,120 ($16,428,120 × 1) because the award is fully vested. Compensation cost recognized for the liability award in 20X7 is $2,738,020 ($16,428,120 - $13,690,100). Entity T recognizes the following journal entries for 20X7.
+To recognize a share-based compensation liability of $16,428,120 and associated compensation cost.
+To recognize the deferred tax asset for additional compensation cost ($2,738,020 ×.35 = $958,307).
+718-30-55-6
+The share-based liability award is as follows.
+718-30-55-7
+For simplicity, this Example assumes that all of the stock appreciation rights are exercised on the same day, that the liability award's fair value is $20 per stock appreciation right, and that Entity T has already recognized its income tax expense for the year without regard to the effects of the exercise of the employee stock appreciation rights. In other words, current tax expense and current taxes payable were recognized based on taxable income and deductions before consideration of additional deductions from exercise of the stock appreciation rights. The amount credited to cash for the exercise of the stock appreciation rights is equal to the share-based compensation liability of $16,428,120.
+718-30-55-8
+At exercise the journal entry is as follows.
+To recognize the cash payment to employees from stock appreciation right exercise.
+718-30-55-9
+The cash paid to the employees on the date of exercise is deductible for tax purposes. The tax benefit is $5,749,842 ($16,428,120 ×.35).
+718-30-55-10
+At exercise the journal entry is as follows.
+To write off the deferred tax asset related to the stock appreciation rights.
+To adjust current tax expense and current taxes payable to recognize the current tax benefit from deductible compensation cost.
+718-30-55-11
+If the stock appreciation rights had expired worthless, the share-based compensation liability account and deferred tax asset account would have been adjusted to zero through the income statement as the award's fair value decreased.
+· > Example 2: Award Granted by a Nonpublic Entity That Elects the Intrinsic Value Method
+718-30-55-12
+This Example illustrates the guidance in paragraphs 718-30-35-4 and 718-740-25-2 through 25-4.
+718-30-55-12A
+This Example (see paragraphs 718-30-55-13 through 55-20) describes employee awards. However, the principles on how to account for the various aspects of employee awards, except for the compensation cost attribution and certain inputs to valuation, are the same for nonemployee awards. Consequently, a nonpublic entity can make the accounting policy election in paragraph 718-30-30-2 to change its measurement of all liability-classified nonemployee awards from fair value to intrinsic value and remeasure those awards each reporting period as illustrated in this Example. Therefore, the guidance in this Example may serve as implementation guidance for similar liability-classified nonemployee awards.
+718-30-55-12B
+Compensation cost attribution for awards to nonemployees may be the same or different for liability-classified employee awards. That is because an entity is required to recognize compensation cost for nonemployee awards in the same manner as if the entity had paid cash in accordance with paragraph 718-10-25-2C. Additionally, valuation amounts used in this Example could be different because an entity may elect to use the contractual term as the expected term of share options and similar instruments when valuing nonemployee share-based payment transactions.
+718-30-55-13
+On January 1, 20X6, Entity W, a nonpublic entity that has chosen the accounting policy of using the intrinsic value method of accounting for share-based payments that are classified as liabilities in accordance with paragraphs 718-30-30-2 and 718-30-35-4, grants 100 cash-settled stock appreciation rights with a 5-year life to each of its 100 employees. Each stock appreciation right entitles the holder to receive an amount in cash equal to the increase in value of 1 share of Entity W's stock over $7. The awards cliff-vest at the end of three years of service (an explicit and requisite service period of three years). For simplicity, the Example assumes that no forfeitures occur during the vesting period and does not reflect the accounting for income tax consequences of the awards.
+718-30-55-14
+Because of Entity W's accounting policy decision to use intrinsic value, all of its share-based payments that are classified as liabilities are recognized at intrinsic value (or a portion thereof, depending on the percentage of requisite service that has been rendered) at each reporting date through the date of settlement; consequently, the compensation cost recognized in each year of the three-year requisite service period will vary based on changes in the liability award's intrinsic value. As of December 31, 20X6, Entity W stock is valued at $10 per share; hence, the intrinsic value is $3 per stock appreciation right ($10 - $7), and the intrinsic value of the award is $30,000 (10,000 × $3). The compensation cost to be recognized for 20X6 is $10,000 ($30,000 ÷ 3), which corresponds to the service provided in 20X6 (1 year of the 3-year service period). For convenience, this Example assumes that journal entries to account for the award are performed at year-end. The journal entry for 20X6 is as follows.
+To recognize compensation cost.
+718-30-55-15
+As of December 31, 20X7, Entity W stock is valued at $8 per share; hence, the intrinsic value is $1 per stock appreciation right ($8 - $7), and the intrinsic value of the award is $10,000 (10,000 × $1). The decrease in the intrinsic value of the award is $20,000 ($10,000 - $30,000). Because services for 2 years of the 3-year service period have been rendered, Entity W must recognize cumulative compensation cost for two-thirds of the intrinsic value of the award, or $6,667 ($10,000 × 2/3); however, Entity W recognized compensation cost of $10,000 in 20X5. Thus, Entity W must recognize an entry in 20X7 to reduce cumulative compensation cost to $6,667.
+To adjust cumulative compensation cost ($6,667 - $10,000).
+718-30-55-16
+As of December 31, 20X8, Entity W stock is valued at $15 per share; hence, the intrinsic value is $8 per stock appreciation right ($15 - $7), and the intrinsic value of the award is $80,000 (10,000 × $8). The cumulative compensation cost recognized as of December 31, 20X8, is $80,000 because the award is fully vested. The journal entry for 20X8 is as follows.
+To recognize compensation cost ($80,000 - $6,667).
+718-30-55-17
+The share-based liability award at intrinsic value is as follows.
+718-30-55-18
+For simplicity, this Example assumes that all of the stock appreciation rights are settled on the day that they vest, December 31, 20X8, when the share price is $15 and the intrinsic value is $8 per share. The cash paid to settle the stock appreciation rights is equal to the share-based compensation liability of $80,000.
+718-30-55-19
+At exercise the journal entry is as follows.
+To recognize the cash payment to employees for settlement of stock appreciation rights.
+718-30-55-20
+If the stock appreciation rights had not been settled, Entity W would continue to remeasure those remaining awards at intrinsic value at each reporting date through the date they are exercised or otherwise settled.
+
+S00 Status
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General
+718-30-S00-1
+The following table identifies the changes made to this Subtopic.
+Paragraph	Action	Accounting Standards Update	Date
+			
+718-30-S55-1	Amended	Accounting Standards Update No. 2009-04	08/26/2009
+
+S55 Implementation Guidance and Illustrations
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+General
+> Certain Redeemable Financial Instruments Issued in Conjunction with Share-Based Payment Arrangements
+718-30-S55-1
+See paragraph 718-10-S99-1, SAB Topic 14.E, and paragraph 480-10-S99-3A, SEC Staff Announcement: Classification and Measurement of Redeemable Securities, for SEC Staff views on awards with redemption features issued in conjunction with share-based payment arrangements.
+
+718 Compensation—Stock Compensation
+40 Employee Stock Ownership Plans
+00 Status
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General
+718-40-00-1
+The following table identifies the changes made to this Subtopic.
+Paragraph	Action	Accounting Standards Update	Date
+			
+Employee (2nd def.)	Amended	Accounting Standards Update No. 2024-03	11/04/2024
+Fair Value (1st def.)	Superseded	Accounting Standards Update No. 2015-10	06/12/2015
+Fair Value (2nd def.)	Added	Accounting Standards Update No. 2015-10	06/12/2015
+Public Business Entity	Amended	Maintenance Update 2017-06	04/07/2017
+Public Business Entity	Amended	Maintenance Update 2016-11	06/27/2016
+			
+718-40-25-2	Amended	Accounting Standards Update No. 2015-10	06/12/2015
+718-40-25-14	Amended	Accounting Standards Update No. 2015-10	06/12/2015
+718-40-30-2	Amended	Accounting Standards Update No. 2015-10	06/12/2015
+718-40-30-4	Amended	Accounting Standards Update No. 2015-10	06/12/2015
+718-40-30-5	Amended	Accounting Standards Update No. 2015-10	06/12/2015
+718-40-40-2	Amended	Accounting Standards Update No. 2015-10	06/12/2015
+718-40-45-7	Amended	Accounting Standards Update No. 2015-10	06/12/2015
+718-40-50-1	Amended	Accounting Standards Update No. 2015-10	06/12/2015
+718-40-55-4	Amended	Accounting Standards Update No. 2015-10	06/12/2015
+718-40-55-6	Amended	Accounting Standards Update No. 2016-09	03/30/2016
+718-40-55-8	Amended	Accounting Standards Update No. 2016-09	03/30/2016
+718-40-60-1	Amended	Accounting Standards Update No. 2016-09	03/30/2016
+718-40-65-1	Added	Accounting Standards Update No. 2015-10	06/12/2015
+
+05 Overview and Background
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+General
+718-40-05-1
+This Subtopic provides guidance to entities that utilize employee stock ownership plans. It includes the following Subsections:
+aGeneral
+bLeveraged employee stock ownership plans
+cNonleveraged employee stock ownership plans.
+718-40-05-2
+Employee stock ownership plans are used for many purposes in addition to furthering employee ownership. These include the following:
+aTo fund a matching program for a sponsor's 401(k) saving plan, formula-based profit-sharing plan, and other employee benefits
+bTo raise new capital or to create a marketplace for the existing stock
+cTo replace lost benefits from the termination of other retirement plans or provide benefits under postretirement benefit plans, particularly medical benefits
+dTo be part of the financing package in leveraged buy-outs
+eTo provide a tax-advantaged means for owners to terminate their ownership
+fTo be part of a long-term program to restructure the equity section of a plan sponsor's balance sheet
+gTo defend the entity against hostile takeovers.
+Leveraged Employee Stock Ownership Plans
+718-40-05-3
+A leveraged employee stock ownership plan borrows money to acquire shares of the employer stock. The money can be borrowed by the employee stock ownership plan from the sponsor, with or without a related outside loan, or directly from an outside lender. Outside loans to the employee stock ownership plan are generally guaranteed by the sponsor. Unlike other kinds of employee benefit plans, an employee stock ownership plan is permitted by Employee Retirement Income Security Act of 1974 to borrow from a related party or with the assistance of a related party. The debt usually is collateralized by the employer's shares.
+Nonleveraged Employee Stock Ownership Plans
+718-40-05-4
+As indicated in paragraph 718-40-25-21, an employer with a nonleveraged employee stock ownership plan periodically contributes its shares or cash to its employee stock ownership plan on behalf of employees. In the case of cash contributions the entity acquires shares. The shares are allocated to participant accounts and held by the employee stock ownership plan until distributed to the employees at a future date, such as on the date of termination or retirement. The shares of employer stock obtained by the nonleveraged employee stock ownership plan shall be allocated to individual participant accounts as of the end of the employee stock ownership plan's fiscal year. Allocating shares by year end is mandated by the tax code in 2008. The Codification does not keep up with changes in the tax code.
+
+15 Scope and Scope Exceptions
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+General
+> Overall Guidance
+718-40-15-1
+This Subtopic follows the same Scope and Scope Exceptions as outlined in the Overall Subtopic, see Section 718-10-15, with specific qualifications noted below.
+> Entities
+718-40-15-2
+The guidance in this Subtopic applies to all employers with employee stock ownership plans, both leveraged and nonleveraged.
+> Transactions
+718-40-15-3
+This Subtopic provides guidance on an employer's accounting for employee stock ownership plans. There are two basic forms of employee stock ownership plan: leveraged and nonleveraged. This Subtopic addresses the financial reporting for each separately.
+> Other Considerations
+718-40-15-4
+The guidance in this Subtopic does not address the following:
+aFinancial reporting by employee stock ownership plans.
+Leveraged Employee Stock Ownership Plans
+> Overall Guidance
+718-40-15-5
+The Leveraged Employee Stock Ownership Plans Subsections follow the same Scope and Scope Exceptions as outlined in the General Subsection of this Subtopic, see paragraph 718-40-15-1.
+Nonleveraged Employee Stock Ownership Plans
+> Overall Guidance
+718-40-15-6
+The Nonleveraged Employee Stock Ownership Plans Subsections follow the same Scope and Scope Exceptions as outlined in the General Subsection of this Subtopic, see paragraph 718-40-15-1.
+
+20 Glossary
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+Allocated Shares
+Allocated shares are shares in an employee stock ownership plan trust that have been assigned to individual participant accounts based on a known formula. Internal Revenue Service (IRS) rules require allocations to be nondiscriminatory generally based on compensation, length of service, or a combination of both. For any particular participant such shares may be vested, unvested, or partially vested.
+Committed-to-Be-Released Shares
+Committed-to-be-released shares are shares that, although not legally released, will be released by a future scheduled and committed debt service payment and will be allocated to employees for service rendered in the current accounting period. The period of employee service to which shares relate is generally defined in the employee stock ownership plan documents. Shares are legally released from suspense and from serving as collateral for employee stock ownership plan debt as a result of payment of debt service. Those shares are required to be allocated to participant accounts as of the end of the employee stock ownership plan's fiscal year. Formulas used to determine the number of shares released can be based on either of the following:
+aThe ratio of the current principal amount to the total original principal amount (in which case unearned employee stock ownership plan shares and debt balance will move in tandem)
+bThe ratio of the current principal plus interest amount to the total original principal plus interest to be paid.
+Shares are released more rapidly under the second method than under the first. Tax law permits the first method only if the employee stock ownership plan debt meets certain criteria.
+Direct Loan
+A direct loan is a loan made by a lender other than the employer to the employee stock ownership plan. Such loans often include some formal guarantee or commitment by the employer.
+Employee
+An individual over whom the grantor of a share-based compensation award exercises or has the right to exercise sufficient control to establish an employer-employee relationship based on common law as illustrated in case law and currently under U.S. Internal Revenue Service (IRS) Revenue Ruling 87-41. A reporting entity based in a foreign jurisdiction would determine whether an employee-employer relationship exists based on the pertinent laws of that jurisdiction. Accordingly, a grantee meets the definition of an employee if the grantor consistently represents that individual to be an employee under common law. The definition of an employee for payroll tax purposes under the U.S. Internal Revenue Code includes common law employees. Accordingly, a grantor that classifies a grantee potentially subject to U.S. payroll taxes as an employee also must represent that individual as an employee for payroll tax purposes (unless the grantee is a leased employee as described below). A grantee does not meet the definition of an employee solely because the grantor represents that individual as an employee for some, but not all, purposes. For example, a requirement or decision to classify a grantee as an employee for U.S. payroll tax purposes does not, by itself, indicate that the grantee is an employee because the grantee also must be an employee of the grantor under common law.
+A leased individual is deemed to be an employee of the lessee if all of the following requirements are met:
+aThe leased individual qualifies as a common law employee of the lessee, and the lessor is contractually required to remit payroll taxes on the compensation paid to the leased individual for the services provided to the lessee.
+bThe lessor and lessee agree in writing to all of the following conditions related to the leased individual:
+1The lessee has the exclusive right to grant stock compensation to the individual for the employee service to the lessee.
+2The lessee has a right to hire, fire, and control the activities of the individual. (The lessor also may have that right.)
+3The lessee has the exclusive right to determine the economic value of the services performed by the individual (including wages and the number of units and value of stock compensation granted).
+4The individual has the ability to participate in the lessee's employee benefit plans, if any, on the same basis as other comparable employees of the lessee.
+5The lessee agrees to and remits to the lessor funds sufficient to cover the complete compensation, including all payroll taxes, of the individual on or before a contractually agreed upon date or dates.
+A nonemployee director does not satisfy this definition of employee. Nevertheless, nonemployee directors acting in their role as members of a board of directors are treated as employees if those directors were elected by the employer's shareholders or appointed to a board position that will be filled by shareholder election when the existing term expires. However, that requirement applies only to awards granted to nonemployee directors for their services as directors. Awards granted to those individuals for other services shall be accounted for as awards to nonemployees.
+PENDING CONTENT
+Transition Date: December 16, 2026;  December 16, 2026Transition Guidance:220-40-65-1
+An individual over whom a reporting entity exercises or has the right to exercise sufficient control to establish an employer-employee relationship based on common law as illustrated in case law and currently under U.S. Internal Revenue Service (IRS) Revenue Ruling 87-41. A reporting entity based in a foreign jurisdiction would determine whether an employee-employer relationship exists based on the pertinent laws of that jurisdiction. Accordingly, an individual meets the definition of an employee if the reporting entity consistently represents that individual to be an employee under common law. The definition of an employee for payroll tax purposes under the U.S. Internal Revenue Code includes common law employees. Accordingly, a reporting entity that classifies an individual potentially subject to U.S. payroll taxes as an employee also must represent that individual as an employee for payroll tax purposes (unless the individual is a leased employee as described below). An individual that meets the definition of an employee includes, but is not limited to, a full-time, part-time, temporary, or seasonal employee. An individual does not meet the definition of an employee solely because the reporting entity represents that individual as an employee for some, but not all, purposes. For example, a requirement or decision to classify an individual as an employee for U.S. payroll tax purposes does not, by itself, indicate that the individual is an employee because the individual also must be an employee of the reporting entity under common law.
+A leased individual is deemed to be an employee of the lessee if all of the following requirements are met:
+aThe leased individual qualifies as a common law employee of the lessee, and the lessor is contractually required to remit payroll taxes on the compensation paid to the leased individual for the services provided to the lessee.
+bThe lessor and lessee agree in writing to all of the following conditions related to the leased individual:
+1The lessee has the exclusive right to grant compensation to the individual for the employee service to the lessee.
+2The lessee has a right to hire, fire, and control the activities of the individual. (The lessor also may have that right.)
+3The lessee has the exclusive right to determine the economic value of the services performed by the individual (including wages and the number of units and value of stock compensation granted).
+4The individual has the ability to participate in the lessee's employee benefit plans, if any, on the same basis as other comparable employees of the lessee.
+5The lessee agrees to and remits to the lessor funds sufficient to cover the complete compensation, including all payroll taxes, of the individual on or before a contractually agreed upon date or dates.
+A nonemployee director does not satisfy this definition of employee. Nevertheless, nonemployee directors acting in their role as members of a board of directors are treated as employees if those directors were elected by the employer's shareholders or appointed to a board position that will be filled by shareholder election when the existing term expires. However, that requirement applies only to awards and other compensation granted to nonemployee directors for their services as directors. Awards granted and compensation paid to those individuals for other services shall be accounted for as awards and compensation to nonemployees.
+Employee Stock Ownership Plan
+An employee stock ownership plan is an employee benefit plan that is described by the Employee Retirement Income Security Act of 1974 and the Internal Revenue Code of 1986 as a stock bonus plan, or combination stock bonus and money purchase pension plan, designed to invest primarily in employer stock. Also called an employee share ownership plan.
+Employer Loan
+An employer loan is a loan made by the employer to the employee stock ownership plan, with no related outside loan.
+Fair Value
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+Indirect Loan
+An indirect loan is a loan made by the employer to the employee stock ownership plan, with a related outside loan to the employer.
+Market Participants
+Buyers and sellers in the principal (or most advantageous) market for the asset or liability that have all of the following characteristics:
+aThey are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+bThey are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
+cThey are able to enter into a transaction for the asset or liability
+dThey are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
+Not-for-Profit Entity
+An entity that possesses the following characteristics, in varying degrees, that distinguish it from a business entity:
+aContributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
+bOperating purposes other than to provide goods or services at a profit
+cAbsence of ownership interests like those of business entities.
+Entities that clearly fall outside this definition include the following:
+aAll investor-owned entities
+bEntities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
+Orderly Transaction
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+Public Business Entity
+A public business entity is a business entity meeting any one of the criteria below. Neither a not-for-profit entity nor an employee benefit plan is a business entity.
+aIt is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing).
+bIt is required by the Securities Exchange Act of 1934 (the Act), as amended, or rules or regulations promulgated under the Act, to file or furnish financial statements with a regulatory agency other than the SEC.
+cIt is required to file or furnish financial statements with a foreign or domestic regulatory agency in preparation for the sale of or for purposes of issuing securities that are not subject to contractual restrictions on transfer.
+dIt has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market.
+eIt has one or more securities that are not subject to contractual restrictions on transfer, and it is required by law, contract, or regulation to prepare U.S. GAAP financial statements (including notes) and make them publicly available on a periodic basis (for example, interim or annual periods). An entity must meet both of these conditions to meet this criterion.
+An entity may meet the definition of a public business entity solely because its financial statements or financial information is included in another entity's filing with the SEC. In that case, the entity is only a public business entity for purposes of financial statements that are filed or furnished with the SEC.
+Public Entity
+An entity that meets any of the following criteria:
+aHas equity securities that trade in a public market, either on a stock exchange (domestic or foreign) or in an over-the-counter market, including securities quoted only locally or regionally
+bMakes a filing with a regulatory agency in preparation for the sale of any class of equity securities in a public market
+cIs controlled by an entity covered by the preceding criteria. That is, a subsidiary of a public entity is itself a public entity.
+An entity that has only debt securities trading in a public market (or that has made a filing with a regulatory agency in preparation to trade only debt securities) is not a public entity.
+Related Parties
+Related parties include:
+aAffiliates of the entity
+bEntities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
+cTrusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
+dPrincipal owners of the entity and members of their immediate families
+eManagement of the entity and members of their immediate families
+fOther parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
+gOther parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
+Security
+A share, participation, or other interest in property or in an entity of the issuer or an obligation of the issuer that has all of the following characteristics:
+aIt is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
+bIt is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
+cIt either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
+Settlement of an Award
+An action or event that irrevocably extinguishes the issuing entity's obligation under a share-based payment award. Transactions and events that constitute settlements include the following:
+aExercise of a share option or lapse of an option at the end of its contractual term
+bVesting of shares
+cForfeiture of shares or share options due to failure to satisfy a vesting condition
+dAn entity's repurchase of instruments in exchange for assets or for fully vested and transferable equity instruments.
+The vesting of a share option is not a settlement because the entity remains obligated to issue shares upon exercise of the option.
+Suspense Shares
+The shares initially held by the employee stock ownership plan in a suspense account are called suspense shares. Suspense shares are shares that have not been released, committed to be released, or allocated to participant accounts. Suspense shares generally collateralize employee stock ownership plan debt.
+Top-Up Shares
+Top-up shares are shares or cash that an employer contributes to an employee stock ownership plan because the fair value of the shares released is less than the employer's liability for a particular benefit, such as a savings plan match.
+
+25 Recognition
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+General
+718-40-25-1
+This Subsection provides guidance on recognition issues applicable to both leveraged and nonleveraged employee stock ownership plans. It covers the following issues:
+aStock with a put option or a guaranteed redemption price (treasury stock recognition)
+bPension reversion employee stock ownership plans (recognition of assets transferred from the pension plan).
+> Stock with a Put Option or a Guaranteed Redemption Price
+718-40-25-2
+Regardless of whether an employee stock ownership plan is leveraged or nonleveraged, employers are required to give a put option to participants holding employee stock ownership plan shares that are not readily tradable, which on exercise requires the employer to repurchase the shares at fair value. Public entity sponsors sometimes offer cash redemption options to participants who are eligible to withdraw traded shares from their accounts, which on exercise requires the employer to repurchase the shares at fair value. Employers shall report the satisfaction of such option exercises as purchases of treasury stock.
+> Pension Reversion Employee Stock Ownership Plans
+718-40-25-3
+An employer that terminates a defined benefit pension plan may avoid part of the excise tax on an asset reversion by transferring the assets to an existing or newly created employee stock ownership plan, which could be either leveraged or nonleveraged. The reverted assets may be used either to purchase shares of the employer stock or to retire existing employee stock ownership plan debt.
+718-40-25-4
+If the assets from the pension plan are used by the employee stock ownership plan to purchase employer shares, the employer shall report the share issuance the same way as other share issuances to an employee stock ownership plan. The issuance of shares or the sale of treasury shares to the employee stock ownership plan shall be recognized when it occurs, and a corresponding charge to unearned employee stock ownership plan shares, a contra-equity account, shall be reported. If the shares are purchased on the market, the employer shall similarly charge unearned employee stock ownership plan shares. (The credit would be to cash.)
+718-40-25-5
+Because the number of shares the employee stock ownership plan acquires in a pension plan reversion is usually more than the Internal Revenue Service (IRS) permits to be allocated to participant accounts in a single year, some of the shares are held in a suspense account until they are committed to be released in future years for allocation to participant accounts. The guidance in this Subtopic, for shares held by leveraged employee stock ownership plans, shall be applied to suspense account shares.
+718-40-25-6
+If the assets from the pension plan reversion are used to repay the debt of an existing employee stock ownership plan, employee stock ownership plan shares are committed to be released from suspense. In such situations, the guidance for leveraged employee stock ownership plans in this Subtopic shall be followed. The employer shall reduce the debt as it is repaid and reduce unearned employee stock ownership plan shares as shares are committed to be released. How the committed-to-be-released shares are used determines what accounts are charged upon release of shares (see paragraphs 718-40-25-11 through 25-15).
+Leveraged Employee Stock Ownership Plans
+718-40-25-7
+This Subsection provides recognition guidance for leveraged employee stock ownership plans. It is organized as follows:
+aDebt financing
+bPurchase of shares by a leveraged employee stock ownership plan
+cRelease of leveraged employee stock ownership plan shares
+dDividends on employee stock ownership plan shares
+> Debt Financing
+718-40-25-8
+Paragraph 718-40-05-3 provides background on debt financing by an employee stock ownership plan.
+718-40-25-9
+For purposes of applying this Subtopic, employee stock ownership plan debt is characterized as follows:
+aEmployers that sponsor an employee stock ownership plan with a direct loan shall report the obligations of the employee stock ownership plan to the outside lender as debt. Furthermore, employers shall accrue interest cost on the debt and shall report cash payments to the employee stock ownership plan that are used by the employee stock ownership plan to service debt, regardless of whether the source of cash is employer contributions or dividends, as reductions of the debt and accrued interest payable when the employee stock ownership plan makes the payments to the outside lender.
+bEmployers that sponsor an employee stock ownership plan with an indirect loan shall report outside loans as debt. Employers shall not report a loan receivable from the employee stock ownership plan as an asset and shall, therefore, not recognize interest income on such receivable. Employers shall accrue interest cost on the outside loan and shall report loan payments as reductions of the principal and accrued interest payable. Contributions to the employee stock ownership plan and the concurrent payments from the employee stock ownership to the employer for debt service would not be recognized in the employer's financial statements.
+cEmployee stock ownership plans with indirect loans and employer loans are often referred to as internally leveraged.
+dEmployers that sponsor an employee stock ownership plan with an employer loan shall not report the employee stock ownership plan's note payable and the employer's note receivable in the employer's balance sheet. Accordingly, employers shall not recognize interest cost or interest income on an employer loan.
+> Purchase of Shares by a Leveraged Employee Stock Ownership Plan
+718-40-25-10
+An employer shall report the issuance of shares or the sale of treasury shares to an employee stock ownership plan when they occur and shall report a corresponding charge to unearned employee stock ownership plan shares, a contra-equity account. Furthermore, even if a leveraged employee stock ownership plan buys outstanding shares of employer stock on the market rather than from the employer, the employer shall charge unearned employee stock ownership plan shares and credit either cash or debt, depending on whether the employee stock ownership plan is internally or externally leveraged (see the preceding paragraph).
+> Release of Leveraged Employee Stock Ownership Plan Shares
+718-40-25-11
+Employee stock ownership plan shares are released for different purposes:
+aTo compensate employees directly
+bTo settle employer liabilities for other employee benefits
+cTo replace dividends on allocated shares that are used for debt service.
+718-40-25-12
+As employee stock ownership plan shares are committed to be released, unearned employee stock ownership plan shares should be credited and, depending on the purpose for which the shares are released shall be charged to one of the following accounts:
+aCompensation cost
+bDividends payable
+cCompensation liabilities.
+718-40-25-13
+Under this Subtopic, when shares are committed to be released, rather than when shares are legally released, is significant for accounting purposes. Employee stock ownership plan shares are legally released from an employee stock ownership plan's suspense account (and from serving as collateral for employee stock ownership plan debt) when debt payments are made, but the employee service to which the shares released relates is continuous. For purposes of reporting compensation cost and satisfaction of liabilities under this Subtopic, accounting recognition shall occur when shares are committed to be released, which may occur before the shares are legally released. Shares that have not been legally released, but that relate to employee services rendered during an accounting period (interim or annual) ending before the related debt service payment is made, shall be considered committed to be released. The periods of employee service to which shares relate are generally specified in the employee stock ownership plan documents.
+718-40-25-14
+Some employers agree to provide a specified or determinable benefit, such as a contribution to a 401(k) plan or to a formula profit-sharing plan, to employees and use the employee stock ownership plan to partially or fully fund the benefit. Employers shall recognize compensation cost and liabilities associated with providing such benefits to employees in the same manner they would had an employee stock ownership plan not been used to fund the benefit. For employee stock ownership plan shares committed to be released to settle liabilities for such benefits, employers shall report satisfaction of the liabilities when the shares are committed to be released to settle the liability. The number of shares released to settle the liability shall be based on the fair value of shares as of dates specified by the employers, which are usually specified in the employee stock ownership plan documents.
+> Dividends on Employee Stock Ownership Plan Shares
+718-40-25-15
+The Internal Revenue Code allows employers to use dividends on employee stock ownership plan shares that have been allocated to participants for debt service if participants are allocated shares of employer stock with a fair value no less than the amount of the dividends used for debt service. If shares released will include shares designated to replace dividends on previously allocated shares used for debt service, employers shall report the settlement of the dividend payable when the shares are committed to be released to replace the dividends on shares used for debt service. (See the following two paragraphs; only dividends on allocated shares shall be charged to retained earnings.) The number of shares committed to be released to replace the dividends on allocated shares used for debt service shall be based on the fair value of shares as of dates specified by the employer, which are usually specified in the employee stock ownership plan documents based on the employer's interpretation of current Internal Revenue Service regulations.
+718-40-25-16
+Because employers control the use of dividends on unallocated shares, dividends on unallocated shares shall not be considered dividends for financial reporting purposes. Dividends on unallocated shares used to pay debt service shall be reported as a reduction of debt or of accrued interest payable. Dividends on unallocated shares paid to participants or added to participant accounts shall be reported as compensation cost.
+718-40-25-17
+Dividends on allocated shares shall be charged to retained earnings. The dividends payable may be satisfied either by contributing cash to the participant accounts, by contributing additional shares to participant accounts, or by releasing shares from the employee stock ownership plans suspense account to participant accounts (see paragraph 718-40-25-15).
+Nonleveraged Employee Stock Ownership Plans
+718-40-25-18
+This Subsection provides recognition guidance for nonleveraged employee stock ownership plans. It is organized as follows:
+aContribution of shares to the employee stock ownership plan
+bDividends on employee stock ownership plan shares
+cShares allocated by year-end
+> Contribution of Shares to the Employee Stock Ownership Plan
+718-40-25-19
+Employers with nonleveraged employee stock ownership plans shall report compensation cost equal to the contribution called for in the period under the plan.
+> Dividends on Employee Stock Ownership Plan Shares
+718-40-25-20
+Employers with nonleveraged employee stock ownership plans shall charge dividends on shares held by the employee stock ownership plans to retained earnings, except that dividends on suspense account shares of a pension reversion employee stock ownership plan shall be accounted for the same way as dividends on suspense account shares of leveraged employee stock ownership plans (see paragraph 718-40-25-15 through 25-17).
+> Shares Allocated by Year-End
+718-40-25-21
+An employer with a nonleveraged employee stock ownership plan periodically contributes its shares or cash to its employee stock ownership plan on behalf of employees. The shares contributed or acquired with the cash contributed, which may be outstanding shares, treasury shares, or newly issued shares, shall be allocated to participant accounts and held by the employee stock ownership plan until distributed to the employees at a future date, such as on the date of termination or retirement. The shares of employer stock obtained by the nonleveraged employee stock ownership plan shall be allocated to individual participant accounts as of the end of the employee stock ownership plan's fiscal year. While this is the accounting treatment of employee stock ownership plan shares, it is mandated by tax law. The Codification does not keep up with changes in the tax law.
+
+30 Initial Measurement
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+Leveraged Employee Stock Ownership Plans
+718-40-30-1
+Regardless of the account charged (see paragraphs 718-40-25-11 through 25-12), the amount of the charge shall be based on fair values of committed-to-be-released shares.
+718-40-30-2
+Some employers establish employee stock ownership plans that are not linked to any other employee benefit or compensation promise; therefore, the employee stock ownership plan shares directly compensate the employees. For employee stock ownership plan shares committed to be released to compensate employees directly, the employer shall recognize compensation cost equal to the fair value of the shares committed to be released. The shares generally shall be deemed to be committed to be released ratably during an accounting period as the employees perform services, and, accordingly, average fair values shall be used to determine the amount of compensation cost to recognize each reporting period (interim or annual). The amount of compensation cost recognized in previous interim periods shall not be adjusted for subsequent changes in the fair value of shares.
+718-40-30-3
+Unearned employee stock ownership plan shares shall be credited as shares are committed to be released based on the cost of the shares to the employee stock ownership plan. Employers shall charge or credit the difference between the fair value of shares committed to be released and the cost of those shares to the employee stock ownership plan to shareholders' equity in the same manner as gains and losses on sales of treasury stock (generally to additional paid-in capital).
+718-40-30-4
+The fair value of employee stock ownership plan shares is needed to apply certain provisions of this Subtopic.
+Nonleveraged Employee Stock Ownership Plans
+718-40-30-5
+Compensation cost shall be measured as the fair value of the shares contributed to or committed to be contributed to the employee stock ownership plan or as the cash contributed to or committed to be contributed to the employee stock ownership plan, as appropriate under the terms of the plan.
+
+35 Subsequent Measurement
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+Leveraged Employee Stock Ownership Plans
+> Debt Repayment
+718-40-35-1
+Debt is generally repaid by the employee stock ownership plan from employer contributions and dividends on the employer's stock. As the debt is repaid, suspense shares are released from the suspense account, and the released shares must be allocated to individual accounts as of the end of the employee stock ownership plan's fiscal year.
+
+40 Derecognition
+General Note:The Derecognition Section provides guidance on determining whether and when an entity should remove an item from the financial statements. For example, the entity would derecognize an asset because it no longer has rights to the asset or it would derecognize a liability because it no longer has any obligation.
+Leveraged Employee Stock Ownership Plans
+> Plan Termination
+718-40-40-1
+This Section may contain summaries or references to specific tax code or other regulations that existed at the time that the standard was issued. The Financial Accounting Standards Board (FASB) does not monitor such code or regulations and assumes no responsibility for the current accuracy of the summaries or references. Users must evaluate such code or regulations to determine consistency of the current code or regulation with that presented.
+718-40-40-2
+Upon termination of a leveraged employee stock ownership plan, either in whole or in part, all outstanding debt related to the shares being terminated shall be repaid or refinanced. An employee stock ownership plan may repay the debt using an employer contribution to the plan, dividends on employee stock ownership plan shares, the proceeds from selling suspense shares to the employer or to another party, or some combination of these. The tax law limits the shares employers may reacquire to the number of shares with a fair value equal to the applicable unpaid debt and requires that the remaining shares, if any, shall be allocated to participants.
+718-40-40-3
+If the employer makes a contribution to the employee stock ownership plan or pays dividends on unallocated shares that are used by the employee stock ownership plan to repay the debt, the employer shall charge the debt and accrued interest payable when the employee stock ownership plan makes the payment to the outside lender. Similarly, an employer sponsoring an employee stock ownership plan with an indirect loan shall report loan repayments as reductions of the debt and accrued interest payable.
+718-40-40-4
+If the employee stock ownership plan sells the suspense shares and uses the proceeds to repay the debt, the employer shall report the release of the suspense shares as a credit to unearned employee stock ownership plan shares based on the cost of the shares to the employee stock ownership plan, charge debt, and accrued interest payable, and recognize the difference in paid-in capital.
+718-40-40-5
+However, if there is a difference between the amount paid to an outside lender and the net carrying amount of the debt, paragraph 470-50-40-2 requires that difference to be included in the employer's income when the debt is extinguished.
+718-40-40-6
+If an employer reacquires the suspense shares from the employee stock ownership plan, the purchase of the shares shall be accounted for as a treasury stock transaction. The treasury stock shall be reported at the fair value of the shares at the reacquisition date. Unearned employee stock ownership plan shares shall be credited for the cost of the shares, and the difference shall be recognized in additional paid-in capital.
+718-40-40-7
+If the fair value of the suspense shares on the termination date is more than the unpaid debt balance, the release of the remaining suspense shares to participants shall be charged to compensation in accordance with paragraphs 718-40-25-11 through 25-15. That is, compensation cost shall equal the fair value of the shares at the date the employee stock ownership plan debt is extinguished, because that is when the shares are committed to be released.
+
+45 Other Presentation Matters
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+General
+> EPS
+718-40-45-1
+Dividends on preferred stock held by an employee stock ownership plan shall be deducted from net income net of any applicable income tax benefit when computing both basic and diluted earnings per share (EPS) if that preferred stock is considered outstanding (that is, if the employee stock ownership plan shares are allocated).
+> Issuance of Shares or the Sale of Shares to an Employee Stock Ownership Plan
+718-40-45-2
+Paragraph 718-40-25-10 states that an employer shall report the issuance of shares or the sale of treasury shares to an employee stock ownership plan when they occur and shall report a corresponding charge to unearned employee stock ownership plan shares, a contra-equity account. That account should be presented as a separate item in the balance sheet.
+Leveraged Employee Stock Ownership Plans
+> EPS
+718-40-45-3
+For purposes of computing basic and diluted earnings per share (EPS), employee stock ownership plan shares that have been committed to be released shall be considered outstanding. Employee stock ownership plan shares that have not been committed to be released shall not be considered outstanding.
+718-40-45-4
+Employers that use dividends on allocated employee stock ownership plan shares to pay debt service shall adjust earnings applicable to common shares in the if-converted computation for the difference (net of income taxes) between the amount of compensation cost reported and the amount of compensation cost that would have been reported if the allocated shares had been converted to common stock at the beginning of the period.
+718-40-45-5
+Prior period EPS shall not be restated for changes in the conversion rates.
+· > Convertible Preferred Shares
+718-40-45-6
+The number of common shares that will be issued on conversion of the convertible shares held by an employee stock ownership plan that have been committed to be released shall be deemed outstanding in the if-converted EPS computations for diluted EPS if the effect is dilutive. Convertible preferred shares held by the employee stock ownership plan that have not been committed to be released shall not be considered outstanding and, accordingly, would be excluded from the if-converted computations for diluted EPS.
+718-40-45-7
+When participants withdraw account balances containing convertible preferred shares from an employee stock ownership plan, they may be entitled to receive common shares or cash with a value equal to either the fair value of the convertible preferred shares or a stated minimum value per share. Accordingly, if the value of the common stock issuable is less than the stated minimum value or the fair value of the preferred, participants may receive common shares or cash with a value greater than the value of the common shares issuable at the stated conversion rate. In determining EPS, the employer shall presume that such a shortfall will be made up with shares of common stock. However, that presumption may be overcome if past experience or a stated policy provides a reasonable basis to believe that the shortfall will be paid in cash. In applying the if-converted method, the number of common shares issuable on assumed conversion, which shall be included in the denominator of the EPS calculation, shall be the greater of the following:
+aThe shares issuable at the stated conversion rate
+bThe shares issuable if the participants were to withdraw the shares from their accounts.
+718-40-45-8
+Shares issuable on assumed withdrawal shall be computed based on the ratio of the average fair value of the convertible stock (or, if greater, its stated minimum value) to the average fair value of the common stock.
+Nonleveraged Employee Stock Ownership Plans
+> EPS
+718-40-45-9
+All shares held by a nonleveraged employee stock ownership plan shall be treated as outstanding in computing the employer's earnings per share (EPS), except the suspense account shares of a pension reversion employee stock ownership plan, which are not treated as outstanding until they are committed to be released for allocation to participant accounts. If a nonleveraged employee stock ownership plan holds convertible preferred stock, the guidance in paragraphs 718-40-45-6 through 45-8 for leveraged employee stock ownership plans shall be considered.
+
+50 Disclosure
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General
+718-40-50-1
+An employer sponsoring an employee stock ownership plan shall disclose all of the following information about the plan, if applicable:
+aA description of the plan, the basis for determining contributions, including the employee groups covered, and the nature and effect of significant matters affecting comparability of information for all periods presented. For leveraged employee stock ownership plans and pension reversion employee stock ownership plans, the description shall include the basis for releasing shares and how dividends on allocated and unallocated shares are used.
+bA description of the accounting policies followed for employee stock ownership plan transactions, including the method of measuring compensation, the classification of dividends on employee stock ownership plan shares, and the treatment of employee stock ownership plan shares for earnings per share (EPS) computations. If the employer has both old employee stock ownership plan shares for which it does not adopt the guidance in this Subtopic and new employee stock ownership plan shares for which the guidance in this Subtopic is required, the accounting policies for both blocks of shares shall be described.
+cThe amount of compensation cost recognized during the period.
+dThe number of allocated shares, committed-to-be-released shares, and suspense shares held by the employee stock ownership plan at the balance-sheet date. This disclosure shall be made separately for shares accounted for under this Subtopic and for grandfathered employee stock ownership plan shares.
+eThe fair value of unearned employee stock ownership plan shares at the balance-sheet date for shares accounted for under this Subtopic. (Future tax deductions will be allowed only for the employee stock ownership plan's cost of unearned employee stock ownership plan shares.) This disclosure need not be made for old employee stock ownership plan shares for which the employer does not apply the guidance in this Subtopic.
+fThe existence and nature of any repurchase obligation, including disclosure of the fair value (see paragraph 718-40-30-4) of the shares allocated as of the balance sheet date, which are subject to a repurchase obligation.
+gThe amount and treatment in the EPS computation of the tax benefit related to dividends paid to any employee stock ownership plan, if material.
+
+55 Implementation Guidance and Illustrations
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+General
+> Illustrations
+718-40-55-1
+This Section contains illustrations of the requirements of this Subtopic for employers with employee stock ownership plans.
+718-40-55-2
+The Examples do not address all possible circumstances that may arise in applying the guidance in this Subtopic. The Examples are for annual reporting periods and, accordingly, do not demonstrate the application of the Subtopic to interim financial statements. However, depending on the circumstances, many of the journal entries illustrated would be made for interim financial statements.
+Leveraged Employee Stock Ownership Plans
+> Illustrations
+· > Example 1: Employee Stock Ownership Plan Leveraged with a Direct or Indirect Loan
+718-40-55-3
+The following Cases illustrate the guidance in paragraphs 718-40-25-7 through 25-17; 718-40-30-1 through 30-4; 718-40-35-1; 718-40-40-1 through 40-7; and 718-40-45-3 through 45-8:
+aA common-stock leveraged employee stock ownership plan with a direct loan (Case A)
+bA common-stock leveraged employee stock ownership plan used to fund the employer's match of a 401(k) savings plan with an indirect loan (Case B)
+cA convertible-preferred-stock leveraged employee stock ownership plan with a direct loan (Case C).
+· · > Case A: A Common-Stock Leveraged Employee Stock Ownership Plan with a Direct Loan
+718-40-55-4
+This Case illustrates a common stock leveraged employee stock ownership plan with a direct loan. This Case has the following assumptions:
+aOn January 1, Year 1, Entity A establishes a leveraged employee stock ownership plan.
+bThe employee stock ownership plan borrows $1,000,000 from an outside lender at 10 percent for 5 years and uses the proceeds to buy 100,000 shares of newly issued common stock of the sponsor for $10 per share, which is the market price of those shares on the date of issuance.
+cDebt service is funded by cash contributions and dividends on employer stock held by the employee stock ownership plan.
+dDividends on all shares held by the employee stock ownership plan are used for debt service.
+eCash contributions are made at the end of each year.
+fThe year-end and average market values of a share of common stock follow.
+gThe common stock pays normal dividends at the end of each quarter of 12.5 cents per share ($50,000 for the employee stock ownership plan's shares each year). Accordingly, in this Case, the average fair value of shares is used to determine the number of shares used to satisfy the employers' obligation to replace dividends on allocated shares used for debt service.
+hPrincipal and interest are payable in equal annual installments at the end of each year. Debt service is as follows.
+iThe number of shares released each year is as follows.
+jThe number of shares released for dividends is determined by dividing the amount of dividends on allocated shares by the average fair value of a share of common stock (for Year 2: $10,000 divided by $10.25 equals 976 shares). In this illustration, the remaining shares are released for compensation (for Year 2: 20,000 less 976 equals 19,024 shares).
+kShares are released from the suspense account for allocation to participants' accounts based on a principal-plus-interest formula. The released shares are allocated to participant accounts the following year. Shares released and allocated follow.
+lIncome before employee stock ownership plan related charges is as follows.
+mAll interest cost and compensation cost are charged to expense each year.
+nExcluding employee stock ownership plan shares, 1,000,000 shares are outstanding on average each year.
+oEntity A follows the guidance in Subtopic 740-10.
+pEntity A's combined statutory tax rate is 40 percent each year.
+qEntity A's only book-tax differences are those associated with its employee stock ownership plan.
+rNo valuation allowance is necessary for deferred tax assets.
+718-40-55-5
+The following table sets forth Entity A's employee stock ownership plan-related information. All amounts represent changes (credits in parentheses) in account balances.
+718-40-55-6
+Entity A would record journal entries from inception through Year 5 as follows.
+718-40-55-7
+Assuming Entity A terminates its employee stock ownership plan at the end of Year 2 (when the fair value of the suspense shares is $540,000 [60,000 shares multiplied by $9 per share], the unearned employee stock ownership plan share balance is $600,000, and the unpaid debt balance is $656,000), and assuming the suspense shares are sold to pay down the debt, Entity A would make the following journal entry.
+718-40-55-8
+The following tables set forth Entity A's tax (assuming no termination) and earnings per share (EPS) computations.
+718-40-55-9
+The entity would provide the following disclosures for the end of Year 3.
+The entity sponsors a leveraged employee stock ownership plan that covers all U.S. employees who work 20 or more hours per week. The entity makes annual contributions to the employee stock ownership plan equal to the employee stock ownership plan's debt service less dividends received by the employee stock ownership plan. All dividends received by the employee stock ownership plan are used to pay debt service. The employee stock ownership plan shares initially were pledged as collateral for its debt. As the debt is repaid, shares are released from collateral and allocated to active employees, based on the proportion of debt service paid in the year. The entity accounts for its employee stock ownership plan in accordance with this Subtopic. Accordingly, the debt of the employee stock ownership plan is recorded as debt and the shares pledged as collateral are reported as unearned employee stock ownership plan shares in the statement of financial position. As shares are released from collateral, the entity reports compensation expense equal to the current market price of the shares, and the shares become outstanding for EPS computations. Dividends on allocated employee stock ownership plan shares are recorded as a reduction of retained earnings; dividends on unallocated employee stock ownership plan shares are recorded as a reduction of debt and accrued interest. Employee stock ownership plan compensation expense was $170,000, $195,000, and $215,000 for Years 3, 2, and 1, respectively. The employee stock ownership plan shares as of December 31 were as follows.
+· · > Case B: A Common-Stock Leveraged Employee Stock Ownership Plan Used to Fund the Employer's Match of a 401(k) Savings Plan with an Indirect loan
+718-40-55-10
+This Case illustrates a common stock leveraged employee stock ownership plan used to fund the employer's match of a 401(k) savings plan with an indirect loan. On January 1, Year 1, Entity B established an employee stock ownership plan to fund the employer's match of its savings plan. All of the assumptions are the same as those outlined in Case A for Entity A, except as follows:
+aEntity B loaned its employee stock ownership plan $1,000,000 and concurrently obtained a related loan. The terms of both lending arrangements are the same as for Case A's outside loan.
+bEntity B uses shares released by the employee stock ownership plan to satisfy its matching obligation of 50 percent of voluntary employee contributions to the savings plan. The average fair value of the shares for each year is used to determine the number of shares necessary to satisfy the matching obligation.
+cIf the fair value of the shares released is less than Entity B's matching obligation, Entity B contributes additional newly issued shares to the employee stock ownership plan to satisfy the remaining obligation.
+dShares used to replace dividends on allocated shares used to service debt do not count toward the employer's match.
+eThe employee contributions, required employer match, and the number of shares needed to fund the employee match follow.
+Note that the number of shares needed to satisfy the employer's matching obligation is determined by dividing the matching obligation by the average fair value of a share of common stock (for Year 1: $200,000 divided by $10.75 [see above table for average fair values] equals 18,605 shares).
+718-40-55-11
+The 20,000 shares released each year based on debt service payments follow.
+718-40-55-12
+Cumulative share amounts follow.
+718-40-55-13
+Note that dividends on top-up shares are paid in cash. Cumulative shares released include top-up shares.
+718-40-55-14
+The following table sets forth Entity B's employee stock ownership plan related information. All amounts represent changes (credits in parentheses) in account balances.
+718-40-55-15
+Entity B would record journal entries from inception through Year 2 as follows.
+718-40-55-16
+Note that the journal entry differs from Case A because Entity B receives an additional $10,000 deduction ($4,000 tax benefit) for the 976 top-up shares.
+718-40-55-17
+Assuming Entity B terminated its employee stock ownership plan at the end of Year 4 (when the fair value of the suspense shares is $240,000, the unearned employee stock ownership plan shares balance is $200,000, and the unpaid debt balance is $239,800), and assuming the employer buys back the suspense shares in an amount equal to the debt balance, there will be 17 suspense shares left, which must be allocated to participants. (In this Case the shares are used to partially satisfy the employer's 401(k) matching obligation.) Entity B would make the following journal entry.
+718-40-55-18
+In this Case, Entity B's taxes would be computed the same way as Case A. For Entity B the average number of employee stock ownership plan shares outstanding would be as follows.
+718-40-55-19
+This represents the cumulative numbers of shares released at the beginning of the year plus the end of the year (see the table in the preceding paragraph) divided by 2.
+718-40-55-20
+The entity would provide the following disclosures for the end of Year 3.
+The entity sponsors a 401(k) savings plan under which eligible U.S. employees may choose to save up to 6 percent of salary income on a pretax basis, subject to certain Internal Revenue Service (IRS) limits. The entity matches 50 percent of employee contributions with entity common stock. The shares for this purpose are provided principally by the entity's employee stock ownership plan, supplemented as needed by newly issued shares. The entity makes annual contributions to the employee stock ownership plan equal to the employee stock ownership plan's debt service less dividends received by the employee stock ownership plan. All dividends received by the employee stock ownership plan are used to pay debt service. The employee stock ownership plan shares initially were pledged as collateral for its debt. As the debt is repaid, shares are released from collateral and allocated to employees who made 401(k) contributions that year, based on the proportion of debt service paid in the year. The entity accounts for its employee stock ownership plan in accordance with this Subtopic. Accordingly, the shares pledged as collateral are reported as unearned employee stock ownership plan shares in the statement of financial position. As shares are released from collateral, the entity reports compensation expense equal to the current market price of the shares, and the shares become outstanding for EPS computations. Dividends on allocated employee stock ownership plan shares are recorded as a reduction of retained earnings; dividends on unallocated employee stock ownership plan shares are recorded as a reduction of debt and accrued interest.
+Compensation expense for the 401(k) match and the employee stock ownership plan was $210,000, $205,000, and $215,000 for Years 3, 2, and 1, respectively. The employee stock ownership plan shares as of December 31 were as follows.
+· · > Case C: A Convertible-Preferred-Stock Leveraged Employee Stock Ownership Plan with a Direct Loan
+718-40-55-21
+This Case illustrates a convertible preferred stock leveraged employee stock ownership plan with a direct loan. On January 1, Year 1, Entity D established an employee stock ownership plan with convertible preferred stock. The assumptions are as follows:
+aThe borrowing, debt service, earnings, and tax assumptions are the same as those for Entity A outlined in Case A.
+bOn January 1, Year 1, the employee stock ownership plan used the proceeds of the debt to buy 80,000 shares of newly issued convertible preferred stock of Entity D for $12.50 per share.
+cThe preferred stock pays dividends quarterly at an annual rate of $1.25 per share ($100,000 each year for the employee stock ownership plan shares). Accordingly, in this Case the average fair value of the shares is used to determine the number of shares used to satisfy the employer's obligation to replace dividends on allocated shares used for debt service.
+dAll dividends on employee stock ownership plan shares are used for debt service.
+eThe preferred stock is convertible into common stock at 1:1 ratio.
+fParticipants may not withdraw the convertible preferred stock from the employee stock ownership plan. When participants become eligible to withdraw shares from their account, they must either convert to common stock or redeem the preferred shares.
+gThe preferred stock has a guaranteed minimum redemption value of $12.50 per share, to be paid in shares of common stock.
+hThe preferred stock is callable at $13.00 per share.
+iThere is one vote per preferred share.
+jThe year-end and average fair values of a share of preferred stock (fair value is assumed to be greater than or equal to minimum value) follow.
+718-40-55-22
+The shares released each year follow.
+718-40-55-23
+Note that the number of shares released for dividends is determined by dividing the amount of dividends on allocated shares (16,000 multiplied by $1.25 in Year 2; 32,000 multiplied by $1.25 in Year 3; and so forth) by the average fair value of a share of preferred stock ($12.50 in Years 2 and 3). In this illustration the remaining shares are released for compensation (16,000 less 1,600 in Year 2, 16,000 less 3,200 in Year 3, and so forth).
+718-40-55-24
+Additional share information follows.
+718-40-55-25
+The following chart sets forth Entity D's employee stock ownership plan related information. All amounts represent changes (credits in parentheses) in account balances.
+718-40-55-26
+The journal entries to reflect the accounting for Entity D's employee stock ownership plan from inception through Year 2 are as follows.
+718-40-55-27
+The tax and EPS calculations for Entity D follow.
+718-40-55-28
+If-converted computation.
+718-40-55-29
+Computations for (1), (2), and (3) follow.
+· > Example 2: A Convertible, Preferred-Stock, Leveraged Employee Stock Ownership Plan Used to Fund a 401(k) Savings Plan with an Employer Loan
+718-40-55-30
+This Example illustrates the guidance in paragraphs 718-40-25-7 through 25-17; 718-40-30-1 through 30-4; 718-40-35-1; 718-40-40-1 through 40-7; and 718-40-45-3 through 45-8 for a convertible preferred stock leveraged employee stock ownership plan used to fund a 401(k) savings plan with an employer loan. This Example has the following assumptions:
+aOn January 1, Year 1, Entity E established a leveraged employee stock ownership plan with convertible preferred stock.
+bThe employee stock ownership plan borrowed $1,000,000 from the employer at 10 percent for 5 years and used the proceeds to buy 80,000 shares of newly issued convertible preferred stock of Entity E for $12.50 per share.
+cDebt service is funded by cash contributions and dividends on employer stock held by the employee stock ownership plan.
+dDividends on all of the original 80,000 shares held by the employee stock ownership plan are used for debt service.
+eCash contributions are made at the end of each year.
+fThe preferred stock pays dividends quarterly at an annual rate of $1.25 per share ($100,000 each year for the employee stock ownership plan's shares). Accordingly, in this Example, the average fair value of the shares is used to determine the number of shares used to satisfy the employer's obligation to replace dividends on allocated shares used for debt service.
+gThe preferred stock is convertible at a 1:1 ratio into common stock.
+hParticipants may not withdraw the convertible preferred stock from the employee stock ownership plan. When participants become eligible to withdraw shares from their account, they must either convert to common stock or redeem the preferred shares.
+iThe preferred stock has a guaranteed minimum redemption value of $12.50 per share, to be paid in shares of common stock.
+jThe preferred stock is callable at $13.00 per share.
+kThere is one vote per preferred share.
+lThe year-end and average fair values of a share of preferred stock (fair value is assumed to be greater than or equal to minimum value) follow.
+mEntity E uses shares released by the employee stock ownership plan to satisfy its matching obligation of 50 percent of voluntary employee contributions to the savings plan. The fair value of the shares at the end of each month is used to determine the number of shares necessary to satisfy the matching obligation. (Accordingly, in this Example, average fair values are used to determine the number of shares needed to satisfy the employer's liabilities.)
+nIf the fair value of the shares released is less than Entity E's matching obligation, Entity E contributes additional newly issued shares (top-up shares) to the employee stock ownership plan to satisfy the remaining obligation. The top-up shares are issued at the end of the year. Dividends on the top-up shares are paid in cash.
+oShares that replace dividends on allocated shares used to service debt do not count toward the employer's match.
+pThe employee contributions, required employer match, and the number of shares needed to fund the employee match follow.
+Note that the number of shares needed to satisfy the employer's matching obligation is determined by dividing the matching obligation by the average fair value of a share of common stock (for Year 1: $200,000 divided by $12.50 equals 16,000 shares).
+qPrincipal and interest are payable in annual installments at the end of each year. Debt service is as follows.
+rShares are released from the suspense account for allocation to participants' accounts based on a principal-plus-interest formula. The released shares are allocated to participants' accounts at the beginning of the following year. Shares are assumed to be released ratably throughout the year.
+sThe shares released each year follow.
+Note that the number of shares released for dividends is determined by dividing the amount of dividends on allocated shares (12,481 multiplied by $1.25 in Year 2; 26,686 multiplied by $1.25 in Year 3, and so forth) by the average fair value of a share of preferred stock ($12.50 in Years 2 and 3). In this example, the remaining shares are released for compensation (14,205 less 1,248 in Year 2; 16,286 less 2,669 in Year 3, and so forth).
+tAdditional share information follows.
+uThe pre-employee stock ownership plan income, shares outstanding, and income tax assumptions are the same as for Example 1 (see paragraph 718-40-55-3).
+718-40-55-31
+The following chart sets forth Entity E's employee stock ownership plan related information. All amounts represent changes (credits are in parentheses) in account balances.
+718-40-55-32
+The journal entries to reflect the accounting for Entity E's employee stock ownership plan from inception through Year 2 are as follows.
+718-40-55-33
+The tax and earnings per share (EPS) computations for Entity E follow.
+Nonleveraged Employee Stock Ownership Plans
+> Illustrations
+· > Example 1: A Common Stock Nonleveraged Employee Stock Ownership Plan
+718-40-55-34
+This Example illustrates the guidance in paragraphs 718-40-25-2; 718-40-25-18 through 25-21; 718-40-30-5; and 718-40-45-9 for a common stock nonleveraged employee stock ownership plan.
+718-40-55-35
+This Example has the following assumptions:
+aOn January 1, Year 1, Entity C established a nonleveraged employee stock ownership plan
+bEntity C contributed 10 percent of pretax profit before employee stock ownership plan related charges to the employee stock ownership plan at the end of each of Years 1 through 5; the employee stock ownership plan bought newly issued employer stock with the contribution.
+cThe number of shares, earnings, tax, and other relevant assumptions are the same as those for Example 1, Case A (see paragraph 718-40-55-4).
+718-40-55-36
+The following chart sets forth Entity C's employee stock ownership plan-related information.
+718-40-55-37
+The year-end market value is used in this Example to determine the number of employee stock ownership plan shares purchased. [Year 1: $180,000 divided by $11.50 (See the table in the preceding paragraph) equals 15,652]
+718-40-55-38
+Entity C would record journal entries for Years 1 and 2 as follows.
+
+60 Relationships
+General Note:The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
+General
+> Compensation—Stock Compensation
+718-40-60-1
+For guidance on determining the accounting for the effect of income tax factors on employee stock ownership plans, see paragraphs 718-740-25-6 and 718-740-45-5.
+
+65 Transition and Open Effective Date Information
+General Note:The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
+General
+718-40-65-1
+Paragraph superseded on 07/05/2017 after the end of the transition period stated in Accounting Standards Update No. 2015-10, Technical Corrections and Improvements.
+
+718 Compensation—Stock Compensation
+50 Employee Share Purchase Plans
+00 Status
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General
+718-50-00-1
+The following table identifies the changes made to this Subtopic.
+Paragraph	Action	Accounting Standards Update	Date
+			
+Award	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+Employee (2nd def.)	Amended	Accounting Standards Update No. 2024-03	11/04/2024
+Grant Date	Amended	Accounting Standards Update No. 2019-08	11/11/2019
+Grant Date	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+Issued, Issuance, or Issuing of an Equity Instrument	Added	Accounting Standards Update No. 2016-19	12/14/2016
+Modification	Amended	Accounting Standards Update No. 2017-09	05/10/2017
+Service Inception Date	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+Share Option	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+			
+718-50-30-1	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+718-50-30-1	Amended	Accounting Standards Update No. 2016-19	12/14/2016
+
+05 Overview and Background
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+General
+718-50-05-1
+This Subtopic provides guidance to entities that use employee share purchase plans. The entity must first determine whether the plan is compensatory or noncompensatory. This is determined by the terms of the plan (see paragraphs 718-50-25-1 through 25-2). A plan with an option feature, for example a look-back feature, is considered compensatory. For a compensatory plan the calculation of the amount of the compensation is important (see Section 718-50-55).
+
+15 Scope and Scope Exceptions
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+General
+> Overall Guidance
+718-50-15-1
+This Subtopic has its own discrete scope, which is separate and distinct from the pervasive scope for this Topic as outlined in Section 718-10-15.
+> Entities
+718-50-15-2
+The guidance in this Subtopic applies to all entities.
+
+20 Glossary
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+Award
+The collective noun for multiple instruments with the same terms and conditions granted at the same time either to a single grantee or to a group of grantees. An award may specify multiple vesting dates, referred to as graded vesting, and different parts of an award may have different expected terms. References to an award also apply to a portion of an award.
+Employee
+An individual over whom the grantor of a share-based compensation award exercises or has the right to exercise sufficient control to establish an employer-employee relationship based on common law as illustrated in case law and currently under U.S. Internal Revenue Service (IRS) Revenue Ruling 87-41. A reporting entity based in a foreign jurisdiction would determine whether an employee-employer relationship exists based on the pertinent laws of that jurisdiction. Accordingly, a grantee meets the definition of an employee if the grantor consistently represents that individual to be an employee under common law. The definition of an employee for payroll tax purposes under the U.S. Internal Revenue Code includes common law employees. Accordingly, a grantor that classifies a grantee potentially subject to U.S. payroll taxes as an employee also must represent that individual as an employee for payroll tax purposes (unless the grantee is a leased employee as described below). A grantee does not meet the definition of an employee solely because the grantor represents that individual as an employee for some, but not all, purposes. For example, a requirement or decision to classify a grantee as an employee for U.S. payroll tax purposes does not, by itself, indicate that the grantee is an employee because the grantee also must be an employee of the grantor under common law.
+A leased individual is deemed to be an employee of the lessee if all of the following requirements are met:
+aThe leased individual qualifies as a common law employee of the lessee, and the lessor is contractually required to remit payroll taxes on the compensation paid to the leased individual for the services provided to the lessee.
+bThe lessor and lessee agree in writing to all of the following conditions related to the leased individual:
+1The lessee has the exclusive right to grant stock compensation to the individual for the employee service to the lessee.
+2The lessee has a right to hire, fire, and control the activities of the individual. (The lessor also may have that right.)
+3The lessee has the exclusive right to determine the economic value of the services performed by the individual (including wages and the number of units and value of stock compensation granted).
+4The individual has the ability to participate in the lessee's employee benefit plans, if any, on the same basis as other comparable employees of the lessee.
+5The lessee agrees to and remits to the lessor funds sufficient to cover the complete compensation, including all payroll taxes, of the individual on or before a contractually agreed upon date or dates.
+A nonemployee director does not satisfy this definition of employee. Nevertheless, nonemployee directors acting in their role as members of a board of directors are treated as employees if those directors were elected by the employer's shareholders or appointed to a board position that will be filled by shareholder election when the existing term expires. However, that requirement applies only to awards granted to nonemployee directors for their services as directors. Awards granted to those individuals for other services shall be accounted for as awards to nonemployees.
+PENDING CONTENT
+Transition Date: December 16, 2026;  December 16, 2026Transition Guidance:220-40-65-1
+An individual over whom a reporting entity exercises or has the right to exercise sufficient control to establish an employer-employee relationship based on common law as illustrated in case law and currently under U.S. Internal Revenue Service (IRS) Revenue Ruling 87-41. A reporting entity based in a foreign jurisdiction would determine whether an employee-employer relationship exists based on the pertinent laws of that jurisdiction. Accordingly, an individual meets the definition of an employee if the reporting entity consistently represents that individual to be an employee under common law. The definition of an employee for payroll tax purposes under the U.S. Internal Revenue Code includes common law employees. Accordingly, a reporting entity that classifies an individual potentially subject to U.S. payroll taxes as an employee also must represent that individual as an employee for payroll tax purposes (unless the individual is a leased employee as described below). An individual that meets the definition of an employee includes, but is not limited to, a full-time, part-time, temporary, or seasonal employee. An individual does not meet the definition of an employee solely because the reporting entity represents that individual as an employee for some, but not all, purposes. For example, a requirement or decision to classify an individual as an employee for U.S. payroll tax purposes does not, by itself, indicate that the individual is an employee because the individual also must be an employee of the reporting entity under common law.
+A leased individual is deemed to be an employee of the lessee if all of the following requirements are met:
+aThe leased individual qualifies as a common law employee of the lessee, and the lessor is contractually required to remit payroll taxes on the compensation paid to the leased individual for the services provided to the lessee.
+bThe lessor and lessee agree in writing to all of the following conditions related to the leased individual:
+1The lessee has the exclusive right to grant compensation to the individual for the employee service to the lessee.
+2The lessee has a right to hire, fire, and control the activities of the individual. (The lessor also may have that right.)
+3The lessee has the exclusive right to determine the economic value of the services performed by the individual (including wages and the number of units and value of stock compensation granted).
+4The individual has the ability to participate in the lessee's employee benefit plans, if any, on the same basis as other comparable employees of the lessee.
+5The lessee agrees to and remits to the lessor funds sufficient to cover the complete compensation, including all payroll taxes, of the individual on or before a contractually agreed upon date or dates.
+A nonemployee director does not satisfy this definition of employee. Nevertheless, nonemployee directors acting in their role as members of a board of directors are treated as employees if those directors were elected by the employer's shareholders or appointed to a board position that will be filled by shareholder election when the existing term expires. However, that requirement applies only to awards and other compensation granted to nonemployee directors for their services as directors. Awards granted and compensation paid to those individuals for other services shall be accounted for as awards and compensation to nonemployees.
+Fair Value
+The amount at which an asset (or liability) could be bought (or incurred) or sold (or settled) in a current transaction between willing parties, that is, other than in a forced or liquidation sale.
+Grant Date
+The date at which a grantor and a grantee reach a mutual understanding of the key terms and conditions of a share-based payment award. The grantor becomes contingently obligated on the grant date to issue equity instruments or transfer assets to a grantee who delivers goods or renders services or purchases goods or services as a customer. Awards made under an arrangement that is subject to shareholder approval are not deemed to be granted until that approval is obtained unless approval is essentially a formality (or perfunctory), for example, if management and the members of the board of directors control enough votes to approve the arrangement. Similarly, individual awards that are subject to approval by the board of directors, management, or both are not deemed to be granted until all such approvals are obtained. The grant date for an award of equity instruments is the date that a grantee begins to benefit from, or be adversely affected by, subsequent changes in the price of the grantor's equity shares. Paragraph 718-10-25-5 provides guidance on determining the grant date. See Service Inception Date.
+Issued, Issuance, or Issuing of an Equity Instrument
+An equity instrument is issued when the issuing entity receives the agreed-upon consideration, which may be cash, an enforceable right to receive cash, or another financial instrument, goods, or services. An entity may conditionally transfer an equity instrument to another party under an arrangement that permits that party to choose at a later date or for a specified time whether to deliver the consideration or to forfeit the right to the conditionally transferred instrument with no further obligation. In that situation, the equity instrument is not issued until the issuing entity has received the consideration. The grant of stock options or other equity instruments subject to vesting conditions is not considered to be issuance.
+Modification
+A change in the terms or conditions of a share-based payment award.
+Service Inception Date
+The date at which the employee's requisite service period or the nonemployee's vesting period begins. The service inception date usually is the grant date, but the service inception date may differ from the grant date (see Example 6 [see paragraph 718-10-55-107] for an illustration of the application of this term to an employee award).
+Share Option
+A contract that gives the holder the right, but not the obligation, either to purchase (to call) or to sell (to put) a certain number of shares at a predetermined price for a specified period of time.
+Volatility
+A measure of the amount by which a financial variable such as a share price has fluctuated (historical volatility) or is expected to fluctuate (expected volatility) during a period. Volatility also may be defined as a probability-weighted measure of the dispersion of returns about the mean. The volatility of a share price is the standard deviation of the continuously compounded rates of return on the share over a specified period. That is the same as the standard deviation of the differences in the natural logarithms of the stock prices plus dividends, if any, over the period. The higher the volatility, the more the returns on the shares can be expected to vary—up or down. Volatility is typically expressed in annualized terms.
+
+25 Recognition
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+General
+718-50-25-1
+An employee share purchase plan that satisfies all of the following criteria does not give rise to recognizable compensation cost (that is, the plan is noncompensatory):
+aThe plan satisfies either of the following conditions:
+1The terms of the plan are no more favorable than those available to all holders of the same class of shares. Note that a transaction subject to an employee share purchase plan that involves a class of equity shares designed exclusively for and held only by current or former employees or their beneficiaries may be compensatory depending on the terms of the arrangement.
+2Any purchase discount from the market price does not exceed the per-share amount of share issuance costs that would have been incurred to raise a significant amount of capital by a public offering. A purchase discount of 5 percent or less from the market price shall be considered to comply with this condition without further justification. A purchase discount greater than 5 percent that cannot be justified under this condition results in compensation cost for the entire amount of the discount. Note that an entity that justifies a purchase discount in excess of 5 percent shall reassess at least annually, and no later than the first share purchase offer during the fiscal year, whether it can continue to justify that discount pursuant to this paragraph.
+bSubstantially all employees that meet limited employment qualifications may participate on an equitable basis.
+cThe plan incorporates no option features, other than the following:
+1Employees are permitted a short period of time—not exceeding 31 days—after the purchase price has been fixed to enroll in the plan.
+2The purchase price is based solely on the market price of the shares at the date of purchase, and employees are permitted to cancel participation before the purchase date and obtain a refund of amounts previously paid (such as those paid by payroll withholdings).
+718-50-25-2
+A plan provision that establishes the purchase price as an amount based on the lesser of the equity share's market price at date of grant or its market price at date of purchase, commonly called a look-back plan, is an example of an option feature that causes the plan to be compensatory. Similarly, a plan in which the purchase price is based on the share's market price at date of grant and that permits a participating employee to cancel participation before the purchase date and obtain a refund of amounts previously paid contains an option feature that causes the plan to be compensatory. Section 718-50-55 provides guidance on determining whether an employee share purchase plan satisfies the criteria necessary to be considered noncompensatory.
+718-50-25-3
+The requisite service period for any compensation cost resulting from an employee share purchase plan is the period over which the employee participates in the plan and pays for the shares.
+
+30 Initial Measurement
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+General
+718-50-30-1
+Paragraph 718-10-30-6 states that the objective of the fair value measurement method is to estimate the fair value of the equity instruments, based on the share price and other measurement assumptions at the grant date, that are issued in exchange for providing goods or rendering services. Estimating the fair value of equity instruments at the grant date, which are issued in exchange for employee services, also applies to the fair value measurements associated with grants under a compensatory employee share purchase plan and is the basis for the approach described in Example 1, Case A (see paragraph 718-50-55-10).
+> Look-Back Plans
+718-50-30-2
+Many employee share purchase plans with a look-back option have features in addition to or different from those of the plan described in Example 1, Case A (see paragraph 718-50-55-10). For example, some plans contain multiple purchase periods, others contain reset mechanisms, and still others allow changes in the withholding amounts or percentages after the grant date (see Example 1, Cases B through E [see paragraphs 718-50-55-22 through 55-33]).
+718-50-30-3
+In some circumstances, applying the measurement approaches described in this Subtopic at the grant date may not be practicable for certain types of employee share purchase plans. Paragraph 718-20-35-1 provides guidance on the measurement requirements if it is not possible to reasonably estimate fair value at the grant date.
+
+35 Subsequent Measurement
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+General
+718-50-35-1
+Changes in total employee withholdings during a purchase period that occur solely as a result of salary increases, commissions, or bonus payments are not plan modifications if they do not represent changes to the terms of the award that was offered by the employer and initially agreed to by the employee at the grant (or measurement) date. Under those circumstances, the only incremental compensation cost is that which results from the additional shares that may be purchased with the additional amounts withheld (using the fair value calculated at the grant date). For example, an employee may elect to participate in the plan on the grant date by requesting that 5 percent of the employee's annual salary be withheld for future purchases of stock. If the employee receives an increase in salary during the term of the award, the base salary on which the 5 percent withholding amount is applied will increase, thus increasing the total amount withheld for future share purchases. That increase in withholdings as a result of the salary increase is not considered a plan modification and thus only increases the total compensation cost associated with the award by the grant date fair value associated with the incremental number of shares that may be purchased with the additional withholdings during the period. The incremental number of shares that may be purchased is calculated by dividing the incremental amount withheld by the exercise price as of the grant date (for example, 85 percent of the grant date stock price).
+718-50-35-2
+Any decreases in the withholding amounts (or percentages) shall be disregarded for purposes of recognizing compensation cost unless the employee services that were valued at the grant date will no longer be provided to the employer due to a termination. However, no compensation cost shall be recognized for awards that an employee forfeits because of failure to satisfy a service requirement for vesting. The accounting for decreases in withholdings is consistent with the requirement in paragraph 718-10-35-3 that the total amount of compensation cost that must be recognized for an award be based on the number of instruments for which the requisite service has been rendered (that is, for which the requisite service period has been completed).
+
+55 Implementation Guidance and Illustrations
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+General
+> Implementation Guidance
+718-50-55-1
+This Section may contain summaries or references to specific tax code or other regulations that existed at the time that the standard was issued. The Financial Accounting Standards Board (FASB) does not monitor such code or regulations and assumes no responsibility for the current accuracy of the summaries or references. Users must evaluate such code or regulations to determine consistency of the current code or regulation with that presented.
+· > Variations on Basic Look-Back Plans
+718-50-55-2
+The following are some of the more common types of employee share purchase plans with a look-back option that currently exist and the features that differentiate each type:
+aType A plan—Maximum number of shares. This type of plan permits an employee to have withheld a fixed amount of dollars from the employee's salary (or a stated percentage of the employee's salary) over a one-year period to purchase stock. At the end of the one-year period, the employee may purchase stock at 85 percent of the lower of the grant date stock price or the exercise date stock price. If the exercise date stock price is lower than the grant date stock price, the employee may not purchase additional shares (that is, the maximum number of shares that may be purchased by an employee is established at the grant date based on the stock price at that date and the employee's elected withholdings); any excess cash is refunded to the employee. This is the basic type of employee share purchase plan shown in Example 1, Case A [see paragraph 718-50-55-10]).
+bType B plan—Variable number of shares. This type of plan is the same as the Type A plan except that the employee may purchase as many shares as the full amount of the employee's withholdings will permit, regardless of whether the exercise date stock price is lower than the grant date stock price (see Example 1, Case B [paragraph 718-50-55-22]).
+cType C plan—Multiple purchase periods. This type of plan permits an employee to have withheld a fixed amount of dollars from the employee's salary (or a stated percentage of the employee's salary) over a two-year period to purchase stock. At the end of each six-month period, the employee may purchase stock at 85 percent of the lower of the grant date stock price or the exercise date stock price based on the amount of dollars withheld during that period (see Example 1, Case C [paragraph 718-50-55-26]).
+dType D plan—Multiple purchase periods with a reset mechanism. This type of plan is the same as the Type C plan except that the plan contains a reset feature if the market price of the stock at the end of any six-month purchase period is lower than the stock price at the original grant date. In that case, the plan resets so that during the next purchase period an employee may purchase stock at 85 percent of the lower of the stock price at either the beginning of the purchase period (rather than the original grant date price) or the exercise date (see Example 1, Case D [paragraph 718-50-55-28]).
+eType E plan—Multiple purchase periods with a rollover mechanism. This type of plan is the same as the Type C plan except that the plan contains a rollover feature if the market price of the stock at the end of any six-month purchase period is lower than the stock price at the original grant date. In that case, the plan is immediately cancelled after that purchase date, and a new two-year plan is established using the then-current stock price as the base purchase price (see Example 1, Case D [paragraph 718-50-55-28])
+fType F plan—Multiple purchase periods with semifixed withholdings. This type of plan is the same as the Type C plan except that the amount (or percentage) that the employee may elect to have withheld is not fixed and may be changed (increased or decreased) at the employee's election immediately after each six-month purchase date for purposes of all future withholdings under the plan (see Example 1, Case D [paragraph 718-50-55-28]).
+gType G plan—Single purchase period with variable withholdings. This type of plan permits an employee to have withheld an amount of dollars from the employee's salary (or a stated percentage of the employee's salary) over a one-year period to purchase stock. That amount (or percentage) is not fixed and may be changed (increased or decreased) at the employee's election at any time during the term of the plan for purposes of all future withholdings under the plan. At the end of the one-year period, the employee may purchase stock at 85 percent of the lower of the grant date stock price or the exercise date stock price (see Example 1, Case D [paragraph 718-50-55-28]).
+hType H plan—Multiple purchase periods with variable withholdings. This type of plan combines the characteristics of the Type C and Type G plans in that there are multiple purchase periods over the term of the plan and an employee is permitted to change (increase or decrease) withholding amounts (or percentages) at any time during the term of the plan for purposes of all future withholdings under the plan (see Example 1, Case D [paragraph 718-50-55-28]).
+iType I plan—Single purchase period with variable withholdings and cash infusions. This type of plan is the same as the Type G plan except that an employee is permitted to remit catch-up amounts to the entity when (and if) the employee increases withholding amounts (or percentages). The objective of the cash infusion feature is to permit an employee to increase withholding amounts (or percentages) during the term of the plan and remit an amount to the entity such that, on the exercise date, it appears that the employee had participated at the new higher amount (or percentage) during the entire term of the plan (see Example 1, Case E [paragraph 718-50-55-32]).
+718-50-55-3
+The distinguishing characteristic between the Type A plan and the Type B plan is whether the maximum number of shares that an employee is permitted to purchase is fixed at the grant date based on the stock price at that date and the expected withholdings. Each of the remaining plans described above (Type C through Type I plans) incorporates the features of either a Type A plan or a Type B plan. The above descriptions are intended to be representative of the types of features commonly found in many existing plans. The accounting guidance in this Subtopic shall be applied to all plans with characteristics similar to those described above.
+718-50-55-4
+The measurement approach described in Example 1, Case A (see paragraph 718-50-55-10) was developed to illustrate how the fair value of an award under a basic type of employee share purchase plan with a look-back option could be determined at the grant date by focusing on the substance of the arrangement and valuing separately each feature of the award. Although that general technique of valuing an award as the sum of the values of its separate components applies to all types of employee share purchase plans with a look-back option, the fundamental components of an award may differ from plan to plan thus affecting the individual calculations. For example, the measurement approach described in that Case assumes that the maximum number of shares that an employee may purchase is fixed at the grant date based on the grant date stock price and the employee's elected withholdings (that is, the Type A plan described in paragraph 718-50-55-2). That approach needs to be modified to appropriately determine the fair value of awards under the other types of plans described in that paragraph, including a Type B plan, that do not fix the number of shares that an employee is permitted to purchase.
+718-50-55-5
+Although many employee share purchase plans with a look-back option initially limit the maximum number of shares of stock that the employee is permitted to purchase under the plan (Type A plans), other employee share purchase plans (Type B plans) do not fix the number of shares that the employee is permitted to purchase if the exercise date stock price is lower than the grant date stock price. In effect, an employee share purchase plan that does not fix the number of shares that may be purchased has guaranteed that the employee can always receive the value associated with at least 15 percent of the stock price at the grant date (the employee can receive much more than 15 percent of the grant date value of the stock if the stock appreciates during the look-back period). That provision provides the employee with the equivalent of a put option on 15 percent of the shares with an exercise price equal to the stock price at the grant date. In contrast, an employee who participates in a Type A plan is only guaranteed 15 percent of the lower of the stock price as of the grant date or the exercise date, which is the equivalent of a call option on 85 percent of the shares (as described more fully in paragraph 718-50-55-16). A participant in a Type B plan receives the equivalent of both a put option and a call option.
+> Illustrations
+· > Example 1: Look-Back Plans
+718-50-55-6
+The following Cases illustrate the guidance in paragraphs 718-50-30-1 through 30-2.
+718-50-55-7
+The following Cases illustrate the fundamental differences between different types of look back plans:
+aBasic look-back plans (Case A)
+bLook-back plan variable versus maximum number of shares (Case B)
+cLook-back plan with multiple purchase periods (Case C)
+dLook-back plans with reset or rollover mechanisms (Case D)
+eLook-back plans with retroactive cash infusion election (Case E).
+718-50-55-8
+The assumptions used for the numerical calculations in Cases B—E are not intended to be the same as those in Case A. Rather, they are independent and designed to illustrate how the component measurement approach in Case A would be modified to reflect various features of employee stock purchase plans.
+718-50-55-9
+This Example does not take into consideration the effect of interest forgone by the employee on the fair value of an award for which the exercise price is paid over time (for instance, through payroll withholdings). Awards for which part or all of the exercise price is paid before the exercise date are less valuable than awards for which the exercise price is paid at the exercise date, and it is appropriate to recognize that difference in applying the guidance in this Subtopic. However, for simplicity, the effect of forgone interest is not reflected in the fair value calculations in this Example.
+· · > Case A: Basic Look-Back Plans
+718-50-55-10
+Some entities offer share options to employees under Section 423 of the U.S. Internal Revenue Code, which provides that employees will not be immediately taxed on the difference between the market price of the stock and a discounted purchase price if several requirements are met. One requirement is that the exercise price may not be less than the smaller of either:
+a85 percent of the stock's market price when the share option is granted
+b85 percent of the price at exercise.
+718-50-55-11
+A share option that provides the employee the choice of either option above may not have a term in excess of 27 months. Share options that provide for the more favorable of two (or more) exercise prices are referred to as look-back share options. A look-back share option with a 15 percent discount from the market price at either grant or exercise is worth more than a fixed share option to purchase stock at 85 percent of the current market price because the holder of the look-back share option is assured a benefit. If the share price rises, the holder benefits to the same extent as if the exercise price was fixed at the grant date. If the share price falls, the holder still receives the benefit of purchasing the stock at a 15 percent discount from its price at the date of exercise. An employee share purchase plan offering share options with a look-back feature would be compensatory because the look-back feature is an option feature (see paragraph 718-50-25-1).
+718-50-55-12
+For example, on January 1, 20X5, when its share price is $30, Entity A offers its employees the opportunity to sign up for a payroll deduction to purchase its stock at either 85 percent of the share's current price or 85 percent of the price at the end of the year when the share options expire, whichever is lower. The exercise price of the share options is the lesser of $25.50 ($30 ×.85) or 85 percent of the share price at the end of the year when the share options expire.
+718-50-55-13
+The look-back share option can be valued as a combination position. (This Case presents one of several existing valuation techniques for estimating the fair value of a look-back option. In accordance with this Topic, an entity shall use a valuation technique that reflects the substantive characteristics of the instrument being granted in the estimate of fair value.) In this situation, the components are as follows:
+a0.15 of a share of nonvested stock
+b0.85 of a 1-year share option held with an exercise price of $30.
+718-50-55-14
+Supporting analysis for the two components is discussed below.
+718-50-55-15
+Beginning with the first component, a share option with an exercise price that equals 85 percent of the value of the stock at the exercise date will always be worth 15 percent (100% - 85%) of the share price upon exercise. For a stock that pays no dividends, that share option is the equivalent of 15 percent of a share of the stock. The holder of the look-back share option will receive at least the equivalent of 0.15 of a share of stock upon exercise, regardless of the share price at that date. For example, if the share price falls to $20, the exercise price of the share option will be $17 ($20 ×.85), and the holder will benefit by $3 ($20 - $17), which is the same as receiving 0.15 of a share of stock for each share option.
+718-50-55-16
+If the share price upon exercise is more than $30, the holder of the look-back share option receives a benefit that is worth more than 15 percent of a share of stock. At prices of $30 or more, the holder receives a benefit for the difference between the share price upon exercise and $25.50—the exercise price of the share option (.85 × $30). If the share price is $40, the holder benefits by $14.50 ($40 - $25.50). However, the holder cannot receive both the $14.50 value of a share option with an exercise price of $25.50 and 0.15 of a share of stock. In effect, the holder gives up 0.15 of a share of stock worth $4.50 ($30 ×.15) if the share price is above $30 at exercise. The result is the same as if the exercise price of the share option was $30 ($25.50 + $4.50) and the holder of the look-back share option held 85 percent of a 1-year share option with an exercise price of $30 in addition to 0.15 of a share of stock that will be received if the share price is $30 or less upon exercise.
+718-50-55-17
+An option-pricing model can be used to value the 1-year share option on 0.85 of a share of stock represented by the second component. Thus, assuming that the fair value of a share option on one share of Entity A's stock on the grant date is $4, the compensation cost for the look-back option at the grant date is as follows.
+718-50-55-18
+For a look-back option on a dividend-paying share, both the value of the nonvested stock component and the value of the share option component would be adjusted to reflect the effect of the dividends that the employee does not receive during the life of the share option. The present value of the dividends expected to be paid on the stock during the life of the share option (one year in this Case) would be deducted from the value of a share that receives dividends. One way to accomplish that is to base the value calculation on shares of stock rather than dollars by assuming that the dividends are reinvested in the stock.
+718-50-55-19
+For example, if Entity A pays a quarterly dividend of 0.625 percent (2.5% ÷ 4) of the current share price, 1 share of stock would grow to 1.0252 (the future value of 1 using a return of 0.625 percent for 4 periods) shares at the end of the year if all dividends are reinvested. Therefore, the present value of 1 share of stock to be received in 1 year is only 0.9754 of a share today (again applying conventional compound interest formulas compounded quarterly) if the holder does not receive the dividends paid during the year.
+718-50-55-20
+The value of the share option component is easier to compute; the appropriate dividend assumption is used in an option-pricing model in estimating the value of a share option on a whole share of stock. Thus, assuming the fair value of the share option is $3.60, the compensation cost for the look-back share option if Entity A pays quarterly dividends at the annual rate of 2.5 percent is as follows.
+718-50-55-21
+The first component, which is worth $4.39 at the grant date, is the minimum amount of benefits to the holder regardless of the price of the stock at the exercise date. The second component, worth $3.06 at the grant date, represents the additional benefit to the holder if the share price is above $30 at the exercise date.
+· · > Case B: Look-Back Plan Variable versus Maximum Number of Shares
+718-50-55-22
+On January 1, 20X0, when its stock price is $50, Entity A offers its employees the opportunity to sign up for a payroll deduction to purchase its stock at the lower of either 85 percent of the stock's current price or 85 percent of the stock price at the end of the year when the options expire. Thus, the exercise price of the options is the lesser of $42.50 ($50x 85 percent) or 85 percent of the stock price at the end of the year when the option is exercised. Two employees each agree to have $4,250 withheld from their salaries; however, Employee A is not allowed to purchase any more shares than the $4,250 would buy on the grant date (that is, 100 shares [$4,250/$42.50]) and Employee B is permitted to buy as many shares as the $4,250 will permit under the terms of the plan. In both cases, the 15 percent purchase price discount at the grant date is worth $750 (100 shares x $50 x 15 percent). Depending on the stock price at the end of the year, the value of the 15 percent discount for each employee is as follows.
+718-50-55-23
+As illustrated above, both awards provide the same value to the employee if the stock price at the exercise date has increased (or remained unchanged) from the grant date stock price. However, the award under the Type B plan is more valuable to the employee if the stock price at the exercise date has decreased from the grant date stock price because it guarantees that the employee always will receive at least 15 percent of the stock price at the grant date, whereas the award under the Type A plan only guarantees that the employee will receive 15 percent of the ultimate (lower) stock purchase price.
+718-50-55-24
+Using the component measurement approach described in Case A as the base, the additional feature associated with a Type B plan that shall be included in the fair value calculation is 15 percent of a put option on the employer's stock (valued by use of a standard option-pricing model, using the same measurement assumptions that were used to value the 85 percent of a call option). If the plan in that Case had the provisions of a Type B plan (that is, a plan that does not fix the number of shares that may be purchased), the fair value of the award would be calculated at the grant date as follows.
+With the same values the fair value of the Type A employee share purchase plan award described in Case A is determined as follows:
+718-50-55-25
+In Cases B through E, total compensation cost would be measured at the grant date based on the number of shares that can be purchased using the estimated total withholdings and market price of the stock as of the grant date, and not based on the potentially greater number of shares that may ultimately be purchased if the market price declines. In other words, assume that on January 1, 20X0, Employee A elects to have $850 withheld from his pay for the year to purchase stock. Total compensation cost for the Type B plan award to Employee A would be $291 ($14.57x 20 grant-date-based shares [$850/$42.50]). For purposes of determining the number of shares on which to measure compensation cost, the stock price as of the grant date less the discount, or $50 x 85 percent in this case, is used.
+· · > Case C: Look-Back Plan with Multiple Purchase Periods
+718-50-55-26
+In substance, an employee share purchase plan with multiple purchase periods (a Type C plan) is a series of linked awards, similar in nature to how some view a graded vesting stock option plan. Accordingly, the fair value of an award under an employee share purchase plan with multiple purchase periods shall be determined at the grant date in the same manner as an award under a graded vesting stock option plan. Under the graded vesting approach, awards under a two-year plan with purchase periods at the end of each year would be valued as having two separate option tranches both starting on the initial grant date (using the Case A approach if the plan has the characteristics of a Type A plan or using the Case B approach if the plan has the characteristics of a Type B plan) but with different lives of 12 and 24 months, respectively. All other measurement assumptions would need to be consistent with the separate lives of each tranche.
+718-50-55-27
+For example, if the plan in Case A was a two-year Type C plan with purchase periods at the end of each year, the fair value of each tranche of the award would be calculated at the grant date as follows.
+· · > Case D: Look-Back Plans with Reset or Rollover Mechanisms
+718-50-55-28
+The basic measurement approach described in Case C for a Type C plan also should be used to value awards under employee share purchase plans with multiple purchase periods that incorporate reset or rollover mechanisms (that is, Type D and Type E plans). The fair value of those awards initially can be determined at the grant date using the graded vesting measurement approach. However, at the date that the reset or rollover mechanism becomes effective, the terms of the award have been modified (the exercise price has been decreased and, for a grant under a Type E plan, the term of the award has been extended), which, in substance, is similar to an exchange of the original award for a new award with different terms. Share-based payment modification accounting (see paragraphs 718-20-35-3 through 35-9) shall be applied at the date that the reset or rollover mechanism becomes effective to determine the amount of any incremental fair value associated with the modified grant.
+718-50-55-29
+Likewise, although not a change to the terms of the employee share purchase plan, an election by an employee to increase withholding amounts (or percentages) for future services (Type F through Type H plans) is a modification of the terms of the award to that employee, which, in substance, is similar to an exchange of the original award for a new award with different terms. Accordingly, the fair value of an award under an employee share purchase plan with variable withholdings shall be determined at the grant date (using the Type A, Type B, or Type C measurement approach, as applicable) based on the estimated amounts (or percentages) that a participating employee initially elects to withhold under the terms of the plan. After the grant date (except as noted in paragraph 718-50-35-1), any increases in withholding amounts (or percentages) for future services shall be accounted for as a plan modification in accordance with the guidance in paragraph 718-20-35-3.
+718-50-55-30
+To illustrate, if the plan described in Case C allowed an employee to elect to change withholdings at the end of the first year, modification accounting would be applied at the date the employee elected to increase withholdings to determine the amount, if any, of incremental compensation cost. Assume that on January 1, 20X0, Employee A initially elected to have $850 per year withheld from his pay for each purchase period. However, at the end of Year 1 when the stock price is $60 (and assume that no other factors have changed), Employee A elects to have a total of $1,275 withheld for the second purchase period. At that date, $1,275 is equivalent to 30 shares eligible for purchase at the end of the second year ($1,275/$42.50). At the date Employee A elects to increase withholdings, modification accounting shall be applied to determine the amount of any incremental fair value associated with the modified award as follows.
+718-50-55-31
+The incremental value is determined based on the fair value measurements at the date of the modification using the then-current stock price. To simplify the illustration, the fair value at the modification date is based on the same assumptions about volatility, the risk-free interest rate, and expected dividend yield as at the grant date.
+· · > Case E: Look-Back Plans with Retroactive Cash Infusion Election
+718-50-55-32
+As with all employee share purchase plans, the objective of the measurement process for employee share purchase plans with a look-back option is to reasonably measure the fair value of the award at the grant date. Unlike Type F through Type H plans, which permit an employee to increase withholding amounts (or percentages) only prospectively, the Type I plan permits an employee to make a retroactive election to increase withholdings. Under a Type I plan, an employee may elect not to participate (or to participate at a minimal level) in the plan until just before the exercise date, thus making it difficult to determine when there truly is a mutual understanding of the terms of the award, and thus the date at which the grant occurs. For example, assume that the Type A employee share purchase plan in Case A permits an employee to remit catch-up amounts (up to a maximum aggregate withholding of 15 percent of annual salary) to Entity A at any time during the term of the plan. On January 1, 20X0, Employee A elects to participate in the plan by having $100 (0.04 percent) of her $250,000 salary withheld monthly from her pay over the year. On December 20, 20X0, when the stock price is $65, Employee A elects to remit a check to Entity A for $36,300, which, together with the $1,200 withheld during the year, represents 15 percent of her salary.
+718-50-55-33
+In that situation, December 20, 20X0 is the date at which Entity A and Employee A have a mutual understanding of the terms of the award in exchange for the services already rendered and Entity A becomes contingently obligated to issue equity instruments to Employee A upon the fulfillment of vesting requirements. The fair value of the entire award to Employee A is therefore measured as of December 20, 20X0.
+· > Example 2: Limitations for Noncompensatory Treatment
+718-50-55-34
+Paragraph 718-50-25-1 stipulates the criteria that an employee share purchase plan must satisfy to be considered noncompensatory. One of those criteria specifies that substantially all employees that meet limited employment qualifications may participate on an equitable basis. Examples of limited employment qualifications might include customary employment of greater than 20 hours per week or completion of at least 6 months of service.
+718-50-55-35
+Another criterion is that the terms are no more favorable than those available to all holders of the same class of shares. For example, Entity A offers all full-time employees and all nonemployee shareholders the right to purchase $10,000 of its common stock at a 5 percent discount from its market price at the date of purchase, which occurs in 1 month. The arrangement is not compensatory because its terms are no more favorable than those available to all holders of the same class of shares. In contrast, assume Entity B has a dividend reinvestment program that permits shareholders of its common stock the ability to reinvest dividends by purchasing shares of its common stock at a 10 percent discount from its market price on the date that dividends are distributed and Entity B offers all full-time employees the right to purchase annually up to $10,000 of its common stock at a 10 percent discount from its market price on the date of purchase. Entity B's common stock is widely held; hence, many shareholders will not receive dividends totaling at least $10,000 during the annual period. Assuming that the 10 percent discount cannot be justified as the per-share amount of share issuance costs that would have been incurred to raise a significant amount of capital by a public offering, the arrangement is compensatory because the number of shares available to shareholders at a discount is based on the quantity of shares held and the amounts of dividends declared. Whereas, the number of shares available to employees at a discount is not dependent on shares held or declared dividends; therefore, the terms of the employee share purchase plan are more favorable than the terms available to all holders of the same class of shares. Consequently, the entire 10 percent discount to employees is compensatory. If, on the other hand, the 10 percent discount can be justified as the per-share amount of share issuance costs that would have been incurred to raise a significant amount of capital by a public offering, then the entire 10 percent discount to employees is not compensatory. If an entity justifies a purchase discount in excess of 5 percent, it would be required to reassess that discount at least annually and no later than the first share purchase offer during the fiscal year. If upon reassessment that discount is not deemed justifiable, subsequent grants using that discount would be compensatory.
+
+About
+Help
+Contact Us
+Copyright
+Terms and Conditions
+FASB.org
+Expenses
+71X Compensation
+718 Compensation—Stock Compensation
+Print
+keyboard_arrow_up
+Display
+keyboard_arrow_up

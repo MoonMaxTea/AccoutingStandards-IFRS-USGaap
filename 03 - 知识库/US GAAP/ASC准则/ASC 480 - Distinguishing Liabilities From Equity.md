@@ -1,0 +1,812 @@
+---
+tags: [us-gaap, asc-480]
+standard: ASC 480
+source: FASB ASC
+source_url: https://asc.fasb.org/480/showallinonepage
+source_type: Codification
+import_method: cursor-ide-browser
+scraped_date: "2026-06-10"
+subtopics: ["480-10"]
+---
+
+# ASC 480 — Distinguishing Liabilities From Equity（负债与权益区分）
+
+---
+
+80 Distinguishing Liabilities from Equity
+10 Overall
+00 Status
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General
+480-10-00-1
+The following table identifies the changes made to this Subtopic.
+Paragraph	Action	Accounting Standards Update	Date
+			
+Financial Instrument	Amended	Accounting Standards Update No. 2024-02	03/29/2024
+Nonpublic Entity	Added	Accounting Standards Update No. 2017-11	07/13/2017
+Obligation	Amended	Accounting Standards Update No. 2024-02	03/29/2024
+Registration Payment Arrangement	Added	Accounting Standards Update No. 2016-19	12/14/2016
+Transfer (1st def.)	Amended	Accounting Standards Update No. 2024-02	03/29/2024
+			
+480-10-15-7	Superseded	Accounting Standards Update No. 2017-11	07/13/2017
+480-10-15-7	Amended	Accounting Standards Update No. 2016-19	12/14/2016
+480-10-15-7A through 15-7F	Added	Accounting Standards Update No. 2017-11	07/13/2017
+480-10-15-8	Amended	Accounting Standards Update No. 2018-07	06/20/2018
+480-10-15-8	Amended	Accounting Standards Update No. 2017-11	07/13/2017
+480-10-15-8A	Added	Accounting Standards Update No. 2017-11	07/13/2017
+480-10-45-2A	Amended	Maintenance Update 2018-12	09/10/2018
+480-10-45-2B	Amended	Maintenance Update 2018-12	09/10/2018
+480-10-55-6 through 55-9	Superseded	Accounting Standards Update No. 2017-11	07/13/2017
+480-10-55-55	Amended	Accounting Standards Update No. 2018-09	07/16/2018
+480-10-55-59	Amended	Accounting Standards Update No. 2018-09	07/16/2018
+480-10-65-1	Superseded	Accounting Standards Update No. 2017-11	07/13/2017
+
+05 Overview and Background
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+General
+480-10-05-1
+The Codification contains separate Topics for liabilities and equity, including a separate Topic for debt. The Distinguishing Liabilities from Equity Topic contains only the Overall Subtopic. This Subtopic establishes standards for how an issuer classifies and measures in its statement of financial position certain financial instruments with characteristics of both liabilities and equity. Section 480-10-25 requires that an issuer classify a financial instrument that is within its scope as a liability (or an asset in some circumstances) because that financial instrument embodies an obligation of the issuer.
+480-10-05-2
+All of the following are examples of an obligation:
+aAn entity incurs a conditional obligation to transfer assets by issuing (writing) a put option that would, if exercised, require the entity to repurchase its equity shares by physical settlement. (Further, an instrument that requires the issuer to settle its obligation by issuing another instrument [for example, a note payable in cash] ultimately requires settlement by a transfer of assets.)
+bAn entity incurs a conditional obligation to transfer assets by issuing a similar contract that requires or could require net cash settlement.
+cAn entity incurs a conditional obligation to issue its equity shares by issuing a similar contract that requires net share settlement.
+480-10-05-3
+In contrast, by issuing shares of stock, an entity generally does not incur an obligation to redeem the shares, and, therefore, that entity does not incur an obligation to transfer assets or issue additional equity shares. However, some issuances of stock (for example, mandatorily redeemable preferred stock) do impose obligations requiring the issuer to transfer assets or issue its equity shares.
+480-10-05-4
+For certain financial instruments, Section 480-10-25 requires consideration of whether monetary value would remain fixed or would vary in response to changes in market conditions.
+480-10-05-5
+How the monetary value of a financial instrument varies in response to changes in market conditions depends on the nature of the arrangement, including, in part, the form of settlement.
+480-10-05-6
+For purposes of this Subtopic, three related terms—shares, equity shares, and issuer's equity shares—are used in the particular ways defined in the glossary.
+
+10 Objectives
+General Note:The Objectives Section provides the high-level objectives that the Subtopic is intended to accomplish or attain. The Section does not summarize or discuss the main principles of accounting and reporting requirements.
+General
+480-10-10-1
+The objective of this Subtopic is to require issuers to classify as liabilities (or assets in some circumstances) three classes of freestanding financial instruments that embody obligations for the issuer.
+
+15 Scope and Scope Exceptions
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+General Note for Financial Instruments:Some of the items subject to the guidance in this Subtopic are financial instruments. For guidance on matters related broadly to all financial instruments, (including the fair value option, accounting for registration payment arrangements, and broad financial instrument disclosure requirements), see Topic 825. See Section 825-10-15 for guidance on the scope of the Financial Instruments Topic.
+General
+> Overall Guidance
+480-10-15-1
+The Scope Section of the Overall Subtopic establishes the pervasive scope for the Distinguishing Liabilities from Equity Topic.
+> Entities
+480-10-15-2
+The guidance in the Distinguishing Liabilities from Equity Topic applies to all entities.
+> Instruments
+480-10-15-3
+The guidance in the Distinguishing Liabilities from Equity Topic applies to any freestanding financial instrument, including one that has any of the following attributes:
+aComprises more than one option or forward contract
+bHas characteristics of both a liability and equity and, in some circumstances, also has characteristics of an asset (for example, a forward contract to purchase the issuer's equity shares that is to be net cash settled). Accordingly, this Topic does not address an instrument that has only characteristics of an asset.
+480-10-15-4
+For example, an instrument that consists of a written put option for an issuer's equity shares and a purchased call option and nothing else is a freestanding financial instrument (paragraphs 480-10-55-18 through 55-20 provide examples of such instruments). That freestanding financial instrument embodies an obligation to repurchase the issuer's equity shares and is subject to the requirements of this Topic.
+480-10-15-5
+Because paragraph 480-10-15-3 limits the scope of this Topic to freestanding instruments, this Topic does not apply to a feature embedded in a financial instrument that is not a derivative instrument in its entirety.
+480-10-15-6
+Paragraphs 480-10-55-53 through 55-58 apply to the specific circumstances described by those paragraphs in which a majority owner enters into a transaction in the shares of a consolidated subsidiary and a derivative instrument indexed to the noncontrolling interest in that subsidiary.
+480-10-15-7
+Paragraph superseded by Accounting Standards Update No. 2017-11.
+· > Instruments Not within Scope of Certain Classification, Measurement, and Disclosure Provisions of This Subtopic
+· · > Certain Mandatorily Redeemable Financial Instruments of Nonpublic Entities
+480-10-15-7A
+The classification, measurement, and disclosure guidance in this Subtopic does not apply to mandatorily redeemable financial instruments that meet both of the following:
+aThey are issued by nonpublic entities that are not Securities and Exchange Commission (SEC) registrants.
+bThey are mandatorily redeemable, but not on fixed dates or not for amounts that either are fixed or are determined by reference to an interest rate index, currency index, or another external index.
+480-10-15-7B
+Mandatorily redeemable financial instruments issued by an SEC registrant are not eligible for the scope exception in paragraph 480-10-15-7A, even if the entity meets the definition of a nonpublic entity.
+480-10-15-7C
+Some entities have issued shares that are required to be redeemed under related agreements. If the shares are issued with a redemption agreement and the required redemption relates to those specific underlying shares, the shares are mandatorily redeemable. If an entity with such shares and redemption agreement is a nonpublic entity that is not an SEC registrant, those mandatorily redeemable shares meet the scope exception in paragraph 480-10-15-7A if they meet the conditions specified in that paragraph.
+480-10-15-7D
+Although the disclosure requirements of this Subtopic do not apply for those mandatorily redeemable instruments of certain nonpublic companies that meet the scope exception in paragraph 480-10-15-7A, the requirements of Subtopic 505-10 still apply. In particular, paragraph 505-10-50-3 requires information about the pertinent rights and privileges of the various securities outstanding, which includes mandatory redemption requirements. Paragraph 505-10-50-11 also requires disclosure of the amount of redemption requirements for all issues of stock that are redeemable at fixed or determinable prices on fixed or determinable dates in each of the next five years.
+· > Certain Mandatorily Redeemable Noncontrolling Interests
+480-10-15-7E
+The guidance in this Subtopic does not apply to mandatorily redeemable noncontrolling interests (of all entities, public and nonpublic) as follows:
+aThe classification and measurement provisions of this Subtopic do not apply to mandatorily redeemable noncontrolling interests that would not have to be classified as liabilities by the subsidiary, under the only upon liquidation exception in paragraphs 480-10-25-4 and 480-10-25-6, but would be classified as liabilities by the parent in consolidated financial statements.
+bThe measurement provisions of this Subtopic do not apply to other mandatorily redeemable noncontrolling interests that were issued before November 5, 2003, both for the parent in consolidated financial statements and for the subsidiary that issued the instruments that result in the mandatorily redeemable noncontrolling interest. For those instruments, the measurement guidance for redeemable shares and noncontrolling interests in other predecessor literature (for example, in paragraph 480-10-S99-3A) continues to apply.
+480-10-15-7F
+All public entities as well as nonpublic entities that are SEC registrants with mandatorily redeemable noncontrolling interests subject to the classification and measurement scope exception in paragraph 480-10-15-7E are required to follow the disclosure requirements in paragraphs 480-10-50-1 through 50-3 as well as disclosures required by other applicable guidance.
+> Topics and Subtopics Not within Scope
+· > Share-Based Compensation
+480-10-15-8
+The guidance in the Distinguishing Liabilities from Equity Topic does not apply to an obligation under share-based compensation arrangements if that obligation is accounted for under Topic 718. For example, employee stock ownership plan shares or freestanding agreements to repurchase those shares are not within the scope of this Topic because those shares are accounted for under Subtopic 718-40 through the point of redemption. However, this Topic does apply to a freestanding financial instrument that was issued under a share-based compensation arrangement but is no longer subject to Topic 718. For example, this Topic applies to a mandatorily redeemable share issued upon a grantee's exercise of a share option. (Topic 718 provides accounting guidance for dividends on allocated shares, redemption of shares, recognition of expense, and computing earnings per share [EPS].) However, employee stock ownership plan shares that are mandatorily redeemable or freestanding agreements to repurchase those shares continue to be subject to other applicable guidance related to Subtopic 718-40.
+· > Registration Payment Arrangements
+480-10-15-8A
+The guidance in this Topic does not apply to the following instruments:
+aRegistration payment arrangements within the scope of Subtopic 825-20.
+· > Interaction with Business Combinations
+480-10-15-9
+Subtopic 805-30 provides guidance on the recognition and initial measurement of consideration issued in a business combination, including contingent consideration.
+aSubparagraph not used.
+bSubparagraph not used.
+480-10-15-10
+However, when recognized, a financial instrument within the scope of this Topic that is issued as consideration (whether contingent or noncontingent) in a business combination shall be classified pursuant to the requirements of this Topic.
+
+20 Glossary
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+Employee Stock Ownership Plan
+An employee stock ownership plan is an employee benefit plan that is described by the Employee Retirement Income Security Act of 1974 and the Internal Revenue Code of 1986 as a stock bonus plan, or combination stock bonus and money purchase pension plan, designed to invest primarily in employer stock. Also called an employee share ownership plan.
+Equity Shares
+Equity shares refers only to shares that are accounted for as equity.
+Fair Value
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+Financial Instrument
+Cash, evidence of an ownership interest in an entity, or a contract that both:
+aImposes on one entity a contractual obligation either:
+1To deliver cash or another financial instrument to a second entity
+2To exchange other financial instruments on potentially unfavorable terms with the second entity.
+bConveys to that second entity a contractual right either:
+1To receive cash or another financial instrument from the first entity
+2To exchange other financial instruments on potentially favorable terms with the first entity.
+The use of the term financial instrument in this definition is recursive (because the term financial instrument is included in it), though it is not circular. The definition requires a chain of contractual obligations that ends with the delivery of cash or an ownership interest in an entity. Any number of obligations to deliver financial instruments can be links in a chain that qualifies a particular contract as a financial instrument.
+Contractual rights and contractual obligations encompass both those that are conditioned on the occurrence of a specified event and those that are not. All contractual rights (contractual obligations) that are financial instruments meet the definition of asset (liability) set forth in FASB Concepts Statement No. 6, Elements of Financial Statements, although some may not be recognized as assets (liabilities) in financial statements—that is, they may be off-balance-sheet—because they fail to meet some other criterion for recognition.
+For some financial instruments, the right is held by or the obligation is due from (or the obligation is owed to or by) a group of entities rather than a single entity.
+PENDING CONTENT
+Transition Date: December 16, 2024;  December 16, 2025Transition Guidance:105-10-65-9
+Cash, evidence of an ownership interest in an entity, or a contract that both:
+aImposes on one entity a contractual obligation either:
+1To deliver cash or another financial instrument to a second entity
+2To exchange other financial instruments on potentially unfavorable terms with the second entity.
+bConveys to that second entity a contractual right either:
+1To receive cash or another financial instrument from the first entity
+2To exchange other financial instruments on potentially favorable terms with the first entity.
+The use of the term financial instrument in this definition is recursive (because the term financial instrument is included in it), though it is not circular. The definition requires a chain of contractual obligations that ends with the delivery of cash or an ownership interest in an entity. Any number of obligations to deliver financial instruments can be links in a chain that qualifies a particular contract as a financial instrument.
+Contractual rights and contractual obligations encompass both those that are conditioned on the occurrence of a specified event and those that are not. Some contractual rights (contractual obligations) that are financial instruments may not be recognized in financial statements—that is, they may be off-balance-sheet—because they fail to meet some other criterion for recognition.
+For some financial instruments, the right is held by or the obligation is due from (or the obligation is owed to or by) a group of entities rather than a single entity.
+Freestanding Financial Instrument
+A financial instrument that meets either of the following conditions:
+aIt is entered into separately and apart from any of the entity's other financial instruments or equity transactions.
+bIt is entered into in conjunction with some other transaction and is legally detachable and separately exercisable.
+Issuer
+The entity that issued a financial instrument or may be required under the terms of a financial instrument to issue its equity shares.
+Issuer's Equity Shares
+The equity shares of any entity whose financial statements are included in the consolidated financial statements.
+Mandatorily Redeemable Financial Instrument
+Any of various financial instruments issued in the form of shares that embody an unconditional obligation requiring the issuer to redeem the instrument by transferring its assets at a specified or determinable date (or dates) or upon an event that is certain to occur.
+Market Participants
+Buyers and sellers in the principal (or most advantageous) market for the asset or liability that have all of the following characteristics:
+aThey are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+bThey are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
+cThey are able to enter into a transaction for the asset or liability
+dThey are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
+Monetary Value
+What the fair value of the cash, shares, or other instruments that a financial instrument obligates the issuer to convey to the holder would be at the settlement date under specified market conditions.
+Net Cash Settlement
+A form of settling a financial instrument under which the entity with a loss delivers to the entity with a gain cash equal to the gain.
+Net Share Settlement
+A form of settling a financial instrument under which the entity with a loss delivers to the entity with a gain shares of stock with a current fair value equal to the gain.
+Noncontrolling Interest
+The portion of equity (net assets) in a subsidiary not attributable, directly or indirectly, to a parent. A noncontrolling interest is sometimes called a minority interest.
+Nonpublic Entity
+Any entity other than one that meets any of the following criteria:
+aHas equity securities that trade in a public market either on a stock exchange (domestic or foreign) or in an over-the-counter market, including securities quoted only locally or regionally
+bMakes a filing with a regulatory agency in preparation for the sale of any class of equity securities in a public market
+cIs controlled by an entity covered by the preceding criteria.
+An entity that has only debt securities trading in a public market (or that has made a filing with a regulatory agency in preparation to trade only debt securities) is a nonpublic entity.
+Obligation
+A conditional or unconditional duty or responsibility to transfer assets or to issue equity shares. Because Topic 480 relates only to financial instruments and not to contracts to provide services and other types of contracts, but includes duties or responsibilities to issue equity shares, this definition of obligation differs from the definition found in FASB Concepts Statement No. 6, Elements of Financial Statements, and is applicable only for items in the scope of that Topic.
+PENDING CONTENT
+Transition Date: December 16, 2024;  December 16, 2025Transition Guidance:105-10-65-9
+A conditional or unconditional duty or responsibility to transfer assets or to issue equity shares. This definition is applicable only for items within the scope of Topic 480.
+Orderly Transaction
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+Parent
+An entity that has a controlling financial interest in one or more subsidiaries. (Also, an entity that is the primary beneficiary of a variable interest entity.)
+Physical Settlement
+A form of settling a financial instrument under which both of the following conditions are met:
+aThe party designated in the contract as the buyer delivers the full stated amount of cash or other financial instruments to the seller.
+bThe seller delivers the full stated number of shares of stock or other financial instruments or nonfinancial instruments to the buyer.
+Registration Payment Arrangement
+An arrangement with both of the following characteristics:
+aIt specifies that the issuer will endeavor to do either of the following:
+1File a registration statement for the resale of specified financial instruments and/or for the resale of equity shares that are issuable upon exercise or conversion of specified financial instruments and for that registration statement to be declared effective by the U.S. Securities and Exchange Commission (SEC) (or other applicable securities regulator if the registration statement will be filed in a foreign jurisdiction) within a specified grace period
+2Maintain the effectiveness of the registration statement for a specified period of time (or in perpetuity).
+bIt requires the issuer to transfer consideration to the counterparty if the registration statement for the resale of the financial instrument or instruments subject to the arrangement is not declared effective or if effectiveness of the registration statement is not maintained. That consideration may be payable in a lump sum or it may be payable periodically, and the form of the consideration may vary. For example, the consideration may be in the form of cash, equity instruments, or adjustments to the terms of the financial instrument or instruments that are subject to the registration payment arrangement (such as an increased interest rate on a debt instrument).
+Related Parties
+Related parties include:
+aAffiliates of the entity
+bEntities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
+cTrusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
+dPrincipal owners of the entity and members of their immediate families
+eManagement of the entity and members of their immediate families
+fOther parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
+gOther parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
+Securities and Exchange Commission Registrant
+An entity (or an entity that is controlled by an entity) that meets any of the following criteria:
+aIt has issued or will issue debt or equity securities that are traded in a public market (a domestic or foreign stock exchange or an over-the-counter market, including local or regional markets).
+bIt is required to file financial statements with the Securities and Exchange Commission (SEC).
+cIt provides financial statements for the purpose of issuing any class of securities in a public market.
+Shares
+Shares includes various forms of ownership that may not take the legal form of securities (for example, partnership interests), as well as other interests, including those that are liabilities in substance but not in form. (Business entities have interest holders that are commonly known by specialized names, such as stockholders, partners, and proprietors, and by more general names, such as investors, but all are encompassed by the descriptive term owners. Equity of business entities is, thus, commonly known by several names, such as owners' equity, stockholders' equity, ownership, equity capital, partners' capital, and proprietorship. Some entities [for example, mutual organizations] do not have stockholders, partners, or proprietors in the usual sense of those terms but do have participants whose interests are essentially ownership interests, residual interests, or both.)
+Subsidiary
+An entity, including an unincorporated entity such as a partnership or trust, in which another entity, known as its parent, holds a controlling financial interest. (Also, a variable interest entity that is consolidated by a primary beneficiary.)
+Transfer
+The term transfer is used in a broad sense consistent with its use in FASB Concepts Statement No. 6, Elements of Financial Statements (such as in paragraph 137), rather than in the narrow sense in which it is used in Subtopic 860-10.
+PENDING CONTENT
+Transition Date: December 16, 2024;  December 16, 2025Transition Guidance:105-10-65-9
+The term transfer is used in a broad sense, rather than in the narrow sense in which it is used in Subtopic 860-10.
+Variable-Rate Forward Contracts
+Variable-rate forward contracts are commonly used to effect equity forward transactions. The contract price on those forward contracts is not fixed at inception but varies based on changes in a specified index (for example, three-month U.S. London Interbank Offered Rate [LIBOR]) during the life of the contract.
+
+25 Recognition
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+General Note for Fair Value Option:Some of the items subject to the guidance in this Subtopic may qualify for application of the Fair Value Option Subsections of Subtopic 825-10. Those Subsections (see paragraph 825-10-05-5) address circumstances in which entities may choose, at specified election dates, to measure eligible items at fair value (the fair value option). See Section 825-10-15 for guidance on the scope of the Fair Value Option Subsections of the Financial Instruments Topic.
+General
+480-10-25-1
+The guidance in this Section shall be applied to a freestanding financial instrument in its entirety. Any nonsubstantive or minimal features shall be disregarded in applying the classification provisions of this Section. Judgment, based on consideration of all the terms of an instrument and other relevant facts and circumstances, is necessary to distinguish substantive, nonminimal features from nonsubstantive or minimal features.
+480-10-25-2
+For purposes of applying paragraph 815-10-15-74(a) in analyzing an embedded feature as though it were a separate instrument, paragraphs 480-10-25-4 through 25-14 shall not be applied to the embedded feature. Embedded features shall be analyzed by applying other applicable guidance.
+480-10-25-3
+Paragraph not used.
+> Mandatorily Redeemable Financial Instruments
+480-10-25-4
+A mandatorily redeemable financial instrument shall be classified as a liability unless the redemption is required to occur only upon the liquidation or termination of the reporting entity.
+480-10-25-5
+A financial instrument that embodies a conditional obligation to redeem the instrument by transferring assets upon an event not certain to occur becomes mandatorily redeemable if that event occurs, the condition is resolved, or the event becomes certain to occur.
+480-10-25-6
+In determining if an instrument is mandatorily redeemable, all terms within a redeemable instrument shall be considered. The following items do not affect the classification of a mandatorily redeemable financial instrument as a liability:
+aA term extension option
+bA provision that defers redemption until a specified liquidity level is reached
+cA similar provision that may delay or accelerate the timing of a mandatory redemption.
+480-10-25-7
+If a financial instrument will be redeemed only upon the occurrence of a conditional event, redemption of that instrument is conditional and, therefore, the instrument does not meet the definition of mandatorily redeemable financial instrument in this Subtopic. However, that financial instrument would be assessed at each reporting period to determine whether circumstances have changed such that the instrument now meets the definition of a mandatorily redeemable instrument (that is, the event is no longer conditional). If the event has occurred, the condition is resolved, or the event has become certain to occur, the financial instrument is reclassified as a liability.
+> Obligations to Repurchase Issuer's Equity Shares by Transferring Assets
+480-10-25-8
+An entity shall classify as a liability (or an asset in some circumstances) any financial instrument, other than an outstanding share, that, at inception, has both of the following characteristics:
+aIt embodies an obligation to repurchase the issuer's equity shares, or is indexed to such an obligation.
+bIt requires or may require the issuer to settle the obligation by transferring assets.
+480-10-25-9
+In this Subtopic, indexed to is used interchangeably with based on variations in the fair value of. The phrase requires or may require encompasses instruments that either conditionally or unconditionally obligate the issuer to transfer assets. If the obligation is conditional, the number of conditions leading up to the transfer of assets is irrelevant.
+480-10-25-10
+Examples of financial instruments that meet the criteria in paragraph 480-10-25-8 include forward purchase contracts or written put options on the issuer's equity shares that are to be physically settled or net cash settled.
+480-10-25-11
+All obligations that permit the holder to require the issuer to transfer assets result in liabilities, regardless of whether the settlement alternatives have the potential to differ.
+480-10-25-12
+Certain financial instruments that embody obligations that are liabilities within the scope of this Subtopic also may contain characteristics of assets but be reported as single items. Some examples include the following:
+aNet-cash-settled or net-share-settled forward purchase contracts
+bCertain combined options to repurchase the issuer's shares.
+Those instruments are classified as assets or liabilities initially or subsequently depending on the instrument's fair value on the reporting date.
+480-10-25-13
+An instrument that requires the issuer to settle its obligation by issuing another instrument (for example, a note payable in cash) ultimately requires settlement by a transfer of assets, accordingly:
+aWhen applying paragraphs 480-10-25-8 through 25-12, this also would apply for an instrument settled with another instrument that ultimately may require settlement by a transfer of assets (warrants for puttable shares).
+bIt is clear that a warrant for mandatorily redeemable shares would be a liability under this Subtopic.
+> Certain Obligations to Issue a Variable Number of Shares
+480-10-25-14
+A financial instrument that embodies an unconditional obligation, or a financial instrument other than an outstanding share that embodies a conditional obligation, that the issuer must or may settle by issuing a variable number of its equity shares shall be classified as a liability (or an asset in some circumstances) if, at inception, the monetary value of the obligation is based solely or predominantly on any one of the following:
+aA fixed monetary amount known at inception (for example, a payable settleable with a variable number of the issuer's equity shares)
+bVariations in something other than the fair value of the issuer's equity shares (for example, a financial instrument indexed to the Standard and Poor's S&P 500 Index and settleable with a variable number of the issuer's equity shares)
+cVariations inversely related to changes in the fair value of the issuer's equity shares (for example, a written put option that could be net share settled).
+See paragraph 480-10-55-21 for related implementation guidance.
+> Prohibition on Combining Freestanding Financial Instruments
+480-10-25-15
+A freestanding financial instrument that is within the scope of this Subtopic shall not be combined with another freestanding financial instrument in applying paragraphs 480-10-25-4 through 25-14 unless combination is required under the provisions of Topic 815. For example, a freestanding written put option that is classified as a liability under this Subtopic shall not be combined with an outstanding equity share.
+
+30 Initial Measurement
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+General
+> Mandatorily Redeemable Financial Instruments
+480-10-30-1
+Mandatorily redeemable financial instruments shall be measured initially at fair value.
+480-10-30-2
+If a conditionally redeemable instrument becomes mandatorily redeemable, upon reclassification the issuer shall measure that liability initially at fair value and reduce equity by the amount of that initial measure, recognizing no gain or loss.
+> Certain Physically Settled Forward Purchase Contracts
+480-10-30-3
+Forward contracts that require physical settlement by repurchase of a fixed number of the issuer's equity shares in exchange for cash shall be measured initially at the fair value of the shares at inception, adjusted for any consideration or unstated rights or privileges.
+480-10-30-4
+Two ways to obtain the adjusted fair value include:
+aDetermining the amount of cash that would be paid under the conditions specified in the contract if the shares were repurchased immediately
+bDiscounting the settlement amount, at the rate implicit at inception after taking into account any consideration or unstated rights or privileges that may have affected the terms of the transaction.
+480-10-30-5
+Equity shall be reduced by an amount equal to the fair value of the shares at inception.
+480-10-30-6
+Cash (as that term is used in paragraph 480-10-30-3) includes foreign currency, so physically settled forward purchase contracts in exchange for foreign currency shall be measured as provided in paragraphs 480-10-30-3 through 30-5 and 480-10-35-3, then remeasured under Topic 830.
+> All Other Financial Instruments
+480-10-30-7
+All other financial instruments recognized under the guidance in Section 480-10-25 shall be measured initially at fair value.
+
+35 Subsequent Measurement
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+General
+> Derivative Financial Instruments
+480-10-35-1
+Financial instruments within the scope of Topic 815 shall be measured subsequently as required by the provisions of that Topic.
+480-10-35-2
+Paragraph not used.
+> Certain Physically Settled Forward Purchase Contracts and Mandatorily Redeemable Financial Instruments
+480-10-35-3
+Forward contracts that require physical settlement by repurchase of a fixed number of the issuer's equity shares in exchange for cash and mandatorily redeemable financial instruments shall be measured subsequently in either of the following ways:
+aIf both the amount to be paid and the settlement date are fixed, those instruments shall be measured subsequently at the present value of the amount to be paid at settlement, accruing interest cost using the rate implicit at inception.
+bIf either the amount to be paid or the settlement date varies based on specified conditions, those instruments shall be measured subsequently at the amount of cash that would be paid under the conditions specified in the contract if settlement occurred at the reporting date, recognizing the resulting change in that amount from the previous reporting date as interest cost.
+480-10-35-4
+Cash (as that term is used in the preceding paragraph) includes foreign currency, so physically settled forward purchase contracts in exchange for foreign currency shall be measured as provided in the preceding paragraph then remeasured under Topic 830.
+> Contingent Consideration in a Business Combination
+480-10-35-4A
+Contingent consideration issued in a business combination that is classified as a liability in accordance with the requirements of this Topic shall be subsequently measured at fair value in accordance with 805-30-35-1.
+> All Other Financial Instruments
+480-10-35-5
+All other financial instruments recognized under the guidance in Section 480-10-25 shall be measured subsequently at fair value with changes in fair value recognized in earnings, unless either this Subtopic or another Subtopic specifies another measurement attribute.
+
+45 Other Presentation Matters
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+General
+Related Proposed ASUs
+> Presentation
+480-10-45-1
+Items within the scope of this Subtopic shall be presented as liabilities (or assets in some circumstances). Those items shall not be presented between the liabilities section and the equity section of the statement of financial position.
+480-10-45-2
+Entities that have no equity instruments outstanding but have financial instruments issued in the form of shares, all of which are mandatorily redeemable financial instruments required to be classified as liabilities, shall describe those instruments as shares subject to mandatory redemption in statements of financial position to distinguish those instruments from other liabilities. Similarly, payments to holders of such instruments and related accruals shall be presented separately from payments to and interest due to other creditors in statements of cash flows and income.
+480-10-45-2A
+Some entities have outstanding shares, all of which are subject to mandatory redemption on the occurrence of events that are certain to occur. The redemption price may be a fixed amount or may vary based on specified conditions. If all of an entity's shares are subject to mandatory redemption and the entity is not subject to the deferral in paragraphs 480-10-15-7A through 15-7F, an excess of the redemption price of the shares over the entity's equity balance shall be reported as an excess of liabilities over assets (a deficit), even though the mandatorily redeemable shares are reported as a liability. If the redemption price of the mandatorily redeemable shares is less than the book value of those shares, the entity should report the excess of that book value over the liability reported for the mandatorily redeemable shares as an excess of assets over liabilities (equity).
+480-10-45-2B
+Depending on the settlement terms, this Subtopic requires that mandatorily redeemable shares that are not subject to the deferral in paragraphs 480-10-15-7A through 15-7F be measured at either the present value of the amount to be paid at settlement or the amount of cash that would be paid under the conditions specified in the contract if settlement occurred at the reporting date, recognizing the resulting change in that amount as interest cost (change in redemption amount).
+480-10-45-3
+Any amounts paid or to be paid to holders of the contracts discussed in paragraph 480-10-35-3 in excess of the initial measurement amount shall be reflected in interest cost.
+> EPS
+480-10-45-4
+Entities that have issued mandatorily redeemable shares of common stock or entered into forward contracts that require physical settlement by repurchase of a fixed number of the issuer's equity shares of common stock in exchange for cash shall exclude the common shares that are to be redeemed or repurchased in calculating basic and diluted earnings per share (EPS). Any amounts, including contractual (accumulated) dividends and participation rights in undistributed earnings, attributable to shares that are to be redeemed or repurchased that have not been recognized as interest costs in accordance with paragraph 480-10-35-3 shall be deducted in computing income available to common shareholders (the numerator of the EPS calculation), consistently with the two-class method set forth in paragraphs 260-10-45-60 through 45-70.
+
+50 Disclosure
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General
+480-10-50-1
+Entities that issue financial instruments recognized under the guidance in Section 480-10-25 shall disclose both of the following:
+aThe nature and terms of the financial instruments
+bThe rights and obligations embodied in those instruments, including both:
+1Settlement alternatives, if any, in the contract
+2The entity that controls the settlement alternatives.
+480-10-50-2
+Additionally, for all outstanding financial instruments recognized under the guidance in Section 480-10-25 and for each settlement alternative, issuers shall disclose all of the following:
+aThe amount that would be paid, or the number of shares that would be issued and their fair value, determined under the conditions specified in the contract if the settlement were to occur at the reporting date
+bHow changes in the fair value of the issuer's equity shares would affect those settlement amounts (for example, "the issuer is obligated to issue an additional X shares or pay an additional Y dollars in cash for each $1 decrease in the fair value of one share")
+cThe maximum amount that the issuer could be required to pay to redeem the instrument by physical settlement, if applicable
+dThe maximum number of shares that could be required to be issued, if applicable
+eThat a contract does not limit the amount that the issuer could be required to pay or the number of shares that the issuer could be required to issue, if applicable
+fFor a forward contract or an option indexed to the issuer's equity shares, all of the following:
+1The forward price or option strike price
+2The number of issuer's shares to which the contract is indexed
+3The settlement date or dates of the contract, as applicable.
+480-10-50-3
+Paragraph 505-10-50-3 requires additional disclosures for actual issuances and settlements that occurred during the accounting period.
+480-10-50-4
+Some entities have no equity instruments outstanding but have financial instruments in the form of shares, all of which are mandatorily redeemable financial instruments required to be classified as liabilities. Those entities shall disclose the components of the liability that would otherwise be related to shareholders' interest and other comprehensive income (if any) subject to the redemption feature (for example, par value and other paid-in amounts of mandatorily redeemable instruments shall be disclosed separately from the amount of retained earnings or accumulated deficit).
+
+55 Implementation Guidance and Illustrations
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+General
+> Implementation Guidance
+480-10-55-1
+This Section gives guidance on implementing this Subtopic and, for each class of instrument within this Subtopic's scope, provides examples showing classification as a liability (or asset in some circumstances) and, for certain financial instruments, initial and subsequent measurement guidance.
+· > Monetary Value
+480-10-55-2
+Paragraph 480-10-05-5 explains that how the monetary value of a financial instrument varies in response to changes in market conditions depends on the nature of the arrangement, including, in part, the form of settlement. For example, for a financial instrument that embodies an obligation that requires:
+aSettlement either by transfer of $100,000 in cash or by issuance of $100,000 worth of equity shares, the monetary value is fixed at $100,000, even if the share price changes.
+bPhysical settlement by transfer of $100,000 in cash in exchange for the issuer's equity shares, the monetary value is fixed at $100,000, even if the fair value of the equity shares changes.
+cNet share settlement by issuance of a variable number of shares based on the change in the fair value of a fixed number of the issuer's equity shares, the monetary value varies based on the number of shares required to be issued to satisfy the obligation. For example, if the exercise price of a net-share-settled written put option entitling the holder to put back 10,000 of the issuer's equity shares is $11, and the fair value of the issuing entity's equity shares on the exercise date decreases from $13 to $10, that change in fair value of the issuer's shares increases the monetary value of that obligation at settlement from $0 to $10,000 ($110,000 minus $100,000), and the option would be settled by issuance of 1,000 shares ($10,000 divided by $10).
+dNet cash settlement based on the change in the fair value of a fixed number of the issuer's equity shares, the monetary value varies in the same manner as in (c) for net share settlement, but the obligation is settled with cash. In a net-cash-settled variation of the previous example, the option would be settled by delivery of $10,000.
+eSettlement by issuance of a variable number of shares that is based on variations in something other than the issuer's equity shares, the monetary value varies based on changes in the price of another variable. For example, a net-share-settled obligation to deliver the number of shares equal in value at settlement to the change in fair value of 100 ounces of gold has a monetary value that varies based on the price of gold and not on the price of the issuer's equity shares.
+· > Mandatorily Redeemable Financial Instruments
+480-10-55-3
+Various financial instruments issued in the form of shares embody unconditional obligations of the issuer to redeem the instruments by transferring its assets at a specified or determinable date or dates or upon an event that is certain to occur.
+480-10-55-4
+This Section presents two examples of mandatorily redeemable financial instruments:
+aCertain forms of trust-preferred securities (those that are required to be redeemed at specified or determinable dates)
+bStock that must be redeemed upon the death or termination of the individual who holds it, which is an event that is certain to occur.
+480-10-55-5
+Although some mandatorily redeemable instruments are issued in the form of shares, those instruments are classified as liabilities under this Subtopic because of the embodied obligation on the part of the issuer to transfer its assets.
+480-10-55-6
+Paragraph superseded by Accounting Standards Update No. 2017-11.
+480-10-55-7
+Paragraph superseded by Accounting Standards Update No. 2017-11.
+480-10-55-8
+Paragraph superseded by Accounting Standards Update No. 2017-11.
+480-10-55-9
+Paragraph superseded by Accounting Standards Update No. 2017-11.
+· · > Reclassification of Stock that Becomes Mandatorily Redeemable
+480-10-55-10
+The guidance that follows discusses the requirement in paragraph 480-10-25-7 for reclassification of stock that becomes mandatorily redeemable. For example, an entity may issue equity shares on January 2, 2004, that must be redeemed (not at the option of the holder) six months after a change in control. When issued, the shares are conditionally redeemable and, therefore, do not meet the definition of mandatorily redeemable. On December 30, 2008, there is a change in control, requiring the shares to be redeemed on June 30, 2009. On December 31, 2008, the issuer would treat the shares as mandatorily redeemable and reclassify the shares as liabilities, measured initially at fair value. Additionally, the issuer would reduce equity by the amount of that initial measure, recognizing no gain or loss.
+480-10-55-11
+For another example of a conditionally redeemable instrument, an entity may issue preferred shares with a stated redemption date 30 years hence that also are convertible at the option of the holders into a fixed number of common shares during the first 10 years. Those instruments are not mandatorily redeemable for the first 10 years because the redemption is conditional, contingent upon the holder's not exercising its option to convert into common shares. However, when the conversion option (the condition) expires, the shares would become mandatorily redeemable and would be reclassified as liabilities, measured initially at fair value.
+480-10-55-12
+If the conversion option were nonsubstantive, for example, because the conversion price is extremely high in relation to the current share price, it would be disregarded as provided in paragraph 480-10-25-1. If that were the case at inception, those preferred shares would be considered mandatorily redeemable and classified as liabilities with no subsequent reassessment of the nonsubstantive feature.
+· > Obligations to Repurchase an Issuer's Equity Shares that Require a Transfer of Assets
+480-10-55-13
+The following discussion focuses on the application of paragraphs 480-10-25-8 through 25-12 to obligations to repurchase an issuer's equity shares that require a transfer of assets.
+· · > Physically Settled Forward Purchase Contract
+480-10-55-14
+For example, an entity may enter into a forward contract to repurchase 1 million shares of its common stock from another party 2 years later. At inception, the forward contract price per share is $30, and the current price of the underlying shares is $25. The contract's terms require that the entity pay cash to repurchase the shares (the entity is obligated to transfer $30 million in 2 years). Because the instrument embodies an unconditional obligation to transfer assets, it is a liability under paragraphs 480-10-25-8 through 25-12. The entity would recognize a liability and reduce equity by $25 million (which is the present value, at the 9.54 percent rate implicit in the contract, of the $30 million contract amount, and also, in this example, the fair value of the underlying shares at inception). Interest would be accrued over the 2-year period to the forward contract amount of $30 million, using the 9.54 percent rate implicit in the contract. If the underlying shares are expected to pay dividends before the repurchase date and that fact is reflected in the rate implicit in the contract, the present value of the liability and subsequent accrual to the contract amount would reflect that implicit rate. Amounts accrued are recognized as interest cost.
+480-10-55-15
+In this example, no consideration or other rights or privileges changed hands at inception. If the same contract price of $30 per share had been agreed to even though the current price of the issuer's shares was $30, because the issuer had simultaneously sold the counterparty a product at a $5 million discount, that right or privilege unstated in the forward purchase contract would be taken into consideration in arriving at the appropriate implied discount rate—9.54 percent rather than 0 percent—for that contract. That entity would recognize a liability for $25 million, reduce equity by $30 million, and increase its revenue for the sale of the product by $5 million. Alternatively, if the same contract price of $30 per share had been agreed to even though the current price of the issuer's shares was only $20, because the issuer received a $5 million payment at inception of the contract, the issuer would recognize a liability for $25 million and reduce equity by $20 million. In both examples, interest would be accrued over the 2-year period using the 9.54 percent implicit rate, increasing the liability to the $30 million contract price.
+480-10-55-16
+If a variable-rate forward contract requires physical settlement, a different measurement method is required subsequently, as set forth in paragraph 480-10-35-3.
+480-10-55-17
+In contrast to forward purchase contracts that require physical settlement in exchange for cash, forward purchase contracts that require or permit net cash settlement, require or permit net share settlement, or require physical settlement in exchange for specified quantities of assets other than cash are measured initially and subsequently at fair value, as provided in paragraphs 480-10-30-2, 480-10-30-7, 480-10-35-1, and 480-10-35-5 (as applicable), and classified as assets or liabilities depending on the fair value of the contracts on the reporting date.
+· · > Combination of Written Put Option and Purchased Call Option Issued as a Freestanding Instrument
+480-10-55-18
+If a freestanding financial instrument consists solely of a written put option to repurchase the issuer's equity shares and another option, that freestanding financial instrument in its entirety is subjected to paragraphs 480-10-25-4 through 25-14 to determine if it meets the requirements to be classified as a liability.
+480-10-55-19
+For example, an entity may enter into a contract that requires it to purchase 100 shares of its own stock on a specified date for $20 if the stock price falls below $20 and entitles the entity to purchase 100 shares on that date for $21 if the stock price is greater than $21. That contract shall be analyzed as the combination of a written put option and a purchased call option and not as a forward contract. The written put option on 100 shares has a strike price of $20, and the purchased call option on 100 shares has a strike price of $21. If at issuance the fair value of the written put option exceeds the fair value of the purchased call option, the issuer receives cash and the contract is a net written option—a liability. If required to be physically settled, that contract is a liability under the provisions in paragraphs 480-10-25-8 through 25-12 because it embodies an obligation that may require repurchase of the issuer's equity shares and settlement by a transfer of assets. If the issuer must or can net cash settle the contract, the contract is a liability under the provisions of those paragraphs because it embodies an obligation that is indexed to an obligation to repurchase the issuer's equity shares and may require settlement by a transfer of assets. If the issuer must or can net share settle the contract, that contract is a liability under the provisions in paragraph 480-10-25-14(c), because the monetary value of the obligation varies inversely in relation to changes in the fair value of the issuer's equity shares.
+480-10-55-20
+If, in this example, the fair value of the purchased call option at issuance exceeds the fair value of the written put option, the issuer pays out cash and the contract is a net purchased option, to be initially classified as an asset under either paragraphs 480-10-25-8 through 25-12 or 480-10-25-14(c). If the fair values of the two options are equal and opposite at issuance, the financial instrument has an initial fair value of zero, and is commonly called a zero-cost collar. Thereafter, if the fair value of the instrument changes, the instrument is classified as an asset or a liability and measured subsequently at fair value.
+· > Certain Obligations to Issue a Variable Number of Shares
+480-10-55-21
+The following examples illustrate the application of this Subtopic to certain share-settled obligations.
+· · > Obligation to Issue Shares with Monetary Value Based on a Fixed Monetary Amount Known at Inception
+480-10-55-22
+Certain financial instruments embody obligations that require (or permit at the issuer's discretion) settlement by issuance of a variable number of the issuer's equity shares that have a value equal to a fixed monetary amount. For example, an entity may receive $100,000 in exchange for a promise to issue a sufficient number of its own shares to be worth $110,000 at a future date. The number of shares required to be issued to settle that unconditional obligation is variable, because that number will be determined by the fair value of the issuer's equity shares on the date of settlement. Regardless of the fair value of the shares on the date of settlement, the holder will receive a fixed monetary value of $110,000. Therefore, the instrument is classified as a liability under paragraph 480-10-25-14(a). Some share-settled obligations of this kind require that the variable number of shares to be issued be based on an average market price for the shares over a stated period of time, such as the average over the last 30 days before settlement, instead of the fair value of the issuer's equity shares on the date of settlement. Thus, if the average market price differs from the share price on the date of settlement, the monetary value of the obligation is not entirely fixed at inception and is based, in small part, on variations in the fair value of the issuer's equity shares. Although the monetary amount of the obligation at settlement may differ from the initial monetary value because it is tied to the change in fair value of the issuer's equity shares over the last 30 days before settlement, the monetary value of the obligation is predominantly based on a fixed monetary amount known at inception. The obligation is classified as a liability under paragraph 480-10-25-14(a). Upon issuance of the shares to settle the obligation, equity is increased by the amount of the liability and no gain or loss is recognized for the difference between the average and the ending market price.
+· · > Obligation to Issue Shares with Monetary Value Based on Something Other than Changes in the Fair Value of the Issuer's Equity
+480-10-55-23
+An entity's guarantee of the value of an asset, liability, or equity security of another entity may require or permit settlement in the entity's equity shares. For example, an entity may guarantee that the value of a counterparty's equity investment in another entity will not fall below a specified level. The guarantee contract requires that the guarantor stand ready to issue a variable number of its shares whose fair value equals the deficiency, if any, on a specified date between the guaranteed value of the investment and its current fair value. Upon issuance, unless the guarantee is accounted for as a derivative instrument, the obligation to stand ready to perform is a liability addressed by Topic 460. If, during the period the contract is outstanding, the fair value of the guaranteed investment falls below the specified level, absent an increase in value, the guarantor will be required to issue its equity shares. At that point in time, the liability recognized in accordance with that Topic would be subject to the requirements of Topic 450. This Subtopic establishes that, even though the loss contingency is settleable in equity shares, the obligation under that Topic is a liability under paragraph 480-10-25-14(b) until the guarantor settles the obligation by issuing its shares. That is because the guarantor's conditional obligation to issue shares is based on the value of the counterparty's equity investment in another entity and not on changes in the fair value of the guarantor's equity instruments.
+480-10-55-24
+If this example were altered so that the monetary value of the obligation is based on the deficiency on a specified date between the guaranteed value of the investment in another entity and its current fair value plus .005 times the change in value of 100 of the guarantor's equity shares, the monetary value of the obligation would not be solely based on variations in something other than the fair value of the issuer's (guarantor's) equity shares.
+480-10-55-25
+However, the monetary value of the obligation would be predominantly based on variations in something other than the fair value of the issuer's (guarantor's) equity shares and, therefore, the obligation would be classified as a liability under paragraph 480-10-25-14(b). That obligation differs in degree from the obligation under a contract that is indexed in part to the issuer's shares and in part (but not predominantly) to something other than the issuer's shares (commonly called a dual-indexed obligation). The latter contract is not within the scope of this Subtopic. That paragraph applies only if the monetary value of an obligation to issue equity shares is based solely or predominantly on variations in something other than the fair value of the issuer's equity shares. For example, an instrument meeting the definition of a derivative instrument that requires delivery of a variable number of the issuer's equity shares with a monetary value equaling changes in the price of a fixed number of the issuer's shares multiplied by the Euro/U.S. dollar exchange rate embodies an obligation with a monetary value that is based on variations in both the issuer's share price and the foreign exchange rate and, therefore, is not within the scope of this Subtopic. (However, that instrument would be a derivative instrument under Topic 815. Paragraphs 815-10-15-74(a) and 815-10-15-75(b) address derivative instruments that are dual indexed and require an issuer to report those instruments as derivative instrument liabilities or assets.)
+· · > Obligation to Issue Shares with Monetary Value Based on Variations Inversely Related to Changes in the Fair Value of the Issuer's Equity Shares
+480-10-55-26
+A freestanding forward purchase contract, a freestanding written put option, or a net written option (otherwise similar to the example in paragraphs 480-10-55-18 through 55-19) that must or may be net share settled is a liability under paragraph 480-10-25-14(c), because the monetary value of the obligation to deliver a variable number of shares embodied in the contract varies inversely in relation to changes in the fair value of the issuer's equity shares; when the issuer's share price decreases, the issuer's obligation under those contracts increases. Such a contract is measured initially and subsequently at fair value (with changes in fair value recognized in earnings) and classified as a liability or an asset, depending on the fair value of the contract on the reporting date. A net written or net purchased option or a zero-cost collar similar to the examples in paragraphs 480-10-55-18 through 55-20 that must or may be net share settled is classified as a liability (or asset) under paragraph 480-10-25-14(c), because the monetary value of the issuer's obligation to deliver a variable number of shares under the written put option varies inversely in relation to changes in the fair value of the issuer's share price. The purchased call option element of that freestanding instrument does not embody an obligation to deliver a variable number of shares and does not affect the classification of the entire instrument when applying that paragraph. In addition, a freestanding purchased call option is not within the scope of this Subtopic because it does not embody an obligation.
+· · > Unconditional Obligation that Must Be Either Redeemed for Cash or Settled by Issuing Shares
+480-10-55-27
+Some instruments do not require the issuer to transfer assets to settle the obligation but, instead, unconditionally require the issuer to settle the obligation either by transferring assets or by issuing a variable number of its equity shares. Because those instruments do not require the issuer to settle by transfer of assets, those instruments are not within the scope of paragraphs 480-10-25-4 through 25-6. However, those instruments may be classified as liabilities under paragraph 480-10-25-14.
+480-10-55-28
+For example, an entity may issue 1 million shares of cumulative preferred stock for cash equal to the stock's liquidation preference of $25 per share. The entity is required either to redeem the shares on the fifth anniversary of issuance for the issuance price plus any accrued but unpaid dividends in cash or to settle by issuing sufficient shares of its common stock to be worth $25 per share. Preferred stockholders are entitled to a mandatory dividend, payable quarterly at a rate of 6 percent per annum based on the $25 per share liquidation preference ($1.50 per share annually). The dividend is cumulative and is payable in cash or in a sufficient number of additional shares of the preferred stock based on the liquidation preference of $25 per share. That obligation does not represent an unconditional obligation to transfer assets and, therefore, is not a mandatorily redeemable financial instrument subject to paragraph 480-10-25-4. But it is still a liability, under paragraph 480-10-25-14(a), because the preferred shares embody an unconditional obligation that the issuer may settle by issuing a variable number of its equity shares with a monetary value that is fixed and known at inception. Because the preferred shares are liabilities, payments to holders are reported as interest cost, and accrued but not-yet-paid payments are part of the liability for the shares.
+· > Financial Instruments Involving Multiple Components
+480-10-55-29
+The implementation guidance that follows addresses financial instruments involving multiple components that embody (or are indexed to) an obligation to repurchase the issuer's shares and that may require settlement by transferring assets. Some freestanding financial instruments composed of more than one option or forward contract embodying obligations require or may require settlement by transfer of assets. Paragraphs 480-10-15-3 through 15-4 state that the provisions of this Subtopic apply to freestanding financial instruments, including those that comprise more than one option or forward contract, and paragraphs 480-10-25-4 through 25-14 shall be applied to a freestanding financial instrument in its entirety. Under paragraphs 480-10-25-8 through 25-12, if a freestanding instrument is composed of a written call option and a written put option, the existence of the written call option does not affect the classification. Unlike the application of paragraph 480-10-25-14, applying paragraphs 480-10-25-8 through 25-12 does not involve making any judgments about predominance among obligations or contingencies.
+480-10-55-30
+Consider, for example, a puttable warrant that allows the holder to purchase a fixed number of the issuer's shares at a fixed price that also is puttable by the holder at a specified date for a fixed monetary amount that the holder could require the issuer to pay in cash. The warrant is not an outstanding share and therefore does not meet the exception for outstanding shares in paragraphs 480-10-25-8 through 25-12. As a result, the example puttable warrant is a liability under those paragraphs, because it embodies an obligation indexed to an obligation to repurchase the issuer's shares and may require a transfer of assets. It is a liability even if the repurchase feature is conditional on a defined contingency in addition to the level of the issuer's share price.
+· · > Puttable Warrant that May Require Cash Settlement
+480-10-55-31
+Entity A issues a puttable warrant to Holder. The warrant feature allows Holder to purchase 1 equity share at a strike price of $10 on a specified date. The put feature allows Holder instead to put the warrant back to Entity A on that date for $2, and to require settlement in cash. If the share price on the settlement date is greater than $12, Holder would be expected to exercise the warrant, obligating Entity A to issue a fixed number of shares in exchange for a fixed amount of cash. That feature does not result in a liability under paragraphs 480-10-25-8 through 25-12. However, if the share price is equal to or less than $12, Holder would be expected to put the warrant back to Entity A and could choose to obligate Entity A to pay $2 in cash. That feature does result in a liability, because the financial instrument embodies an obligation that is indexed to an obligation to repurchase the issuer's shares (as the share price decreases toward $12, the fair value of the issuer's obligation to stand ready to pay $2 begins to increase) and may require a transfer of assets. Therefore, paragraphs 480-10-25-8 through 25-12 require Entity A to classify the instrument as a liability.
+· · > Warrant for Shares that Are Puttable that May Require Cash Settlement
+480-10-55-32
+Entity B issues a warrant for shares that can be put back by Holder immediately after exercise of the warrant. The warrant feature allows Holder to purchase 1 equity share at a strike price of $10 on a specified date. The put feature allows Holder to put the shares obtained by exercising the warrant back to Entity B on that date for $12, and to require physical settlement in cash. If the share price on the settlement date is greater than $12, Holder would be expected to exercise the warrant obligating Entity B to issue a fixed number of shares in exchange for a fixed amount of cash, and retain the shares. That feature alone does not result in a liability under paragraphs 480-10-25-8 through 25-12. However, if the share price is equal to or less than $12, Holder would be expected to put the shares back to Entity B and could choose to obligate Entity B to pay $12 in cash. That feature does result in a liability, because the financial instrument embodies an obligation to repurchase the issuer's shares and may require a transfer of assets. Therefore, those paragraphs require Entity B to classify the warrant as a liability. A warrant to issue shares that will be mandatorily redeemable is also classified as a liability, and should be analyzed under Topic 815.
+· · > Freestanding Warrants and Other Similar Instruments on Shares that Are Redeemable
+480-10-55-33
+A warrant for puttable shares conditionally obligates the issuer to ultimately transfer assets—the obligation is conditioned on the warrant's being exercised and the shares obtained by the warrant being put back to the issuer for cash or other assets. Similarly, a warrant for mandatorily redeemable shares also conditionally obligates the issuer to ultimately transfer assets—the obligation is conditioned only on the warrant's being exercised because the shares will be redeemed. Thus, warrants for both puttable and mandatorily redeemable shares are analyzed the same way and are liabilities under paragraphs 480-10-25-8 through 25-12, even though the number of conditions leading up to the possible transfer of assets differs for those warrants. The warrants are liabilities even if the share repurchase feature is conditional on a defined contingency.
+· · > Three Freestanding Instruments
+480-10-55-34
+An issuer has the following three freestanding instruments with the same counterparty, entered into contemporaneously:
+aA written put option on its equity shares
+bA purchased call option on its equity shares
+cOutstanding shares of stock.
+480-10-55-35
+Under this Subtopic those three contracts would be separately evaluated. The written put option is reported as a liability under either paragraphs 480-10-25-8 through 25-12 or 480-10-25-14(c) (depending on the form of settlement) and is measured at fair value. The purchased call option does not embody an obligation and, therefore, is not within the scope of this Subtopic. The outstanding shares of stock also are not within the scope of this Subtopic, because the shares do not embody an obligation for the issuer. Under paragraph 480-10-25-15, neither the purchased call option nor the shares of stock are to be combined with the written put option in applying paragraphs 480-10-25-4 through 25-14 unless otherwise required by Topic 815. If that Topic required the freestanding written put option and purchased call option to be combined and viewed as a unit, the unit would be accounted for as a combination of options, following the guidance in paragraphs 480-10-55-18 through 55-20.
+· · > Two Freestanding Instruments
+480-10-55-36
+An issuer has the following two freestanding instruments with the same counterparty entered into contemporaneously:
+aA contract that combines a written put option at one strike price and a purchased call option at another strike price on its equity shares
+bOutstanding shares of stock.
+480-10-55-37
+As required by paragraph 480-10-25-1, paragraphs 480-10-25-4 through 25-14 are applied to the entire freestanding instrument that comprises both a put option and a call option. Because the put option element of the contract embodies an obligation to repurchase the issuer's equity shares, the freestanding instrument that comprises a put option and a call option is reported as a liability (or asset) under either paragraphs 480-10-25-8 through 25-12 or 480-10-25-14(c) (depending on the form of settlement) and is measured at fair value. Under paragraphs 480-10-15-3 through 15-4 and 480-10-25-1, that freestanding financial instrument is within the scope of this Subtopic regardless of whether at current prices it is a net written, net purchased, or zero-cost collar option and regardless of the form of settlement. The outstanding shares of stock are not within the scope of this Subtopic and, under paragraph 480-10-25-15, are not combined with the freestanding written put and purchased call option. (Some outstanding shares of stock are within the scope of this Subtopic, for example, mandatorily redeemable shares or shares subject to a physically settled forward purchase contract in exchange for cash.)
+· · > One Freestanding Instrument that Is an Outstanding Share of Stock Containing Multiple Embedded Features
+480-10-55-38
+An entity issues a share of stock that is not mandatorily redeemable. However, under its terms the stock is both of the following:
+aPuttable by the holder any time after five years or upon a change in control
+bCallable by the issuer any time after five years.
+480-10-55-39
+That instrument is outside the scope of this Subtopic. The instrument as a whole is not mandatorily redeemable under paragraphs 480-10-25-4 and 480-10-25-6 because of both of the following conditions:
+aThe redemption is optional (conditional).
+bA written put option and a purchased call option issued together with the same terms differ from a forward purchase contract under this Subtopic.
+480-10-55-40
+That combination of embedded features does not render the stock mandatorily redeemable because the options could expire at the money, unexercised, and, thus, the redemption is not unconditional. Because the instrument as a whole is an outstanding share, it is not subject to paragraphs 480-10-25-8 through 25-12, nor, because the embedded obligation is conditional, is it subject to paragraph 480-10-25-14. As a financial instrument that is not a derivative instrument in its entirety, it is subject to analysis under Subtopic 815-15 to determine whether the issuer must account for any embedded feature separately as a derivative instrument. Because of the guidance in paragraph 480-10-25-2, paragraphs 480-10-25-4 through 25-14 shall not be applied to any embedded feature for the purposes of that analysis. In applying paragraph 815-15-25-1, the embedded written put option is evaluated under the guidance in Subtopic 815-40 and would generally be classified in equity. If so, the embedded written put option meets the criterion for exclusion in paragraph 815-10-15-74(a) and, therefore, is not separated from its host contract. If the written put option was not embedded in the share, but was issued as a freestanding instrument, it would be a liability under this Subtopic.
+· · > Option to Redeem Shares Embedded in a Minimal Host
+480-10-55-41
+An entity issues one share of preferred stock (with a par amount of $100), paying a small dividend, and embeds in it an option allowing the holder to put the preferred share along with 100,000 shares of the issuer's common stock (currently trading at $50) for a fixed price of $45 per share in cash. The preferred stock host is judged at inception to be minimal and would be disregarded under paragraph 480-10-25-1 in applying the classification provisions of this Subtopic. Therefore, under either paragraphs 480-10-25-8 through 25-12 or 480-10-25-14(c) (depending on the form of settlement), that instrument would be analyzed as a written put option in its entirety, classified as a liability, and measured at fair value.
+· > Certain Financial Instruments Involving Multiple Components that May Be Settled in a Variable Number of Shares
+480-10-55-42
+A financial instrument composed of more than one option or forward contract embodying obligations to issue shares must be analyzed to determine whether the obligations under any of its components have one of the characteristics in paragraph 480-10-25-14, and if so, whether those obligations are predominant relative to other obligations. For example, a puttable warrant that allows the holder to purchase a fixed number of the issuer's shares at a fixed price that also is puttable by the holder at a specified date for a fixed monetary amount to be paid, at the issuer's discretion, in cash or in a variable number of shares.)
+480-10-55-43
+The analysis can be summarized in two steps:
+aIdentify any component obligations that, if freestanding, would be liabilities under paragraph 480-10-25-14. Also identify the other component obligation(s) of the financial instrument.
+bAssess whether the monetary value of any obligations embodied in components that, if freestanding, would be liabilities under paragraph 480-10-25-14 is (collectively) predominant over the (collective) monetary value of other component obligation(s). If so, account for the entire instrument under that paragraph. If not, the financial instrument is not in the scope of this Subtopic and other guidance applies.
+480-10-55-44
+In an instrument that allows the holder either to purchase a fixed number of the issuer's shares at a fixed price or to compel the issuer to reacquire the instrument at a fixed date for shares equal to a fixed monetary amount known at inception, the holder's choice will depend on the issuer's share price at the settlement date. The issuer must analyze the instrument at inception and consider all possible outcomes to judge which obligation is predominant. To do so, the issuer considers all pertinent information as applicable, which may include its current stock price and volatility, the strike price of the instrument, and any other factors. If the issuer judges the obligation to issue a variable number of shares based on a fixed monetary amount known at inception to be predominant, the instrument is a liability under paragraph 480-10-25-14. Otherwise, the instrument is not a liability under this Subtopic but is subject to other applicable guidance such as Subtopic 815-40.
+· · > Warrant with Share-Settleable Puts
+480-10-55-45
+Entity C issues a puttable warrant to Holder. The warrant feature allows Holder to purchase 1 equity share at a strike price of $10 on a specified date. The put feature allows Holder instead to put the warrant back to Entity C on that date for $2, settleable in fractional shares. If the share price on the settlement date is greater than $12, Holder would be expected to exercise the warrant, obligating Entity C to issue a fixed number of shares in exchange for a fixed amount of cash; the monetary value of the shares varies directly with changes in the share price above $12. If the share price is equal to or less than $12, Holder would be expected to put the warrant back to Entity C obligating the entity to issue a variable number of shares with a fixed monetary value, known at inception, of $2. Thus, at inception, the number of shares that the puttable warrant obligates Entity C to issue can vary, and the financial instrument must be examined under paragraph 480-10-25-14.
+480-10-55-46
+The facts and circumstances should be considered in judging whether the monetary value of the obligation to issue a number of shares that varies is predominantly based on a fixed monetary amount known at inception; if so, it is a liability under paragraph 480-10-25-14(a). For example, if the following circumstances existed, they would suggest that the monetary value of the obligation to issue shares would be judged to be based predominantly on a fixed monetary amount known at inception ($2 worth of shares), and the instrument would be classified as a liability:
+aEntity C's share price is well below the $10 exercise price of the warrant at inception of the instrument.
+bThe warrant has a short life.
+cEntity C's stock is determined to have very low volatility.
+480-10-55-47
+Entity E issues a warrant to Holder allowing Holder to purchase 1 equity share at a strike price of $10. The warrant has an embedded liquidity make-whole put that entitles Holder to receive from Entity E the net amount of any difference between the share price on the date the warrants are exercised and the sales price the holder receives when the shares are later sold. The make-whole provision is not legally detachable. Entity E can settle by issuing a variable number of shares. For example, if on the date Holder exercises the warrant, the share price is $15 and the share price subsequently decreases to $12 at the date Holder sells the shares, Holder would receive $3 worth of equity shares from Entity E.
+480-10-55-48
+The financial instrument embodies an obligation to deliver a number of shares that varies-either a fixed number of shares under exercise of the warrant or additional shares if the share price declines after the warrant is exercised. However, unless it is judged that the possibility of having to issue a variable number of shares with a monetary value that is inversely related to the share price is predominant, the financial instrument is not in the scope of paragraph 480-10-25-14(c) and would be evaluated under Subtopic 815-40.
+480-10-55-49
+If exercisability of a feature into a fixed or variable number of shares is contingent on both the occurrence or nonoccurrence of a specified event and the issuer's share price, a financial instrument settleable in a number of shares that can vary should be analyzed following the same method as for the examples in paragraphs 480-10-55-45 and 480-10-55-50 to consider all possibilities. In some cases, it may be determined that the instrument may not be within the scope of paragraph 480-10-25-14 and thus not a liability under this Subtopic. That determination depends on whether the obligation to deliver a variable number of shares, with a monetary value based on either a fixed monetary amount known at inception or an inverse relationship with the share price, is predominant at inception.
+· · > Variable Share Forward Sales Contract
+480-10-55-50
+Entity D enters into a contract to issue shares of Entity D's stock to Counterparty in exchange for $50 on a specified date. If Entity D's share price is equal to or less than $50 on the settlement date, Entity D will issue 1 share to Counterparty. If the share price is greater than $50 but equal to or less than $60, Entity D will issue $50 worth of fractional shares to Counterparty. Finally, if the share price is greater than $60, Entity D will issue .833 shares. At inception, the share price is $49. Entity D has an obligation to issue a number of shares that can vary; therefore, paragraph 480-10-25-14 may apply. However, unless it is determined that the monetary value of the obligation to issue a variable number of shares is predominantly based on a fixed monetary amount known at inception (as it is in the $50 to $60 share price range), the financial instrument is not in the scope of this Subtopic.
+480-10-55-51
+Some financial instruments that are composed of more than one option or forward contract embody an obligation to issue a fixed number of shares and, once those shares are issued, potentially to issue a variable number of additional shares. The issuer must analyze that kind of financial instrument, at inception, to assess whether the possibility of issuing a variable number of shares in which the monetary value of that obligation meets one of the conditions in paragraph 480-10-25-14 is predominant.
+· · > Contingently Puttable Warrant
+480-10-55-52
+Entity F has a share-settleable puttable warrant that provides that the put feature is exercisable only if Entity F fails to accomplish an operational plan (for example, failure to complete a building within two years). If at inception the possibility that both the building will not be completed in two years and the put will be exercised is judged to be predominant, the put warrant would be recognized as a liability under paragraph 480-10-25-14(a).
+· > Majority Owner's Accounting for a Transaction in the Shares of a Consolidated Subsidiary and a Derivative Instrument Indexed to the Noncontrolling Interest in That Subsidiary
+480-10-55-53
+A controlling majority owner (parent) holds 80 percent of a subsidiary's equity shares. The remaining 20 percent (the noncontrolling interest) is owned by an unrelated entity (the noncontrolling interest holder). Simultaneous with the acquisition of the noncontrolling interest, the noncontrolling interest holder and the parent enter into a derivative instrument that is indexed to the subsidiary's equity shares. The terms of the derivative instrument may be any of the following:
+aThe parent has a fixed-price forward contract to buy the other 20 percent at a stated future date. (Derivative 1)
+bThe parent has a call option to buy the other 20 percent at a fixed price at a stated future date, and the noncontrolling interest holder has a put option to sell the other 20 percent to the parent under those same terms, that is, the fixed price of the call is equal to the fixed price of the put option. (Derivative 2)
+cThe parent and the noncontrolling interest holder enter into a total return swap. The parent will pay to the counterparty (initially the noncontrolling interest holder) an amount computed based on the London Interbank Offered Rate (LIBOR), plus an agreed spread, plus, at the termination date, any net depreciation of the fair value of the 20 percent interest since inception of the swap. The counterparty will pay to the parent an amount equal to dividends paid on the 20 percent interest and, at the termination date, any net appreciation of the fair value of the 20 percent interest since inception of the swap. At the termination date, the net change in the fair value of the 20 percent interest may be determined through an appraisal or the sale of the stock. (Derivative 3)
+480-10-55-54
+If the terms correspond with Derivative 1, the forward purchase contract that requires physical settlement by repurchase of a fixed number of shares (the noncontrolling interest) in exchange for cash is recognized as a liability, initially measured at the present value of the contract amount; the noncontrolling interest is correspondingly reduced. Subsequently, accrual to the contract amount and any amounts paid or to be paid to holders of those contracts are reflected as interest cost. In effect, the parent accounts for the transaction as a financing of the noncontrolling interest and, consequently, consolidates 100 percent of the subsidiary.
+480-10-55-55
+Depending on how Derivative 2 was issued, one of three different accounting methods applies. If Derivative 2 was issued as a single freestanding instrument, under this Subtopic it would be accounted for in its entirety as a liability (or an asset in some circumstances), initially and subsequently measured at fair value. If the written put option and the purchased call option in Derivative 2 were issued as freestanding instruments, the written put option would be accounted for under this Subtopic as a liability measured at fair value, and the purchased call option would be accounted for under Subtopic 815-40. Under both of those situations, the noncontrolling interest is accounted for separately from the derivative instrument under applicable guidance. However, if the written put option and purchased call option are embedded in the shares (noncontrolling interest) and the shares are not otherwise classified as liabilities under the guidance in this Subtopic, the instrument shall be accounted for as discussed in paragraph 480-10-55-59 with the parent consolidating 100 percent of the subsidiary.
+480-10-55-56
+If the terms correspond with Derivative 3, the total return swap is indexed to an obligation to repurchase the issuer's shares and may require the issuer to settle the obligation by transferring assets. Therefore it is in the scope of this Subtopic and is required to be accounted for as a liability (or asset in some circumstances), initially, and subsequently measured at fair value. The noncontrolling interest is accounted for separately from the total return swap.
+480-10-55-57
+In applying paragraphs 480-10-25-4 through 25-14 to determine classification, a freestanding financial instrument within this Subtopic's scope is precluded from being combined with another freestanding financial instrument, unless combination is required under the provisions of Topic 815; therefore, unless under the particular facts and circumstances that Topic provides otherwise, freestanding derivative instruments in the scope of this Subtopic would not be combined with the noncontrolling interest.
+480-10-55-58
+This guidance is limited to circumstances in which the parent owns a majority of the subsidiary's outstanding common stock and consolidates that subsidiary at inception of the derivative instrument. This guidance is limited to the specific derivative instruments described.
+· · > Written Put Option and Purchased Call Option Embedded in Noncontrolling Interest
+480-10-55-59
+If the derivative instrument in Derivative 2 is embedded in the shares (noncontrolling interest) and the shares are not otherwise classified as liabilities under the guidance in this Subtopic, the combination of options should be viewed on a combined basis with the noncontrolling interest and accounted for as a financing of the parent's purchase of the noncontrolling interest.
+480-10-55-60
+Under that approach, the parent would consolidate 100 percent of the subsidiary and would attribute the stated yield earned under the combined derivative instrument and noncontrolling interest position to interest expense (that is, the financing would be accreted to the strike price of the forward or option over the period until settlement). No gain or loss would be recognized on the sale of the noncontrolling interest by the parent to the noncontrolling interest holder at the inception of the derivative instrument.
+480-10-55-61
+The risks and rewards of owning the noncontrolling interest have been retained by the parent during the period of the derivative instrument, notwithstanding the legal ownership of the noncontrolling interest by the counterparty. Combining the two transactions in this circumstance reflects the substance of the transactions; that the counterparty is financing the noncontrolling interest. Upon such combination, the resulting instrument is not a derivative instrument subject to Subtopic 815-10.
+480-10-55-62
+This accounting applies even if the exercise prices of the put and call options are not equal, as long as those exercise prices are not significantly different.
+· > Application of this Subtopic to Specific Instruments
+480-10-55-63
+The following table addresses classification of freestanding written put options and forward purchase contracts within the scope of this Subtopic.
+> Illustrations
+· > Example 1: Mandatorily Redeemable Financial Instruments—Stock to Be Redeemed upon Death of the Holder
+480-10-55-64
+This Example illustrates the application of the guidance in this Subtopic to stock to be redeemed upon the death of the holder. An entity may issue shares of stock that are required to be redeemed upon the death of the holder for a proportionate share of the book value of the entity. The death of the holder is an event that is certain to occur. Therefore, the stock is classified as a liability. (An insurance contract that would cover the cost of the redemption does not affect the classification of the stock as a liability.) If the stock represents the only shares in the entity, the entity reports those instruments in the liabilities section of its statement of financial position and describes them as shares subject to mandatory redemption so as to distinguish the instruments from other financial statement liabilities. The issuer presents interest cost and payments to holders of such instruments separately, apart from interest and payments to other creditors, in statements of income and cash flows. The entity also discloses that the instruments are mandatorily redeemable upon the death of the holders. The following presentation is an example of the required presentation and disclosure for entities that have no equity instruments outstanding but have shares, all of which are mandatorily redeemable financial instruments classified as liabilities.
+
+65 Transition and Open Effective Date Information
+General Note:The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
+General
+480-10-65-1
+Paragraph superseded by Accounting Standards Update No. 2017-11.
+
+S00 Status
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General
+480-10-S00-1
+The following table identifies the changes made to this Subtopic.
+Paragraph	Action	Accounting Standards Update	Date
+			
+480-10-S30-1	Amended	Accounting Standards Update No. 2009-04	08/26/2009
+480-10-S30-2	Amended	Accounting Standards Update No. 2009-04	08/25/2009
+480-10-S35-2	Amended	Accounting Standards Update No. 2009-04	08/26/2009
+480-10-S45-3	Amended	Accounting Standards Update No. 2009-04	08/26/2009
+480-10-S50-3	Amended	Accounting Standards Update No. 2009-04	08/26/2009
+480-10-S55-1	Amended	Accounting Standards Update No. 2009-04	08/26/2009
+480-10-S99-2	Amended	Accounting Standards Update No. 2012-03	08/27/2012
+480-10-S99-3	Superseded	Accounting Standards Update No. 2009-04	08/26/2009
+480-10-S99-3A	Amended	Accounting Standards Update No. 2023-03	07/14/2023
+480-10-S99-3A	Amended	Accounting Standards Update No. 2015-10	06/12/2015
+480-10-S99-3A	Added	Accounting Standards Update No. 2009-04	08/26/2009
+480-10-S99-4	Amended	Accounting Standards Update No. 2009-04	08/26/2009
+
+S20 Glossary
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+Noncontrolling Interest
+The portion of equity (net assets) in a subsidiary not attributable, directly or indirectly, to a parent. A noncontrolling interest is sometimes called a minority interest.
+Preferred Stock Subject to Mandatory Redemption Requirements or Whose Redemption is Outside the Control of the Issuer
+See paragraph 480-10-S99-1, CFRR 211.02, for definition of preferred stock subject to mandatory redemption requirements or whose redemption is outside the control of the issuer.
+Preferred Stocks Which Are Not Redeemable or Are Redeemable Solely at the Option of the Issuer
+See paragraph 480-10-S99-1, CFRR 211.02, for the definition of preferred stocks which are not redeemable or are redeemable solely at the option of the issuer.
+
+S30 Initial Measurement
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+General
+> Initial Carrying Amount of Redeemable Preferred Stock
+480-10-S30-1
+See paragraph 480-10-S99-3A, SEC Staff Announcement: Classification and Measurement of Redeemable Securities, and paragraph 480-10-S99-2, SAB Topic 3.C, for SEC Staff views on the initial carrying amount of redeemable securities.
+> Initial Carrying Amount of Certain Employee Share-Based Payment Arrangements with Redemption Provisions
+480-10-S30-2
+See paragraph 480-10-S99-3A, SEC Staff Announcement: Classification and Measurement of Redeemable Securities, for SEC Staff views on the initial amount classified outside of permanent equity for instruments granted in conjunction with share-based payment arrangements with employees for which the terms may permit redemption of the option or underlying share.
+
+S35 Subsequent Measurement
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+General
+> Subsequent Adjustments to Redeemable Securities and the Treatment of Changes in Carrying Amount on Income Applicable to Common Stockholders
+480-10-S35-1
+See paragraph 480-10-S99-2, SAB Topic 3.C, for SEC Staff views on subsequent changes to the carrying amount of mandatorily redeemable securities.
+480-10-S35-2
+See paragraph 480-10-S99-3A, SEC Staff Announcement: Classification and Measurement of Redeemable Securities, for SEC Staff views on subsequent adjustments to the carrying amount of redeemable securities and the impact of the adjustments on income applicable to common stockholders.
+> Impact of CFRR 211 on Shares Granted Under Share-Based Payment Arrangements
+480-10-S35-3
+See paragraph 718-10-S99-1, SAB Topic 14.E, for SEC Staff views on the impact of paragraph 480-10-S99-1, CFRR 211, on the subsequent measurement of shares granted under share-based payment arrangements.
+
+S45 Other Presentation Matters
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+General
+> Form and Content
+· > Preferred Stock Subject to Mandatory Redemption Requirements or Whose Redemption is Outside the Control of the Issuer
+480-10-S45-1
+See paragraph 210-10-S99-1, Regulation S-X Rule 5-02.28, for presentation requirements for preferred stock subject to mandatory redemption requirements or whose redemption is outside the control of the issuer.
+> Redeemable Preferred Stock
+480-10-S45-2
+See paragraph 480-10-S99-1, CFRR 211, for presentation requirements for redeemable preferred stock.
+> Classification of Redeemable Securities
+· > General
+480-10-S45-3
+See paragraph 480-10-S99-3A, SEC Staff Announcement: Classification and Measurement of Redeemable Securities, for SEC Staff views on classification of mandatorily redeemable securities.
+· > Classification of Certain Redeemable Financial Instruments Awarded in Conjunction with Share-Based Payment Arrangements
+480-10-S45-4
+See paragraph 718-10-S99-1, SAB Topic 14.E, for SEC Staff views on classification of certain redeemable financial instruments awarded in conjunction with share-based payment arrangements.
+· > Classification by a Sponsor of Puttable Securities Held by an Employee Stock Ownership Plan
+480-10-S45-5
+See paragraph 480-10-S99-4, SEC Observer Comment: Sponsor's Balance Sheet Classification of Capital Stock with a Put Option Held by an Employee Stock Ownership Plan, for SEC Staff views on classification of puttable securities held by an employee stock ownership plan.
+
+S50 Disclosure
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General
+> Preferred Stock Subject to Mandatory Redemption Requirements or Whose Redemption is Outside the Control of the Issuer
+480-10-S50-1
+See paragraph 210-10-S99-1, Regulation S-X Rule 5-02.28(b), for disclosure requirements for preferred stock subject to mandatory redemption requirements or whose redemption is outside the control of the issuer.
+> Redeemable Preferred Stock
+480-10-S50-2
+See paragraph 480-10-S99-1, CFRR 211.04, for disclosure requirements pertaining to redeemable preferred stock.
+> Disclosure of Measurement Policy Selected for Redeemable Securities and Application Thereof
+480-10-S50-3
+See paragraph 480-10-S99-3A, SEC Staff Announcement: Classification and Measurement of Redeemable Securities, for SEC Staff views on disclosure requirements pertaining to both the accounting policy selected for mandatorily redeemable securities and redemption value of the securities.
+
+S55 Implementation Guidance and Illustrations
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+General
+> Illustrations of Consideration of Facts and Circumstances in Determining Appropriate Classification of Equity Securities with Redemption Features
+480-10-S55-1
+See paragraph 480-10-S99-3A, SEC Staff Announcement: Classification and Measurement of Redeemable Securities, for SEC Staff views on the implementation of paragraph 210-10-S99-1, Regulation S-X Rule 5-02.28.
+
+S99 SEC Materials
+General Note:As more fully described in About the Codification, the Codification includes selected SEC and SEC Staff content for reference by public companies. The Codification does not replace or affect how the SEC or SEC Staff issues or updates SEC content. SEC Staff content does not constitute Commission-approved rules or interpretations of the SEC.
+General
+> SEC Rules, Regulations, and Interpretations
+· > Codification of Financial Reporting Policies
+· · > CFRR 211: Redeemable Preferred Stocks
+480-10-S99-1
+The following is the text of CFRR 211: Redeemable Preferred Stock.
+.01 General : ASR 268:
+On July 27, 1979, the Commission amended Regulation S-X to modify the financial statement presentation of preferred stocks subject to mandatory redemption requirements or whose redemption is outside the control of the issuer. The rules adopted do not impact reporting practices of registrants not having such securities outstanding. Registrants having such securities outstanding are required to present separately, in balance sheets, amounts applicable to the following three general classes of securities: (i) preferred stocks subject to mandatory redemption requirements or whose redemption is outside the control of the issuer; (ii) preferred stocks which are not redeemable or are redeemable solely at the option of the issuer; and (iii) common stocks. A general heading, "Stockholders' Equity," is not to be used and presentation of a combined total for equity securities, inclusive of redeemable preferred stocks, is prohibited. In addition, the rules require disclosure of redemption terms, five-year maturity data, and changes in redeemable preferred stocks in a separate note to the financial statements captioned "Redeemable Preferred Stocks."
+There is a significant difference between a security with mandatory redemption requirements or whose redemption is outside the control of the issuer and conventional equity capital. The Commission believes that it is necessary to highlight the future cash obligations attached to this type of security so as to distinguish it from permanent capital. It is expected that the rules will provide more meaningful presentation of the financial obligations of those companies which finance operations through the use of such securities.
+The Commission noted an increase in the issuance, by registrants, of preferred stocks to finance operations, consummate mergers and acquisitions, or to restructure existing debt arrangements. Many of the preferred stock issues included terms which required the issuer to redeem the stock at a fixed or determinable price on a fixed or determinable date. Other issues required the issuer to redeem the stock at the option of the holder at the time certain prescribed conditions are met which are not necessarily within the control of the issuer, such as attainment of a specified level of earnings.
+The Commission believes that redeemable preferred stocks are significantly different from conventional equity capital. Such securities have characteristics similar to debt and should, in the opinion of the Commission, be distinguished from permanent capital. The Commission believes that traditional financial reporting practices do not provide the most meaningful presentation of the financial obligations attached to these types of securities and that improvement in the financial statement presentation of redeemable preferred stocks is necessary.
+The rules are intended to highlight the future cash obligations attached to redeemable preferred stock through appropriate balance sheet presentation and footnote disclosure. They do not attempt to deal with the conceptual question of whether such a security is a liability. Further, the rules do not attempt to deal with the income statement treatment of payments to holders of such a security or with any related income statement matters, including accounting for its extinguishment. The Commission is cognizant of these conceptual problems in determining the appropriate accounting for and reporting of redeemable preferred stock and believes that these matters can best be addressed by the FASB. As an interim measure, the rules require that the amounts applicable to redeemable preferred stock be presented in financial statements as a separate item—and not combined with equity investments not having similar redemption requirements. The Commission believes the presentation required by the rules will highlight the redemption obligation and the fact that amounts attributable to these securities are not part of permanent capital.
+.02 Definitions
+ASR 268:
+The following definitions apply to the terms listed below as they are used in this section:
+Preferred Stock Subject to Mandatory Redemption Requirements or Whose Redemption is Outside the Control of the Issuer ("Redeemable Preferred Stock"). The term means any stock which (i) the issuer undertakes to redeem at a fixed or determinable price on the fixed or determinable date or dates, whether by operation of a sinking fund or otherwise; (ii) is redeemable at the option of the holders, or (iii) has conditions for redemption which are not solely within the control of the issuer, such as stocks which must be redeemed out of future earnings. FN*.
+FN* Under this definition, preferred stock which meet one or more of the above criteria would be classified as redeemable preferred stock regardless of their other attributes such as voting rights, dividend rights or conversion features.
+Preferred Stocks Which Are Not Redeemable or Are Redeemable Solely at the Option of the Issuer ("Non-Redeemable Preferred Stock "). The term means any preferred stock which does not meet the criteria for classification as a "redeemable preferred stock."
+.03 Exemption
+ASR 268:
+The Commission has concluded that the necessary refinements concerning the presentation in financial statements of amounts applicable to redeemable preferred stocks should not impact the present reporting practices of registrants who do not use such securities to finance their operations. Therefore, registrants not having such securities may continue to use the general heading "Stockholders' Equity" and show a combined total. Where redeemable preferred stocks are outstanding, the Commission will not prohibit the combining of non-redeemable preferred stocks, common stocks and other equity accounts under an appropriate designated caption (e. g., "Non-Redeemable Preferred Stocks, Common Stocks, and Other Stockholders' Equity") provided that any combinations be exclusive of redeemable preferred stocks.
+.04 Footnote Disclosure of Future Cash Obligations
+ASR 268:
+In the interest of clear and prominent disclosure of the future cash obligations attendant with these types of securities, the rules require disclosure of the term of redemption, five-year maturity data, and changes in these securities in a separate note to the financial statements captioned "Redeemable Preferred Stocks." It should be noted that although in the past a registrant may have disclosed changes in redeemable preferred stocks in a statement of stockholders' equity, such changes are now required to be disclosed in a separate note as described above.
+.05 Existing Agreements
+ASR 268:
+It is not the Commission's present intention to establish whether redeemable preferred stocks are liabilities or components of equity. Therefore, the rules should not require any change in the calculations of debt-equity ratios under existing loan agreements. Further, the Commission believes that creditors already consider the distinctive characteristics of the types of securities which comprise a company's capital structure when evaluating a potential loan.
+.06 Ratios and Materiality Tests (ASR 268)
+ASR 268: (7/27/79).
+Where certain ratios or other data involving amounts attributable to stockholder's equity are presented as required or are optionally presented in filings with the Commission, such ratios or other data should be accompanied by an explanation as to their basis of calculation. If material amounts of redeemable preferred stock are combined with amounts applicable to non-redeemable preferred and common stocks for purposes of computing a ratio, there should also be represented a similar ratio which excludes amounts applicable to redeemable preferred stock from equity and includes such amounts as debt. This would also apply to any financial information such as tables, charts, graphic illustrations and ratios presented in annual reports to shareholders if such reports are to meet the requirements to Rule 14a-3 of the General Rules and Regulations under the Exchange Act.
+In addition, the Commission did not amend its rules, regulations and releases to the extent that they provide for various materiality tests for disclosure purposes using a percentage of total stockholders' equity. In making these tests, registrants may use amounts applicable to all classes of capital stock.
+> SEC Staff Guidance
+· > Staff Accounting Bulletins
+· · > SAB Topic 3.C, Redeemable Preferred Stock
+480-10-S99-2
+The following is the text of SAB Topic 3.C, Redeemable Preferred Stock.
+Facts: Rule 5-02.27 of Regulation S-X states that redeemable preferred stocks are not to be included in amounts reported as stockholders' equity, and that their redemption amounts are to be shown on the face of the balance sheet. However, the Commission's rules and regulations do not address the carrying amount at which redeemable preferred stock should be reported, or how changes in its carrying amount should be treated in calculations of earnings per share and the ratio of earnings to combined fixed charges and preferred stock dividends.
+Question 1: How should the carrying amount of redeemable preferred stock be determined?
+Interpretive Response: The initial carrying amount of redeemable preferred stock should be its fair value at date of issue. Where fair value at date of issue is less than the mandatory redemption amount, the carrying amount shall be increased by periodic accretions, using the interest method, so that the carrying amount will equal the mandatory redemption amount at the mandatory redemption date. The carrying amount shall be further periodically increased by amounts representing dividends not currently declared or paid, but which will be payable under the mandatory redemption features, or for which ultimate payment is not solely within the control of the registrant (e. g., dividends that will be payable out of future earnings). Each type of increase in carrying amount shall be effected by charges against retained earnings or, in the absence of retained earnings, by charges against paid-in capital.
+The accounting described in the preceding paragraph would apply irrespective of whether the redeemable preferred stock may be voluntarily redeemed by the issuer prior to the mandatory redemption date, or whether it may be converted into another class of securities by the holder. Companies also should consider the guidance in FASB ASC paragraph 480-10-S99-3A (Distinguishing Liabilities from Equity Topic).
+Question 2: How should periodic increases in the carrying amount of redeemable preferred stock be treated in calculations of earnings per share and ratios of earnings to combined fixed charges and preferred stock dividends?
+Interpretive Response: Each type of increase in carrying amount described in the Interpretive Response to Question 1 should be treated in the same manner as dividends on nonredeemable preferred stock.
+480-10-S99-3
+Paragraph superseded by Accounting Standards Update No. 2009-04.
+· > Announcements Made by SEC Staff at Emerging Issues Task Force (EITF) Meetings
+· · > SEC Staff Announcement: Classification and Measurement of Redeemable Securities
+480-10-S99-3A
+Background
+1. This SEC staff announcement provides the SEC staff's views regarding the application of Accounting Series Release No. 268, Presentation in Financial Statements of "Redeemable Preferred Stocks."FN1
+FN1 ASR 268 (SEC Financial Reporting Codification, Section No. 211, Redeemable Preferred Stocks) is incorporated into SEC Regulation S-X, Articles 5-02.27, 7-03.21, and 9-03.19. Hereafter, reference is made only to ASR 268.
+Scope
+2. ASR 268 requires preferred securities that are redeemable for cash or other assets to be classified outside of permanent equity if they are redeemable (1) at a fixed or determinable price on a fixed or determinable date, (2) at the option of the holder, or (3) upon the occurrence of an event that is not solely within the control of the issuer. As noted in ASR 268, the Commission reasoned that "[t]here is a significant difference between a security with mandatory redemption requirements or whose redemption is outside the control of the issuer and conventional equity capital. The Commission believes that it is necessary to highlight the future cash obligations attached to this type of security so as to distinguish it from permanent capital."
+3. Although ASR 268 specifically describes and discusses preferred securities, the SEC staff believes that ASR 268 also provides analogous guidance for other redeemable equity instruments including, for example, common stock, derivative instruments, noncontrolling interests FN2, securities held by an employee stock ownership plan FN3, and share-based payment arrangements with employees FN4. The SEC staff's views regarding the applicability of ASR 268 in certain situations is described below.
+FN2 The Master Glossary defines noncontrolling interest as "The portion of equity (net assets) in a subsidiary not attributable, directly or indirectly, to a parent. A noncontrolling interest is sometimes called a minority interest." ASR 268 applies to redeemable noncontrolling interests (provided the redemption feature is not considered a freestanding option within the scope of Subtopic 480-10). Where relevant, specific classification and measurement guidance pertaining to redeemable noncontrolling interests has been included in this SEC staff announcement.
+FN3 ASR 268 applies to equity securities held by an employee stock ownership plan (whether or not allocated) that, by their terms, can be put to the registrant (sponsor) for cash or other assets. Where relevant, specific classification and measurement guidance pertaining to employee stock ownership plans has been included in this SEC staff announcement.
+FN4 As indicated in Section 718-10-S99, ASR 268 applies to redeemable equity-classified instruments granted in conjunction with share-based payment arrangements with employees. Where relevant, specific classification and measurement guidance pertaining to share-based payment arrangements with employees has been included in this SEC staff announcement.
+a. Freestanding financial instruments classified as assets or liabilities. Freestanding financial instruments that are classified as assets or liabilities pursuant to Subtopic 480-10 or other applicable GAAP (including those that contain separated derivative assets or derivative liabilities) are not subject to ASR 268. FN5 Mandatorily redeemable equity instruments for which the relevant portions Subtopic 480-10 have been deferred are subject to ASR 268.
+FN5 An equity instrument subject to potential redemption under a freestanding written put option is not subject to ASR 268 (since the put option liability is considered a separate unit of account). However, as discussed in paragraph 3(b), when an embedded written put option has been separated from a hybrid financial instrument with an equity host contract, the host equity instrument is subject to ASR 268.
+b. Freestanding derivative instruments classified in stockholders' equity. Freestanding derivative instruments that are classified in stockholders' equity pursuant to Subtopic 815-40 are not subject to ASR 268. FN6 Equity-classified freestanding financial instruments that were previously classified outside of permanent equity under Subtopic 815-40 are now classified as assets or liabilities pursuant to Subtopic 480-10. However, Subtopic 815-40 continues to apply to embedded derivatives indexed to, and potentially settled in, a company's own stock. Accordingly, when a hybrid financial instrument that is not classified in its entirety as an asset or liability under Subtopic 480-10 or other applicable GAAP contains an embedded derivative within the scope of Subtopic 815-40, the registrant should consider the applicability of ASR 268 to:
+• The hybrid financial instrument when the embedded derivative is not separated under Subtopic 815-15, or
+• The host contract when the embedded derivative is separated under Subtopic 815-15.
+FN6 A freestanding derivative instrument would not meet the conditions in Subtopic 815-40 to be classified as an equity instrument if it was subject to redemption for cash or other assets on a specified date or upon the occurrence of an event that is not within the control of the issuer.
+c. Equity instruments subject to registration payment arrangements. The determination of whether an equity instrument subject to a registration payment arrangement (as defined in Paragraph 825-20-15-3) is subject to ASR 268 should be made without regard to the existence of the registration payment arrangement (that is, the registration payment arrangement is a separate unit of account). However, in determining the applicability of ASR 268 to an equity instrument with any other related arrangement, a conclusion that the related arrangement is a separate unit of account should not be based on an analogy to Paragraph 815-10-25-16.
+d. Share-based payment awards. Equity-classified share-based payment arrangements with employees are not subject to ASR 268 due solely to either of the following:
+• Net cash settlement would be assumed pursuant to Paragraphs 815-40-25-11 through 25-16 solely because of an obligation to deliver registered shares. FN7
+• A provision in an instrument for the direct or indirect repurchase of shares issued to an employee exists solely to satisfy the employer's statutory tax withholding requirements (as discussed in Paragraph 718-10-25-18).
+FN7 See footnote 84 of Section 718-10-S99.
+e. Convertible debt instruments that contain a separately classified equity component. Other applicable GAAP may require a convertible debt instrument to be separated into a liability component and an equity component. FN8 In these situations, the equity-classified component of the convertible debt instrument should be considered redeemable if at the balance sheet date the issuer can be required to settle the convertible debt instrument for cash or other assets (that is, the instrument is currently redeemable or convertible for cash or other assets). For these instruments, an assessment of whether the convertible debt instrument will become redeemable or convertible for cash or other assets at a future date should not be made. For example, a convertible debt instrument that is not redeemable at the balance sheet date but could become redeemable by the holder of the instrument in the future based on the passage of time or upon the occurrence of a contingent event is not considered currently redeemable at the balance sheet date.
+FN8 See Subtopics 470-20 and 470-50; and Paragraph 815-15-35-4.
+f. Certain redemptions upon liquidation events. Ordinary liquidation events, which involve the redemption and liquidation of all of an entity's equity instruments for cash or other assets of the entity, do not result in an equity instrument being subject to ASR 268. In other words, if the payment of cash or other assets is required only from the distribution of net assets upon the final liquidation or termination of an entity (which may be a less-than-wholly-owned consolidated subsidiary), then that potential event need not be considered when applying ASR 268. Other transactions are considered deemed liquidation events. For example, the contractual provisions of an equity instrument may require its redemption by the issuer upon the occurrence of a change-in-control that does not result in the liquidation or termination of the issuing entity, a delisting of the issuer's securities from an exchange, or the violation of a debt covenant. Deemed liquidation events that require (or permit at the holder's option) the redemption of only one or more particular class of equity instrument for cash or other assets cause those instruments to be subject to ASR 268. However, as a limited exception, a deemed liquidation event does not cause a particular class of equity instrument to be classified outside of permanent equity if all of the holders of equally and more subordinated equity instruments of the entity would always be entitled to also receive the same form of consideration (for example, cash or shares) upon the occurrence of the event that gives rise to the redemption (that is, all subordinate classes would also be entitled to redeem).
+g. Certain redemptions covered by insurance proceeds. As a limited exception that should not be analogized to, an equity instrument that becomes redeemable upon the death of the holder (at the option of the holder's heir or estate FN9) or upon the disability of the holder is not subject to ASR 268 if the redemption amount will be funded from the proceeds of an insurance policy that is currently in force and which the registrant has the intent and ability to maintain in force.
+FN9 If an equity instrument is required to be redeemed for cash or other assets upon the death of the holder, the instrument is classified as a liability pursuant to Subtopic 480-10 even if an insurance policy would fund the redemption.
+Classification
+4. ASR 268 requires equity instruments with redemption features that are not solely within the control of the issuer to be classified outside of permanent equity (often referred to as classification in "temporary equity"). The SEC staff does not believe it is appropriate to classify a financial instrument (or host contract) that meets the conditions for temporary equity classification under ASR 268 as a liability. FN10
+FN10 At the June 14, 2007 EITF meeting, the SEC Observer stated that a financial instrument (or host contract) that otherwise meets the conditions for temporary equity classification may continue to be classified as a liability provided the financial instrument (or host contract) was classified and accounted for as a liability in fiscal quarters beginning before September 15, 2007 and has not subsequently been modified or subject to a remeasurement (new basis) event.
+5. Determining whether an equity instrument is redeemable at the option of the holder or upon the occurrence of an event that is solely within the control of the issuer can be complex. The SEC staff believes that all of the individual facts and circumstances surrounding events that could trigger redemption should be evaluated separately and that the possibility that any triggering event that is not solely within the control of the issuer could occur—without regard to probability—would require the instrument to be classified in temporary equity. Paragraphs 6-11 provide examples of the application of ASR 268.
+Examples in which temporary equity classification is appropriate
+6. Example 1. A preferred security that is not required to be classified as a liability under other applicable GAAP may be redeemable at the option of the holder or upon the occurrence of an event that is not solely within the control of the issuer. Upon redemption (in other than a liquidation event that meets the exception in paragraph 3(f)), the issuer may have the choice to settle the redemption amount in cash or by delivery of a variable number of its own common shares with an equivalent value. For this instrument, the guidance in Section 815-40-25 should be used to evaluate whether the issuer controls the actions or events necessary to issue the maximum number of common shares that could be required to be delivered under share settlement of the contract. If the issuer does not control settlement by delivery of its own common shares (because, for example, there is no cap on the maximum number of common shares that could be potentially issuable upon redemption), cash settlement of the instrument would be presumed and the instrument would be classified as temporary equity.
+7. Example 2. A preferred security that is not required to be classified as a liability under other applicable GAAP may have a redemption provision that states it may be called by the issuer upon an affirmative vote by the majority of its board of directors. While some might view the decision to call the security as an event that is within the control of the company because the governance structure of the company is vested with the power to avoid redemption, if the preferred security holders control a majority of the votes of the board of directors through direct representation on the board of directors or through other rights, the preferred security is redeemable at the option of the holder and classification in temporary equity is required. In other words, any provision that requires approval by the board of directors cannot be assumed to be within the control of the issuer. All of the relevant facts and circumstances should be considered.
+8. Example 3. A preferred security that is not required to be classified as a liability under other applicable GAAP may contain a deemed liquidation clause that provides that the security becomes redeemable if the common stockholders of the issuing company (that is, those immediately prior to a merger or consolidation) hold, immediately after such merger or consolidation, common stock representing less than a majority of the voting power of the outstanding common stock of the surviving corporation. This change-in-control provision would require the preferred security to be classified in temporary equity if a purchaser could acquire a majority of the voting power of the outstanding common stock without company approval, thereby triggering redemption.
+9. Example 4. An equity instrument may contain provisions that allow the holder to redeem the instrument for cash or other assets upon the occurrence of events that are not solely within the issuer's control. Such events may include:
+• The failure to have a registration statement declared effective by the SEC by a designated date
+• The failure to maintain compliance with debt covenants
+• The failure to achieve specified earnings targets
+• A reduction in the issuer's credit rating.
+Since these events are not solely within the control of the issuer, the equity instrument is required to be classified in temporary equity.
+Examples in which permanent equity classification is appropriate
+10. Example 5. A preferred security may have a provision that the decision by the issuing company to sell all or substantially all of a company's assets and a subsequent distribution to common stockholders triggers redemption of the security. In this case, the security would be appropriately classified in permanent equity if the preferred stockholders cannot trigger or otherwise require the sale of the assets through representation on the board of directors, or through other rights, because the decision to sell all or substantially all of the issuer's assets and the distribution to common stockholders is solely within the issuer's control. In other words, if there could not be a "hostile" asset sale whereby all or substantially all of the issuer's assets are sold, and a dividend or other distribution is declared on the issuer's common stock, without the issuer's approval, then classifying the security in permanent equity would be appropriate.
+11. Example 6. A preferred security may have a provision that provides for redemption in cash or other assets if the issuing company is merged with or consolidated into another company, and pursuant to state law, approval of the board of directors is required before any merger or consolidation can occur. In that case, assuming the preferred stockholders cannot control the vote of the board of directors through direct representation or through other rights, the security would be appropriately classified in permanent equity because the decision to merge with or consolidate into another company is within the control of the issuer. Again, all of the relevant facts and circumstances should be considered when determining whether the preferred stockholders can control the vote of the board of directors.
+Measurement
+12. Initial measurement. The SEC staff believes the initial carrying amount of a redeemable equity instrument that is subject to ASR 268 should be its issuance date fair value, except as follows: FN12
+FN12 SAB Topic 3C, Redeemable Preferred Stock, states that the initial carrying amount of redeemable preferred stock should be its fair value at date of issue. The SEC staff believes this guidance should also be applied to other similar redeemable equity instruments. Consistent with Paragraph 820-10-30-3, the transaction price will generally represent the initial fair value of the equity instrument when the issuance occurs in an arm's-length transaction with an unrelated party and there are no other unstated rights or privileges.
+a. For share-based payment arrangements with employees, the initial amount presented in temporary equity should be based on the redemption provisions of the instrument and the proportion of consideration received in the form of employee services at initial recognition. For example, upon issuance of a fully vested option that allows the holder to put the option back to the issuer at its intrinsic value upon a change in control, an amount representing the intrinsic value of the option at the date of issuance should be presented in temporary equity.
+b. For employee stock ownership plans where the cash redemption obligation relates only to a market value guarantee feature, the registrant may elect as an accounting policy to present in temporary equity either (i) the entire guaranteed market value amount of the equity securities or (ii) the maximum cash obligation based on the fair value of the underlying equity securities at the balance sheet date.
+c. For noncontrolling interests, the initial amount presented in temporary equity should be the initial carrying amount of the noncontrolling interest pursuant to Section 805-20-30.
+d. For convertible debt instruments that contain a separately classified equity component, an amount should initially be presented in temporary equity only if the instrument is currently redeemable or convertible at the issuance date for cash or other assets (see paragraph 3(e)). The portion of the equity-classified component that is presented in temporary equity (if any) is measured as the excess of (1) the amount of cash or other assets that would be required to be paid to the holder upon a redemption or conversion at the issuance date over (2) the carrying amount of the liability-classified component of the convertible debt instrument at the issuance date.
+e. For host equity contracts (see paragraph 3(b)), the initial amount presented in temporary equity should be the initial carrying amount of the host contract pursuant to Section 815-15-30. Similarly, the initial amount presented in temporary equity for a preferred stock instrument that contains a beneficial conversion feature or is issued with other instruments should be the amount allocated to the instrument in its entirety pursuant to Subtopic 470-20 less any beneficial conversion feature recorded at the issuance date.
+13. Subsequent measurement. The SEC staff's views regarding the subsequent measurement of a redeemable equity instrument that is subject to ASR 268 are included in paragraphs 14-16. Paragraphs 14 and 15 discuss the general views regarding subsequent measurement. Paragraph 16 discusses the application of those general views in the context of certain types of redeemable equity instruments.
+14. If an equity instrument subject to ASR 268 is currently redeemable (for example, at the option of the holder), it should be adjusted to its maximum redemption amount at the balance sheet date. If the maximum redemption amount is contingent on an index or other similar variable (for example, the fair value of the equity instrument at the redemption date or a measure based on historical EBITDA), the amount presented in temporary equity should be calculated based on the conditions that exist as of the balance sheet date (for example, the current fair value of the equity instrument or the most recent EBITDA measure). The redemption amount at each balance sheet date should also include amounts representing dividends not currently declared or paid but which will be payable under the redemption features or for which ultimate payment is not solely within the control of the registrant (for example, dividends that will be payable out of future earnings). FN13
+FN13 See also Section 260-10-45.
+15. If an equity instrument subject to ASR 268 is not currently redeemable (for example, a contingency has not been met), subsequent adjustment of the amount presented in temporary equity is unnecessary if it is not probable that the instrument will become redeemable. If it is probable that the equity instrument will become redeemable (for example, when the redemption depends solely on the passage of time), the SEC staff will not object to either of the following measurement methods provided the method is applied consistently:
+a. Accrete changes in the redemption value over the period from the date of issuance (or from the date that it becomes probable that the instrument will become redeemable, if later) to the earliest redemption date of the instrument using an appropriate methodology, usually the interest method. Changes in the redemption value are considered to be changes in accounting estimates.
+b. Recognize changes in the redemption value (for example, fair value) immediately as they occur and adjust the carrying amount of the instrument to equal the redemption value at the end of each reporting period. This method would view the end of the reporting period as if it were also the redemption date for the instrument.
+16. The following additional guidance is relevant to the application of the SEC staff's views in paragraphs 14 and 15:
+a. For share-based payment arrangements with employees, the amount presented in temporary equity at each balance sheet date should be based on the redemption provisions of the instrument and should take into account the proportion of consideration received in the form of employee services (that is, the pattern of recognition of compensation cost pursuant to Topic 718). FN14
+FN14 See also the Interpretative Response to Question 2 in Section E of Section 718-10-S99.
+b. For employee stock ownership plans where the cash redemption obligation relates only to a market value guarantee feature, the registrant may elect as an accounting policy to present in temporary equity either (i) the entire guaranteed market value amount of the equity securities or (ii) the maximum cash obligation based on the fair value of the underlying equity securities at the balance sheet date.
+c. For noncontrolling interests, the adjustment to the carrying amount presented in temporary equity is determined after the attribution of net income or loss of the subsidiary pursuant to Subtopic 810-10.
+d. For convertible debt instruments that contain a separately classified equity component, an amount should be presented in temporary equity only if the instrument is currently redeemable or convertible at the balance sheet date for cash or other assets (see paragraph 3(e)). The portion of the equity-classified component that is presented in temporary equity (if any) is measured as the excess of (1) the amount of cash or other assets that would be required to be paid to the holder upon a redemption or conversion at the balance sheet date over (2) the carrying amount of the liability-classified component of the convertible debt instrument at the balance sheet date. FN15
+FN15 ASR 268 does not impact the application of other applicable GAAP to the accounting for the liability component or the accounting upon derecognition of the liability and/or equity component.
+e. For a redeemable equity instrument other than those discussed in (a), (b), and (d) of this paragraph, regardless of the accounting method applied in paragraphs 14 and 15, the amount presented in temporary equity should be no less than the initial amount reported in temporary equity for the instrument. That is, reductions in the carrying amount of a redeemable equity instrument from the application of paragraphs 14 and 16 are appropriate only to the extent that the registrant has previously recorded increases in the carrying amount of the redeemable equity instrument from the application of paragraphs 14 and 15.
+17. Application of the fair value option. Measurement of a redeemable equity instrument (or host contract) subject to ASR 268 at fair value through earnings in lieu of the measurement guidance provided in paragraphs 14-16 is not appropriate. FN16
+FN16 Paragraph 825-10-15-5(f) prohibits the election of the fair value option for financial instruments that are, in whole or in part, classified in stockholder's equity (including temporary equity).
+Reclassifications into Permanent Equity
+18. If classification of an equity instrument as temporary equity is no longer required (if, for example, a redemption feature lapses, or there is a modification of the terms of the instrument), the existing carrying amount of the equity instrument should be reclassified to permanent equity at the date of the event that caused the reclassification. Prior financial statements are not adjusted. Additionally, the SEC staff believes that it would be inappropriate to reverse any adjustments previously recorded to the carrying amount of the equity instrument (pursuant to paragraphs 14-16) in conjunction with such reclassifications.
+Deconsolidation of a Subsidiary
+19. Section 810-10-40 provides guidance on the measurement of the gain or loss that is recognized in net income when a parent deconsolidates a subsidiary. As indicated in Paragraph 810-10-40-5, that gain or loss calculation is impacted by the carrying amount of any noncontrolling interest in the former subsidiary. Since adjustments to the carrying amount of a noncontrolling interest from the application of paragraphs 14-16 do not initially enter into the determination of net income, the SEC staff believes that the carrying amount of the noncontrolling interest that is referred to in Paragraph 810-10-40-5 should similarly not include any adjustments made to that noncontrolling interest from the application of paragraphs 14-16. Rather, previously recorded adjustments to the carrying amount of a noncontrolling interest from the application of paragraphs 14-16 should be eliminated in the same manner in which they were initially recorded (that is, by recording a credit to equity of the parent).
+Earnings per Share
+20. Preferred stock instruments issued by a parent (or single reporting entity). Regardless of the accounting method selected in paragraph 15 and the redemption terms (that is, fixed price or fair value), the resulting increases or decreases in the carrying amount of a redeemable instrument other than common stock should be treated in the same manner as dividends on nonredeemable stock and should be effected by charges against retained earnings or, in the absence of retained earnings, by charges against paid-in capital. Increases or decreases in the carrying amount should reduce or increase income available to common stockholders in the calculation of earnings per share and the ratio of earnings to combined fixed charges and preferred stock dividends. Additionally, Paragraph 260-10-S99-2, provides guidance on the accounting at the date of a redemption or induced conversion of a preferred stock instrument.
+21. Common stock instruments issued by a parent (or single reporting entity). Regardless of the accounting method selected in paragraph 15, the resulting increases or decreases in the carrying amount of redeemable common stock should be treated in the same manner as dividends on nonredeemable stock and should be effected by charges against retained earnings or, in the absence of retained earnings, by charges against paid-in capital. However, increases or decreases in the carrying amount of a redeemable common stock should not affect income available to common stockholders. Rather, the SEC staff believes that to the extent that a common shareholder has a contractual right to receive at share redemption (in other than a liquidation event that meets the exception in paragraph 3(f)) an amount that is other than the fair value of the issuer's common shares, then that common shareholder has, in substance, received a distribution different from other common shareholders. Under Paragraph 260-10-45-59A, entities with capital structures that include a class of common stock with different dividend rates from those of another class of common stock but without prior or senior rights, should apply the two-class method of calculating earnings per share. Therefore, when a class of common stock is redeemable at other than fair value, increases or decreases in the carrying amount of the redeemable instrument should be reflected in earnings per share using the two-class method. FN17 For common stock redeemable at fair value FN18, the SEC staff would not expect the use of the two-class method, as a redemption at fair value does not amount to a distribution different from other common shareholders. FN19
+FN17 The two-class method of computing earnings per share is addressed in Section 260-10-45. The SEC staff believes that there are two acceptable approaches for allocating earnings under the two-class method when a common stock instrument is redeemable at other than fair value. The registrant may elect to: (a) treat the entire periodic adjustment to the instrument's carrying amount (from the application of paragraphs 14-16) as being akin to a dividend or (b) treat only the portion of the periodic adjustment to the instrument's carrying amount (from the application of paragraphs 14-16) that reflects a redemption in excess of fair value as being akin to a dividend. Under either approach, decreases in the instrument's carrying amount should be reflected in the application of the two-class method only to the extent they represent recoveries of amounts previously reflected in the application of the two-class method.
+FN18 Common stock that is redeemable based on a specified formula is considered to be redeemable at fair value if the formula is designed to equal or reasonably approximate fair value. The SEC staff believes that a formula based solely on a fixed multiple of earnings (or other similar measure) is not considered to be designed to equal or reasonably approximate fair value.
+FN19 Similarly, the two-class method is not required when share-based payment awards granted to employees are redeemable at fair value (provided those awards are in the form of common shares or options on common shares). However, those share-based payment awards may still be subject to the two-class method pursuant to Section 260-10-45.
+22. Noncontrolling interests. Paragraph 810-10-45-23 indicates that changes in a parent's ownership interest while the parent retains control of its subsidiary are accounted for as equity transactions, and do not impact net income or comprehensive income in the consolidated financial statements. Consistent with Paragraph 810-10-45-23, an adjustment to the carrying amount of a noncontrolling interest from the application of paragraphs 14-16 does not impact net income or comprehensive income in the consolidated financial statements. Rather, such adjustments are treated akin to the repurchase of a noncontrolling interest (although they may be recorded to retained earnings instead of additional paid-in capital). The SEC staff believes the guidance in paragraphs 20 and 21 should be applied to noncontrolling interests as follows:
+a. Noncontrolling interest in the form of preferred stock instrument. The impact on income available to common stockholders of the parent arising from adjustments to the carrying amount of a redeemable noncontrolling interest other than common stock depends upon whether the redemption feature in the equity instrument was issued, or is guaranteed, by the parent. If the redemption feature was issued, or is guaranteed, by the parent, the entire adjustment under paragraph 20 reduces or increases income available to common stockholders of the parent. Otherwise, the adjustment is attributed to the parent and the noncontrolling interest in accordance with Paragraphs 260-10-55-64 through 55-67.
+b. Noncontrolling interest in the form of common stock instrument. Adjustments to the carrying amount of a noncontrolling interest issued in the form of a common stock instrument to reflect a fair value redemption feature do not impact earnings per share. Adjustments to the carrying amount of a noncontrolling interest issued in the form of a common stock instrument to reflect a non-fair value redemption feature do impact earnings per share; however, the manner in which those adjustments reduce or increase income available to common stockholders of the parent may differ. FN20 If the terms of the redemption feature are fully considered in the attribution of net income under Paragraph 810-10-45-21, application of the two-class method is unnecessary. If the terms of the redemption feature are not fully considered in the attribution of net income under Paragraph 810-10-45-20, application of the two-class method at the subsidiary level is necessary in order to determine net income available to common stockholders of the parent.
+FN20 Subtopic 810-10 does not provide detailed guidance on the attribution of net income to the parent and the noncontrolling interest. The SEC staff understands that when a noncontrolling interest is redeemable at other than fair value some registrants consider the terms of the redemption feature in the calculation of net income attributable to the parent (as reported on the face of the income statement), while others only consider the impact of the redemption feature in the calculation of income available to common stockholders of the parent (which is the control number for earnings per share purposes).
+23. Convertible debt instruments that contain a separately classified equity component. For convertible debt instruments subject to ASR 268 (see paragraph 3(e)), there should be no incremental earnings per share accounting from the application of this SEC staff announcement. Subtopic 260-10 addresses the earnings per share accounting.
+Disclosures
+24. ASR 268 and SEC Regulation S-X require certain disclosures about redeemable equity instruments. In addition, the SEC staff expects the following disclosures to be provided in the notes to the financial statements:
+a. A description of the accounting method used to adjust the redemption amount of a redeemable equity instrument (as discussed in paragraphs 14-16).
+b. When a registrant elects to accrete changes in the redemption amount of a redeemable equity instrument in accordance with paragraph 15(a), the redemption amount of the equity instrument as if it were currently redeemable.
+c. For a redeemable equity instrument that is not adjusted to its redemption amount, the reasons why it is not probable that the instrument will become redeemable.
+d. When charges or credits discussed in paragraphs 20 and 22(a) are material, a reconciliation between net income and income available to common stockholders.
+e. The amount credited to equity of the parent upon the deconsolidation of a subsidiary (as discussed in paragraph 19).
+· > Comments Made by SEC Observer at EITF Meetings
+· · > SEC Observer Comment: Sponsor's Balance Sheet Classification of Capital Stock with a Put Option Held by an Employee Stock Ownership Plan
+480-10-S99-4
+The following is the text of SEC Observer Comment: Sponsor's Balance Sheet Classification of Capital Stock with a Put Option Held by an Employee Stock Ownership Plan.
+ASR 268 (see also paragraph 480-10-S99-3A) requires that to the extent that there are conditions (regardless of their probability of occurrence) whereby holders of equity securities may demand cash in exchange for their securities, the sponsor must reflect the maximum possible cash obligation related to those securities outside of permanent equity. Thus, securities held by an ESOP (whether or not allocated) must be reported outside of permanent equity if by their terms they can be put to the sponsor for cash. With respect to ESOP securities where the cash obligation relates only to market value guarantee features, the SEC staff would not object to registrants only classifying outside of permanent equity an amount that represents the maximum cash obligation of the sponsor based on market prices of the underlying security as of the reporting date; accordingly, reclassifications of equity amounts would be required based on the market values of the underlying security. Alternatively, the SEC staff would not object to classifying the entire guaranteed value amount outside of permanent equity due to the uncertainty of the ultimate cash obligation because of a possible market value decline in the underlying security.
+
+About
+Help
+Contact Us
+Copyright
+Terms and Conditions
+FASB.org
+Liabilities
+480 Distinguishing Liabilities from Equity
+Print
+keyboard_arrow_up
+Display
+keyboard_arrow_up

@@ -1,0 +1,243 @@
+---
+tags: [us-gaap, asc-808]
+standard: ASC 808
+source: FASB ASC
+source_url: https://asc.fasb.org/808/showallinonepage
+source_type: Codification
+import_method: cursor-ide-browser
+scraped_date: "2026-06-10"
+subtopics: ["808-10"]
+---
+
+# ASC 808 — Collaborative Arrangements（协作安排）
+
+---
+
+08 Collaborative Arrangements
+10 Overall
+00 Status
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General
+808-10-00-1
+The following table identifies the changes made to this Subtopic.
+Paragraph	Action	Accounting Standards Update	Date
+			
+Contract	Added	Accounting Standards Update No. 2014-09	05/28/2014
+Customer	Added	Accounting Standards Update No. 2014-09	05/28/2014
+Public Business Entities	Added	Accounting Standards Update No. 2018-18	11/05/2018
+Revenue	Added	Accounting Standards Update No. 2014-09	05/28/2014
+			
+808-10-15-4	Amended	Accounting Standards Update No. 2023-05	08/23/2023
+808-10-15-5	Amended	Accounting Standards Update No. 2018-18	11/05/2018
+808-10-15-5A through 15-5C	Added	Accounting Standards Update No. 2018-18	11/05/2018
+808-10-45-1	Amended	Accounting Standards Update No. 2018-18	11/05/2018
+808-10-45-1	Amended	Accounting Standards Update No. 2014-09	05/28/2014
+808-10-45-2	Amended	Accounting Standards Update No. 2014-09	05/28/2014
+808-10-45-3	Amended	Accounting Standards Update No. 2018-18	11/05/2018
+808-10-45-4	Superseded	Accounting Standards Update No. 2018-18	11/05/2018
+808-10-55-1	Amended	Accounting Standards Update No. 2018-18	11/05/2018
+808-10-55-3 through 55-10	Amended	Accounting Standards Update No. 2018-18	11/05/2018
+808-10-55-6	Amended	Accounting Standards Update No. 2014-09	05/28/2014
+808-10-55-9	Amended	Accounting Standards Update No. 2014-09	05/28/2014
+808-10-55-10	Amended	Accounting Standards Update No. 2014-09	05/28/2014
+808-10-55-12 through 55-14	Amended	Accounting Standards Update No. 2018-18	11/05/2018
+808-10-55-14	Amended	Accounting Standards Update No. 2014-09	05/28/2014
+808-10-55-16 through 55-19	Amended	Accounting Standards Update No. 2014-09	05/28/2014
+808-10-55-17 through 55-19	Amended	Accounting Standards Update No. 2018-18	11/05/2018
+808-10-65-2	Added	Accounting Standards Update No. 2018-18	11/05/2018
+
+05 Overview and Background
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+General
+808-10-05-1
+The Collaborative Arrangements Topic provides guidance for income statement presentation, classification, and disclosures related to collaborative arrangements.
+
+10 Objectives
+General Note:The Objectives Section provides the high-level objectives that the Subtopic is intended to accomplish or attain. The Section does not summarize or discuss the main principles of accounting and reporting requirements.
+General
+808-10-10-1
+The objective of this Topic is to define collaborative arrangements and to establish reporting requirements for transactions between participants in a collaborative arrangement and between participants in the arrangement and third parties.
+
+15 Scope and Scope Exceptions
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+General
+> Overall Guidance
+808-10-15-1
+The Scope Section of the Overall Subtopic establishes the pervasive scope for the Collaborative Arrangements Topic.
+> Transactions
+808-10-15-2
+The guidance in the Collaborative Arrangements Topic applies to collaborative arrangements.
+808-10-15-3
+The guidance in this Topic does not apply to arrangements for which the accounting is specifically addressed within the scope of other authoritative accounting literature.
+> Other Considerations
+808-10-15-4
+A collaborative arrangement within the scope of this Topic is not primarily conducted through a separate legal entity created for that activity. However, in some situations part of a collaborative arrangement may be conducted in a legal entity for specific activities or for a specific geographic location. The existence of a legal entity for part of an arrangement does not prevent an arrangement from being a collaborative arrangement. The part of the arrangement that is conducted in a separate legal entity shall be accounted for under the guidance in Topic 810, Consolidation, Subtopic 323-10, Investments—Equity Method and Joint Ventures, or other related accounting literature. However, the disclosures required by paragraph 808-10-50-1 apply to the entire collaborative arrangement, notwithstanding that a portion of the collaborative arrangement may be conducted in a legal entity.
+PENDING CONTENT
+Transition Date: January 1, 2025;  January 1, 2025Transition Guidance: 805-60-65-1
+A collaborative arrangement within the scope of this Topic is not primarily conducted through a separate legal entity created for that activity. However, in some situations part of a collaborative arrangement may be conducted in a legal entity for specific activities or for a specific geographic location. The existence of a legal entity for part of an arrangement does not prevent an arrangement from being a collaborative arrangement. The part of the arrangement that is conducted in a separate legal entity shall be accounted for under the guidance in Topic 810, Consolidation, Subtopic 805-60, Business Combinations—Joint Venture Formations, Subtopic 323-10, Investments—Equity Method and Joint Ventures, or other related accounting literature. However, the disclosures required by paragraph 808-10-50-1 apply to the entire collaborative arrangement, notwithstanding that a portion of the collaborative arrangement may be conducted in a legal entity.
+808-10-15-5
+This Topic does not address all recognition or measurement matters related to collaborative arrangements, for example, determining the appropriate units of accounting, the appropriate recognition requirements for a given unit of account, or when the recognition criteria are met.
+808-10-15-5A
+A collaborative arrangement within the scope of this Topic may be partially within the scope of other Topics, including, but not limited to, Topic 606 on revenue from contracts with customers.
+808-10-15-5B
+A collaborative arrangement is partially within the scope of Topic 606 if a unit of account, identified as a promised good or service (or bundle of goods or services) that is distinct within the collaborative arrangement using the guidance in paragraphs 606-10-15-4 and 606-10-25-19 through 25-22, is with a customer. An entity shall apply the guidance in Topic 606 to a unit of account that is within the scope of that Topic, including the recognition, measurement, presentation, and disclosure requirements. If a portion of a distinct bundle of goods or services is not with a customer, the unit of account is not within the scope of Topic 606.
+808-10-15-5C
+For a collaborative arrangement that is wholly or partially outside the scope of other Topics, including Topic 606, the unit of account, recognition, and measurement for the unit(s) of account outside the scope of other Topics, including Topic 606, shall be based on an analogy to authoritative accounting literature or, if there is no appropriate analogy, a reasonable, rational, and consistently applied accounting policy election.
+808-10-15-6
+Participants shall evaluate whether an arrangement is a collaborative arrangement at its inception based on the facts and circumstances specific to the arrangement. However, a collaborative arrangement can begin at any point in the life cycle of an endeavor. Participants shall reevaluate whether an arrangement continues to be a collaborative arrangement whenever there is a change in either the roles of the participants in the arrangement or the participants' exposure to significant risks and rewards dependent on the ultimate commercial success of the endeavor. For example, the exercise of an option could change a participant's role in the arrangement or its exposure to risks and rewards.
+· > Joint Operating Activity
+808-10-15-7
+The joint operating activities of a collaborative arrangement might involve joint development and commercialization of intellectual property, a drug candidate, software, computer hardware, or a motion picture. For example, a joint operating activity involving a drug candidate may include research and development, marketing (including promotional activities and physician detailing), general and administrative activities, manufacturing, and distribution. However, there may also be collaborative arrangements that do not relate to intellectual property. For example, the activities of a collaborative arrangement may involve joint operation of a facility, such as a hospital. A collaborative arrangement may provide that one participant has sole or primary responsibility for certain activities or that two or more participants have shared responsibility for certain activities. For example, the arrangement may provide for one participant to have primary responsibility for research and development and another participant to have primary responsibility for commercialization of the final product or service.
+· > Active Participation
+808-10-15-8
+Whether the parties in a collaborative arrangement are active participants will depend on the facts and circumstances specific to the arrangement. Examples of situations that may evidence active participation of the parties in a collaborative arrangement include, but are not limited to, the following:
+aDirecting and carrying out the activities of the joint operating activity
+bParticipating on a steering committee or other oversight or governance mechanism
+cHolding a contractual or other legal right to the underlying intellectual property.
+808-10-15-9
+An entity that solely provides financial resources to an endeavor is generally not an active participant in a collaborative arrangement within the scope of this Topic.
+· > Significant Risks and Rewards
+808-10-15-10
+Whether the participants in a collaborative arrangement are exposed to significant risks and rewards dependent on the commercial success of the joint operating activity depends on the facts and circumstances specific to the arrangement, including, but not limited to, the terms and conditions of the arrangement.
+808-10-15-11
+The terms and conditions of the arrangement might indicate that participants are not exposed to significant risks and rewards if, for example:
+aServices are performed in exchange for fees paid at market rates.
+bA participant is able to exit the arrangement without cause and recover all (or a significant portion) of its cumulative economic participation to date.
+cInitial profits are allocated to only one participant.
+dThere is a limit on the reward that accrues to a participant.
+808-10-15-12
+Other factors that shall be considered in evaluating risks and rewards include:
+aThe stage of the endeavor's life cycle
+bThe expected duration or extent of the participants' financial participation in the arrangement in relation to the endeavor's total expected life or total expected value.
+808-10-15-13
+Many collaborative arrangements involve licenses of intellectual property, and the participants may exchange consideration related to the license at the inception of the arrangement. Such an exchange does not necessarily indicate that the participants are not exposed to significant risks and rewards dependent on the ultimate commercial success of the endeavor. An entity shall use judgment in determining whether its participation in an arrangement subjects it to significant risks and rewards.
+
+20 Glossary
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+Collaborative Arrangement
+A contractual arrangement that involves a joint operating activity (see paragraph 808-10-15-7). These arrangements involve two (or more) parties that meet both of the following requirements:
+aThey are active participants in the activity (see paragraphs 808-10-15-8 through 15-9).
+bThey are exposed to significant risks and rewards dependent on the commercial success of the activity (see paragraphs 808-10-15-10 through 15-13).
+Contract
+An agreement between two or more parties that creates enforceable rights and obligations.
+Customer
+A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.
+Endeavor
+The activity that participants in a collaborative arrangement collaborate on. For example, in a biotechnology or pharmaceutical environment the endeavor may be the development and commercialization of a drug candidate. In the entertainment industry, it may be production and distribution of a motion picture.
+Not-for-Profit Entity
+An entity that possesses the following characteristics, in varying degrees, that distinguish it from a business entity:
+aContributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
+bOperating purposes other than to provide goods or services at a profit
+cAbsence of ownership interests like those of business entities.
+Entities that clearly fall outside this definition include the following:
+aAll investor-owned entities
+bEntities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
+Public Business Entity
+A public business entity is a business entity meeting any one of the criteria below. Neither a not-for-profit entity nor an employee benefit plan is a business entity.
+aIt is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing).
+bIt is required by the Securities Exchange Act of 1934 (the Act), as amended, or rules or regulations promulgated under the Act, to file or furnish financial statements with a regulatory agency other than the SEC.
+cIt is required to file or furnish financial statements with a foreign or domestic regulatory agency in preparation for the sale of or for purposes of issuing securities that are not subject to contractual restrictions on transfer.
+dIt has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market.
+eIt has one or more securities that are not subject to contractual restrictions on transfer, and it is required by law, contract, or regulation to prepare U.S. GAAP financial statements (including notes) and make them publicly available on a periodic basis (for example, interim or annual periods). An entity must meet both of these conditions to meet this criterion.
+An entity may meet the definition of a public business entity solely because its financial statements or financial information is included in another entity's filing with the SEC. In that case, the entity is only a public business entity for purposes of financial statements that are filed or furnished with the SEC.
+Revenue
+Inflows or other enhancements of assets of an entity or settlements of its liabilities (or a combination of both) from delivering or producing goods, rendering services, or other activities that constitute the entity's ongoing major or central operations.
+Security
+A share, participation, or other interest in property or in an entity of the issuer or an obligation of the issuer that has all of the following characteristics:
+aIt is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
+bIt is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
+cIt either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
+
+45 Other Presentation Matters
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+General
+808-10-45-1
+Participants in a collaborative arrangement shall report costs incurred and revenue generated from transactions with third parties (that is, parties that do not participate in the arrangement) in each entity's respective income statement pursuant to the guidance on principal versus agent considerations in paragraphs 606-10-55-36 through 55-40. An entity shall not apply the equity method of accounting under Subtopics 323-10 and 323-30 to activities of collaborative arrangements.
+808-10-45-2
+For costs incurred and revenue generated from third parties, the participant in a collaborative arrangement that is deemed to be the principal for a given transaction under paragraphs 606-10-55-36 through 55-40 shall record that transaction on a gross basis in its financial statements.
+808-10-45-3
+Parts of a collaborative arrangement that are within the scope of other authoritative accounting literature in accordance with paragraph 808-10-15-5A shall be presented using the relevant provisions of that literature. If parts of the arrangement are outside the scope of other authoritative accounting literature, the presentation of those parts shall be based on an analogy to authoritative accounting literature or if there is no appropriate analogy, a reasonable, rational, and consistently applied accounting policy election. An entity shall evaluate the presentation of parts of a collaborative arrangement on the basis of the nature of the arrangement, the nature of its business operations, and the contractual terms of the arrangement. For example, if one party to an arrangement is required to make a payment to the other party to reimburse a portion of that party's research and development costs, that portion of the net payment may be classified as research and development expense in the payor's financial statements in accordance with Topic 730. An entity is precluded from presenting transactions in a collaborative arrangement together with revenue from contracts with customers unless the entity applies the guidance in Topic 606 to a unit of account that is within the scope of that Topic in accordance with paragraph 808-10-15-5B.
+808-10-45-4
+Paragraph superseded by Accounting Standards Update No. 2018-18.
+808-10-45-5
+See Section 808-10-55 for additional guidance, including Examples 1 through 4.
+
+50 Disclosure
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General
+808-10-50-1
+In the period in which a collaborative arrangement is entered into (which may be an interim period) and all annual periods thereafter, a participant to a collaborative arrangement shall disclose all of the following:
+aInformation about the nature and purpose of its collaborative arrangements
+bIts rights and obligations under the collaborative arrangements
+cThe accounting policy for collaborative arrangements in accordance with Topic 235
+dThe income statement classification and amounts attributable to transactions arising from the collaborative arrangement between participants for each period an income statement is presented.
+Information related to individually significant collaborative arrangements shall be disclosed separately.
+
+55 Implementation Guidance and Illustrations
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+General
+> Illustrations
+808-10-55-1
+This Section is an integral part of the requirements of this Topic. This Section provides Examples that illustrate potential application of this Topic for collaborative arrangements based on the limited facts presented. The evaluations following each of the Example fact patterns are not intended to represent the only manner in which the guidance in this Topic could be applied. These illustrative Examples do not address all recognition or measurement matters related to collaborative arrangements, for example, the appropriate recognition requirements for a given unit of account, or when the recognition criteria that are met are addressed in other authoritative accounting literature. Additional facts would most likely be required in order to fully evaluate the accounting and presentation issues related to these arrangements (in other words, to evaluate the possible effect of other authoritative accounting literature).
+808-10-55-2
+For the purpose of the Examples in this Section, assume that all of the arrangements are collaborative arrangements within the scope of this Topic.
+> Example 1 : Equal Participation in Results of Research, Development, and Commercialization Arrangement, Participants Perform Different Activities
+808-10-55-3
+This Example illustrates the guidance in Section 808-10-45. Pharma and Biotech agree to equally participate in the results of research and development activities for a drug candidate and in the commercialization activities if and when the drug candidate is approved for sale, pursuant to a joint development and marketing agreement (a 50 percent, 50 percent arrangement). Biotech is responsible for conducting research and development activities relating to the drug candidate, and Pharma is responsible for the commercialization activities if and when the drug candidate is approved for sale. On a quarterly basis, Pharma and Biotech provide the other party with financial information about the research and development activities performed by Biotech and the commercialization activities performed by Pharma under the joint development and marketing agreement. One participant is required to make a payment to the other participant for the proportionate share of the excess of the entities' combined operating results pursuant to their joint development and marketing agreement. In the first annual period after the product launch, Biotech incurred research and development expenses of $10 million, and Pharma had sales to third parties of $50 million, related manufacturing expenses of $20 million, and marketing expenses of $10 million. Pharma owes Biotech $15 million, such that each participant realizes a $5 million net profit from the arrangement (total sales of $50 million, less total expenses (including research and development) of $40 million, divided by 2).
+808-10-55-4
+Based on an evaluation of the facts and circumstances, Pharma concludes that it is the principal on the sales transactions with third parties and will present 100 percent of the sales, cost of sales, and marketing expenses in its income statement. Pharma has concluded that other authoritative accounting literature does not apply directly to net payments to Biotech, including Topic 606 on revenue from contracts with customers because Biotech is not a customer. Pharma has concluded that Biotech is not a customer because Biotech has not contracted with Pharma to obtain goods or services that are an output of Pharma's ordinary activities in exchange for consideration. Pharma also has concluded that there is no other authoritative accounting literature that is appropriate to apply by analogy, and, accordingly, its accounting policy is to evaluate the presentation of amounts due from or owed to other participants associated with multiple activities in a collaborative arrangement based on the nature of each separate activity. As a result, Pharma disaggregates its $15 million net payable to Biotech in accordance with the nature of the individual components of the payable and characterizes the profit sharing portion of the payable for 50 percent of the profit related to the sales as cost of sales ($10 million) and characterizes the portion of the payable to Biotech for research and development activities as research and development expense ($5 million). Pharma presents the following information in its financial statements with respect to this collaborative arrangement (in thousands):
+808-10-55-5
+Biotech records research and development expense ($10 million) for its research and development activities. Biotech has concluded that the research and development services to Pharma represent a distinct service provided to Pharma as a customer. Biotech has concluded that Pharma is a customer because Pharma contracted with Biotech to obtain research and development services that are an output of Biotech's ordinary activities in exchange for consideration. Therefore, Biotech applies the guidance in Topic 606 on revenue from contracts with customers to account for and present its net receivable from Pharma, including profit-sharing payments, as revenue ($15 million) when recognized. Biotech will not present sales, cost of sales, or marketing expenses related to the sales transactions with third parties because it is not the principal on those transactions.
+Biotech presents the following information in its financial statements with respect to this collaborative arrangement (in thousands):
+808-10-55-6
+This evaluation is not intended to illustrate the appropriate revenue recognition requirements for any of the transactions described in this Example or the appropriateness of the conclusions reached on determining whether and how authoritative accounting literature applies directly or by analogy. Rather, those conclusions have been assumed as facts in this Example.
+> Example 2 : Equal Participation in Results of Research, Development, and Commercialization Arrangement, Participants Perform Some of the Same Activities
+808-10-55-7
+This Example illustrates the guidance in Section 808-10-45. Pharma and Biotech agree to equally participate in the results of research and development activities for a drug candidate and in the commercialization activities if the drug candidate is approved for sale, pursuant to a joint development and marketing agreement (a 50 percent, 50 percent arrangement). Assume that Pharma and Biotech both agree to provide resources during the research and development phase, and Pharma is responsible for the commercialization activities if the drug candidate is approved for sale. As both participants are performing research and development activities, there may be periods in which Biotech must make a payment to Pharma for its proportionate share of the research and development activities and periods in which Pharma must make payments to Biotech. On a quarterly basis, Pharma and Biotech provide financial information about the research and development activities performed by both parties and the commercialization activities performed by Pharma under the joint development and marketing agreement. One participant is required to make a payment to the other participant for a proportionate share of the excess of the parties' combined operating results pursuant to their joint development and marketing agreement. In the first annual period after the product launch, Biotech and Pharma incurred research and development expenses of $10 million and $15 million, respectively. Pharma had sales to third parties of $75 million, related manufacturing expenses of $22.5 million, and marketing expenses of $20 million. As a result, Pharma owes Biotech $13.75 million, such that each participant realizes $3.75 million net profit from the arrangement (total sales of $75 million, less total expenses of $67.5 million, divided by 2).
+808-10-55-8
+Based on an evaluation of the facts and circumstances, Pharma concludes that it is the principal on the sales transactions with third parties and will present 100 percent of the sales, cost of sales, and marketing expenses in its income statement. Pharma has concluded that other authoritative accounting literature does not apply directly to net payments to Biotech, including Topic 606 because Biotech is not a customer. Pharma has concluded that Biotech is not a customer because Biotech has not contracted with Pharma to obtain goods or services that are an output of Pharma's ordinary activities in exchange for consideration. Pharma also has concluded that there is no other authoritative accounting literature that is appropriate to apply by analogy, and, accordingly, its accounting policy is to evaluate the presentation of amounts due from or owed to other participants associated with multiple activities in a collaborative arrangement based on the nature of each separate activity. As a result, Pharma disaggregates the $13.75 million net payable to Biotech in accordance with the nature of the individual components of the payable and characterizes the portion of the payable related to 50 percent of the commercialization activities (sales to third parties less associated manufacturing and marketing costs) as cost of sales ($16.25 million). Pharma characterizes the portion of the net payable related to research and development activities as a reduction of its research and development expenses ($2.5 million), because performing contract research and development services is not part of its ordinary activities. Pharma presents the following information in its financial statements with respect to this collaborative arrangement (in thousands):
+808-10-55-9
+Biotech records research and development expense ($10 million) for its research and development activities. Biotech will characterize the portion of the net receivable from Pharma related to Pharma's sales to third parties ($16.25 million) as revenue. Biotech also considers performing research and development services to be part of its ordinary activities and is providing the output of those activities to Pharma as a customer in the context of the unit of account related to research and development services. Biotech analyzes its specific facts and circumstances under the guidance on consideration payable to a customer in paragraphs 606-10-32-25 through 32-27 and determines that the portion of the net receivable that relates to a reimbursement of Pharma's research and development costs ($2.5 million) should be characterized as a reduction of revenue. Biotech will not present sales, cost of sales, or marketing expenses related to the sales transactions with third parties because it is not the principal on those transactions. Biotech presents the following information in its financial statements with respect to this collaborative arrangement (in thousands):
+808-10-55-10
+This evaluation is not intended to illustrate the appropriate revenue recognition requirements for any of the transactions described in this Example or the appropriateness of the conclusions reached on determining whether and how authoritative accounting literature applies directly or by analogy. Rather, those conclusions have been assumed as facts in this Example.
+> Example 3 : Unequal Participation in Results of Research, Development, and Commercialization Arrangement, Participants Perform Some of the Same Activities
+808-10-55-11
+This Example illustrates the guidance in Section 808-10-45. Big Pharma and Little Pharma agree to jointly participate in the results of the research and development activities for a drug candidate and in the commercialization activities if and when the drug candidate is approved for sale, pursuant to a joint development and marketing agreement. Big Pharma and Little Pharma both agree to provide resources during the research and development and the commercialization activities. Little Pharma will be responsible for commercialization activities in the United States, and Big Pharma will be responsible for commercialization activities in Europe and Asia. Under the arrangement, they will share research and development costs incurred on a 50 percent, 50 percent basis. Little Pharma will retain 65 percent of the net profits from commercialization activities in the United States, and Big Pharma will retain 70 percent of the net profits from commercialization activities in Europe and Asia. On a quarterly basis, Big Pharma and Little Pharma provide financial information about the research and development and the commercialization activities performed by both parties under the joint development and marketing agreement, and one participant is required to make a payment to the other participant for a proportionate share of the excess of the parties' combined operating results pursuant to their joint development and marketing agreement. The results of the first annual period of the collaborative arrangement prior to any payments between the parties were as follows (in thousands):
+808-10-55-12
+Based on an evaluation of the facts and circumstances, Big Pharma concludes that it is the principal on the sales transactions with third parties in Europe and Asia and will present 100 percent of the sales, cost of sales, and marketing expenses related to those efforts in its income statement. Big Pharma has concluded that other authoritative accounting literature does not apply directly to net payments to Little Pharma, including Topic 606 because Little Pharma is not a customer. Big Pharma has concluded that Little Pharma is not a customer because Little Pharma has not contracted with Big Pharma to obtain goods or services that are an output of Big Pharma's ordinary activities in exchange for consideration. Big Pharma also has concluded that there is no other authoritative accounting literature that is appropriate to apply by analogy, and, accordingly, its accounting policy is to evaluate the presentation of amounts associated with each separate activity. As a result, Big Pharma disaggregates its $4.75 million net receivable from Little Pharma in accordance with the nature of the individual components of the payable and characterizes the portion of the net receivable related to 30 percent of the profit related to the sales in Europe and Asia as expenses from collaborative arrangement ($10.5 million) and the portion of the net receivable related to a reimbursement of Little Pharma's research and development costs as research and development expenses ($7.5 million). Big Pharma concludes that the portion of the net receivable directly related to Little Pharma's third-party sales in the United States is analogous to a royalty and therefore characterizes the $22.75 million as revenue similar to a royalty. Big Pharma also concludes that any payment from Little Pharma for research and development activities would be characterized as a reduction of its research and development costs because performing contract research and development services is not part of its ordinary activities. Big Pharma presents the following information in its financial statements with respect to this collaborative arrangement (in thousands):
+808-10-55-13
+Little Pharma concludes that it is the principal on the sales transactions with third parties in the United States and will present 100 percent of the sales, cost of sales, and marketing expenses related to those efforts in its income statement. Little Pharma has concluded that other authoritative accounting literature does not apply directly to net payments to Big Pharma, including Topic 606 because Big Pharma is not a customer. Little Pharma has concluded that Big Pharma is not a customer because Big Pharma has not contracted with Little Pharma to obtain goods or services that are an output of Little Pharma's ordinary activities in exchange for consideration. Little Pharma also has concluded that there is no other authoritative accounting literature that is appropriate to apply by analogy, and, accordingly, its accounting policy is to evaluate the presentation of payments associated with each separate activity. As a result, Little Pharma disaggregates its $4.75 million net payable to Big Pharma in accordance with the nature of the individual item and characterizes a portion of the net payable related to 35 percent of the profit related to the sales in the United States as expenses from collaborative arrangement ($22.75 million) and characterizes the portion of the net payable to Big Pharma for research and development activities as research and development expenses. Little Pharma concludes that the portion of the net payable directly related to profit sharing from Big Pharma's third-party sales in Europe and Asia is analogous to a royalty and therefore should characterize the $10.5 million as revenue similar to a royalty. Little Pharma also concludes that any payment from Big Pharma for research and development activities will be characterized as a reduction of its research and development costs ($7.5 million) because performing contract research and development services is not part of its ordinary activities. Little Pharma presents the following information in its financial statements with respect to this collaborative arrangement (in thousands):
+808-10-55-14
+This evaluation is not intended to illustrate the appropriate revenue recognition requirements for any of the transactions described in this Example or the appropriateness of the conclusions reached on determining whether and how authoritative accounting literature applies directly or by analogy. Rather, those conclusions have been assumed as facts in this Example.
+> Example 4 : Equal Participation in Results of Production and Distribution of Major Motion Picture, Participants Perform Some of the Same Activities
+808-10-55-15
+This Example illustrates the guidance in Section 808-10-45. Studio A and Studio B agree to jointly participate in the production and distribution of a major motion picture. Studio A will manage the day-to-day production activities and will be responsible for distribution in the United States. Studio B will be responsible for distribution in Europe and Asia. Even though Studio A will be managing the production, the terms of the arrangement state that both studios will share equally in all production costs incurred. Further, Studio A will pay 50 percent of the net profits (that is, revenues less distribution costs) from the United States distribution to Studio B, and Studio B will pay 50 percent of the net profits from European and Asian distribution to Studio A. The studios are responsible for initially funding all distribution costs in their respective locations. For purposes of this example, no license to intellectual property has been conveyed to Studio B.
+808-10-55-16
+Assume that Studio A and Studio B have the same estimates of ultimate revenue and ultimate participation costs. Both studios estimate that Studio A will owe Studio B net ultimate participation costs of $45 million. Based on the individual-film-forecast-computation method in accordance with Section 926-20-35, Studio A's current period participation cost expense (and Studio B's current period participation income) is $7 million in Year 1 following the film's initial release.
+808-10-55-17
+Based on an evaluation of the facts and circumstances, during (or at the completion of) production, Studio A records a receivable from Studio B for production costs and a corresponding reduction of its capitalized film costs. Studio A has determined that, considering the guidance on principal versus agent considerations in paragraphs 606-10-55-36 through 55-40, it is the principal for the revenue generated in the United States. Accordingly, it characterizes all of the gross revenue generated in the United States as revenue in its income statement and likewise records all of the associated distribution costs for distribution in the United States. Studio A concludes that Topic 606 does not apply to net participation costs owed to Studio B because Studio B is not a customer. Studio A also concludes that there is no other authoritative accounting literature that is appropriate to apply by analogy, and, accordingly, Studio A's accounting policy with respect to participation costs due from and to its production partners is to record net amounts due from production partners for profit shares on sales to third parties as additional revenue and net amounts due to production partners for profit shares on sales to third parties as a cost of sales. Accordingly, Studio A characterizes its Year 1 participation cost expense of $7 million as cost of sales.
+808-10-55-18
+During production, Studio B records amounts payable to Studio A for production costs and a corresponding amount as capitalized film costs. Studio B has determined that, after considering the guidance on principal versus agent considerations in paragraphs 606-10-55-36 through 55-40, it is the principal for the revenue generated in Europe and Asia. Accordingly, it characterizes all of the gross revenue generated in Europe and Asia as revenue in its income statement and likewise records all of the associated distribution costs for distribution in Europe and Asia. Studio B concludes that other authoritative accounting literature does not apply directly, including Topic 606 because Studio A is not a customer, regarding the presentation of net ultimate participation costs due from Studio A. Studio B has concluded that Studio A is not a customer because Studio A has not contracted with Studio B to obtain goods or services that are an output of Studio B's ordinary activities in exchange for consideration. Studio B also concludes that other authoritative accounting literature does not apply by analogy, and, accordingly, Studio B's accounting policy for profit sharing amounts due from and to its production partners is to record those amounts on a net basis in cost of sales. It views those amounts either as additional costs for production and distribution or as a reimbursement of such costs. Accordingly, Studio B characterizes its Year 1 participation cost income of $7 million as a reduction of cost of sales.
+808-10-55-19
+This evaluation is not intended to illustrate the appropriate revenue recognition requirements for any of the transactions described in this Example or the appropriateness of the conclusions reached on determining whether and how authoritative accounting literature applies directly or by analogy. Rather, those conclusions have been assumed as facts in this Example.
+
+65 Transition and Open Effective Date Information
+General Note:The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
+General
+808-10-65-1
+Paragraph superseded on 07/01/2010 after the end of the transition period stated in EITF Issue No. 07-1, "Accounting for Collaborative Arrangements."
+808-10-65-2
+Paragraph superseded on 12/14/2022 after the end of the transition period stated in Accounting Standards Update No. 2018-18, Collaborative Arrangements (Topic 808): Clarifying the Interaction between Topic 808 and Topic 606.
+
+About
+Help
+Contact Us
+Copyright
+Terms and Conditions
+FASB.org
+Broad Transactions
+808 Collaborative Arrangements
+Print
+keyboard_arrow_up
+Display
+keyboard_arrow_up
