@@ -2,7 +2,7 @@
 date: "{{date:YYYY-MM-DD}}"
 tags: [project]
 status: active
-type: B
+type: B-实务决策
 standards: []
 related: []
 ---

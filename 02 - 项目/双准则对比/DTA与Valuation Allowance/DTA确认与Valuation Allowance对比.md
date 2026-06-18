@@ -2,7 +2,7 @@
 tags: [ifrs, us-gaap, ias12, asc740, 递延所得税, DTA, valuation-allowance, 双准则对比]
 date: 2026-06-18
 status: active
-type: C
+type: C-双准则对比
 standards: [IAS 12, ASC 740]
 related:
   - "[[适用税率选择及计算]]"
