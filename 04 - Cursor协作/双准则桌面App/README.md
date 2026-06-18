@@ -1,25 +1,31 @@
 ---
-tags: [product, desktop, 索引]
+tags: [product, desktop, 迁移]
 date: 2026-06-18
 ---
 
-# 双准则桌面 App — 设计文档索引
+# 双准则桌面 App — 仓库已迁移
 
-本目录存放 **Desktop App** 产品设计，与现有 Obsidian Vault **解耦**。实现时在独立 GitHub 仓库落地。
+产品设计文档与代码脚手架已迁至独立 GitHub 仓库：
 
-| 文档 | 说明 |
+**https://github.com/MoonMaxTea/AccoutingStandards-Desktop**
+
+（若仓库尚未创建，见 [[SETUP]] 从 bundle 推送。）
+
+## 本目录保留
+
+| 文件 | 说明 |
 |------|------|
-| [[设计说明]] | 主设计稿：架构、registry、pack、更新、UI |
-| [[examples/standards-registry.example.yaml]] | 准则注册表字段示例 |
-| [[examples/registry.example.json]] | 构建产出 registry |
-| [[examples/pack-manifest.example.json]] | ZIP 包内 manifest |
-| [[examples/updates-manifest.example.json]] | GitHub 更新检查 manifest |
+| [[SETUP]] | 创建 GitHub 仓库并推送的步骤 |
+| `AccoutingStandards-Desktop.bundle` | Git bundle（含完整初始 commit，19KB） |
 
-## 相关
+## 内容源（不变）
 
-- Vault 用途：[[../../README]]
-- 项目笔记规范：[[../../02 - 项目/项目编写说明]]
+准则正文仍在 Vault：
+
+- `03 - 知识库/` — Desktop 构建时只读拉取
+- `02 - 项目/项目编写说明.md` — AI 编写规范
 
 ## 日志
 
-- 2026-06-18：初版设计说明与示例文件
+- 2026-06-18：设计说明初版（曾存于本目录）
+- 2026-06-18：迁移至 AccoutingStandards-Desktop 仓库；registry 130 条骨架
