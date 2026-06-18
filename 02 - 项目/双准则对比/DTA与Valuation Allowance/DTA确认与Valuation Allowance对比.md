@@ -2,16 +2,32 @@
 tags: [ifrs, us-gaap, ias12, asc740, 递延所得税, DTA, valuation-allowance, 双准则对比]
 date: 2026-06-18
 status: active
+type: C
+standards: [IAS 12, ASC 740]
+related:
+  - "[[适用税率选择及计算]]"
 ---
 
 # US GAAP 与 IFRS 下 DTA 确认及 Valuation Allowance 对比
 
+> **TL;DR**：US GAAP 用 **Valuation Allowance** 减记 DTA；IFRS **无 VA**，仅确认 **probable** 能利用的部分。
+> **关键依据**：IAS 12 §24–37；ASC 740-10-30-5(e)、740-10-30-16–24
+> **适用场景**：评估 DTA 可实现性、编制调节表、理解 IFRS/US GAAP 所得税差异时
+
 ## 问题
 
-US GAAP 下递延所得税资产（DTA）可以通过 **Valuation Allowance（VA，估值备抵）** 减记；IFRS 下如何处理？
+### 背景
+
+US GAAP 下递延所得税资产（DTA）可通过 Valuation Allowance（VA）减记；实务中常简称「VA 掉 DTA」。
+
+### 决策问题
 
 1. IFRS 是否有与 VA 对应的概念？
 2. 两套准则在 DTA **确认门槛**和**列报方式**上有何差异？
+
+### 边界
+
+- 本文聚焦 DTA **确认与减记机制**，不展开适用税率选择（见 [[适用税率选择及计算]]）
 
 ---
 
@@ -28,6 +44,16 @@ US GAAP 下递延所得税资产（DTA）可以通过 **Valuation Allowance（VA
 | **后续变化** | 调整 VA → 计入所得税费用 | 重新评估未确认 DTA → 满足条件时**新增确认** |
 
 > **实务要点**：IFRS **没有 Valuation Allowance 这一科目**；不能实现的部分直接体现在「确认的 DTA 金额较小」，而非「毛 DTA − VA」。
+
+### 术语对照
+
+| 中文 | 英文 | 准则 |
+|------|------|------|
+| 递延所得税资产 | Deferred Tax Asset (DTA) | IAS 12 / ASC 740 |
+| 估值备抵 | Valuation Allowance (VA) | ASC 740（IFRS 无对应科目） |
+| 很可能 | Probable | IAS 12 |
+| 更可能 than not（>50%） | More likely than not | ASC 740 |
+| 未确认递延所得税资产 | Unrecognised deferred tax assets | IAS 12 §37 |
 
 ---
 
@@ -218,13 +244,31 @@ flowchart TD
 
 ## 结论
 
-1. **你的理解正确**：US GAAP 下 DTA 可被 **Valuation Allowance** 减记；IFRS **没有 VA 概念**。
-2. **IFRS 的处理方式**：对 DTA 采用 **probable 确认门槛**——仅确认很可能能利用的部分；不能利用的部分**直接不确认**，而非通过备抵科目减记。
-3. **列报差异**：US GAAP 为「毛 DTA − VA」；IFRS 为「已确认 DTA 净额」，两者在可实现金额相同时，**资产负债表净额可能一致**，但**科目结构和附注披露不同**。
-4. **亏损场景更严**：IFRS 对 unused tax losses 有额外限制（§34–36），近年亏损时须有更多 convincing evidence 才能确认 DTA；US GAAP 同样视累计亏损为重大负面证据，但通过 VA 机制体现。
-5. **后续处理**：US GAAP 调整 VA；IFRS 重新评估 **unrecognised deferred tax assets** 并在条件满足时确认（§37）。
+### 准则结论
 
----
+1. **你的理解正确**：US GAAP 下 DTA 可被 **Valuation Allowance** 减记；IFRS **没有 VA 概念**。
+2. **IFRS 的处理方式**：对 DTA 采用 **probable 确认门槛**——仅确认很可能能利用的部分；不能利用的部分**直接不确认**。
+3. **列报差异**：US GAAP 为「毛 DTA − VA」；IFRS 为「已确认 DTA 净额」，净额可能一致但科目结构不同。
+4. **亏损场景更严**：IFRS §34–36 对 unused tax losses 有额外限制；US GAAP 通过 VA + 累计亏损负面证据体现。
+5. **后续处理**：US GAAP 调整 VA；IFRS 重新评估 unrecognised DTA 并在条件满足时确认（§37）。
+
+### 操作结论
+
+| 情形 | US GAAP | IFRS |
+|------|---------|------|
+| 部分 DTA 可能无法实现 | 全额确认 DTA，设立 **VA** | **仅确认** probable 部分 |
+| 工作底稿 | 跟踪 DTA 毛额与 VA 变动 | 跟踪已确认 vs 未确认 DTA |
+| 与审计沟通 | 强调 VA 证据权重（740-10-30-17–23） | 强调 probable 与未来 taxable profit |
+
+## 实务提示
+
+- 调节 US GAAP 报表至 IFRS 时，VA 变动与 IFRS DTA 确认/转回时点可能不同，需单独调节
+- IFRS 近年亏损场景下确认 DTA 需 **convincing other evidence**（§36），不可仅依赖 optimistic forecast
+- US GAAP 的 tax-planning strategies（740-10-30-19）与 IFRS tax planning opportunities（§30）概念类似，但机制仍不同
+
+## 相关项目
+
+- [[适用税率选择及计算]] — 同一 IAS 12 下的税率调节表适用税率选择
 
 ## 准则索引（知识库）
 
@@ -238,3 +282,4 @@ flowchart TD
 ## 日志
 
 - 2026-06-18：初稿，基于知识库 IAS 12、ASC 740 原文整理
+- 2026-06-18：v2 — 按项目编写说明 v2 增加 TL;DR、type C、术语表、分层结论、相关项目

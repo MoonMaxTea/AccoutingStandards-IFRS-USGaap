@@ -12,17 +12,37 @@ date: 2026-06-18
 | 目录 | 用途 |
 |------|------|
 | `03 - 知识库/` | **核心**：IFRS / US GAAP 准则全文（唯一允许的准则来源） |
-| `02 - 项目/` | 实务 Q&A 项目笔记（[[02 - 项目/项目编写说明]]） |
-| `00 - 入门/` | Obsidian 与 Cursor 使用说明 |
+| `02 - 项目/` | 实务 Q&A 项目笔记（[[02 - 项目/项目编写说明\|编写说明]] · [[02 - 项目/项目索引\|项目索引]]） |
+| `00 - 入门/` | Obsidian 使用说明 |
 | `04 - Cursor协作/` | Agent 任务交接（可选） |
-| `.scripts/` | 知识库维护脚本（增量更新准则时用） |
+| `.scripts/` | 知识库维护脚本 |
 | `.cursor/skills/` | Cursor Agent 编写准则笔记的 Skill |
+
+### 项目笔记子目录
+
+| 子目录 | 类型 | 说明 |
+|--------|------|------|
+| `IFRS项目/` | A / B | 单一 IFRS 问题 |
+| `USGAAP项目/` | A / B | 单一 US GAAP 问题 |
+| `双准则对比/` | C | IFRS vs US GAAP 对比 |
 
 ## 如何使用
 
 1. 在 Cursor 中打开本仓库作为工作区
-2. 提出 IFRS 或 US GAAP 问题，要求 Agent **仅查知识库**并写成项目笔记
-3. Agent 会自动加载 `.cursor/skills/writing-accounting-standards-notes/SKILL.md`
+2. 提出 IFRS 或 US GAAP 问题，要求 Agent **仅查知识库**并按项目编写说明写笔记
+3. Agent 自动加载 `.cursor/skills/writing-accounting-standards-notes/SKILL.md`
+
+**示例提问**：
+
+> 「IFRS 与 US GAAP 下 DTA 处理有何不同？按项目编写说明写。」
+
+## 项目笔记规范（摘要）
+
+- **TL;DR** 三行摘要 + 结构化「问题」节
+- **A / B / C** 三种类型（概念 / 决策 / 双准则对比）
+- 准则引用仅限知识库；引用后附提炼表
+- 结论分「准则结论」与「操作结论」
+- 详见 [[02 - 项目/项目编写说明]]
 
 ## 知识库规模
 
@@ -32,6 +52,6 @@ date: 2026-06-18
 
 ## 维护
 
-- 更新 ASC：见 [[03 - 知识库/US GAAP/ASC Codification 导出指引]]
-- 更新 IFRS/IAS：见 `.scripts/README.md`
+- 更新 ASC：[[03 - 知识库/US GAAP/ASC Codification 导出指引]]
+- 更新 IFRS/IAS：`.scripts/README.md`
 - 工作指令：[[AGENTS.md]]
