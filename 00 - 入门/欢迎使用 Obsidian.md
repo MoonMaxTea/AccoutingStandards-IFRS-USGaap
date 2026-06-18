@@ -37,5 +37,3 @@ Agent 会在 `03 - 知识库/` 中检索准则，并在 `02 - 项目/` 生成结
 ## 已配置的插件
 
 - **Claudian**（`realclaudian`）— Obsidian 内 AI 助手（可选）
-
-下一站 → [[Codex 联动指南]]
