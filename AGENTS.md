@@ -14,3 +14,8 @@
 - 用户可能同时在 Obsidian 和 Codex 中操作同一份文件
 - 写入文件时遵循已有的目录结构和命名风格
 - 优先使用 Obsidian 双向链接语法 `[[笔记名]]` 关联笔记
+
+## 准则项目笔记
+- IFRS / US GAAP 问题写成项目笔记时，**必须先加载** Skill：`.cursor/skills/writing-accounting-standards-notes/SKILL.md`
+- 完整编写规范见 `02 - 项目/项目编写说明.md`
+- 准则依据**仅限** `03 - 知识库/` 目录
