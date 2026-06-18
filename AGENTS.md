@@ -18,7 +18,7 @@
 
 ## 准则项目笔记
 
-编写 IFRS / US GAAP 项目笔记时：
+编写 IFRS / US GAAP 项目笔记时，用户说「**按项目编写说明写**」即按 `02 - 项目/项目编写说明.md`（现行唯一规范）执行：
 
 1. **必须先加载** Skill：`.cursor/skills/writing-accounting-standards-notes/SKILL.md`
 2. **完整规范**：`02 - 项目/项目编写说明.md`

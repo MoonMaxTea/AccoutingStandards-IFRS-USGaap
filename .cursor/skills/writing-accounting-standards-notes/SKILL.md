@@ -9,7 +9,9 @@ description: Use when the user asks IFRS or US GAAP accounting questions and wan
 
 IFRS / US GAAP 问题 → **结构化项目笔记**，存于 `02 - 项目/`，准则**仅限** `03 - 知识库/`。
 
-**完整规范**：[[02 - 项目/项目编写说明]] | **索引**：[[02 - 项目/项目索引]]
+**完整规范**：[[02 - 项目/项目编写说明]]（现行唯一规范，无版本号）| **索引**：[[02 - 项目/项目索引]]
+
+用户说「按项目编写说明写」→ 直接按该文件最新内容执行，无需加版本号。
 
 ## Quick Reference
 

@@ -29,7 +29,7 @@ date: 2026-06-18
 ## 如何使用
 
 1. 在 Cursor 中打开本仓库作为工作区
-2. 提出 IFRS 或 US GAAP 问题，要求 Agent **仅查知识库**并按项目编写说明写笔记
+2. 提出 IFRS 或 US GAAP 问题，说「**按项目编写说明写**」— Agent **仅查知识库**并按 `02 - 项目/项目编写说明.md` 生成笔记
 3. Agent 自动加载 `.cursor/skills/writing-accounting-standards-notes/SKILL.md`
 
 **示例提问**：
