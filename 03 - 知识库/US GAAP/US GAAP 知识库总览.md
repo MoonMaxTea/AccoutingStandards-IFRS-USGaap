@@ -94,4 +94,4 @@ date: "2026-06-09"
 - 标准结构：`frontmatter` → 标题 → `---` → 英文原文
 - **有效 Topic 共 88 个**（已剔除不存在的 608、862、865）
 - 自动化：见 [[ASC Codification 导出指引]]；日志：`.logs/cursor/asc-export.log`
-- 旧 PDF 脚本（`asc_pdf_create.py`）已弃用，勿再用于主数据源
+- 旧 PDF 脚本已移除，勿再用于主数据源

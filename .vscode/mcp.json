@@ -1,9 +1,0 @@
-{
-  "servers": {
-    "terminal-automatization": {
-      "type": "http",
-      "url": "http://localhost:49444/mcp",
-      "serverName": "terminal-automatization"
-    }
-  }
-}

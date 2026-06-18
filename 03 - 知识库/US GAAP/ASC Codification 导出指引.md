@@ -155,13 +155,17 @@ Broad Transactions 官方区段至 **860**；Industry 自 **905** 起。
 - 延长等待轮数，或手动刷新 Browser Tab。
 - 若 Topic 确实很小（如 915，~4 KB），降低长度阈值后直接 `document.body.innerText` 提取。
 
-### 5.4 勿用的脚本（已废弃）
+### 5.4 已移除的脚本
+
+以下脚本已从仓库删除，**勿再引用**：
 
 | 脚本 | 原因 |
 |------|------|
-| `asc_batch_playwright.mjs` | 唤起本机 Edge，Cloudflare 拦截 |
-| `asc_batch_selenium.py` | 同上 |
+| `asc_batch_playwright.mjs` | Playwright 直连，Cloudflare 拦截 |
+| `asc_batch_selenium.py` | Selenium 直连，同上 |
+| `asc_codification_scrape.py` / `.mjs` | 同上 |
 | `asc_pdf_create.py` | 旧 PDF/ASU 路线，非现行 Codification |
+| `asc_print_pdf_import.py` | 旧 Print-to-PDF 路线 |
 
 ## 六、推荐批量策略（Agent）
 

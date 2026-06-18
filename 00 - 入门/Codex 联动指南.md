@@ -2,54 +2,41 @@
 tags: [guide, codex]
 ---
 
-# 🤖 Codex 联动指南
+# Codex / Cursor 联动指南
 
-Obsidian 的笔记就是普通 Markdown 文件，**Codex 可以直接读写你的 Vault**。
+本 Vault 的所有笔记均为 Markdown 文件，**Cursor Agent 可直接读写**。
 
-## 联动方式
+## 主要用途
 
-### 1. 让 Codex 打开你的 Vault
+| 场景 | 做法 |
+|------|------|
+| 准则 Q&A | 在 Cursor 提问，Agent 检索 `03 - 知识库/` 并写项目笔记 |
+| 浏览准则 | 在 Obsidian 中打开知识库，使用双向链接和搜索 |
+| 增量更新准则 | 运行 `.scripts/` 中的维护脚本（见 `.scripts/README.md`） |
 
-在 Codex 终端中，`cd` 到你的 Vault 目录，Codex 就可以：
+## 常用 Cursor 指令示例
 
-- 帮你**创建笔记**、整理结构
-- **批量格式化**、重命名
-- 写 **Dataview 查询** 来分析笔记
-- 生成 **MOC（Map of Content）** 索引
+> "IFRS 下合营和联营如何定义？仅查知识库，按项目编写说明写。"
 
-### 2. 常用 Codex 指令示例
+> "US GAAP 下 lease modification 如何披露？查 ASC 842 和知识库。"
 
-> "帮我把 `02 - 项目` 下面所有未完成的任务汇总成一张表"
->
-> "给我的 `01 - 日记` 创建按月份分组的 MOC 页面"
->
-> "写一个 Dataview 查询，列出所有 tag 为 #meeting 且超过 30 天未更新的笔记"
->
-> "把我粘贴的会议记录格式化成 meeting-note 模板的样子"
+> "列出 `02 - 项目` 下所有 IFRS 项目笔记。"
 
-### 3. 自动化笔记生成
+## 自动化脚本
 
-你可以在 Codex 中建立 `.scripts/` 目录（以 `.` 开头，Obsidian 中默认不显示），放一些 Python/Shell 脚本，然后用 Codex 驱动：
+`.scripts/` 目录存放知识库维护脚本（Obsidian 中以 `.` 开头默认隐藏）：
 
-- 从 RSS 抓取文章生成阅读笔记
-- 从 API 拉取数据写入知识库
-- 定期汇总日记生成周报/月报
+- **IFRS/IAS**：PDF 导入、中文提炼格式统一
+- **US GAAP/ASC**：Browser MCP 导出后的 JSON → Markdown 转换
 
-### 4. 配置文件同步
+纯 Q&A 场景不需要运行脚本。
 
-`.obsidian/` 目录下的所有配置也都是文本文件，Codex 可以帮你：
+## 配置文件
 
-- 调整主题、热键、插件配置
-- 在不同设备间移植配置
-- 批量修改 frontmatter（YAML 头部）属性
-
-## 下一步
-
-1. 打开 Obsidian，选择这个文件夹作为 Vault
-2. 去 `设置 > 第三方插件` 开启安全模式并浏览安装推荐插件
-3. 开始写第一条日记：`Ctrl+P > 打开日记`
+- `.obsidian/` — Obsidian 配置（可选，Cursor Q&A 不依赖）
+- `.cursor/skills/` — Cursor Agent 编写准则笔记的 Skill
+- `AGENTS.md` — Vault 全局工作指令
 
 ---
 
-💡 **记住**：所有笔记都是本地 `.md` 文件，你可以随时用任何编辑器打开，数据 100% 属于你。
-
+💡 所有笔记均为本地 `.md` 文件，可用任何编辑器打开。

@@ -1,27 +1,20 @@
 ﻿---
 tags: [cursor, codex, 协作]
-date: "2026-05-30"
+date: "2026-06-18"
 ---
 
-# 🤝 Codex ↔ Cursor 协作区
+# Cursor 协作区
 
-本目录是 **Codex** 与 **Cursor** 之间的"消息板"——双方通过这里的笔记进行任务交接和信息同步。
+可选目录：用于 Cursor / Codex 之间的任务交接。日常 Q&A **不依赖**此目录。
 
-## 使用方式
+## 何时使用
 
-### Codex → Cursor（委托任务）
-创建一个笔记，用 frontmatter 标明 	o: cursor，内容描述需要 Cursor 协助的事项。
-完成后 Cursor 将 status 改为 done 并补充回复。
-
-### Cursor → Codex（委托任务）
-同上，frontmatter 标明 	o: codex，由 Codex 执行并更新状态。
-
-### 共享上下文
-一些需要双方共同知晓的信息（如项目规范、命名约定、当前进度）放在本目录下，双方随时查阅。
+- 需要 Agent 执行跨会话的维护任务（如批量更新准则、格式统一）
+- 需要记录待办并跟踪 status
 
 ## 笔记模板
 
-\\\yaml
+```yaml
 ---
 to: cursor | codex
 status: pending | in_progress | done
@@ -29,15 +22,10 @@ priority: low | medium | high
 date: "YYYY-MM-DD"
 tags: [task]
 ---
-\\\
+```
 
-## 当前任务
+## 相关文档
 
-- [x] IFRS 缺失准则补齐（6 个）— 2026-05-30 完成
-- [x] 核心 IAS 准则新建（6 个）— 2026-05-30 完成
-- [x] 次要 IAS 准则（10 个）— 2026-05-30 完成
-- [x] Codex 中文提炼格式统一 — 2026-05-30 Cursor 检查并修复
-- [ ] 原文行内中文注释 — 待 Codex 继续（见 [[Codex中文注释工作检查]]）
-- [x] 16 个 IAS 中文提炼 — 2026-05-30 Cursor 完成
-- [x] `.scripts` / `.tmp` 点文件夹隐藏 — 2026-05-30
-- [x] Cursor 工作日志 — [[../.logs/cursor/2026-05-30]]（`.logs/cursor/`）
+- 工作指令：[[AGENTS.md]]
+- 项目笔记规范：[[02 - 项目/项目编写说明]]
+- ASC 更新流程：[[03 - 知识库/US GAAP/ASC Codification 导出指引]]

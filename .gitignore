@@ -28,6 +28,10 @@ Desktop.ini
 node_modules/
 package-lock.json
 
+# Python
+__pycache__/
+*.pyc
+
 # Memory DB
 .memory.sqlite*
 
