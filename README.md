@@ -55,4 +55,3 @@ date: 2026-06-18
 - 更新 ASC：[[03 - 知识库/US GAAP/ASC Codification 导出指引]]
 - 更新 IFRS/IAS：`.scripts/README.md`
 - 工作指令：[[AGENTS.md]]
-- **桌面 App**（准则离线阅读 + AI 写项目文档）：[AccoutingStandards-Desktop](https://github.com/MoonMaxTea/AccoutingStandards-Desktop) · 本地推送说明 [[04 - Cursor协作/双准则桌面App/SETUP]]

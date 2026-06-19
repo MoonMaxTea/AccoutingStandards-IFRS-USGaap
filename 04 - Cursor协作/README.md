@@ -29,4 +29,3 @@ tags: [task]
 - 工作指令：[[AGENTS.md]]
 - 项目笔记规范：[[02 - 项目/项目编写说明]]
 - ASC 更新流程：[[03 - 知识库/US GAAP/ASC Codification 导出指引]]
-- **桌面 App 设计**：[[双准则桌面App/README]]（已迁移至 [AccoutingStandards-Desktop](https://github.com/MoonMaxTea/AccoutingStandards-Desktop)）
