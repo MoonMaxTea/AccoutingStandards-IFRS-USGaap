@@ -5,9 +5,9 @@ date: "2026-06-09"
 
 # US GAAP 知识库总览
 
-美国公认会计原则（US GAAP）知识库，正文来自 **FASB ASC 现行 Codification**（经 Cursor 内置 Browser 导出）。
+美国公认会计原则（US GAAP）知识库，正文来自 **FASB ASC 现行 Codification**（经 Cursor 内置 Browser 提取 HTML → `asc_html_to_md.py` 转换）。
 
-> 导出与增量更新见：[[ASC Codification 导出指引]]
+> 导出流程见：[[ASC HTML 提取与转换指引]]（旧版 [[ASC Codification 导出指引]] 已弃用）
 
 ## 与 IFRS 知识库的对照
 
@@ -91,7 +91,8 @@ date: "2026-06-09"
 
 - 🔵 = FASB ASC Codification 全文（`source_type: Codification`）
 - ⭐ = **重点准则**（`key: true`，便于 Dataview 筛选）
-- 标准结构：`frontmatter` → 标题 → `---` → 英文原文
+- 标准结构：`frontmatter` → `## 📌 中文提炼` → `---` → 结构化正文（含段落号 `**{para-id}**`）
 - **有效 Topic 共 88 个**（已剔除不存在的 608、862、865）
-- 自动化：见 [[ASC Codification 导出指引]]；日志：`.logs/cursor/asc-export.log`
-- 旧 PDF 脚本已移除，勿再用于主数据源
+- 2026-06-24 全量刷新：88 个 Topic 已用 HTML→MD 新流程重转换，格式显著提升
+- 自动化：见 [[ASC HTML 提取与转换指引]]；HTML 备份：`.tmp/*.html`
+- 旧 PDF / innerText 脚本已移除，勿再用于主数据源

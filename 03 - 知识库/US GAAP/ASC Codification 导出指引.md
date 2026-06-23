@@ -1,12 +1,17 @@
 ---
-tags: [us-gaap, asc, 操作指引, cursor]
+tags: [us-gaap, asc, 操作指引, cursor, 已弃用]
 date: "2026-06-09"
+updated: "2026-06-24"
+status: deprecated
 ---
 
-# ASC Codification 导出指引
+# ASC Codification 导出指引（已弃用）
 
-本文档记录从 [FASB ASC](https://asc.fasb.org) **现行 Codification** 批量导出 Topic 至 Markdown 的完整流程。  
-**唯一推荐方式**：Cursor 内置 **Browser Automation**（`cursor-ide-browser` MCP），**不要**唤起本机 Edge/Chrome，**不要**使用 Playwright/Selenium 直连（易触发 Cloudflare 403）。
+> ⚠️ **本文档已弃用**。新版流程已迁移至 [[ASC HTML 提取与转换指引]]。  
+> 新版使用 `innerHTML` + `asc_html_to_md.py` 解析，生成含段落号、表格、有序列表的 Markdown，质量远超本文档描述的 `innerText` 方式。
+
+本文档记录旧版从 [FASB ASC](https://asc.fasb.org) **现行 Codification** 批量导出 Topic 至 Markdown 的流程。  
+**仅作历史参考**，请使用新流程。
 
 ## 一、前置条件
 

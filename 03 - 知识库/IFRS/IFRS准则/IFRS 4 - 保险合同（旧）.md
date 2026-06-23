@@ -18,7 +18,7 @@ source: IFRS Foundation
 <!-- ifrs-foundation-full-text -->
 
 IFRS 4
-Insurance Contracts
+### Insurance Contracts
 In March 2004 the International Accounting Standards Board (the Board) issued IFRS 4
 Insurance Contracts. In August 2005 the Board amended the scope of IFRS 4 to clarify that
 most financial guarantee contracts would be accounted for by applying the financial
@@ -37,78 +37,72 @@ IFRS 13 Fair Value Measurement (issued May 2011), IFRS 9 Financial Instruments (
 Accounting and amendments to IFRS 9, IFRS 7 and IAS 39) (issued November 2013), IFRS 15
 Revenue from Contracts with Customers (issued May 2014), IFRS 9 Financial Instruments (issued
 July 2014) and IFRS 16 Leases (issued January 2016).
-IFRS 4
-© IFRS Foundation
 A179
 CONTENTS
 from paragraph
 INTERNATIONAL FINANCIAL REPORTING STANDARD 4
-INSURANCE CONTRACTS
-OBJECTIVE
+### INSURANCE CONTRACTS
+## OBJECTIVE
 1
-SCOPE
+## SCOPE
 2
-Embedded derivatives
+### Embedded derivatives
 7
-Unbundling of deposit components
+### Unbundling of deposit components
 10
-RECOGNITION AND MEASUREMENT
+### RECOGNITION AND MEASUREMENT
 13
-Temporary exemption from some other IFRSs
+### Temporary exemption from some other IFRSs
 13
 Temporary exemption from IFRS 9
 20A
-Changes in accounting policies
+### Changes in accounting policies
 21
-Insurance contracts acquired in a business combination or portfolio transfer
+### Insurance contracts acquired in a business combination or portfolio transfer
 31
-Discretionary participation features
+### Discretionary participation features
 34
-PRESENTATION
+### PRESENTATION
 35B
-The overlay approach
+### The overlay approach
 35B
-DISCLOSURE
+### DISCLOSURE
 36
-Explanation of recognised amounts
+### Explanation of recognised amounts
 36
-Nature and extent of risks arising from insurance contracts
+### Nature and extent of risks arising from insurance contracts
 38
 Disclosures about the temporary exemption from IFRS 9
 39B
-Disclosures about the overlay approach
+## Disclosures about the overlay approach
 39K
-EFFECTIVE DATE AND TRANSITION
+## EFFECTIVE DATE AND TRANSITION
 40
-Disclosure
+### Disclosure
 42
-Redesignation of financial assets
+### Redesignation of financial assets
 45
 Applying IFRS 4 with IFRS 9
 46
-APPENDICES
+## APPENDICES
 A
-Defined terms
+### Defined terms
 B
-Definition of an insurance contract
+### Definition of an insurance contract
 C
-Amendments to other IFRSs
-FOR THE ACCOMPANYING DOCUMENTS LISTED BELOW, SEE PART B OF THIS
-EDITION
+### Amendments to other IFRSs
+### FOR THE ACCOMPANYING DOCUMENTS LISTED BELOW, SEE PART B OF THIS
+### EDITION
 APPROVAL BY THE BOARD OF IFRS 4 ISSUED IN MARCH 2004
-APPROVAL BY THE BOARD OF FINANCIAL GUARANTEE CONTRACTS
+### APPROVAL BY THE BOARD OF FINANCIAL GUARANTEE CONTRACTS
 (AMENDMENTS TO IAS 39 AND IFRS 4) ISSUED IN AUGUST 2005
 APPROVAL BY THE BOARD OF APPLYING IFRS 9 FINANCIAL INSTRUMENTS
 WITH IFRS 4 INSURANCE CONTRACTS (AMENDMENTS TO IFRS 4) ISSUED
 IN SEPTEMBER 2016
-BASIS FOR CONCLUSIONS
-DISSENTING OPINIONS
-IFRS 4
-© IFRS Foundation
+### BASIS FOR CONCLUSIONS
+### DISSENTING OPINIONS
 A180
-IMPLEMENTATION GUIDANCE
-IFRS 4
-© IFRS Foundation
+### IMPLEMENTATION GUIDANCE
 A181
 International Financial Reporting Standard 4 Insurance Contracts (IFRS 4) is set out in
 paragraphs 1-49 and Appendices A-C.
@@ -121,12 +115,10 @@ Financial Reporting Standards and the Conceptual Framework for Financial Reporti
 IAS 8
 Accounting Policies, Changes in Accounting Estimates and Errors provides a basis for selecting
 and applying accounting policies in the absence of explicit guidance.
-IFRS 4
-© IFRS Foundation
 A182
 International Financial Reporting Standard 4
-Insurance Contracts
-Objective
+### Insurance Contracts
+## Objective
 1
 The objective of this IFRS is to specify the financial reporting for insurance
 contracts by any entity that issues such contracts (described in this IFRS as an
@@ -146,7 +138,7 @@ amount,
 timing
 and
 uncertainty of future cash flows from insurance contracts.
-Scope
+## Scope
 2
 An entity shall apply this IFRS to:
 (a)
@@ -184,8 +176,6 @@ employers' assets and liabilities under employee benefit plans (see IAS 19
 Employee Benefits and IFRS 2 Share-based Payment) and retirement benefit
 obligations reported by defined benefit retirement plans (see IAS 26
 Accounting and Reporting by Retirement Benefit Plans).
-IFRS 4
-© IFRS Foundation
 A183
 (c)
 contractual rights or contractual obligations that are contingent on the
@@ -202,7 +192,7 @@ issuer may elect to apply either IAS 32, IFRS 7 and IFRS 9 or this IFRS to
 such financial guarantee contracts. The issuer may make that election
 contract by contract, but the election for each contract is irrevocable.
 (e)
-contingent
+### contingent
 consideration
 payable
 or
@@ -227,7 +217,7 @@ A reinsurance contract is a type of insurance contract.
 Accordingly, all
 references in this IFRS to insurance contracts also apply to reinsurance
 contracts.
-Embedded derivatives
+### Embedded derivatives
 7
 IFRS 9 requires an entity to separate some embedded derivatives from their host
 contract, measure them at fair value and include changes in their fair value in
@@ -250,10 +240,8 @@ stock market index reaches a specified level).
 9
 Paragraph 8 applies equally to options to surrender a financial instrument
 containing a discretionary participation feature.
-IFRS 4
-© IFRS Foundation
 A184
-Unbundling of deposit components
+### Unbundling of deposit components
 10
 Some insurance contracts contain both an insurance component and a deposit
 component.
@@ -299,8 +287,8 @@ To unbundle a contract, an insurer shall:
 apply this IFRS to the insurance component.
 (b)
 apply IFRS 9 to the deposit component.
-Recognition and measurement
-Temporary exemption from some other IFRSs
+### Recognition and measurement
+### Temporary exemption from some other IFRSs
 13
 Paragraphs 10-12 of IAS 8 Accounting Policies, Changes in Accounting Estimates and
 Errors specify criteria for an entity to use in developing an accounting policy if
@@ -315,8 +303,6 @@ reinsurance contracts that it holds.
 14
 Nevertheless, this IFRS does not exempt an insurer from some implications of
 the criteria in paragraphs 10-12 of IAS 8. Specifically, an insurer:
-IFRS 4
-© IFRS Foundation
 A185
 (a)
 shall not recognise as a liability any provisions for possible future claims,
@@ -381,8 +367,6 @@ any related deferred acquisition costs; and
 The relevant insurance liabilities are those insurance liabilities (and related deferred acquisition
 costs and related intangible assets) for which the insurer's accounting policies do not require a
 liability adequacy test that meets the minimum requirements of paragraph 16.
-IFRS 4
-© IFRS Foundation
 A186
 (ii)
 any related intangible assets, such as those acquired in a business
@@ -439,8 +423,6 @@ IFRS.
 20B
 An insurer may apply the temporary exemption from IFRS 9 if, and only
 if:
-IFRS 4
-© IFRS Foundation
 A187
 (a)
 it has not previously applied any version of IFRS 92, other than only
@@ -495,8 +477,6 @@ requirements in IFRS 9 for the presentation of gains and losses (see
 paragraphs 20B(a) and 20C)); and
 2
 The Board issued successive versions of IFRS 9 in 2009, 2010, 2013 and 2014.
-IFRS 4
-© IFRS Foundation
 A188
 (c)
 liabilities that arise because the insurer issues, or fulfils obligations
@@ -563,8 +543,6 @@ disposed of or terminated a business line.
 A change in an entity's activities, as described in paragraph 20H, is expected to
 be very infrequent. The following are not changes in an entity's activities for the
 purposes of applying paragraph 20G:
-IFRS 4
-© IFRS Foundation
 A189
 (a)
 a change in the entity's funding structure that in itself does not affect
@@ -628,8 +606,6 @@ by the associate or joint venture as follows:
 (a)
 the entity applies IFRS 9 but the associate or joint venture applies the
 temporary exemption from IFRS 9; or
-IFRS 4
-© IFRS Foundation
 A190
 (b)
 the entity applies the temporary exemption from IFRS 9 but the associate
@@ -650,7 +626,7 @@ IFRS 9 may be subsequently applied.
 20Q
 An entity may apply paragraphs 20O and 20P(b) separately for each associate or
 joint venture.
-Changes in accounting policies
+### Changes in accounting policies
 21
 Paragraphs 22-30 apply both to changes made by an insurer that already applies
 IFRSs and to changes made by an insurer adopting IFRSs for the first time.
@@ -688,8 +664,6 @@ liabilities, without applying those policies consistently to all similar liabili
 3
 In this paragraph, insurance liabilities include related deferred acquisition costs and related
 intangible assets, such as those discussed in paragraphs 31 and 32.
-IFRS 4
-© IFRS Foundation
 A191
 IAS 8 would otherwise require.
 If an insurer designates liabilities for this
@@ -754,8 +728,6 @@ if, and only if, the other components of a change in accounting policies increas
 the relevance and reliability of its financial statements sufficiently to outweigh
 the decrease in relevance and reliability caused by the inclusion of future
 investment margins. For example, suppose that an insurer's existing accounting
-IFRS 4
-© IFRS Foundation
 A192
 policies for insurance contracts involve excessively prudent assumptions set at
 inception and a discount rate prescribed by a regulator without direct reference
@@ -801,7 +773,7 @@ comprehensive income if, and only if, the unrealised gains or losses are
 recognised in other comprehensive income.
 This practice is sometimes
 described as 'shadow accounting'.
-Insurance contracts acquired in a business combination
+### Insurance contracts acquired in a business combination
 or portfolio transfer
 31
 To comply with IFRS 3, an insurer shall, at the acquisition date, measure at fair
@@ -813,8 +785,6 @@ into two components:
 (a)
 a liability measured in accordance with the insurer's accounting policies
 for insurance contracts that it issues; and
-IFRS 4
-© IFRS Foundation
 A193
 (b)
 an intangible asset, representing the difference between (i) the fair value
@@ -833,7 +803,7 @@ to customer lists and customer relationships reflecting the expectation of futur
 contracts that are not part of the contractual insurance rights and contractual
 insurance obligations that existed at the date of a business combination or
 portfolio transfer.
-Discretionary participation features
+### Discretionary participation features
 Discretionary participation features in insurance contracts
 34
 Some insurance contracts contain a discretionary participation feature as well as
@@ -871,8 +841,6 @@ income (see IAS 1 Presentation of Financial Statements).
 (d)
 shall, if the contract contains an embedded derivative within the scope
 of IFRS 9, apply IFRS 9 to that embedded derivative.
-IFRS 4
-© IFRS Foundation
 A194
 (e)
 shall, in all respects not described in paragraphs 14-20 and 34(a)-(d),
@@ -928,15 +896,13 @@ instrument that contains a discretionary participation feature. Accordingly, all
 references in paragraphs 3(a)-3(b), 20A-20Q, 35B-35N, 39B-39M and 46-49 to an
 insurer shall be read as also referring to an issuer of a financial instrument that
 contains a discretionary participation feature.
-Presentation
-The overlay approach
+### Presentation
+### The overlay approach
 35B
 An insurer is permitted, but not required, to apply the overlay approach
 to designated financial assets.
 An insurer that applies the overlay
 approach shall:
-IFRS 4
-© IFRS Foundation
 A195
 (a)
 reclassify between profit or loss and other comprehensive income
@@ -996,8 +962,6 @@ it may designate an eligible financial asset for the overlay approach when, and
 only when:
 (a)
 that asset is initially recognised; or
-IFRS 4
-© IFRS Foundation
 A196
 (b)
 that asset newly meets the criterion in paragraph 35E(b) having
@@ -1054,8 +1018,6 @@ amounts in other comprehensive income, such as income taxes.
 An insurer
 shall apply the relevant IFRS, such as IAS 12 Income Taxes, to determine any such
 consequential effects.
-IFRS 4
-© IFRS Foundation
 A197
 First-time adopter
 35N
@@ -1063,8 +1025,8 @@ If a first-time adopter elects to apply the overlay approach, it shall restate
 comparative information to reflect the overlay approach if, and only if, it
 restates comparative information to comply with IFRS 9 (see paragraphs E1-E2
 of IFRS 1).
-Disclosure
-Explanation of recognised amounts
+### Disclosure
+### Explanation of recognised amounts
 36
 An insurer shall disclose information that identifies and explains the
 amounts in its financial statements arising from insurance contracts.
@@ -1107,7 +1069,7 @@ that has a material effect on the financial statements.
 (e)
 reconciliations of changes in insurance liabilities, reinsurance assets
 and, if any, related deferred acquisition costs.
-Nature and extent of risks arising from insurance
+### Nature and extent of risks arising from insurance
 contracts
 38
 An insurer shall disclose information that enables users of its financial
@@ -1120,8 +1082,6 @@ its objectives, policies and processes for managing risks arising from
 insurance contracts and the methods used to manage those risks.
 (b)
 [deleted]
-IFRS 4
-© IFRS Foundation
 A198
 (c)
 information about insurance risk (both before and after risk mitigation by
@@ -1186,8 +1146,6 @@ However, if an insurer uses an alternative method to manage
 sensitivity to market conditions, such as an embedded value analysis, it
 may meet this requirement by disclosing that alternative sensitivity
 analysis and the disclosures required by paragraph 41 of IFRS 7.
-IFRS 4
-© IFRS Foundation
 A199
 (b)
 qualitative information about sensitivity, and information about those
@@ -1245,8 +1203,6 @@ the fact that it no longer qualifies for the temporary exemption from
 IFRS 9;
 (b)
 the date on which the relevant change in its activities occurred; and
-IFRS 4
-© IFRS Foundation
 A200
 (c)
 a detailed explanation of the change in its activities and a qualitative
@@ -1305,8 +1261,6 @@ allowances).
 For the purposes of this disclosure, paragraph B5.5.22 of
 IFRS 9 provides the relevant requirements for assessing whether the
 credit risk on a financial instrument is considered low.
-IFRS 4
-© IFRS Foundation
 A201
 39H
 To comply with paragraph 39B(b), an insurer shall disclose information about
@@ -1341,7 +1295,7 @@ disclosed shall be the entity's share of those amounts; and
 (ii)
 for associates shall be disclosed separately from the aggregate
 amounts disclosed for joint ventures.
-Disclosures about the overlay approach
+## Disclosures about the overlay approach
 39K
 An insurer that applies the overlay approach shall disclose information
 to enable users of financial statements to understand:
@@ -1363,8 +1317,6 @@ the basis for designating financial assets for the overlay approach,
 including an explanation of any designated financial assets that are held
 outside the legal entity that issues contracts within the scope of this
 IFRS;
-IFRS 4
-© IFRS Foundation
 A202
 (d)
 an explanation of the total amount reclassified between profit or loss
@@ -1390,7 +1342,7 @@ designated
 financial
 assets
 applying
-the
+### the
 overlay
 approach
 (see paragraph 35F(b));
@@ -1432,10 +1384,8 @@ disclosed shall be the entity's share of those amounts; and
 (ii)
 for associates shall be disclosed separately from the aggregate
 amounts disclosed for joint ventures.
-IFRS 4
-© IFRS Foundation
 A203
-Effective date and transition
+## Effective date and transition
 40
 The transitional provisions in paragraphs 41-45 apply both to an entity that is
 already applying IFRSs when it first applies this IFRS and to an entity that
@@ -1475,12 +1425,12 @@ An entity shall apply those
 amendments when it applies IFRS 15.
 41H
 IFRS 9, as issued in July 2014, amended paragraphs 3, 4, 7, 8, 12, 34, 35, 45,
-Appendix A and paragraphs B18-B20 and deleted paragraphs 41C, 41D and 41F.
+### Appendix A and paragraphs B18-B20 and deleted paragraphs 41C, 41D and 41F.
 An entity shall apply those amendments when it applies IFRS 9.
 41I
 IFRS 16, issued in January 2016, amended paragraph 4. An entity shall apply
 that amendment when it applies IFRS 16.
-Disclosure
+### Disclosure
 42
 An entity need not apply the disclosure requirements in this IFRS to comparative
 information that relates to annual periods beginning before 1 January 2005,
@@ -1489,8 +1439,6 @@ policies, and recognised assets, liabilities, income and expense (and cash flows
 the direct method is used).
 4
 When an entity applies IFRS 7, the reference to IAS 32 is replaced by a reference to IFRS 7.
-IFRS 4
-© IFRS Foundation
 A204
 43
 If it is impracticable to apply a particular requirement of paragraphs 10-35 to
@@ -1516,7 +1464,7 @@ impracticable, when an entity first applies this IFRS, to prepare information
 about claims development that occurred before the beginning of the earliest
 period for which an entity presents full comparative information that complies
 with this IFRS, the entity shall disclose that fact.
-Redesignation of financial assets
+### Redesignation of financial assets
 45
 Notwithstanding paragraph 4.4.1 of IFRS 9, when an insurer changes its
 accounting policies for insurance liabilities, it is permitted, but not required, to
@@ -1536,7 +1484,7 @@ Instruments
 with
 IFRS
 4
-Insurance
+### Insurance
 Contracts
 (Amendments to IFRS 4), issued in September 2016, amended paragraphs 3 and
 5, and added paragraphs 20A-20Q, 35A and 39B-39J and headings after
@@ -1550,7 +1498,7 @@ use the transitional provisions in IFRS 9 that are relevant to making the
 assessments required for those disclosures. The date of initial application for
 that purpose shall be deemed to be the beginning of the first annual period
 beginning on or after 1 January 2018.
-The overlay approach
+### The overlay approach
 48
 Applying
 IFRS
@@ -1560,7 +1508,7 @@ Instruments
 with
 IFRS
 4
-Insurance
+### Insurance
 Contracts
 (Amendments to IFRS 4), issued in September 2016, amended paragraphs 3 and
 5, and added paragraphs 35A-35N and 39K-39M and headings after paragraphs
@@ -1569,8 +1517,6 @@ insurers to apply the overlay approach to designated financial assets, when it
 first applies IFRS 9 (see paragraph 35C).
 49
 An entity that elects to apply the overlay approach shall:
-IFRS 4
-© IFRS Foundation
 A205
 (a)
 apply that approach retrospectively to designated financial assets on
@@ -1582,11 +1528,9 @@ and their carrying amount determined applying IAS 39.
 (b)
 restate comparative information to reflect the overlay approach if, and
 only if, the entity restates comparative information applying IFRS 9.
-IFRS 4
-© IFRS Foundation
 A206
-Appendix A
-Defined terms
+### Appendix A
+### Defined terms
 This appendix is an integral part of the IFRS.
 cedant
 The policyholder under a reinsurance contract.
@@ -1643,8 +1587,6 @@ contractual discretion of the issuer.
 guaranteed element
 An obligation to pay guaranteed benefits, included in a
 contract that contains a discretionary participation feature.
-IFRS 4
-© IFRS Foundation
 A207
 insurance asset
 An
@@ -1711,15 +1653,13 @@ to compensate a cedant if an insured event occurs.
 unbundle
 Account for the components of a contract as if they were separate
 contracts.
-IFRS 4
-© IFRS Foundation
 A208
-Appendix B
-Definition of an insurance contract
+### Appendix B
+### Definition of an insurance contract
 This appendix is an integral part of the IFRS.
 B1
 This appendix gives guidance on the definition of an insurance contract in
-Appendix A. It addresses the following issues:
+### Appendix A. It addresses the following issues:
 (a)
 the term 'uncertain future event' (paragraphs B2-B4);
 (b)
@@ -1774,8 +1714,6 @@ number of malfunctions, but it is uncertain whether a particular machine will
 break down. The malfunction of the equipment adversely affects its owner and
 the contract compensates the owner (in kind, rather than cash).
 Another
-IFRS 4
-© IFRS Foundation
 A209
 example is a contract for car breakdown services in which the provider agrees,
 for a fixed annual fee, to provide roadside assistance or tow the car to a nearby
@@ -1843,8 +1781,6 @@ Some contracts expose the issuer to financial risk, in addition to significant
 insurance risk.
 For example, many life insurance contracts both guarantee a
 minimum rate of return to policyholders (creating financial risk) and promise
-IFRS 4
-© IFRS Foundation
 A210
 death benefits that at some times significantly exceed the policyholder's account
 balance (creating insurance risk in the form of mortality risk). Such contracts
@@ -1904,8 +1840,6 @@ expense risk (ie the risk of unexpected increases in the administrative costs
 associated with the servicing of a contract, rather than in costs associated with
 insured events) is not insurance risk because an unexpected increase in expenses
 does not adversely affect the counterparty.
-IFRS 4
-© IFRS Foundation
 A211
 B16
 Therefore, a contract that exposes the issuer to lapse risk, persistency risk or
@@ -1977,8 +1911,6 @@ Nevertheless, if an issuer of financial guarantee contracts has previously
 asserted explicitly that it regards such contracts as insurance contracts
 5
 When an entity applies IFRS 7, the reference to IAS 32 is replaced by a reference to IFRS 7.
-IFRS 4
-© IFRS Foundation
 A212
 and has used accounting applicable to insurance contracts, the issuer
 may elect to apply either IAS 326 and IFRS 9 or this IFRS to such financial
@@ -2052,8 +1984,6 @@ specified uncertain future event occurs, but do not require, as a
 contractual precondition for payment, that the event adversely affects
 6
 When an entity applies IFRS 7, the reference to IAS 32 is replaced by a reference to IFRS 7.
-IFRS 4
-© IFRS Foundation
 A213
 the policyholder. However, this does not preclude the specification of a
 predetermined payout to quantify the loss caused by a specified event
@@ -2109,8 +2039,6 @@ economics of the transaction).
 If significant additional benefits would be
 payable in scenarios that have commercial substance, the condition in the
 previous sentence may be met even if the insured event is extremely unlikely or
-IFRS 4
-© IFRS Foundation
 A214
 even if the expected (ie probability-weighted) present value of contingent cash
 flows is a small proportion of the expected present value of all the remaining
@@ -2173,8 +2101,6 @@ transfer insignificant insurance risk.
 7
 For this purpose, contracts entered into simultaneously with a single counterparty (or contracts
 that are otherwise interdependent) form a single contract.
-IFRS 4
-© IFRS Foundation
 A215
 B26
 It follows from paragraphs B23-B25 that if a contract pays a death benefit
@@ -2232,17 +2158,13 @@ transfers insurance risk to the issuer at inception.
 B30
 A contract that qualifies as an insurance contract remains an insurance contract
 until all rights and obligations are extinguished or expire.
-IFRS 4
-© IFRS Foundation
 A216
-Appendix C
-Amendments to other IFRSs
+### Appendix C
+### Amendments to other IFRSs
 The amendments in this appendix shall be applied for annual periods beginning on or after
 1 January 2005. If an entity adopts this IFRS for an earlier period, these amendments shall be
 applied for that earlier period.
 * * * * *
 The amendments contained in this appendix when this IFRS was issued in 2004 have been incorporated
 into the relevant IFRSs published in this volume.
-IFRS 4
-© IFRS Foundation
-A217
+### A217

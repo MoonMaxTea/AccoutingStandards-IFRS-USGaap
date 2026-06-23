@@ -9,291 +9,330 @@ scraped_date: "2026-06-10"
 subtopics: ["270-10"]
 ---
 
-# ASC 270 — Interim Reporting（中期报告）
-
 ---
 
-270-10-65-1
-The guidance in the Risks and Uncertainties Topic applies to financial statements prepared in conformity with generally accepted accounting principles (GAAP) and applies to all entities that issue such statements. While the guidance in this Topic applies to complete interim financial statements, it does not apply to condensed statements. If comparative financial statements are presented, the disclosure requirements apply only to the financial statements for the most recent fiscal period presented.
-275-10-15-4
-The disclosure requirements do not encompass risks and uncertainties that might be associated with any of the following:
-aManagement or key personnel
-bProposed changes in government regulations
-cProposed changes in accounting principles
-dDeficiencies in the internal control structure
-eThe possible effects of acts of God, war, or sudden catastrophes.
-· > Overlap with Other Topics
-275-10-15-5
-Certain disclosure requirements in this Topic supplement the requirements of other authoritative Topics. In many cases, however, the disclosure requirements in this Topic, particularly those relating to certain significant estimates, will be met or partly met by compliance with such other Topics.
-275-10-15-6
-The disclosure requirements of this Topic in many circumstances are similar to or overlap the disclosure requirements in other Topics, for example, Topic 450 and, for public entities, Subtopic 280-10. The disclosure requirements of this Topic in many circumstances also are similar to or overlap the disclosure requirements of the Securities and Exchange Commission (SEC). This Topic does not alter the requirements of any other Topic or any SEC requirement.
+## 00 Status
 
-20 Glossary
-General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
-Contract
+> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+
+### General
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Acquiree | Superseded | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| Acquirer | Superseded | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| Acquirer | Amended | Accounting Standards Update No. 2025-03 | 05/12/2025 |
+| Acquisition by a Not-for-Profit Entity | Superseded | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| Acquisition by a Not-for-Profit Entity | Added | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| Business | Superseded | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| Business | Amended | Accounting Standards Update No. 2017-01 | 01/05/2017 |
+| Business Combination | Superseded | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| Change in the Reporting Entity | Added | Accounting Standards Update No. 2023-06 | 10/09/2023 |
+| Condensed Statements | Added | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| Contract | Added | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| Contract Asset | Superseded | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| Contract Asset | Added | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| Contract Liability | Superseded | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| Contract Liability | Added | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| Customer | Added | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| Financial Asset (1st def.) | Superseded | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| Financial Asset (1st def.) | Added | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| Financial Asset | Superseded | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| Financial Asset (2nd def. ) | Added | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| Financing Receivable | Superseded | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| Financing Receivable | Added | Accounting Standards Update No. 2010-20 | 07/21/2010 |
+| Lease | Superseded | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lessee | Superseded | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| Lessee | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lessor | Superseded | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| Lessor | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Net Realizable Value | Added | Accounting Standards Update No. 2015-11 | 07/22/2015 |
+| Not-for-Profit Entity | Superseded | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| Not-for-Profit Entity | Added | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| Performance Obligation | Added | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| Public Business Entity | Superseded | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| Public Business Entity | Amended | Maintenance Update 2017-06 | 04/07/2017 |
+| Public Business Entity | Amended | Maintenance Update 2016-11 | 06/27/2016 |
+| Public Business Entity | Added | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| Publicly Traded Company (1st def.) | Superseded | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| Revenue | Added | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| Securities and Exchange Commission Registrant | Added | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| Security (2nd def.) | Superseded | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| Transaction Price | Superseded | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| Transaction Price | Added | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| Underlying Asset | Superseded | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| Underlying Asset | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Variable Interest Entity | Superseded | Accounting Standards Update No. 2025-03 | 05/12/2025 |
+| 270-10-05-1 | Amended | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| 270-10-05-2 | Amended | Accounting Standards Update No. 2015-01 | 01/09/2015 |
+| 270-10-10-1 | Amended | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| 270-10-15-2 | Amended | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| 270-10-15-3 | Amended | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| 270-10-15-4 | Added | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| 270-10-45-1 | Amended | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| 270-10-45-3 | Amended | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 270-10-45-6 | Amended | Accounting Standards Update No. 2015-11 | 07/22/2015 |
+| 270-10-45-8 | Amended | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| 270-10-45-8 | Amended | Accounting Standards Update No. 2020-10 | 10/29/2020 |
+| 270-10-45-11A | Amended | Accounting Standards Update No. 2015-01 | 01/09/2015 |
+| 270-10-45-12 | Amended | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| 270-10-45-12 | Amended | Accounting Standards Update No. 2023-06 | 10/09/2023 |
+| 270-10-45-12 | Amended | Maintenance Update 2017-06 | 04/07/2017 |
+| 270-10-45-14 | Amended | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| 270-10-45-14 | Amended | Maintenance Update 2017-06 | 04/07/2017 |
+| 270-10-45-15 | Amended | Maintenance Update 2017-06 | 04/07/2017 |
+| 270-10-45-19 | Amended | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| 270-10-45-19 | Amended | Accounting Standards Update No. 2023-06 | 10/09/2023 |
+| 270-10-45-19 | Amended | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 270-10-45-20 through 45-25 | Added | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| 270-10-50-1 through 50-7 | Superseded | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| 270-10-50-1 | Amended | Accounting Standards Update No. 2023-07 | 11/27/2023 |
+| 270-10-50-1 | Amended | Accounting Standards Update No. 2023-06 | 10/09/2023 |
+| 270-10-50-1 | Amended | Accounting Standards Update No. 2022-02 | 03/31/2022 |
+| 270-10-50-1 | Amended | Maintenance Update 2017-06 | 04/07/2017 |
+| 270-10-50-1 | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| 270-10-50-1 | Amended | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 270-10-50-1 | Amended | Accounting Standards Update No. 2016-01 | 01/05/2016 |
+| 270-10-50-1 | Amended | Accounting Standards Update No. 2015-01 | 01/09/2015 |
+| 270-10-50-1 | Amended | Accounting Standards Update No. 2014-04 | 01/17/2014 |
+| 270-10-50-1 | Amended | Accounting Standards Update No. 2013-02 | 02/05/2013 |
+| 270-10-50-1 | Amended | Accounting Standards Update No. 2011-11 | 12/16/2011 |
+| 270-10-50-1 | Amended | Accounting Standards Update No. 2011-04 | 05/12/2011 |
+| 270-10-50-1 | Amended | Accounting Standards Update No. 2010-20 | 07/21/2010 |
+| 270-10-50-1A | Amended | Accounting Standards Update No. 2016-20 | 12/21/2016 |
+| 270-10-50-1A | Added | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 270-10-50-1B | Added | Accounting Standards Update No. 2020-10 | 10/29/2020 |
+| 270-10-50-2 | Amended | Maintenance Update 2017-06 | 04/07/2017 |
+| 270-10-50-2 | Amended | Accounting Standards Update No. 2015-01 | 01/09/2015 |
+| 270-10-50-5 | Amended | Accounting Standards Update No. 2020-10 | 10/29/2020 |
+| 270-10-50-5 | Amended | Accounting Standards Update No. 2015-01 | 01/09/2015 |
+| 270-10-50-5 | Amended | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| 270-10-50-6A | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 270-10-50-7 | Amended | Accounting Standards Update No. 2024-03 | 11/04/2024 |
+| 270-10-50-7 | Amended | Accounting Standards Update No. 2023-08 | 12/13/2023 |
+| 270-10-50-7 | Amended | Accounting Standards Update No. 2023-02 | 03/29/2023 |
+| 270-10-50-7 | Amended | Accounting Standards Update No. 2022-04 | 09/29/2022 |
+| 270-10-50-7 | Amended | Accounting Standards Update No. 2018-12 | 08/15/2018 |
+| 270-10-50-7 | Amended | Accounting Standards Update No. 2015-09 | 05/21/2015 |
+| 270-10-50-7 | Amended | Accounting Standards Update No. 2014-08 | 04/10/2014 |
+| 270-10-50-7 | Amended | Accounting Standards Update No. 2011-04 | 05/12/2011 |
+| 270-10-50-7 | Amended | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| 270-10-50-8 through 50-70 | Added | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| 270-10-60-1 | Superseded | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| 270-10-60-1 | Amended | Accounting Standards Update No. 2011-04 | 05/12/2011 |
+| 270-10-65-1 | Added | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+
+**270-10-00-1** The following table identifies the changes made to this Subtopic.^^****^^
+
+## 05 Overview and Background
+
+> **General Note:** The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+
+### General
+
+**270-10-05-2** The Interim Reporting Topic clarifies the application of accounting principles and reporting practices to interim financial information, including interim financial statements and summarized interim financial data of publicly traded companies issued for external reporting purposes. Interim financial information may include current data during a fiscal year on financial position, results of operations, comprehensive income, and cash flows. This information may be issued on a monthly or quarterly basis or at other intervals and may take the form of either complete financial statements or summarized financial data. Interim financial information often is provided for each interim period or on a cumulative year-to-date basis, or both, and for the corresponding periods of the preceding year. The determination of the results of operations on a meaningful basis for intervals of less than a full year presents inherent difficulties. The revenues of some entities fluctuate widely among interim periods because of seasonal factors, while in other entities heavy fixed costs incurred in one interim period may benefit other periods. In these situations, financial information for periods of less than a full year may be of limited usefulness. In other situations costs and expenses related to a full year's activities are incurred at infrequent intervals during the year and need to be allocated to products in process or to other interim periods to avoid distortion of interim financial results. In view of the limited time available to develop complete information, many costs and expenses are estimated in interim periods. For example, it may not be practical to perform extensive reviews of individual inventory items, costs on individual long-term contracts and precise income tax calculations for each interim period. Subsequent refinement or correction of these estimates may distort the results of operations of later interim periods. Similarly, the effects of disposal of a segment of an entity and unusual or infrequently occurring events and transactions on the results of operations in an interim period will often be more pronounced than they will be on the results for the annual period. Special attention must be given to disclosure of the impact of these items on financial information for interim periods.
+
+## 10 Objectives
+
+> **General Note:** The Objectives Section provides the high-level objectives that the Subtopic is intended to accomplish or attain. The Section does not summarize or discuss the main principles of accounting and reporting requirements.
+
+### General
+
+## 15 Scope and Scope Exceptions
+
+> **General Note:** The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+
+### General
+
+**270-10-15-1** The Scope Section of the Overall Subtopic establishes the pervasive scope for the Interim Reporting Topic.
+
+## 20 Glossary
+
+> **General Note:** The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+
+##### Accounting Change
+
+A change in an accounting principle, an accounting estimate, or the reporting entity. The correction of an error in previously issued financial statements is not an accounting change.
+
+##### Acquiree
+
+The business or businesses that the acquirer obtains control of in a business combination. This term also includes a nonprofit activity or business that a not-for-profit acquirer obtains control of in an acquisition by a not-for-profit entity.
+
+##### Acquirer
+
+##### Acquisition by a Not-for-Profit Entity
+
+The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer. A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.
+
+##### Business
+
+Paragraphs 805-10-55-3A through 55-6 and 805-10-55-8 through 55-9 define what is considered a business.
+
+##### Business Combination
+
+A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
+
+##### Change in Accounting Estimate
+
+A change that has the effect of adjusting the carrying amount of an existing asset or liability or altering the subsequent accounting for existing or future assets or liabilities. A change in accounting estimate is a necessary consequence of the assessment, in conjunction with the periodic presentation of financial statements, of the present status and expected future benefits and obligations associated with assets and liabilities. Changes in accounting estimates result from new information. Examples of items for which estimates are necessary are uncollectible receivables, inventory obsolescence, service lives and salvage values of depreciable assets, and warranty obligations.
+
+##### Change in Accounting Principle
+
+A change from one generally accepted accounting principle to another generally accepted accounting principle when there are two or more generally accepted accounting principles that apply or when the accounting principle formerly used is no longer generally accepted. A change in the method of applying an accounting principle also is considered a change in accounting principle.
+
+##### Change in the Reporting Entity
+
+1. Presenting consolidated or combined financial statements in place of financial statements of individual entities
+2. Changing specific subsidiaries that make up the group of entities for which consolidated financial statements are presented
+3. Changing the entities included in combined financial statements.
+
+Neither a business combination accounted for by the acquisition method nor the consolidation of a variable interest entity (VIE) pursuant to Topic 810 is a change in reporting entity.
+
+##### Condensed                                Statements
+
+##### Contract
+
 An agreement between two or more parties that creates enforceable rights and obligations.
-Customer
+
+##### Contract Asset
+
+An entity's right to consideration in exchange for goods or services that the entity has transferred to a customer when that right is conditioned on something other than the passage of time (for example, the entity's future performance).
+
+##### Contract Liability
+
+An entity's obligation to transfer goods or services to a customer for which the entity has received consideration (or the amount is due) from the customer.
+
+##### Customer
+
 A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.
-Fair Value
-The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
-Condensed Statements
-PENDING CONTENT
-Transition Date: December 16, 2027;  December 16, 2028Transition Guidance: 270-10-65-1
-Financial statements that are presented at a level that is more aggregated than the annual financial statements or have limited notes subject to the disclosure requirements in Topic 270 or both. (U.S. Securities and Exchange Commission [SEC] registrants are required to consider the guidance in paragraph 270-10-S45-2. See Regulation S-X Rule 10-01 [17 CFR 210.10-01] and Regulation S-X Rule 8-03 [17 CFR 210.8-03].)
-Market Participants
-Buyers and sellers in the principal (or most advantageous) market for the asset or liability that have all of the following characteristics:
-aThey are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
-bThey are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
-cThey are able to enter into a transaction for the asset or liability
-dThey are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
-Near Term
-A period of time not to exceed one year from the date of the financial statements.
-Net Realizable Value
+
+##### Financial Asset
+
+1. Receive cash or another financial instrument from a second entity
+2. Exchange other financial instruments on potentially favorable terms with the second entity.
+
+##### Lease
+
+A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
+
+##### Legal Entity
+
+Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts.
+
+##### Lessee
+
+An entity that enters into a contract to obtain the right to use an underlying asset for a period of time in exchange for consideration.
+
+##### Lessor
+
+An entity that enters into a contract to provide the right to use an underlying asset for a period of time in exchange for consideration.
+
+##### Net Realizable Value
+
 Estimated selling prices in the ordinary course of business, less reasonably predictable costs of completion, disposal, and transportation.
-Orderly Transaction
-A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
-Performance Obligation
-A promise in a contract with a customer to transfer to the customer either:
-aA good or service (or a bundle of goods or services) that is distinct
-bA series of distinct goods or services that are substantially the same and that have the same pattern of transfer to the customer.
-Reasonably Possible
-The chance of the future event or events occurring is more than remote but less than likely.
-Related Parties
-Related parties include:
-aAffiliates of the entity
-bEntities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
-cTrusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
-dPrincipal owners of the entity and members of their immediate families
-eManagement of the entity and members of their immediate families
-fOther parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
-gOther parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
-Revenue
+
+##### Not-for-Profit Entity
+
+1. Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
+2. Operating purposes other than to provide goods or services at a profit
+3. Absence of ownership interests like those of business entities.
+
+1. All investor-owned entities
+2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
+
+##### Performance Obligation
+
+1. A good or service (or a bundle of goods or services) that is distinct
+2. A series of distinct goods or services that are substantially the same and that have the same pattern of transfer to the customer.
+
+##### Public Business Entity
+
+1. It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing).
+2. It is required by the Securities Exchange Act of 1934 (the Act), as amended, or rules or regulations promulgated under the Act, to file or furnish financial statements with a regulatory agency other than the SEC.
+3. It is required to file or furnish financial statements with a foreign or domestic regulatory agency in preparation for the sale of or for purposes of issuing securities that are not subject to contractual restrictions on transfer.
+4. It has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market.
+5. It has one or more securities that are not subject to contractual restrictions on transfer, and it is required by law, contract, or regulation to prepare U.S. GAAP financial statements (including notes) and make them publicly available on a periodic basis (for example, interim or annual periods). An entity must meet both of these conditions to meet this criterion.
+
+An entity may meet the definition of a public business entity solely because its financial statements or financial information is included in another entity's filing with the SEC. In that case, the entity is only a public business entity for purposes of financial statements that are filed or furnished with the SEC.
+
+##### Publicly Traded Company
+
+1. A stock exchange (domestic or foreign)
+2. In the over-the-counter market (including securities quoted only locally or regionally), or any company that is a conduit bond obligor for conduit debt securities that are traded in a public market (a domestic or foreign stock exchange or an over-the-counter market, including local or regional markets).
+
+Additionally, when a company is required to file or furnish financial statements with the SEC or makes a filing with a regulatory agency in preparation for sale of its securities in a public market it is considered a publicly traded company for this purpose. Conduit debt securities refers to certain limited-obligation revenue bonds, certificates of participation, or similar debt instruments issued by a state or local governmental entity for the express purpose of providing financing for a specific third party (the conduit bond obligor) that is not a part of the state or local government's financial reporting entity. Although conduit debt securities bear the name of the governmental entity that issues them, the governmental entity often has no obligation for such debt beyond the resources provided by a lease or loan agreement with the third party on whose behalf the securities are issued. Further, the conduit bond obligor is responsible for any future financial reporting requirements.
+
+##### Restatement
+
+The process of revising previously issued financial statements to reflect the correction of an error in those financial statements.
+
+##### Revenue
+
 Inflows or other enhancements of assets of an entity or settlements of its liabilities (or a combination of both) from delivering or producing goods, rendering services, or other activities that constitute the entity's ongoing major or central operations.
-Severe Impact
-(Used in reference to current vulnerability due to certain concentrations.) A significant financially disruptive effect on the normal functioning of an entity. Severe impact is a higher threshold than material. Matters that are important enough to influence a user's decisions are deemed to be material, yet they may not be so significant as to disrupt the normal functioning of the entity. Some events are material to an investor because they might affect the price of an entity's capital stock or its debt securities, but they would not necessarily have a severe impact on (disrupt) the entity itself. The concept of severe impact, however, includes matters that are less than catastrophic. Matters that are catastrophic include, for example, those that would result in bankruptcy.
-Transaction Price
+
+##### Securities and Exchange Commission Registrant
+
+1. It has issued or will issue debt or equity securities that are traded in a public market (a domestic or foreign stock exchange or an over-the-counter market, including local or regional markets).
+2. It is required to file financial statements with the Securities and Exchange Commission (SEC).
+3. It provides financial statements for the purpose of issuing any class of securities in a public market.
+
+##### Security
+
+1. It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
+2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
+3. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
+
+##### Transaction Price
+
 The amount of consideration to which an entity expects to be entitled in exchange for transferring promised goods or services to a customer, excluding amounts collected on behalf of third parties.
 
-50 Disclosure
-General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
-General
-275-10-50-1
-All of the disclosures required by this Subtopic shall be included in the basic financial statements. Reporting entities shall make disclosures in their financial statements about the risks and uncertainties existing as of the date of those statements in the following areas:
-aNature of operations , including the activities in which the entity is currently engaged if principal operations have not commenced
-bUse of estimates in the preparation of financial statements
-cCertain significant estimates
-dCurrent vulnerability due to certain concentrations.
-These four areas of disclosure are not mutually exclusive. The information required by some may overlap. Accordingly, the disclosures required by this Subtopic may be combined in various ways, grouped together, or placed in diverse parts of the financial statements, or included as part of the disclosures made pursuant to the requirements of other Topics.
-> Nature of Operations/Activities
-275-10-50-2
-If an entity has commenced planned principal operations, the entity's financial statements shall include a description of the major products or services the reporting entity sells or provides and its principal markets, including the locations of those markets. If the entity operates in more than one business, the disclosure also shall indicate the relative importance of its operations in each business and the basis for this determination—for example, assets, revenues, or earnings. Not-for-profit entities' (NFPs') disclosures should briefly describe the principal services performed by the entity and the revenue sources for the entity's services. Disclosures about the nature of operations or activities need not be quantified; relative importance could be conveyed by use of terms such as predominately, about equally, or major and other.
-275-10-50-2A
-An entity that has not commenced principal operations shall provide disclosures about the risks and uncertainties related to the activities in which the entity is currently engaged and an understanding of what those activities are being directed toward.
-275-10-50-3
-See Examples 1 through 2 (paragraphs 275-10-55-2 through 55-5) for illustrations of disclosure requirements for nature of operations.
-> Use of Estimates in the Preparation of Financial Statements
-275-10-50-4
-Financial statements shall include an explanation that the preparation of financial statements in conformity with generally accepted accounting principles (GAAP) requires the use of management's estimates.
-275-10-50-5
-See Example 3 (paragraph 275-10-55-6) for an illustration of the disclosure requirements of the pervasiveness of estimates in the preparation of financial statements.
-> Certain Significant Estimates
-275-10-50-6
-This Subtopic requires discussion of estimates when, based on known information available before the financial statements are issued or are available to be issued (as discussed in Section 855-10-25), it is reasonably possible that the estimate will change in the near term and the effect of the change will be material. The estimate of the effect of a change in a condition, situation, or set of circumstances that existed at the date of the financial statements shall be disclosed and the evaluation shall be based on known information available before the financial statements are issued or are available to be issued (as discussed in Section 855-10-25).
-275-10-50-7
-Various Topics require disclosures about uncertainties addressed by those Topics. In particular, Subtopic 450-20 specifies disclosures to be made about contingencies that exist at the date of the financial statements. In addition to disclosures required by Topic 450 and other accounting Topics, this Subtopic requires disclosures regarding estimates used in the determination of the carrying amounts of assets or liabilities or in disclosure of gain or loss contingencies, as described below.
-275-10-50-8
-Disclosure regarding an estimate shall be made when known information available before the financial statements are issued or are available to be issued (as discussed in Section 855-10-25) indicates that both of the following criteria are met:
-aIt is at least reasonably possible that the estimate of the effect on the financial statements of a condition, situation, or set of circumstances that existed at the date of the financial statements will change in the near term due to one or more future confirming events.
-bThe effect of the change would be material to the financial statements.
-275-10-50-9
-The disclosure shall indicate the nature of the uncertainty and include an indication that it is at least reasonably possible that a change in the estimate will occur in the near term. If the estimate involves a loss contingency covered by Subtopic 450-20, the disclosure also shall include an estimate of the possible loss or range of loss, or state that such an estimate cannot be made. Disclosure of the factors that cause the estimate to be sensitive to change is encouraged but not required. The words reasonably possible need not be used in the disclosures required by this Subtopic.
-275-10-50-10
-Many entities use risk-reduction techniques to mitigate losses or the uncertainty that may result from future events. If the entity determines that the criteria in paragraph 275-10-50-8 are not met as a result of risk-reduction techniques, the disclosures described in the preceding paragraph and disclosure of the risk-reduction techniques are encouraged but not required.
-275-10-50-11
-This Subtopic's disclosure requirements are separate from and do not change in any way the disclosure requirements or criteria of Topic 450; rather, the disclosures required under this Subtopic supplement the disclosures required under that Topic as follows:
-aIf an estimate (including estimates that involve contingencies covered by Topic 450) meets the criteria for disclosure under paragraph 275-10-50-8, this Subtopic requires disclosure of an indication that it is at least reasonably possible that a change in the estimate will occur in the near term; Topic 450 does not distinguish between near-term and long-term contingencies.
-bAn estimate that does not involve a contingency covered by Topic 450, such as estimates associated with long-term operating assets and amounts reported under profitable long-term contracts, may meet the criteria in paragraph 275-10-50-8. This Subtopic requires disclosure of the nature of the estimate and an indication that it is at least reasonably possible that a change in the estimate will occur in the near term.
-275-10-50-12
-If a loss contingency meets the criteria for disclosure under both Topic 450 and paragraph 275-10-50-8, this Subtopic requires disclosure that it is at least reasonably possible that future events confirming the fact of the loss or the change in the estimated amount of the loss will occur in the near term.
-275-10-50-13
-The requirements of paragraph 275-10-50-8 are applicable to long-lived assets whose value may become impaired in the near term (see Subtopic 360-10).
-275-10-50-14
-Whether an estimate meets the criteria for disclosure under this Subtopic does not depend on the amount that has been reported in the financial statements, but rather on the materiality of the effect that using a different estimate would have had on the financial statements. Simply because an estimate resulted in the recognition of a small financial statement amount, or no amount, does not mean that disclosure is not required under this Subtopic.
-275-10-50-15
-The following are examples of assets and liabilities and related revenues and expenses, and of disclosure of gain or loss contingencies included in financial statements that, based on facts and circumstances existing at the date of the financial statements, may be based on estimates that are particularly sensitive to change in the near term:
-aInventory subject to rapid technological obsolescence
-bSpecialized equipment subject to technological obsolescence
-cValuation allowances for deferred tax assets based on future taxable income
-dCapitalized motion picture film production costs
-eCapitalized computer software costs
-fDeferred policy acquisition costs of insurance entities
-gValuation allowances for commercial and real estate loans
-hEnvironmental remediation-related obligations
-iLitigation-related obligations
-jContingent liabilities for obligations of other entities
-kAmounts reported for long-term obligations, such as amounts reported for pensions and postemployment benefits
-lEstimated net proceeds recoverable, the provisions for expected loss to be incurred, or both, on disposition of a business or assets
-mAmounts reported for long-term contracts.
-The above list is not intended to be all-inclusive. See Section 275-10-60 for links to illustrations of the disclosure requirements that are contained in other Topics.
-· > Estimated Useful Life of an Intangible Asset
-275-10-50-15A
-In determining whether disclosure about an estimate of the useful life of an intangible asset is required under paragraph 275-10-50-8, the criterion in item (b) of that paragraph shall be considered met if the effect of either of the following would be material to the financial statements, either individually or in aggregate by major intangible asset class:
-aA change in the useful life of an intangible
-bA change in the expected likelihood of renewal or extension of an intangible asset.
-> Current Vulnerability Due to Certain Concentrations
-275-10-50-16
-Vulnerability from concentrations arises because an entity is exposed to risk of loss greater than it would have had it mitigated its risk through diversification. Such risks of loss manifest themselves differently, depending on the nature of the concentration, and vary in significance. Financial statements shall disclose the concentrations described in paragraph 275-10-50-18 if, based on information known to management before the financial statements are issued or are available to be issued (as discussed in Section 855-10-25), all of the following criteria are met:
-aThe concentration exists at the date of the financial statements.
-bThe concentration makes the entity vulnerable to the risk of a near-term severe impact.
-cIt is at least reasonably possible that the events that could cause the severe impact will occur in the near term.
-275-10-50-17
-This Subtopic requires disclosure of certain defined concentrations known to management rather than a wider range of concentrations based on information of which management is reasonably expected to have knowledge.
-275-10-50-18
-Concentrations, including known group concentrations, described below require disclosure if they meet the criteria of paragraph 275-10-50-16. (Group concentrations exist if a number of counterparties or items that have similar economic characteristics collectively expose the reporting entity to a particular kind of risk.) Some concentrations may fall into more than one of the following categories:
-aConcentrations in the volume of business transacted with a particular customer, supplier, lender, grantor, or contributor. The potential for the severe impact can result, for example, from total or partial loss of the business relationship. For purposes of this Subtopic, it is always considered at least reasonably possible that any customer, grantor, or contributor will be lost in the near term.
-bConcentrations in revenue from particular products, services, or fund-raising events. The potential for the severe impact can result, for example, from volume or price changes or the loss of patent protection for the particular source of revenue.
-cConcentrations in the available sources of supply of materials, labor, or services, or of licenses or other rights used in the entity's operations. The potential for the severe impact can result, for example, from changes in the availability to the entity of a resource or a right.
-dConcentrations in the market or geographic area in which an entity conducts its operations. The potential for the severe impact can result, for example, from negative effects of the economic and political forces within the market or geographic area. For purposes of this Subtopic, it is always considered at least reasonably possible that operations located outside an entity's home country will be disrupted in the near term.
-275-10-50-19
-Concentrations of financial instruments, and other concentrations not described in the preceding paragraph, are not addressed in this Subtopic. However, these other concentrations may be required to be disclosed pursuant to other Topics, such as Subtopic 825-10 .
-275-10-50-20
-Disclosure of concentrations meeting the criteria of paragraph 275-10-50-16 shall include information that is adequate to inform users of the general nature of the risk associated with the concentration. For those concentrations of labor (see paragraph 275-10-50-18(c)) subject to collective bargaining agreements and concentrations of operations located outside of the entity's home country (see paragraph 275-10-50-18(d)) that meet the criteria in paragraph 275-10-50-16, the following specific disclosures are required:
-aFor labor subject to collective bargaining agreements, disclosure shall include both the percentage of the labor force covered by a collective bargaining agreement and the percentage of the labor force covered by a collective bargaining agreement that will expire within one year.
-bFor operations located outside the entity's home country, disclosure shall include the carrying amounts of net assets and the geographic areas in which they are located.
-This Subtopic does not, however, prohibit entities from also stating in disclosures of concentrations related to customers, grantors, or contributors or operations located outside the entity's home country that the entity does not expect that the business relationship will be lost or does not expect that the foreign operations will be disrupted if such is the case.
-275-10-50-21
-Adequate information about some concentrations may already be presented in other parts of the financial statements. For example, adequate information about assets or operations located outside the entity's home country may be included in disclosures made to comply with Subtopic 280-10. In accordance with the guidance in this Subtopic, such information need not be repeated.
-275-10-50-22
-See Examples 2 and 4 through 8 (paragraphs 275-10-55-4 and 275-10-55-8 through 55-19) for illustrations of the disclosure requirements for current vulnerability due to certain concentrations.
-> Application of Disclosure Criteria
-275-10-50-23
-An assessment of whether a disclosure is required should not be found to be in error simply as a result of future events. For example, reporting a concentration not followed by a severe impact does not imply that the disclosure should not have been made, because something that has only a reasonably possible chance of occurring obviously might not occur. Similarly, the occurrence of a severe impact related to a concentration not disclosed in the prior-year financial statements would not suggest noncompliance with the requirements of this Subtopic if an appropriate judgment had been made that a near-term severe impact was not at least reasonably possible at the prior reporting date. In addition, a severe impact may arise from a concentration of which management did not have knowledge at the time the financial statements were issued.
+##### Underlying Asset
 
-55 Implementation Guidance and Illustrations
-General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
-General
-> Illustrations
-275-10-55-1
-The kinds of disclosures required by this Subtopic are illustrated in this Section. Each consists of a situation in which the disclosure would likely be made or not made and a discussion of how and why the illustrative disclosure complies with the requirements of this Subtopic or why no disclosure is required by this Subtopic. Some of the concentrations described in the Examples may illustrate more than one of the categories of concentrations given in paragraph 275-10-50-18(a) through (d).
-· > Example 1: Nature of Operations/Activities—Planned Principal Operations Have Commenced
-275-10-55-2
-This Example illustrates the disclosures required by paragraph 275-10-50-2. Conglomerate, Inc. is a U.S.-based multinational entity. Conglomerate's principal lines of business are automotive products, aerospace products and technologies, textiles, and nonprescription health-care products. The principal markets for Conglomerate's automotive and aerospace products and technologies are European- and Far East-based industrial concerns. Textiles are sold primarily to U.S. clothing manufacturers, while nonprescription health-care products are sold to wholesale and retail distributors worldwide. The operations of Conglomerate in any one country are not significant in relation to its overall operations. The following illustrates disclosure of the nature of operations required by this Subtopic.
-Conglomerate, Inc. is a multinational manufacturer and engineering concern. The entity's principal lines of business are automotive products, aerospace products and technologies, textiles, and nonprescription health-care products, all of which are about equal in size based on sales. The principal markets for the automotive and aerospace products and technologies are European- and Far East-based industrial concerns. Textiles are sold primarily to domestic clothing manufacturers, while nonprescription health-care products are sold primarily to wholesale and retail distributors worldwide.
-275-10-55-3
-This disclosure provides all of the following:
-aInformation necessary for users not familiar with the operations of Conglomerate to identify and consider the broad risks and uncertainties associated with the businesses and markets in which it operates and competes. From the disclosures provided, financial statement users having a general knowledge of business matters should be able to assess that Conglomerate's product lines are subject to different and varied risks. Those financial statement users familiar with the businesses recognize the general risks associated with each of these businesses and their related markets.
-bInformation that facilitates the overall understanding of the financial information presented. This kind of disclosure could provide users with a basis for comparing an entity's financial information with that of competitors or with applicable industry statistics.
-cInsight into the location of Conglomerate's principal markets, although on a broad scale. Because Conglomerate's markets are so diverse, it likely would not be useful to enumerate the specific locations of the entity's markets. For this reason, the manner in which the information is disclosed in the illustrative disclosure is sufficient to meet the broad objectives of this Subtopic.
-· > Example 1A: Nature of Operations/Activities—Planned Principal Operations Have Not Commenced
-275-10-55-3A
-This Example illustrates one way to comply with the disclosures required by paragraph 275-10-50-2. NewCompany, Inc. (Company) is a business that has not commenced planned principal operations. The Company is designed to develop and manufacture specialized environmental test equipment for measuring air quality. The Company's first product is a rapid-result test kit to identify certain airborne contaminants in high-risk environments. The Company's activities since inception have consisted principally of acquiring technology patents, raising capital, and performing research and development activities. The following illustrates disclosure required by this Subtopic of the nature of activities for an entity that has not commenced principal operations.
-NewCompany, Inc. (Company) is a business whose planned principal operations are the design, engineering, and manufacturing of air quality test equipment. The Company is currently conducting research and development activities to operationalize certain patented technology that the Company owns so it can manufacture rapid-result test kits for certain airborne contaminants in high-risk environments.
-During the last year, the Company secured a research facility in Norwalk, Connecticut, which houses all of its employees and research and development activities. The Company also is in the process of raising additional equity capital to support the completion of its development activities to begin manufacturing the test kits as soon as possible.
-The Company's activities are subject to significant risks and uncertainties, including failing to secure additional funding to operationalize the Company's current technology before another company develops similar technology and test kits.
-275-10-55-3B
-The disclosure in paragraph 275-10-55-3A provides all of the following:
-aInformation necessary for financial statement users not familiar with the activities of the Company to identify and consider the broad risks and uncertainties associated with businesses that have activities that are similar to those in which the Company is engaged. From the disclosures provided, financial statement users that have a general knowledge of business matters should be able to assess both of the following:
-1That the Company's activities are subject to different and varied risks, including the risk that the entity may be affected by the rapidly changing and intensely competitive technology market
-2That the Company is dependent on additional capital resources for the continuation and expansion of its business activities.
-bInformation that facilitates the overall understanding of the financial information provided. That kind of disclosure could provide users with a basis for understanding the Company's financial information and comparing that information with similar entities or other relevant statistics.
-· > Example 2: Combined Disclosure—Nature of Operations and Customer Concentration
-275-10-55-4
-This Example illustrates the disclosures required by paragraphs 275-10-50-2 and 275-10-50-16. Smith Corporation, formerly Smith Munitions Corporation, was founded in 1940. At that time, Smith's principal business was the design and manufacture of artillery ammunition and other explosives. In 1959, commensurate with the evolution of its principal business to the design, engineering, and manufacture of military aircraft for sale to the U.S. government, Smith changed its name to Smith Corporation. Smith has one factory, located in New York. The following illustrates disclosure of the nature of operations required by this Subtopic.
-Smith Corporation is engaged principally in the design, engineering, and manufacturing of military aircraft and related peripheral equipment for sale primarily to the U.S. government.
-275-10-55-5
-This disclosure provides all of the following:
-aInformation needed by users who are not familiar with the operations of Smith Corporation to identify and consider the broad risks and uncertainties faced by all or most entities operating in a specific business or market, which in this case is the defense contracting business. From this disclosure, financial statement users having a general knowledge of business matters should know that Smith's business may be heavily affected by future changes in U.S. defense and foreign policies.
-bInformation that aids in the overall understanding of the other financial information presented. Certain accounting procedures involving estimation may apply only to particular industries or may be relevant in comparing a business entity's financial statements with those of business entities in other industries.
-cInsight into the location of Smith's principal product markets and information about its current vulnerability due to concentrations. Users would be able to recognize and assess Smith's dependency on sales to the U.S. government (assuming the loss of the government as a customer would result in a near-term severe impact to Smith Corporation).
-· > Example 3: Use of Estimates in the Preparation of Financial Statements
-275-10-55-6
-The following illustrates disclosure of the pervasiveness of estimates in the financial statements of all reporting entities as required by paragraph 275-10-50-4.
-The preparation of financial statements in conformity with generally accepted accounting principles (GAAP) requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates.
-275-10-55-7
-This disclosure is intended to inform users of the inherent uncertainties in measuring assets and liabilities and related revenues and expenses and contingent assets and liabilities, and that subsequent resolution of some matters could differ significantly from the resolution that is currently expected. Such disclosure alerts users that uncertainties are present in the financial statements of all reporting entities.
-· > Example 4: Supplier or Sources of Supply—Electronic Equipment
-275-10-55-8
-This Example illustrates the disclosures required by paragraph 275-10-50-16. Hi-Tech Corporation is a manufacturer of electronic equipment in which integrated circuits are an important component. Substantially all of Hi-Tech's customers require that only those vendors that meet quality criteria be used as sources for integrated circuits. Hi-Tech currently buys all of its integrated circuits from one manufacturer in the Far East, and no long-term supply contract exists. There are only a limited number of manufacturers of these particular integrated circuits, and a change of supplier could significantly disrupt the business due to the time it would take to locate and qualify a new vendor. The following illustrates the disclosure required by this Subtopic.
-The entity currently buys all of its integrated circuits, an important component of its products, from one supplier. Although there are a limited number of manufacturers of the particular integrated circuits, management believes that other suppliers could provide similar integrated circuits on comparable terms. A change in suppliers, however, could cause a delay in manufacturing and a possible loss of sales, which would affect operating results adversely.
-275-10-55-9
-Although other sources of supply of this particular kind of integrated circuit are currently available, the limited number of such sources and the time it takes to qualify new vendors makes Hi-Tech currently vulnerable to the risk of a near-term severe impact. Disclosure is required because it is considered at least reasonably possible, based on information known to management before the financial statements are issued or are available to be issued (as discussed in Section 855-10-25), that the events that could cause the severe impact will occur.
-· > Example 5: Supplier or Sources of Supply—Wheat
-275-10-55-10
-This Example illustrates the disclosures required by paragraph 275-10-50-16. Minnesota Company manufactures various products in which wheat is an important raw material. It currently buys 80 percent of its wheat from one supplier, but numerous alternate sources of supply are readily available on comparable terms.
-275-10-55-11
-No disclosure is required.
-275-10-55-12
-The concentration exists at the date of the financial statements, and an inability to obtain wheat could result in a near-term severe impact. No disclosure is required, however, because numerous alternative suppliers are available and, therefore, it is not considered at least reasonably possible that events that could cause a near-term severe impact will occur.
-· > Example 6: Patent Expiration
-275-10-55-13
-This Example illustrates the disclosures required by paragraph 275-10-50-16. Felt Pharmaceutical Company is a national pharmaceutical manufacturer headquartered in Atlanta, Georgia. Felt markets a wide range of pharmaceutical products. One of its better-known name-brand products, a significant source of profits and cash flow, is an antibiotic on which there is a patent that will expire in six months. Competitors are preparing to enter the market with generic alternatives when Felt's patent expires, and the concentration therefore has the potential for a severe impact. The following illustrates the disclosure required by this Subtopic.
-Felt Pharmaceutical Company is a national pharmaceutical manufacturer with sales throughout the United States. The patent on one of its major products expires next year. This product accounts for approximately one-third [or "a significant portion"] of the entity's revenues and a higher percentage of its gross profit.
-275-10-55-14
-The disclosure focuses on the nature of the business and on Felt's current vulnerability due to a concentration of its patented products. Disclosure is required because the concentration exists at the date of the financial statements, because the effect on Felt's cash flows and profitability of competitors entering the market when the patent expires could be a severe impact, and because it is considered at least reasonably possible that the events that could cause the severe impact will occur in the near term. Because the risk is evident from the description of the concentration, no further explanation of the risk is necessary.
-· > Example 7: Source of Supply of Labor
-275-10-55-15
-This Example illustrates the disclosures required by paragraph 275-10-50-16. Team Company is a manufacturer of industrial hardware. The contract with the union representing Team's labor force is due to expire in the coming year. Over the past 30 years, Team has, in rare instances, been affected by work stoppages in the course of contract negotiations; the stoppages have always been of short duration, and none has had a significant effect on Team's financial statements. Although management expects that there will initially be some differences between its offer to the union and union demands, based on preliminary discussions with union leaders, management believes it is very unlikely that those differences will result in a protracted conflict.
-275-10-55-16
-No disclosure is required.
-275-10-55-17
-Although the concentration of labor exists at the date of the financial statements and it could result in a severe impact in the near term due to the potential of a protracted work stoppage, no disclosure is required because it is not considered at least reasonably possible in the light of past experience and current conditions that a protracted work stoppage will take place.
-· > Example 8: Geographic Area of Operations
-275-10-55-18
-This Example illustrates the disclosures required by paragraph 275-10-50-16. Offshore Productions, Inc., a Delaware corporation, designs and manufactures optical lenses, which it markets throughout the United States. Substantially all of its manufacturing operations are carried out in a single facility, which is located in Switzerland and which is owned by Offshore's subsidiary. Offshore does not carry insurance for risks of loss. Offshore's consolidated balance sheet includes $20 million representing the net assets of those operations. The following illustrates the disclosure required by this Subtopic.
-Included in the entity's consolidated balance sheet at December 31, 20X4, are the net assets of the entity's manufacturing operations, all of which are located in a single facility in Switzerland and which total approximately $20 million.
-275-10-55-19
-All of Offshore's specialized manufacturing capacity is concentrated in a single facility. As noted in paragraph 275-10-50-18, it is always considered at least reasonably possible that the use of a facility located outside of an entity's home country could be disrupted in the near term. Due to the specialized nature of the assets, it would not be possible to find replacement capacity quickly. Accordingly, loss of the facility could produce a near-term severe impact to Offshore. This disclosure informs financial statement users of that concentration of operations in a particular geographic area and informs them of the risks and uncertainties associated with the concentration. Because the concentration is one of operations located outside of Offshore's home country, the disclosure also sets forth the carrying amount of the net assets, as required by this Subtopic.
+An asset that is the subject of a lease for which a right to use that asset has been conveyed to a lessee. The underlying asset could be a physically distinct portion of a single asset.
 
-60 Relationships
-General Note:The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
-General
-275-10-60-1
-Paragraph superseded by Maintenance Update 2018-02.
-> Interim Reporting
-275-10-60-2
-See paragraph 270-10-50-6 for guidance on disclosure of contingencies in summarized interim financial information of publicly traded entities.
-PENDING CONTENT
-Transition Date: December 16, 2027;  December 16, 2028Transition Guidance:270-10-65-1
-See paragraph 270-10-50-69 for guidance on disclosure of contingencies in interim financial statements and notes in accordance with generally accepted accounting principles.
-> Inventory
-275-10-60-3
-See Example 1 (paragraph 330-10-55-8) for an illustration of the kinds of disclosures required for risks and uncertainties related to inventory.
-> Property, Plant, and Equipment
-275-10-60-3A
-See Example 12 (paragraphs 360-10-55-50 through 55-54) for an illustration of the kinds of disclosures required for risks and uncertainties related to specialized manufacturing equipment.
-> Asset Retirement and Environmental Obligations
-275-10-60-4
-See Example 1 (paragraph 410-30-55-7) for an illustration of the kinds of disclosures required for risks and uncertainties related to environmental remediation liabilities.
-> Contingencies
-275-10-60-5
-See Example 3 (paragraphs 450-20-55-36) for an illustration of the kinds of disclosures required for risks and uncertainties related to loss contingencies.
-> Guarantees
-275-10-60-6
-See Example 1 (paragraph 460-10-55-25) for an illustration of the kinds of disclosures required for risks and uncertainties related to guarantees of debt.
-> Revenue Recognition
-275-10-60-7
-See paragraphs 606-10-50-1 through 50-23 for disclosures of revenue from contracts with customers.
-> Income Taxes
-275-10-60-8
-See Example 31 (paragraph 740-10-55-218) for an illustration of the kinds of disclosures required for risks and uncertainties related to income taxes.
-275-10-60-9
-Paragraph superseded by Accounting Standards Update No. 2012-04.
-> Not-for-Profit Entities
-275-10-60-10
-See Example 12 (paragraph 958-605-55-69) for an illustration of the kinds of disclosures required for risks and uncertainties related to contributions.
-> Software
-275-10-60-11
-See Example 1 (paragraph 985-20-55-23) for an illustration of the kinds of disclosures for risks and uncertainties related to capitalized software costs.
+##### Variable Interest Entity
 
-About
-Help
-Contact Us
-Copyright
-Terms and Conditions
-FASB.org
-Presentation
-275 Risks and Uncertainties
-Print
-keyboard_arrow_up
-Display
-keyboard_arrow_up
+A legal entity subject to consolidation according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
+
+## 45 Other Presentation Matters
+
+> **General Note:** The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+
+### General
+
+**270-10-45-2** Interim financial information is essential to provide investors and others with timely information as to the progress of the entity. The usefulness of such information rests on the relationship that it has to the annual results of operations. Accordingly, each interim period should be viewed primarily as an integral part of an annual period. In general, the results for each interim period shall be based on the accounting principles and practices used by an entity in the preparation of its latest annual financial statements unless a change in an accounting practice or policy has been adopted in the current year (see paragraphs 270-10-45-12 through 45-16). However, certain accounting principles and practices followed for annual reporting purposes may require modification at interim reporting dates so that the reported results for the interim period may better relate to the results of operations for the annual period. Paragraphs 270-10-45-4 through 45-11 sets forth the modifications that are necessary or desirable at interim dates in accounting principles or practices followed for annual periods.
+**270-10-45-3** Revenue from products sold or services rendered shall be recognized as the entity satisfies a performance obligation by transferring a promised good or service to a customer. Those revenues shall be recognized during an interim period on the same basis as followed for the full year in accordance with Topic 606 on revenue from contracts with customers. For example, revenues from a long-term construction contract with a customer that includes performance obligations that the entity satisfies over time in accordance with paragraphs 606-10-25-27 through 25-29 shall be recognized in interim periods on the same basis followed for the full year. Losses projected on contracts within the scope of Subtopic 605-35, in accordance with paragraphs 605-35-25-45 through 25-49, shall be recognized in full during the interim period in which the existence of such losses becomes evident.
+1. Costs associated with revenue - those costs that are associated directly with or allocated to the products sold or to the services rendered and that are charged against income in those interim periods in which the related revenue is recognized
+2. All other costs and expenses - those costs and expenses that are not allocated to the products sold or to the services rendered and that are charged against income in interim fiscal periods as incurred, or are allocated among interim periods based on an estimate of time expired, benefit received, or other activity associated with the periods.
+
+##### · > Costs Associated with                Revenue
+
+**270-10-45-5** Those costs and expenses that are associated directly with or allocated to the products sold or to the services rendered for annual reporting purposes (including, for example, material costs, wages and salaries and related fringe benefits, manufacturing overhead, and warranties) shall be similarly treated for interim reporting purposes.
+1. Some entities use estimated gross profit rates to determine the cost of goods sold during interim periods or use other methods different from those used at annual inventory dates. These entities shall disclose the method used at the interim date and any significant adjustments that result from reconciliations with the annual physical inventory.
+2. Entities that use the LIFO method may encounter a liquidation of base period inventories at an interim date that is expected to be replaced by the end of the annual period. In those cases the inventory at the interim reporting date shall not give effect to the LIFO liquidation, and cost of sales for the interim reporting period shall include the expected cost of replacement of the liquidated LIFO base.
+3. Inventory losses from the application of the guidance on subsequent measurement in Subtopic 330-10shall not be deferred beyond the interim period in which the decline occurs. Recoveries of such losses on the same inventory in later interim periods of the same fiscal year through market value recoveries (for inventory measured using LIFO or the retail inventory method) or net realizable valuerecoveries (for all other inventory) shall be recognized as gains in the later interim period. Such gains shall not exceed previously recognized losses. Some declines in the market value (for inventory measured using LIFO or the retail inventory method) or net realizable value (for all other inventory) of inventory at interim dates, however, can reasonably be expected to be restored in the fiscal year. Such temporary declines need not be recognized at the interim date since no loss is expected to be incurred in the fiscal year.
+4. Entities that use standard cost accounting systems for determining inventory and product costs should generally follow the same procedures in reporting purchase price, wage rate, usage, or efficiency variances from standard cost at the end of an interim period as followed at the end of a fiscal year. Purchase price variances or volume or capacity cost variances that are planned and expected to be absorbed by the end of the annual period, should ordinarily be deferred at interim reporting dates. The effect of unplanned or unanticipated purchase price or volume variances, however, shall be reported at the end of an interim period following the same procedures used at the end of a fiscal year.
+
+##### · > All Other Costs and                Expenses
+
+1. Direct expenditures made in the period (salaries and wages)
+2. Accruals for estimated expenditures to be made at a later date (vacation pay)
+3. Amortization of expenditures that affect more than one annual period (such as insurance premiums, interest, and rents).
+
+1. Costs and expenses other than product costs shall be charged to income in interim periods as incurred, or be allocated among interim periods based on an estimate of time expired, benefit received or activity associated with the periods. Procedures adopted for assigning specific cost and expense items to an interim period shall be consistent with the bases followed by the entity in reporting results of operations at annual reporting dates. However, if a specific cost or expense item charged to expense for annual reporting purposes benefits more than one interim period, the cost or expense item may be allocated to those interim periods (see paragraph 270-10-45-9).
+2. Some costs and expenses incurred in an interim period, however, cannot be readily identified with the activities or benefits of other interim periods and shall be charged to the interim period in which incurred. Disclosure in the notes to financial statements shall be made as to the nature and amount of such costs unless items of a comparable nature are included in both the current interim period and in the corresponding interim period of the preceding year. (See paragraph 270-10-50-1B.)
+3. Arbitrary assignment of the amount of such costs to an interim period shall not be made.
+4. Gains and losses that arise in any interim period similar to those that would not be deferred at year end shall not be deferred to later interim periods within the same fiscal year.
+
+1. If a cost that is expensed for annual reporting purposes clearly benefits two or more interim periods, each interim period shall be charged for an appropriate portion of the annual cost by the use of accruals or deferrals.
+2. If quantity discounts are allowed to customers based upon annual sales volume, the amount of such discounts charged to each interim period shall be based on the sales to customers during the interim period in relation to estimated annual sales.
+3. Property taxes (and similar costs such as interest and rent) may be accrued or deferred at annual reporting date, to achieve a full year's charge of taxes to costs and expenses. Similar procedures shall be adopted at each interim reporting date to provide an appropriate cost in each period.
+4. Advertising costs may be deferred within a fiscal year if the benefits of an expenditure made clearly extend beyond the interim period in which the expenditure is made. Advertising costs may be accrued and assigned to interim periods in relation to sales prior to the time the service is received if the advertising program is clearly implicit in the sales arrangement.
+
+**270-10-45-10** The amounts of certain costs and expenses are frequently subjected to year-end adjustments even though they can be reasonably approximated at interim dates. To the extent possible such adjustments should be estimated and the estimated costs and expenses assigned to interim periods so that the interim periods bear a reasonable portion of the anticipated annual amount. Examples of such items include inventory shrinkage, allowance for uncollectible accounts, allowance for quantity discounts, and discretionary year-end bonuses.
+**270-10-45-11** Revenues of certain entities are subject to material seasonal variations. To avoid the possibility that interim results with material seasonal variations may be taken as fairly indicative of the estimated results for a full fiscal year, such entities shall disclose the seasonal nature of their activities, and consider supplementing their interim reports with information for 12-month periods ended at the interim date for the current and preceding years.
+**270-10-45-11A** Effects of disposals of a component of an entity and unusual or infrequently occurring transactions and events that are material with respect to the operating results of the interim period shall be reported separately. Gains or losses from disposal of a component of an entity and unusual or infrequently occurring items shall not be prorated over the balance of the fiscal year.
+1. The comparable interim period of the prior annual period
+2. The preceding interim periods in the current annual period
+3. The prior annual report.

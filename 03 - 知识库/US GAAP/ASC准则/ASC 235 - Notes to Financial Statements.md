@@ -9,242 +9,134 @@ scraped_date: "2026-06-10"
 subtopics: ["235-10"]
 ---
 
-# ASC 235 — Notes to Financial Statements（财务报表附注）
-
 ---
 
-35 Notes to Financial Statements
-10 Overall
-00 Status
-General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
-General
-235-10-00-1
-The following table identifies the changes made to this Subtopic.
-Paragraph	Action	Accounting Standards Update	Date
-			
-Contract	Added	Accounting Standards Update No. 2014-09	05/28/2014
-Customer	Added	Accounting Standards Update No. 2014-09	05/28/2014
-Financial Instrument	Amended	Accounting Standards Update No. 2024-02	03/29/2024
-Revenue	Added	Accounting Standards Update No. 2014-09	05/28/2014
-			
-235-10-50-4	Amended	Accounting Standards Update No. 2014-09	05/28/2014
-235-10-50-6	Amended	Maintenance Update 2016-11	06/27/2016
+## 00 Status
 
-05 Overview and Background
-General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
-General
-235-10-05-1
-The Notes to Financial Statements Topic addresses the content and usefulness of disclosure by an entity of the accounting policies judged by management to be most appropriate to fairly present the entity's financial statements.
-235-10-05-2
-Disclosure of accounting policies related to specific financial statement line items are addressed in the related Topics.
-> Importance of Accounting Policies Disclosure
-235-10-05-3
-The accounting policies of an entity are the specific accounting principles and the methods of applying those principles that are judged by the management of the entity to be the most appropriate in the circumstances to present fairly financial position, cash flows, and results of operations in accordance with generally accepted accounting principles (GAAP) and that, accordingly, have been adopted for preparing the financial statements.
-235-10-05-4
-The accounting policies adopted by an entity can affect significantly the presentation of its financial position, cash flows, and results of operations. Accordingly, the usefulness of financial statements for purposes of making economic decisions about the entity depends significantly upon the user's understanding of the accounting policies followed by the entity.
+> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
-15 Scope and Scope Exceptions
-General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
-General Note for Financial Instruments:Some of the items subject to the guidance in this Subtopic are financial instruments. For guidance on matters related broadly to all financial instruments, (including the fair value option, accounting for registration payment arrangements, and broad financial instrument disclosure requirements), see Topic 825. See Section 825-10-15 for guidance on the scope of the Financial Instruments Topic.
-General
-> Overall Guidance
-235-10-15-1
-The Scope Section of the Overall Subtopic establishes the pervasive scope for the Notes to Financial Statements Topic.
-> Entities
-235-10-15-2
-The guidance in the Notes to Financial Statements Topic applies to all entities.
+### General
 
-20 Glossary
-General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
-Contract
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Contract | Added | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| Customer | Added | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| Financial Instrument | Amended | Accounting Standards Update No. 2024-02 | 03/29/2024 |
+| Revenue | Added | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 235-10-50-4 | Amended | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 235-10-50-6 | Amended | Maintenance Update 2016-11 | 06/27/2016 |
+
+**235-10-00-1** The following table identifies the changes made to this Subtopic. **** **** **** ****
+
+## 05 Overview and Background
+
+> **General Note:** The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+
+### General
+
+**235-10-05-1** The Notes to Financial Statements Topic addresses the content and usefulness of disclosure by an entity of the accounting policies judged by management to be most appropriate to fairly present the entity's financial statements.
+**235-10-05-2** Disclosure of accounting policies related to specific financial statement line items are addressed in the related Topics.
+**235-10-05-3** The accounting policies of an entity are the specific accounting principles and the methods of applying those principles that are judged by the management of the entity to be the most appropriate in the circumstances to present fairly financial position, cash flows, and results of operations in accordance with generally accepted accounting principles (GAAP) and that, accordingly, have been adopted for preparing the financial statements.
+**235-10-05-4** The accounting policies adopted by an entity can affect significantly the presentation of its financial position, cash flows, and results of operations. Accordingly, the usefulness of financial statements for purposes of making economic decisions about the entity depends significantly upon the user's understanding of the accounting policies followed by the entity.
+
+## 15 Scope and Scope Exceptions
+
+> **General Note:** The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+
+> **General Note:** General Note for Financial Instruments:Some of the items subject to the guidance in this Subtopic are financial instruments
+
+### General
+
+**235-10-15-1** . For guidance on matters related broadly to all financial instruments, (including the fair value option, accounting for registration payment arrangements, and broad financial instrument disclosure requirements), see Topic 825. See Section 825-10-15 for guidance on the scope of the Financial Instruments Topic.The Scope Section of the Overall Subtopic establishes the pervasive scope for the Notes to Financial Statements Topic.
+**235-10-15-2** The guidance in the Notes to Financial Statements Topic applies to all entities.
+
+## 20 Glossary
+
+> **General Note:** The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+
+##### Contract
+
 An agreement between two or more parties that creates enforceable rights and obligations.
-Customer
+
+##### Customer
+
 A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.
-Financial Instrument
-Cash, evidence of an ownership interest in an entity, or a contract that both:
-aImposes on one entity a contractual obligation either:
-1To deliver cash or another financial instrument to a second entity
-2To exchange other financial instruments on potentially unfavorable terms with the second entity.
-bConveys to that second entity a contractual right either:
-1To receive cash or another financial instrument from the first entity
-2To exchange other financial instruments on potentially favorable terms with the first entity.
-The use of the term financial instrument in this definition is recursive (because the term financial instrument is included in it), though it is not circular. The definition requires a chain of contractual obligations that ends with the delivery of cash or an ownership interest in an entity. Any number of obligations to deliver financial instruments can be links in a chain that qualifies a particular contract as a financial instrument.
-Contractual rights and contractual obligations encompass both those that are conditioned on the occurrence of a specified event and those that are not. All contractual rights (contractual obligations) that are financial instruments meet the definition of asset (liability) set forth in FASB Concepts Statement No. 6, Elements of Financial Statements, although some may not be recognized as assets (liabilities) in financial statements—that is, they may be off-balance-sheet—because they fail to meet some other criterion for recognition.
-For some financial instruments, the right is held by or the obligation is due from (or the obligation is owed to or by) a group of entities rather than a single entity.
-PENDING CONTENT
-Transition Date: December 16, 2024;  December 16, 2025Transition Guidance:105-10-65-9
-Cash, evidence of an ownership interest in an entity, or a contract that both:
-aImposes on one entity a contractual obligation either:
-1To deliver cash or another financial instrument to a second entity
-2To exchange other financial instruments on potentially unfavorable terms with the second entity.
-bConveys to that second entity a contractual right either:
-1To receive cash or another financial instrument from the first entity
-2To exchange other financial instruments on potentially favorable terms with the first entity.
-The use of the term financial instrument in this definition is recursive (because the term financial instrument is included in it), though it is not circular. The definition requires a chain of contractual obligations that ends with the delivery of cash or an ownership interest in an entity. Any number of obligations to deliver financial instruments can be links in a chain that qualifies a particular contract as a financial instrument.
-Contractual rights and contractual obligations encompass both those that are conditioned on the occurrence of a specified event and those that are not. Some contractual rights (contractual obligations) that are financial instruments may not be recognized in financial statements—that is, they may be off-balance-sheet—because they fail to meet some other criterion for recognition.
-For some financial instruments, the right is held by or the obligation is due from (or the obligation is owed to or by) a group of entities rather than a single entity.
-Revenue
-Inflows or other enhancements of assets of an entity or settlements of its liabilities (or a combination of both) from delivering or producing goods, rendering services, or other activities that constitute the entity's ongoing major or central operations.
 
-50 Disclosure
-General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
-General
-Related Proposed ASUs
-> Accounting Policies Disclosure
-235-10-50-1
-Information about the accounting policies adopted by an entity is essential for financial statement users. When financial statements that are issued or are available to be issued (as discussed in Section 855-10-25) purport to present fairly financial position, cash flows, and results of operations in accordance with generally accepted accounting principles (GAAP), a description of all significant accounting policies of the entity shall be included as an integral part of the financial statements. In circumstances where it may be appropriate to issue one or more of the basic financial statements without the others, purporting to present fairly the information given in accordance with GAAP, statements so presented also shall include disclosure of the pertinent accounting policies.
-> Accounting Policies Disclosure in Interim Periods
-235-10-50-2
-The provisions of paragraph 235-10-50-1 are not intended to apply to unaudited financial statements issued as of a date between annual reporting dates (for example, each quarter) if the reporting entity has not changed its accounting policies since the end of its preceding fiscal year.
-> What to Disclose
-235-10-50-3
-Disclosure of accounting policies shall identify and describe the accounting principles followed by the entity and the methods of applying those principles that materially affect the determination of financial position, cash flows, or results of operations. In general, the disclosure shall encompass important judgments as to appropriateness of principles relating to recognition of revenue and allocation of asset costs to current and future periods; in particular, it shall encompass those accounting principles and methods that involve any of the following:
-aA selection from existing acceptable alternatives
-bPrinciples and methods peculiar to the industry in which the entity operates, even if such principles and methods are predominantly followed in that industry
-cUnusual or innovative applications of GAAP.
-> Examples of Disclosures
-235-10-50-4
-Examples of disclosures by an entity commonly required with respect to accounting policies would include, among others, those relating to the following:
-aBasis of consolidation
-bDepreciation methods
-cAmortization of intangibles
-dInventory pricing
-eRecognition of revenue from contracts with customers
-fRecognition of revenue from leasing operations.
-> Avoid Duplicate Details of Disclosures
-235-10-50-5
-Financial statement disclosure of accounting policies shall not duplicate details (for example, composition of inventories or of plant assets) presented elsewhere as part of the financial statements. In some cases, the disclosure of accounting policies shall refer to related details presented elsewhere as part of the financial statements; for example, changes in accounting policies during the period shall be described with cross-reference to the disclosure required by Topic 250.
-> Format
-235-10-50-6
-This Subtopic recognizes the need for flexibility in matters of format (including the location) of disclosure of accounting policies provided that the entity identifies and describes its significant accounting policies as an integral part of its financial statements in accordance with the provisions of this Subtopic. Disclosure is preferred in a separate summary of significant accounting policies preceding the notes to financial statements (notes), or as the initial note, under the same or a similar title.
+##### Financial Instrument
 
-S00 Status
-General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
-General
-235-10-S00-1
-The following table identifies the changes made to this Subtopic.
-Paragraph	Action	Accounting Standards Update	Date
+1. To deliver cash or another financial instrument to a second entity
+2. To exchange other financial instruments on potentially unfavorable terms with the second entity.
 
-235-10-S99-1 through S99-4	Amended	Accounting Standards Update No. 2019-07	07/26/2019
-235-10-S99-1	Amended	Accounting Standards Update No. 2012-03	08/27/2012
-235-10-S99-1	Amended	Accounting Standards Update No. 2010-21	08/02/2010
-235-10-S99-1	Amended	Accounting Standards Update No. 2009-07	09/15/2009
-235-10-S99-5	Amended	Accounting Standards Update No. 2012-03	08/27/2012
+1. To receive cash or another financial instrument from the first entity
+2. To exchange other financial instruments on potentially favorable terms with the first entity.
 
-S50 Disclosure
-General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
-General
-> Required General Disclosures
-235-10-S50-1
-See paragraph 235-10-S99-1, Regulation S-X Rule 4-08, for requirements on disclosures to be included in the notes to financial statements.
-> Foreign Private Issuers
-235-10-S50-2
-See paragraph 235-10-S99-5, SAB Topic 1.D.1, for SEC Staff views on disclosures to be provided by foreign private issuers.
-> Disclosures from Supplemental Schedules
-235-10-S50-3
-See paragraph 235-10-S99-2, Regulation S-X Rule 12-01, for the references to the required supplemental schedules to be considered.
-235-10-S50-4
-See paragraph 235-10-S99-3, Regulation S-X Rule 12-04, for the disclosure requirements pertaining to condensed financial information of the registrant in situations where such disclosures are required.
-235-10-S50-5
-See paragraph 235-10-S99-4, Regulation S-X Rule 12-09, for the requirements for the schedule of valuation and qualifying accounts.
+##### Revenue
 
-S99 SEC Materials
-General Note:As more fully described in About the Codification, the Codification includes selected SEC and SEC Staff content for reference by public companies. The Codification does not replace or affect how the SEC or SEC Staff issues or updates SEC content. SEC Staff content does not constitute Commission-approved rules or interpretations of the SEC.
-General
-> SEC Rules, Regulations, and Interpretations
-· > Regulation S-X
-· · > Regulation S-X Rule 4-08, General Notes to Financial Statements
-235-10-S99-1
-The following is the text of Regulation S-X Rule 4-08, General Notes to Financial Statements (17 CFR 210.4-08).
-If applicable to the person for which the financial statements are filed, the following shall be set forth on the face of the appropriate statement or in appropriately captioned notes. The information shall be provided for each statement required to be filed, except that the information required by paragraphs (b), (c), (d), (e) and (f) of this section shall be provided as of the most recent audited balance sheet being filed and for paragraph (j) of this section as specified therein. When specific statements are presented separately, the pertinent notes shall accompany such statements unless cross-referencing is appropriate.
-(a) [Reserved]
-(b) Assets subject to lien. Assets mortgaged, pledged, or otherwise subject to lien, and the approximate amounts thereof, shall be designated and the obligations collateralized briefly identified.
-(c) Defaults. The facts and amounts concerning any default in principal, interest, sinking fund, or redemption provisions with respect to any issue of securities or credit agreements, or any breach of covenant of a related indenture or agreement, which default or breach existed at the date of the most recent balance sheet being filed and which has not been subsequently cured, shall be stated in the notes to the financial statements. If a default or breach exists but acceleration of the obligation has been waived for a stated period of time beyond the date of the most recent balance sheet being filed, state the amount of the obligation and the period of the waiver.
-(d) Preferred shares. Aggregate preferences on involuntary liquidation, if other than par or stated value, shall be shown parenthetically in the equity section of the balance sheet.
-(e) Restrictions which limit the payment of dividends by the registrant.
-(1) Describe the most significant restrictions on the payment of dividends by the registrant, indicating their sources, their pertinent provisions, and the amount of retained earnings or net income restricted or free of restrictions.
-(2) Disclose the amount of consolidated retained earnings which represents undistributed earnings of 50 percent or less owned persons accounted for by the equity method.
-(3) The disclosures in paragraphs (e)(3)(i) and (ii) of this section shall be provided when material.
-(i) Describe the nature of any restrictions on the ability of consolidated subsidiaries and unconsolidated subsidiaries to transfer funds to the registrant in the form of cash dividends, loans or advances (i. e., borrowing arrangements, regulatory restraints, foreign government, etc.)
-(ii) Disclose separately the amounts of such restricted net assets for unconsolidated subsidiaries and consolidated subsidiaries as of the end of the most recently completed fiscal year.
-(f) Significant changes in bonds, mortgages and similar debt. Any significant changes in the authorized amounts of bonds, mortgages and similar debt since the date of the latest balance sheet being filed for a particular person or group shall be stated.
-(g) Summarized financial information of subsidiaries not consolidated and 50 percent or less owned persons.
-(1) The summarized information as to assets, liabilities and results of operations as detailed in § 210.1-02(bb) shall be presented in notes to the financial statements on an individual or group basis for:
-(i) Subsidiaries not consolidated; or
-(ii) For 50 percent or less owned persons accounted for by the equity method by the registrant or by a subsidiary of the registrant, if the criteria in § 210.1-02(w) for a significant subsidiary are met:
-(A) Individually by any subsidiary not consolidated or any 50% or less owned person; or
-(B) On an aggregated basis by any combination of such subsidiaries and persons.
-(2) Summarized financial information shall be presented insofar as is practicable as of the same dates and for the same periods as the audited consolidated financial statements provided and shall include the disclosures prescribed by § 210.1-02(bb). Summarized information of subsidiaries not consolidated shall not be combined for disclosure purposes with the summarized information of 50 percent or less owned persons.
-(h) Income tax expense.
-(1) Disclosure shall be made in the statement of comprehensive income or a note thereto, of the components of income (loss) before income tax expense (benefit) as either domestic or foreign.
-NOTE 1 to Paragraph (h)(1): Amounts applicable to United States Federal income taxes, to foreign income taxes and the other income taxes shall be stated separately for each major component. Amounts applicable to foreign income (loss) and amounts applicable to foreign or other income taxes which are less than five percent of the total of income before taxes or the component of tax expense, respectively, need not be separately disclosed. For purposes of this rule, foreign income (loss) is defined as income (loss) generated from a registrant's foreign operations, i. e., operations that are located outside of the registrant's home country.
-(2) In the reconciliation between the amount of reported total income tax expense (benefit) and the amount computed by multiplying the income (loss) before tax by the applicable statutory Federal income tax rate if no individual reconciling item amounts to more than five percent of the amount computed by multiplying the income before tax by the applicable statutory Federal income tax rate, and the total difference to be reconciled is less than five percent of such computed amount, no reconciliation need be provided unless it would be significant in appraising the trend of earnings. Reconciling items that are individually less than five percent of the computed amount may be aggregated in the reconciliation. Where the reporting person is a foreign entity, the income tax rate in that person's country of domicile should normally be used in making the above computation, but different rates should not be used for subsidiaries or other segments of a reporting entity. When the rate used by a reporting person is other than the United States Federal corporate income tax rate, the rate used and the basis for using such rate shall be disclosed.
-(4) Price at which warrant or right is exercisable.
-(i)-(j) [Reserved]
-(k) Related party transactions that affect the financial statements.
-(1) Amounts of related party transactions should be stated on the face of the balance sheet, statement of comprehensive income, or statement of cash flows.
-(2) In cases where separate financial statements are presented for the registrant, certain investees, or subsidiaries, any intercompany profits or losses resulting from transactions with related parties and the effects thereof shall be disclosed.
-(l) [Reserved]
-(m) Repurchase and reverse repurchase agreements.
-(1) Repurchase agreements (assets sold under agreements to repurchase).
-(i) If, as of the most recent balance sheet date, the carrying amount (or market value, if higher than the carrying amount or if there is no carrying amount) of the securities or other assets sold under agreements to repurchase (repurchase agreements) exceeds 10% of total assets, disclose separately in the balance sheet the aggregate amount of liabilities incurred pursuant to repurchase agreements including accrued interest payable thereon.
-(ii)(A) If, as of the most recent balance sheet date, the carrying amount (or market value, if higher than the carrying amount) of securities or other assets sold under repurchase agreements, other than securities or assets specified in paragraph (m)(1)(ii)(B) of this section, exceeds 10% of total assets, disclose in an appropriately captioned footnote containing a tabular presentation, segregated as to type of such securities or assets sold under agreements to repurchase (e. g., U.S. Treasury obligations, U.S. Government agency obligations and loans), the following information as of the balance sheet date for each such agreement or group of agreements (other than agreements involving securities or assets specified in paragraph (m)(1)(ii)(B) of this section) maturing (1) overnight; (2) term up to 30 days; (3) term of 30 to 90 days; (4) term over 90 days and (5) demand:
-(i) The carrying amount and market value of the assets sold under agreement to repurchase, including accrued interest plus any cash or other assets on deposit under the repurchase agreements; and
-(ii) The repurchase liability associated with such transaction or group of transactions and the interest rate(s) thereon.
-(B) For purposes of paragraph (m)(1)(ii)(A) of this section only, do not include securities or other assets for which unrealized changes in market value are reported in current income or which have been obtained under reverse repurchase agreements.
-(iii) If, as of the most recent balance sheet date, the amount at risk under repurchase agreements with any individual counterparty or group of related counterparties exceeds 10% of stockholders' equity (or in the case of investment companies, net asset value), disclose the name of each such counterparty or group of related counterparties, the amount at risk with each, and the weighted average maturity of the repurchase agreements with each. The amount at risk under repurchase agreements is defined as the excess of carrying amount (or market value, if higher than the carrying amount or if there is no carrying amount) of the securities or other assets sold under agreement to repurchase, including accrued interest plus any cash or other assets on deposit to secure the repurchase obligation, over the amount of the repurchase liability (adjusted for accrued interest). (Cash deposits in connection with repurchase agreements shall not be reported as unrestricted cash pursuant to rule 5-02.1.)
-(2) Reverse repurchase agreements (assets purchased under agreements to resell).
-(i) If, as of the most recent balance sheet date, the aggregate carrying amount of "reverse repurchase agreements" (securities or other assets purchased under agreements to resell) exceeds 10% of total assets:
-(A) Disclose separately such amount in the balance sheet; and
-(B) Disclose in an appropriately captioned footnote:
-(1) The registrant's policy with regard to taking possession of securities or other assets purchased under agreements to resell; and
-(2) Whether or not there are any provisions to ensure that the market value of the underlying assets remains sufficient to protect the registrant in the event of default by the counterparty and if so, the nature of those provisions.
-(ii) If, as of the most recent balance sheet date, the amount at risk under reverse repurchase agreements with any individual counterparty or group of related counterparties exceeds 10% of stockholders' equity (or in the case of investment companies, net asset value), disclose the name of each such counterparty or group of related counterparties, the amount at risk with each, and the weighted average maturity of the reverse repurchase agreements with each. The amount at risk under reverse repurchase agreements is defined as the excess of the carrying amount of the reverse repurchase agreements over the market value of assets delivered pursuant to the agreements by the counterparty to the registrant (or to a third party agent that has affirmatively agreed to act on behalf of the registrant) and not returned to the counterparty, except in exchange for their approximate market value in a separate transaction.
-(n) Accounting policies for certain derivative instruments. Disclosures regarding accounting policies shall include to the extent material where in the statement of cash flows derivative financial instruments, and their related gains and losses, as defined by U.S. generally accepted accounting principles are reported.
-[45 FR 63669, Sept. 25, 1980, as amended at 46 FR 56179, Nov. 16, 1981; 50 FR 25215, June 18, 1985; 50 FR 49532, Dec. 3, 1985; 51 FR 3770, Jan. 30, 1986; 57 FR 45293, Oct. 1, 1992; 59 FR 65636, Dec. 20, 1994; 62 FR 6063, Feb. 10, 1997; 74 FR 18615, Apr. 23, 2009; 76 FR 50119, Aug. 12, 2011; 83 FR 50200, Oct. 4, 2018]
-· · > Regulation S-X Rule 12-01, Application of §§210.12-01 to 210.12-29
-235-10-S99-2
-The following is the text of Regulation S-X Rule 12-01, Application of §§210.12-01 to 210.12-29 (17 CFR 210.12-01).
-These sections prescribe the form and content of the schedules required by §§ 210.5-04, 210.6-10, 210.6A-05, and 210.7-05.
-[59 FR 65637, Dec. 20, 1994]
-· · > Regulation S-X Rule 12-04, Condensed Financial Information of Registrant
-235-10-S99-3
-The following is the text of Regulation S-X Rule 12-04, Condensed Financial Information of Registrant (17 CFR 210.12-04).
-(a) Provide condensed financial information as to financial position, cash flows and results of operations of the registrant as of the same dates and for the same periods for which audited consolidated financial statements are required. The financial information required need not be presented in greater detail than is required for condensed statements by § 210.10-01(a)(2), (3) and (4). Detailed footnote disclosure which would normally be included with complete financial statements may be omitted with the exception of disclosures regarding material contingencies, long-term obligations and guarantees. Descriptions of significant provisions of the registrant's long-term obligations, mandatory dividend or redemption requirements of redeemable stocks, and guarantees of the registrant shall be provided along with a five-year schedule of maturities of debt. If the material contingencies, long-term obligations, redeemable stock requirements and guarantees of the registrant have been separately disclosed in the consolidated statements, they need not be repeated in this schedule.
-(b) Disclose separately the amounts of cash dividends paid to the registrant for each of the last three fiscal years by consolidated subsidiaries, unconsolidated subsidiaries and 50 percent or less owned persons accounted for by the equity method, respectively.
-[46 FR 56180, Nov. 16, 1981, as amended at 57 FR 45293, Oct. 1, 1992]
-· · > Regulation S-X Rule 12-09, Valuation and Qualifying Accounts
-235-10-S99-4
-The following is the text of Regulation S-X Rule 12-09, Valuation and Qualifying Accounts (17 CFR 210.12-09).
-[37 FR 14602, July 21, 1972. Redesignated and amended at 45 FR 63679, Sept. 25, 1980]
-> SEC Staff Guidance
-· > Staff Accounting Bulletins
-· · > SAB Topic 1.D.1, Disclosures Required of Companies Complying with Item 17 of Form 20-F
-235-10-S99-5
-The following is the text of SAB Topic 1.D.1, Disclosures Required of Companies Complying with Item 17 of Form 20-F.
-Facts: A foreign private issuer may use Form 20-F as a registration statement under section 12 or as an annual report under section 13(a) or 15(d) of the Exchange Act. The registrant must furnish the financial statements specified in Item 17 of that form (Effective for fiscal years ending on or after December 15, 2011, compliance with Item 18 rather than Item 17 will be required for all issuer financial statements in all Securities Act registration statements, Exchange Act registration statements on Form 20-F, and annual reports on Form 20-F. See SEC Release No. 33-8959). However, in certain circumstances, Form F-3 requires that the annual report include financial statements complying with Item 18 of the form. Also, financial statements complying with Item 18 are required for registration of securities under the Securities Act in most circumstances. Item 17 permits the registrant to use its financial statements that are prepared on a comprehensive basis other than U.S. GAAP, but requires quantification of the material differences in the principles, practices and methods of accounting for any basis other than International Financial Reporting Standards (IFRS) as issued by the International Accounting Standards Board (IASB). An issuer complying with Item 18, other than those using IFRS as issued by the IASB, must satisfy the requirements of Item 17 and also must provide all other information required by U.S. GAAP and Regulation S-X.
-Question: Assuming that the registrant's financial statements include a discussion of material variances from U.S. GAAP along with quantitative reconciliations of net income and material balance sheet items, does Item 17 of Form 20-F require other disclosures in addition to those prescribed by the standards and practices which comprise the comprehensive basis on which the registrant's primary financial statements are prepared?
-Interpretive Response: No. The distinction between Items 17 and 18 is premised on a classification of the requirements of U.S. GAAP and Regulation S-X into those that specify the methods of measuring the amounts shown on the face of the financial statements and those prescribing disclosures that explain, modify or supplement the accounting measurements. Disclosures required by U.S. GAAP but not required under the foreign GAAP on which the financial statements are prepared need not be furnished pursuant to Item 17.
-Notwithstanding the absence of a requirement for certain disclosures within the body of the financial statements, some matters routinely disclosed pursuant to U.S. GAAP may rise to a level of materiality such that their disclosure is required by Item 5 (Management's Discussion and Analysis) of Form 20-F. Among other things, this item calls for a discussion of any known trends, demands, commitments, events or uncertainties that are reasonably likely to affect liquidity, capital resources or the results of operations in a material way. Also, instruction 2 of this item requires "a discussion of any aspects of the differences between foreign and U.S. GAAP, not discussed in the reconciliation, that the registrant believes is necessary for an understanding of the financial statements as a whole." Matters that may warrant discussion in response to Item 5 include the following:
-material undisclosed uncertainties (such as reasonably possible loss contingencies), commitments (such as those arising from leases), and credit risk exposures and concentrations;
-material unrecognized obligations (such as pension obligations);
-material changes in estimates and accounting methods, and other factors or events affecting comparability;
-defaults on debt and material restrictions on dividends or other legal constraints on the registrant's use of its assets;
-material changes in the relative amounts of constituent elements comprising line items presented on the face of the financial statements;
-significant terms of financings which would reveal material cash requirements or constraints;
-material subsequent events, such as events that affect the recoverability of recorded assets;
-material related party transactions (as addressed by FASB ASC Topic 850, Related Party Disclosures) that may affect the terms under which material revenues or expenses are recorded; and
-significant accounting policies and measurement assumptions not disclosed in the financial statements, including methods of costing inventory, recognizing revenues, and recording and amortizing assets, which may bear upon an understanding of operating trends or financial condition.
+The use of the term financial instrument in this definition is recursive (because the term financial instrument is included in it), though it is not circular. The definition requires a chain of contractual obligations that ends with the delivery of cash or an ownership interest in an entity. Any number of obligations to deliver financial instruments can be links in a chain that qualifies a particular contract as a financial instrument. Contractual rights and contractual obligations encompass both those that are conditioned on the occurrence of a specified event and those that are not. All contractual rights (contractual obligations) that are financial instruments meet the definition of asset (liability) set forth in FASB Concepts Statement No. 6, Elements of Financial Statements, although some may not be recognized as assets (liabilities) in financial statements—that is, they may be off-balance-sheet—because they fail to meet some other criterion for recognition. For some financial instruments, the right is held by or the obligation is due from (or the obligation is owed to or by) a group of entities rather than a single entity. Inflows or other enhancements of assets of an entity or settlements of its liabilities (or a combination of both) from delivering or producing goods, rendering services, or other activities that constitute the entity's ongoing major or central operations.
 
-About
-Help
-Contact Us
-Copyright
-Terms and Conditions
-FASB.org
-Presentation
-235 Notes to Financial Statements
-Print
-keyboard_arrow_up
-Display
-keyboard_arrow_up
+## 50 Disclosure
+
+> **General Note:** The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+
+### General
+
+**235-10-50-1** Information about the accounting policies adopted by an entity is essential for financial statement users. When financial statements that are issued or are available to be issued (as discussed in Section 855-10-25) purport to present fairly financial position, cash flows, and results of operations in accordance with generally accepted accounting principles (GAAP), a description of all significant accounting policies of the entity shall be included as an integral part of the financial statements. In circumstances where it may be appropriate to issue one or more of the basic financial statements without the others, purporting to present fairly the information given in accordance with GAAP, statements so presented also shall include disclosure of the pertinent accounting policies.
+**235-10-50-2** The provisions of paragraph 235-10-50-1 are not intended to apply to unaudited financial statements issued as of a date between annual reporting dates (for example, each quarter) if the reporting entity has not changed its accounting policies since the end of its preceding fiscal year.
+1. A selection from existing acceptable alternatives
+2. Principles and methods peculiar to the industry in which the entity operates, even if such principles and methods are predominantly followed in that industry
+3. Unusual or innovative applications of GAAP.
+
+1. Basis of consolidation
+2. Depreciation methods
+3. Amortization of intangibles
+4. Inventory pricing
+5. Recognition of revenue from contracts with customers
+6. Recognition of revenue from leasing operations.
+
+**235-10-50-5** Financial statement disclosure of accounting policies shall not duplicate details (for example, composition of inventories or of plant assets) presented elsewhere as part of the financial statements. In some cases, the disclosure of accounting policies shall refer to related details presented elsewhere as part of the financial statements; for example, changes in accounting policies during the period shall be described with cross-reference to the disclosure required by Topic 250.
+**235-10-50-6** This Subtopic recognizes the need for flexibility in matters of format (including the location) of disclosure of accounting policies provided that the entity identifies and describes its significant accounting policies as an integral part of its financial statements in accordance with the provisions of this Subtopic. Disclosure is preferred in a separate summary of significant accounting policies preceding the notes to financial statements (notes), or as the initial note, under the same or a similar title.
+
+## S00 Status
+
+> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+
+### General
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| 235-10-S99-1 through S99-4 | Amended | Accounting Standards Update No. 2019-07 | 07/26/2019 |
+| 235-10-S99-1 | Amended | Accounting Standards Update No. 2012-03 | 08/27/2012 |
+| 235-10-S99-1 | Amended | Accounting Standards Update No. 2010-21 | 08/02/2010 |
+| 235-10-S99-1 | Amended | Accounting Standards Update No. 2009-07 | 09/15/2009 |
+| 235-10-S99-5 | Amended | Accounting Standards Update No. 2012-03 | 08/27/2012 |
+
+**235-10-S00-1** The following table identifies the changes made to this Subtopic. **** **** **** ****
+
+## S50 Disclosure
+
+> **General Note:** The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+
+### General
+
+**235-10-S50-1** See paragraph 235-10-S99-1, Regulation S-X Rule 4-08, for requirements on disclosures to be included in the notes to financial statements.
+**235-10-S50-2** See paragraph 235-10-S99-5, SAB Topic 1.D.1, for SEC Staff views on disclosures to be provided by foreign private issuers.
+**235-10-S50-3** See paragraph 235-10-S99-2, Regulation S-X Rule 12-01, for the references to the required supplemental schedules to be considered.
+**235-10-S50-4** See paragraph 235-10-S99-3, Regulation S-X Rule 12-04, for the disclosure requirements pertaining to condensed financial information of the registrant in situations where such disclosures are required.
+**235-10-S50-5** See paragraph 235-10-S99-4, Regulation S-X Rule 12-09, for the requirements for the schedule of valuation and qualifying accounts.
+
+## S99 SEC Materials
+
+> **General Note:** As more fully described in *About the Codification*, the Codification includes selected SEC and SEC Staff content for reference by public companies. The Codification does not replace or affect how the SEC or SEC Staff issues or updates SEC content. SEC Staff content does not constitute Commission-approved rules or interpretations of the SEC.
+
+### General
+
+##### · > Regulation S-X
+
+**235-10-S99-1** · · > Regulation S-X Rule 4-08, General Notes to Financial StatementsThe following is the text of Regulation S-X Rule 4-08, General Notes to Financial Statements (17 CFR 210.4-08).If applicable to the person for which the financial statements are filed, the following shall be set forth on the face of the appropriate statement or in appropriately captioned notes. The information shall be provided for each statement required to be filed, except that the information required by paragraphs (b), (c), (d), (e) and (f) of this section shall be provided as of the most recent audited balance sheet being filed and for paragraph (j) of this section as specified therein. When specific statements are presented separately, the pertinent notes shall accompany such statements unless cross-referencing is appropriate. (a) [Reserved](b) Assets subject to lien. Assets mortgaged, pledged, or otherwise subject to lien, and the approximate amounts thereof, shall be designated and the obligations collateralized briefly identified. (c) Defaults. The facts and amounts concerning any default in principal, interest, sinking fund, or redemption provisions with respect to any issue of securities or credit agreements, or any breach of covenant of a related indenture or agreement, which default or breach existed at the date of the most recent balance sheet being filed and which has not been subsequently cured, shall be stated in the notes to the financial statements. If a default or breach exists but acceleration of the obligation has been waived for a stated period of time beyond the date of the most recent balance sheet being filed, state the amount of the obligation and the period of the waiver. (d) Preferred shares. Aggregate preferences on involuntary liquidation, if other than par or stated value, shall be shown parenthetically in the equity section of the balance sheet. (e) Restrictions which limit the payment of dividends by the registrant. (1) Describe the most significant restrictions on the payment of dividends by the registrant, indicating their sources, their pertinent provisions, and the amount of retained earnings or net income restricted or free of restrictions. (2) Disclose the amount of consolidated retained earnings which represents undistributed earnings of 50 percent or less owned persons accounted for by the equity method. (3) The disclosures in paragraphs (e)(3)(i) and (ii) of this section shall be provided when material. (i) Describe the nature of any restrictions on the ability of consolidated subsidiaries and unconsolidated subsidiaries to transfer funds to the registrant in the form of cash dividends, loans or advances (i. e., borrowing arrangements, regulatory restraints, foreign government, etc.) (ii) Disclose separately the amounts of such restricted net assets for unconsolidated subsidiaries and consolidated subsidiaries as of the end of the most recently completed fiscal year. (f) Significant changes in bonds, mortgages and similar debt. Any significant changes in the authorized amounts of bonds, mortgages and similar debt since the date of the latest balance sheet being filed for a particular person or group shall be stated. (g) Summarized financial information of subsidiaries not consolidated and 50 percent or less owned persons. (1) The summarized information as to assets, liabilities and results of operations as detailed in § 210.1-02(bb) shall be presented in notes to the financial statements on an individual or group basis for: (i) Subsidiaries not consolidated; or (ii) For 50 percent or less owned persons accounted for by the equity method by the registrant or by a subsidiary of the registrant, if the criteria in § 210.1-02(w) for a significant subsidiary are met: (A) Individually by any subsidiary not consolidated or any 50% or less owned person; or (B) On an aggregated basis by any combination of such subsidiaries and persons. (2) Summarized financial information shall be presented insofar as is practicable as of the same dates and for the same periods as the audited consolidated financial statements provided and shall include the disclosures prescribed by § 210.1-02(bb). Summarized information of subsidiaries not consolidated shall not be combined for disclosure purposes with the summarized information of 50 percent or less owned persons. (h) Income tax expense. (1) Disclosure shall be made in the statement of comprehensive income or a note thereto, of the components of income (loss) before income tax expense (benefit) as either domestic or foreign.NOTE 1 to Paragraph (h)(1): Amounts applicable to United States Federal income taxes, to foreign income taxes and the other income taxes shall be stated separately for each major component. Amounts applicable to foreign income (loss) and amounts applicable to foreign or other income taxes which are less than five percent of the total of income before taxes or the component of tax expense, respectively, need not be separately disclosed. For purposes of this rule, foreign income (loss) is defined as income (loss) generated from a registrant's foreign operations, i. e., operations that are *located outside* of the registrant's home country. (2) In the reconciliation between the amount of reported total income tax expense (benefit) and the amount computed by multiplying the income (loss) before tax by the applicable statutory Federal income tax rate if no individual reconciling item amounts to more than five percent of the amount computed by multiplying the income before tax by the applicable statutory Federal income tax rate, and the total difference to be reconciled is less than five percent of such computed amount, no reconciliation need be provided unless it would be significant in appraising the trend of earnings. Reconciling items that are individually less than five percent of the computed amount may be aggregated in the reconciliation. Where the reporting person is a foreign entity, the income tax rate in that person's country of domicile should normally be used in making the above computation, but different rates should not be used for subsidiaries or other segments of a reporting entity. When the rate used by a reporting person is other than the United States Federal corporate income tax rate, the rate used and the basis for using such rate shall be disclosed. (4) Price at which warrant or right is exercisable. (i)-(j) [Reserved](k) Related party transactions that affect the financial statements. (1) Amounts of related party transactions should be stated on the face of the balance sheet, statement of comprehensive income, or statement of cash flows. (2) In cases where separate financial statements are presented for the registrant, certain investees, or subsidiaries, any intercompany profits or losses resulting from transactions with related parties and the effects thereof shall be disclosed. (l) [Reserved](m) Repurchase and reverse repurchase agreements. (1) Repurchase agreements (assets sold under agreements to repurchase). (i) If, as of the most recent balance sheet date, the carrying amount (or market value, if higher than the carrying amount or if there is no carrying amount) of the securities or other assets sold under agreements to repurchase (repurchase agreements) exceeds 10% of total assets, disclose separately in the balance sheet the aggregate amount of liabilities incurred pursuant to repurchase agreements including accrued interest payable thereon. (ii)(A) If, as of the most recent balance sheet date, the carrying amount (or market value, if higher than the carrying amount) of securities or other assets sold under repurchase agreements, other than securities or assets specified in paragraph (m)(1)(ii)(B) of this section, exceeds 10% of total assets, disclose in an appropriately captioned footnote containing a tabular presentation, segregated as to type of such securities or assets sold under agreements to repurchase (e. g., U.S. Treasury obligations, U.S. Government agency obligations and loans), the following information as of the balance sheet date for each such agreement or group of agreements (other than agreements involving securities or assets specified in paragraph (m)(1)(ii)(B) of this section) maturing (1) overnight; (2) term up to 30 days; (3) term of 30 to 90 days; (4) term over 90 days and (5) demand: (i) The carrying amount and market value of the assets sold under agreement to repurchase, including accrued interest plus any cash or other assets on deposit under the repurchase agreements; and (ii) The repurchase liability associated with such transaction or group of transactions and the interest rate(s) thereon. (B) For purposes of paragraph (m)(1)(ii)(A) of this section only, do not include securities or other assets for which unrealized changes in market value are reported in current income or which have been obtained under reverse repurchase agreements. (iii) If, as of the most recent balance sheet date, the amount at risk under repurchase agreements with any individual counterparty or group of related counterparties exceeds 10% of stockholders' equity (or in the case of investment companies, net asset value), disclose the name of each such counterparty or group of related counterparties, the amount at risk with each, and the weighted average maturity of the repurchase agreements with each. The amount at risk under repurchase agreements is defined as the excess of carrying amount (or market value, if higher than the carrying amount or if there is no carrying amount) of the securities or other assets sold under agreement to repurchase, including accrued interest plus any cash or other assets on deposit to secure the repurchase obligation, over the amount of the repurchase liability (adjusted for accrued interest). (Cash deposits in connection with repurchase agreements shall not be reported as unrestricted cash pursuant to rule 5-02.1.) (2) Reverse repurchase agreements (assets purchased under agreements to resell). (i) If, as of the most recent balance sheet date, the aggregate carrying amount of "reverse repurchase agreements" (securities or other assets purchased under agreements to resell) exceeds 10% of total assets: (A) Disclose separately such amount in the balance sheet; and (B) Disclose in an appropriately captioned footnote: (1) The registrant's policy with regard to taking possession of securities or other assets purchased under agreements to resell; and (2) Whether or not there are any provisions to ensure that the market value of the underlying assets remains sufficient to protect the registrant in the event of default by the counterparty and if so, the nature of those provisions. (ii) If, as of the most recent balance sheet date, the amount at risk under reverse repurchase agreements with any individual counterparty or group of related counterparties exceeds 10% of stockholders' equity (or in the case of investment companies, net asset value), disclose the name of each such counterparty or group of related counterparties, the amount at risk with each, and the weighted average maturity of the reverse repurchase agreements with each. The amount at risk under reverse repurchase agreements is defined as the excess of the carrying amount of the reverse repurchase agreements over the market value of assets delivered pursuant to the agreements by the counterparty to the registrant (or to a third party agent that has affirmatively agreed to act on behalf of the registrant) and not returned to the counterparty, except in exchange for their approximate market value in a separate transaction. (n) Accounting policies for certain derivative instruments. Disclosures regarding accounting policies shall include to the extent material where in the statement of cash flows derivative financial instruments, and their related gains and losses, as defined by U.S. generally accepted accounting principles are reported. [45 FR 63669, Sept. 25, 1980, as amended at 46 FR 56179, Nov. 16, 1981; 50 FR 25215, June 18, 1985; 50 FR 49532, Dec. 3, 1985; 51 FR 3770, Jan. 30, 1986; 57 FR 45293, Oct. 1, 1992; 59 FR 65636, Dec. 20, 1994; 62 FR 6063, Feb. 10, 1997; 74 FR 18615, Apr. 23, 2009; 76 FR 50119, Aug. 12, 2011; 83 FR 50200, Oct. 4, 2018]
+**235-10-S99-2** · · > Regulation S-X Rule 12-01, Application of §§210.12-01 to 210.12-29The following is the text of Regulation S-X Rule 12-01, Application of §§210.12-01 to 210.12-29 (17 CFR 210.12-01).These sections prescribe the form and content of the schedules required by §§ 210.5-04, 210.6-10, 210.6A-05, and 210.7-05. [59 FR 65637, Dec. 20, 1994]
+**235-10-S99-3** · · > Regulation S-X Rule 12-04, Condensed Financial Information of RegistrantThe following is the text of Regulation S-X Rule 12-04, Condensed Financial Information of Registrant (17 CFR 210.12-04).(a) Provide condensed financial information as to financial position, cash flows and results of operations of the registrant as of the same dates and for the same periods for which audited consolidated financial statements are required. The financial information required need not be presented in greater detail than is required for condensed statements by § 210.10-01(a)(2), (3) and (4). Detailed footnote disclosure which would normally be included with complete financial statements may be omitted with the exception of disclosures regarding material contingencies, long-term obligations and guarantees. Descriptions of significant provisions of the registrant's long-term obligations, mandatory dividend or redemption requirements of redeemable stocks, and guarantees of the registrant shall be provided along with a five-year schedule of maturities of debt. If the material contingencies, long-term obligations, redeemable stock requirements and guarantees of the registrant have been separately disclosed in the consolidated statements, they need not be repeated in this schedule. (b) Disclose separately the amounts of cash dividends paid to the registrant for each of the last three fiscal years by consolidated subsidiaries, unconsolidated subsidiaries and 50 percent or less owned persons accounted for by the equity method, respectively. [46 FR 56180, Nov. 16, 1981, as amended at 57 FR 45293, Oct. 1, 1992]
+**235-10-S99-4** · · > Regulation S-X Rule 12-09, Valuation and Qualifying AccountsThe following is the text of Regulation S-X Rule 12-09, Valuation and Qualifying Accounts (17 CFR 210.12-09).[37 FR 14602, July 21, 1972. Redesignated and amended at 45 FR 63679, Sept. 25, 1980]
+
+##### · > Staff Accounting Bulletins
+
+**235-10-S99-5** · · > SAB Topic 1.D.1, Disclosures Required of Companies Complying with Item 17 of Form 20-FThe following is the text of SAB Topic 1.D.1, Disclosures Required of Companies Complying with Item 17 of Form 20-F.Facts: A foreign private issuer may use Form 20-F as a registration statement under section 12 or as an annual report under section 13(a) or 15(d) of the Exchange Act. The registrant must furnish the financial statements specified in Item 17 of that form (Effective for fiscal years ending on or after December 15, 2011, compliance with Item 18 rather than Item 17 will be required for all issuer financial statements in all Securities Act registration statements, Exchange Act registration statements on Form 20-F, and annual reports on Form 20-F. See SEC Release No. 33-8959). However, in certain circumstances, Form F-3 requires that the annual report include financial statements complying with Item 18 of the form. Also, financial statements complying with Item 18 are required for registration of securities under the Securities Act in most circumstances. Item 17 permits the registrant to use its financial statements that are prepared on a comprehensive basis other than U.S. GAAP, but requires quantification of the material differences in the principles, practices and methods of accounting for any basis other than International Financial Reporting Standards (IFRS) as issued by the International Accounting Standards Board (IASB). An issuer complying with Item 18, other than those using IFRS as issued by the IASB, must satisfy the requirements of Item 17 and also must provide all other information required by U.S. GAAP and Regulation S-X. Question: Assuming that the registrant's financial statements include a discussion of material variances from U.S. GAAP along with quantitative reconciliations of net income and material balance sheet items, does Item 17 of Form 20-F require other disclosures in addition to those prescribed by the standards and practices which comprise the comprehensive basis on which the registrant's primary financial statements are prepared? Interpretive Response: No. The distinction between Items 17 and 18 is premised on a classification of the requirements of U.S. GAAP and Regulation S-X into those that specify the methods of measuring the amounts shown on the face of the financial statements and those prescribing disclosures that explain, modify or supplement the accounting measurements. Disclosures required by U.S. GAAP but not required under the foreign GAAP on which the financial statements are prepared need not be furnished pursuant to Item 17. Notwithstanding the absence of a requirement for certain disclosures within the body of the financial statements, some matters routinely disclosed pursuant to U.S. GAAP may rise to a level of materiality such that their disclosure is required by Item 5 (Management's Discussion and Analysis) of Form 20-F. Among other things, this item calls for a discussion of any known trends, demands, commitments, events or uncertainties that are reasonably likely to affect liquidity, capital resources or the results of operations in a material way. Also, instruction 2 of this item requires "a discussion of any aspects of the differences between foreign and U.S. GAAP, not discussed in the reconciliation, that the registrant believes is necessary for an understanding of the financial statements as a whole." Matters that may warrant discussion in response to Item 5 include the following: material undisclosed uncertainties (such as reasonably possible loss contingencies), commitments (such as those arising from leases), and credit risk exposures and concentrations; material unrecognized obligations (such as pension obligations); material changes in estimates and accounting methods, and other factors or events affecting comparability; defaults on debt and material restrictions on dividends or other legal constraints on the registrant's use of its assets; material changes in the relative amounts of constituent elements comprising line items presented on the face of the financial statements; significant terms of financings which would reveal material cash requirements or constraints; material subsequent events, such as events that affect the recoverability of recorded assets; material related party transactions (as addressed by FASB ASC Topic 850, Related Party Disclosures) that may affect the terms under which material revenues or expenses are recorded; and significant accounting policies and measurement assumptions not disclosed in the financial statements, including methods of costing inventory, recognizing revenues, and recording and amortizing assets, which may bear upon an understanding of operating trends or financial condition.
