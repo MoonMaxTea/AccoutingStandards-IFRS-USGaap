@@ -17,13 +17,23 @@ subtopics: ["325-10"]
 
 ### General
 
+**325-10-00-1** The following table identifies the changes made to this Subtopic.
+
 | Paragraph | Action | Accounting Standards Update | Date |
 | --- | --- | --- | --- |
 | 325-10-05-1 | Amended | Accounting Standards Update No. 2016-01 | 01/05/2016 |
 | 325-10-05-2 | Amended | Accounting Standards Update No. 2016-01 | 01/05/2016 |
 | 325-10-60-1 | Superseded | Accounting Standards Update No. 2016-01 | 01/05/2016 |
 
+
 **325-10-00-1** The following table identifies the changes made to this Subtopic.
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| 325-10-05-1 | Amended | Accounting Standards Update No. 2016-01 | 01/05/2016 |
+| 325-10-05-2 | Amended | Accounting Standards Update No. 2016-01 | 01/05/2016 |
+| 325-10-60-1 | Superseded | Accounting Standards Update No. 2016-01 | 01/05/2016 |
+
 
 ## 05 Overview and Background
 
@@ -31,12 +41,22 @@ subtopics: ["325-10"]
 
 ### General
 
-1. Topic 320, Investments—Debt Securities
+**325-10-05-1** Topic 320, Investments—Debt Securities
 2. Topic 321, Investments—Equity Securities
 3. Topic 323, Investments—Equity Method and Joint Ventures
 4. Topic 325, Investments—Other.
 
-1. Overall
+**325-10-05-1** Topic 320, Investments—Debt Securities
+2. Topic 321, Investments—Equity Securities
+3. Topic 323, Investments—Equity Method and Joint Ventures
+4. Topic 325, Investments—Other.
+
+**325-10-05-2** Overall
+2. Subparagraph superseded by Accounting Standards Update No. 2016-01.
+3. Investments in Insurance Contracts
+4. Beneficial Interests in Securitized Financial Assets.
+
+**325-10-05-2** Overall
 2. Subparagraph superseded by Accounting Standards Update No. 2016-01.
 3. Investments in Insurance Contracts
 4. Beneficial Interests in Securitized Financial Assets.
@@ -47,4 +67,5 @@ subtopics: ["325-10"]
 
 ### General
 
+**325-10-60-1** Paragraph superseded by Accounting Standards Update No. 2016-01.
 **325-10-60-1** Paragraph superseded by Accounting Standards Update No. 2016-01.

@@ -17,7 +17,7 @@ subtopics: ["720-10"]
 
 ### General
 
-1. Overall
+**720-10-05-1** Overall
 2. Start-Up Costs
 3. Insurance Costs
 4. Contributions Made
@@ -26,4 +26,14 @@ subtopics: ["720-10"]
 7. Electronic Equipment Waste Obligations
 8. Business and Technology Reengineering.
 
+**720-10-05-1** Overall
+2. Start-Up Costs
+3. Insurance Costs
+4. Contributions Made
+5. Real and Personal Property Taxes
+6. Advertising Costs
+7. Electronic Equipment Waste Obligations
+8. Business and Technology Reengineering.
+
+**720-10-05-2** Each Subtopic in the Other Expenses Topic contains standalone guidance; there is no relationship between the individual Subtopics within this Topic. Each Subtopic provides accounting and reporting guidance for the specific type of costs and expenses as indicated by the Subtopic title.
 **720-10-05-2** Each Subtopic in the Other Expenses Topic contains standalone guidance; there is no relationship between the individual Subtopics within this Topic. Each Subtopic provides accounting and reporting guidance for the specific type of costs and expenses as indicated by the Subtopic title.

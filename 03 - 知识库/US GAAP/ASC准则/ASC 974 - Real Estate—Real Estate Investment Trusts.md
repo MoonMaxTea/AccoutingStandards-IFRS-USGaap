@@ -17,6 +17,8 @@ subtopics: ["974-10"]
 
 ### General
 
+The following table identifies the changes made to this Subtopic.
+
 | Paragraph | Action | Accounting Standards Update | Date |
 | --- | --- | --- | --- |
 | 974-10-05-1 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
@@ -24,7 +26,17 @@ subtopics: ["974-10"]
 | 974-10-05-2 | Amended | Accounting Standards Update No. 2014-09 | 05/28/2014 |
 | 974-10-50-1 | Added | Accounting Standards Update No. 2023-06 | 10/09/2023 |
 
-**974-10-00-1** The following table identifies the changes made to this Subtopic. **** **** **** ****
+**** **** **** ****
+The following table identifies the changes made to this Subtopic.
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| 974-10-05-1 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 974-10-05-1 | Amended | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 974-10-05-2 | Amended | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 974-10-50-1 | Added | Accounting Standards Update No. 2023-06 | 10/09/2023 |
+
+**** **** **** ****
 
 ## 05 Overview and Background
 
@@ -32,14 +44,21 @@ subtopics: ["974-10"]
 
 ### General
 
-1. Real Estate—General
+Real Estate—General
 2. Real Estate—Common Interest Realty Associations
 3. Real Estate—Real Estate Investment Trusts
 4. Real Estate—Time-Sharing Activities
 5. Real Estate—Retail Land.
 
-**974-10-05-1** See also Subtopic 842-40 for accounting guidance for the sale of real estate that is part of a sale-leaseback transaction.
-1. Overall
+See also Subtopic 842-40 for accounting guidance for the sale of real estate that is part of a sale-leaseback transaction.
+Real Estate—General
+2. Real Estate—Common Interest Realty Associations
+3. Real Estate—Real Estate Investment Trusts
+4. Real Estate—Time-Sharing Activities
+5. Real Estate—Retail Land.
+
+See also Subtopic 842-40 for accounting guidance for the sale of real estate that is part of a sale-leaseback transaction.
+Overall
 2. Investments—Equity Method and Joint Ventures
 3. Subparagraph superseded by Accounting Standards Update No. 2014-09.
 4. Other Expenses
@@ -47,8 +66,20 @@ subtopics: ["974-10"]
 6. Interest
 7. Leases.
 
-**974-10-05-3** The tax considerations included here represent an understanding of the Internal Revenue Code requirements and practices at the time that the accounting and reporting standards were initially issued. The Financial Accounting Standards Board (FASB) assumes no responsibility for the accuracy of the tax guidance included here.
-**974-10-05-4** A real estate investment trust, if it so elects, will not be required to pay federal corporate income taxes (other than that on tax preference items) if, among other things, at least 90 percent of its taxable income, as defined, is distributed to its shareholders. This Subtopic, however, is not restricted to those real estate investment trusts that have elected such tax treatment.
+Overall
+2. Investments—Equity Method and Joint Ventures
+3. Subparagraph superseded by Accounting Standards Update No. 2014-09.
+4. Other Expenses
+5. Consolidation
+6. Interest
+7. Leases.
+
+**974-10-05-3** > Tax Considerations
+The tax considerations included here represent an understanding of the Internal Revenue Code requirements and practices at the time that the accounting and reporting standards were initially issued. The Financial Accounting Standards Board (FASB) assumes no responsibility for the accuracy of the tax guidance included here.
+The tax considerations included here represent an understanding of the Internal Revenue Code requirements and practices at the time that the accounting and reporting standards were initially issued. The Financial Accounting Standards Board (FASB) assumes no responsibility for the accuracy of the tax guidance included here.
+A real estate investment trust
+, if it so elects, will not be required to pay federal corporate income taxes (other than that on tax preference items) if, among other things, at least 90 percent of its taxable income, as defined, is distributed to its shareholders. This Subtopic, however, is not restricted to those real estate investment trusts that have elected such tax treatment.
+A real estate investment trust
 
 ## 15 Scope and Scope Exceptions
 
@@ -58,8 +89,13 @@ subtopics: ["974-10"]
 
 ### General
 
-**974-10-15-1** . For guidance on matters related broadly to all financial instruments, (including the fair value option, accounting for registration payment arrangements, and broad financial instrument disclosure requirements), see Topic 825. See Section 825-10-15 for guidance on the scope of the Financial Instruments Topic.The Subtopics within the Real Estate—Real Estate Investment Trusts Topic only provide incremental industry-specific guidance for the entities defined in this Scope Section, or as further defined in the Scope Sections of the individual Subtopics. Entities within the scope of this Topic shall also comply with the applicable guidance not included in this Topic.
-**974-10-15-2** The guidance in this Topic applies to all real estate investment trusts. The accounting issues discussed in this Topic may also be encountered by other entities which are not real estate investment trusts but which are engaged in the business of making loans on or investing in real estate. The conclusions in this Topic may, therefore, also be appropriate for those entities. However, the accounting practices of entities that are not real estate investment trusts are beyond the scope of this Topic.
+**974-10-15-1** . For guidance on matters related broadly to all financial instruments, (including the fair value option, accounting for registration payment arrangements, and broad financial instrument disclosure requirements), see Topic 825. See Section 825-10-15 for guidance on the scope of the Financial Instruments Topic.> Overall Guidance
+The Subtopics within the Real Estate—Real Estate Investment Trusts Topic only provide incremental industry-specific guidance for the entities defined in this Scope Section, or as further defined in the Scope Sections of the individual Subtopics. Entities within the scope of this Topic shall also comply with the applicable guidance not included in this Topic.
+**974-10-15-1** The Subtopics within the Real Estate—Real Estate Investment Trusts Topic only provide incremental industry-specific guidance for the entities defined in this Scope Section, or as further defined in the Scope Sections of the individual Subtopics. Entities within the scope of this Topic shall also comply with the applicable guidance not included in this Topic.
+**974-10-15-2** > Entities
+The guidance in this Topic applies to all real estate investment trusts
+. The accounting issues discussed in this Topic may also be encountered by other entities which are not real estate investment trusts but which are engaged in the business of making loans on or investing in real estate. The conclusions in this Topic may, therefore, also be appropriate for those entities. However, the accounting practices of entities that are not real estate investment trusts are beyond the scope of this Topic.
+**974-10-15-2** The guidance in this Topic applies to all real estate investment trusts
 
 ## 20 Glossary
 
@@ -67,6 +103,7 @@ subtopics: ["974-10"]
 
 ##### Real Estate Investment Trust
 
+Real estate investment trusts generally are formed as trusts, associations, or corporations. They employ equity capital, coupled with substantial amounts of debt financing, in making real estate loans and investments. Real estate investment trusts must distribute substantially all of their taxable income to their shareholders annually in order to retain their favorable tax status (that is, dividends paid are treated as deductions in arriving at taxable income).
 Real estate investment trusts generally are formed as trusts, associations, or corporations. They employ equity capital, coupled with substantial amounts of debt financing, in making real estate loans and investments. Real estate investment trusts must distribute substantially all of their taxable income to their shareholders annually in order to retain their favorable tax status (that is, dividends paid are treated as deductions in arriving at taxable income).
 
 ## 50 Disclosure
@@ -81,11 +118,19 @@ Real estate investment trusts generally are formed as trusts, associations, or c
 
 ### General
 
+**974-10-S00-1** The following table identifies the changes made to this Subtopic.
+
 | Paragraph | Action | Accounting Standards Update | Date |
 | --- | --- | --- | --- |
 | 974-10-S99-1 | Amended | Accounting Standards Update No. 2019-07 | 07/26/2019 |
 
+
 **974-10-S00-1** The following table identifies the changes made to this Subtopic.
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| 974-10-S99-1 | Amended | Accounting Standards Update No. 2019-07 | 07/26/2019 |
+
 
 ## S45 Other Presentation Matters
 
@@ -93,7 +138,11 @@ Real estate investment trusts generally are formed as trusts, associations, or c
 
 ### General
 
+**974-10-S45-1** > Income Statement Presentation
+See paragraph 974-10-S99-1, Regulation S-X Rule 3-15(a)(1), for income statement presentation requirements for real estate investment trusts.
 **974-10-S45-1** See paragraph 974-10-S99-1, Regulation S-X Rule 3-15(a)(1), for income statement presentation requirements for real estate investment trusts.
+**974-10-S45-2** > Balance Sheet Presentation
+See paragraph 974-10-S99-1, Regulation S-X Rule 3-15(a)(2), for balance sheet requirements for real estate investment trusts.
 **974-10-S45-2** See paragraph 974-10-S99-1, Regulation S-X Rule 3-15(a)(2), for balance sheet requirements for real estate investment trusts.
 
 ## S50 Disclosure
@@ -102,6 +151,8 @@ Real estate investment trusts generally are formed as trusts, associations, or c
 
 ### General
 
+**974-10-S50-1** > Disclosures
+See paragraph 974-10-S99-1, Regulation S-X Rule 3-15, for disclosure requirements for real estate investment trusts.
 **974-10-S50-1** See paragraph 974-10-S99-1, Regulation S-X Rule 3-15, for disclosure requirements for real estate investment trusts.
 
 ## S99 SEC Materials
@@ -112,4 +163,8 @@ Real estate investment trusts generally are formed as trusts, associations, or c
 
 ##### · > Regulation S-X
 
-**974-10-S99-1** · · > Regulation S-X Rule 3-15, Special Provisions as to Real Estate Investment TrustsThe following is the text of Regulation S-X Rule 3-15, Special Provisions as to Real Estate Investment Trusts (17 CFR 210.3-15).(a)-(b) [Reserved](c) The tax status of distributions per unit shall be stated (e. g., ordinary income, capital gain, return of capital). [45 FR 63687, Sept. 25, 1980, as amended at 50 FR 49532, Dec. 3, 1985, 83 FR 50199, Oct. 4, 2018]
+**974-10-S99-1** > SEC Rules, Regulations, and Interpretations· · > Regulation S-X Rule 3-15, Special Provisions as to Real Estate Investment Trusts
+The following is the text of Regulation S-X Rule 3-15, Special Provisions as to Real Estate Investment Trusts (17 CFR 210.3-15).(a)-(b) [Reserved]
+(c) The tax status of distributions per unit shall be stated (e. g., ordinary income, capital gain, return of capital). [45 FR 63687, Sept. 25, 1980, as amended at 50 FR 49532, Dec. 3, 1985, 83 FR 50199, Oct. 4, 2018]
+**974-10-S99-1** The following is the text of Regulation S-X Rule 3-15, Special Provisions as to Real Estate Investment Trusts (17 CFR 210.3-15).(a)-(b) [Reserved]
+(c) The tax status of distributions per unit shall be stated (e. g., ordinary income, capital gain, return of capital). [45 FR 63687, Sept. 25, 1980, as amended at 50 FR 49532, Dec. 3, 1985, 83 FR 50199, Oct. 4, 2018]

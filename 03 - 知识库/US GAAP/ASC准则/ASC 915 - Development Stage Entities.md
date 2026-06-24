@@ -17,6 +17,8 @@ subtopics: ["915-10"]
 
 ### General
 
+The following table identifies the changes made to this Subtopic.
+
 | Paragraph | Action | Accounting Standards Update | Date |
 | --- | --- | --- | --- |
 | Development Stage Entity | Superseded | Accounting Standards Update No. 2014-10 | 06/10/2014 |
@@ -30,7 +32,23 @@ subtopics: ["915-10"]
 | 915-10-15-1 through 15-5 | Superseded | Accounting Standards Update No. 2014-10 | 06/10/2014 |
 | 915-10-65-1 | Added | Accounting Standards Update No. 2014-10 | 06/10/2014 |
 
-**915-10-00-1** The following table identifies the changes made to this Subtopic. **** **** **** **** **** **** **** **** **** ****
+**** **** **** **** **** **** **** **** **** ****
+The following table identifies the changes made to this Subtopic.
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Development Stage Entity | Superseded | Accounting Standards Update No. 2014-10 | 06/10/2014 |
+| Investee | Superseded | Accounting Standards Update No. 2014-10 | 06/10/2014 |
+| Public Business Entity | Amended | Maintenance Update 2016-11 | 06/27/2016 |
+| Public Business Entity | Added | Accounting Standards Update No. 2014-10 | 06/10/2014 |
+| Research and Development | Superseded | Accounting Standards Update No. 2014-10 | 06/10/2014 |
+| Subsidiary | Superseded | Accounting Standards Update No. 2014-10 | 06/10/2014 |
+| 915-10-05-1 | Superseded | Accounting Standards Update No. 2014-10 | 06/10/2014 |
+| 915-10-05-2 | Superseded | Accounting Standards Update No. 2014-10 | 06/10/2014 |
+| 915-10-15-1 through 15-5 | Superseded | Accounting Standards Update No. 2014-10 | 06/10/2014 |
+| 915-10-65-1 | Added | Accounting Standards Update No. 2014-10 | 06/10/2014 |
+
+**** **** **** **** **** **** **** **** **** ****
 
 ## 05 Overview and Background
 
@@ -39,6 +57,8 @@ subtopics: ["915-10"]
 ### General
 
 **915-10-05-1** Paragraph superseded by Accounting Standards Update No. 2014-10.
+**915-10-05-1** Paragraph superseded by Accounting Standards Update No. 2014-10.
+**915-10-05-2** Paragraph superseded by Accounting Standards Update No. 2014-10.
 **915-10-05-2** Paragraph superseded by Accounting Standards Update No. 2014-10.
 
 ## 15 Scope and Scope Exceptions
@@ -49,7 +69,9 @@ subtopics: ["915-10"]
 
 ### General
 
-**915-10-15-1** . For guidance on matters related broadly to all financial instruments, (including the fair value option, accounting for registration payment arrangements, and broad financial instrument disclosure requirements), see Topic 825. See Section 825-10-15 for guidance on the scope of the Financial Instruments Topic.Paragraphs 915-10-15-1 through 15-5 superseded by Accounting Standards Update No. 2014-10.
+**915-10-15-1** . For guidance on matters related broadly to all financial instruments, (including the fair value option, accounting for registration payment arrangements, and broad financial instrument disclosure requirements), see Topic 825. See Section 825-10-15 for guidance on the scope of the Financial Instruments Topic.
+Paragraphs 915-10-15-1 through 15-5 superseded by Accounting Standards Update No. 2014-10.
+**915-10-15-1** Paragraphs 915-10-15-1 through 15-5 superseded by Accounting Standards Update No. 2014-10.
 
 ## 20 Glossary
 
@@ -61,4 +83,5 @@ subtopics: ["915-10"]
 
 ### General
 
+**915-10-65-1** Paragraph superseded on 06/23/2016 after the end of the transition period stated in Accounting Standards Update No. 2014-10, *Development Stage Entities (Topic 915): Elimination of Certain Financial Reporting Requirements, Including an Amendment to Variable Interest Entities Guidance in Topic 810, Consolidation*.
 **915-10-65-1** Paragraph superseded on 06/23/2016 after the end of the transition period stated in Accounting Standards Update No. 2014-10, *Development Stage Entities (Topic 915): Elimination of Certain Financial Reporting Requirements, Including an Amendment to Variable Interest Entities Guidance in Topic 810, Consolidation*.

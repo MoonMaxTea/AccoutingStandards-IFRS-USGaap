@@ -17,11 +17,19 @@ subtopics: ["712-10"]
 
 ### General
 
+**712-10-00-1** The following table identifies the changes made to this Subtopic.
+
 | Paragraph | Action | Accounting Standards Update | Date |
 | --- | --- | --- | --- |
 | 712-10-60-2 | Amended | Accounting Standards Update No. 2009-17 | 12/23/2009 |
 
+
 **712-10-00-1** The following table identifies the changes made to this Subtopic.
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| 712-10-60-2 | Amended | Accounting Standards Update No. 2009-17 | 12/23/2009 |
+
 
 ## 05 Overview and Background
 
@@ -29,19 +37,38 @@ subtopics: ["712-10"]
 
 ### General
 
-**712-10-05-1** The Compensation—Nonretirement Postemployment Benefits Topic provides guidance on nonretirement postemployment benefits, including termination benefits and other postemployment benefits provided to former and inactive employees. This Topic contains only the Overall Subtopic.
-**712-10-05-2** An employer may provide benefits to employees in connection with their termination of employment. They may be either special termination benefits offered only for a short period of time or contractual termination benefits required by the terms of a plan only if a specified event, such as a plant closing, causes employees' services to be terminated involuntarily. Termination benefits may take various forms including lump-sum payments, periodic future payments, or both. They may be paid directly from an employer's assets, an existing pension plan, a new employee benefit plan, or a combination of those means.
-1. One-time termination benefits resulting from an exit or restructuring activity
+**712-10-05-1** The Compensation—Nonretirement Postemployment Benefits Topic provides guidance on nonretirement postemployment benefits
+, including termination benefits and other postemployment benefits provided to former and inactive employees. This Topic contains only the Overall Subtopic.
+**712-10-05-1** The Compensation—Nonretirement Postemployment Benefits Topic provides guidance on nonretirement postemployment benefits
+**712-10-05-2** , including termination benefits and other postemployment benefits provided to former and inactive employees. This Topic contains only the Overall Subtopic.> Termination Benefits
+An employer may provide benefits to employees in connection with their termination of employment. They may be either special termination benefits
+offered only for a short period of time or contractual termination benefits required by the terms of a plan only if a specified event, such as a plant closing, causes employees' services to be terminated involuntarily. Termination benefits may take various forms including lump-sum payments, periodic future payments, or both. They may be paid directly from an employer's assets, an existing pension plan, a new employee benefit plan, or a combination of those means.
+**712-10-05-2** An employer may provide benefits to employees in connection with their termination of employment. They may be either special termination benefits
+**712-10-05-3** offered only for a short period of time or contractual termination benefits required by the terms of a plan only if a specified event, such as a plant closing, causes employees' services to be terminated involuntarily. Termination benefits may take various forms including lump-sum payments, periodic future payments, or both. They may be paid directly from an employer's assets, an existing pension plan, a new employee benefit plan, or a combination of those means.
+One-time termination benefits resulting from an exit or restructuring activity
 2. Termination benefits (for example, supplemental early retirement benefits, termination indemnities) paid through a pension or other postretirement plan.
 
+**712-10-05-3** One-time termination benefits resulting from an exit or restructuring activity
+2. Termination benefits (for example, supplemental early retirement benefits, termination indemnities) paid through a pension or other postretirement plan.
+
+**712-10-05-4** > Other Postemployment Benefits
+Other postemployment benefits include all benefits listed in the following paragraph. These include benefits that are paid before retirement and not payable from a pension or other postretirement plan.
 **712-10-05-4** Other postemployment benefits include all benefits listed in the following paragraph. These include benefits that are paid before retirement and not payable from a pension or other postretirement plan.
-1. Salary continuation
+**712-10-05-5** Salary continuation
 2. Supplemental unemployment benefits
 3. Severance benefits
 4. Disability-related benefits (including workers' compensation)
 5. Job training and counseling
 6. Continuation of benefits such as health care benefits and life insurance coverage.
 
+**712-10-05-5** Salary continuation
+2. Supplemental unemployment benefits
+3. Severance benefits
+4. Disability-related benefits (including workers' compensation)
+5. Job training and counseling
+6. Continuation of benefits such as health care benefits and life insurance coverage.
+
+**712-10-05-6** Generally, other postemployment benefits are part of the compensation provided to an employee in exchange for service.
 **712-10-05-6** Generally, other postemployment benefits are part of the compensation provided to an employee in exchange for service.
 
 ## 15 Scope and Scope Exceptions
@@ -52,18 +79,38 @@ subtopics: ["712-10"]
 
 ### General
 
-**712-10-15-1** . For guidance on matters related broadly to all financial instruments, (including the fair value option, accounting for registration payment arrangements, and broad financial instrument disclosure requirements), see Topic 825. See Section 825-10-15 for guidance on the scope of the Financial Instruments Topic.The Scope Section of the Overall Subtopic establishes the pervasive scope for the Compensation—Nonretirement Postemployment Benefits Topic.
-**712-10-15-2** The guidance in the Compensation—Nonretirement Postemployment Benefits Topic applies to all entities and all employers that offer or have offered termination or other postemployment benefits to employees and former employees in connection with their termination of employment or their transfer to inactive status. The benefits covered by this Topic are paid before retirement and are not paid from a pension or other postretirement plan.
+**712-10-15-1** . For guidance on matters related broadly to all financial instruments, (including the fair value option, accounting for registration payment arrangements, and broad financial instrument disclosure requirements), see Topic 825. See Section 825-10-15 for guidance on the scope of the Financial Instruments Topic.> Overall Guidance
+The Scope Section of the Overall Subtopic establishes the pervasive scope for the Compensation—Nonretirement Postemployment Benefits Topic.
+**712-10-15-1** The Scope Section of the Overall Subtopic establishes the pervasive scope for the Compensation—Nonretirement Postemployment Benefits Topic.
+**712-10-15-2** > Entities
+The guidance in the Compensation—Nonretirement Postemployment Benefits Topic applies to all entities and all employers that offer or have offered termination or other postemployment benefits
+to employees and former employees in connection with their termination of employment or their transfer to inactive status. The benefits covered by this Topic are paid before retirement and are not paid from a pension or other postretirement plan.
+**712-10-15-2** The guidance in the Compensation—Nonretirement Postemployment Benefits Topic applies to all entities and all employers that offer or have offered termination or other postemployment benefits
+**712-10-15-3** to employees and former employees in connection with their termination of employment or their transfer to inactive status. The benefits covered by this Topic are paid before retirement and are not paid from a pension or other postretirement plan. > Transactions
+The guidance in the Compensation—Nonretirement Postemployment Benefits Topic applies to the following nonretirement postemployment benefits
 1. Special or contractual termination benefits that are payable before retirement and are not payable from a pension or other postretirement plan.
 2. All types of other postemployment benefits provided to former or inactive employees, their beneficiaries, and covered dependents after employment but before retirement. Benefits may be provided in cash or in kind and may be paid as a result of a disability, layoff, death, or other event. Benefits may be paid immediately upon cessation of active employment or over a specified period of time. Employees' rights to benefits may accumulate or vest as they render service. See paragraph 710-10-25-1(b) for a description of the meaning of accumulate or vest.
 
-1. Benefits provided through a pension or postretirement benefit plan (See Subtopics 715-30 and 715-60, which specify the accounting for those costs.)
+**712-10-15-3** The guidance in the Compensation—Nonretirement Postemployment Benefits Topic applies to the following nonretirement postemployment benefits
+1. Special or contractual termination benefits that are payable before retirement and are not payable from a pension or other postretirement plan.
+2. All types of other postemployment benefits provided to former or inactive employees, their beneficiaries, and covered dependents after employment but before retirement. Benefits may be provided in cash or in kind and may be paid as a result of a disability, layoff, death, or other event. Benefits may be paid immediately upon cessation of active employment or over a specified period of time. Employees' rights to benefits may accumulate or vest as they render service. See paragraph 710-10-25-1(b) for a description of the meaning of accumulate or vest.
+
+**712-10-15-4** Benefits provided through a pension or postretirement benefit plan (See Subtopics 715-30 and 715-60, which specify the accounting for those costs.)
 2. Individual deferred compensation arrangements that are addressed by Subtopic 710-10
 3. Special or contractual termination benefits, payable upon termination, from a defined benefit pension plan, or payable upon retirement, covered by Subtopic 715-30.
 4. Special or contractual termination benefits other than pension (for example, welfare benefits), payable upon termination from a defined benefit other postretirement plan, or payable upon retirement, covered under Subtopic 715-60.
 5. One-time termination benefits covered in Subtopic 420-10 (see the following paragraph).
 6. Stock compensation plans that are addressed by Topic 718.
 
+**712-10-15-4** Benefits provided through a pension or postretirement benefit plan (See Subtopics 715-30 and 715-60, which specify the accounting for those costs.)
+2. Individual deferred compensation arrangements that are addressed by Subtopic 710-10
+3. Special or contractual termination benefits, payable upon termination, from a defined benefit pension plan, or payable upon retirement, covered by Subtopic 715-30.
+4. Special or contractual termination benefits other than pension (for example, welfare benefits), payable upon termination from a defined benefit other postretirement plan, or payable upon retirement, covered under Subtopic 715-60.
+5. One-time termination benefits covered in Subtopic 420-10 (see the following paragraph).
+6. Stock compensation plans that are addressed by Topic 718.
+
+**712-10-15-5** > Other Considerations
+As indicated in paragraph 420-10-05-4, accounting for termination benefits granted in connection with an exit or disposal activity will differ depending on whether the benefits payable are considered an enhancement to an ongoing benefit arrangement, (covered by this Subtopic or Subtopics referenced in the preceding paragraph) or provided under a one-time termination arrangement covered by Topic 420. For guidance on making this determination, see paragraph 420-10-55-1 and Example 5 (paragraph 420-10-55-16).
 **712-10-15-5** As indicated in paragraph 420-10-05-4, accounting for termination benefits granted in connection with an exit or disposal activity will differ depending on whether the benefits payable are considered an enhancement to an ongoing benefit arrangement, (covered by this Subtopic or Subtopics referenced in the preceding paragraph) or provided under a one-time termination arrangement covered by Topic 420. For guidance on making this determination, see paragraph 420-10-55-1 and Example 5 (paragraph 420-10-55-16).
 
 ## 20 Glossary
@@ -73,21 +120,26 @@ subtopics: ["712-10"]
 ##### Inactive Employees
 
 Employees who are not currently rendering service to the employer and who have not been terminated. They include those who have been laid off and those on disability leave, regardless of whether they are expected to return to active status.
+Employees who are not currently rendering service to the employer and who have not been terminated. They include those who have been laid off and those on disability leave, regardless of whether they are expected to return to active status.
 
 ##### Nonretirement Postemployment Benefits
 
+All types of benefits, other than those provided through a pension or other postretirement plan (see Subtopics 715-30 and 715-60), provided to former or inactive employees, their beneficiaries, and covered dependents.
 All types of benefits, other than those provided through a pension or other postretirement plan (see Subtopics 715-30 and 715-60), provided to former or inactive employees, their beneficiaries, and covered dependents.
 
 ##### Other Postemployment Benefits
 
 Benefits, other than special or contractual termination benefits, that are provided by an employer to former or inactive employees after employment but before retirement including benefits provided to beneficiaries and covered dependents.
+Benefits, other than special or contractual termination benefits, that are provided by an employer to former or inactive employees after employment but before retirement including benefits provided to beneficiaries and covered dependents.
 
 ##### Special Termination Benefits
 
 Benefits that are offered for a short period of time in exchange for employees' voluntary termination of service.
+Benefits that are offered for a short period of time in exchange for employees' voluntary termination of service.
 
 ##### Termination Benefits
 
+Benefits provided by an employer to employees in connection with their termination of employment. They may be either special termination benefits offered only for a short period of time or contractual benefits required by the terms of a plan only if a specified event, such as a plant closing, occurs.
 Benefits provided by an employer to employees in connection with their termination of employment. They may be either special termination benefits offered only for a short period of time or contractual benefits required by the terms of a plan only if a specified event, such as a plant closing, occurs.
 
 ## 25 Recognition
@@ -98,11 +150,25 @@ Benefits provided by an employer to employees in connection with their terminati
 
 ### General
 
-**712-10-25-1** Nonretirement postemployment benefits offered as special termination benefits to employees shall be recognized as a liability and a loss when the employees accept the offer and the amount can be reasonably estimated. An employer that offers, for a short period of time, special termination benefits to employees, shall not recognize a loss at the date the offer is made based on the estimated acceptance rate.
-**712-10-25-2** An employer that provides contractual termination benefits shall recognize a liability and a loss when it is probable that employees will be entitled to benefits and the amount can be reasonably estimated. The cost of termination benefits recognized as a liability and a loss shall include the amount of any lump-sum payments and the present value of any expected future payments.
-**712-10-25-3** A situation involving special or contractual termination benefits may also constitute a curtailment to be accounted for under paragraphs 715-30-35-92 through 35-96 and 715-60-35-161 through 35-171.
-**712-10-25-4** Other postemployment benefits that meet the conditions in paragraph 710-10-25-1 shall be accounted for in accordance with Subtopic 710-10.
-**712-10-25-5** Other postemployment benefits that are within the scope of this Subtopic and that do not meet the conditions in paragraph 710-10-25-1 shall be accounted for in accordance with paragraph 450-20-25-2. For example, an employer may provide any former employee on permanent disability with continued medical insurance coverage until that employee meets the requirements for participation in the employer's postretirement medical plan. If the level of benefits provided is the same for any disabled employee regardless of years of service, the cost of those benefits should be recognized when the event causing a permanent disability occurs and a reasonable estimate can be made as specified by that paragraph.
+**712-10-25-1** > Special Termination Benefits
+Nonretirement postemployment benefits
+offered as special termination benefits to employees shall be recognized as a liability and a loss when the employees accept the offer and the amount can be reasonably estimated. An employer that offers, for a short period of time, special termination benefits to employees, shall not recognize a loss at the date the offer is made based on the estimated acceptance rate.
+Nonretirement postemployment benefits
+**712-10-25-2** offered as special termination benefits to employees shall be recognized as a liability and a loss when the employees accept the offer and the amount can be reasonably estimated. An employer that offers, for a short period of time, special termination benefits to employees, shall not recognize a loss at the date the offer is made based on the estimated acceptance rate. > Contractual Termination Benefits
+An employer that provides contractual termination benefits
+shall recognize a liability and a loss when it is probable that employees will be entitled to benefits and the amount can be reasonably estimated. The cost of termination benefits recognized as a liability and a loss shall include the amount of any lump-sum payments and the present value of any expected future payments.
+An employer that provides contractual termination benefits
+**712-10-25-3** shall recognize a liability and a loss when it is probable that employees will be entitled to benefits and the amount can be reasonably estimated. The cost of termination benefits recognized as a liability and a loss shall include the amount of any lump-sum payments and the present value of any expected future payments.
+A situation involving special or contractual termination benefits may also constitute a curtailment to be accounted for under paragraphs 715-30-35-92 through 35-96
+and 715-60-35-161 through 35-171.
+A situation involving special or contractual termination benefits may also constitute a curtailment to be accounted for under paragraphs 715-30-35-92 through 35-96
+**712-10-25-4** and 715-60-35-161 through 35-171. > Determining the Timing and Method of Accruing Other Postemployment Benefits
+Other postemployment benefits
+that meet the conditions in paragraph 710-10-25-1 shall be accounted for in accordance with Subtopic 710-10.
+Other postemployment benefits
+**712-10-25-5** that meet the conditions in paragraph 710-10-25-1 shall be accounted for in accordance with Subtopic 710-10.
+Other postemployment benefits that are within the scope of this Subtopic and that do not meet the conditions in paragraph 710-10-25-1 shall be accounted for in accordance with paragraph 450-20-25-2. For example, an employer may provide any former employee on permanent disability with continued medical insurance coverage until that employee meets the requirements for participation in the employer's postretirement medical plan. If the level of benefits provided is the same for any disabled employee regardless of years of service, the cost of those benefits should be recognized when the event causing a permanent disability occurs and a reasonable estimate can be made as specified by that paragraph.
+Other postemployment benefits that are within the scope of this Subtopic and that do not meet the conditions in paragraph 710-10-25-1 shall be accounted for in accordance with paragraph 450-20-25-2. For example, an employer may provide any former employee on permanent disability with continued medical insurance coverage until that employee meets the requirements for participation in the employer's postretirement medical plan. If the level of benefits provided is the same for any disabled employee regardless of years of service, the cost of those benefits should be recognized when the event causing a permanent disability occurs and a reasonable estimate can be made as specified by that paragraph.
 
 ## 30 Initial Measurement
 
@@ -111,6 +177,7 @@ Benefits provided by an employer to employees in connection with their terminati
 ### General
 
 **712-10-30-1** See Section 712-10-25 for guidance on initial measurement.
+**712-10-30-1** See Section 712-10-25 for guidance on initial measurement.
 
 ## 35 Subsequent Measurement
 
@@ -118,7 +185,10 @@ Benefits provided by an employer to employees in connection with their terminati
 
 ### General
 
-**712-10-35-1** To the extent that similar issues apply to other postemployment benefit plans, employers may refer to Subtopics 715-30 and 715-60 for guidance in measuring their other postemployment obligations in compliance with the requirements of this Subtopic. As a result, the use of discounting in measuring other postemployment benefit obligations will continue to be permitted but not required.
+**712-10-35-1** To the extent that similar issues apply to other postemployment benefit plans, employers may refer to Subtopics 715-30 and 715-60 for guidance in measuring their other postemployment obligations in compliance with the requirements of this Subtopic.
+As a result, the use of discounting in measuring other postemployment benefit obligations will continue to be permitted but not required.
+**712-10-35-1** To the extent that similar issues apply to other postemployment benefit plans, employers may refer to Subtopics 715-30 and 715-60 for guidance in measuring their other postemployment obligations in compliance with the requirements of this Subtopic.
+As a result, the use of discounting in measuring other postemployment benefit obligations will continue to be permitted but not required.
 
 ## 50 Disclosure
 
@@ -126,8 +196,14 @@ Benefits provided by an employer to employees in connection with their terminati
 
 ### General
 
-**712-10-50-1** For guidance on disclosure requirements related to special and contractual termination benefits, see paragraph 715-20-50-1.
-**712-10-50-2** If an obligation for other postemployment benefits is not accrued in accordance with paragraphs 450-20-25-2 or 710-10-25-1 only because the amount cannot be reasonably estimated, the financial statements shall disclose that fact.
+**712-10-50-1** > Termination Benefits
+For guidance on disclosure requirements related to special and contractual termination benefits
+, see paragraph 715-20-50-1.
+**712-10-50-1** For guidance on disclosure requirements related to special and contractual termination benefits
+**712-10-50-2** , see paragraph 715-20-50-1.> Other Postemployment Benefits
+If an obligation for other postemployment benefits
+is not accrued in accordance with paragraphs 450-20-25-2 or 710-10-25-1 only because the amount cannot be reasonably estimated, the financial statements shall disclose that fact.
+**712-10-50-2** If an obligation for other postemployment benefits
 
 ## 60 Relationships
 
@@ -135,5 +211,10 @@ Benefits provided by an employer to employees in connection with their terminati
 
 ### General
 
-**712-10-60-1** For guidance on recognition of liabilities for contractual termination benefits or changing benefit plan assumptions in anticipation of a business combination, see Subtopic 805-20.
+**712-10-60-1** > Business Combinations
+For guidance on recognition of liabilities for contractual termination benefits
+or changing benefit plan assumptions in anticipation of a business combination, see Subtopic 805-20.
+**712-10-60-1** For guidance on recognition of liabilities for contractual termination benefits
+**712-10-60-2** or changing benefit plan assumptions in anticipation of a business combination, see Subtopic 805-20. > Consolidation
+For guidance prohibiting the consolidation of an employee benefit plan subject to the provisions of this Subtopic, see paragraph 810-10-15-12(a).
 **712-10-60-2** For guidance prohibiting the consolidation of an employee benefit plan subject to the provisions of this Subtopic, see paragraph 810-10-15-12(a).

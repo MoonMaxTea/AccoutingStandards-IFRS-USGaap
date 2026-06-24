@@ -17,6 +17,8 @@ subtopics: ["405-10"]
 
 ### General
 
+The following table identifies the changes made to this Subtopic.
+
 | Paragraph | Action | Accounting Standards Update | Date |
 | --- | --- | --- | --- |
 | 405-10-05-1 | Amended | Accounting Standards Update No. 2022-04 | 09/29/2022 |
@@ -24,7 +26,17 @@ subtopics: ["405-10"]
 | 405-10-05-2 | Amended | Accounting Standards Update No. 2023-04 | 08/03/2023 |
 | 405-10-05-2 | Amended | Accounting Standards Update No. 2014-09 | 05/28/2014 |
 
-**405-10-00-1** The following table identifies the changes made to this Subtopic. **** **** **** ****
+**** **** **** ****
+The following table identifies the changes made to this Subtopic.
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| 405-10-05-1 | Amended | Accounting Standards Update No. 2022-04 | 09/29/2022 |
+| 405-10-05-1 | Amended | Maintenance Update 2014-20 | 09/29/2014 |
+| 405-10-05-2 | Amended | Accounting Standards Update No. 2023-04 | 08/03/2023 |
+| 405-10-05-2 | Amended | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+
+**** **** **** ****
 
 ## 05 Overview and Background
 
@@ -33,12 +45,27 @@ subtopics: ["405-10"]
 ### General
 
 1. Overall
-2. Extinguishments of Liabilities
+**405-10-05-1** Extinguishments of Liabilities
 3. Insurance-Related Assessments
 4. Obligations Resulting from Joint and Several Liability Arrangements
 5. Supplier Finance Programs.
 
-1. Asset Retirement and Environmental Obligations, see Topic 410
+1. Overall
+**405-10-05-1** Extinguishments of Liabilities
+3. Insurance-Related Assessments
+4. Obligations Resulting from Joint and Several Liability Arrangements
+5. Supplier Finance Programs.
+
+**405-10-05-2** Asset Retirement and Environmental Obligations, see Topic 410
+2. Exit or Disposal Cost Obligations, see Topic 420
+3. Deferred Revenue and Contract Liabilities, see Topic 430
+4. Commitments, see Topic 440
+5. Contingencies, see Topic 450
+6. Guarantees, see Topic 460
+7. Debt, see Topic 470
+8. Distinguishing Liabilities from Equity, see Topic 480.
+
+**405-10-05-2** Asset Retirement and Environmental Obligations, see Topic 410
 2. Exit or Disposal Cost Obligations, see Topic 420
 3. Deferred Revenue and Contract Liabilities, see Topic 430
 4. Commitments, see Topic 440
@@ -48,6 +75,7 @@ subtopics: ["405-10"]
 8. Distinguishing Liabilities from Equity, see Topic 480.
 
 **405-10-05-3** Other Topics, including industries, may contain guidance related to specific liabilities associated with those Topics.
+**405-10-05-3** Other Topics, including industries, may contain guidance related to specific liabilities associated with those Topics.
 
 ## S00 Status
 
@@ -55,12 +83,21 @@ subtopics: ["405-10"]
 
 ### General
 
+**405-10-S00-1** The following table identifies the changes made to this Subtopic.
+
 | Paragraph | Action | Accounting Standards Update | Date |
 | --- | --- | --- | --- |
 | 405-10-S99-1 | Amended | Accounting Standards Update No. 2025-02 | 03/18/2025 |
 | 405-10-S99-1 | Added | Accounting Standards Update No. 2023-04 | 08/03/2023 |
 
+
 **405-10-S00-1** The following table identifies the changes made to this Subtopic.
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| 405-10-S99-1 | Amended | Accounting Standards Update No. 2025-02 | 03/18/2025 |
+| 405-10-S99-1 | Added | Accounting Standards Update No. 2023-04 | 08/03/2023 |
+
 
 ## S99 SEC Materials
 
@@ -70,4 +107,8 @@ subtopics: ["405-10"]
 
 ##### · > Staff Accounting Bulletins
 
-**405-10-S99-1** · · > SAB Topic 5.FF, Accounting for Obligations To Safeguard Crypto-Assets an Entity Holds for Its Platform UsersThe following is the text of SAB Topic 5.FF.Removed by SAB 122.
+**405-10-S99-1** > SEC Staff Guidance· · > SAB Topic 5.FF, Accounting for Obligations To Safeguard Crypto-Assets an Entity Holds for Its Platform Users
+The following is the text of SAB Topic 5.FF.
+Removed by SAB 122.
+**405-10-S99-1** The following is the text of SAB Topic 5.FF.
+Removed by SAB 122.

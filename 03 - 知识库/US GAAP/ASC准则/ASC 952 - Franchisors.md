@@ -17,6 +17,9 @@ subtopics: ["952-10"]
 
 ### General
 
+The following table identifies the changes made to this Subtopic.
+**** **** **** **** ****
+
 | Paragraph | Action | Accounting Standards Update | Date |
 | --- | --- | --- | --- |
 | Area Franchise | Superseded | Accounting Standards Update No. 2014-09 | 05/28/2014 |
@@ -35,7 +38,27 @@ subtopics: ["952-10"]
 | 952-10-50-2 | Added | Maintenance Update 2017-09 | 05/30/2017 |
 | 952-10-60-3 | Added | Accounting Standards Update No. 2009-17 | 12/23/2009 |
 
-**952-10-00-1** The following table identifies the changes made to this Subtopic. **** **** **** **** **** ****
+****
+The following table identifies the changes made to this Subtopic.
+**** **** **** **** ****
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Area Franchise | Superseded | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| Contract | Added | Maintenance Update 2017-09 | 05/30/2017 |
+| Customer | Added | Maintenance Update 2017-09 | 05/30/2017 |
+| Franchise Agreement | Superseded | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 952-10-05-1 | Amended | Maintenance Update 2017-09 | 05/30/2017 |
+| 952-10-05-1 | Amended | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 952-10-05-2 | Amended | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 952-10-10-1 | Amended | Maintenance Update 2017-09 | 05/30/2017 |
+| 952-10-15-3 | Amended | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 952-10-25-1 | Added | Maintenance Update 2017-09 | 05/30/2017 |
+| 952-10-25-2 | Added | Maintenance Update 2017-09 | 05/30/2017 |
+| 952-10-45-1 | Added | Maintenance Update 2017-09 | 05/30/2017 |
+| 952-10-50-1 | Added | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 952-10-50-2 | Added | Maintenance Update 2017-09 | 05/30/2017 |
+| 952-10-60-3 | Added | Accounting Standards Update No. 2009-17 | 12/23/2009 |
 
 ## 05 Overview and Background
 
@@ -44,7 +67,15 @@ subtopics: ["952-10"]
 ### General
 
 **952-10-05-1** The Franchisors Topic provides incremental accounting and reporting standards for franchisors.
-1. Overall
+**952-10-05-1** The Franchisors Topic provides incremental accounting and reporting standards for franchisors.
+**952-10-05-2** Overall
+2. Subparagraph superseded by Accounting Standards Update No. 2014-09.
+3. Subparagraph superseded by Maintenance Update No. 2017-09.
+4. Subparagraph superseded by Accounting Standards Update No. 2014-09.
+5. Subparagraph superseded by Maintenance Update No. 2017-09.
+6. Consolidations.
+
+**952-10-05-2** Overall
 2. Subparagraph superseded by Accounting Standards Update No. 2014-09.
 3. Subparagraph superseded by Maintenance Update No. 2017-09.
 4. Subparagraph superseded by Accounting Standards Update No. 2014-09.
@@ -57,7 +88,9 @@ subtopics: ["952-10"]
 
 ### General
 
-**952-10-10-1** The objective of this Topic is to provide incremental accounting and reporting standards for franchisors.
+**952-10-10-1** The objective of this Topic is to provide incremental accounting and reporting standards for franchisors
+.
+**952-10-10-1** The objective of this Topic is to provide incremental accounting and reporting standards for franchisors
 
 ## 15 Scope and Scope Exceptions
 
@@ -67,9 +100,19 @@ subtopics: ["952-10"]
 
 ### General
 
-**952-10-15-1** . For guidance on matters related broadly to all financial instruments, (including the fair value option, accounting for registration payment arrangements, and broad financial instrument disclosure requirements), see Topic 825. See Section 825-10-15 for guidance on the scope of the Financial Instruments Topic.The Subtopics within the Franchisors Topic only provide incremental industry-specific guidance for the entities defined in this Scope Section, or as further defined in the Scope Sections of the individual Franchisors Subtopics. Entities within the scope of this Topic shall also comply with the applicable guidance not included in this Topic.
-**952-10-15-2** The guidance in this Subtopic applies to all entities that meet the definition of franchisor, that is, the party that grants business rights (the franchise) to the party (the franchisee) that will operate the franchised business.
-1. Subparagraph superseded by Accounting Standards Update No. 2014-09.
+**952-10-15-1** . For guidance on matters related broadly to all financial instruments, (including the fair value option, accounting for registration payment arrangements, and broad financial instrument disclosure requirements), see Topic 825. See Section 825-10-15 for guidance on the scope of the Financial Instruments Topic.> Overall Guidance
+The Subtopics within the Franchisors Topic only provide incremental industry-specific guidance for the entities defined in this Scope Section, or as further defined in the Scope Sections of the individual Franchisors Subtopics. Entities within the scope of this Topic shall also comply with the applicable guidance not included in this Topic.
+**952-10-15-1** The Subtopics within the Franchisors Topic only provide incremental industry-specific guidance for the entities defined in this Scope Section, or as further defined in the Scope Sections of the individual Franchisors Subtopics. Entities within the scope of this Topic shall also comply with the applicable guidance not included in this Topic.
+**952-10-15-2** > Entities
+The guidance in this Subtopic applies to all entities that meet the definition of franchisor
+, that is, the party that grants business rights (the franchise) to the party (the franchisee) that will operate the franchised business.
+**952-10-15-2** The guidance in this Subtopic applies to all entities that meet the definition of franchisor
+**952-10-15-3** , that is, the party that grants business rights (the franchise) to the party (the franchisee) that will operate the franchised business.> Transactions
+Subparagraph superseded by Accounting Standards Update No. 2014-09.
+2. Costs associated with franchising activities
+3. Transactions between the franchisor and franchisee.
+
+**952-10-15-3** Subparagraph superseded by Accounting Standards Update No. 2014-09.
 2. Costs associated with franchising activities
 3. Transactions between the franchisor and franchisee.
 
@@ -80,21 +123,26 @@ subtopics: ["952-10"]
 ##### Continuing Franchise Fees
 
 Consideration for the continuing rights granted by the franchise agreement and for general or specific services during its life.
+Consideration for the continuing rights granted by the franchise agreement and for general or specific services during its life.
 
 ##### Contract
 
+An agreement between two or more parties that creates enforceable rights and obligations.
 An agreement between two or more parties that creates enforceable rights and obligations.
 
 ##### Customer
 
 A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.
+A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.
 
 ##### Franchisee
 
 The party who has been granted business rights (the franchise) to operate the franchised business.
+The party who has been granted business rights (the franchise) to operate the franchised business.
 
 ##### Franchisor
 
+The party who grants business rights (the franchise) to the party (the franchisee) who will operate the franchised business.
 The party who grants business rights (the franchise) to the party (the franchisee) who will operate the franchised business.
 
 ## 25 Recognition
@@ -103,8 +151,14 @@ The party who grants business rights (the franchise) to the party (the franchise
 
 ### General
 
-**952-10-25-1** Costs relating to continuing franchise fees shall be expensed as incurred.
-**952-10-25-2** Indirect costs of a regular and recurring nature that are incurred irrespective of the level of sales, such as general, selling, and administrative costs, shall be expensed as incurred. For guidance on accounting for the incremental costs of obtaining a contract with a customer, see Subtopic 340-40.
+**952-10-25-1** > Costs
+Costs relating to continuing franchise fees
+shall be expensed as incurred.
+**952-10-25-1** Costs relating to continuing franchise fees
+**952-10-25-2** shall be expensed as incurred.
+Indirect costs of a regular and recurring nature that are incurred irrespective of the level of sales, such as general, selling, and administrative costs, shall be expensed as incurred. For guidance on accounting for the incremental costs of obtaining a contract
+with a customer, see Subtopic 340-40.
+**952-10-25-2** Indirect costs of a regular and recurring nature that are incurred irrespective of the level of sales, such as general, selling, and administrative costs, shall be expensed as incurred. For guidance on accounting for the incremental costs of obtaining a contract
 
 ## 45 Other Presentation Matters
 
@@ -112,7 +166,9 @@ The party who grants business rights (the franchise) to the party (the franchise
 
 ### General
 
-**952-10-45-1** Costs related to franchisor-owned outlets shall be distinguished from costs related to franchised outlets when practicable. That may be done by segregating costs related to franchised outlets.
+**952-10-45-1** Costs related to franchisor
+-owned outlets shall be distinguished from costs related to franchised outlets when practicable. That may be done by segregating costs related to franchised outlets.
+**952-10-45-1** Costs related to franchisor
 
 ## 50 Disclosure
 
@@ -120,12 +176,21 @@ The party who grants business rights (the franchise) to the party (the franchise
 
 ### General
 
+**952-10-50-1** If there are significant changes in franchisor
 1. Franchises sold
 2. Franchises purchased during the period
 3. Franchised outlets in operation
 4. Franchisor-owned outlets in operation.
 
-**952-10-50-2** The nature of all significant commitments and obligations resulting from franchise agreements, including a description of the services that the franchisor has agreed to provide for agreements that have not yet been substantially performed, shall be disclosed.
+**952-10-50-1** If there are significant changes in franchisor
+1. Franchises sold
+2. Franchises purchased during the period
+3. Franchised outlets in operation
+4. Franchisor-owned outlets in operation.
+
+**952-10-50-2** The nature of all significant commitments and obligations resulting from franchise agreements, including a description of the services that the franchisor
+has agreed to provide for agreements that have not yet been substantially performed, shall be disclosed.
+**952-10-50-2** The nature of all significant commitments and obligations resulting from franchise agreements, including a description of the services that the franchisor
 
 ## 60 Relationships
 
@@ -133,6 +198,13 @@ The party who grants business rights (the franchise) to the party (the franchise
 
 ### General
 
-**952-10-60-1** For illustrations of franchisor reporting of discontinued operations, see paragraphs 205-20-55-83 through 55-103.
-**952-10-60-2** For guidance on accounting for franchise costs related to cable television entities, see paragraphs 922-350-25-3; 922-350-35-4; and 922-720-25-4.
-**952-10-60-3** For guidance on consolidation requirements applicable to a franchisor related to an entity that is the franchisee, see Subtopic 810-10.
+**952-10-60-1** > Presentation of Financial Statements
+For illustrations of franchisor
+reporting of discontinued operations, see paragraphs 205-20-55-83 through 55-103.
+For illustrations of franchisor
+**952-10-60-2** reporting of discontinued operations, see paragraphs 205-20-55-83 through 55-103. > Entertainment—Cable Television
+For guidance on accounting for franchise costs related to cable television entities, see paragraphs 922-350-25-3; 922-350-35-4; and 922-720-25-4.
+For guidance on accounting for franchise costs related to cable television entities, see paragraphs 922-350-25-3; 922-350-35-4; and 922-720-25-4.
+**952-10-60-3** > Consolidation
+For guidance on consolidation requirements applicable to a franchisor related to an entity that is the franchisee, see Subtopic 810-10.
+For guidance on consolidation requirements applicable to a franchisor related to an entity that is the franchisee, see Subtopic 810-10.

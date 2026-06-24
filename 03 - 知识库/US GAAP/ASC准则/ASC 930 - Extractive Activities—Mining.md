@@ -17,13 +17,21 @@ subtopics: ["930-10"]
 
 ### General
 
-1. Overall
+**930-10-05-1** Overall
 2. Inventory
 3. Property, Plant, and Equipment
 4. Compensation—Retirement Benefits
 5. Business Combinations
 6. Consolidation.
 
+**930-10-05-1** Overall
+2. Inventory
+3. Property, Plant, and Equipment
+4. Compensation—Retirement Benefits
+5. Business Combinations
+6. Consolidation.
+
+**930-10-05-2** This Subtopic provides overall guidance for extractive activities in the mining industry, including the identification of entities that fall within the scope of this Topic and definitions of industry terms.
 **930-10-05-2** This Subtopic provides overall guidance for extractive activities in the mining industry, including the identification of entities that fall within the scope of this Topic and definitions of industry terms.
 
 ## 15 Scope and Scope Exceptions
@@ -34,9 +42,17 @@ subtopics: ["930-10"]
 
 ### General
 
-**930-10-15-1** . For guidance on matters related broadly to all financial instruments, (including the fair value option, accounting for registration payment arrangements, and broad financial instrument disclosure requirements), see Topic 825. See Section 825-10-15 for guidance on the scope of the Financial Instruments Topic.The Subtopics within the Extractive Activities—Mining Topic only provide incremental industry-specific guidance for the entities defined in this Scope Section, or as further defined in the Scope Section of the individual Subtopics. Entities within the scope of this Topic shall also comply with the applicable guidance not included in this Topic.
-**930-10-15-2** The Extractive Activities—Mining Topic provides guidance for all mining entities, with specific entity exceptions noted below.
-1. Oil- and gas-producing entities. For guidance on these entities see Topic 932.
+**930-10-15-1** . For guidance on matters related broadly to all financial instruments, (including the fair value option, accounting for registration payment arrangements, and broad financial instrument disclosure requirements), see Topic 825. See Section 825-10-15 for guidance on the scope of the Financial Instruments Topic.> Overall Guidance
+The Subtopics within the Extractive Activities—Mining Topic only provide incremental industry-specific guidance for the entities defined in this Scope Section, or as further defined in the Scope Section of the individual Subtopics. Entities within the scope of this Topic shall also comply with the applicable guidance not included in this Topic.
+**930-10-15-1** The Subtopics within the Extractive Activities—Mining Topic only provide incremental industry-specific guidance for the entities defined in this Scope Section, or as further defined in the Scope Section of the individual Subtopics. Entities within the scope of this Topic shall also comply with the applicable guidance not included in this Topic.
+**930-10-15-2** > Entities
+The Extractive Activities—Mining Topic provides guidance for all mining entities
+, with specific entity exceptions noted below.
+**930-10-15-2** The Extractive Activities—Mining Topic provides guidance for all mining entities
+**930-10-15-3** , with specific entity exceptions noted below.
+Oil- and gas-producing entities. For guidance on these entities see Topic 932.
+
+**930-10-15-3** Oil- and gas-producing entities. For guidance on these entities see Topic 932.
 
 ## 20 Glossary
 
@@ -44,4 +60,5 @@ subtopics: ["930-10"]
 
 ##### Mining Entities
 
+Mining entities include entities involved in finding and removing wasting natural resources (other than oil- and gas-producing entities that are within the scope of Topic 932).
 Mining entities include entities involved in finding and removing wasting natural resources (other than oil- and gas-producing entities that are within the scope of Topic 932).

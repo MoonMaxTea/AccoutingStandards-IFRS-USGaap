@@ -17,13 +17,24 @@ subtopics: ["985-10"]
 
 ### General
 
+The following table identifies the changes made to this Subtopic.
+
 | Paragraph | Action | Accounting Standards Update | Date |
 | --- | --- | --- | --- |
 | 985-10-05-1 | Amended | Maintenance Update 2018-12 | 09/10/2018 |
 | 985-10-05-1 | Amended | Accounting Standards Update No. 2014-09 | 05/28/2014 |
 | 985-10-15-3 | Amended | Accounting Standards Update No. 2014-09 | 05/28/2014 |
 
-**985-10-00-1** The following table identifies the changes made to this Subtopic. **** **** **** ****
+**** **** **** ****
+The following table identifies the changes made to this Subtopic.
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| 985-10-05-1 | Amended | Maintenance Update 2018-12 | 09/10/2018 |
+| 985-10-05-1 | Amended | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 985-10-15-3 | Amended | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+
+**** **** **** ****
 
 ## 05 Overview and Background
 
@@ -31,7 +42,16 @@ subtopics: ["985-10"]
 
 ### General
 
-1. Overall
+**985-10-05-1** Overall
+2. Costs of Software to be Sold, Leased, or Marketed
+3. Inventory
+4. Intangibles—Goodwill and Other
+5. Revenue Recognition—Provision for Losses
+6. Cost of Sales and Services
+7. Research and Development
+8. Subparagraph superseded by Maintenance Update 2018-12.
+
+**985-10-05-1** Overall
 2. Costs of Software to be Sold, Leased, or Marketed
 3. Inventory
 4. Intangibles—Goodwill and Other
@@ -41,7 +61,10 @@ subtopics: ["985-10"]
 8. Subparagraph superseded by Maintenance Update 2018-12.
 
 **985-10-05-2** [Not used]
+**985-10-05-2** [Not used]
 **985-10-05-3** [Not used]
+**985-10-05-3** [Not used]
+**985-10-05-4** [Not used]
 **985-10-05-4** [Not used]
 
 ## 15 Scope and Scope Exceptions
@@ -52,8 +75,17 @@ subtopics: ["985-10"]
 
 ### General
 
-**985-10-15-1** . For guidance on matters related broadly to all financial instruments, (including the fair value option, accounting for registration payment arrangements, and broad financial instrument disclosure requirements), see Topic 825. See Section 825-10-15 for guidance on the scope of the Financial Instruments Topic.The Subtopics within the Software Topic only provide incremental industry-specific guidance for entities defined in this Scope Section, or as further defined in the Scope Sections of the individual Software Subtopics. Entities within the scope of this Topic shall also comply with the applicable guidance not included in this Topic.
+**985-10-15-1** . For guidance on matters related broadly to all financial instruments, (including the fair value option, accounting for registration payment arrangements, and broad financial instrument disclosure requirements), see Topic 825. See Section 825-10-15 for guidance on the scope of the Financial Instruments Topic.> Overall Guidance
+The Subtopics within the Software Topic only provide incremental industry-specific guidance for entities defined in this Scope Section, or as further defined in the Scope Sections of the individual Software Subtopics. Entities within the scope of this Topic shall also comply with the applicable guidance not included in this Topic.
+**985-10-15-1** The Subtopics within the Software Topic only provide incremental industry-specific guidance for entities defined in this Scope Section, or as further defined in the Scope Sections of the individual Software Subtopics. Entities within the scope of this Topic shall also comply with the applicable guidance not included in this Topic.
+**985-10-15-2** > Entities
+The guidance in the Software Topic applies to all entities.
 **985-10-15-2** The guidance in the Software Topic applies to all entities.
-1. Subparagraph superseded by Accounting Standards Update No. 2014-09.
+**985-10-15-3** > Transactions
+Subparagraph superseded by Accounting Standards Update No. 2014-09.
+2. Subtopics 985-20, 985-330, 985-350, 985-705, and 985-730 do not apply to software created for internal use (see Section 350-40-15).
+3. Subtopics 985-20, 985-330, 985-350, 985-705, and 985-730 do not apply to arrangements to deliver software or a software system, either alone or together with other products or services, requiring significant production, modification, or customization of software (see Topic 606 on revenue from contracts with customers and Subtopic 340-40 on costs related to a contract with a customer).
+
+**985-10-15-3** Subparagraph superseded by Accounting Standards Update No. 2014-09.
 2. Subtopics 985-20, 985-330, 985-350, 985-705, and 985-730 do not apply to software created for internal use (see Section 350-40-15).
 3. Subtopics 985-20, 985-330, 985-350, 985-705, and 985-730 do not apply to arrangements to deliver software or a software system, either alone or together with other products or services, requiring significant production, modification, or customization of software (see Topic 606 on revenue from contracts with customers and Subtopic 340-40 on costs related to a contract with a customer).

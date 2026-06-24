@@ -17,6 +17,9 @@ subtopics: ["605-10"]
 
 ### General
 
+The following table identifies the changes made to this Subtopic.
+**** **** **** ****
+
 | Paragraph | Action | Accounting Standards Update | Date |
 | --- | --- | --- | --- |
 | Contract | Added | Accounting Standards Update No. 2014-09 | 05/28/2014 |
@@ -32,7 +35,24 @@ subtopics: ["605-10"]
 | 605-10-25-2A | Added | Accounting Standards Update No. 2010-17 | 04/28/2010 |
 | 605-10-60-1 through 60-2 | Superseded | Accounting Standards Update No. 2014-09 | 05/28/2014 |
 
-**605-10-00-1** The following table identifies the changes made to this Subtopic. **** **** **** **** ****
+****
+The following table identifies the changes made to this Subtopic.
+**** **** **** ****
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Contract | Added | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| Customer | Added | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| Readily Convertible to Cash | Superseded | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| Revenue | Added | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 605-10-05-1 | Superseded | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 605-10-05-1 | Amended | Accounting Standards Update No. 2010-17 | 04/28/2010 |
+| 605-10-05-2 through 05-4 | Added | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 605-10-15-2 | Superseded | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 605-10-15-3 | Superseded | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 605-10-25-1 through 25-5 | Superseded | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 605-10-25-2A | Added | Accounting Standards Update No. 2010-17 | 04/28/2010 |
+| 605-10-60-1 through 60-2 | Superseded | Accounting Standards Update No. 2014-09 | 05/28/2014 |
 
 ## 05 Overview and Background
 
@@ -40,17 +60,38 @@ subtopics: ["605-10"]
 
 ### General
 
-**605-10-05-1** Paragraph superseded by Accounting Standards Update No. 2014-09.
-1. 605-20, Revenue Recognition—Provision for Losses on Separately Priced Extended Warranty and Product Maintenance Contracts
+Paragraph superseded by Accounting Standards Update No. 2014-09.
+Paragraph superseded by Accounting Standards Update No. 2014-09.
+605-20, Revenue Recognition—Provision for Losses on Separately Priced Extended Warranty and Product Maintenance Contracts
 2. 605-35, Revenue Recognition—Provision for Losses on Construction-Type and Production-Type Contracts.
 
+605-20, Revenue Recognition—Provision for Losses on Separately Priced Extended Warranty and Product Maintenance Contracts
+2. 605-35, Revenue Recognition—Provision for Losses on Construction-Type and Production-Type Contracts.
+
+There is no revenue
 1. 905-605, Agriculture—Revenue Recognition, for guidance on cooperatives
 2. 944-605, Financial Services—Insurance—Revenue Recognition, for guidance on insurance contracts
 3. 954-605, Health Care Entities—Revenue Recognition, for guidance on contributions from related fundraising entities and charity care
 4. 958-605, Not-for-Profit Entities—Revenue Recognition, for guidance on contributions
 5. 980-605, Regulated Operations—Revenue Recognition, for guidance on alternative revenue programs.
 
-1. 605-20, Revenue Recognition—Provision for Losses on Separately Priced Extended Warranty and Product Maintenance Contracts
+There is no revenue
+1. 905-605, Agriculture—Revenue Recognition, for guidance on cooperatives
+2. 944-605, Financial Services—Insurance—Revenue Recognition, for guidance on insurance contracts
+3. 954-605, Health Care Entities—Revenue Recognition, for guidance on contributions from related fundraising entities and charity care
+4. 958-605, Not-for-Profit Entities—Revenue Recognition, for guidance on contributions
+5. 980-605, Regulated Operations—Revenue Recognition, for guidance on alternative revenue programs.
+
+605-20, Revenue Recognition—Provision for Losses on Separately Priced Extended Warranty and Product Maintenance Contracts
+2. 605-35, Revenue Recognition—Provision for Losses on Construction-Type and Production-Type Contracts
+3. 985-605, Software—Revenue Recognition, specifically paragraph 985-605-25-7
+4. 944-605, Financial Services—Insurance—Revenue Recognition, specifically paragraph 944-605-35-7
+5. 912-20, Contractors—Federal Government—Contract Costs, specifically paragraph 912-20-45-5
+6. 954-440, Health Care Entities—Commitments, specifically on continuing care retirement communities in paragraphs 954-440-35-1 through 35-3
+7. 954-450, Health Care Entities—Contingencies, specifically on prepaid health care services in paragraphs 954-450-30-3 through 30-4
+8. 980-350, Regulated Operations—Intangibles—Goodwill and Other, specifically on long-term power sales contracts in paragraph 980-350-35-3.
+
+605-20, Revenue Recognition—Provision for Losses on Separately Priced Extended Warranty and Product Maintenance Contracts
 2. 605-35, Revenue Recognition—Provision for Losses on Construction-Type and Production-Type Contracts
 3. 985-605, Software—Revenue Recognition, specifically paragraph 985-605-25-7
 4. 944-605, Financial Services—Insurance—Revenue Recognition, specifically paragraph 944-605-35-7
@@ -67,8 +108,12 @@ subtopics: ["605-10"]
 
 ### General
 
-**605-10-15-1** . For guidance on matters related broadly to all financial instruments, (including the fair value option, accounting for registration payment arrangements, and broad financial instrument disclosure requirements), see Topic 825. See Section 825-10-15 for guidance on the scope of the Financial Instruments Topic.The guidance in this Subtopic applies to all entities.
+**605-10-15-1** . For guidance on matters related broadly to all financial instruments, (including the fair value option, accounting for registration payment arrangements, and broad financial instrument disclosure requirements), see Topic 825. See Section 825-10-15 for guidance on the scope of the Financial Instruments Topic.> Entities
+The guidance in this Subtopic applies to all entities.
+**605-10-15-1** The guidance in this Subtopic applies to all entities.
 **605-10-15-2** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**605-10-15-2** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**605-10-15-3** Paragraph superseded by Accounting Standards Update No. 2014-09.
 **605-10-15-3** Paragraph superseded by Accounting Standards Update No. 2014-09.
 
 ## 20 Glossary
@@ -78,13 +123,16 @@ subtopics: ["605-10"]
 ##### Contract
 
 An agreement between two or more parties that creates enforceable rights and obligations.
+An agreement between two or more parties that creates enforceable rights and obligations.
 
 ##### Customer
 
 A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.
+A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.
 
 ##### Revenue
 
+Inflows or other enhancements of assets of an entity or settlements of its liabilities (or a combination of both) from delivering or producing goods, rendering services, or other activities that constitute the entity's ongoing major or central operations.
 Inflows or other enhancements of assets of an entity or settlements of its liabilities (or a combination of both) from delivering or producing goods, rendering services, or other activities that constitute the entity's ongoing major or central operations.
 
 ## 25 Recognition
@@ -96,10 +144,16 @@ Inflows or other enhancements of assets of an entity or settlements of its liabi
 ### General
 
 **605-10-25-1** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**605-10-25-1** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**605-10-25-2** Paragraph superseded by Accounting Standards Update No. 2014-09.
 **605-10-25-2** Paragraph superseded by Accounting Standards Update No. 2014-09.
 **605-10-25-2A** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**605-10-25-2A** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**605-10-25-3** Paragraph superseded by Accounting Standards Update No. 2014-09.
 **605-10-25-3** Paragraph superseded by Accounting Standards Update No. 2014-09.
 **605-10-25-4** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**605-10-25-4** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**605-10-25-5** Paragraph superseded by Accounting Standards Update No. 2014-09.
 **605-10-25-5** Paragraph superseded by Accounting Standards Update No. 2014-09.
 
 ## 60 Relationships
@@ -109,7 +163,10 @@ Inflows or other enhancements of assets of an entity or settlements of its liabi
 ### General
 
 **605-10-60-1** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**605-10-60-1** Paragraph superseded by Accounting Standards Update No. 2014-09.
 **605-10-60-1A** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**605-10-60-1A** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**605-10-60-2** Paragraph superseded by Accounting Standards Update No. 2014-09.
 **605-10-60-2** Paragraph superseded by Accounting Standards Update No. 2014-09.
 
 ## S00 Status
@@ -117,6 +174,9 @@ Inflows or other enhancements of assets of an entity or settlements of its liabi
 > **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
 ### General
+
+The following table identifies the changes made to this Subtopic.
+**** **** **** ****
 
 | Paragraph | Action | Accounting Standards Update | Date |
 | --- | --- | --- | --- |
@@ -128,7 +188,18 @@ Inflows or other enhancements of assets of an entity or settlements of its liabi
 | 605-10-S99-1 | Amended | Accounting Standards Update No. 2009-07 | 09/15/2009 |
 | 605-10-S99-1 | Amended | Accounting Standards Update No. 2009-03 | 08/24/2009 |
 
-**605-10-S00-1** The following table identifies the changes made to this Subtopic. **** **** **** ****
+The following table identifies the changes made to this Subtopic.
+**** **** **** ****
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| 605-10-S25-1 through S25-4 | Superseded | Accounting Standards Update No. 2017-14 | 11/22/2017 |
+| 605-10-S50-1 | Superseded | Accounting Standards Update No. 2017-14 | 11/22/2017 |
+| 605-10-S99-1 | Superseded | Accounting Standards Update No. 2017-14 | 11/22/2017 |
+| 605-10-S99-1 | Amended | Accounting Standards Update No. 2015-10 | 06/12/2015 |
+| 605-10-S99-1 | Amended | Accounting Standards Update No. 2012-03 | 08/27/2012 |
+| 605-10-S99-1 | Amended | Accounting Standards Update No. 2009-07 | 09/15/2009 |
+| 605-10-S99-1 | Amended | Accounting Standards Update No. 2009-03 | 08/24/2009 |
 
 ## S25 Recognition
 
@@ -137,8 +208,12 @@ Inflows or other enhancements of assets of an entity or settlements of its liabi
 ### General
 
 **605-10-S25-1** Paragraph superseded by Accounting Standards Update No. 2017-14.
+**605-10-S25-1** Paragraph superseded by Accounting Standards Update No. 2017-14.
+**605-10-S25-2** Paragraph superseded by Accounting Standards Update No. 2017-14.
 **605-10-S25-2** Paragraph superseded by Accounting Standards Update No. 2017-14.
 **605-10-S25-3** Paragraph superseded by Accounting Standards Update No. 2017-14.
+**605-10-S25-3** Paragraph superseded by Accounting Standards Update No. 2017-14.
+**605-10-S25-4** Paragraph superseded by Accounting Standards Update No. 2017-14.
 **605-10-S25-4** Paragraph superseded by Accounting Standards Update No. 2017-14.
 
 ## S50 Disclosure
@@ -148,6 +223,7 @@ Inflows or other enhancements of assets of an entity or settlements of its liabi
 ### General
 
 **605-10-S50-1** Paragraph superseded by Accounting Standards Update No. 2017-14.
+**605-10-S50-1** Paragraph superseded by Accounting Standards Update No. 2017-14.
 
 ## S99 SEC Materials
 
@@ -155,4 +231,5 @@ Inflows or other enhancements of assets of an entity or settlements of its liabi
 
 ### General
 
+**605-10-S99-1** Paragraph superseded by Accounting Standards Update No. 2017-14.
 **605-10-S99-1** Paragraph superseded by Accounting Standards Update No. 2017-14.

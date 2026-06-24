@@ -19,6 +19,9 @@ subtopics: ["430-10"]
 
 ### General
 
+**430-10-00-1** The following table identifies the changes made to this Subtopic.
+
+
 | Paragraph | Action | Accounting Standards Update | Date |
 | --- | --- | --- | --- |
 | Contract | Added | Accounting Standards Update No. 2014-09 | 05/28/2014 |
@@ -31,6 +34,17 @@ subtopics: ["430-10"]
 
 **430-10-00-1** The following table identifies the changes made to this Subtopic.
 
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Contract | Added | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| Contract Liability | Added | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| Customer | Added | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| Revenue | Added | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 430-10-05-1 | Amended | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 430-10-25-1 | Superseded | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 430-10-60-1 | Superseded | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+
 ## 05 Overview and Background
 
 > **General Note:** The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
@@ -39,7 +53,9 @@ subtopics: ["430-10"]
 
 ### General
 
-**430-10-05-1** This Subtopic only provides a link to guidance on deferred revenue and contract liabilities. See Topic 606 on revenue from contracts with customers for further guidance.
+**430-10-05-1** This Subtopic only provides a link to guidance on deferred revenue
+and contract liabilities. See Topic 606 on revenue from contracts with customers for further guidance.
+**430-10-05-1** This Subtopic only provides a link to guidance on deferred revenue
 
 ## 20 Glossary
 
@@ -50,17 +66,21 @@ subtopics: ["430-10"]
 ##### Contract
 
 An agreement between two or more parties that creates enforceable rights and obligations.
+An agreement between two or more parties that creates enforceable rights and obligations.
 
 ##### Contract Liability
 
+An entity's obligation to transfer goods or services to a customer for which the entity has received consideration (or the amount is due) from the customer.
 An entity's obligation to transfer goods or services to a customer for which the entity has received consideration (or the amount is due) from the customer.
 
 ##### Customer
 
 A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.
+A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.
 
 ##### Revenue
 
+Inflows or other enhancements of assets of an entity or settlements of its liabilities (or a combination of both) from delivering or producing goods, rendering services, or other activities that constitute the entity's ongoing major or central operations.
 Inflows or other enhancements of assets of an entity or settlements of its liabilities (or a combination of both) from delivering or producing goods, rendering services, or other activities that constitute the entity's ongoing major or central operations.
 
 ## 25 Recognition
@@ -72,6 +92,7 @@ Inflows or other enhancements of assets of an entity or settlements of its liabi
 ### General
 
 **430-10-25-1** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**430-10-25-1** Paragraph superseded by Accounting Standards Update No. 2014-09.
 
 ## 60 Relationships
 
@@ -81,4 +102,5 @@ Inflows or other enhancements of assets of an entity or settlements of its liabi
 
 ### General
 
+**430-10-60-1** Paragraph superseded by Accounting Standards Update No. 2014-09.
 **430-10-60-1** Paragraph superseded by Accounting Standards Update No. 2014-09.

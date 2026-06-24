@@ -17,12 +17,21 @@ subtopics: ["922-10"]
 
 ### General
 
+**922-10-00-1** The following table identifies the changes made to this Subtopic.
+
 | Paragraph | Action | Accounting Standards Update | Date |
 | --- | --- | --- | --- |
 | 922-10-05-1 | Amended | Accounting Standards Update No. 2014-09 | 05/28/2014 |
 | 922-10-05-2 | Amended | Accounting Standards Update No. 2014-09 | 05/28/2014 |
 
+
 **922-10-00-1** The following table identifies the changes made to this Subtopic.
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| 922-10-05-1 | Amended | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 922-10-05-2 | Amended | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+
 
 ## 05 Overview and Background
 
@@ -31,7 +40,16 @@ subtopics: ["922-10"]
 ### General
 
 **922-10-05-1** The Entertainment—Cable Television Topic addresses the standards of financial accounting and reporting for costs and expenses applicable to the construction and operation of a cable television system.
-1. Overall
+**922-10-05-1** The Entertainment—Cable Television Topic addresses the standards of financial accounting and reporting for costs and expenses applicable to the construction and operation of a cable television system.
+**922-10-05-2** Overall
+2. Intangibles—Goodwill and Other
+3. Property, Plant, and Equipment
+4. Subparagraph superseded by Accounting Standards Update No. 2014-09.
+5. Subparagraph superseded by Accounting Standards Update No. 2014-09.
+6. Other Expenses
+7. Interest.
+
+**922-10-05-2** Overall
 2. Intangibles—Goodwill and Other
 3. Property, Plant, and Equipment
 4. Subparagraph superseded by Accounting Standards Update No. 2014-09.
@@ -47,5 +65,9 @@ subtopics: ["922-10"]
 
 ### General
 
-**922-10-15-1** . For guidance on matters related broadly to all financial instruments, (including the fair value option, accounting for registration payment arrangements, and broad financial instrument disclosure requirements), see Topic 825. See Section 825-10-15 for guidance on the scope of the Financial Instruments Topic.The Subtopics within the Entertainment—Cable Television Topic only provide incremental industry-specific guidance for the entities defined in this Scope Section or as further defined in the Scope Sections of the individual Entertainment—Cable Television Subtopics. Entities within the scope of this Topic shall also comply with the applicable standards not included in this Topic.
+**922-10-15-1** . For guidance on matters related broadly to all financial instruments, (including the fair value option, accounting for registration payment arrangements, and broad financial instrument disclosure requirements), see Topic 825. See Section 825-10-15 for guidance on the scope of the Financial Instruments Topic.> Overall Guidance
+The Subtopics within the Entertainment—Cable Television Topic only provide incremental industry-specific guidance for the entities defined in this Scope Section or as further defined in the Scope Sections of the individual Entertainment—Cable Television Subtopics. Entities within the scope of this Topic shall also comply with the applicable standards not included in this Topic.
+**922-10-15-1** The Subtopics within the Entertainment—Cable Television Topic only provide incremental industry-specific guidance for the entities defined in this Scope Section or as further defined in the Scope Sections of the individual Entertainment—Cable Television Subtopics. Entities within the scope of this Topic shall also comply with the applicable standards not included in this Topic.
+**922-10-15-2** > Entities
+The guidance in this Topic applies to all entities in the cable television industry.
 **922-10-15-2** The guidance in this Topic applies to all entities in the cable television industry.

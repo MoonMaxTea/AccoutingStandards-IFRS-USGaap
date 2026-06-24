@@ -21,8 +21,7 @@ class ASCHTMLParser(HTMLParser):
     """将 ASC Codification HTML 正文解析为 Markdown 行列表。"""
 
     SKIP_CLASSES = {
-        "hide-content", "sfragment-data", "componentHeaderPrint",
-        "printShow", "linum",
+        "hide-content", "sfragment-data", "linum",
     }
 
     def __init__(self):
@@ -32,9 +31,11 @@ class ASCHTMLParser(HTMLParser):
         self._skip_depth = 0
         self._heading_level = 0
         self._pending_heading = ""
-        self._pending_para_id = ""     # div.paragraphId
+        self._pending_para_id = ""     # div.paragraphId 或 div.pn
         self._in_article = 0           # article.dita-content 深度
         self._in_div_p = 0             # div.p 深度（非 article 内）
+        self._in_norm_text = 0         # div.norm-text 深度
+        self._in_pn = 0               # div.pn（段落号）深度
         self._in_ol = 0               # ol.ol-norm 深度
         self._ol_counter = 0
         self._in_table = 0
@@ -46,7 +47,6 @@ class ASCHTMLParser(HTMLParser):
         self._in_strong = 0
         self._in_em = 0
         self._in_sup = 0
-        self._skip_nav_first = True    # 跳过页面导航 wrapper
 
     def _flush(self):
         text = "".join(self._buf).strip()
@@ -118,6 +118,20 @@ class ASCHTMLParser(HTMLParser):
             self._in_div_p += 1
             return
 
+        # ── div.norm-text（ASC 正文段落容器）──
+        if tag == "div" and "norm-text" in dclass.split():
+            self._in_norm_text += 1
+            # flush 之前积累的文本（如上一个段落号）
+            if self._buf:
+                self._flush()
+            return
+
+        # ── div.pn（段落号，如 350-10-05-3）──
+        if tag == "div" and "pn" in dclass.split():
+            self._in_pn += 1
+            self._pending_para_id = ""
+            return
+
         # ── Info Box ──
         if tag == "div" and "info-box" in dclass.split():
             self._in_info_box += 1
@@ -170,8 +184,8 @@ class ASCHTMLParser(HTMLParser):
         if tag == "a":
             return
 
-        # ── span.sfragment（跳过，仅 source 子元素有价值）──
-        if tag == "span" and dclass == "sfragment":
+        # ── span.sfragment（在 article 外跳过，在 article 内保留 source 文本）──
+        if tag == "span" and dclass == "sfragment" and self._in_article == 0:
             return
 
     # ── end tag ────────────────────────────────────────────
@@ -206,6 +220,20 @@ class ASCHTMLParser(HTMLParser):
             self._in_div_p -= 1
             if self._in_div_p == 0:
                 self._flush()
+            return
+
+        # ── div.norm-text 结束 ──
+        if tag == "div" and self._in_norm_text > 0:
+            self._in_norm_text -= 1
+            if self._in_norm_text == 0:
+                self._flush()
+            return
+
+        # ── div.pn 结束 ──
+        if tag == "div" and self._in_pn > 0:
+            self._in_pn -= 1
+            # pn text is stored in _pending_para_id via _flush behaviour
+            # The superclass ASC_ParaId_Wrapper handles pn data collection
             return
 
         # ── Info Box ──
@@ -342,16 +370,20 @@ class ASCHTMLParser(HTMLParser):
 
 
 class ASC_ParaId_Wrapper(ASCHTMLParser):
-    """拦截 div.paragraphId 中的 data，与正文 data 隔离。"""
+    """拦截 div.paragraphId / div.pn 中的 data，与正文 data 隔离。"""
 
     def __init__(self):
         super().__init__()
         self._in_para_id_div = 0
+        self._in_pn_div = 0
 
     def handle_starttag(self, tag, attrs):
         dclass = dict(attrs).get("class", "")
         if tag == "div" and "paragraphId" in dclass.split():
             self._in_para_id_div += 1
+            self._pending_para_id = ""
+        elif tag == "div" and "pn" in dclass.split():
+            self._in_pn_div += 1
             self._pending_para_id = ""
         else:
             super().handle_starttag(tag, attrs)
@@ -359,11 +391,13 @@ class ASC_ParaId_Wrapper(ASCHTMLParser):
     def handle_endtag(self, tag):
         if tag == "div" and self._in_para_id_div > 0:
             self._in_para_id_div -= 1
+        elif tag == "div" and self._in_pn_div > 0:
+            self._in_pn_div -= 1
         else:
             super().handle_endtag(tag)
 
     def handle_data(self, data):
-        if self._in_para_id_div > 0:
+        if self._in_para_id_div > 0 or self._in_pn_div > 0:
             self._pending_para_id += data
         else:
             super().handle_data(data)
