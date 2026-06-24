@@ -32,7 +32,7 @@ class ASCHTMLParser(HTMLParser):
         self._heading_level = 0
         self._pending_heading = ""
         self._pending_para_id = ""     # div.paragraphId 或 div.pn
-        self._in_article = 0           # article.dita-content 深度
+        self._in_article = 0           # article.dita-content 内（0或1，非嵌套）
         self._in_div_p = 0             # div.p 深度（非 article 内）
         self._in_norm_text = 0         # div.norm-text 深度
         self._in_pn = 0               # div.pn（段落号）深度
@@ -85,6 +85,8 @@ class ASCHTMLParser(HTMLParser):
 
         if self._skip_element(tag, attrs):
             self._skip_depth += 1
+            if tag in ("img", "br", "hr", "input", "link", "meta"):
+                self._skip_depth -= 1  # 自闭合标签，不泄露
             return
 
         if self._skip_depth > 0:
@@ -107,10 +109,9 @@ class ASCHTMLParser(HTMLParser):
             self._pending_para_id = ""
             return
 
-        # ── article.dita-content ──
+        # ── article.dita-content ── (使用布尔值而非计数器，避免 Angular 嵌套干扰)
         if tag == "article" and "dita-content" in dclass.split():
-            self._in_article += 1
-            # 可能在 article 内复用，不清 buf
+            self._in_article = 1
             return
 
         # ── div.p（不在 article/ol/info_box 内）──
@@ -211,7 +212,7 @@ class ASCHTMLParser(HTMLParser):
 
         # ── article 结束：flush 段落 ──
         if tag == "article" and self._in_article > 0:
-            self._in_article -= 1
+            self._in_article = 0
             self._flush()
             return
 
