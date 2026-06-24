@@ -2364,3 +2364,3100 @@ A public business entity is a business entity meeting any one of the criteria be
 An entity may meet the definition of a public business entity solely because its financial statements or financial information is included in another entity's filing with the SEC. In that case, the entity is only a public business entity for purposes of financial statements that are filed or furnished with the SEC.
 FN 2 Early adoption of ASC Topic 606 is permitted for public business entities and certain other specified entities only as of annual reporting periods beginning after December 15, 2016, including interim reporting periods within that reporting period.
 FN 3 Early adoption of ASC Topic 842 is permitted for public business entities and certain other specified entities, as well as for all other entities.
+
+## 00 Status
+
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+
+### General
+
+**842-20-00-1** The following table identifies the changes made to this Subtopic.
+
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Acquiree | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Acquirer | Amended | Accounting Standards Update No. 2025-03 | 05/12/2025 |
+| Acquirer | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Acquisition by a Not-for-Profit Entity | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Business | Amended | Accounting Standards Update No. 2017-01 | 01/05/2017 |
+| Business | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Business Combination | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Commencement Date of the Lease (Commencement Date) | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Contract | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Corporate Joint Venture | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Direct Financing Lease | Amended | Accounting Standards Update No. 2021-05 | 07/19/2021 |
+| Direct Financing Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Discount Rate for the Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Fair Value (2nd def.) | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Finance Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Incremental Borrowing Rate | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Initial Direct Costs | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Joint Venture | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease Liability | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease Modification | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease Payments | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease Term | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Legal Entity | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lessee | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lessor | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Market Participants | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Monetary Liability | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Not-for-Profit Entity | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Operating Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Orderly Transaction | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Probable (2nd def.) | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Rate Implicit in the Lease | Amended | Accounting Standards Update No. 2018-10 | 07/18/2018 |
+| Rate Implicit in the Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Related Parties | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Residual Value Guarantee | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Right-of-Use Asset | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Sales-Type Lease | Amended | Accounting Standards Update No. 2021-05 | 07/19/2021 |
+| Sales-Type Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Short-Term Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Sublease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Underlying Asset | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Useful Life | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Variable Interest Entity | Superseded | Accounting Standards Update No. 2025-03 | 05/12/2025 |
+| Variable Interest Entity | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Variable Lease Payments | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-20-05-1 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-20-15-1 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-20-25-1 through 25-8 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-20-30-1 through 30-6 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-20-30-3 | Amended | Accounting Standards Update No. 2021-09 | 11/11/2021 |
+| 842-20-35-1 through 35-15 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-20-35-12 | Amended | Accounting Standards Update No. 2023-01 | 03/27/2023 |
+| 842-20-35-12A through 35-12C | Added | Accounting Standards Update No. 2023-01 | 03/27/2023 |
+| 842-20-35-13 | Amended | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| 842-20-40-1 through 40-3 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-20-45-1 through 45-5 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-20-50-1 | Amended | Accounting Standards Update No. 2021-09 | 11/11/2021 |
+| 842-20-50-1 through 50-9 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-20-50-4 | Amended | Accounting Standards Update No. 2024-03 | 11/04/2024 |
+| 842-20-50-7A | Added | Accounting Standards Update No. 2023-01 | 03/27/2023 |
+| 842-20-50-10 | Added | Accounting Standards Update No. 2021-09 | 11/11/2021 |
+| 842-20-55-1 through 55-53 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+
+
+**842-20-00-1** The following table identifies the changes made to this Subtopic.
+
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Acquiree | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Acquirer | Amended | Accounting Standards Update No. 2025-03 | 05/12/2025 |
+| Acquirer | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Acquisition by a Not-for-Profit Entity | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Business | Amended | Accounting Standards Update No. 2017-01 | 01/05/2017 |
+| Business | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Business Combination | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Commencement Date of the Lease (Commencement Date) | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Contract | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Corporate Joint Venture | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Direct Financing Lease | Amended | Accounting Standards Update No. 2021-05 | 07/19/2021 |
+| Direct Financing Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Discount Rate for the Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Fair Value (2nd def.) | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Finance Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Incremental Borrowing Rate | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Initial Direct Costs | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Joint Venture | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease Liability | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease Modification | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease Payments | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease Term | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Legal Entity | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lessee | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lessor | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Market Participants | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Monetary Liability | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Not-for-Profit Entity | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Operating Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Orderly Transaction | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Probable (2nd def.) | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Rate Implicit in the Lease | Amended | Accounting Standards Update No. 2018-10 | 07/18/2018 |
+| Rate Implicit in the Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Related Parties | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Residual Value Guarantee | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Right-of-Use Asset | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Sales-Type Lease | Amended | Accounting Standards Update No. 2021-05 | 07/19/2021 |
+| Sales-Type Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Short-Term Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Sublease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Underlying Asset | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Useful Life | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Variable Interest Entity | Superseded | Accounting Standards Update No. 2025-03 | 05/12/2025 |
+| Variable Interest Entity | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Variable Lease Payments | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-20-05-1 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-20-15-1 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-20-25-1 through 25-8 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-20-30-1 through 30-6 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-20-30-3 | Amended | Accounting Standards Update No. 2021-09 | 11/11/2021 |
+| 842-20-35-1 through 35-15 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-20-35-12 | Amended | Accounting Standards Update No. 2023-01 | 03/27/2023 |
+| 842-20-35-12A through 35-12C | Added | Accounting Standards Update No. 2023-01 | 03/27/2023 |
+| 842-20-35-13 | Amended | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| 842-20-40-1 through 40-3 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-20-45-1 through 45-5 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-20-50-1 | Amended | Accounting Standards Update No. 2021-09 | 11/11/2021 |
+| 842-20-50-1 through 50-9 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-20-50-4 | Amended | Accounting Standards Update No. 2024-03 | 11/04/2024 |
+| 842-20-50-7A | Added | Accounting Standards Update No. 2023-01 | 03/27/2023 |
+| 842-20-50-10 | Added | Accounting Standards Update No. 2021-09 | 11/11/2021 |
+| 842-20-55-1 through 55-53 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+
+## 05 Overview and Background
+
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+
+### General
+
+This Subtopic addresses accounting by lessees
+for leases that have been classified as finance leases or operating leases in accordance with the requirements in Subtopic 842-10. Lessees shall follow the requirements in this Subtopic as well as those in Subtopic 842-10.
+This Subtopic addresses accounting by lessees
+
+## 15 Scope and Scope Exceptions
+
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+
+### General
+
+This Subtopic follows the same Scope and Scope Exceptions as outlined in the Overall Subtopic.
+This Subtopic follows the same Scope and Scope Exceptions as outlined in the Overall Subtopic.
+
+## 20 Glossary
+
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+
+##### Acquiree
+
+The business or businesses that the acquirer obtains control of in a business combination. This term also includes a nonprofit activity or business that a not-for-profit acquirer obtains control of in an acquisition by a not-for-profit entity.
+The business or businesses that the acquirer obtains control of in a business combination. This term also includes a nonprofit activity or business that a not-for-profit acquirer obtains control of in an acquisition by a not-for-profit entity.
+
+##### Acquirer
+
+The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:805-10-65-5The entity that obtains control of the acquiree.See paragraphs 805-10-25-4 through 25-5 for guidance on determining the acquirer.
+The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer.
+PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:805-10-65-5The entity that obtains control of the acquiree.See paragraphs 805-10-25-4 through 25-5
+
+##### Acquisition by a Not-for-Profit Entity
+
+for guidance on determining the acquirer.A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.
+A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.
+
+##### Business
+
+Paragraphs 805-10-55-3A through 55-6 and 805-10-55-8 through 55-9 define what is considered a business.
+Paragraphs 805-10-55-3A through 55-6
+
+##### Business Combination
+
+and 805-10-55-8 through 55-9 define what is considered a business. A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
+A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
+
+##### Change in Accounting Estimate
+
+A change that has the effect of adjusting the carrying amount of an existing asset or liability or altering the subsequent accounting for existing or future assets or liabilities. A change in accounting estimate is a necessary consequence of the assessment, in conjunction with the periodic presentation of financial statements, of the present status and expected future benefits and obligations associated with assets and liabilities. Changes in accounting estimates result from new information. Examples of items for which estimates are necessary are uncollectible receivables, inventory obsolescence, service lives and salvage values of depreciable assets, and warranty obligations.
+A change that has the effect of adjusting the carrying amount of an existing asset or liability or altering the subsequent accounting for existing or future assets or liabilities. A change in accounting estimate is a necessary consequence of the assessment, in conjunction with the periodic presentation of financial statements, of the present status and expected future benefits and obligations associated with assets and liabilities. Changes in accounting estimates result from new information. Examples of items for which estimates are necessary are uncollectible receivables, inventory obsolescence, service lives and salvage values of depreciable assets, and warranty obligations.
+
+##### Commencement Date of the Lease        (Commencement Date)
+
+The date on which a lessor makes an underlying asset available for use by a lessee. See paragraphs 842-10-55-19 through 55-21
+for implementation guidance on the commencement date.
+The date on which a lessor makes an underlying asset available for use by a lessee. See paragraphs 842-10-55-19 through 55-21
+for implementation guidance on the commencement date.
+
+##### Contract
+
+An agreement between two or more parties that creates enforceable rights and obligations.
+An agreement between two or more parties that creates enforceable rights and obligations.
+
+##### Corporate Joint Venture
+
+A corporation owned and operated by a small group of entities (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a corporate joint venture frequently is to share risks and rewards in developing a new market, product or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A corporate joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a corporate joint venture. The ownership of a corporate joint venture seldom changes, and its stock is usually not traded publicly. A noncontrolling interest held by public ownership, however, does not preclude a corporation from being a corporate joint venture.
+A corporation owned and operated by a small group of entities (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a corporate joint venture frequently is to share risks and rewards in developing a new market, product or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A corporate joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a corporate joint venture. The ownership of a corporate joint venture seldom changes, and its stock is usually not traded publicly. A noncontrolling interest held by public ownership, however, does not preclude a corporation from being a corporate joint venture.
+
+##### Direct Financing                Lease
+
+From the perspective of a lessor, a lease that meets none of the criteria in paragraph 842-10-25-2 but meets the criteria in paragraph 842-10-25-3(b)and is not an operating lease in accordance with paragraph 842-10-25-3A.
+From the perspective of a lessor, a lease that meets none of the criteria in paragraph 842-10-25-2 but meets the criteria in paragraph 842-10-25-3(b)and is not an operating lease in accordance with paragraph 842-10-25-3A.
+
+##### Direct Financing        Leases
+
+Glossary term superseded by Accounting Standards Update No. 2016-02.
+Glossary term superseded by Accounting Standards Update No. 2016-02.
+
+##### Discount Rate for the    Lease
+
+For a lessee, the discount rate for the lease is the rate implicit in the lease unless that rate cannot be readily determined. In that case, the lessee is required to use its incremental borrowing rate.
+For a lessor, the discount rate for the lease is the rate implicit in the lease.
+For a lessee, the discount rate for the lease is the rate implicit in the lease unless that rate cannot be readily determined. In that case, the lessee is required to use its incremental borrowing rate.
+For a lessor, the discount rate for the lease is the rate implicit in the lease.
+
+##### Fair Value
+
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+
+##### Finance Lease
+
+From the perspective of a lessee, a lease that meets one or more of the criteria in paragraph 842-10-25-2.
+From the perspective of a lessee, a lease that meets one or more of the criteria in paragraph 842-10-25-2.
+
+##### Incremental Borrowing        Rate
+
+The rate of interest that a lessee would have to pay to borrow on a collateralized basis over a similar term an amount equal to the lease payments in a similar economic environment.
+The rate of interest that a lessee would have to pay to borrow on a collateralized basis over a similar term an amount equal to the lease payments in a similar economic environment.
+
+##### Initial Direct                Costs
+
+Incremental costs of a lease that would not have been incurred if the lease had not been obtained.
+Incremental costs of a lease that would not have been incurred if the lease had not been obtained.
+
+##### Joint Venture
+
+An entity owned and operated by a small group of businesses (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a joint venture frequently is to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a joint venture. The ownership of a joint venture seldom changes, and its equity interests usually are not traded publicly. A minority public ownership, however, does not preclude an entity from being a joint venture. As distinguished from a corporate joint venture, a joint venture is not limited to corporate entities.
+An entity owned and operated by a small group of businesses (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a joint venture frequently is to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a joint venture. The ownership of a joint venture seldom changes, and its equity interests usually are not traded publicly. A minority public ownership, however, does not preclude an entity from being a joint venture. As distinguished from a corporate joint venture, a joint venture is not limited to corporate entities.
+
+##### Lease
+
+A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
+A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
+
+##### Lease Liability
+
+A lessee's obligation to make the lease payments arising from a lease, measured on a discounted basis.
+A lessee's obligation to make the lease payments arising from a lease, measured on a discounted basis.
+
+##### Lease                Modification
+
+A change to the terms and conditions of a contract that results in a change in the scope of or the consideration for a lease (for example, a change to the terms and conditions of the contract that adds or terminates the right to use one or more underlying assets or extends or shortens the contractual lease term).
+A change to the terms and conditions of a contract that results in a change in the scope of or the consideration for a lease (for example, a change to the terms and conditions of the contract that adds or terminates the right to use one or more underlying assets or extends or shortens the contractual lease term).
+
+##### Lease Payments
+
+See paragraph 842-10-30-5 for what constitutes lease payments from the perspective of a lessee and a lessor.
+See paragraph 842-10-30-5 for what constitutes lease payments from the perspective of a lessee and a lessor.
+
+##### Lease Term
+
+Periods covered by an option to extend the lease if the lessee is reasonably certain to exercise that option
+2. Periods covered by an option to terminate the lease if the lessee is reasonably certain not to exercise that option
+3. Periods covered by an option to extend (or not to terminate) the lease in which exercise of the option is controlled by the lessor.
+
+Periods covered by an option to extend the lease if the lessee is reasonably certain to exercise that option
+Periods covered by an option to terminate the lease if the lessee is reasonably certain not to exercise that option
+3. Periods covered by an option to extend (or not to terminate) the lease in which exercise of the option is controlled by the lessor.
+
+##### Legal Entity
+
+Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts.
+Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts.
+
+##### Lessee
+
+An entity that enters into a contract to obtain the right to use an underlying asset for a period of time in exchange for consideration.
+An entity that enters into a contract to obtain the right to use an underlying asset for a period of time in exchange for consideration.
+
+##### Lessor
+
+An entity that enters into a contract to provide the right to use an underlying asset for a period of time in exchange for consideration.
+An entity that enters into a contract to provide the right to use an underlying asset for a period of time in exchange for consideration.
+
+##### Market Participants
+
+1. They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
+3. They are able to enter into a transaction for the asset or liability
+4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
+
+They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
+3. They are able to enter into a transaction for the asset or liability
+4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
+
+##### Monetary Liability
+
+An obligation to pay a sum of money the amount of which is fixed or determinable without reference to future prices of specific goods and services.
+An obligation to pay a sum of money the amount of which is fixed or determinable without reference to future prices of specific goods and services.
+
+##### Not-for-Profit Entity
+
+1. Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
+2. Operating purposes other than to provide goods or services at a profit
+3. Absence of ownership interests like those of business entities.
+
+1. All investor-owned entities
+2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
+
+Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
+2. Operating purposes other than to provide goods or services at a profit
+3. Absence of ownership interests like those of business entities.
+
+All investor-owned entities
+2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
+
+##### Operating                Lease
+
+From the perspective of a lessee, any lease other than a finance lease.
+From the perspective of a lessor, any lease other than a sales-type lease or a direct financing lease.
+From the perspective of a lessee, any lease other than a finance lease.
+From the perspective of a lessor, any lease other than a sales-type lease or a direct financing lease.
+
+##### Orderly Transaction
+
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+
+##### Probable
+
+The future event or events are likely to occur.
+The future event or events are likely to occur.
+
+##### Rate Implicit in the        Lease
+
+The rate of interest that, at a given date, causes the aggregate present value of (a) the lease paymentsand (b) the amount that a lessor expects to derive from the underlying asset following the end of the lease termto equal the sum of (1) the fair value of the underlying asset minus any related investment tax credit retained and expected to be realized by the lessor and (2) any deferred initial direct costs of the lessor. However, if the rate determined in accordance with the preceding sentence is less than zero, a rate implicit in the lease of zero shall be used.
+The rate of interest that, at a given date, causes the aggregate present value of (a) the lease paymentsand (b) the amount that a lessor expects to derive from the underlying asset following the end of the lease termto equal the sum of (1) the fair value of the underlying asset minus any related investment tax credit retained and expected to be realized by the lessor and (2) any deferred initial direct costs of the lessor. However, if the rate determined in accordance with the preceding sentence is less than zero, a rate implicit in the lease of zero shall be used.
+
+##### Related Parties
+
+1. Affiliates of the entity
+2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
+3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
+4. Principal owners of the entity and members of their immediate families
+5. Management of the entity and members of their immediate families
+6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
+7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
+
+Affiliates of the entity
+2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
+3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
+4. Principal owners of the entity and members of their immediate families
+5. Management of the entity and members of their immediate families
+6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
+7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
+
+##### Residual Value                Guarantee
+
+A guarantee made to a lessor that the value of an underlying asset returned to the lessor at the end of a lease will be at least a specified amount.
+A guarantee made to a lessor that the value of an underlying asset returned to the lessor at the end of a lease will be at least a specified amount.
+
+##### Right-of-Use                Asset
+
+An asset that represents a lessee's right to use an underlying asset for the lease term.
+An asset that represents a lessee's right to use an underlying asset for the lease term.
+
+##### Sales-Type                Lease
+
+From the perspective of a lessor, a lease that meets one or more of the criteria in paragraph 842-10-25-2 and is not an operating lease in accordance with paragraph 842-10-25-3A.
+From the perspective of a lessor, a lease that meets one or more of the criteria in paragraph 842-10-25-2 and is not an operating lease in accordance with paragraph 842-10-25-3A.
+
+##### Short-Term Lease
+
+A lease that, at the commencement date, has a lease term of 12 months or less and does not include an option to purchase the underlying asset that the lessee is reasonably certain to exercise.
+A lease that, at the commencement date, has a lease term of 12 months or less and does not include an option to purchase the underlying asset that the lessee is reasonably certain to exercise.
+
+##### Sublease
+
+A transaction in which an underlying asset is re-leased by the lessee (or intermediate lessor) to a third party (the sublessee) and the original (or head) lease between the lessor and the lessee remains in effect.
+A transaction in which an underlying asset is re-leased by the lessee (or intermediate lessor) to a third party (the sublessee) and the original (or head) lease between the lessor and the lessee remains in effect.
+
+##### Underlying Asset
+
+An asset that is the subject of a lease for which a right to use that asset has been conveyed to a lessee. The underlying asset could be a physically distinct portion of a single asset.
+An asset that is the subject of a lease for which a right to use that asset has been conveyed to a lessee. The underlying asset could be a physically distinct portion of a single asset.
+
+##### Useful Life
+
+The period over which an asset is expected to contribute directly or indirectly to future cash flows.
+The period over which an asset is expected to contribute directly or indirectly to future cash flows.
+
+##### Variable Interest Entity
+
+A legal entity subject to consolidation according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
+A legal entity subject to consolidation according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
+
+##### Variable Lease        Payments
+
+Payments made by a lessee to a lessor for the right to use an underlying asset that vary because of changes in facts or circumstances occurring after the commencement date, other than the passage of time.
+Payments made by a lessee to a lessor for the right to use an underlying asset that vary because of changes in facts or circumstances occurring after the commencement date, other than the passage of time.
+
+## 25 Recognition
+
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+
+### General
+
+At the commencement date
+, a lessee shall recognize a right-of-use asset and a lease liability.
+At the commencement date
+**842-20-25-2** , a lessee shall recognize a right-of-use asset and a lease liability. > Short-Term Leases
+As an accounting policy, a lessee
+may elect not to apply the recognition requirements in this Subtopic to short-term leases. Instead, a lessee may recognize the lease payments in profit or loss on a straight-line basis over the lease term and variable lease payments in the period in which the obligation for those payments is incurred (consistent with paragraphs 842-20-55-1 through 55-2). The accounting policy election for short-term leases shall be made by class of underlying asset to which the right of use relates.
+As an accounting policy, a lessee
+**842-20-25-3** may elect not to apply the recognition requirements in this Subtopic to short-term leases. Instead, a lessee may recognize the lease payments in profit or loss on a straight-line basis over the lease term and variable lease payments in the period in which the obligation for those payments is incurred (consistent with paragraphs 842-20-55-1 through 55-2). The accounting policy election for short-term leases shall be made by class of underlying asset to which the right of use relates.
+If the lease term or the assessment of a lessee option to purchase the underlying asset changes such that, after the change, the remaining lease term extends more than 12 months from the end of the previously determined lease term or the lessee is reasonably certain to exercise its option to purchase the underlying asset, the lease no longer meets the definition of a short-term lease and the lessee shall apply the remainder of the guidance in this Topic as if the date of the change in circumstances is the commencement date
+.
+If the lease term or the assessment of a lessee option to purchase the underlying asset changes such that, after the change, the remaining lease term extends more than 12 months from the end of the previously determined lease term or the lessee is reasonably certain to exercise its option to purchase the underlying asset, the lease no longer meets the definition of a short-term lease and the lessee shall apply the remainder of the guidance in this Topic as if the date of the change in circumstances is the commencement date
+**842-20-25-4** .
+See Example 1 (paragraphs 842-20-55-13 through 55-16
+) for an illustration of the requirements on short-term leases.
+See Example 1 (paragraphs 842-20-55-13 through 55-16
+**842-20-25-5** ) for an illustration of the requirements on short-term leases. > Finance Leases
+After the commencement date
+1. Amortization of the right-of-use asset and interest on the lease liability
+2. Variable lease payments not included in the lease liability in the period in which the obligation for those payments is incurred (see paragraphs 842-20-55-1 through 55-2)
+3. Any impairment of the right-of-use asset determined in accordance with paragraph 842-20-35-9.
+
+After the commencement date
+1. Amortization of the right-of-use asset and interest on the lease liability
+2. Variable lease payments not included in the lease liability in the period in which the obligation for those payments is incurred (see paragraphs 842-20-55-1 through 55-2)
+3. Any impairment of the right-of-use asset determined in accordance with paragraph 842-20-35-9.
+
+**842-20-25-6** > Operating Leases
+After the commencement date
+1. A single lease cost, calculated so that the remaining cost of the lease (as described in paragraph 842-20-25-8) is allocated over the remaining lease term on a straight-line basis unless another systematic and rational basis is more representative of the pattern in which benefit is expected to be derived from the right to use the underlying asset (see paragraph 842-20-55-3), unless the right-of-use asset has been impaired in accordance with paragraph 842-20-35-9, in which case the single lease cost is calculated in accordance with paragraph 842-20-25-7
+2. Variable lease payments not included in the lease liability in the period in which the obligation for those payments is incurred (see paragraphs 842-20-55-1 through 55-2)
+3. Any impairment of the right-of-use asset determined in accordance with paragraph 842-20-35-9.
+
+After the commencement date
+1. A single lease cost, calculated so that the remaining cost of the lease (as described in paragraph 842-20-25-8) is allocated over the remaining lease term on a straight-line basis unless another systematic and rational basis is more representative of the pattern in which benefit is expected to be derived from the right to use the underlying asset (see paragraph 842-20-55-3), unless the right-of-use asset has been impaired in accordance with paragraph 842-20-35-9, in which case the single lease cost is calculated in accordance with paragraph 842-20-25-7
+2. Variable lease payments not included in the lease liability in the period in which the obligation for those payments is incurred (see paragraphs 842-20-55-1 through 55-2)
+3. Any impairment of the right-of-use asset determined in accordance with paragraph 842-20-35-9.
+
+Amortization of the remaining balance of the right-of-use asset after the impairment on a straight-line basis, unless another systematic basis is more representative of the pattern in which the lessee expects to consume the remaining economic benefits from its right to use the underlying asset
+2. Accretion of the lease liability, determined for each remaining period during the lease term as the amount that produces a constant periodic discount rate on the remaining balance of the liability.
+
+Amortization of the remaining balance of the right-of-use asset after the impairment on a straight-line basis, unless another systematic basis is more representative of the pattern in which the lessee expects to consume the remaining economic benefits from its right to use the underlying asset
+2. Accretion of the lease liability, determined for each remaining period during the lease term as the amount that produces a constant periodic discount rate on the remaining balance of the liability.
+
+Throughout the lease term, the remaining cost of an operating lease
+1. The total lease payments (including those paid and those not yet paid), reflecting any adjustment to that total amount resulting from either a remeasurement in accordance with paragraphs 842-10-35-4 through 35-5 or a lease modification; plus
+2. The total initial direct costs attributable to the lease; minus
+3. The periodic lease cost recognized in prior periods.
+
+Throughout the lease term, the remaining cost of an operating lease
+1. The total lease payments (including those paid and those not yet paid), reflecting any adjustment to that total amount resulting from either a remeasurement in accordance with paragraphs 842-10-35-4 through 35-5 or a lease modification; plus
+2. The total initial direct costs attributable to the lease; minus
+3. The periodic lease cost recognized in prior periods.
+
+## 30 Initial Measurement
+
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+
+### General
+
+**842-20-30-1** At the commencement date
+1. The lease liability at the present value of the lease payments not yet paid, discounted using the discount rate for the lease at lease commencement (as described in paragraphs 842-20-30-2 through 30-4)
+2. The right-of-use asset as described in paragraph 842-20-30-5.
+
+**842-20-30-1** At the commencement date
+1. The lease liability at the present value of the lease payments not yet paid, discounted using the discount rate for the lease at lease commencement (as described in paragraphs 842-20-30-2 through 30-4)
+2. The right-of-use asset as described in paragraph 842-20-30-5.
+
+**842-20-30-2** > Discount Rate for the Lease
+The discount rate for the lease
+initially used to determine the present value of the lease payments for a lessee is calculated on the basis of information available at the commencement date.
+**842-20-30-2** The discount rate for the lease
+**842-20-30-3** initially used to determine the present value of the lease payments for a lessee is calculated on the basis of information available at the commencement date.
+A lessee should use the rate implicit in the lease
+whenever that rate is readily determinable. If the rate implicit in the lease is not readily determinable, a lessee uses its incremental borrowing rate. A lessee that is not a public business entity is permitted to use a risk-free discount rate for the lease instead of its incremental borrowing rate, determined using a period comparable with that of the lease term, as an accounting policy election made by class of underlying asset.
+**842-20-30-3** A lessee should use the rate implicit in the lease
+**842-20-30-4** whenever that rate is readily determinable. If the rate implicit in the lease is not readily determinable, a lessee uses its incremental borrowing rate. A lessee that is not a public business entity is permitted to use a risk-free discount rate for the lease instead of its incremental borrowing rate, determined using a period comparable with that of the lease term, as an accounting policy election made by class of underlying asset.
+See Example 2 (paragraphs 842-20-55-17 through 55-20
+) for an illustration of the requirements on the discount rate.
+**842-20-30-4** See Example 2 (paragraphs 842-20-55-17 through 55-20
+**842-20-30-5** ) for an illustration of the requirements on the discount rate.> Initial Measurement of the Right-of-Use Asset
+At the commencement date
+1. The amount of the initial measurement of the lease liability
+2. Any lease payments made to the lessor at or before the commencement date, minus any lease incentives received
+3. Any initial direct costs incurred by the lessee (as described in paragraphs 842-10-30-9 through 30-10).
+
+**842-20-30-5** At the commencement date
+1. The amount of the initial measurement of the lease liability
+2. Any lease payments made to the lessor at or before the commencement date, minus any lease incentives received
+3. Any initial direct costs incurred by the lessee (as described in paragraphs 842-10-30-9 through 30-10).
+
+**842-20-30-6** See Example 3 (paragraphs 842-20-55-21 through 55-39
+) for an illustration of the requirements on lessee measurement of the lease term.
+**842-20-30-6** See Example 3 (paragraphs 842-20-55-21 through 55-39
+
+## 35 Subsequent Measurement
+
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+
+### General
+
+**842-20-35-1** Related Proposed ASUs
+After the commencement date
+1. The lease liability by increasing the carrying amount to reflect interest on the lease liability and reducing the carrying amount to reflect the lease payments made during the period. The lessee shall determine the interest on the lease liability in each period during the lease term as the amount that produces a constant periodic discount rate on the remaining balance of the liability, taking into consideration the reassessment requirements in paragraphs 842-10-35-1 through 35-5.
+2. The right-of-use asset at cost less any accumulated amortization and any accumulated impairment losses, taking into consideration the reassessment requirements in paragraphs 842-10-35-1 through 35-5.
+
+**842-20-35-1** After the commencement date
+1. The lease liability by increasing the carrying amount to reflect interest on the lease liability and reducing the carrying amount to reflect the lease payments made during the period. The lessee shall determine the interest on the lease liability in each period during the lease term as the amount that produces a constant periodic discount rate on the remaining balance of the liability, taking into consideration the reassessment requirements in paragraphs 842-10-35-1 through 35-5.
+2. The right-of-use asset at cost less any accumulated amortization and any accumulated impairment losses, taking into consideration the reassessment requirements in paragraphs 842-10-35-1 through 35-5.
+
+**842-20-35-2** A lessee shall recognize amortization of the right-of-use asset and interest on the lease liability for a finance lease in accordance with paragraph 842-20-25-5.
+**842-20-35-2** A lessee shall recognize amortization of the right-of-use asset and interest on the lease liability for a finance lease in accordance with paragraph 842-20-25-5.
+**842-20-35-3** After the commencement date, for an operating lease
+1. The lease liability at the present value of the lease payments not yet paid discounted using the discount rate for the lease established at the commencement date (unless the rate has been updated after the commencement date in accordance with paragraph 842-20-35-5, in which case that updated rate shall be used)
+1. Prepaid or accrued lease payments
+2. The remaining balance of any lease incentives received, which is the amount of the gross lease incentives received net of amounts recognized previously as part of the single lease cost described in paragraph 842-20-25-6(a)
+3. Unamortized initial direct costs
+4. Impairment of the right-of-use asset.
+
+**842-20-35-3** After the commencement date, for an operating lease
+1. The lease liability at the present value of the lease payments not yet paid discounted using the discount rate for the lease established at the commencement date (unless the rate has been updated after the commencement date in accordance with paragraph 842-20-35-5, in which case that updated rate shall be used)
+1. Prepaid or accrued lease payments
+2. The remaining balance of any lease incentives received, which is the amount of the gross lease incentives received net of amounts recognized previously as part of the single lease cost described in paragraph 842-20-25-6(a)
+3. Unamortized initial direct costs
+4. Impairment of the right-of-use asset.
+
+**842-20-35-4** > Remeasurement of the Lease Liability
+After the commencement date
+, a lessee shall remeasure the lease liability to reflect changes to the lease payments as described in paragraphs 842-10-35-4 through 35-5. A lessee shall recognize the amount of the remeasurement of the lease liability as an adjustment to the right-of-use asset. However, if the carrying amount of the right-of-use asset is reduced to zero, a lessee shall recognize any remaining amount of the remeasurement in profit or loss.
+**842-20-35-4** After the commencement date
+**842-20-35-5** , a lessee shall remeasure the lease liability to reflect changes to the lease payments as described in paragraphs 842-10-35-4 through 35-5. A lessee shall recognize the amount of the remeasurement of the lease liability as an adjustment to the right-of-use asset. However, if the carrying amount of the right-of-use asset is reduced to zero, a lessee shall recognize any remaining amount of the remeasurement in profit or loss.
+If there is a remeasurement of the lease liability in accordance with paragraph 842-20-35-4, the lessee shall update the discount rate for the lease
+1. A change in the lease term or the assessment of whether the lessee will exercise an option to purchase the underlying asset and the discount rate for the lease already reflects that the lessee has an option to extend or terminate the lease or to purchase the underlying asset.
+2. A change in amounts probable of being owed by the lessee under a residual value guarantee (see paragraph 842-10-35-4(c)(3)).
+3. A change in the lease payments resulting from the resolution of a contingency upon which some or all of the variable lease payments that will be paid over the remainder of the lease term are based (see paragraph 842-10-35-4(b)).
+
+**842-20-35-5** If there is a remeasurement of the lease liability in accordance with paragraph 842-20-35-4, the lessee shall update the discount rate for the lease
+1. A change in the lease term or the assessment of whether the lessee will exercise an option to purchase the underlying asset and the discount rate for the lease already reflects that the lessee has an option to extend or terminate the lease or to purchase the underlying asset.
+2. A change in amounts probable of being owed by the lessee under a residual value guarantee (see paragraph 842-10-35-4(c)(3)).
+3. A change in the lease payments resulting from the resolution of a contingency upon which some or all of the variable lease payments that will be paid over the remainder of the lease term are based (see paragraph 842-10-35-4(b)).
+
+**842-20-35-6** See Examples 3 and 4 (paragraphs 842-20-55-21 through 55-46
+) for an illustration of the requirements on lessee subsequent measurement.
+**842-20-35-6** See Examples 3 and 4 (paragraphs 842-20-55-21 through 55-46
+**842-20-35-7** ) for an illustration of the requirements on lessee subsequent measurement.> Amortization of the Right-of-Use Asset for a Finance Lease
+A lessee
+shall amortize the right-of-use asset on a straight-line basis, unless another systematic basis is more representative of the pattern in which the lessee expects to consume the right-of-use asset's future economic benefits. When the lease liability is remeasured and the right-of-use asset is adjusted in accordance with paragraph 842-20-35-4, amortization of the right-of-use asset shall be adjusted prospectively from the date of remeasurement.
+**842-20-35-7** A lessee
+**842-20-35-8** shall amortize the right-of-use asset on a straight-line basis, unless another systematic basis is more representative of the pattern in which the lessee expects to consume the right-of-use asset's future economic benefits. When the lease liability is remeasured and the right-of-use asset is adjusted in accordance with paragraph 842-20-35-4, amortization of the right-of-use asset shall be adjusted prospectively from the date of remeasurement.
+A lessee shall amortize the right-of-use asset from the commencement date
+to the earlier of the end of the useful life of the right-of-use asset or the end of the lease term. However, if the lease transfers ownership of the underlying asset to the lessee or the lessee is reasonably certain to exercise an option to purchase the underlying asset, the lessee shall amortize the right-of-use asset to the end of the useful life of the underlying asset.
+**842-20-35-8** A lessee shall amortize the right-of-use asset from the commencement date
+**842-20-35-9** to the earlier of the end of the useful life of the right-of-use asset or the end of the lease term. However, if the lease transfers ownership of the underlying asset to the lessee or the lessee is reasonably certain to exercise an option to purchase the underlying asset, the lessee shall amortize the right-of-use asset to the end of the useful life of the underlying asset.> Impairment of a Right-of-Use Asset
+A lessee
+shall determine whether a right-of-use asset is impaired and shall recognize any impairment loss in accordance with Section 360-10-35 on impairment or disposal of long-lived assets.
+**842-20-35-9** A lessee
+**842-20-35-10** shall determine whether a right-of-use asset is impaired and shall recognize any impairment loss in accordance with Section 360-10-35 on impairment or disposal of long-lived assets.
+If a right-of-use asset is impaired in accordance with paragraph 842-20-35-9, after the impairment, it shall be measured at its carrying amount immediately after the impairment less any accumulated amortization. A lessee shall amortize, in accordance with paragraph 842-20-25-7 (for an operating lease
+) or paragraph 842-20-35-7 (for a finance lease), the right-of-use asset from the date of the impairment to the earlier of the end of the useful life of the right-of-use asset or the end of the lease term.
+**842-20-35-10** If a right-of-use asset is impaired in accordance with paragraph 842-20-35-9, after the impairment, it shall be measured at its carrying amount immediately after the impairment less any accumulated amortization. A lessee shall amortize, in accordance with paragraph 842-20-25-7 (for an operating lease
+**842-20-35-11** ) or paragraph 842-20-35-7 (for a finance lease), the right-of-use asset from the date of the impairment to the earlier of the end of the useful life of the right-of-use asset or the end of the lease term.
+See Example 5 (paragraphs 842-20-55-47 through 55-51
+) for an illustration of the requirements for impairment of a right-of-use asset.
+**842-20-35-11** See Example 5 (paragraphs 842-20-55-47 through 55-51
+**842-20-35-12** ) for an illustration of the requirements for impairment of a right-of-use asset.> Amortization of Leasehold Improvements
+Leasehold improvements, other than those accounted for in accordance with paragraph 842-20-35-12A, shall be amortized over the shorter of the useful life
+of those leasehold improvements and the remaining lease term, unless the lease transfers ownership of the underlying asset to the lessee or the lessee is reasonably certain to exercise an option to purchase the underlying asset, in which case the lessee shall amortize the leasehold improvements to the end of their useful life.
+**842-20-35-12** Leasehold improvements, other than those accounted for in accordance with paragraph 842-20-35-12A, shall be amortized over the shorter of the useful life
+**842-20-35-12A** of those leasehold improvements and the remaining lease term, unless the lease transfers ownership of the underlying asset to the lessee or the lessee is reasonably certain to exercise an option to purchase the underlying asset, in which case the lessee shall amortize the leasehold improvements to the end of their useful life.
+Amortized over the useful life of those improvements to the common control group as long as the lessee controls the use of the underlying asset through a lease. If the lessor
+1. obtained the right to control the use of the underlying asset through a lease with another entity not within the same common control group, the amortization period shall not exceed the amortization period of the common control group determined in accordance with paragraph 842-20-35-12.
+2. Accounted for as a transfer between entities under common control through an adjustment to equity (net assets for a not-for-profit entity) when the lessee no longer controls the use of the underlying asset.
+
+**842-20-35-12A** Amortized over the useful life of those improvements to the common control group as long as the lessee controls the use of the underlying asset through a lease. If the lessor
+1. obtained the right to control the use of the underlying asset through a lease with another entity not within the same common control group, the amortization period shall not exceed the amortization period of the common control group determined in accordance with paragraph 842-20-35-12.
+2. Accounted for as a transfer between entities under common control through an adjustment to equity (net assets for a not-for-profit entity) when the lessee no longer controls the use of the underlying asset.
+
+**842-20-35-12B** An entity with leasehold improvements accounted for in accordance with paragraph 842-20-35-12A shall apply the impairment requirements in paragraph 360-10-40-4, considering the useful life to the common control group.
+**842-20-35-12B** An entity with leasehold improvements accounted for in accordance with paragraph 842-20-35-12A shall apply the impairment requirements in paragraph 360-10-40-4, considering the useful life to the common control group.
+**842-20-35-12C** If after the commencement date
+the lessee and lessor become within the same common control group or are no longer within the same common control group, any change in the required amortization period for leasehold improvements shall be accounted for prospectively as a change in accounting estimate in accordance with paragraph 250-10-45-17.
+**842-20-35-12C** If after the commencement date
+**842-20-35-13** the lessee and lessor become within the same common control group or are no longer within the same common control group, any change in the required amortization period for leasehold improvements shall be accounted for prospectively as a change in accounting estimate in accordance with paragraph 250-10-45-17.
+Leasehold improvements acquired in a business combination
+or an acquisition by a not-for-profit entity shall be amortized over the shorter of the useful life of the assets and the remaining lease term at the date of acquisition.PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1Leasehold improvements acquired in a business combination, acquired in an acquisition by a not-for-profit entity, or recognized by a joint venture upon formation shall be amortized over the shorter of the useful life of the assets and the remaining lease term at the date of acquisition.
+**842-20-35-13** Leasehold improvements acquired in a business combination
+**842-20-35-14** or an acquisition by a not-for-profit entity shall be amortized over the shorter of the useful life of the assets and the remaining lease term at the date of acquisition.PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1Leasehold improvements acquired in a business combination, acquired in an acquisition by a not-for-profit entity, or recognized by a joint venture upon formation shall be amortized over the shorter of the useful life of the assets and the remaining lease term at the date of acquisition.> Subleases
+If the nature of a sublease
+1. If the sublease is classified as an operating lease, the original lessee shall continue to account for the original lease as it did before commencement of the sublease. If the lease cost for the term of the sublease exceeds the anticipated sublease income for that same period, the original lessee shall treat that circumstance as an indicator that the carrying amount of the right-of-use asset associated with the original lease may not be recoverable in accordance with paragraph 360-10-35-21.
+2. If the original lease is classified as a finance lease and the sublease is classified as a sales-type lease or a direct financing lease, the original lessee shall derecognize the original right-of-use asset in accordance with paragraph 842-30-40-1 and continue to account for the original lease liability as it did before commencement of the sublease. The original lessee shall evaluate its investment in the sublease for impairment in accordance with paragraph 842-30-35-3.
+3. If the original lease is classified as an operating lease and the sublease is classified as a sales-type lease or a direct financing lease, the original lessee shall derecognize the original right-of-use asset in accordance with paragraph 842-30-40-1 and, from the sublease commencement date, account for the original lease liability in accordance with paragraphs 842-20-35-1 through 35-2. The original lessee shall evaluate its investment in the sublease for impairment in accordance with paragraph 842-30-35-3.
+
+**842-20-35-14** If the nature of a sublease
+1. If the sublease is classified as an operating lease, the original lessee shall continue to account for the original lease as it did before commencement of the sublease. If the lease cost for the term of the sublease exceeds the anticipated sublease income for that same period, the original lessee shall treat that circumstance as an indicator that the carrying amount of the right-of-use asset associated with the original lease may not be recoverable in accordance with paragraph 360-10-35-21.
+2. If the original lease is classified as a finance lease and the sublease is classified as a sales-type lease or a direct financing lease, the original lessee shall derecognize the original right-of-use asset in accordance with paragraph 842-30-40-1 and continue to account for the original lease liability as it did before commencement of the sublease. The original lessee shall evaluate its investment in the sublease for impairment in accordance with paragraph 842-30-35-3.
+3. If the original lease is classified as an operating lease and the sublease is classified as a sales-type lease or a direct financing lease, the original lessee shall derecognize the original right-of-use asset in accordance with paragraph 842-30-40-1 and, from the sublease commencement date, account for the original lease liability in accordance with paragraphs 842-20-35-1 through 35-2. The original lessee shall evaluate its investment in the sublease for impairment in accordance with paragraph 842-30-35-3.
+
+**842-20-35-15** The original lessee (as sublessor) in a sublease shall use the rate implicit in the lease
+to determine the classification of the sublease and to measure the net investment in the sublease if the sublease is classified as a sales-type or a direct financing lease unless that rate cannot be readily determined. If the rate implicit in the lease cannot be readily determined, the original lessee may use the discount rate for the lease established for the original (or head) lease.
+**842-20-35-15** The original lessee (as sublessor) in a sublease shall use the rate implicit in the lease
+
+## 40 Derecognition
+
+General Note:The Derecognition Section provides guidance on determining whether and when an entity should remove an item from the financial statements. For example, the entity would derecognize an asset because it no longer has rights to the asset or it would derecognize a liability because it no longer has any obligation.
+
+### General
+
+**842-20-40-1** > Lease Termination
+A termination of a lease
+before the expiration of the lease term shall be accounted for by the lessee by removing the right-of-use asset and the lease liability, with profit or loss recognized for the difference.
+A termination of a lease
+
+##### · > Purchase of the Underlying Asset
+
+**842-20-40-2** before the expiration of the lease term shall be accounted for by the lessee by removing the right-of-use asset and the lease liability, with profit or loss recognized for the difference.
+The termination of a lease
+that results from the purchase of an underlying asset by the lessee is not the type of termination of a lease contemplated by paragraph 842-20-40-1 but, rather, is an integral part of the purchase of the underlying asset. If the lessee purchases the underlying asset, any difference between the purchase price and the carrying amount of the lease liability immediately before the purchase shall be recorded by the lessee as an adjustment of the carrying amount of the asset. However, this paragraph does not apply to underlying assets acquired in a business combination, which are initially measured at fair value in accordance with paragraph 805-20-30-1.
+The termination of a lease
+**842-20-40-3** that results from the purchase of an underlying asset by the lessee is not the type of termination of a lease contemplated by paragraph 842-20-40-1 but, rather, is an integral part of the purchase of the underlying asset. If the lessee purchases the underlying asset, any difference between the purchase price and the carrying amount of the lease liability immediately before the purchase shall be recorded by the lessee as an adjustment of the carrying amount of the asset. However, this paragraph does not apply to underlying assets acquired in a business combination, which are initially measured at fair value in accordance with paragraph 805-20-30-1. > Subleases
+If the nature of a sublease
+is such that the original lessee is relieved of the primary obligation under the original lease, the transaction shall be considered a termination of the original lease. Paragraph 842-20-35-14 addresses subleases in which the original lessee is not relieved of the primary obligation under the original lease. Any consideration paid or received upon termination that was not already included in the lease payments (for example, a termination payment that was not included in the lease payments based on the lease term) shall be included in the determination of profit or loss to be recognized in accordance with paragraph 842-20-40-1. If a sublease is a termination of the original lease and the original lessee is secondarily liable, the guarantee obligation shall be recognized by the lessee in accordance with paragraph 405-20-40-2.
+If the nature of a sublease
+
+## 45 Other Presentation Matters
+
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+
+### General
+
+**842-20-45-1** Related Proposed ASUs > Statement of Financial Position
+A lessee
+1. Finance lease right-of-use assets and operating lease right-of-use assets separately from each other and from other assets
+2. Finance lease liabilities and operating lease liabilities separately from each other and from other liabilities.
+
+Right-of-use assets and lease liabilities shall be subject to the same considerations as other nonfinancial assets and financial liabilities in classifying them as current and noncurrent in classified statements of financial position.
+A lessee
+1. Finance lease right-of-use assets and operating lease right-of-use assets separately from each other and from other assets
+2. Finance lease liabilities and operating lease liabilities separately from each other and from other liabilities.
+
+**842-20-45-2** Right-of-use assets and lease liabilities shall be subject to the same considerations as other nonfinancial assets and financial liabilities in classifying them as current and noncurrent in classified statements of financial position.
+If a lessee does not present finance lease and operating lease right-of-use assets and lease liabilities separately in the statement of financial position, the lessee shall disclose which line items in the statement of financial position include those right-of-use assets and lease liabilities.
+If a lessee does not present finance lease and operating lease right-of-use assets and lease liabilities separately in the statement of financial position, the lessee shall disclose which line items in the statement of financial position include those right-of-use assets and lease liabilities.
+Finance lease right-of-use assets in the same line item as operating lease right-of-use assets
+2. Finance lease liabilities in the same line item as operating lease liabilities.
+
+Finance lease right-of-use assets in the same line item as operating lease right-of-use assets
+2. Finance lease liabilities in the same line item as operating lease liabilities.
+
+**842-20-45-4** > Statement of Comprehensive Income
+In the statement of comprehensive income, a lessee
+1. For finance leases, the interest expense on the lease liability and amortization of the right-of-use asset are not required to be presented as separate line items and shall be presented in a manner consistent with how the entity presents other interest expense and depreciation or amortization of similar assets, respectively
+2. For operating leases, lease expense shall be included in the lessee's income from continuing operations.
+
+In the statement of comprehensive income, a lessee
+1. For finance leases, the interest expense on the lease liability and amortization of the right-of-use asset are not required to be presented as separate line items and shall be presented in a manner consistent with how the entity presents other interest expense and depreciation or amortization of similar assets, respectively
+2. For operating leases, lease expense shall be included in the lessee's income from continuing operations.
+
+**842-20-45-5** > Statement of Cash Flows
+In the statement of cash flows, a lessee
+1. Repayments of the principal portion of the lease liability arising from finance leases within financing activities
+2. Interest on the lease liability arising from finance leases in accordance with the requirements relating to interest paid in Topic 230 on cash flows
+3. Payments arising from operating leases within operating activities, except to the extent that those payments represent costs to bring another asset to the condition and location necessary for its intended use, which should be classified within investing activities
+4. Variable lease payments and short-term lease payments not included in the lease liability within operating activities.
+
+In the statement of cash flows, a lessee
+1. Repayments of the principal portion of the lease liability arising from finance leases within financing activities
+2. Interest on the lease liability arising from finance leases in accordance with the requirements relating to interest paid in Topic 230 on cash flows
+3. Payments arising from operating leases within operating activities, except to the extent that those payments represent costs to bring another asset to the condition and location necessary for its intended use, which should be classified within investing activities
+4. Variable lease payments and short-term lease payments not included in the lease liability within operating activities.
+
+## 50 Disclosure
+
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+
+### General
+
+**842-20-50-1** Related Proposed ASUs
+The objective of the disclosure requirements is to enable users of financial statements to assess the amount, timing, and uncertainty of cash flows arising from leases
+1. Its leases (as described in paragraphs 842-20-50-3(a) through (b) and 842-20-50-7 through 50-10)
+2. The significant judgments made in applying the requirements in this Topic to those leases (as described in paragraph 842-20-50-3(c))
+3. The amounts recognized in the financial statements relating to those leases (as described in paragraphs 842-20-50-4 and 842-20-50-6).
+
+**842-20-50-1** The objective of the disclosure requirements is to enable users of financial statements to assess the amount, timing, and uncertainty of cash flows arising from leases
+1. Its leases (as described in paragraphs 842-20-50-3(a) through (b) and 842-20-50-7 through 50-10)
+2. The significant judgments made in applying the requirements in this Topic to those leases (as described in paragraph 842-20-50-3(c))
+3. The amounts recognized in the financial statements relating to those leases (as described in paragraphs 842-20-50-4 and 842-20-50-6).
+
+**842-20-50-2** A lessee shall consider the level of detail necessary to satisfy the disclosure objective and how much emphasis to place on each of the various requirements. A lessee shall aggregate or disaggregate disclosures so that useful information is not obscured by including a large amount of insignificant detail or by aggregating items that have different characteristics.
+**842-20-50-2** A lessee shall consider the level of detail necessary to satisfy the disclosure objective and how much emphasis to place on each of the various requirements. A lessee shall aggregate or disaggregate disclosures so that useful information is not obscured by including a large amount of insignificant detail or by aggregating items that have different characteristics.
+**842-20-50-3** Information about the nature of its leases, including:
+1. A general description of those leases.
+2. The basis and terms and conditions on which variable lease payments are determined.
+3. The existence and terms and conditions of options to extend or terminate the lease. A lessee should provide narrative disclosure about the options that are recognized as part of its right-of-use assets and lease liabilities and those that are not.
+4. The existence and terms and conditions of residual value guarantees provided by the lessee.
+5. The restrictions or covenants imposed by leases, for example, those relating to dividends or incurring additional financial obligations.
+
+5. A lessee should identify the information relating to subleases included in the disclosures provided in (1) through (5), as applicable.
+6. Information about leases that have not yet commenced but that create significant rights and obligations for the lessee, including the nature of any involvement with the construction or design of the underlying asset.
+1. The determination of whether a contract contains a lease (as described in paragraphs 842-10-15-2 through 15-27)
+2. The allocation of the consideration in a contract between lease and nonlease components (as described in paragraphs 842-10-15-28 through 15-32)
+3. The determination of the discount rate for the lease (as described in paragraphs 842-20-30-2 through 30-4).
+
+**842-20-50-3** Information about the nature of its leases, including:
+1. A general description of those leases.
+2. The basis and terms and conditions on which variable lease payments are determined.
+3. The existence and terms and conditions of options to extend or terminate the lease. A lessee should provide narrative disclosure about the options that are recognized as part of its right-of-use assets and lease liabilities and those that are not.
+4. The existence and terms and conditions of residual value guarantees provided by the lessee.
+5. The restrictions or covenants imposed by leases, for example, those relating to dividends or incurring additional financial obligations.
+
+5. A lessee should identify the information relating to subleases included in the disclosures provided in (1) through (5), as applicable.
+6. Information about leases that have not yet commenced but that create significant rights and obligations for the lessee, including the nature of any involvement with the construction or design of the underlying asset.
+1. The determination of whether a contract contains a lease (as described in paragraphs 842-10-15-2 through 15-27)
+2. The allocation of the consideration in a contract between lease and nonlease components (as described in paragraphs 842-10-15-28 through 15-32)
+3. The determination of the discount rate for the lease (as described in paragraphs 842-20-30-2 through 30-4).
+
+**842-20-50-4** Finance lease
+1. cost, segregated between the amortization of the right-of-use assets and interest on the lease liabilities.
+2. Operating lease cost determined in accordance with paragraphs 842-20-25-6(a) and 842-20-25-7.
+3. Short-term lease cost, excluding expenses relating to leases with a lease term of one month or less, determined in accordance with paragraph 842-20-25-2.
+4. Variable lease cost determined in accordance with paragraphs 842-20-25-5(b) and 842-20-25-6(b).
+5. Sublease income, disclosed on a gross basis, separate from the finance or operating lease expense.
+6. Net gain or loss recognized from sale and leaseback transactions in accordance with paragraph 842-40-25-4.
+1. Cash paid for amounts included in the measurement of lease liabilities, segregated between operating and financing cash flows
+2. Supplemental noncash information on lease liabilities arising from obtaining right-of-use assets
+3. Weighted-average remaining lease term
+4. Weighted-average discount rate.
+
+1. Finance lease cost, segregated between the amortization of the right-of-use assets and interest on the lease liabilities.
+2. Operating lease cost determined in accordance with paragraphs 842-20-25-6(a) and 842-20-25-7.
+3. Short-term lease cost, excluding expenses relating to leases with a lease term of one month or less, determined in accordance with paragraph 842-20-25-2.
+4. Variable lease cost determined in accordance with paragraphs 842-20-25-5(b) and 842-20-25-6(b).
+5. Sublease income, disclosed on a gross basis, separate from the finance or operating lease expense.
+6. Net gain or loss recognized from sale and leaseback transactions in accordance with paragraph 842-40-25-4.
+1. Cash paid for amounts included in the measurement of lease liabilities, segregated between operating and financing cash flows
+2. Supplemental noncash information on lease liabilities arising from obtaining right-of-use assets
+3. Weighted-average remaining lease term
+4. Weighted-average discount rate.
+
+See paragraphs 220-40-50-21 through 50-25 for additional disclosure requirements.
+**842-20-50-4** Finance lease
+1. cost, segregated between the amortization of the right-of-use assets and interest on the lease liabilities.
+2. Operating lease cost determined in accordance with paragraphs 842-20-25-6(a) and 842-20-25-7.
+3. Short-term lease cost, excluding expenses relating to leases with a lease term of one month or less, determined in accordance with paragraph 842-20-25-2.
+4. Variable lease cost determined in accordance with paragraphs 842-20-25-5(b) and 842-20-25-6(b).
+5. Sublease income, disclosed on a gross basis, separate from the finance or operating lease expense.
+6. Net gain or loss recognized from sale and leaseback transactions in accordance with paragraph 842-40-25-4.
+1. Cash paid for amounts included in the measurement of lease liabilities, segregated between operating and financing cash flows
+2. Supplemental noncash information on lease liabilities arising from obtaining right-of-use assets
+3. Weighted-average remaining lease term
+4. Weighted-average discount rate.
+
+1. Finance lease cost, segregated between the amortization of the right-of-use assets and interest on the lease liabilities.
+2. Operating lease cost determined in accordance with paragraphs 842-20-25-6(a) and 842-20-25-7.
+3. Short-term lease cost, excluding expenses relating to leases with a lease term of one month or less, determined in accordance with paragraph 842-20-25-2.
+4. Variable lease cost determined in accordance with paragraphs 842-20-25-5(b) and 842-20-25-6(b).
+5. Sublease income, disclosed on a gross basis, separate from the finance or operating lease expense.
+6. Net gain or loss recognized from sale and leaseback transactions in accordance with paragraph 842-40-25-4.
+1. Cash paid for amounts included in the measurement of lease liabilities, segregated between operating and financing cash flows
+2. Supplemental noncash information on lease liabilities arising from obtaining right-of-use assets
+3. Weighted-average remaining lease term
+4. Weighted-average discount rate.
+
+See paragraphs 220-40-50-21 through 50-25
+**842-20-50-5** for additional disclosure requirements.
+See paragraphs 842-20-55-11 through 55-12
+for implementation guidance on preparing the weighted-average remaining lease term and the weighted-average discount rate disclosures. See Example 6 (paragraphs 842-20-55-52 through 55-53) for an illustration of the lessee quantitative disclosure requirements in paragraph 842-20-50-4.
+**842-20-50-5** See paragraphs 842-20-55-11 through 55-12
+**842-20-50-6** for implementation guidance on preparing the weighted-average remaining lease term and the weighted-average discount rate disclosures. See Example 6 (paragraphs 842-20-55-52 through 55-53) for an illustration of the lessee quantitative disclosure requirements in paragraph 842-20-50-4.
+A lessee shall disclose a maturity analysis of its finance lease liabilities and its operating lease liabilities separately, showing the undiscounted cash flows on an annual basis for a minimum of each of the first five years and a total of the amounts for the remaining years. A lessee shall disclose a reconciliation of the undiscounted cash flows to the finance lease liabilities and operating lease liabilities recognized in the statement of financial position.
+**842-20-50-6** A lessee shall disclose a maturity analysis of its finance lease liabilities and its operating lease liabilities separately, showing the undiscounted cash flows on an annual basis for a minimum of each of the first five years and a total of the amounts for the remaining years. A lessee shall disclose a reconciliation of the undiscounted cash flows to the finance lease liabilities and operating lease liabilities recognized in the statement of financial position.
+**842-20-50-7** A lessee shall disclose lease transactions between related parties in accordance with paragraphs 850-10-50-1 through 50-6
+.
+**842-20-50-7** A lessee shall disclose lease transactions between related parties in accordance with paragraphs 850-10-50-1 through 50-6
+**842-20-50-7A** .
+When the useful life
+1. The unamortized balance of the leasehold improvements at the balance sheet date
+2. The remaining useful life of the leasehold improvements to the common control group
+3. The remaining lease term.
+
+**842-20-50-7A** When the useful life
+1. The unamortized balance of the leasehold improvements at the balance sheet date
+2. The remaining useful life of the leasehold improvements to the common control group
+3. The remaining lease term.
+
+**842-20-50-8** A lessee that accounts for short-term leases in accordance with paragraph 842-20-25-2 shall disclose that fact. If the short-term lease expense for the period does not reasonably reflect the lessee's short-term lease commitments, a lessee shall disclose that fact and the amount of its short-term lease commitments.
+**842-20-50-8** A lessee that accounts for short-term leases in accordance with paragraph 842-20-25-2 shall disclose that fact. If the short-term lease expense for the period does not reasonably reflect the lessee's short-term lease commitments, a lessee shall disclose that fact and the amount of its short-term lease commitments.
+**842-20-50-9** A lessee that elects the practical expedient on not separating lease components from nonlease components in paragraph 842-10-15-37 shall disclose its accounting policy election and which class or classes of underlying assets it has elected to apply the practical expedient.
+**842-20-50-9** A lessee that elects the practical expedient on not separating lease components from nonlease components in paragraph 842-10-15-37 shall disclose its accounting policy election and which class or classes of underlying assets it has elected to apply the practical expedient.
+**842-20-50-10** A lessee that makes the accounting policy election in paragraph 842-20-30-3 to use a risk-free rate as the discount rate shall disclose its election and the class or classes of underlying assets to which the election has been applied.
+**842-20-50-10** A lessee that makes the accounting policy election in paragraph 842-20-30-3 to use a risk-free rate as the discount rate shall disclose its election and the class or classes of underlying assets to which the election has been applied.
+
+## 55 Implementation Guidance and Illustrations
+
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+
+### General
+
+##### · > Recognition of Costs from Variable Lease Payments
+
+**842-20-55-1** > Implementation Guidance
+A lessee
+should recognize costs from variable lease payments (in annual periods as well as in interim periods) before the achievement of the specified target that triggers the variable lease payments, provided the achievement of that target is considered probable.
+A lessee
+**842-20-55-2** should recognize costs from variable lease payments (in annual periods as well as in interim periods) before the achievement of the specified target that triggers the variable lease payments, provided the achievement of that target is considered probable.
+Variable lease costs recognized in accordance with paragraph 842-20-55-1 should be reversed at such time that it is probable that the specified target will not be met.
+Variable lease costs recognized in accordance with paragraph 842-20-55-1 should be reversed at such time that it is probable that the specified target will not be met.
+
+##### · > Pattern of Benefit from Use of the Underlying Asset
+
+This Subtopic considers the right to control the use of the underlying asset
+as the equivalent of physical use. If the lessee controls the use of the underlying asset, recognition of lease cost in accordance with paragraph 842-20-25-6(a) or amortization of the right-of-use asset in accordance with paragraph 842-20-35-7 should not be affected by the extent to which the lessee uses the underlying asset.
+This Subtopic considers the right to control the use of the underlying asset
+
+##### · > Maintenance Deposits
+
+**842-20-55-4** as the equivalent of physical use. If the lessee controls the use of the underlying asset, recognition of lease cost in accordance with paragraph 842-20-25-6(a) or amortization of the right-of-use asset in accordance with paragraph 842-20-35-7 should not be affected by the extent to which the lessee uses the underlying asset.
+Under certain leases
+(for example, certain equipment leases), a lessee is legally or contractually responsible for repair and maintenance of the underlying asset throughout the lease term. Additionally, certain lease agreements include provisions requiring the lessee to make deposits to the lessor to financially protect the lessor in the event the lessee does not properly maintain the underlying asset. Lease agreements often refer to these deposits as maintenance reserves or supplemental rent. However, the lessor is required to reimburse the deposits to the lessee on the completion of maintenance activities that the lessee is contractually required to perform under the lease agreement.
+Under certain leases
+**842-20-55-5** (for example, certain equipment leases), a lessee is legally or contractually responsible for repair and maintenance of the underlying asset throughout the lease term. Additionally, certain lease agreements include provisions requiring the lessee to make deposits to the lessor to financially protect the lessor in the event the lessee does not properly maintain the underlying asset. Lease agreements often refer to these deposits as maintenance reserves or supplemental rent. However, the lessor is required to reimburse the deposits to the lessee on the completion of maintenance activities that the lessee is contractually required to perform under the lease agreement.
+Under a typical arrangement, maintenance deposits are calculated on the basis of a performance measure, such as hours of use of the underlying asset, and are contractually required under the terms of the lease agreement to be used to reimburse the lessee for required maintenance of the underlying asset on the completion of that maintenance. The lessor is contractually required to reimburse the lessee for the maintenance costs paid by the lessee, to the extent of the amounts on deposit.
+Under a typical arrangement, maintenance deposits are calculated on the basis of a performance measure, such as hours of use of the underlying asset, and are contractually required under the terms of the lease agreement to be used to reimburse the lessee for required maintenance of the underlying asset on the completion of that maintenance. The lessor is contractually required to reimburse the lessee for the maintenance costs paid by the lessee, to the extent of the amounts on deposit.
+In some cases, the total cost of cumulative maintenance events over the term of the lease is less than the cumulative deposits, which results in excess amounts on deposit at the expiration of the lease. In those cases, some lease agreements provide that the lessor is entitled to retain such excess amounts, whereas other agreements specifically provide that, at the expiration of the lease agreement, such excess amounts are returned to the lessee (refundable maintenance deposit).
+In some cases, the total cost of cumulative maintenance events over the term of the lease is less than the cumulative deposits, which results in excess amounts on deposit at the expiration of the lease. In those cases, some lease agreements provide that the lessor is entitled to retain such excess amounts, whereas other agreements specifically provide that, at the expiration of the lease agreement, such excess amounts are returned to the lessee (refundable maintenance deposit).
+The guidance in paragraphs 842-20-55-8 through 55-9
+does not apply to payments to a lessor that are not substantively and contractually related to maintenance of the leased asset. If at the commencement date a lessee determines that it is less than probable that the total amount of payments will be returned to the lessee as a reimbursement for maintenance activities, the lessee should consider that when determining the portion of each payment that is not addressed by the guidance in paragraphs 842-20-55-8 through 55-9.
+The guidance in paragraphs 842-20-55-8 through 55-9
+**842-20-55-8** does not apply to payments to a lessor that are not substantively and contractually related to maintenance of the leased asset. If at the commencement date a lessee determines that it is less than probable that the total amount of payments will be returned to the lessee as a reimbursement for maintenance activities, the lessee should consider that when determining the portion of each payment that is not addressed by the guidance in paragraphs 842-20-55-8 through 55-9.
+Maintenance deposits paid by a lessee under an arrangement accounted for as a lease that are refunded only if the lessee performs specified maintenance activities should be accounted for as a deposit asset.
+Maintenance deposits paid by a lessee under an arrangement accounted for as a lease that are refunded only if the lessee performs specified maintenance activities should be accounted for as a deposit asset.
+A lessee should evaluate whether it is probable that an amount on deposit recognized under paragraph 842-20-55-8 will be returned to reimburse the costs of the maintenance activities incurred by the lessee. When an amount on deposit is less than probable of being returned, it should be recognized in the same manner as variable lease expense. When the underlying maintenance is performed, the maintenance costs should be expensed or capitalized in accordance with the lessee's maintenance accounting policy.
+A lessee should evaluate whether it is probable that an amount on deposit recognized under paragraph 842-20-55-8 will be returned to reimburse the costs of the maintenance activities incurred by the lessee. When an amount on deposit is less than probable of being returned, it should be recognized in the same manner as variable lease expense. When the underlying maintenance is performed, the maintenance costs should be expensed or capitalized in accordance with the lessee's maintenance accounting policy.
+
+##### · > Leases Denominated in a Foreign Currency
+
+The right-of-use asset
+is a nonmonetary asset while the lease liability is a monetary liability. Therefore, in accordance with Subtopic 830-10 on foreign currency matters, when accounting for a lease that is denominated in a foreign currency, if remeasurement into the lessee's functional currency is required, the lease liability is remeasured using the current exchange rate, while the right-of-use asset is remeasured using the exchange rate as of the commencement date.
+The right-of-use asset
+
+##### · > Weighted-Average Remaining Lease Term and Weighted-Average Discount Rate Disclosures
+
+**842-20-55-11** is a nonmonetary asset while the lease liability is a monetary liability. Therefore, in accordance with Subtopic 830-10 on foreign currency matters, when accounting for a lease that is denominated in a foreign currency, if remeasurement into the lessee's functional currency is required, the lease liability is remeasured using the current exchange rate, while the right-of-use asset is remeasured using the exchange rate as of the commencement date.
+The lessee
+should calculate the weighted-average remaining lease term on the basis of the remaining lease term and the lease liability balance for each lease as of the reporting date.
+The lessee
+**842-20-55-12** should calculate the weighted-average remaining lease term on the basis of the remaining lease term and the lease liability balance for each lease as of the reporting date.
+The discount rate for the lease
+1. that was used to calculate the lease liability balance for each lease as of the reporting date
+2. The remaining balance of the lease payments for each lease as of the reporting date.
+
+The discount rate for the lease
+1. that was used to calculate the lease liability balance for each lease as of the reporting date
+2. The remaining balance of the lease payments for each lease as of the reporting date.
+
+##### · > Illustration of a Short-Term Lease
+
+**842-20-55-13** > Illustrations
+Example 1 illustrates the assessment of whether a lease is a short-term lease.
+Example 1 illustrates the assessment of whether a lease is a short-term lease.
+**842-20-55-14** · · > Example 1—Short-Term Lease
+Lessee has made an accounting policy election not to recognize right-of-use assets and lease liabilities that arise from short-term leases for any class of underlying asset.
+Lessee has made an accounting policy election not to recognize right-of-use assets and lease liabilities that arise from short-term leases for any class of underlying asset.
+Lessee enters into a 12-month lease of a vehicle, with an option to extend for another 12 months. Lessee has considered all relevant factors and determined that it is not reasonably certain to exercise the option to extend. Because at lease commencement Lessee is not reasonably certain to exercise the option to extend, the lease term is 12 months.
+Lessee enters into a 12-month lease of a vehicle, with an option to extend for another 12 months. Lessee has considered all relevant factors and determined that it is not reasonably certain to exercise the option to extend. Because at lease commencement Lessee is not reasonably certain to exercise the option to extend, the lease term is 12 months.
+The lease meets the definition of a short-term lease because the lease term is 12 months or less. Consequently, consistent with Lessee's accounting policy election, Lessee does not recognize the right-of-use asset and the lease liability arising from this lease.
+The lease meets the definition of a short-term lease because the lease term is 12 months or less. Consequently, consistent with Lessee's accounting policy election, Lessee does not recognize the right-of-use asset and the lease liability arising from this lease.
+
+##### · > Illustration of Discount Rate
+
+Example 2 illustrates the determination of the discount rate for the lease.
+Example 2 illustrates the determination of the discount rate for the lease.
+**842-20-55-18** · · > Example 2—Portfolio Approach to Establishing the Discount Rate for the Lease
+Lessee, a public entity, is the parent of several consolidated subsidiaries. During the current period, 2 subsidiaries entered into a total of 400 individual leases of large computer servers, each with terms ranging between 4 and 5 years and annual payments ranging between $60,000 and $100,000, depending on the hardware capacity of the servers. In aggregate, total lease payments for these leases amount to $30 million.
+Lessee, a public entity, is the parent of several consolidated subsidiaries. During the current period, 2 subsidiaries entered into a total of 400 individual leases of large computer servers, each with terms ranging between 4 and 5 years and annual payments ranging between $60,000 and $100,000, depending on the hardware capacity of the servers. In aggregate, total lease payments for these leases amount to $30 million.
+The individual lease contracts do not provide information about the rate implicit in the lease. Lessee is BBB credit rated and actively raises debt in the corporate bond market. Both subsidiaries are unrated and do not actively engage in treasury operations in their respective markets. On the basis of its credit rating and the collateral represented by the leased servers, Lessee's incremental borrowing rate on $60,000 through $100,000 (the range of lease payments on each of the 400 leases) would be approximately 4 percent. Lessee notes that 5-year zero-coupon U.S. Treasury instruments are currently yielding 1.7 percent (a risk-free rate). Because Lessee conducts its treasury operations centrally (that is, at the consolidated group level), it is reasonably assumed that consideration of the group credit standing factored into how each lease was priced.
+The individual lease contracts do not provide information about the rate implicit in the lease. Lessee is BBB credit rated and actively raises debt in the corporate bond market. Both subsidiaries are unrated and do not actively engage in treasury operations in their respective markets. On the basis of its credit rating and the collateral represented by the leased servers, Lessee's incremental borrowing rate on $60,000 through $100,000 (the range of lease payments on each of the 400 leases) would be approximately 4 percent. Lessee notes that 5-year zero-coupon U.S. Treasury instruments are currently yielding 1.7 percent (a risk-free rate). Because Lessee conducts its treasury operations centrally (that is, at the consolidated group level), it is reasonably assumed that consideration of the group credit standing factored into how each lease was priced.
+Lessee may determine the discount rate for the lease for the 400 individual leases entered into on different dates throughout the current period by using a portfolio approach. That is, Lessee can apply a single discount rate to the portfolio of new leases. This is because during the period, the new leases are all of similar terms (four to five years), and Lessee's credit rating and the interest rate environment are stable. Because the pricing of the lease is influenced by the credit standing and profile of Lessee rather than the subsidiaries (that is, because Lessee conducts treasury operations for the consolidated group), Lessee concludes that its incremental borrowing rate of 4 percent is an appropriate discount rate for each of the 400 leases entered into by Lessee's 2 subsidiaries during the period. Because Lessee is a public entity, it is not permitted to use a risk-free discount rate.
+Lessee may determine the discount rate for the lease for the 400 individual leases entered into on different dates throughout the current period by using a portfolio approach. That is, Lessee can apply a single discount rate to the portfolio of new leases. This is because during the period, the new leases are all of similar terms (four to five years), and Lessee's credit rating and the interest rate environment are stable. Because the pricing of the lease is influenced by the credit standing and profile of Lessee rather than the subsidiaries (that is, because Lessee conducts treasury operations for the consolidated group), Lessee concludes that its incremental borrowing rate of 4 percent is an appropriate discount rate for each of the 400 leases entered into by Lessee's 2 subsidiaries during the period. Because Lessee is a public entity, it is not permitted to use a risk-free discount rate.
+
+##### · > Illustrations of Lessee Recognition, Measurement, and Reassessment of the Lease Term
+
+Example 3 illustrates how a lessee would initially and subsequently measure right-of-use assets and lease liabilities and how a lessee would account for a change in the lease term.
+Example 3 illustrates how a lessee would initially and subsequently measure right-of-use assets and lease liabilities and how a lessee would account for a change in the lease term.
+**842-20-55-22** · · > Example 3—Initial and Subsequent Measurement by a Lessee and Accounting for a Change in the Lease Term· · · > Case A—Initial and Subsequent Measurement of the Right-of-Use Asset and the Lease Liability
+Lessee enters into a 10-year lease of an asset, with an option to extend for an additional 5 years. Lease payments are $50,000 per year during the initial term and $55,000 per year during the optional period, all payable at the beginning of each year. Lessee incurs initial direct costs of $15,000.
+Lessee enters into a 10-year lease of an asset, with an option to extend for an additional 5 years. Lease payments are $50,000 per year during the initial term and $55,000 per year during the optional period, all payable at the beginning of each year. Lessee incurs initial direct costs of $15,000.
+At the commencement date, Lessee concludes that it is not reasonably certain to exercise the option to extend the lease and, therefore, determines the lease term to be 10 years.
+At the commencement date, Lessee concludes that it is not reasonably certain to exercise the option to extend the lease and, therefore, determines the lease term to be 10 years.
+The rate implicit in the lease is not readily determinable. Lessee's incremental borrowing rate is 5.87 percent, which reflects the fixed rate at which Lessee could borrow a similar amount in the same currency, for the same term, and with similar collateral as in the lease at the commencement date.
+The rate implicit in the lease is not readily determinable. Lessee's incremental borrowing rate is 5.87 percent, which reflects the fixed rate at which Lessee could borrow a similar amount in the same currency, for the same term, and with similar collateral as in the lease at the commencement date.
+At the commencement date, Lessee makes the lease payment for the first year, incurs initial direct costs, and measures the lease liability at the present value of the remaining 9 payments of $50,000, discounted at the rate of 5.87 percent, which is $342,017. Lessee also measures a right-of-use asset of $407,017 (the initial measurement of the lease liability plus the initial direct costs and the lease payment for the first year).
+At the commencement date, Lessee makes the lease payment for the first year, incurs initial direct costs, and measures the lease liability at the present value of the remaining 9 payments of $50,000, discounted at the rate of 5.87 percent, which is $342,017. Lessee also measures a right-of-use asset of $407,017 (the initial measurement of the lease liability plus the initial direct costs and the lease payment for the first year).
+During the first year of the lease, Lessee recognizes lease expense depending on how the lease is classified. Paragraphs 842-20-55-27 through 55-30
+illustrate the lease expense depending on whether the lease is classified as a finance lease or as an operating lease.
+During the first year of the lease, Lessee recognizes lease expense depending on how the lease is classified. Paragraphs 842-20-55-27 through 55-30
+**842-20-55-27** illustrate the lease expense depending on whether the lease is classified as a finance lease or as an operating lease. · · · · > If the Lease Is Classified as a Finance Lease
+Lessee depreciates its owned assets on a straight-line basis. Therefore, the right-of-use asset would be amortized on a straight-line basis over the 10-year lease term. The lease liability is increased to reflect the Year 1 interest on the lease liability in accordance with the interest method. As such, in Year 1 of the lease, Lessee recognizes the amortization expense of $40,702 ($407,017 ÷ 10) and the interest expense of $20,076 (5.87% × $342,017).
+Lessee depreciates its owned assets on a straight-line basis. Therefore, the right-of-use asset would be amortized on a straight-line basis over the 10-year lease term. The lease liability is increased to reflect the Year 1 interest on the lease liability in accordance with the interest method. As such, in Year 1 of the lease, Lessee recognizes the amortization expense of $40,702 ($407,017 ÷ 10) and the interest expense of $20,076 (5.87% × $342,017).
+At the end of the first year of the lease, the carrying amount of Lessee's lease liability is $362,093 ($342,017 + $20,076), and the carrying amount of the right-of-use asset is $366,315 ($407,017 - $40,702).
+At the end of the first year of the lease, the carrying amount of Lessee's lease liability is $362,093 ($342,017 + $20,076), and the carrying amount of the right-of-use asset is $366,315 ($407,017 - $40,702).
+**842-20-55-29** · · · · > If the Lease Is Classified as an Operating Lease
+Lessee determines the cost of the lease to be $515,000 (sum of the lease payments for the lease term and initial direct costs incurred by Lessee). The annual lease expense to be recognized is therefore $51,500 ($515,000 ÷ 10 years).
+Lessee determines the cost of the lease to be $515,000 (sum of the lease payments for the lease term and initial direct costs incurred by Lessee). The annual lease expense to be recognized is therefore $51,500 ($515,000 ÷ 10 years).
+At the end of the first year of the lease, the carrying amount of Lessee's lease liability is $362,093 ($342,017 + $20,076), and the carrying amount of the right-of-use asset is $375,593 (the carrying amount of the lease liability plus the remaining initial direct costs, which equal $13,500).
+At the end of the first year of the lease, the carrying amount of Lessee's lease liability is $362,093 ($342,017 + $20,076), and the carrying amount of the right-of-use asset is $375,593 (the carrying amount of the lease liability plus the remaining initial direct costs, which equal $13,500).
+**842-20-55-31** · · · > Case B—Accounting for a Change in the Lease Term
+At the end of Year 6 of the lease, Lessee makes significant leasehold improvements. Those improvements are expected to have significant economic value for Lessee at the end of the original lease term of 10 years. The improvements result in the underlying asset having greater utility to Lessee than alternative assets that could be leased for a similar amount and that are expected to have significant economic life beyond the original lease term. Consequently, construction of the leasehold improvements is deemed a significant event or significant change in circumstances that directly affects whether Lessee is reasonably certain to exercise the option to extend the lease and triggers a reassessment of the lease term. Upon reassessing the lease term, at the end of Year 6, Lessee concludes that it is reasonably certain to exercise the option to extend the lease for five years. Taking into consideration the extended remaining lease term, Lessee's incremental borrowing rate at the end of Year 6 is 7.83 percent. As a result of Lessee's remeasuring the remaining lease term to nine years, Lessee also would remeasure any variable lease payments that depend on an index or a rate; however, in this Example, there are no variable lease payments that depend on an index or a rate. In accordance with paragraph 842-10-25-1, Lessee reassesses the lease classification as a result of the change in the lease term. Assume for purposes of this Example that the reassessment does not change the classification of the lease from that determined at the commencement date.
+At the end of Year 6 of the lease, Lessee makes significant leasehold improvements. Those improvements are expected to have significant economic value for Lessee at the end of the original lease term of 10 years. The improvements result in the underlying asset having greater utility to Lessee than alternative assets that could be leased for a similar amount and that are expected to have significant economic life beyond the original lease term. Consequently, construction of the leasehold improvements is deemed a significant event or significant change in circumstances that directly affects whether Lessee is reasonably certain to exercise the option to extend the lease and triggers a reassessment of the lease term. Upon reassessing the lease term, at the end of Year 6, Lessee concludes that it is reasonably certain to exercise the option to extend the lease for five years. Taking into consideration the extended remaining lease term, Lessee's incremental borrowing rate at the end of Year 6 is 7.83 percent. As a result of Lessee's remeasuring the remaining lease term to nine years, Lessee also would remeasure any variable lease payments that depend on an index or a rate; however, in this Example, there are no variable lease payments that depend on an index or a rate. In accordance with paragraph 842-10-25-1, Lessee reassesses the lease classification as a result of the change in the lease term. Assume for purposes of this Example that the reassessment does not change the classification of the lease from that determined at the commencement date.
+At the end of Year 6, before accounting for the change in the lease term, the lease liability is $183,973 (present value of 4 remaining payments of $50,000, discounted at the rate of 5.87 percent). Lessee's right-of-use asset is $162,807 if the lease is classified as a finance lease or $189,973 if the lease is classified as an operating lease (the balance of the remeasured lease liability at the end of Year 6 plus the remaining initial direct costs of $6,000).
+At the end of Year 6, before accounting for the change in the lease term, the lease liability is $183,973 (present value of 4 remaining payments of $50,000, discounted at the rate of 5.87 percent). Lessee's right-of-use asset is $162,807 if the lease is classified as a finance lease or $189,973 if the lease is classified as an operating lease (the balance of the remeasured lease liability at the end of Year 6 plus the remaining initial direct costs of $6,000).
+Lessee remeasures the lease liability, which is now equal to the present value of 4 payments of $50,000 followed by 5 payments of $55,000, all discounted at the rate of 7.83 percent, which is $355,189. Lessee increases the lease liability by $171,216, representing the difference between the remeasured liability and its current carrying amount ($355,189 - $183,973). The corresponding adjustment is made to the right-of-use asset to reflect the cost of the additional rights.
+Lessee remeasures the lease liability, which is now equal to the present value of 4 payments of $50,000 followed by 5 payments of $55,000, all discounted at the rate of 7.83 percent, which is $355,189. Lessee increases the lease liability by $171,216, representing the difference between the remeasured liability and its current carrying amount ($355,189 - $183,973). The corresponding adjustment is made to the right-of-use asset to reflect the cost of the additional rights.
+Following the adjustment, the carrying amount of Lessee's right-of-use asset is $334,023 if the lease is a finance lease (that is, $162,807 + $171,216) or $361,189 if the lease is an operating lease (that is, $189,973 + $171,216).
+Following the adjustment, the carrying amount of Lessee's right-of-use asset is $334,023 if the lease is a finance lease (that is, $162,807 + $171,216) or $361,189 if the lease is an operating lease (that is, $189,973 + $171,216).
+Lessee then makes the $50,000 lease payment for Year 7, reducing the lease liability to $305,189 ($355,189 - $50,000), regardless of how the lease is classified.
+Lessee then makes the $50,000 lease payment for Year 7, reducing the lease liability to $305,189 ($355,189 - $50,000), regardless of how the lease is classified.
+Lessee recognizes lease expense in Year 7 as follows, depending on how the lease had been classified at the commencement date.
+Lessee recognizes lease expense in Year 7 as follows, depending on how the lease had been classified at the commencement date.
+**842-20-55-37** · · · · > If the Lease Is Classified as a Finance Lease at the Commencement Date
+Lessee depreciates its owned assets on a straight-line basis. Therefore, the right-of-use asset will be amortized on a straight-line basis over the lease term. The lease liability will be reduced in accordance with the interest method. As such, in Year 7 (the first year following the remeasurement), Lessee recognizes amortization expense of $37,114 ($334,023 ÷ 9) and interest expense of $23,896 (7.83% × $305,189).
+Lessee depreciates its owned assets on a straight-line basis. Therefore, the right-of-use asset will be amortized on a straight-line basis over the lease term. The lease liability will be reduced in accordance with the interest method. As such, in Year 7 (the first year following the remeasurement), Lessee recognizes amortization expense of $37,114 ($334,023 ÷ 9) and interest expense of $23,896 (7.83% × $305,189).
+**842-20-55-38** · · · · > If the Lease Is Classified as an Operating Lease at the Commencement Date
+The total lease payments, as adjusted for the remeasurement, which is the sum of $500,000 (10 payments of $50,000 during the initial lease term) and $275,000 (5 payments of $55,000 during the term of the lease extension); plus
+2. The total initial direct costs attributable to the lease of $15,000; minus
+3. The periodic lease cost recognized in prior periods of $309,000.
+
+The total lease payments, as adjusted for the remeasurement, which is the sum of $500,000 (10 payments of $50,000 during the initial lease term) and $275,000 (5 payments of $55,000 during the term of the lease extension); plus
+2. The total initial direct costs attributable to the lease of $15,000; minus
+3. The periodic lease cost recognized in prior periods of $309,000.
+
+The amount of the remaining cost of the lease is therefore $481,000 ($775,000 + $15,000 - $309,000). Consequently, Lessee determines that the annual expense to be recognized throughout the remainder of the lease term is $53,444 ($481,000 ÷ the remaining lease term of 9 years).
+The amount of the remaining cost of the lease is therefore $481,000 ($775,000 + $15,000 - $309,000). Consequently, Lessee determines that the annual expense to be recognized throughout the remainder of the lease term is $53,444 ($481,000 ÷ the remaining lease term of 9 years).
+
+##### · > Illustrations of Lessee Recognition and Measurement in an Operating Lease
+
+Example 4 illustrates how a lessee would recognize lease cost in an operating lease and initially and subsequently measure right-of-use assets and lease liabilities for that lease.
+Example 4 illustrates how a lessee would recognize lease cost in an operating lease and initially and subsequently measure right-of-use assets and lease liabilities for that lease.
+**842-20-55-41** · · > Example 4—Recognition and Initial and Subsequent Measurement by a Lessee in an Operating Lease
+Lessee enters into a 10-year lease for 5,000 square feet of office space. The annual lease payment is $10,000, paid in arrears, and increases 5 percent each year during the lease term. Lessee's incremental borrowing rate at lease commencement is 6 percent. Lessee classifies the lease as an operating lease in accordance with paragraphs 842-10-25-2 through 25-3
+. Lessee incurs initial direct costs of $5,000.
+Lessee enters into a 10-year lease for 5,000 square feet of office space. The annual lease payment is $10,000, paid in arrears, and increases 5 percent each year during the lease term. Lessee's incremental borrowing rate at lease commencement is 6 percent. Lessee classifies the lease as an operating lease in accordance with paragraphs 842-10-25-2 through 25-3
+**842-20-55-42** . Lessee incurs initial direct costs of $5,000.
+At the commencement date, Lessee receives a $10,000 cash payment from Lessor that Lessee accounts for as a lease incentive. Lessee measures the lease liability at the present value of the 10 remaining lease payments ($10,000 in Year 1, increasing by 5 percent each year thereafter), discounted at the rate of 6 percent, which is $90,434. Lessee also measures a right-of-use asset of $85,434 (the initial measurement of the lease liability + the initial direct costs of $5,000 - the lease incentive of $10,000).
+At the commencement date, Lessee receives a $10,000 cash payment from Lessor that Lessee accounts for as a lease incentive. Lessee measures the lease liability at the present value of the 10 remaining lease payments ($10,000 in Year 1, increasing by 5 percent each year thereafter), discounted at the rate of 6 percent, which is $90,434. Lessee also measures a right-of-use asset of $85,434 (the initial measurement of the lease liability + the initial direct costs of $5,000 - the lease incentive of $10,000).
+The total lease payments of $115,779 (the sum of the 10 escalating payments to Lessor during the lease term of $125,779 − the lease incentive paid to Lessee at the commencement date of $10,000)
+2. The total initial direct costs attributable to the lease of $5,000.
+
+The amount of the remaining lease cost is therefore $120,779 ($115,779 + $5,000). Consequently, Lessee determines that the single lease cost to be recognized every year throughout the lease term is $12,078 ($120,779 ÷ 10 years). This assumes that there are no remeasurements of the lease liability or modifications to the lease throughout the lease term.
+The total lease payments of $115,779 (the sum of the 10 escalating payments to Lessor during the lease term of $125,779 − the lease incentive paid to Lessee at the commencement date of $10,000)
+2. The total initial direct costs attributable to the lease of $5,000.
+
+**842-20-55-44** The amount of the remaining lease cost is therefore $120,779 ($115,779 + $5,000). Consequently, Lessee determines that the single lease cost to be recognized every year throughout the lease term is $12,078 ($120,779 ÷ 10 years). This assumes that there are no remeasurements of the lease liability or modifications to the lease throughout the lease term.
+Accrued lease payments of $2,578 (the amount of payments to Lessor to be recognized as part of the single lease cost each year during the lease of $12,578 [total payments to Lessor of $125,779 ÷ 10 years] − the first year's lease payment of $10,000)
+2. Unamortized initial direct costs of $4,500 (gross initial direct costs of $5,000 - amounts recognized previously as part of the single lease cost of $500 [total initial direct costs of $5,000 ÷ 10 years])
+3. The remaining balance of the lease incentive of $9,000 (gross lease incentive of $10,000 - amounts recognized previously as part of the single lease cost of $1,000 [total lease incentives of $10,000 ÷ 10 years]).
+
+Therefore, at the end of Year 1, Lessee measures the right-of-use asset at the amount of $78,782 ($85,860 - $2,578 + $4,500 - $9,000).
+Accrued lease payments of $2,578 (the amount of payments to Lessor to be recognized as part of the single lease cost each year during the lease of $12,578 [total payments to Lessor of $125,779 ÷ 10 years] − the first year's lease payment of $10,000)
+2. Unamortized initial direct costs of $4,500 (gross initial direct costs of $5,000 - amounts recognized previously as part of the single lease cost of $500 [total initial direct costs of $5,000 ÷ 10 years])
+3. The remaining balance of the lease incentive of $9,000 (gross lease incentive of $10,000 - amounts recognized previously as part of the single lease cost of $1,000 [total lease incentives of $10,000 ÷ 10 years]).
+
+**842-20-55-45** Therefore, at the end of Year 1, Lessee measures the right-of-use asset at the amount of $78,782 ($85,860 - $2,578 + $4,500 - $9,000).
+At the beginning of Year 2, Lessee determines the remaining cost of the lease to be $108,701 (the total lease payments of $115,779 + the total initial direct costs of $5,000 - the single lease cost recognized in Year 1 of $12,078). The single lease cost to be recognized in Year 2 is still $12,078 ($108,701 ÷ 9 years). For the purposes of the Example, only the first two years' determination of the single lease cost are shown. However, the single lease cost will be determined in the same way as in Years 1 and 2 for the remainder of the lease and, in this Example, will continue to equal $12,078 every period for the remainder of the lease term assuming that there are no remeasurements of the lease liability or modifications to the lease.
+At the beginning of Year 2, Lessee determines the remaining cost of the lease to be $108,701 (the total lease payments of $115,779 + the total initial direct costs of $5,000 - the single lease cost recognized in Year 1 of $12,078). The single lease cost to be recognized in Year 2 is still $12,078 ($108,701 ÷ 9 years). For the purposes of the Example, only the first two years' determination of the single lease cost are shown. However, the single lease cost will be determined in the same way as in Years 1 and 2 for the remainder of the lease and, in this Example, will continue to equal $12,078 every period for the remainder of the lease term assuming that there are no remeasurements of the lease liability or modifications to the lease.
+At the end of Year 2, the carrying amount of the lease liability is $80,511, and the carrying amount of the right-of-use asset is $71,855 (the carrying amount of the lease liability of $80,511 - the accrued lease payments of $4,656 + the unamortized initial direct costs of $4,000 - the remaining balance of the lease incentive received of $8,000). For the purposes of the Example, the subsequent measurement of the lease liability and the subsequent measurement of the right-of-use asset are shown only for the first two years. However, Lessee will continue to measure the lease liability and the right-of-use asset for this lease in the same manner throughout the remainder of the lease term.
+At the end of Year 2, the carrying amount of the lease liability is $80,511, and the carrying amount of the right-of-use asset is $71,855 (the carrying amount of the lease liability of $80,511 - the accrued lease payments of $4,656 + the unamortized initial direct costs of $4,000 - the remaining balance of the lease incentive received of $8,000). For the purposes of the Example, the subsequent measurement of the lease liability and the subsequent measurement of the right-of-use asset are shown only for the first two years. However, Lessee will continue to measure the lease liability and the right-of-use asset for this lease in the same manner throughout the remainder of the lease term.
+
+##### · > Illustration of Impairment of a Right-of-Use Asset
+
+Example 5 illustrates impairment of a right-of-use asset.
+Example 5 illustrates impairment of a right-of-use asset.
+**842-20-55-48** · · > Example 5—Impairment of a Right-of-Use Asset in an Operating Lease
+Lessee enters into a 10-year lease of a nonspecialized asset. Lease payments are $10,000 per year, payable in arrears. The lease does not transfer ownership of the underlying asset or grant Lessee an option to purchase the underlying asset. At lease commencement, the remaining economic life of the underlying asset is 50 years, and the fair value of the underlying asset is $600,000. Lessee does not incur any initial direct costs as a result of the lease. Lessee's incremental borrowing rate is 7 percent, which reflects the fixed rate at which Lessee could borrow the amount of the lease payments in the same currency, for the same term, and with similar collateral as in the lease at commencement. The lease is classified as an operating lease.
+Lessee enters into a 10-year lease of a nonspecialized asset. Lease payments are $10,000 per year, payable in arrears. The lease does not transfer ownership of the underlying asset or grant Lessee an option to purchase the underlying asset. At lease commencement, the remaining economic life of the underlying asset is 50 years, and the fair value of the underlying asset is $600,000. Lessee does not incur any initial direct costs as a result of the lease. Lessee's incremental borrowing rate is 7 percent, which reflects the fixed rate at which Lessee could borrow the amount of the lease payments in the same currency, for the same term, and with similar collateral as in the lease at commencement. The lease is classified as an operating lease.
+At the commencement date, Lessee recognizes the lease liability of $70,236 (the present value of the 10 lease payments of $10,000, discounted at the rate of 7 percent). Lessee also recognizes a right-of-use asset of $70,236 (the initial measurement of the lease liability). Lessee determines the cost of the lease to be $100,000 (the total lease payments for the lease term). The annual lease expense to be recognized is therefore $10,000 ($100,000 ÷ 10 years).
+At the commencement date, Lessee recognizes the lease liability of $70,236 (the present value of the 10 lease payments of $10,000, discounted at the rate of 7 percent). Lessee also recognizes a right-of-use asset of $70,236 (the initial measurement of the lease liability). Lessee determines the cost of the lease to be $100,000 (the total lease payments for the lease term). The annual lease expense to be recognized is therefore $10,000 ($100,000 ÷ 10 years).
+Amortization of the right-of-use asset remaining after the impairment ($18,893 ÷ 7 years = $2,699 per year)
+2. Accretion of the lease liability. For example, in Year 4, the accretion is $3,773 ($53,893 × 7%) and, in Year 5, the accretion is $3,337 ($47,665 × 7%).
+
+Amortization of the right-of-use asset remaining after the impairment ($18,893 ÷ 7 years = $2,699 per year)
+2. Accretion of the lease liability. For example, in Year 4, the accretion is $3,773 ($53,893 × 7%) and, in Year 5, the accretion is $3,337 ($47,665 × 7%).
+
+Consequently, at the end of Year 4, the carrying amount of the lease liability is $47,665 (that is, calculated as either the present value of the remaining lease payments, discounted at 7 percent, or the previous balance of $53,893 - $10,000 Year 4 lease payment + the $3,773 accretion of the lease liability). The carrying amount of the right-of-use asset is $16,194 (the previous balance of $18,893 - $2,699 amortization). Lessee measures the lease liability and the right-of-use asset in this manner throughout the remainder of the lease term.
+Consequently, at the end of Year 4, the carrying amount of the lease liability is $47,665 (that is, calculated as either the present value of the remaining lease payments, discounted at 7 percent, or the previous balance of $53,893 - $10,000 Year 4 lease payment + the $3,773 accretion of the lease liability). The carrying amount of the right-of-use asset is $16,194 (the previous balance of $18,893 - $2,699 amortization). Lessee measures the lease liability and the right-of-use asset in this manner throughout the remainder of the lease term.
+
+##### · > Illustration of Lessee Quantitative Disclosure Requirements
+
+Example 6 illustrates how a lessee may meet the quantitative disclosure requirements in paragraph 842-20-50-4.
+Example 6 illustrates how a lessee may meet the quantitative disclosure requirements in paragraph 842-20-50-4.
+**842-20-55-53** · · > Example 6—Lessee Quantitative Disclosure Requirements in Paragraph 842-20-50-4
+The following Example illustrates how a lessee may meet the quantitative disclosure requirements in paragraph 842-20-50-4.
+The following Example illustrates how a lessee may meet the quantitative disclosure requirements in paragraph 842-20-50-4.
+
+## 00 Status
+
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+
+### General
+
+The following table identifies the changes made to this Subtopic.
+**** **** **** ****
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Commencement Date of the Lease (Commencement Date) | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Contract | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Direct Financing Lease | Amended | Accounting Standards Update No. 2021-05 | 07/19/2021 |
+| Direct Financing Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Fair Value (2nd def.) | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Finance Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Initial Direct Costs | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease Payments | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease Receivable | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease Term | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lessee | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lessor | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Market Participants | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Net Investment in the Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Operating Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Orderly Transaction | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Probable (2nd def.) | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Rate Implicit in the Lease | Amended | Accounting Standards Update No. 2018-10 | 07/18/2018 |
+| Rate Implicit in the Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Related Parties | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Residual Value Guarantee | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Sales-Type Lease | Amended | Accounting Standards Update No. 2021-05 | 07/19/2021 |
+| Sales-Type Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Selling Profit or Selling Loss | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Sublease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Underlying Asset | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Unguaranteed Residual Asset | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Useful Life | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Variable Lease Payments | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-30-05-1 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-30-15-1 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-30-25-1 through 25-14 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-30-25-2 | Amended | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 842-30-25-6 | Amended | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 842-30-25-9 | Amended | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 842-30-30-1 through 30-4 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-30-35-1 through 35-7 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-30-35-3 | Amended | Accounting Standards Update No. 2018-10 | 07/18/2018 |
+| 842-30-35-3 | Amended | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 842-30-35-4 | Amended | Accounting Standards Update No. 2018-10 | 07/18/2018 |
+| 842-30-40-1 through 40-4 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-30-40-2 | Amended | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 842-30-45-1 through 45-7 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-30-45-5 | Amended | Accounting Standards Update No. 2019-01 | 03/05/2019 |
+| 842-30-50-1 through 50-13 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-30-50-3 | Amended | Accounting Standards Update No. 2018-11 | 07/30/2018 |
+| 842-30-50-3A | Added | Accounting Standards Update No. 2018-11 | 07/30/2018 |
+| 842-30-50-14 | Added | Accounting Standards Update No. 2018-20 | 12/10/2018 |
+| 842-30-55-1 through 55-43 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-30-55-17A | Added | Accounting Standards Update No. 2019-01 | 03/05/2019 |
+| 842-30-55-20 | Amended | Accounting Standards Update No. 2018-10 | 07/18/2018 |
+| 842-30-55-32 | Amended | Accounting Standards Update No. 2018-10 | 07/18/2018 |
+| 842-30-55-32A | Added | Accounting Standards Update No. 2018-10 | 07/18/2018 |
+
+The following table identifies the changes made to this Subtopic.
+**** **** **** ****
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Commencement Date of the Lease (Commencement Date) | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Contract | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Direct Financing Lease | Amended | Accounting Standards Update No. 2021-05 | 07/19/2021 |
+| Direct Financing Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Fair Value (2nd def.) | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Finance Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Initial Direct Costs | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease Payments | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease Receivable | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease Term | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lessee | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lessor | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Market Participants | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Net Investment in the Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Operating Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Orderly Transaction | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Probable (2nd def.) | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Rate Implicit in the Lease | Amended | Accounting Standards Update No. 2018-10 | 07/18/2018 |
+| Rate Implicit in the Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Related Parties | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Residual Value Guarantee | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Sales-Type Lease | Amended | Accounting Standards Update No. 2021-05 | 07/19/2021 |
+| Sales-Type Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Selling Profit or Selling Loss | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Sublease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Underlying Asset | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Unguaranteed Residual Asset | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Useful Life | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Variable Lease Payments | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-30-05-1 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-30-15-1 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-30-25-1 through 25-14 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-30-25-2 | Amended | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 842-30-25-6 | Amended | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 842-30-25-9 | Amended | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 842-30-30-1 through 30-4 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-30-35-1 through 35-7 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-30-35-3 | Amended | Accounting Standards Update No. 2018-10 | 07/18/2018 |
+| 842-30-35-3 | Amended | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 842-30-35-4 | Amended | Accounting Standards Update No. 2018-10 | 07/18/2018 |
+| 842-30-40-1 through 40-4 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-30-40-2 | Amended | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 842-30-45-1 through 45-7 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-30-45-5 | Amended | Accounting Standards Update No. 2019-01 | 03/05/2019 |
+| 842-30-50-1 through 50-13 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-30-50-3 | Amended | Accounting Standards Update No. 2018-11 | 07/30/2018 |
+| 842-30-50-3A | Added | Accounting Standards Update No. 2018-11 | 07/30/2018 |
+| 842-30-50-14 | Added | Accounting Standards Update No. 2018-20 | 12/10/2018 |
+| 842-30-55-1 through 55-43 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-30-55-17A | Added | Accounting Standards Update No. 2019-01 | 03/05/2019 |
+| 842-30-55-20 | Amended | Accounting Standards Update No. 2018-10 | 07/18/2018 |
+| 842-30-55-32 | Amended | Accounting Standards Update No. 2018-10 | 07/18/2018 |
+| 842-30-55-32A | Added | Accounting Standards Update No. 2018-10 | 07/18/2018 |
+
+## 05 Overview and Background
+
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+
+### General
+
+This Subtopic addresses accounting by lessors
+for leases that have been classified as sales-type leases, direct financing leases, or operating leases in accordance with the requirements in Subtopic 842-10. Lessors should follow the requirements in this Subtopic as well as those in Subtopic 842-10.
+This Subtopic addresses accounting by lessors
+
+## 15 Scope and Scope Exceptions
+
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+
+### General
+
+This Subtopic follows the same Scope and Scope Exceptions as outlined in the Overall Subtopic; see Section 842-10-15.
+This Subtopic follows the same Scope and Scope Exceptions as outlined in the Overall Subtopic; see Section 842-10-15.
+
+## 20 Glossary
+
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+
+##### Commencement Date of the Lease        (Commencement Date)
+
+The date on which a lessor makes an underlying asset available for use by a lessee. See paragraphs 842-10-55-19 through 55-21
+for implementation guidance on the commencement date.
+The date on which a lessor makes an underlying asset available for use by a lessee. See paragraphs 842-10-55-19 through 55-21
+for implementation guidance on the commencement date.
+
+##### Contract
+
+An agreement between two or more parties that creates enforceable rights and obligations.
+An agreement between two or more parties that creates enforceable rights and obligations.
+
+##### Direct Financing                Lease
+
+From the perspective of a lessor, a lease that meets none of the criteria in paragraph 842-10-25-2 but meets the criteria in paragraph 842-10-25-3(b)and is not an operating lease in accordance with paragraph 842-10-25-3A.
+From the perspective of a lessor, a lease that meets none of the criteria in paragraph 842-10-25-2 but meets the criteria in paragraph 842-10-25-3(b)and is not an operating lease in accordance with paragraph 842-10-25-3A.
+
+##### Fair Value
+
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+
+##### Finance Lease
+
+From the perspective of a lessee, a lease that meets one or more of the criteria in paragraph 842-10-25-2.
+From the perspective of a lessee, a lease that meets one or more of the criteria in paragraph 842-10-25-2.
+
+##### Initial Direct                Costs
+
+Incremental costs of a lease that would not have been incurred if the lease had not been obtained.
+Incremental costs of a lease that would not have been incurred if the lease had not been obtained.
+
+##### Lease
+
+A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
+A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
+
+##### Lease Payments
+
+See paragraph 842-10-30-5 for what constitutes lease payments from the perspective of a lessee and a lessor.
+See paragraph 842-10-30-5 for what constitutes lease payments from the perspective of a lessee and a lessor.
+
+##### Lease Receivable
+
+A lessor's right to receive lease payments arising from a sales-type lease or a direct financing lease plus any amount that a lessor expects to derive from the underlying asset following the end of the lease term to the extent that it is guaranteed by the lessee or any other third party unrelated to the lessor, measured on a discounted basis.
+A lessor's right to receive lease payments arising from a sales-type lease or a direct financing lease plus any amount that a lessor expects to derive from the underlying asset following the end of the lease term to the extent that it is guaranteed by the lessee or any other third party unrelated to the lessor, measured on a discounted basis.
+
+##### Lease Term
+
+Periods covered by an option to extend the lease if the lessee is reasonably certain to exercise that option
+2. Periods covered by an option to terminate the lease if the lessee is reasonably certain not to exercise that option
+3. Periods covered by an option to extend (or not to terminate) the lease in which exercise of the option is controlled by the lessor.
+
+Periods covered by an option to extend the lease if the lessee is reasonably certain to exercise that option
+Periods covered by an option to terminate the lease if the lessee is reasonably certain not to exercise that option
+3. Periods covered by an option to extend (or not to terminate) the lease in which exercise of the option is controlled by the lessor.
+
+##### Lessee
+
+An entity that enters into a contract to obtain the right to use an underlying asset for a period of time in exchange for consideration.
+An entity that enters into a contract to obtain the right to use an underlying asset for a period of time in exchange for consideration.
+
+##### Lessor
+
+An entity that enters into a contract to provide the right to use an underlying asset for a period of time in exchange for consideration.
+An entity that enters into a contract to provide the right to use an underlying asset for a period of time in exchange for consideration.
+
+##### Market Participants
+
+1. They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
+3. They are able to enter into a transaction for the asset or liability
+4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
+
+They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
+3. They are able to enter into a transaction for the asset or liability
+4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
+
+##### Net Investment in the        Lease
+
+For a sales-type lease, the sum of the lease receivable and the unguaranteed residual asset.
+For a direct financing lease, the sum of the lease receivable and the unguaranteed residual asset, net of any deferred selling profit.
+For a sales-type lease, the sum of the lease receivable and the unguaranteed residual asset.
+For a direct financing lease, the sum of the lease receivable and the unguaranteed residual asset, net of any deferred selling profit.
+
+##### Operating                Lease
+
+From the perspective of a lessee, any lease other than a finance lease.
+From the perspective of a lessor, any lease other than a sales-type lease or a direct financing lease.
+From the perspective of a lessee, any lease other than a finance lease.
+From the perspective of a lessor, any lease other than a sales-type lease or a direct financing lease.
+
+##### Orderly Transaction
+
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+
+##### Probable
+
+The future event or events are likely to occur.
+The future event or events are likely to occur.
+
+##### Rate Implicit in the        Lease
+
+The rate of interest that, at a given date, causes the aggregate present value of (a) the lease paymentsand (b) the amount that a lessor expects to derive from the underlying asset following the end of the lease termto equal the sum of (1) the fair value of the underlying asset minus any related investment tax credit retained and expected to be realized by the lessor and (2) any deferred initial direct costs of the lessor. However, if the rate determined in accordance with the preceding sentence is less than zero, a rate implicit in the lease of zero shall be used.
+The rate of interest that, at a given date, causes the aggregate present value of (a) the lease paymentsand (b) the amount that a lessor expects to derive from the underlying asset following the end of the lease termto equal the sum of (1) the fair value of the underlying asset minus any related investment tax credit retained and expected to be realized by the lessor and (2) any deferred initial direct costs of the lessor. However, if the rate determined in accordance with the preceding sentence is less than zero, a rate implicit in the lease of zero shall be used.
+
+##### Related Parties
+
+1. Affiliates of the entity
+2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
+3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
+4. Principal owners of the entity and members of their immediate families
+5. Management of the entity and members of their immediate families
+6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
+7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
+
+Affiliates of the entity
+2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
+3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
+4. Principal owners of the entity and members of their immediate families
+5. Management of the entity and members of their immediate families
+6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
+7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
+
+##### Residual Value                Guarantee
+
+A guarantee made to a lessor that the value of an underlying asset returned to the lessor at the end of a lease will be at least a specified amount.
+A guarantee made to a lessor that the value of an underlying asset returned to the lessor at the end of a lease will be at least a specified amount.
+
+##### Sales-Type                Lease
+
+From the perspective of a lessor, a lease that meets one or more of the criteria in paragraph 842-10-25-2 and is not an operating lease in accordance with paragraph 842-10-25-3A.
+From the perspective of a lessor, a lease that meets one or more of the criteria in paragraph 842-10-25-2 and is not an operating lease in accordance with paragraph 842-10-25-3A.
+
+##### Selling Profit or Selling    Loss
+
+The fair value of the underlying asset or the sum of (1) the lease receivable and (2) any lease payments prepaid by the lessee, if lower; minus
+2. The carrying amount of the underlying asset net of any unguaranteed residual asset; minus
+3. Any deferred initial direct costs of the lessor.
+
+The fair value of the underlying asset or the sum of (1) the lease receivable and (2) any lease payments prepaid by the lessee, if lower; minus
+The carrying amount of the underlying asset net of any unguaranteed residual asset; minus
+3. Any deferred initial direct costs of the lessor.
+
+##### Sublease
+
+A transaction in which an underlying asset is re-leased by the lessee (or intermediate lessor) to a third party (the sublessee) and the original (or head) lease between the lessor and the lessee remains in effect.
+A transaction in which an underlying asset is re-leased by the lessee (or intermediate lessor) to a third party (the sublessee) and the original (or head) lease between the lessor and the lessee remains in effect.
+
+##### Underlying Asset
+
+An asset that is the subject of a lease for which a right to use that asset has been conveyed to a lessee. The underlying asset could be a physically distinct portion of a single asset.
+An asset that is the subject of a lease for which a right to use that asset has been conveyed to a lessee. The underlying asset could be a physically distinct portion of a single asset.
+
+##### Unguaranteed Residual                Asset
+
+The amount that a lessor expects to derive from the underlying asset following the end of the lease term that is not guaranteed by the lessee or any other third party unrelated to the lessor, measured on a discounted basis.
+The amount that a lessor expects to derive from the underlying asset following the end of the lease term that is not guaranteed by the lessee or any other third party unrelated to the lessor, measured on a discounted basis.
+
+##### Useful Life
+
+The period over which an asset is expected to contribute directly or indirectly to future cash flows.
+The period over which an asset is expected to contribute directly or indirectly to future cash flows.
+
+##### Variable Lease        Payments
+
+Payments made by a lessee to a lessor for the right to use an underlying asset that vary because of changes in facts or circumstances occurring after the commencement date, other than the passage of time.
+Payments made by a lessee to a lessor for the right to use an underlying asset that vary because of changes in facts or circumstances occurring after the commencement date, other than the passage of time.
+
+## 25 Recognition
+
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+
+### General
+
+**842-30-25-1** > Sales-Type Leases
+At the commencement date
+1. A net investment in the lease, measured in accordance with paragraph 842-30-30-1
+2. Selling profit or selling loss arising from the lease
+3. Initial direct costs as an expense if, at the commencement date, the fair value of the underlying asset is different from its carrying amount. If the fair value of the underlying asset equals its carrying amount, initial direct costs (see paragraphs 842-10-30-9 through 30-10) are deferred at the commencement date and included in the measurement of the net investment in the lease. The rate implicit in the lease is defined in such a way that those initial direct costs eligible for deferral are included automatically in the net investment in the lease; there is no need to add them separately.
+
+**842-30-25-1** At the commencement date
+1. A net investment in the lease, measured in accordance with paragraph 842-30-30-1
+2. Selling profit or selling loss arising from the lease
+3. Initial direct costs as an expense if, at the commencement date, the fair value of the underlying asset is different from its carrying amount. If the fair value of the underlying asset equals its carrying amount, initial direct costs (see paragraphs 842-10-30-9 through 30-10) are deferred at the commencement date and included in the measurement of the net investment in the lease. The rate implicit in the lease is defined in such a way that those initial direct costs eligible for deferral are included automatically in the net investment in the lease; there is no need to add them separately.
+
+**842-30-25-2** Interest income on the net investment in the lease, measured in accordance with paragraph 842-30-35-1(a)
+2. Variable lease payments that are not included in the net investment in the lease as income in profit or loss in the period when the changes in facts and circumstances on which the variable lease payments are based occur
+3. Credit losses on the net investment in the lease (as described in paragraph 842-30-35-3).
+
+**842-30-25-2** Interest income on the net investment in the lease, measured in accordance with paragraph 842-30-35-1(a)
+2. Variable lease payments that are not included in the net investment in the lease as income in profit or loss in the period when the changes in facts and circumstances on which the variable lease payments are based occur
+3. Credit losses on the net investment in the lease (as described in paragraph 842-30-35-3).
+
+**842-30-25-3** The guidance in paragraphs 842-30-25-1 through 25-2
+1. Collectibility of the lease payments, plus any amount necessary to satisfy a residual value guarantee provided by the lessee, becomes probable. If collectibility is not probable at the commencement date, a lessor shall continue to assess collectibility to determine whether the lease payments and any amount necessary to satisfy a residual value guarantee are probable of collection.
+1. The contract has been terminated, and the lease payments received from the lessee are nonrefundable.
+2. The lessor has repossessed the underlying asset, it has no further obligation under the contract to the lessee, and the lease payments received from the lessee are nonrefundable.
+
+**842-30-25-3** The guidance in paragraphs 842-30-25-1 through 25-2
+1. Collectibility of the lease payments, plus any amount necessary to satisfy a residual value guarantee provided by the lessee, becomes probable. If collectibility is not probable at the commencement date, a lessor shall continue to assess collectibility to determine whether the lease payments and any amount necessary to satisfy a residual value guarantee are probable of collection.
+1. The contract has been terminated, and the lease payments received from the lessee are nonrefundable.
+2. The lessor has repossessed the underlying asset, it has no further obligation under the contract to the lessee, and the lease payments received from the lessee are nonrefundable.
+
+**842-30-25-4** Derecognize the carrying amount of the underlying asset
+2. Derecognize the carrying amount of any deposit liability recognized in accordance with paragraph 842-30-25-3
+3. Recognize a net investment in the lease on the basis of the remaining lease payments and remaining lease term, using the rate implicit in the lease determined at the commencement date
+1. The lease receivable; plus
+2. The carrying amount of the deposit liability; minus
+3. The carrying amount of the underlying asset, net of the unguaranteed residual asset.
+
+**842-30-25-4** Derecognize the carrying amount of the underlying asset
+2. Derecognize the carrying amount of any deposit liability recognized in accordance with paragraph 842-30-25-3
+3. Recognize a net investment in the lease on the basis of the remaining lease payments and remaining lease term, using the rate implicit in the lease determined at the commencement date
+1. The lease receivable; plus
+2. The carrying amount of the deposit liability; minus
+3. The carrying amount of the underlying asset, net of the unguaranteed residual asset.
+
+**842-30-25-5** When collectibility is not probable at the commencement date, at the date the criterion in paragraph 842-30-25-3(b) is met, the lessor shall derecognize the carrying amount of any deposit liability recognized in accordance with paragraph 842-30-25-3, with the corresponding amount recognized as lease income.
+**842-30-25-5** When collectibility is not probable at the commencement date, at the date the criterion in paragraph 842-30-25-3(b) is met, the lessor shall derecognize the carrying amount of any deposit liability recognized in accordance with paragraph 842-30-25-3, with the corresponding amount recognized as lease income.
+**842-30-25-6** If collectibility is probable at the commencement date for a sales-type lease
+or for a direct financing lease, a lessor shall not reassess whether collectibility is probable. Subsequent changes in the credit risk of the lessee shall be accounted for in accordance with the credit loss guidance applicable to the net investment in the lease in paragraph 842-30-35-3.
+**842-30-25-6** If collectibility is probable at the commencement date for a sales-type lease
+**842-30-25-7** or for a direct financing lease, a lessor shall not reassess whether collectibility is probable. Subsequent changes in the credit risk of the lessee shall be accounted for in accordance with the credit loss guidance applicable to the net investment in the lease in paragraph 842-30-35-3.> Direct Financing Leases
+At the commencement date
+1. A net investment in the lease, measured in accordance with paragraph 842-30-30-2
+2. Selling loss arising from the lease, if applicable.
+
+**842-30-25-7** At the commencement date
+1. A net investment in the lease, measured in accordance with paragraph 842-30-30-2
+2. Selling loss arising from the lease, if applicable.
+
+**842-30-25-8** Selling profit and initial direct costs
+(see paragraphs 842-10-30-9 through 30-10) are deferred at the commencement date and included in the measurement of the net investment in the lease. The rate implicit in the lease is defined in such a way that initial direct costs deferred in accordance with this paragraph are included automatically in the net investment in the lease; there is no need to add them separately.
+**842-30-25-8** Selling profit and initial direct costs
+**842-30-25-9** (see paragraphs 842-10-30-9 through 30-10) are deferred at the commencement date and included in the measurement of the net investment in the lease. The rate implicit in the lease is defined in such a way that initial direct costs deferred in accordance with this paragraph are included automatically in the net investment in the lease; there is no need to add them separately.
+Interest income on the net investment in the lease, measured in accordance with paragraph 842-30-35-1(a)
+2. Variable lease payments that are not included in the net investment in the lease as income in profit or loss in the period when the changes in facts and circumstances on which the variable lease payments are based occur
+3. Credit losses on the net investment in the lease (as described in paragraph 842-30-35-3).
+
+**842-30-25-9** Interest income on the net investment in the lease, measured in accordance with paragraph 842-30-35-1(a)
+2. Variable lease payments that are not included in the net investment in the lease as income in profit or loss in the period when the changes in facts and circumstances on which the variable lease payments are based occur
+3. Credit losses on the net investment in the lease (as described in paragraph 842-30-35-3).
+
+**842-30-25-10** > Operating Leases
+At the commencement date
+, a lessor shall defer initial direct costs.
+**842-30-25-10** At the commencement date
+**842-30-25-11** , a lessor shall defer initial direct costs.
+The lease payments
+1. as income in profit or loss over the lease term on a straight-line basis unless another systematic and rational basis is more representative of the pattern in which benefit is expected to be derived from the use of the underlying asset, subject to paragraph 842-30-25-12
+2. Variable lease payments as income in profit or loss in the period in which the changes in facts and circumstances on which the variable lease payments are based occur
+3. Initial direct costs as an expense over the lease term on the same basis as lease income (as described in (a)).
+
+**842-30-25-11** The lease payments
+1. as income in profit or loss over the lease term on a straight-line basis unless another systematic and rational basis is more representative of the pattern in which benefit is expected to be derived from the use of the underlying asset, subject to paragraph 842-30-25-12
+2. Variable lease payments as income in profit or loss in the period in which the changes in facts and circumstances on which the variable lease payments are based occur
+3. Initial direct costs as an expense over the lease term on the same basis as lease income (as described in (a)).
+
+**842-30-25-12** If collectibility of the lease payments plus any amount necessary to satisfy a residual value guarantee
+(provided by the lessee or any other unrelated third party) is not probable at the commencement date, lease income shall be limited to the lesser of the income that would be recognized in accordance with paragraph 842-30-25-11(a) through (b) or the lease payments, including variable lease payments, that have been collected from the lessee.
+**842-30-25-12** If collectibility of the lease payments plus any amount necessary to satisfy a residual value guarantee
+**842-30-25-13** (provided by the lessee or any other unrelated third party) is not probable at the commencement date, lease income shall be limited to the lesser of the income that would be recognized in accordance with paragraph 842-30-25-11(a) through (b) or the lease payments, including variable lease payments, that have been collected from the lessee.
+If the assessment of collectibility changes after the commencement date, any difference between the lease income that would have been recognized in accordance with paragraph 842-30-25-11(a) through (b) and the lease payments, including variable lease payments, that have been collected from the lessee shall be recognized as a current-period adjustment to lease income.
+**842-30-25-13** If the assessment of collectibility changes after the commencement date, any difference between the lease income that would have been recognized in accordance with paragraph 842-30-25-11(a) through (b) and the lease payments, including variable lease payments, that have been collected from the lessee shall be recognized as a current-period adjustment to lease income.
+**842-30-25-14** See Example 1 (paragraphs 842-30-55-18 through 55-43
+) for an illustration of the requirements when collectibility is not probable.
+**842-30-25-14** See Example 1 (paragraphs 842-30-55-18 through 55-43
+
+## 30 Initial Measurement
+
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+
+### General
+
+**842-30-30-1** > Sales-Type and Direct Financing Leases
+At the commencement date
+1. The lease payments (as described in paragraph 842-10-30-5) not yet received by the lessor
+2. The amount the lessor expects to derive from the underlying asset following the end of the lease term that is guaranteed by the lessee or any other third party unrelated to the lessor
+
+3. The unguaranteed residual asset at the present value of the amount the lessor expects to derive from the underlying asset following the end of the lease term that is not guaranteed by the lessee or any other third party unrelated to the lessor, discounted using the rate implicit in the lease.
+
+At the commencement date
+1. The lease payments (as described in paragraph 842-10-30-5) not yet received by the lessor
+2. The amount the lessor expects to derive from the underlying asset following the end of the lease term that is guaranteed by the lessee or any other third party unrelated to the lessor
+
+3. The unguaranteed residual asset at the present value of the amount the lessor expects to derive from the underlying asset following the end of the lease term that is not guaranteed by the lessee or any other third party unrelated to the lessor, discounted using the rate implicit in the lease.
+
+At the commencement date, for a direct financing lease
+, a lessor shall measure the net investment in the lease to include the items in paragraph 842-30-30-1(a) through (b), reduced by the amount of any selling profit.
+At the commencement date, for a direct financing lease
+**842-30-30-3** , a lessor shall measure the net investment in the lease to include the items in paragraph 842-30-30-1(a) through (b), reduced by the amount of any selling profit.
+See Example 1 (paragraphs 842-30-55-18 through 55-43
+) for an illustration of the requirements for sales-type and direct financing leases.
+See Example 1 (paragraphs 842-30-55-18 through 55-43
+**842-30-30-4** ) for an illustration of the requirements for sales-type and direct financing leases. > Operating Leases
+A lessor
+shall continue to measure the underlying asset subject to an operating lease in accordance with other Topics.
+A lessor
+
+## 35 Subsequent Measurement
+
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+
+### General
+
+**842-30-35-1** Related Proposed ASUs > Sales-Type and Direct Financing Leases
+After the commencement date
+1. Increasing the carrying amount to reflect the interest income on the net investment in the lease. A lessor shall determine the interest income on the net investment in the lease in each period during the lease term as the amount that produces a constant periodic discount rate on the remaining balance of the net investment in the lease.
+2. Reducing the carrying amount to reflect the lease payments collected during the period.
+
+**842-30-35-1** After the commencement date
+1. Increasing the carrying amount to reflect the interest income on the net investment in the lease. A lessor shall determine the interest income on the net investment in the lease in each period during the lease term as the amount that produces a constant periodic discount rate on the remaining balance of the net investment in the lease.
+2. Reducing the carrying amount to reflect the lease payments collected during the period.
+
+**842-30-35-2** After the commencement date, a lessor shall not remeasure the net investment in the lease unless the lease
+is modified and that modification is not accounted for as a separate contract in accordance with paragraph 842-10-25-8.
+**842-30-35-2** After the commencement date, a lessor shall not remeasure the net investment in the lease unless the lease
+
+##### · > Loss Allowance on the Net Investment in the                Lease
+
+**842-30-35-3** is modified and that modification is not accounted for as a separate contract in accordance with paragraph 842-10-25-8.
+A lessor
+shall determine the loss allowance related to the net investment in the lease and shall record any loss allowance in accordance with Subtopic 326-20 on financial instruments measured at amortized cost. When determining the loss allowance for a net investment in the lease, a lessor shall take into consideration the collateral relating to the net investment in the lease. The collateral relating to the net investment in the lease represents the cash flows that the lessor would expect to receive (or derive) from the lease receivable and the unguaranteed residual asset during and following the end of the remaining lease term.
+**842-30-35-3** A lessor
+
+##### · > Sale of the Lease Receivable
+
+**842-30-35-4** shall determine the loss allowance related to the net investment in the lease and shall record any loss allowance in accordance with Subtopic 326-20 on financial instruments measured at amortized cost. When determining the loss allowance for a net investment in the lease, a lessor shall take into consideration the collateral relating to the net investment in the lease. The collateral relating to the net investment in the lease represents the cash flows that the lessor would expect to receive (or derive) from the lease receivable and the unguaranteed residual asset during and following the end of the remaining lease term.
+If a lessor
+sells substantially all of the lease receivable associated with a sales-type lease or a direct financing lease and retains an interest in the unguaranteed residual asset, the lessor shall not continue to accrete the unguaranteed residual asset to its estimated value over the remaining lease term. The lessor shall report any remaining unguaranteed residual asset thereafter at its carrying amount at the date of the sale of the lease receivable and apply Topic 360 on property, plant, and equipment to determine whether the unguaranteed residual asset is impaired.
+**842-30-35-4** If a lessor
+
+##### · > Accounting for the Underlying Asset at the End of the Lease Term
+
+**842-30-35-5** sells substantially all of the lease receivable associated with a sales-type lease or a direct financing lease and retains an interest in the unguaranteed residual asset, the lessor shall not continue to accrete the unguaranteed residual asset to its estimated value over the remaining lease term. The lessor shall report any remaining unguaranteed residual asset thereafter at its carrying amount at the date of the sale of the lease receivable and apply Topic 360 on property, plant, and equipment to determine whether the unguaranteed residual asset is impaired.
+At the end of the lease term
+, a lessor shall reclassify the net investment in the lease to the appropriate category of asset (for example, property, plant, and equipment) in accordance with other Topics, measured at the carrying amount of the net investment in the lease. The lessor shall account for the underlying asset that was the subject of a lease in accordance with other Topics.
+**842-30-35-5** At the end of the lease term
+**842-30-35-6** , a lessor shall reclassify the net investment in the lease to the appropriate category of asset (for example, property, plant, and equipment) in accordance with other Topics, measured at the carrying amount of the net investment in the lease. The lessor shall account for the underlying asset that was the subject of a lease in accordance with other Topics.> Operating Leases
+A lessor
+shall continue to measure, including testing for impairment in accordance with Section 360-10-35 on impairment or disposal of long-lived assets, the underlying asset subject to an operating lease in accordance with other Topics.
+**842-30-35-6** A lessor
+**842-30-35-7** shall continue to measure, including testing for impairment in accordance with Section 360-10-35 on impairment or disposal of long-lived assets, the underlying asset subject to an operating lease in accordance with other Topics.> Subleases
+If the original lessee
+enters into a sublease or the original lease agreement is sold or transferred by the original lessee to a third party, the original lessor shall continue to account for the lease as it did before.
+**842-30-35-7** If the original lessee
+
+## 40 Derecognition
+
+General Note:The Derecognition Section provides guidance on determining whether and when an entity should remove an item from the financial statements. For example, the entity would derecognize an asset because it no longer has rights to the asset or it would derecognize a liability because it no longer has any obligation.
+
+### General
+
+**842-30-40-1** > Sales-Type and Direct Financing Leases
+At the commencement date
+, a lessor shall derecognize the carrying amount of the underlying asset (if previously recognized) unless the lease is a sales-type lease and collectibility of the lease payments is not probable (see paragraph 842-30-25-3).
+**842-30-40-1** At the commencement date
+
+##### · > Lease Termination
+
+**842-30-40-2** , a lessor shall derecognize the carrying amount of the underlying asset (if previously recognized) unless the lease is a sales-type lease and collectibility of the lease payments is not probable (see paragraph 842-30-25-3).
+If a sales-type lease
+1. Measure the net investment in the lease for credit losses in accordance with Subtopic 326-20 on financial instruments measured at amortized cost and record any credit loss identified
+2. Reclassify the net investment in the lease to the appropriate category of asset in accordance with other Topics, measured at the sum of the carrying amounts of the lease receivable (less any amounts still expected to be received by the lessor) and the residual asset
+3. Account for the underlying asset that was the subject of the lease in accordance with other Topics.
+
+**842-30-40-2** If a sales-type lease
+1. Measure the net investment in the lease for credit losses in accordance with Subtopic 326-20 on financial instruments measured at amortized cost and record any credit loss identified
+2. Reclassify the net investment in the lease to the appropriate category of asset in accordance with other Topics, measured at the sum of the carrying amounts of the lease receivable (less any amounts still expected to be received by the lessor) and the residual asset
+3. Account for the underlying asset that was the subject of the lease in accordance with other Topics.
+
+##### · > Subleases
+
+**842-30-40-3** If the original lease
+agreement is replaced by a new agreement with a new lessee, the lessor shall account for the termination of the original lease as provided in paragraph 842-30-40-2 and shall classify and account for the new lease as a separate transaction.
+**842-30-40-3** If the original lease
+**842-30-40-4** agreement is replaced by a new agreement with a new lessee, the lessor shall account for the termination of the original lease as provided in paragraph 842-30-40-2 and shall classify and account for the new lease as a separate transaction.
+For guidance on the acquisition of the residual value of an underlying asset
+by a third party, see paragraph 360-10-25-2.
+**842-30-40-4** For guidance on the acquisition of the residual value of an underlying asset
+
+## 45 Other Presentation Matters
+
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+
+### General
+
+##### · > Statement of Financial Position
+
+**842-30-45-1** > Sales-Type and Direct Financing Leases
+A lessor
+shall present lease assets (that is, the aggregate of the lessor's net investment in sales-type leases and direct financing leases) separately from other assets in the statement of financial position.
+A lessor
+**842-30-45-2** shall present lease assets (that is, the aggregate of the lessor's net investment in sales-type leases and direct financing leases) separately from other assets in the statement of financial position.
+Lease
+assets shall be subject to the same considerations as other assets in classification as current or noncurrent assets in a classified balance sheet.
+Lease
+
+##### · > Statement of Comprehensive Income
+
+**842-30-45-3** assets shall be subject to the same considerations as other assets in classification as current or noncurrent assets in a classified balance sheet.
+A lessor
+shall either present in the statement of comprehensive income or disclose in the notes income arising from leases. If a lessor does not separately present lease income in the statement of comprehensive income, the lessor shall disclose which line items include lease income in the statement of comprehensive income.
+A lessor
+**842-30-45-4** shall either present in the statement of comprehensive income or disclose in the notes income arising from leases. If a lessor does not separately present lease income in the statement of comprehensive income, the lessor shall disclose which line items include lease income in the statement of comprehensive income.
+A lessor shall present any profit or loss on the lease recognized at the commencement date
+1. The fair value of the underlying asset at the commencement date
+2. The sum of the lease receivable and any lease payments prepaid by the lessee.
+
+2. Cost of goods sold is the carrying amount of the underlying asset at the commencement date minus the unguaranteed residual asset.
+3. If a lessor uses leases for the purposes of providing finance, the lessor shall present the profit or loss in a single line item.
+
+A lessor shall present any profit or loss on the lease recognized at the commencement date
+1. The fair value of the underlying asset at the commencement date
+2. The sum of the lease receivable and any lease payments prepaid by the lessee.
+
+2. Cost of goods sold is the carrying amount of the underlying asset at the commencement date minus the unguaranteed residual asset.
+3. If a lessor uses leases for the purposes of providing finance, the lessor shall present the profit or loss in a single line item.
+
+##### · > Statement of Cash Flows
+
+In the statement of cash flows, a lessor
+shall classify cash receipts from leases within operating activities. However, if the lessor is within the scope of Topic 942 on financial services—depository and lending, it shall follow the guidance in paragraph 942-230-45-4 for the presentation of principal payments received from leases.
+In the statement of cash flows, a lessor
+
+##### · > Statement of Financial Position
+
+**842-30-45-6** shall classify cash receipts from leases within operating activities. However, if the lessor is within the scope of Topic 942 on financial services—depository and lending, it shall follow the guidance in paragraph 942-230-45-4 for the presentation of principal payments received from leases. > Operating Leases
+A lessor
+shall present the underlying asset subject to an operating lease in accordance with other Topics.
+A lessor
+
+##### · > Statement of Cash Flows
+
+**842-30-45-7** shall present the underlying asset subject to an operating lease in accordance with other Topics.
+In the statement of cash flows, a lessor
+shall classify cash receipts from leases within operating activities.
+In the statement of cash flows, a lessor
+
+## 50 Disclosure
+
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+
+### General
+
+The objective of the disclosure requirements is to enable users of financial statements to assess the amount, timing, and uncertainty of cash flows arising from leases
+1. Its leases (as described in paragraphs 842-30-50-3(a), 842-30-50-4, and 842-30-50-7)
+2. The significant judgments made in applying the requirements in this Topic to those leases (as described in paragraph 842-30-50-3(b))
+3. The amounts recognized in the financial statements relating to those leases (as described in paragraphs 842-30-50-5 through 50-6 and 842-30-50-8 through 50-13).
+
+The objective of the disclosure requirements is to enable users of financial statements to assess the amount, timing, and uncertainty of cash flows arising from leases
+1. Its leases (as described in paragraphs 842-30-50-3(a), 842-30-50-4, and 842-30-50-7)
+2. The significant judgments made in applying the requirements in this Topic to those leases (as described in paragraph 842-30-50-3(b))
+3. The amounts recognized in the financial statements relating to those leases (as described in paragraphs 842-30-50-5 through 50-6 and 842-30-50-8 through 50-13).
+
+A lessor shall consider the level of detail necessary to satisfy the disclosure objective and how much emphasis to place on each of the various requirements. A lessor shall aggregate or disaggregate disclosures so that useful information is not obscured by including a large amount of insignificant detail or by aggregating items that have different characteristics.
+A lessor shall consider the level of detail necessary to satisfy the disclosure objective and how much emphasis to place on each of the various requirements. A lessor shall aggregate or disaggregate disclosures so that useful information is not obscured by including a large amount of insignificant detail or by aggregating items that have different characteristics.
+Information about the nature of its leases, including:
+1. A general description of those leases
+2. The basis and terms and conditions on which variable lease payments are determined
+3. The existence and terms and conditions of options to extend or terminate the lease
+4. The existence and terms and conditions of options for a lessee to purchase the underlying asset.
+
+1. The determination of whether a contract contains a lease (as described in paragraphs 842-10-15-2 through 15-27)
+2. The allocation of the consideration in a contract between lease and nonlease components (as described in paragraphs 842-10-15-28 through 15-32), unless a lessor elects the practical expedient in paragraph 842-10-15-42A and all nonlease components in the contract qualify for that practical expedient
+3. The determination of the amount the lessor expects to derive from the underlying asset following the end of the lease term.
+
+Information about the nature of its leases, including:
+1. A general description of those leases
+2. The basis and terms and conditions on which variable lease payments are determined
+3. The existence and terms and conditions of options to extend or terminate the lease
+4. The existence and terms and conditions of options for a lessee to purchase the underlying asset.
+
+1. The determination of whether a contract contains a lease (as described in paragraphs 842-10-15-2 through 15-27)
+2. The allocation of the consideration in a contract between lease and nonlease components (as described in paragraphs 842-10-15-28 through 15-32), unless a lessor elects the practical expedient in paragraph 842-10-15-42A and all nonlease components in the contract qualify for that practical expedient
+3. The determination of the amount the lessor expects to derive from the underlying asset following the end of the lease term.
+
+Its accounting policy election and the class or classes of underlying assets for which it has elected to apply the practical expedient
+1. The lease components and nonlease components combined as a result of applying the practical expedient
+2. The nonlease components, if any, that are accounted for separately from the combined component because they do not qualify for the practical expedient
+
+3. The Topic the entity applies to the combined component (this Topic or Topic 606).
+
+Its accounting policy election and the class or classes of underlying assets for which it has elected to apply the practical expedient
+1. The lease components and nonlease components combined as a result of applying the practical expedient
+2. The nonlease components, if any, that are accounted for separately from the combined component because they do not qualify for the practical expedient
+
+3. The Topic the entity applies to the combined component (this Topic or Topic 606).
+
+A lessor shall disclose any lease transactions between related parties (see Topic 850 on related party disclosures).
+A lessor shall disclose any lease transactions between related parties (see Topic 850 on related party disclosures).
+For sales-type leases
+1. Profit or loss recognized at the commencement date (disclosed on a gross basis or a net basis consistent with paragraph 842-30-45-4)
+2. Interest income either in aggregate or separated by components of the net investment in the lease.
+
+3. For operating leases, lease income relating to lease payments.
+4. Lease income relating to variable lease payments not included in the measurement of the lease receivable.
+
+For sales-type leases
+1. Profit or loss recognized at the commencement date (disclosed on a gross basis or a net basis consistent with paragraph 842-30-45-4)
+2. Interest income either in aggregate or separated by components of the net investment in the lease.
+
+3. For operating leases, lease income relating to lease payments.
+4. Lease income relating to variable lease payments not included in the measurement of the lease receivable.
+
+A lessor shall disclose in the notes the components of its aggregate net investment in sales-type and direct financing leases (that is, the carrying amount of its lease receivables, its unguaranteed residual assets
+, and any deferred selling profit on direct financing leases).
+A lessor shall disclose in the notes the components of its aggregate net investment in sales-type and direct financing leases (that is, the carrying amount of its lease receivables, its unguaranteed residual assets
+**842-30-50-7** , and any deferred selling profit on direct financing leases).
+Its risk management strategy for residual assets
+2. The carrying amount of residual assets covered by residual value guarantees (excluding guarantees considered to be lease payments for the lessor, as described in paragraph 842-30-30-1(a)(2))
+3. Any other means by which the lessor reduces its residual asset risk (for example, buyback agreements or variable lease payments for use in excess of specified limits).
+
+Its risk management strategy for residual assets
+2. The carrying amount of residual assets covered by residual value guarantees (excluding guarantees considered to be lease payments for the lessor, as described in paragraph 842-30-30-1(a)(2))
+3. Any other means by which the lessor reduces its residual asset risk (for example, buyback agreements or variable lease payments for use in excess of specified limits).
+
+**842-30-50-8** > Sales-Type and Direct Financing Leases
+In addition to the disclosures required by paragraphs 842-30-50-3 through 50-7
+, a lessor also shall provide the disclosures in paragraphs 842-30-50-9 through 50-10 for sales-type leases and direct financing leases.
+In addition to the disclosures required by paragraphs 842-30-50-3 through 50-7
+**842-30-50-9** , a lessor also shall provide the disclosures in paragraphs 842-30-50-9 through 50-10 for sales-type leases and direct financing leases.
+A lessor shall explain significant changes in the balance of its unguaranteed residual assets
+and deferred selling profit on direct financing leases.
+A lessor shall explain significant changes in the balance of its unguaranteed residual assets
+**842-30-50-10** and deferred selling profit on direct financing leases.
+A lessor shall disclose a maturity analysis of its lease receivables
+, showing the undiscounted cash flows to be received on an annual basis for a minimum of each of the first five years and a total of the amounts for the remaining years. A lessor shall disclose a reconciliation of the undiscounted cash flows to the lease receivables recognized in the statement of financial position (or disclosed separately in the notes).
+A lessor shall disclose a maturity analysis of its lease receivables
+**842-30-50-11** , showing the undiscounted cash flows to be received on an annual basis for a minimum of each of the first five years and a total of the amounts for the remaining years. A lessor shall disclose a reconciliation of the undiscounted cash flows to the lease receivables recognized in the statement of financial position (or disclosed separately in the notes). > Operating Leases
+In addition to the disclosures required by paragraphs 842-30-50-3 through 50-7
+, a lessor also shall provide the disclosures in paragraphs 842-30-50-12 through 50-13 for operating leases.
+In addition to the disclosures required by paragraphs 842-30-50-3 through 50-7
+**842-30-50-12** , a lessor also shall provide the disclosures in paragraphs 842-30-50-12 through 50-13 for operating leases.
+A lessor shall disclose a maturity analysis of lease payments
+, showing the undiscounted cash flows to be received on an annual basis for a minimum of each of the first five years and a total of the amounts for the remaining years. A lessor shall present that maturity analysis separately from the maturity analysis required by paragraph 842-30-50-10 for sales-type leases and direct financing leases.
+A lessor shall disclose a maturity analysis of lease payments
+**842-30-50-13** , showing the undiscounted cash flows to be received on an annual basis for a minimum of each of the first five years and a total of the amounts for the remaining years. A lessor shall present that maturity analysis separately from the maturity analysis required by paragraph 842-30-50-10 for sales-type leases and direct financing leases.
+A lessor shall provide disclosures required by Topic 360 on property, plant, and equipment separately for underlying assets
+under operating leases from owned assets.
+A lessor shall provide disclosures required by Topic 360 on property, plant, and equipment separately for underlying assets
+**842-30-50-14** under operating leases from owned assets. > Separating Components of a Contract
+A lessor that makes the accounting policy election in paragraph 842-10-15-39A shall disclose its accounting policy election and comply with the disclosure requirements in paragraphs 235-10-50-1 through 50-6
+.
+A lessor that makes the accounting policy election in paragraph 842-10-15-39A shall disclose its accounting policy election and comply with the disclosure requirements in paragraphs 235-10-50-1 through 50-6
+
+## 55 Implementation Guidance and Illustrations
+
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+
+### General
+
+##### · > Sales of Equipment with Guaranteed Minimum Resale Amount
+
+**842-30-55-1** > Implementation Guidance
+This implementation guidance addresses the application of the provisions of this Subtopic in the following circumstances. A manufacturer sells equipment with an expected useful life
+of several years to end users (purchasers) utilizing various sales incentive programs. Under one such sales incentive program, the manufacturer contractually guarantees that the purchaser will receive a minimum resale amount at the time the equipment is disposed of, contingent on certain requirements.
+This implementation guidance addresses the application of the provisions of this Subtopic in the following circumstances. A manufacturer sells equipment with an expected useful life
+**842-30-55-2** of several years to end users (purchasers) utilizing various sales incentive programs. Under one such sales incentive program, the manufacturer contractually guarantees that the purchaser will receive a minimum resale amount at the time the equipment is disposed of, contingent on certain requirements.
+Reacquire the equipment at a guaranteed price at specified time periods as a means to facilitate its resale
+2. Pay the purchaser for the deficiency, if any, between the sales proceeds received for the equipment and the guaranteed minimum resale value.
+
+There may be dealer involvement in these types of transactions, but the minimum resale guarantee is the responsibility of the manufacturer.
+Reacquire the equipment at a guaranteed price at specified time periods as a means to facilitate its resale
+2. Pay the purchaser for the deficiency, if any, between the sales proceeds received for the equipment and the guaranteed minimum resale value.
+
+**842-30-55-3** There may be dealer involvement in these types of transactions, but the minimum resale guarantee is the responsibility of the manufacturer.
+A sales incentive program in which an entity (for example, a manufacturer) contractually guarantees that it has either a right or an obligation to reacquire the equipment at a guaranteed price (or prices) at a specified time (or specified time periods) as a means to facilitate its resale should be evaluated in accordance with the guidance on satisfaction of performance obligations in paragraph 606-10-25-30 and the guidance on repurchase agreements in paragraphs 606-10-55-66 through 55-78
+. If that evaluation results in a lease, the manufacturer should account for the transaction as a lease using the principles of lease accounting in Subtopic 842-10 and in this Subtopic.
+A sales incentive program in which an entity (for example, a manufacturer) contractually guarantees that it has either a right or an obligation to reacquire the equipment at a guaranteed price (or prices) at a specified time (or specified time periods) as a means to facilitate its resale should be evaluated in accordance with the guidance on satisfaction of performance obligations in paragraph 606-10-25-30 and the guidance on repurchase agreements in paragraphs 606-10-55-66 through 55-78
+**842-30-55-4** . If that evaluation results in a lease, the manufacturer should account for the transaction as a lease using the principles of lease accounting in Subtopic 842-10 and in this Subtopic.
+A sales incentive program in which an entity (for example, a manufacturer) contractually guarantees that it will pay a purchaser for the deficiency, if any, between the sales proceeds received for the equipment and the guaranteed minimum resale value should be accounted for in accordance with Topic 460 on guarantees and Topic 606 on revenue from contracts
+with customers.
+A sales incentive program in which an entity (for example, a manufacturer) contractually guarantees that it will pay a purchaser for the deficiency, if any, between the sales proceeds received for the equipment and the guaranteed minimum resale value should be accounted for in accordance with Topic 460 on guarantees and Topic 606 on revenue from contracts
+**842-30-55-5** with customers.
+The lease payments
+used as part of the determination of whether the transaction should be classified as an operating lease, a direct financing lease, or a sales-type lease generally will be the difference between the proceeds upon the equipment's initial transfer and the amount of the residual value guarantee to the purchaser as of the first exercise date of the guarantee.
+The lease payments
+**842-30-55-6** used as part of the determination of whether the transaction should be classified as an operating lease, a direct financing lease, or a sales-type lease generally will be the difference between the proceeds upon the equipment's initial transfer and the amount of the residual value guarantee to the purchaser as of the first exercise date of the guarantee.
+If the transaction qualifies as an operating lease, the net proceeds upon the equipment's initial transfer should be recorded as a liability in the manufacturer's balance sheet.
+If the transaction qualifies as an operating lease, the net proceeds upon the equipment's initial transfer should be recorded as a liability in the manufacturer's balance sheet.
+The liability is then subsequently reduced on a pro rata basis over the period to the first exercise date of the guarantee to the amount of the guaranteed residual value at that date with corresponding credits to revenue in the manufacturer's income statement. Any further reduction in the guaranteed residual value resulting from the purchaser's decision to continue to use the equipment should be recognized in a similar manner.
+The liability is then subsequently reduced on a pro rata basis over the period to the first exercise date of the guarantee to the amount of the guaranteed residual value at that date with corresponding credits to revenue in the manufacturer's income statement. Any further reduction in the guaranteed residual value resulting from the purchaser's decision to continue to use the equipment should be recognized in a similar manner.
+The equipment should be included in the manufacturer's balance sheet and depreciated following the manufacturer's normal depreciation policy.
+The equipment should be included in the manufacturer's balance sheet and depreciated following the manufacturer's normal depreciation policy.
+The Impairment or Disposal of Long-Lived Assets Subsections of Subtopic 360-10 on property, plant, and equipment provide guidance on the accounting for any potential impairment of the equipment.
+The Impairment or Disposal of Long-Lived Assets Subsections of Subtopic 360-10 on property, plant, and equipment provide guidance on the accounting for any potential impairment of the equipment.
+At the time the purchaser elects to exercise the residual value guarantee by selling the equipment to another party, the liability should be reduced by the amount, if any, paid to the purchaser. The remaining undepreciated carrying amount of the equipment and any remaining liability should be removed from the balance sheet and included in the determination of income of the period of the equipment's sale.
+At the time the purchaser elects to exercise the residual value guarantee by selling the equipment to another party, the liability should be reduced by the amount, if any, paid to the purchaser. The remaining undepreciated carrying amount of the equipment and any remaining liability should be removed from the balance sheet and included in the determination of income of the period of the equipment's sale.
+Alternatively, if the purchaser exercises the residual value guarantee by selling the equipment to the manufacturer at the guaranteed price, the liability should be reduced by the amount paid to the purchaser. Any remaining liability should be included in the determination of income of the period of the exercise of the guarantee.
+Alternatively, if the purchaser exercises the residual value guarantee by selling the equipment to the manufacturer at the guaranteed price, the liability should be reduced by the amount paid to the purchaser. Any remaining liability should be included in the determination of income of the period of the exercise of the guarantee.
+The accounting for a guaranteed minimum resale value is not in the scope of Topic 815 on derivatives and hedging. In the transaction described, the embedded guarantee feature is not an embedded derivative instrument that must be accounted for separately from the lease because it does not meet the criterion in paragraph 815-15-25-1(c).
+The accounting for a guaranteed minimum resale value is not in the scope of Topic 815 on derivatives and hedging. In the transaction described, the embedded guarantee feature is not an embedded derivative instrument that must be accounted for separately from the lease because it does not meet the criterion in paragraph 815-15-25-1(c).
+It is not exchange traded.
+2. The underlying on which settlement is based is the price of a nonfinancial asset of one of the parties, and that asset is not readily convertible to cash. It is assumed that the equipment is not readily convertible to cash, as that phrase is used in Topic 815.
+
+It is not exchange traded.
+2. The underlying on which settlement is based is the price of a nonfinancial asset of one of the parties, and that asset is not readily convertible to cash. It is assumed that the equipment is not readily convertible to cash, as that phrase is used in Topic 815.
+
+Paragraph 815-10-15-59(b)(2) states that the related exception applies only if the nonfinancial asset related to the underlying is owned by the party that would not benefit under the contract from an increase in the price or value of the nonfinancial asset. (In some circumstances, the exclusion in paragraph 815-10-15-63 also would apply.)
+Paragraph 815-10-15-59(b)(2) states that the related exception applies only if the nonfinancial asset related to the underlying is owned by the party that would not benefit under the contract from an increase in the price or value of the nonfinancial asset. (In some circumstances, the exclusion in paragraph 815-10-15-63 also would apply.)
+Lastly, Topic 460 on guarantees does not affect the guarantor's accounting for the guarantee because that Topic does not apply to a guarantee for which the underlying is related to an asset of the guarantor. Because the manufacturer continues to recognize the residual value of the equipment guaranteed by the manufacturer as an asset (included in the seller-lessor's net investment in the lease
+) if recording a sales-type lease, that guarantee does not meet the characteristics in paragraph 460-10-15-4 and is, therefore, not subject to the guidance in Topic 460. Additionally, if the lease is classified as an operating lease, the manufacturer does not remove the asset from its books, and its guarantee would be a market value guarantee of its own asset. A market value guarantee of the guarantor's own asset is not within the scope of Topic 460, and the guidance in paragraphs 842-10-55-32 through 55-33 for an operating lease is not affected. As a result, the guarantor's accounting for the guarantee is unaffected by Topic 460.
+Lastly, Topic 460 on guarantees does not affect the guarantor's accounting for the guarantee because that Topic does not apply to a guarantee for which the underlying is related to an asset of the guarantor. Because the manufacturer continues to recognize the residual value of the equipment guaranteed by the manufacturer as an asset (included in the seller-lessor's net investment in the lease
+
+##### · > Guarantee Payments Received
+
+**842-30-55-16** ) if recording a sales-type lease, that guarantee does not meet the characteristics in paragraph 460-10-15-4 and is, therefore, not subject to the guidance in Topic 460. Additionally, if the lease is classified as an operating lease, the manufacturer does not remove the asset from its books, and its guarantee would be a market value guarantee of its own asset. A market value guarantee of the guarantor's own asset is not within the scope of Topic 460, and the guidance in paragraphs 842-10-55-32 through 55-33 for an operating lease is not affected. As a result, the guarantor's accounting for the guarantee is unaffected by Topic 460.
+Indemnification payments related to tax effects other than the investment tax credit should be reflected by the lessor
+in income consistent with the classification of the lease. That is, the payments should be accounted for as an adjustment of the lessor's net investment in the lease if the lease is a sales-type lease or a direct financing lease or recognized ratably over the lease term if the lease is an operating lease.
+Indemnification payments related to tax effects other than the investment tax credit should be reflected by the lessor
+
+##### · > Pattern of Benefit from Use of the Underlying Asset
+
+**842-30-55-17** in income consistent with the classification of the lease. That is, the payments should be accounted for as an adjustment of the lessor's net investment in the lease if the lease is a sales-type lease or a direct financing lease or recognized ratably over the lease term if the lease is an operating lease.
+This Subtopic considers the right to control the use of the underlying asset
+as the equivalent of physical use. If the lessee controls the use of the underlying asset, recognition of lease income in accordance with paragraph 842-30-25-11(a) should not be affected by the extent to which the lessee uses the underlying asset.
+This Subtopic considers the right to control the use of the underlying asset
+
+##### · > Fair Value of the Underlying Asset
+
+**842-30-55-17A** as the equivalent of physical use. If the lessee controls the use of the underlying asset, recognition of lease income in accordance with paragraph 842-30-25-11(a) should not be affected by the extent to which the lessee uses the underlying asset.
+Notwithstanding the definition of fair value
+, if a lessor is not a manufacturer or a dealer, the fair value of the underlying asset at lease commencement is its cost, reflecting any volume or trade discounts that may apply. However, if there has been a significant lapse of time between the acquisition of the underlying asset and lease commencement, the definition of fair value shall be applied.
+Notwithstanding the definition of fair value
+
+##### · > Illustration of Lessor Accounting
+
+**842-30-55-18** , if a lessor is not a manufacturer or a dealer, the fair value of the underlying asset at lease commencement is its cost, reflecting any volume or trade discounts that may apply. However, if there has been a significant lapse of time between the acquisition of the underlying asset and lease commencement, the definition of fair value shall be applied. > Illustrations
+Example 1 illustrates how a lessor would account for sales-type leases and direct financing leases.
+Example 1 illustrates how a lessor would account for sales-type leases and direct financing leases.
+**842-30-55-19** · · > Example 1—Lessor Accounting Example· · · > Case A—Lessor Accounting—Sales-Type Lease
+Lessor enters into a 6-year lease of equipment with Lessee, receiving annual lease payments of $9,500, payable at the end of each year. Lessee provides a residual value guarantee of $13,000. Lessor concludes that it is probable it will collect the lease payments and any amount necessary to satisfy the residual value guarantee provided by Lessee. The equipment has a 9-year estimated remaining economic life, a carrying amount of $54,000, and a fair value of $62,000 at the commencement date. Lessor expects the residual value of the equipment to be $20,000 at the end of the 6-year lease term. The lease does not transfer ownership of the underlying asset to Lessee or contain an option for Lessee to purchase the underlying asset. Lessor incurs $2,000 in initial direct costs in connection with obtaining the lease, and no amounts are prepaid by Lessee to Lessor. The rate implicit in the lease is 5.4839 percent.
+Lessor enters into a 6-year lease of equipment with Lessee, receiving annual lease payments of $9,500, payable at the end of each year. Lessee provides a residual value guarantee of $13,000. Lessor concludes that it is probable it will collect the lease payments and any amount necessary to satisfy the residual value guarantee provided by Lessee. The equipment has a 9-year estimated remaining economic life, a carrying amount of $54,000, and a fair value of $62,000 at the commencement date. Lessor expects the residual value of the equipment to be $20,000 at the end of the 6-year lease term. The lease does not transfer ownership of the underlying asset to Lessee or contain an option for Lessee to purchase the underlying asset. Lessor incurs $2,000 in initial direct costs in connection with obtaining the lease, and no amounts are prepaid by Lessee to Lessor. The rate implicit in the lease is 5.4839 percent.
+Lessor classifies the lease as a sales-type lease because the sum of the present value of the lease payments and the present value of the residual value guaranteed by the lessee amounts to substantially all of the fair value of the equipment. None of the other criteria to be classified as a sales-type lease are met. In accordance with paragraph 842-10-25-4, the discount rate used to determine the present value of the lease payments and the present value of the residual value guaranteed by Lessee (5.4839 percent) for purposes of assessing whether the lease is a sales-type lease under the criterion in paragraph 842-10-25-2(d) assumes that no initial direct costs will be capitalized because the fair value of the equipment is different from its carrying amount.
+Lessor classifies the lease as a sales-type lease because the sum of the present value of the lease payments and the present value of the residual value guaranteed by the lessee amounts to substantially all of the fair value of the equipment. None of the other criteria to be classified as a sales-type lease are met. In accordance with paragraph 842-10-25-4, the discount rate used to determine the present value of the lease payments and the present value of the residual value guaranteed by Lessee (5.4839 percent) for purposes of assessing whether the lease is a sales-type lease under the criterion in paragraph 842-10-25-2(d) assumes that no initial direct costs will be capitalized because the fair value of the equipment is different from its carrying amount.
+Lessor measures the net investment in the lease at $62,000 at lease commencement, which is equal to the fair value of the equipment. The net investment in the lease consists of the lease receivable (which includes the 6 annual payments of $9,500 and the residual value guarantee of $13,000, both discounted at the rate implicit in the lease, which equals $56,920) and the present value of the unguaranteed residual value (the present value of the difference between the expected residual value of $20,000 and the residual value guarantee of $13,000, which equals $5,080). Lessor calculates the selling profit on the lease as $8,000, which is the difference between the lease receivable ($56,920) and the carrying amount of the equipment net of the unguaranteed residual asset ($54,000 - $5,080 = $48,920). The initial direct costs do not factor into the calculation of the selling profit in this Example because they are not eligible for deferral on the basis of the guidance in paragraph 842-30-25-1(c) (that is, because the fair value of the underlying asset is different from its carrying amount at the commencement date).
+Lessor measures the net investment in the lease at $62,000 at lease commencement, which is equal to the fair value of the equipment. The net investment in the lease consists of the lease receivable (which includes the 6 annual payments of $9,500 and the residual value guarantee of $13,000, both discounted at the rate implicit in the lease, which equals $56,920) and the present value of the unguaranteed residual value (the present value of the difference between the expected residual value of $20,000 and the residual value guarantee of $13,000, which equals $5,080). Lessor calculates the selling profit on the lease as $8,000, which is the difference between the lease receivable ($56,920) and the carrying amount of the equipment net of the unguaranteed residual asset ($54,000 - $5,080 = $48,920). The initial direct costs do not factor into the calculation of the selling profit in this Example because they are not eligible for deferral on the basis of the guidance in paragraph 842-30-25-1(c) (that is, because the fair value of the underlying asset is different from its carrying amount at the commencement date).
+At the commencement date, Lessor derecognizes the equipment (carrying amount of $54,000) and recognizes the net investment in the lease of $62,000 and the selling profit of $8,000. Lessor also pays and recognizes the initial direct costs of $2,000 as an expense.
+At the commencement date, Lessor derecognizes the equipment (carrying amount of $54,000) and recognizes the net investment in the lease of $62,000 and the selling profit of $8,000. Lessor also pays and recognizes the initial direct costs of $2,000 as an expense.
+At the end of Year 1, Lessor recognizes the receipt of a lease payment of $9,500 and interest on the net investment in the lease (the beginning balance of the net investment in the lease of $62,000 × the rate implicit in the lease of 5.4839% = $3,400), resulting in a balance in the net investment of the lease of $55,900. For disclosure purposes, Lessor also calculates the separate components of the net investment in the lease: the lease receivable and the unguaranteed residual asset. The lease receivable equals $50,541 (the beginning balance of the lease receivable of $56,920 - the annual lease payment received of $9,500 + the amount of interest income on the lease receivable during Year 1 of $3,121, which is $56,920 × 5.4839%). The unguaranteed residual asset equals $5,360 (the beginning balance of the unguaranteed residual asset of $5,081 + the interest income on the unguaranteed residual asset during Year 1 of $279, which is $5,081 × 5.4839%).
+At the end of Year 1, Lessor recognizes the receipt of a lease payment of $9,500 and interest on the net investment in the lease (the beginning balance of the net investment in the lease of $62,000 × the rate implicit in the lease of 5.4839% = $3,400), resulting in a balance in the net investment of the lease of $55,900. For disclosure purposes, Lessor also calculates the separate components of the net investment in the lease: the lease receivable and the unguaranteed residual asset. The lease receivable equals $50,541 (the beginning balance of the lease receivable of $56,920 - the annual lease payment received of $9,500 + the amount of interest income on the lease receivable during Year 1 of $3,121, which is $56,920 × 5.4839%). The unguaranteed residual asset equals $5,360 (the beginning balance of the unguaranteed residual asset of $5,081 + the interest income on the unguaranteed residual asset during Year 1 of $279, which is $5,081 × 5.4839%).
+At the end of Year 6, Lessor reclassifies the net investment in the lease, then equal to the estimated residual value of the underlying asset of $20,000, as equipment.
+At the end of Year 6, Lessor reclassifies the net investment in the lease, then equal to the estimated residual value of the underlying asset of $20,000, as equipment.
+**842-30-55-25** · · · > Case B—Lessor Accounting—Sales-Type Lease—Collectibility of the Lease Payments Is Not Probable
+Assume the same facts and circumstances as in Case A (paragraphs 842-30-55-19 through 55-24
+1. Lessee intends to make the lease payments primarily from income derived from its business in which the equipment will be used (which is a business facing significant risks because of high competition in the industry and Lessee's limited experience)
+2. Lessee has limited credit history and no significant other income or assets with which to make the payments if the business is not successful.
+
+Assume the same facts and circumstances as in Case A (paragraphs 842-30-55-19 through 55-24
+1. Lessee intends to make the lease payments primarily from income derived from its business in which the equipment will be used (which is a business facing significant risks because of high competition in the industry and Lessee's limited experience)
+2. Lessee has limited credit history and no significant other income or assets with which to make the payments if the business is not successful.
+
+In accordance with paragraph 842-30-25-3, Lessor does not derecognize the equipment and does not recognize a net investment in the lease or any selling profit or selling loss. However, consistent with Case A, Lessor pays and recognizes the initial direct costs of $2,000 as an expense at the commencement date.
+In accordance with paragraph 842-30-25-3, Lessor does not derecognize the equipment and does not recognize a net investment in the lease or any selling profit or selling loss. However, consistent with Case A, Lessor pays and recognizes the initial direct costs of $2,000 as an expense at the commencement date.
+At the end of Year 1, Lessor reassesses whether it is probable it will collect the lease payments and any amount necessary to satisfy the residual value guarantee provided by Lessee and concludes that it is not probable. In addition, neither of the events in paragraph 842-30-25-3(b) has occurred. The contract has not been terminated and Lessor has not repossessed the equipment because Lessee is fulfilling the terms of the contract. Consequently, Lessor accounts for the $9,500 Year 1 lease payment as a deposit liability in accordance with paragraph 842-30-25-3. Lessor recognizes depreciation expense on the equipment of $7,714 ($54,000 carrying value ÷ 7-year useful life).
+At the end of Year 1, Lessor reassesses whether it is probable it will collect the lease payments and any amount necessary to satisfy the residual value guarantee provided by Lessee and concludes that it is not probable. In addition, neither of the events in paragraph 842-30-25-3(b) has occurred. The contract has not been terminated and Lessor has not repossessed the equipment because Lessee is fulfilling the terms of the contract. Consequently, Lessor accounts for the $9,500 Year 1 lease payment as a deposit liability in accordance with paragraph 842-30-25-3. Lessor recognizes depreciation expense on the equipment of $7,714 ($54,000 carrying value ÷ 7-year useful life).
+Lessor's accounting in Years 2 and 3 is the same as in Year 1. At the end of Year 4, Lessee makes the fourth $9,500 annual lease payment such that the deposit liability equals $38,000. Lessor concludes that collectibility of the lease payments and any amount necessary to satisfy the residual value guarantee provided by Lessee is now probable on the basis of Lessee's payment history under the contract and the fact that Lessee has been successfully operating its business for four years. Lessor does not reassess the classification of the lease as a sales-type lease.
+Lessor's accounting in Years 2 and 3 is the same as in Year 1. At the end of Year 4, Lessee makes the fourth $9,500 annual lease payment such that the deposit liability equals $38,000. Lessor concludes that collectibility of the lease payments and any amount necessary to satisfy the residual value guarantee provided by Lessee is now probable on the basis of Lessee's payment history under the contract and the fact that Lessee has been successfully operating its business for four years. Lessor does not reassess the classification of the lease as a sales-type lease.
+Consequently, at the end of Year 4, Lessor derecognizes the equipment, which has a carrying amount of $23,143, and recognizes a net investment in the lease of $35,519. The net investment in the lease consists of the lease receivable (the sum of the 2 remaining annual payments of $9,500 and the residual value guarantee of $13,000, discounted at the rate implicit in the lease of 5.4839 percent determined at the commencement date, which equals $29,228) and the unguaranteed residual asset (the present value of the difference between the expected residual value of $20,000 and the residual value guarantee of $13,000, which equals $6,291). Lessor recognizes selling profit of $50,376, the difference between (a) the sum of the lease receivable and the carrying amount of the deposit liability ($29,228 lease receivable + $38,000 in lease payments already made = $67,228) and (b) the carrying amount of the equipment, net of the unguaranteed residual asset ($23,143 - $6,291 = $16,852).
+Consequently, at the end of Year 4, Lessor derecognizes the equipment, which has a carrying amount of $23,143, and recognizes a net investment in the lease of $35,519. The net investment in the lease consists of the lease receivable (the sum of the 2 remaining annual payments of $9,500 and the residual value guarantee of $13,000, discounted at the rate implicit in the lease of 5.4839 percent determined at the commencement date, which equals $29,228) and the unguaranteed residual asset (the present value of the difference between the expected residual value of $20,000 and the residual value guarantee of $13,000, which equals $6,291). Lessor recognizes selling profit of $50,376, the difference between (a) the sum of the lease receivable and the carrying amount of the deposit liability ($29,228 lease receivable + $38,000 in lease payments already made = $67,228) and (b) the carrying amount of the equipment, net of the unguaranteed residual asset ($23,143 - $6,291 = $16,852).
+After the end of Year 4, Lessor accounts for the remaining two years of the lease in the same manner as any other sales-type lease. Consistent with Case A, at the end of Year 6, Lessor reclassifies the net investment in the lease, then equal to the estimated residual value of the underlying asset of $20,000, as equipment.
+After the end of Year 4, Lessor accounts for the remaining two years of the lease in the same manner as any other sales-type lease. Consistent with Case A, at the end of Year 6, Lessor reclassifies the net investment in the lease, then equal to the estimated residual value of the underlying asset of $20,000, as equipment.
+**842-30-55-31** · · · > Case C—Lessor Accounting—Direct Financing Lease
+Assume the same facts and circumstances as in Case A (paragraphs 842-30-55-19 through 55-24
+), except that the $13,000 residual value guarantee is provided by a third party, not by Lessee. Collectibility of the lease payments and any amount necessary to satisfy the third-party residual value guarantee is probable.
+Assume the same facts and circumstances as in Case A (paragraphs 842-30-55-19 through 55-24
+**842-30-55-32** ), except that the $13,000 residual value guarantee is provided by a third party, not by Lessee. Collectibility of the lease payments and any amount necessary to satisfy the third-party residual value guarantee is probable.
+None of the criteria in paragraph 842-10-25-2 to be classified as a sales-type lease are met. In accordance with paragraph 842-10-25-4, the discount rate used to determine the present value of the lease payments (5.4839 percent) for purposes of assessing whether the lease is a sales-type lease under the criterion in paragraph 842-10-25-2(d) assumes that no initial direct costs will be capitalized because the fair value of the equipment is different from its carrying amount.
+None of the criteria in paragraph 842-10-25-2 to be classified as a sales-type lease are met. In accordance with paragraph 842-10-25-4, the discount rate used to determine the present value of the lease payments (5.4839 percent) for purposes of assessing whether the lease is a sales-type lease under the criterion in paragraph 842-10-25-2(d) assumes that no initial direct costs will be capitalized because the fair value of the equipment is different from its carrying amount.
+Rather, Lessor classifies the lease as a direct financing lease because the sum of the present value of the lease payments and the present value of the residual value guaranteed by the third party amounts to substantially all of the fair value of the equipment, and it is probable that Lessor will collect the lease payments plus any amount necessary to satisfy the third-party residual value guarantee. The discount rate used to determine the present value of the lease payments and the present value of the third-party residual value guarantee for purposes of assessing whether the lease meets the criterion in paragraph 842-10-25-3(b)(1) to be classified as a direct financing lease is the rate implicit in the lease of 4.646 percent, which includes the initial direct costs of $2,000 that Lessor incurred.
+Rather, Lessor classifies the lease as a direct financing lease because the sum of the present value of the lease payments and the present value of the residual value guaranteed by the third party amounts to substantially all of the fair value of the equipment, and it is probable that Lessor will collect the lease payments plus any amount necessary to satisfy the third-party residual value guarantee. The discount rate used to determine the present value of the lease payments and the present value of the third-party residual value guarantee for purposes of assessing whether the lease meets the criterion in paragraph 842-10-25-3(b)(1) to be classified as a direct financing lease is the rate implicit in the lease of 4.646 percent, which includes the initial direct costs of $2,000 that Lessor incurred.
+At the commencement date, Lessor derecognizes the equipment and recognizes a net investment in the lease of $56,000, which is equal to the carrying amount of the underlying asset of $54,000 plus the initial direct costs of $2,000 that are included in the measurement of the net investment in the lease in accordance with paragraph 842-30-25-8 (that is, because the lease is classified as a direct financing lease). The net investment in the lease includes a lease receivable of $58,669 (the present value of the 6 annual lease payments of $9,500 and the third-party residual value guarantee of $13,000, discounted at the rate implicit in the lease of 4.646 percent), an unguaranteed residual asset of $5,331 (the present value of the difference between the estimated residual value of $20,000 and the third-party residual value guarantee of $13,000, discounted at 4.646 percent), and deferred selling profit of $8,000.
+At the commencement date, Lessor derecognizes the equipment and recognizes a net investment in the lease of $56,000, which is equal to the carrying amount of the underlying asset of $54,000 plus the initial direct costs of $2,000 that are included in the measurement of the net investment in the lease in accordance with paragraph 842-30-25-8 (that is, because the lease is classified as a direct financing lease). The net investment in the lease includes a lease receivable of $58,669 (the present value of the 6 annual lease payments of $9,500 and the third-party residual value guarantee of $13,000, discounted at the rate implicit in the lease of 4.646 percent), an unguaranteed residual asset of $5,331 (the present value of the difference between the estimated residual value of $20,000 and the third-party residual value guarantee of $13,000, discounted at 4.646 percent), and deferred selling profit of $8,000.
+The lease receivable ($58,669); minus
+2. The carrying amount of the equipment ($54,000), net of the unguaranteed residual asset ($5,331), which equals $48,669; minus
+3. The initial direct costs included in the measurement of the net investment in the lease ($2,000).
+
+The lease receivable ($58,669); minus
+2. The carrying amount of the equipment ($54,000), net of the unguaranteed residual asset ($5,331), which equals $48,669; minus
+3. The initial direct costs included in the measurement of the net investment in the lease ($2,000).
+
+At the end of Year 1, Lessor recognizes the receipt of the lease payment of $9,500 and interest on the net investment in the lease of $4,624 (the beginning balance of the net investment in the lease of $56,000 × the discount rate that, at the commencement date, would have resulted in the sum of the lease receivable and the unguaranteed residual asset equaling $56,000, which is 8.258 percent), resulting in a balance in the net investment of the lease of $51,124.
+At the end of Year 1, Lessor recognizes the receipt of the lease payment of $9,500 and interest on the net investment in the lease of $4,624 (the beginning balance of the net investment in the lease of $56,000 × the discount rate that, at the commencement date, would have resulted in the sum of the lease receivable and the unguaranteed residual asset equaling $56,000, which is 8.258 percent), resulting in a balance in the net investment of the lease of $51,124.
+Also at the end of Year 1, Lessor calculates, for disclosure purposes, the separate components of the net investment in the lease: the lease receivable, the unguaranteed residual asset, and the deferred selling profit. The lease receivable equals $51,895 (the beginning balance of the lease receivable of $58,669 - the annual lease payment received of $9,500 + the amount of interest income on the lease receivable during Year 1 of $2,726, which is $58,669 × 4.646%). The unguaranteed residual asset equals $5,578 (the beginning balance of the unguaranteed residual asset of $5,331 + the interest income on the unguaranteed residual asset during Year 1 of $247, which is $5,331 × 4.646%). The deferred selling profit equals $6,349 (the initial deferred selling profit of $8,000 - $1,651 recognized during Year 1 [the $1,651 is the difference between the interest income recognized on the net investment in the lease during Year 1 of $4,624 calculated in paragraph 842-30-55-35 and the sum of the interest income earned on the lease receivable and the unguaranteed residual asset during Year 1]).
+Also at the end of Year 1, Lessor calculates, for disclosure purposes, the separate components of the net investment in the lease: the lease receivable, the unguaranteed residual asset, and the deferred selling profit. The lease receivable equals $51,895 (the beginning balance of the lease receivable of $58,669 - the annual lease payment received of $9,500 + the amount of interest income on the lease receivable during Year 1 of $2,726, which is $58,669 × 4.646%). The unguaranteed residual asset equals $5,578 (the beginning balance of the unguaranteed residual asset of $5,331 + the interest income on the unguaranteed residual asset during Year 1 of $247, which is $5,331 × 4.646%). The deferred selling profit equals $6,349 (the initial deferred selling profit of $8,000 - $1,651 recognized during Year 1 [the $1,651 is the difference between the interest income recognized on the net investment in the lease during Year 1 of $4,624 calculated in paragraph 842-30-55-35 and the sum of the interest income earned on the lease receivable and the unguaranteed residual asset during Year 1]).
+At the end of Year 2, Lessor recognizes the receipt of the lease payment of $9,500 and interest on the net investment in the lease (the beginning of Year 2 balance of the net investment in the lease of $51,124 × 8.258%, which is $4,222), resulting in a carrying amount of the net investment in the lease of $45,846.
+At the end of Year 2, Lessor recognizes the receipt of the lease payment of $9,500 and interest on the net investment in the lease (the beginning of Year 2 balance of the net investment in the lease of $51,124 × 8.258%, which is $4,222), resulting in a carrying amount of the net investment in the lease of $45,846.
+Also at the end of Year 2, Lessor calculates the separate components of the net investment in the lease. The lease receivable equals $44,806 (the beginning of Year 2 balance of $51,895 - the annual lease payment received of $9,500 + the interest income earned on the lease receivable during Year 2 of $2,411, which is $51,895 × 4.646%). The unguaranteed residual asset equals $5,837 (the beginning of Year 2 balance of the unguaranteed residual asset of $5,578 + the interest income earned on the unguaranteed residual asset during Year 2 of $259, which is $5,578 × 4.646%). The deferred selling profit equals $4,797 (the beginning of Year 2 balance of deferred selling profit of $6,349 - $1,552 recognized during Year 2 [the $1,552 is the difference between the interest income recognized on the net investment in the lease during Year 2 of $4,222 and the sum of the interest income earned on the lease receivable and the unguaranteed residual asset during Year 2]).
+Also at the end of Year 2, Lessor calculates the separate components of the net investment in the lease. The lease receivable equals $44,806 (the beginning of Year 2 balance of $51,895 - the annual lease payment received of $9,500 + the interest income earned on the lease receivable during Year 2 of $2,411, which is $51,895 × 4.646%). The unguaranteed residual asset equals $5,837 (the beginning of Year 2 balance of the unguaranteed residual asset of $5,578 + the interest income earned on the unguaranteed residual asset during Year 2 of $259, which is $5,578 × 4.646%). The deferred selling profit equals $4,797 (the beginning of Year 2 balance of deferred selling profit of $6,349 - $1,552 recognized during Year 2 [the $1,552 is the difference between the interest income recognized on the net investment in the lease during Year 2 of $4,222 and the sum of the interest income earned on the lease receivable and the unguaranteed residual asset during Year 2]).
+At the end of Year 6, Lessor reclassifies the net investment in the lease, then equal to the estimated residual value of the underlying asset of $20,000, as equipment.
+At the end of Year 6, Lessor reclassifies the net investment in the lease, then equal to the estimated residual value of the underlying asset of $20,000, as equipment.
+**842-30-55-40** · · · > Case D—Lessor Accounting—Collectibility Is Not Probable
+Assume the same facts and circumstances as Case C (paragraphs 842-30-55-31 through 55-39
+), except that collectibility of the lease payments and any amount necessary to satisfy the residual value guarantee provided by the third party is not probable and the lease payments escalate every year over the lease term. Specifically, the lease payment due at the end of Year 1 is $7,000, and subsequent payments increase by $1,000 every year for the remainder of the lease term. Because it is not probable that Lessor will collect the lease payments and any amount necessary to satisfy the residual value guarantee provided by the third party in accordance with paragraph 842-10-25-3, Lessor classifies the lease as an operating lease.
+Assume the same facts and circumstances as Case C (paragraphs 842-30-55-31 through 55-39
+**842-30-55-41** ), except that collectibility of the lease payments and any amount necessary to satisfy the residual value guarantee provided by the third party is not probable and the lease payments escalate every year over the lease term. Specifically, the lease payment due at the end of Year 1 is $7,000, and subsequent payments increase by $1,000 every year for the remainder of the lease term. Because it is not probable that Lessor will collect the lease payments and any amount necessary to satisfy the residual value guarantee provided by the third party in accordance with paragraph 842-10-25-3, Lessor classifies the lease as an operating lease.
+Lessor continues to measure the equipment in accordance with Topic 360 on property, plant, and equipment.
+Lessor continues to measure the equipment in accordance with Topic 360 on property, plant, and equipment.
+Because collectibility of the lease payments is not probable, Lessor recognizes lease income only when Lessee makes the lease payments, and in the amount of those lease payments. Therefore, Lessor only recognizes lease income of $7,000 at the point in time Lessee makes the end of Year 1 payment for that amount.
+Because collectibility of the lease payments is not probable, Lessor recognizes lease income only when Lessee makes the lease payments, and in the amount of those lease payments. Therefore, Lessor only recognizes lease income of $7,000 at the point in time Lessee makes the end of Year 1 payment for that amount.
+At the end of Year 2, Lessor concludes that collectibility of the remaining lease payments and any amount necessary to satisfy the residual value guarantee provided by the third party is probable; therefore, Lessor recognizes lease income of $12,000. The amount of $12,000 is the difference between lease income that would have been recognized through the end of Year 2 ($57,000 in total lease payments ÷ 6 years = $9,500 per year × 2 years = $19,000) and the $7,000 in lease income previously recognized. Collectibility of the remaining lease payments remains probable throughout the remainder of the lease term; therefore, Lessor continues to recognize lease income of $9,500 each year.
+At the end of Year 2, Lessor concludes that collectibility of the remaining lease payments and any amount necessary to satisfy the residual value guarantee provided by the third party is probable; therefore, Lessor recognizes lease income of $12,000. The amount of $12,000 is the difference between lease income that would have been recognized through the end of Year 2 ($57,000 in total lease payments ÷ 6 years = $9,500 per year × 2 years = $19,000) and the $7,000 in lease income previously recognized. Collectibility of the remaining lease payments remains probable throughout the remainder of the lease term; therefore, Lessor continues to recognize lease income of $9,500 each year.
+
+## 00 Status
+
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+
+### General
+
+The following table identifies the changes made to this Subtopic.
+**** **** **** ****
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Commencement Date of the Lease (Commencement Date) | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Contract | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Direct Financing Lease | Amended | Accounting Standards Update No. 2021-05 | 07/19/2021 |
+| Direct Financing Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Fair Value (2nd def.) | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Finance Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease Payments | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease Term | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lessee | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lessor | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Market Participants | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Operating Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Orderly Transaction | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Related Parties | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Residual Value Guarantee | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Sales-Type Lease | Amended | Accounting Standards Update No. 2021-05 | 07/19/2021 |
+| Sales-Type Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Sublease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Underlying Asset | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-40-05-1 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-40-15-1 through 15-3 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-40-25-1 through 25-5 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-40-30-1 through 30-6 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-40-30-6 | Amended | Accounting Standards Update No. 2018-10 | 07/18/2018 |
+| 842-40-50-1 | Amended | Accounting Standards Update No. 2021-09 | 11/11/2021 |
+| 842-40-50-1 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-40-50-2 | Amended | Accounting Standards Update No. 2021-09 | 11/11/2021 |
+| 842-40-50-2 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-40-55-1 through 55-44 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-40-55-33 | Amended | Accounting Standards Update No. 2018-10 | 07/18/2018 |
+
+The following table identifies the changes made to this Subtopic.
+**** **** **** ****
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Commencement Date of the Lease (Commencement Date) | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Contract | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Direct Financing Lease | Amended | Accounting Standards Update No. 2021-05 | 07/19/2021 |
+| Direct Financing Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Fair Value (2nd def.) | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Finance Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease Payments | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease Term | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lessee | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lessor | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Market Participants | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Operating Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Orderly Transaction | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Related Parties | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Residual Value Guarantee | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Sales-Type Lease | Amended | Accounting Standards Update No. 2021-05 | 07/19/2021 |
+| Sales-Type Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Sublease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Underlying Asset | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-40-05-1 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-40-15-1 through 15-3 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-40-25-1 through 25-5 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-40-30-1 through 30-6 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-40-30-6 | Amended | Accounting Standards Update No. 2018-10 | 07/18/2018 |
+| 842-40-50-1 | Amended | Accounting Standards Update No. 2021-09 | 11/11/2021 |
+| 842-40-50-1 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-40-50-2 | Amended | Accounting Standards Update No. 2021-09 | 11/11/2021 |
+| 842-40-50-2 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-40-55-1 through 55-44 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-40-55-33 | Amended | Accounting Standards Update No. 2018-10 | 07/18/2018 |
+
+## 05 Overview and Background
+
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+
+### General
+
+This Subtopic addresses accounting for sale and leaseback transactions when a lease
+has been accounted for in accordance with Subtopic 842-10 and either Subtopic 842-20 or Subtopic 842-30.
+This Subtopic addresses accounting for sale and leaseback transactions when a lease
+
+## 15 Scope and Scope Exceptions
+
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+
+### General
+
+This Subtopic follows the same Scope and Scope Exceptions as outlined in the Overall Subtopic; see Section 842-10-15.
+This Subtopic follows the same Scope and Scope Exceptions as outlined in the Overall Subtopic; see Section 842-10-15.
+If an entity (the seller-lessee) transfers an asset to another entity (the buyer-lessor) and leases that asset back from the buyer-lessor, both the seller-lessee and the buyer-lessor shall account for the transfer contract
+and the lease in accordance with Sections 842-40-25, 842-40-30, and 842-40-50.
+If an entity (the seller-lessee) transfers an asset to another entity (the buyer-lessor) and leases that asset back from the buyer-lessor, both the seller-lessee and the buyer-lessor shall account for the transfer contract
+**842-40-15-3** and the lease in accordance with Sections 842-40-25, 842-40-30, and 842-40-50.
+See paragraphs 842-40-55-1 through 55-21
+for implementation guidance on the scope of this Subtopic. See Example 3 (paragraphs 842-40-55-39 through 55-44) for an illustration of the scope of this Subtopic.
+See paragraphs 842-40-55-1 through 55-21
+
+## 20 Glossary
+
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+
+##### Commencement Date of the Lease        (Commencement Date)
+
+The date on which a lessor makes an underlying asset available for use by a lessee. See paragraphs 842-10-55-19 through 55-21
+for implementation guidance on the commencement date.
+The date on which a lessor makes an underlying asset available for use by a lessee. See paragraphs 842-10-55-19 through 55-21
+for implementation guidance on the commencement date.
+
+##### Contract
+
+An agreement between two or more parties that creates enforceable rights and obligations.
+An agreement between two or more parties that creates enforceable rights and obligations.
+
+##### Direct Financing                Lease
+
+From the perspective of a lessor, a lease that meets none of the criteria in paragraph 842-10-25-2 but meets the criteria in paragraph 842-10-25-3(b)and is not an operating lease in accordance with paragraph 842-10-25-3A.
+From the perspective of a lessor, a lease that meets none of the criteria in paragraph 842-10-25-2 but meets the criteria in paragraph 842-10-25-3(b)and is not an operating lease in accordance with paragraph 842-10-25-3A.
+
+##### Fair Value
+
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+
+##### Finance Lease
+
+From the perspective of a lessee, a lease that meets one or more of the criteria in paragraph 842-10-25-2.
+From the perspective of a lessee, a lease that meets one or more of the criteria in paragraph 842-10-25-2.
+
+##### Lease
+
+A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
+A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
+
+##### Lease Payments
+
+See paragraph 842-10-30-5 for what constitutes lease payments from the perspective of a lessee and a lessor.
+See paragraph 842-10-30-5 for what constitutes lease payments from the perspective of a lessee and a lessor.
+
+##### Lease Term
+
+Periods covered by an option to extend the lease if the lessee is reasonably certain to exercise that option
+2. Periods covered by an option to terminate the lease if the lessee is reasonably certain not to exercise that option
+3. Periods covered by an option to extend (or not to terminate) the lease in which exercise of the option is controlled by the lessor.
+
+Periods covered by an option to extend the lease if the lessee is reasonably certain to exercise that option
+Periods covered by an option to terminate the lease if the lessee is reasonably certain not to exercise that option
+3. Periods covered by an option to extend (or not to terminate) the lease in which exercise of the option is controlled by the lessor.
+
+##### Lessee
+
+An entity that enters into a contract to obtain the right to use an underlying asset for a period of time in exchange for consideration.
+An entity that enters into a contract to obtain the right to use an underlying asset for a period of time in exchange for consideration.
+
+##### Lessor
+
+An entity that enters into a contract to provide the right to use an underlying asset for a period of time in exchange for consideration.
+An entity that enters into a contract to provide the right to use an underlying asset for a period of time in exchange for consideration.
+
+##### Market Participants
+
+1. They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
+3. They are able to enter into a transaction for the asset or liability
+4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
+
+They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
+3. They are able to enter into a transaction for the asset or liability
+4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
+
+##### Operating                Lease
+
+From the perspective of a lessee, any lease other than a finance lease.
+From the perspective of a lessor, any lease other than a sales-type lease or a direct financing lease.
+From the perspective of a lessee, any lease other than a finance lease.
+From the perspective of a lessor, any lease other than a sales-type lease or a direct financing lease.
+
+##### Orderly Transaction
+
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+
+##### Related Parties
+
+1. Affiliates of the entity
+2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
+3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
+4. Principal owners of the entity and members of their immediate families
+5. Management of the entity and members of their immediate families
+6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
+7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
+
+Affiliates of the entity
+2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
+3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
+4. Principal owners of the entity and members of their immediate families
+5. Management of the entity and members of their immediate families
+6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
+7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
+
+##### Residual Value                Guarantee
+
+A guarantee made to a lessor that the value of an underlying asset returned to the lessor at the end of a lease will be at least a specified amount.
+A guarantee made to a lessor that the value of an underlying asset returned to the lessor at the end of a lease will be at least a specified amount.
+
+##### Sales-Type                Lease
+
+From the perspective of a lessor, a lease that meets one or more of the criteria in paragraph 842-10-25-2 and is not an operating lease in accordance with paragraph 842-10-25-3A.
+From the perspective of a lessor, a lease that meets one or more of the criteria in paragraph 842-10-25-2 and is not an operating lease in accordance with paragraph 842-10-25-3A.
+
+##### Sublease
+
+A transaction in which an underlying asset is re-leased by the lessee (or intermediate lessor) to a third party (the sublessee) and the original (or head) lease between the lessor and the lessee remains in effect.
+A transaction in which an underlying asset is re-leased by the lessee (or intermediate lessor) to a third party (the sublessee) and the original (or head) lease between the lessor and the lessee remains in effect.
+
+##### Underlying Asset
+
+An asset that is the subject of a lease for which a right to use that asset has been conveyed to a lessee. The underlying asset could be a physically distinct portion of a single asset.
+An asset that is the subject of a lease for which a right to use that asset has been conveyed to a lessee. The underlying asset could be a physically distinct portion of a single asset.
+
+## 25 Recognition
+
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+
+### General
+
+**842-40-25-1** > Determining Whether the Transfer of the Asset Is a Sale
+An entity shall apply the following requirements in Topic 606 on revenue from contracts
+1. Paragraphs 606-10-25-1 through 25-8 on the existence of a contract
+2. Paragraph 606-10-25-30 on when an entity satisfies a performance obligation by transferring control of an asset.
+
+An entity shall apply the following requirements in Topic 606 on revenue from contracts
+1. Paragraphs 606-10-25-1 through 25-8 on the existence of a contract
+2. Paragraph 606-10-25-30 on when an entity satisfies a performance obligation by transferring control of an asset.
+
+The existence of a leaseback (that is, a seller-lessee's right to use the underlying asset
+for a period of time) does not, in isolation, prevent the buyer-lessor from obtaining control of the asset. However, the buyer-lessor is not considered to have obtained control of the asset in accordance with the guidance on when an entity satisfies a performance obligation by transferring control of an asset in Topic 606 if the leaseback would be classified as a finance lease or a sales-type lease.
+The existence of a leaseback (that is, a seller-lessee's right to use the underlying asset
+**842-40-25-3** for a period of time) does not, in isolation, prevent the buyer-lessor from obtaining control of the asset. However, the buyer-lessor is not considered to have obtained control of the asset in accordance with the guidance on when an entity satisfies a performance obligation by transferring control of an asset in Topic 606 if the leaseback would be classified as a finance lease or a sales-type lease.
+The exercise price of the option is the fair value
+1. of the asset at the time the option is exercised.
+2. There are alternative assets, substantially the same as the transferred asset, readily available in the marketplace.
+
+The exercise price of the option is the fair value
+1. of the asset at the time the option is exercised.
+2. There are alternative assets, substantially the same as the transferred asset, readily available in the marketplace.
+
+**842-40-25-4** > Transfer of the Asset Is a Sale
+If the transfer of the asset is a sale in accordance with paragraphs 842-40-25-1 through 25-3
+1. Recognize the transaction price for the sale at the point in time the buyer-lessor obtains control of the asset in accordance with paragraph 606-10-25-30 in accordance with the guidance on determining the transaction price in paragraphs 606-10-32-2 through 32-27
+2. Derecognize the carrying amount of the underlying asset
+3. Account for the lease in accordance with Subtopic 842-20.
+
+4. The buyer-lessor shall account for the purchase in accordance with other Topics and for the lease in accordance with Subtopic 842-30.
+
+If the transfer of the asset is a sale in accordance with paragraphs 842-40-25-1 through 25-3
+1. Recognize the transaction price for the sale at the point in time the buyer-lessor obtains control of the asset in accordance with paragraph 606-10-25-30 in accordance with the guidance on determining the transaction price in paragraphs 606-10-32-2 through 32-27
+2. Derecognize the carrying amount of the underlying asset
+3. Account for the lease in accordance with Subtopic 842-20.
+
+4. The buyer-lessor shall account for the purchase in accordance with other Topics and for the lease in accordance with Subtopic 842-30.
+
+**842-40-25-5** > Transfer of the Asset Is Not a Sale
+If the transfer of the asset is not a sale in accordance with paragraphs 842-40-25-1 through 25-3
+1. The seller-lessee shall not derecognize the transferred asset and shall account for any amounts received as a financial liability in accordance with other Topics.
+2. The buyer-lessor shall not recognize the transferred asset and shall account for the amounts paid as a receivable in accordance with other Topics.
+
+If the transfer of the asset is not a sale in accordance with paragraphs 842-40-25-1 through 25-3
+1. The seller-lessee shall not derecognize the transferred asset and shall account for any amounts received as a financial liability in accordance with other Topics.
+2. The buyer-lessor shall not recognize the transferred asset and shall account for the amounts paid as a receivable in accordance with other Topics.
+
+## 30 Initial Measurement
+
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+
+### General
+
+**842-40-30-1** > Transfer of the Asset Is a Sale
+An entity shall determine whether a sale and leaseback transaction is at fair value
+1. The sale price of the asset and the fair value of the asset
+2. The present value of the lease payments and the present value of market rental payments.
+
+An entity shall determine whether a sale and leaseback transaction is at fair value
+1. The sale price of the asset and the fair value of the asset
+2. The present value of the lease payments and the present value of market rental payments.
+
+Any increase to the sale price of the asset as a prepayment of rent
+2. Any reduction of the sale price of the asset as additional financing provided by the buyer-lessor to the seller-lessee. The seller-lessee and the buyer-lessor shall account for the additional financing in accordance with other Topics.
+
+Any increase to the sale price of the asset as a prepayment of rent
+2. Any reduction of the sale price of the asset as additional financing provided by the buyer-lessor to the seller-lessee. The seller-lessee and the buyer-lessor shall account for the additional financing in accordance with other Topics.
+
+A sale and leaseback transaction is not off market solely because the sale price or the lease payments include a variable component. In determining whether the sale and leaseback transaction is at fair value, the entity should consider those variable payments it reasonably expects to be entitled to (or to make) on the basis of all of the information (historical, current, and forecast) that is reasonably available to the entity. For a seller-lessee, this would include estimating any variable consideration to which it expects to be entitled in accordance with paragraphs 606-10-32-5 through 32-9
+.
+A sale and leaseback transaction is not off market solely because the sale price or the lease payments include a variable component. In determining whether the sale and leaseback transaction is at fair value, the entity should consider those variable payments it reasonably expects to be entitled to (or to make) on the basis of all of the information (historical, current, and forecast) that is reasonably available to the entity. For a seller-lessee, this would include estimating any variable consideration to which it expects to be entitled in accordance with paragraphs 606-10-32-5 through 32-9
+**842-40-30-4** .
+If the transaction is a related party lease
+, an entity shall not make the adjustments required in paragraph 842-40-30-2, but shall provide the required disclosures as discussed in paragraphs 842-20-50-7 and 842-30-50-4.
+If the transaction is a related party lease
+**842-40-30-5** , an entity shall not make the adjustments required in paragraph 842-40-30-2, but shall provide the required disclosures as discussed in paragraphs 842-20-50-7 and 842-30-50-4.
+See Examples 1 and 2 (paragraphs 842-40-55-22 through 55-38
+) for illustrations of the requirements for a sale and leaseback transaction.
+See Examples 1 and 2 (paragraphs 842-40-55-22 through 55-38
+**842-40-30-6** ) for illustrations of the requirements for a sale and leaseback transaction. > Transfer of the Asset Is Not a Sale
+Interest on the financial liability is not greater than the payments on the financial liability over the shorter of the lease term
+1. and the term of the financing. The term of the financing may be shorter than the lease term because the transfer of an asset that does not qualify as a sale initially may qualify as a sale at a point in time before the end of the lease term.
+2. The carrying amount of the asset does not exceed the carrying amount of the financial liability at the earlier of the end of the lease term or the date at which control of the asset will transfer to the buyer-lessor (for example, the date at which a repurchase option expires if that date is earlier than the end of the lease term).
+
+Interest on the financial liability is not greater than the payments on the financial liability over the shorter of the lease term
+1. and the term of the financing. The term of the financing may be shorter than the lease term because the transfer of an asset that does not qualify as a sale initially may qualify as a sale at a point in time before the end of the lease term.
+2. The carrying amount of the asset does not exceed the carrying amount of the financial liability at the earlier of the end of the lease term or the date at which control of the asset will transfer to the buyer-lessor (for example, the date at which a repurchase option expires if that date is earlier than the end of the lease term).
+
+## 50 Disclosure
+
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+
+### General
+
+If a seller-lessee or a buyer-lessor enters into a sale and leaseback transaction that is accounted for in accordance with paragraphs 842-40-25-4 and 842-40-30-1 through 30-3
+, it shall provide the disclosures required in paragraphs 842-20-50-1 through 50-10 for a seller-lessee or paragraphs 842-30-50-1 through 50-13 for a buyer-lessor.
+If a seller-lessee or a buyer-lessor enters into a sale and leaseback transaction that is accounted for in accordance with paragraphs 842-40-25-4 and 842-40-30-1 through 30-3
+**842-40-50-2** , it shall provide the disclosures required in paragraphs 842-20-50-1 through 50-10 for a seller-lessee or paragraphs 842-30-50-1 through 50-13 for a buyer-lessor.
+In addition to the disclosures required by paragraphs 842-20-50-1 through 50-10
+1. The main terms and conditions of that transaction
+2. Any gains or losses arising from the transaction separately from gains or losses on disposal of other assets.
+
+In addition to the disclosures required by paragraphs 842-20-50-1 through 50-10
+1. The main terms and conditions of that transaction
+2. Any gains or losses arising from the transaction separately from gains or losses on disposal of other assets.
+
+## 55 Implementation Guidance and Illustrations
+
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+
+### General
+
+##### · > Control of the Underlying Asset before the Commencement Date
+
+**842-40-55-1** > Implementation Guidance
+A lessee
+may obtain legal title to the underlying asset before that legal title is transferred to the lessor and the asset is leased to the lessee. If the lessee controls the underlying asset (that is, it can direct its use and obtain substantially all of its remaining benefits) before the asset is transferred to the lessor, the transaction is a sale and leaseback transaction that is accounted for in accordance with this Subtopic.
+A lessee
+**842-40-55-2** may obtain legal title to the underlying asset before that legal title is transferred to the lessor and the asset is leased to the lessee. If the lessee controls the underlying asset (that is, it can direct its use and obtain substantially all of its remaining benefits) before the asset is transferred to the lessor, the transaction is a sale and leaseback transaction that is accounted for in accordance with this Subtopic.
+If the lessee obtains legal title, but does not obtain control of the underlying asset before the asset is transferred to the lessor, the transaction is not a sale and leaseback transaction. For example, this may be the case if a manufacturer, a lessor, and a lessee negotiate a transaction for the purchase of an asset from the manufacturer by the lessor, which in turn is leased to the lessee. For tax or other reasons, the lessee might obtain legal title to the underlying asset momentarily before legal title transfers to the lessor. In this case, if the lessee obtains legal title to the asset but does not control the asset before it is transferred to the lessor, the transaction is accounted for as a purchase of the asset by the lessor and a lease
+between the lessor and the lessee.
+If the lessee obtains legal title, but does not obtain control of the underlying asset before the asset is transferred to the lessor, the transaction is not a sale and leaseback transaction. For example, this may be the case if a manufacturer, a lessor, and a lessee negotiate a transaction for the purchase of an asset from the manufacturer by the lessor, which in turn is leased to the lessee. For tax or other reasons, the lessee might obtain legal title to the underlying asset momentarily before legal title transfers to the lessor. In this case, if the lessee obtains legal title to the asset but does not control the asset before it is transferred to the lessor, the transaction is accounted for as a purchase of the asset by the lessor and a lease
+
+##### · > Costs of the Lessee Relating to the Construction or Design of an Underlying Asset
+
+**842-40-55-3** between the lessor and the lessee.
+An entity may negotiate a lease
+before the underlying asset is available for use by the lessee. For some leases, the underlying asset may need to be constructed or redesigned for use by the lessee. Depending on the terms and conditions of the contract, a lessee may be required to make payments relating to the construction or design of the asset.
+An entity may negotiate a lease
+**842-40-55-4** before the underlying asset is available for use by the lessee. For some leases, the underlying asset may need to be constructed or redesigned for use by the lessee. Depending on the terms and conditions of the contract, a lessee may be required to make payments relating to the construction or design of the asset.
+If a lessee incurs costs relating to the construction or design of an underlying asset before the commencement date
+, the lessee should account for those costs in accordance with other Topics, for example, Topic 330 on inventory or Topic 360 on property, plant, and equipment. Costs relating to the construction or design of an underlying asset do not include payments made by the lessee for the right to use the underlying asset. Payments for the right to use the underlying asset are lease payments, regardless of the timing of those payments or the form of those payments (for example, a lessee might contribute construction materials for the asset under construction).
+If a lessee incurs costs relating to the construction or design of an underlying asset before the commencement date
+**842-40-55-5** , the lessee should account for those costs in accordance with other Topics, for example, Topic 330 on inventory or Topic 360 on property, plant, and equipment. Costs relating to the construction or design of an underlying asset do not include payments made by the lessee for the right to use the underlying asset. Payments for the right to use the underlying asset are lease payments, regardless of the timing of those payments or the form of those payments (for example, a lessee might contribute construction materials for the asset under construction).
+The lessee has the right to obtain the partially constructed underlying asset at any point during the construction period (for example, by making a payment to the lessor
+1. ).
+2. The lessor has an enforceable right to payment for its performance to date, and the asset does not have an alternative use (see paragraph 842-10-55-7) to the owner-lessor. In evaluating whether the asset has an alternative use to the owner-lessor, an entity should consider the characteristics of the asset that will ultimately be leased.
+1. Both the land and the property improvements (for example, a building) that are under construction
+2. The non-real-estate asset (for example, a ship or an airplane) that is under construction.
+
+3. The lessee controls the land that property improvements will be constructed upon (this includes where the lessee enters into a transaction to transfer the land to the lessor, but the transfer does not qualify as a sale in accordance with paragraphs 842-40-25-1 through 25-3) and does not enter into a lease of the land before the beginning of construction that, together with renewal options, permits the lessor or another unrelated third party to lease the land for substantially all of the economic life of the property improvements.
+4. The lessee is leasing the land that property improvements will be constructed upon, the term of which, together with lessee renewal options, is for substantially all of the economic life of the property improvements, and does not enter into a sublease of the land before the beginning of construction that, together with renewal options, permits the lessor or another unrelated third party to sublease the land for substantially all of the economic life of the property improvements.
+
+The list of circumstances above in which a lessee controls an underlying asset that is under construction before the commencement date is not all inclusive. There may be other circumstances that individually or in combination demonstrate that a lessee controls an underlying asset that is under construction before the commencement date.
+The lessee has the right to obtain the partially constructed underlying asset at any point during the construction period (for example, by making a payment to the lessor
+1. ).
+2. The lessor has an enforceable right to payment for its performance to date, and the asset does not have an alternative use (see paragraph 842-10-55-7) to the owner-lessor. In evaluating whether the asset has an alternative use to the owner-lessor, an entity should consider the characteristics of the asset that will ultimately be leased.
+1. Both the land and the property improvements (for example, a building) that are under construction
+2. The non-real-estate asset (for example, a ship or an airplane) that is under construction.
+
+3. The lessee controls the land that property improvements will be constructed upon (this includes where the lessee enters into a transaction to transfer the land to the lessor, but the transfer does not qualify as a sale in accordance with paragraphs 842-40-25-1 through 25-3) and does not enter into a lease of the land before the beginning of construction that, together with renewal options, permits the lessor or another unrelated third party to lease the land for substantially all of the economic life of the property improvements.
+4. The lessee is leasing the land that property improvements will be constructed upon, the term of which, together with lessee renewal options, is for substantially all of the economic life of the property improvements, and does not enter into a sublease of the land before the beginning of construction that, together with renewal options, permits the lessor or another unrelated third party to sublease the land for substantially all of the economic life of the property improvements.
+
+**842-40-55-6** The list of circumstances above in which a lessee controls an underlying asset that is under construction before the commencement date is not all inclusive. There may be other circumstances that individually or in combination demonstrate that a lessee controls an underlying asset that is under construction before the commencement date.
+See Example 3 (paragraphs 842-40-55-39 through 55-44
+) for an illustration of the scope of this Subtopic.
+See Example 3 (paragraphs 842-40-55-39 through 55-44
+
+##### · > Lessee Indemnification for Environmental Contamination
+
+**842-40-55-7** ) for an illustration of the scope of this Subtopic.
+A provision that requires lessee
+indemnifications for preexisting environmental contamination does not, on its own, mean that the lessee controlled the underlying asset before the lease commenced regardless of the likelihood of loss resulting from the indemnity. Consequently, the presence of such a provision does not mean the transaction is in the scope of this Subtopic.
+A provision that requires lessee
+
+##### · > Sale Subject to a Preexisting Lease
+
+**842-40-55-8** indemnifications for preexisting environmental contamination does not, on its own, mean that the lessee controlled the underlying asset before the lease commenced regardless of the likelihood of loss resulting from the indemnity. Consequently, the presence of such a provision does not mean the transaction is in the scope of this Subtopic.
+An entity owns an interest in an underlying asset
+and also is a lessee under an operating lease for all or a portion of the underlying asset. Acquisition of an ownership interest in the underlying asset and consummation of the lease occurred at or near the same time. This owner-lessee relationship can occur, for example, when the entity has an investment in a partnership that owns the underlying asset (or a larger asset of which the underlying asset is a distinct portion). The entity subsequently sells its interest or the partnership sells the underlying asset to an independent third party, and the entity continues to lease the underlying asset under the preexisting operating lease.
+An entity owns an interest in an underlying asset
+**842-40-55-9** and also is a lessee under an operating lease for all or a portion of the underlying asset. Acquisition of an ownership interest in the underlying asset and consummation of the lease occurred at or near the same time. This owner-lessee relationship can occur, for example, when the entity has an investment in a partnership that owns the underlying asset (or a larger asset of which the underlying asset is a distinct portion). The entity subsequently sells its interest or the partnership sells the underlying asset to an independent third party, and the entity continues to lease the underlying asset under the preexisting operating lease.
+A transaction should be subject to the guidance in this Subtopic if the scope or price of the preexisting lease is modified in connection with the sale. If the scope or the price of the preexisting lease is not modified in conjunction with the sale, the sale should be accounted for in accordance with other Topics.
+A transaction should be subject to the guidance in this Subtopic if the scope or price of the preexisting lease is modified in connection with the sale. If the scope or the price of the preexisting lease is not modified in conjunction with the sale, the sale should be accounted for in accordance with other Topics.
+A lease between parties under common control should not be considered a preexisting lease. Accordingly, the guidance in this Subtopic should be applied to transactions that include nonfinancial assets within its scope, except if Topic 980 on regulated operations applies. That is, if one of the parties under common control is a regulated entity with a lease that has been approved by the appropriate regulatory agency, that lease should be considered a preexisting lease.
+A lease between parties under common control should not be considered a preexisting lease. Accordingly, the guidance in this Subtopic should be applied to transactions that include nonfinancial assets within its scope, except if Topic 980 on regulated operations applies. That is, if one of the parties under common control is a regulated entity with a lease that has been approved by the appropriate regulatory agency, that lease should be considered a preexisting lease.
+
+##### · > Transfer of Tax Benefits
+
+A U.S. entity purchases an asset and enters into a contract
+with a foreign investor that provides that foreign investor with an ownership right in, but not necessarily title to, the asset. That ownership right enables the foreign investor to claim certain benefits of ownership of the asset for tax purposes in the foreign tax jurisdiction.
+A U.S. entity purchases an asset and enters into a contract
+**842-40-55-12** with a foreign investor that provides that foreign investor with an ownership right in, but not necessarily title to, the asset. That ownership right enables the foreign investor to claim certain benefits of ownership of the asset for tax purposes in the foreign tax jurisdiction.
+The U.S. entity also enters into a contract in the form of a leaseback for the ownership right with the foreign investor. The contract contains a purchase option for the U.S. entity to acquire the foreign investor's ownership right in the asset at the end of the lease term
+.
+The U.S. entity also enters into a contract in the form of a leaseback for the ownership right with the foreign investor. The contract contains a purchase option for the U.S. entity to acquire the foreign investor's ownership right in the asset at the end of the lease term
+**842-40-55-13** .
+The foreign investor pays the U.S. entity an amount of cash on the basis of an appraised value of the asset. The U.S. entity immediately transfers a portion of that cash to a third party, and that third party assumes the U.S. entity's obligation to make the future lease payments
+, including the purchase option payment. The cash retained by the U.S. entity is consideration for the tax benefits to be obtained by the foreign investor in the foreign tax jurisdiction. The U.S. entity may agree to indemnify the foreign investor against certain future events that would reduce the availability of tax benefits to the foreign investor. The U.S. entity also may agree to indemnify the third-party trustee against certain future events.
+The foreign investor pays the U.S. entity an amount of cash on the basis of an appraised value of the asset. The U.S. entity immediately transfers a portion of that cash to a third party, and that third party assumes the U.S. entity's obligation to make the future lease payments
+**842-40-55-14** , including the purchase option payment. The cash retained by the U.S. entity is consideration for the tax benefits to be obtained by the foreign investor in the foreign tax jurisdiction. The U.S. entity may agree to indemnify the foreign investor against certain future events that would reduce the availability of tax benefits to the foreign investor. The U.S. entity also may agree to indemnify the third-party trustee against certain future events.
+The result of the transaction is that both the U.S. entity and the foreign investor have a tax basis in the same depreciable asset.
+The result of the transaction is that both the U.S. entity and the foreign investor have a tax basis in the same depreciable asset.
+An entity should determine whether the transfer of the ownership right is a sale based on the guidance in paragraphs 842-40-25-1 through 25-3
+. Consistent with paragraphs 842-40-25-2 through 25-3, if the leaseback for the ownership right is a finance lease or if the U.S. entity has an option to repurchase the ownership right at any exercise price other than the fair value of that right on the exercise date, there is no sale. If the transfer of the ownership right is not a sale, consistent with the guidance in paragraph 842-40-25-5, the entity should account for the cash received from the foreign investor as a financial liability in accordance with other Topics.
+An entity should determine whether the transfer of the ownership right is a sale based on the guidance in paragraphs 842-40-25-1 through 25-3
+**842-40-55-16** . Consistent with paragraphs 842-40-25-2 through 25-3, if the leaseback for the ownership right is a finance lease or if the U.S. entity has an option to repurchase the ownership right at any exercise price other than the fair value of that right on the exercise date, there is no sale. If the transfer of the ownership right is not a sale, consistent with the guidance in paragraph 842-40-25-5, the entity should account for the cash received from the foreign investor as a financial liability in accordance with other Topics.
+If the transfer of the ownership right is a sale, income recognition for the cash received should be determined on the basis of individual facts and circumstances. Immediate income recognition is not appropriate if there is more than a remote possibility of loss of the cash consideration received because of indemnification or other contingencies.
+If the transfer of the ownership right is a sale, income recognition for the cash received should be determined on the basis of individual facts and circumstances. Immediate income recognition is not appropriate if there is more than a remote possibility of loss of the cash consideration received because of indemnification or other contingencies.
+The total consideration received by the U.S. entity is compensation for both the tax benefits and the indemnification of the foreign investor or other third-party trustee. The recognition of a liability for the indemnification agreement at inception in accordance with the guidance in Topic 460 on guarantees would reduce the amount of income related to the tax benefits that the seller-lessee would recognize immediately when the possibility of loss is remote.
+The total consideration received by the U.S. entity is compensation for both the tax benefits and the indemnification of the foreign investor or other third-party trustee. The recognition of a liability for the indemnification agreement at inception in accordance with the guidance in Topic 460 on guarantees would reduce the amount of income related to the tax benefits that the seller-lessee would recognize immediately when the possibility of loss is remote.
+
+##### · > Sale-Leaseback-Sublease Transactions
+
+The asset is subject to an operating lease
+1. .
+2. The asset is subleased or intended to be subleased by the seller-lessee to another party under an operating lease.
+
+The asset is subject to an operating lease
+1. .
+2. The asset is subleased or intended to be subleased by the seller-lessee to another party under an operating lease.
+
+A sale-leaseback-sublease transaction is within the scope of this Subtopic. The existence of the sublease
+(that is, the operating lease in paragraph 842-40-55-18(a) or (b)) does not, in isolation, prevent the buyer-lessor from obtaining control of the asset in accordance with paragraphs 842-40-25-1 through 25-3, nor does it prevent the seller-lessee from controlling the asset before its transfer to the buyer-lessor (that is, the seller-lessee is subject to the same requirements for determining whether the transfer of the asset is a sale as it would be without the sublease). All facts and circumstances should be considered in determining whether the buyer-lessor obtains control of the underlying asset from the seller-lessee in a sale-leaseback-sublease transaction.
+A sale-leaseback-sublease transaction is within the scope of this Subtopic. The existence of the sublease
+
+##### · > Seller-Lessee Guarantee of the Residual Value
+
+**842-40-55-20** (that is, the operating lease in paragraph 842-40-55-18(a) or (b)) does not, in isolation, prevent the buyer-lessor from obtaining control of the asset in accordance with paragraphs 842-40-25-1 through 25-3, nor does it prevent the seller-lessee from controlling the asset before its transfer to the buyer-lessor (that is, the seller-lessee is subject to the same requirements for determining whether the transfer of the asset is a sale as it would be without the sublease). All facts and circumstances should be considered in determining whether the buyer-lessor obtains control of the underlying asset from the seller-lessee in a sale-leaseback-sublease transaction.
+The seller-lessee may guarantee to the lessor
+that the residual value will be a stipulated amount at the end of the lease term. If the transfer of the asset is a sale in accordance with paragraphs 842-40-25-1 through 25-3, the seller-lessee residual value guarantee should be accounted for in the same manner as any other residual value guarantee provided by a lessee.
+The seller-lessee may guarantee to the lessor
+**842-40-55-21** that the residual value will be a stipulated amount at the end of the lease term. If the transfer of the asset is a sale in accordance with paragraphs 842-40-25-1 through 25-3, the seller-lessee residual value guarantee should be accounted for in the same manner as any other residual value guarantee provided by a lessee.
+The residual value guarantee does not, on its own, preclude accounting for the transaction as a sale and leaseback, but should be considered in evaluating whether control of the asset has transferred to the buyer-lessor in accordance with paragraph 606-10-25-30. For example, a significant residual value guarantee by the seller-lessee may affect an entity's consideration of the transfer of control indicator in paragraph 606-10-25-30(d).
+The residual value guarantee does not, on its own, preclude accounting for the transaction as a sale and leaseback, but should be considered in evaluating whether control of the asset has transferred to the buyer-lessor in accordance with paragraph 606-10-25-30. For example, a significant residual value guarantee by the seller-lessee may affect an entity's consideration of the transfer of control indicator in paragraph 606-10-25-30(d).
+
+##### · > Illustration of Sale and Leaseback Transaction
+
+**842-40-55-22** > Illustrations
+Examples 1 and 2 illustrate the accounting for sale and leaseback transactions.
+Examples 1 and 2 illustrate the accounting for sale and leaseback transactions.
+**842-40-55-23** · · > Example 1—Sale and Leaseback Transaction
+Seller has a present right to payment of the sales price of $2 million.
+2. Buyer obtains legal title to the land.
+3. Buyer has the significant risks and rewards of ownership of the land because, for example, Buyer has the ability to sell the land if the property value increases and also must absorb any losses, realized or unrealized, if the property value declines.
+
+Seller has a present right to payment of the sales price of $2 million.
+2. Buyer obtains legal title to the land.
+3. Buyer has the significant risks and rewards of ownership of the land because, for example, Buyer has the ability to sell the land if the property value increases and also must absorb any losses, realized or unrealized, if the property value declines.
+
+The observable fair value of the land at the date of sale is $1.4 million. Because the fair value of the land is observable, both Seller and Buyer utilize that benchmark in evaluating whether the sale is at market term. Because the sale is not at fair value (that is, the sales price is significantly in excess of the fair value of the land), both Seller and Buyer adjust for the off-market terms in accounting for the transaction. Seller recognizes a gain of $400,000 ($1.4 million - $1 million) on the sale of the land. The amount of the excess sale price of $600,000 ($2 million - $1.4 million) is recognized as additional financing from Buyer to Seller (that is, Seller is receiving the additional benefit of financing from Buyer). Seller's incremental borrowing rate is 6 percent. The leaseback is classified as an operating lease.
+The observable fair value of the land at the date of sale is $1.4 million. Because the fair value of the land is observable, both Seller and Buyer utilize that benchmark in evaluating whether the sale is at market term. Because the sale is not at fair value (that is, the sales price is significantly in excess of the fair value of the land), both Seller and Buyer adjust for the off-market terms in accounting for the transaction. Seller recognizes a gain of $400,000 ($1.4 million - $1 million) on the sale of the land. The amount of the excess sale price of $600,000 ($2 million - $1.4 million) is recognized as additional financing from Buyer to Seller (that is, Seller is receiving the additional benefit of financing from Buyer). Seller's incremental borrowing rate is 6 percent. The leaseback is classified as an operating lease.
+At the commencement date, Seller derecognizes the land with a carrying amount of $1 million. Seller recognizes the cash received of $2 million, a financial liability for the additional financing obtained from Buyer of $600,000, and a gain on sale of the land of $400,000. Seller also recognizes a lease liability for the leaseback at the present value of the portion of the 10 contractual leaseback payments attributable to the lease of $38,479 ($120,000 contractual lease payment - $81,521 of that lease payment that is attributable to the additional Buyer financing), discounted at the rate of 6 percent, which is $283,210, and a corresponding right-of-use asset of $283,210. The amount of $81,521 is the amount of each $120,000 annual payment that must be attributed to repayment of the principal of the financial liability for that financial liability to reduce to zero by the end of the lease term.
+At the commencement date, Seller derecognizes the land with a carrying amount of $1 million. Seller recognizes the cash received of $2 million, a financial liability for the additional financing obtained from Buyer of $600,000, and a gain on sale of the land of $400,000. Seller also recognizes a lease liability for the leaseback at the present value of the portion of the 10 contractual leaseback payments attributable to the lease of $38,479 ($120,000 contractual lease payment - $81,521 of that lease payment that is attributable to the additional Buyer financing), discounted at the rate of 6 percent, which is $283,210, and a corresponding right-of-use asset of $283,210. The amount of $81,521 is the amount of each $120,000 annual payment that must be attributed to repayment of the principal of the financial liability for that financial liability to reduce to zero by the end of the lease term.
+Decrease the financing obligation for the amount of each lease payment allocated to that obligation (that is, $81,521) and increase the carrying amount of the obligation for interest accrued using Seller's incremental borrowing rate of 6 percent. For example, at the end of Year 1, the balance of the financial obligation is $554,479 ($600,000 - $81,521 + $36,000).
+2. Recognize the interest expense on the financing obligation (for example, $36,000 in Year 1) and $38,479 in operating lease expense.
+
+Decrease the financing obligation for the amount of each lease payment allocated to that obligation (that is, $81,521) and increase the carrying amount of the obligation for interest accrued using Seller's incremental borrowing rate of 6 percent. For example, at the end of Year 1, the balance of the financial obligation is $554,479 ($600,000 - $81,521 + $36,000).
+2. Recognize the interest expense on the financing obligation (for example, $36,000 in Year 1) and $38,479 in operating lease expense.
+
+At the end of the lease term, the financing obligation and the lease liability equal $0.
+At the end of the lease term, the financing obligation and the lease liability equal $0.
+Also, at the commencement date, Buyer recognizes the land at a cost of $1.4 million and a financial asset for the additional financing provided to Seller of $600,000. Because the lease is an operating lease, at the date of sale Buyer does not do any accounting for the lease.
+Also, at the commencement date, Buyer recognizes the land at a cost of $1.4 million and a financial asset for the additional financing provided to Seller of $600,000. Because the lease is an operating lease, at the date of sale Buyer does not do any accounting for the lease.
+In accounting for the additional financing to Seller, Buyer uses 6 percent as the applicable discount rate, which it determined in accordance with paragraphs 835-30-25-12 through 25-13
+1. Decrease the financial asset for the amount of each lease payment received that is allocated to that obligation (that is, $81,521) and increase the carrying amount of the obligation for interest accrued on the financial asset using Seller's incremental borrowing rate of 6 percent. Consistent with Seller's accounting, at the end of Year 1, the carrying amount of the financial asset is $554,479 ($600,000 - $81,521 + $36,000).
+2. Recognize the interest income on the financing obligation (for example, $33,269 in Year 2) and $38,479 in operating lease income.
+
+In accounting for the additional financing to Seller, Buyer uses 6 percent as the applicable discount rate, which it determined in accordance with paragraphs 835-30-25-12 through 25-13
+1. Decrease the financial asset for the amount of each lease payment received that is allocated to that obligation (that is, $81,521) and increase the carrying amount of the obligation for interest accrued on the financial asset using Seller's incremental borrowing rate of 6 percent. Consistent with Seller's accounting, at the end of Year 1, the carrying amount of the financial asset is $554,479 ($600,000 - $81,521 + $36,000).
+2. Recognize the interest income on the financing obligation (for example, $33,269 in Year 2) and $38,479 in operating lease income.
+
+At the end of the lease term, the carrying amount of the financial asset is $0, and Buyer continues to recognize the land.
+At the end of the lease term, the carrying amount of the financial asset is $0, and Buyer continues to recognize the land.
+**842-40-55-31** · · > Example 2—Accounting for a Failed Sale and Leaseback Transaction
+An entity (Seller) sells an asset to an unrelated entity (Buyer) for cash of $2 million. Immediately before the transaction, the asset has a carrying amount of $1.8 million and has a remaining useful life of 21 years. At the same time, Seller enters into a contract with Buyer for the right to use the asset for 8 years with annual payments of $200,000 payable at the end of each year and no renewal options. Seller's incremental borrowing rate at the date of the transaction is 4 percent. The contract includes an option to repurchase the asset at the end of Year 5 for $800,000.
+An entity (Seller) sells an asset to an unrelated entity (Buyer) for cash of $2 million. Immediately before the transaction, the asset has a carrying amount of $1.8 million and has a remaining useful life of 21 years. At the same time, Seller enters into a contract with Buyer for the right to use the asset for 8 years with annual payments of $200,000 payable at the end of each year and no renewal options. Seller's incremental borrowing rate at the date of the transaction is 4 percent. The contract includes an option to repurchase the asset at the end of Year 5 for $800,000.
+The exercise price of the repurchase option is fixed and, therefore, is not the fair value of the asset on the exercise date of the option. Consequently, the repurchase option precludes accounting for the transfer of the asset as a sale. Absent the repurchase option, there are no other factors that would preclude accounting for the transfer of the asset as a sale.
+The exercise price of the repurchase option is fixed and, therefore, is not the fair value of the asset on the exercise date of the option. Consequently, the repurchase option precludes accounting for the transfer of the asset as a sale. Absent the repurchase option, there are no other factors that would preclude accounting for the transfer of the asset as a sale.
+Therefore, at the commencement date, Seller accounts for the proceeds of $2 million as a financial liability and continues to account for the asset. Buyer accounts for the payment of $2 million as a financial asset and does not recognize the transferred asset. Seller accounts for its financing obligation, and Buyer accounts for its financial asset in accordance with other Topics, except that, in accordance with paragraph 842-40-30-6, Seller imputes an interest rate (4.23 percent) to ensure that interest on the financial liability is not greater than the payments on the financial liability over the shorter of the lease term and the term of the financing and that the carrying amount of the asset will not exceed the financial liability at the point in time the repurchase option expires (that is, at the point in time Buyer will obtain control of the asset in accordance with the guidance on satisfying performance obligations in Topic 606). Paragraph 842-40-30-6 does not apply to the buyer-lessor; therefore, Buyer recognizes interest income on its financial asset on the basis of the imputed interest rate determined in accordance with paragraphs 835-30-25-12 through 25-13
+, which in this case Buyer determines to be 4 percent.
+Therefore, at the commencement date, Seller accounts for the proceeds of $2 million as a financial liability and continues to account for the asset. Buyer accounts for the payment of $2 million as a financial asset and does not recognize the transferred asset. Seller accounts for its financing obligation, and Buyer accounts for its financial asset in accordance with other Topics, except that, in accordance with paragraph 842-40-30-6, Seller imputes an interest rate (4.23 percent) to ensure that interest on the financial liability is not greater than the payments on the financial liability over the shorter of the lease term and the term of the financing and that the carrying amount of the asset will not exceed the financial liability at the point in time the repurchase option expires (that is, at the point in time Buyer will obtain control of the asset in accordance with the guidance on satisfying performance obligations in Topic 606). Paragraph 842-40-30-6 does not apply to the buyer-lessor; therefore, Buyer recognizes interest income on its financial asset on the basis of the imputed interest rate determined in accordance with paragraphs 835-30-25-12 through 25-13
+**842-40-55-34** , which in this case Buyer determines to be 4 percent.
+During Year 1, Seller recognizes interest expense of $84,600 (4.23% × $2 million) and recognizes the payment of $200,000 as a reduction of the financial liability. Seller also recognizes depreciation expense of $85,714 ($1.8 million ÷ 21 years). Buyer recognizes interest income of $80,000 (4% × $2 million) and recognizes the payment of $200,000 as a reduction of its financial asset.
+During Year 1, Seller recognizes interest expense of $84,600 (4.23% × $2 million) and recognizes the payment of $200,000 as a reduction of the financial liability. Seller also recognizes depreciation expense of $85,714 ($1.8 million ÷ 21 years). Buyer recognizes interest income of $80,000 (4% × $2 million) and recognizes the payment of $200,000 as a reduction of its financial asset.
+At the end of Year 1, the carrying amount of Seller's financial liability is $1,884,600 ($2 million + $84,600 - $200,000), and the carrying amount of the underlying asset is $1,714,286 ($1.8 million - $85,714). The carrying amount of Buyer's financial asset is $1,880,000 ($2 million + $80,000 - $200,000).
+At the end of Year 1, the carrying amount of Seller's financial liability is $1,884,600 ($2 million + $84,600 - $200,000), and the carrying amount of the underlying asset is $1,714,286 ($1.8 million - $85,714). The carrying amount of Buyer's financial asset is $1,880,000 ($2 million + $80,000 - $200,000).
+At the end of Year 5, the option to repurchase the asset expires, unexercised by Seller. The repurchase option was the only feature of the arrangement that precluded accounting for the transfer of the asset as a sale. Therefore, upon expiration of the repurchase option, Seller recognizes the sale of the asset by derecognizing the carrying amount of the financial liability of $1,372,077, derecognizing the carrying amount of the underlying asset of $1,371,429, and recognizing a gain of $648. Buyer recognizes the purchase of the asset by derecognizing the carrying amount of its financial asset of $1,350,041 and recognizes the transferred asset at that same amount. The date of sale also is the commencement date of the leaseback for accounting purposes. The lease term is 3 years (8 year contractual leaseback term - 5 years already passed at the commencement date). Therefore, Seller recognizes a lease liability at the present value of the 3 remaining contractual leaseback payments of $200,000, discounted at Seller's incremental borrowing rate at the contractually stated commencement date of 4 percent, which is $555,018, and a corresponding right-of-use asset of $555,018. Seller uses the incremental borrowing rate as of the contractual commencement date because that rate more closely reflects the interest rate that would have been considered by Buyer in pricing the lease.
+At the end of Year 5, the option to repurchase the asset expires, unexercised by Seller. The repurchase option was the only feature of the arrangement that precluded accounting for the transfer of the asset as a sale. Therefore, upon expiration of the repurchase option, Seller recognizes the sale of the asset by derecognizing the carrying amount of the financial liability of $1,372,077, derecognizing the carrying amount of the underlying asset of $1,371,429, and recognizing a gain of $648. Buyer recognizes the purchase of the asset by derecognizing the carrying amount of its financial asset of $1,350,041 and recognizes the transferred asset at that same amount. The date of sale also is the commencement date of the leaseback for accounting purposes. The lease term is 3 years (8 year contractual leaseback term - 5 years already passed at the commencement date). Therefore, Seller recognizes a lease liability at the present value of the 3 remaining contractual leaseback payments of $200,000, discounted at Seller's incremental borrowing rate at the contractually stated commencement date of 4 percent, which is $555,018, and a corresponding right-of-use asset of $555,018. Seller uses the incremental borrowing rate as of the contractual commencement date because that rate more closely reflects the interest rate that would have been considered by Buyer in pricing the lease.
+The lease is classified as an operating lease by both Seller and Buyer. Consequently, in Year 6 and each year thereafter, Seller recognizes a single lease cost of $200,000, while Buyer recognizes lease income of $200,000 and depreciation expense of $84,378 on the underlying asset ($1,350,041 ÷ 16 years remaining useful life).
+The lease is classified as an operating lease by both Seller and Buyer. Consequently, in Year 6 and each year thereafter, Seller recognizes a single lease cost of $200,000, while Buyer recognizes lease income of $200,000 and depreciation expense of $84,378 on the underlying asset ($1,350,041 ÷ 16 years remaining useful life).
+At the end of Year 6 and at each reporting date thereafter, Seller calculates the lease liability at the present value of the remaining lease payments of $200,000, discounted at Seller's incremental borrowing rate of 4 percent. Because Seller does not incur any initial direct costs and there are no prepaid or accrued lease payments, Seller measures the right-of-use asset at an amount equal to the lease liability at each reporting date for the remainder of the lease term.
+At the end of Year 6 and at each reporting date thereafter, Seller calculates the lease liability at the present value of the remaining lease payments of $200,000, discounted at Seller's incremental borrowing rate of 4 percent. Because Seller does not incur any initial direct costs and there are no prepaid or accrued lease payments, Seller measures the right-of-use asset at an amount equal to the lease liability at each reporting date for the remainder of the lease term.
+
+##### · > Illustration of Guidance on Application of Costs of the Lessee Relating to the Construction or Design of an Underlying Asset
+
+Example 3 illustrates the guidance on determining whether a lessee controls an underlying asset that is under construction before the commencement date.
+Example 3 illustrates the guidance on determining whether a lessee controls an underlying asset that is under construction before the commencement date.
+**842-40-55-40** · · > Example 3—Lessee Control over an Asset under Construction
+Lessee and Lessor enter into a contract whereby Lessor will construct (whether itself or using subcontractors) a building to Lessee's specifications and lease that building to Lessee for a period of 20 years once construction is completed for an annual lease payment of $1,000,000, increasing by 5 percent per year, plus a percentage of any overruns above the budgeted cost to construct the building. The building is expected to have an economic life of 50 years once it is constructed. Lessee does not legally own the building and does not have a right under the contract to obtain the building while it is under construction (for example, a right to purchase the construction in process from Lessor). In addition, while the building is being developed to Lessee's specifications, those specifications are not so specialized that the asset does not have an alternative use to Lessor.
+Lessee and Lessor enter into a contract whereby Lessor will construct (whether itself or using subcontractors) a building to Lessee's specifications and lease that building to Lessee for a period of 20 years once construction is completed for an annual lease payment of $1,000,000, increasing by 5 percent per year, plus a percentage of any overruns above the budgeted cost to construct the building. The building is expected to have an economic life of 50 years once it is constructed. Lessee does not legally own the building and does not have a right under the contract to obtain the building while it is under construction (for example, a right to purchase the construction in process from Lessor). In addition, while the building is being developed to Lessee's specifications, those specifications are not so specialized that the asset does not have an alternative use to Lessor.
+**842-40-55-41** · · · > Case A—Lessee Does Not Control the Asset under Construction
+Assume Lessee controls (that is, Lessee is the owner for accounting purposes) the land upon which the building will be constructed and, as part of the contract, Lessee agrees to lease the underlying land to Lessor for an initial period of 25 years. Lessor also is granted a series of six 5-year renewal options for the land lease.
+Assume Lessee controls (that is, Lessee is the owner for accounting purposes) the land upon which the building will be constructed and, as part of the contract, Lessee agrees to lease the underlying land to Lessor for an initial period of 25 years. Lessor also is granted a series of six 5-year renewal options for the land lease.
+None of the circumstances in paragraph 842-40-55-5 exist. Even though Lessee owns the land (whether legally or for accounting purposes only) upon which the building will be constructed, Lessor legally owns the property improvements and has rights to use the underlying land for at least substantially all of the economic life of the building. Lessee does not own the building and does not have a right under the contract to obtain the building (for example, a right to purchase the building from Lessor). In addition, the building has an alternative use to Lessor. Therefore, Lessee does not control the building under construction. Consequently, the arrangement is not within the scope of this Subtopic. Lessee and Lessor will account for the lease of the building in accordance with Subtopics 842-20 and 842-30, respectively. If Lessee incurs costs related to the construction or design of the building (for example, architectural services in developing the specifications of the building), it will account for those costs as lease payments unless the costs are for goods or services provided to Lessee, in which case Lessee will account for those costs in accordance with other Topics.
+None of the circumstances in paragraph 842-40-55-5 exist. Even though Lessee owns the land (whether legally or for accounting purposes only) upon which the building will be constructed, Lessor legally owns the property improvements and has rights to use the underlying land for at least substantially all of the economic life of the building. Lessee does not own the building and does not have a right under the contract to obtain the building (for example, a right to purchase the building from Lessor). In addition, the building has an alternative use to Lessor. Therefore, Lessee does not control the building under construction. Consequently, the arrangement is not within the scope of this Subtopic. Lessee and Lessor will account for the lease of the building in accordance with Subtopics 842-20 and 842-30, respectively. If Lessee incurs costs related to the construction or design of the building (for example, architectural services in developing the specifications of the building), it will account for those costs as lease payments unless the costs are for goods or services provided to Lessee, in which case Lessee will account for those costs in accordance with other Topics.
+**842-40-55-43** · · · > Case B—Lessee Controls the Asset under Construction
+Assume Lessee leases, rather than owns, the land upon which the building will be constructed. Lessee has a 20-year lease of the underlying land and five 10-year renewal options. Therefore, Lessee's lease of the underlying land, together with the renewal options, is for at least substantially all of the economic life of the building under construction. Lessee enters into a sublease with Lessor for the right to use the underlying land for 20 years that commences upon completion of the building. The sublease has a single 10-year renewal option available to Lessor.
+Assume Lessee leases, rather than owns, the land upon which the building will be constructed. Lessee has a 20-year lease of the underlying land and five 10-year renewal options. Therefore, Lessee's lease of the underlying land, together with the renewal options, is for at least substantially all of the economic life of the building under construction. Lessee enters into a sublease with Lessor for the right to use the underlying land for 20 years that commences upon completion of the building. The sublease has a single 10-year renewal option available to Lessor.
+Lessee controls the building during the construction period and, therefore, the arrangement is within the scope of this Subtopic. Lessee and Lessor will apply the guidance in this Subtopic to determine whether this arrangement qualifies as a sale and a leaseback or whether this arrangement is, instead, a financing arrangement. Lessee controls the building during the construction period because, in accordance with paragraph 842-40-55-5(e), Lessee controls the use of the land upon which the building will be constructed for a period that is at least substantially all of the economic life of the building and the sublease entered into with Lessor does not both (a) grant Lessor the right to use the land before the beginning of construction and (b) permit Lessor to use the land for substantially all the economic life of the building (that is, the sublease, including Lessor renewal options, only is for 30 years as compared with the 50-year economic life of the building).
+Lessee controls the building during the construction period and, therefore, the arrangement is within the scope of this Subtopic. Lessee and Lessor will apply the guidance in this Subtopic to determine whether this arrangement qualifies as a sale and a leaseback or whether this arrangement is, instead, a financing arrangement. Lessee controls the building during the construction period because, in accordance with paragraph 842-40-55-5(e), Lessee controls the use of the land upon which the building will be constructed for a period that is at least substantially all of the economic life of the building and the sublease entered into with Lessor does not both (a) grant Lessor the right to use the land before the beginning of construction and (b) permit Lessor to use the land for substantially all the economic life of the building (that is, the sublease, including Lessor renewal options, only is for 30 years as compared with the 50-year economic life of the building).
+
+## 00 Status
+
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+
+### General
+
+**842-50-00-1** The following table identifies the changes made to this Subtopic.
+
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Acquiree | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Acquirer | Amended | Accounting Standards Update No. 2025-03 | 05/12/2025 |
+| Acquirer | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Acquisition by a Not-for-Profit Entity | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Business | Amended | Accounting Standards Update No. 2017-01 | 01/05/2017 |
+| Business | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Business Combination | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Commencement Date of the Lease (Commencement Date) | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Contract | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Corporate Joint Venture | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Delayed Equity Investment | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Estimated Residual Value | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Fair Value (2nd def.) | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Joint Venture | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease Inception | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease Modification | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease Payments | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease Term | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Legal Entity | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lessee | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lessor | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Leveraged Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Market Participants | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Minimum Lease Payments | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Not-for-Profit Entity | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Orderly Transaction | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Related Parties | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Underlying Asset | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Variable Interest Entity | Superseded | Accounting Standards Update No. 2025-03 | 05/12/2025 |
+| Variable Interest Entity | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-50-05-1 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-50-15-1 | Amended | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| 842-50-15-1 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-50-25-1 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-50-25-2 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-50-30-1 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-50-30-2 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-50-35-1 through 35-21 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-50-45-3 | Amended | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| 842-50-45-1 through 45-3 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-50-50-1 through 50-3 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-50-50-2 | Amended | Accounting Standards Update No. 2022-02 | 03/31/2022 |
+| 842-50-50-2 | Amended | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 842-50-55-1 through 55-33 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+
+
+**842-50-00-1** The following table identifies the changes made to this Subtopic.
+
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Acquiree | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Acquirer | Amended | Accounting Standards Update No. 2025-03 | 05/12/2025 |
+| Acquirer | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Acquisition by a Not-for-Profit Entity | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Business | Amended | Accounting Standards Update No. 2017-01 | 01/05/2017 |
+| Business | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Business Combination | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Commencement Date of the Lease (Commencement Date) | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Contract | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Corporate Joint Venture | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Delayed Equity Investment | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Estimated Residual Value | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Fair Value (2nd def.) | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Joint Venture | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease Inception | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease Modification | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease Payments | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease Term | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Legal Entity | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lessee | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lessor | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Leveraged Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Market Participants | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Minimum Lease Payments | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Not-for-Profit Entity | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Orderly Transaction | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Related Parties | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Underlying Asset | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Variable Interest Entity | Superseded | Accounting Standards Update No. 2025-03 | 05/12/2025 |
+| Variable Interest Entity | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-50-05-1 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-50-15-1 | Amended | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| 842-50-15-1 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-50-25-1 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-50-25-2 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-50-30-1 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-50-30-2 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-50-35-1 through 35-21 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-50-45-3 | Amended | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| 842-50-45-1 through 45-3 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-50-50-1 through 50-3 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 842-50-50-2 | Amended | Accounting Standards Update No. 2022-02 | 03/31/2022 |
+| 842-50-50-2 | Amended | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 842-50-55-1 through 55-33 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+
+## 05 Overview and Background
+
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+
+### General
+
+This Subtopic addresses accounting for leases
+that meet the definition of a leveraged lease.
+This Subtopic addresses accounting for leases
+
+## 15 Scope and Scope Exceptions
+
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+
+### General
+
+This Subtopic addresses accounting for leases
+that meet the criteria in transition paragraph 842-10-65-1(z). If a lessee exercises an option to extend a lease that meets the criteria in transition paragraph 842-10-65-1(z) that it was not previously reasonably assured of exercising, the exercise of that option shall be considered a lease modification as described in paragraph 842-10-65-1(z). PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 This Subtopic addresses accounting for leases that meet the criteria in transition paragraph 842-10-65-1(z). If a lessee exercises an option to extend a lease that meets the criteria in transition paragraph 842-10-65-1(z) that it was not previously reasonably assured of exercising, the exercise of that option shall be considered a lease modification as described in paragraph 842-10-65-1(z). A joint venture formation accounted for in accordance with Subtopic 805-60 shall apply the guidance in this Subtopic applicable to the acquiring entity in a business combination. The joint venture shall be viewed as analogous to the acquiring entity in a business combination, and any recognized businesses and/or assets shall be viewed as analogous to an acquiree.
+This Subtopic addresses accounting for leases
+
+## 20 Glossary
+
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+
+##### Acquiree
+
+The business or businesses that the acquirer obtains control of in a business combination. This term also includes a nonprofit activity or business that a not-for-profit acquirer obtains control of in an acquisition by a not-for-profit entity.
+The business or businesses that the acquirer obtains control of in a business combination. This term also includes a nonprofit activity or business that a not-for-profit acquirer obtains control of in an acquisition by a not-for-profit entity.
+
+##### Acquirer
+
+The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:805-10-65-5The entity that obtains control of the acquiree.See paragraphs 805-10-25-4 through 25-5 for guidance on determining the acquirer.
+The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer.
+PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:805-10-65-5The entity that obtains control of the acquiree.See paragraphs 805-10-25-4 through 25-5
+
+##### Acquisition by a Not-for-Profit Entity
+
+for guidance on determining the acquirer.A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.
+A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.
+
+##### Business
+
+Paragraphs 805-10-55-3A through 55-6 and 805-10-55-8 through 55-9 define what is considered a business.
+Paragraphs 805-10-55-3A through 55-6
+
+##### Business Combination
+
+and 805-10-55-8 through 55-9 define what is considered a business. A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
+A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
+
+##### Commencement Date of the Lease        (Commencement Date)
+
+The date on which a lessor makes an underlying asset available for use by a lessee. See paragraphs 842-10-55-19 through 55-21
+for implementation guidance on the commencement date.
+The date on which a lessor makes an underlying asset available for use by a lessee. See paragraphs 842-10-55-19 through 55-21
+for implementation guidance on the commencement date.
+
+##### Contract
+
+An agreement between two or more parties that creates enforceable rights and obligations.
+An agreement between two or more parties that creates enforceable rights and obligations.
+
+##### Corporate Joint Venture
+
+A corporation owned and operated by a small group of entities (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a corporate joint venture frequently is to share risks and rewards in developing a new market, product or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A corporate joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a corporate joint venture. The ownership of a corporate joint venture seldom changes, and its stock is usually not traded publicly. A noncontrolling interest held by public ownership, however, does not preclude a corporation from being a corporate joint venture.
+A corporation owned and operated by a small group of entities (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a corporate joint venture frequently is to share risks and rewards in developing a new market, product or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A corporate joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a corporate joint venture. The ownership of a corporate joint venture seldom changes, and its stock is usually not traded publicly. A noncontrolling interest held by public ownership, however, does not preclude a corporation from being a corporate joint venture.
+
+##### Delayed Equity Investment
+
+In leveraged lease transactions that have been structured with terms such that the lessee's rent payments begin one to two years after lease inception, equity contributions the lessor agrees to make (in the lease agreement or a separate binding contract) that are used to service the nonrecourse debt during this brief period. The total amount of the lessor's contributions is specifically limited by the agreements.
+In leveraged lease transactions that have been structured with terms such that the lessee's rent payments begin one to two years after lease inception, equity contributions the lessor agrees to make (in the lease agreement or a separate binding contract) that are used to service the nonrecourse debt during this brief period. The total amount of the lessor's contributions is specifically limited by the agreements.
+
+##### Estimated Residual Value
+
+The estimated fair value of the leased property at the end of the lease term.
+The estimated fair value of the leased property at the end of the lease term.
+
+##### Fair Value
+
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+
+##### Joint Venture
+
+An entity owned and operated by a small group of businesses (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a joint venture frequently is to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a joint venture. The ownership of a joint venture seldom changes, and its equity interests usually are not traded publicly. A minority public ownership, however, does not preclude an entity from being a joint venture. As distinguished from a corporate joint venture, a joint venture is not limited to corporate entities.
+An entity owned and operated by a small group of businesses (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a joint venture frequently is to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a joint venture. The ownership of a joint venture seldom changes, and its equity interests usually are not traded publicly. A minority public ownership, however, does not preclude an entity from being a joint venture. As distinguished from a corporate joint venture, a joint venture is not limited to corporate entities.
+
+##### Lease
+
+A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
+A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
+
+##### Lease Inception
+
+The date of the lease agreement or commitment, if earlier. For purposes of this definition, a commitment shall be in writing, signed by the parties in interest to the transaction, and shall specifically set forth the principal provisions of the transaction. If any of the principal provisions are yet to be negotiated, such a preliminary agreement or commitment does not qualify for purposes of this definition.
+The date of the lease agreement or commitment, if earlier. For purposes of this definition, a commitment shall be in writing, signed by the parties in interest to the transaction, and shall specifically set forth the principal provisions of the transaction. If any of the principal provisions are yet to be negotiated, such a preliminary agreement or commitment does not qualify for purposes of this definition.
+
+##### Lease                Modification
+
+A change to the terms and conditions of a contract that results in a change in the scope of or the consideration for a lease (for example, a change to the terms and conditions of the contract that adds or terminates the right to use one or more underlying assets or extends or shortens the contractual lease term).
+A change to the terms and conditions of a contract that results in a change in the scope of or the consideration for a lease (for example, a change to the terms and conditions of the contract that adds or terminates the right to use one or more underlying assets or extends or shortens the contractual lease term).
+
+##### Lease Payments
+
+See paragraph 842-10-30-5 for what constitutes lease payments from the perspective of a lessee and a lessor.
+See paragraph 842-10-30-5 for what constitutes lease payments from the perspective of a lessee and a lessor.
+
+##### Lease Term
+
+Periods covered by an option to extend the lease if the lessee is reasonably certain to exercise that option
+2. Periods covered by an option to terminate the lease if the lessee is reasonably certain not to exercise that option
+3. Periods covered by an option to extend (or not to terminate) the lease in which exercise of the option is controlled by the lessor.
+
+Periods covered by an option to extend the lease if the lessee is reasonably certain to exercise that option
+Periods covered by an option to terminate the lease if the lessee is reasonably certain not to exercise that option
+3. Periods covered by an option to extend (or not to terminate) the lease in which exercise of the option is controlled by the lessor.
+
+##### Legal Entity
+
+Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts.
+Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts.
+
+##### Lessee
+
+An entity that enters into a contract to obtain the right to use an underlying asset for a period of time in exchange for consideration.
+An entity that enters into a contract to obtain the right to use an underlying asset for a period of time in exchange for consideration.
+
+##### Lessor
+
+An entity that enters into a contract to provide the right to use an underlying asset for a period of time in exchange for consideration.
+An entity that enters into a contract to provide the right to use an underlying asset for a period of time in exchange for consideration.
+
+##### Leveraged                Lease
+
+From the perspective of a lessor, a lease that was classified as a leveraged lease in accordance with the leases guidance in effect before the effective date and for which the commencement date is before the effective date.
+From the perspective of a lessor, a lease that was classified as a leveraged lease in accordance with the leases guidance in effect before the effective date and for which the commencement date is before the effective date.
+
+##### Market Participants
+
+1. They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
+3. They are able to enter into a transaction for the asset or liability
+4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
+
+They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
+3. They are able to enter into a transaction for the asset or liability
+4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
+
+##### Minimum Lease        Payments
+
+Contingent rentals
+2. Any guarantee by the lessee of the lessor's debt and the lessee's obligation to pay (apart from the rental payments) executory costs such as insurance, maintenance, and taxes in connection with the leased property.
+
+1. The minimum rental payments called for by the lease over the lease term.
+2. Any guarantee of the residual value at the expiration of the lease term, whether or not payment of the guarantee constitutes a purchase of the leased property or of rental payments beyond the lease term by the lessee (including a third party related to the lessee) or a third party unrelated to either the lessee or the lessor, provided the third party is financially capable of discharging the obligations that may arise from the guarantee. If the lessor has the right to require the lessee to purchase the property at termination of the lease for a certain or determinable amount, that amount is required to be considered a lessee guarantee of the residual value. If the lessee agrees to make up any deficiency below a stated amount in the lessor's realization of the residual value, the residual value guarantee to be included in the minimum lease payments is required to be the stated amount, rather than an estimate of the deficiency to be made up.
+3. Any payment that the lessee must make or can be required to make upon failure to renew or extend the lease at the expiration of the lease term, whether or not the payment would constitute a purchase of the leased property. Note that the definition of lease term includes all periods, if any, for which failure to renew the lease imposes a penalty on the lessee in an amount such that renewal appears, at lease inception, to be reasonably assured. If the lease term has been extended because of that provision, the related penalty is not included in minimum lease payments.
+4. Payments made before the beginning of the lease term. The lessee is required to use the same interest rate to accrete payments to be made before the beginning of the lease term that it uses to discount lease payments to be made during the lease term.
+5. Fees that are paid by the lessee to the owners of the special-purpose entity for structuring the lease transaction. Such fees are required to be included as part of minimum lease payments (but not included in the fair value of the leased property).
+
+Lease payments that depend on a factor directly related to the future use of the leased property, such as machine hours of use or sales volume during the lease term, are contingent rentals and, accordingly, are excluded from minimum lease payments in their entirety. However, lease payments that depend on an existing index or rate, such as the Consumer Price Index or the prime interest rate, are required to be included in minimum lease payments based on the index or rate existing at lease inception; any increases or decreases in lease payments that result from subsequent changes in the index or rate are contingent rentals and, thus, affect the determination of income as accruable.
+Contingent rentals
+Any guarantee by the lessee of the lessor's debt and the lessee's obligation to pay (apart from the rental payments) executory costs such as insurance, maintenance, and taxes in connection with the leased property.
+
+The minimum rental payments called for by the lease over the lease term.
+2. Any guarantee of the residual value at the expiration of the lease term, whether or not payment of the guarantee constitutes a purchase of the leased property or of rental payments beyond the lease term by the lessee (including a third party related to the lessee) or a third party unrelated to either the lessee or the lessor, provided the third party is financially capable of discharging the obligations that may arise from the guarantee. If the lessor has the right to require the lessee to purchase the property at termination of the lease for a certain or determinable amount, that amount is required to be considered a lessee guarantee of the residual value. If the lessee agrees to make up any deficiency below a stated amount in the lessor's realization of the residual value, the residual value guarantee to be included in the minimum lease payments is required to be the stated amount, rather than an estimate of the deficiency to be made up.
+3. Any payment that the lessee must make or can be required to make upon failure to renew or extend the lease at the expiration of the lease term, whether or not the payment would constitute a purchase of the leased property. Note that the definition of lease term includes all periods, if any, for which failure to renew the lease imposes a penalty on the lessee in an amount such that renewal appears, at lease inception, to be reasonably assured. If the lease term has been extended because of that provision, the related penalty is not included in minimum lease payments.
+4. Payments made before the beginning of the lease term. The lessee is required to use the same interest rate to accrete payments to be made before the beginning of the lease term that it uses to discount lease payments to be made during the lease term.
+5. Fees that are paid by the lessee to the owners of the special-purpose entity for structuring the lease transaction. Such fees are required to be included as part of minimum lease payments (but not included in the fair value of the leased property).
+
+Lease payments that depend on a factor directly related to the future use of the leased property, such as machine hours of use or sales volume during the lease term, are contingent rentals and, accordingly, are excluded from minimum lease payments in their entirety. However, lease payments that depend on an existing index or rate, such as the Consumer Price Index or the prime interest rate, are required to be included in minimum lease payments based on the index or rate existing at lease inception; any increases or decreases in lease payments that result from subsequent changes in the index or rate are contingent rentals and, thus, affect the determination of income as accruable.
+
+##### Not-for-Profit Entity
+
+1. Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
+2. Operating purposes other than to provide goods or services at a profit
+3. Absence of ownership interests like those of business entities.
+
+1. All investor-owned entities
+2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
+
+Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
+2. Operating purposes other than to provide goods or services at a profit
+3. Absence of ownership interests like those of business entities.
+
+All investor-owned entities
+2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
+
+##### Orderly Transaction
+
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+
+##### Related Parties
+
+1. Affiliates of the entity
+2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
+3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
+4. Principal owners of the entity and members of their immediate families
+5. Management of the entity and members of their immediate families
+6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
+7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
+
+Affiliates of the entity
+2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
+3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
+4. Principal owners of the entity and members of their immediate families
+5. Management of the entity and members of their immediate families
+6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
+7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
+
+##### Underlying Asset
+
+An asset that is the subject of a lease for which a right to use that asset has been conveyed to a lessee. The underlying asset could be a physically distinct portion of a single asset.
+An asset that is the subject of a lease for which a right to use that asset has been conveyed to a lessee. The underlying asset could be a physically distinct portion of a single asset.
+
+##### Variable Interest Entity
+
+A legal entity subject to consolidation according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
+A legal entity subject to consolidation according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
+
+## 25 Recognition
+
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+
+### General
+
+A lessor
+1. Rentals receivable
+2. Investment-tax-credit receivable
+3. Estimated residual value of the leased asset
+4. Unearned and deferred income.
+
+A lessor
+1. Rentals receivable
+2. Investment-tax-credit receivable
+3. Estimated residual value of the leased asset
+4. Unearned and deferred income.
+
+**842-50-25-2** > Leveraged Lease Acquired in a Business Combination or an Acquisition by a Not-for-Profit Entity
+In a business combination or an acquisition by a not-for-profit entity
+, the acquiring entity shall retain the classification of the acquired entity's investment as a lessor in a leveraged lease at the date of the combination. The net investment of the acquired leveraged lease shall be disaggregated into its component parts, namely net rentals receivable, estimated residual value, and unearned income including discount to adjust other components to present value.
+In a business combination or an acquisition by a not-for-profit entity
+
+## 30 Initial Measurement
+
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+
+### General
+
+A lessor
+1. Rentals receivable, net of that portion of the rental applicable to principal and interest on the nonrecourse debt.
+2. A receivable for the amount of the investment tax credit to be realized on the transaction.
+3. The estimated residual value of the leased asset. The estimated residual value shall not exceed the amount estimated at lease inception except if the lease agreement includes a provision to escalate minimum lease payments either for increases in construction or acquisition cost of the leased property or for increases in some other measure of cost or value (such as general price levels) during the construction or preacquisition period. In that case, the effect of any increases that have occurred shall be considered in the determination of the estimated residual value of the underlying asset at lease inception.
+1. The estimated pretax lease income (or loss), after deducting initial direct costs, remaining to be allocated to income over the lease term.
+2. The investment tax credit remaining to be allocated to income over the lease term.
+
+A lessor
+1. Rentals receivable, net of that portion of the rental applicable to principal and interest on the nonrecourse debt.
+2. A receivable for the amount of the investment tax credit to be realized on the transaction.
+3. The estimated residual value of the leased asset. The estimated residual value shall not exceed the amount estimated at lease inception except if the lease agreement includes a provision to escalate minimum lease payments either for increases in construction or acquisition cost of the leased property or for increases in some other measure of cost or value (such as general price levels) during the construction or preacquisition period. In that case, the effect of any increases that have occurred shall be considered in the determination of the estimated residual value of the underlying asset at lease inception.
+1. The estimated pretax lease income (or loss), after deducting initial direct costs, remaining to be allocated to income over the lease term.
+2. The investment tax credit remaining to be allocated to income over the lease term.
+
+**842-50-30-2** > Leveraged Lease Acquired in a Business Combination or an Acquisition by a Not-for-Profit Entity
+In a business combination or an acquisition by a not-for-profit entity
+, the acquiring entity shall assign an amount to the acquired net investment in the leveraged lease in accordance with the general guidance in Topic 805 on business combinations, based on the remaining future cash flows and giving appropriate recognition to the estimated future tax effects of those cash flows.
+In a business combination or an acquisition by a not-for-profit entity
+
+## 35 Subsequent Measurement
+
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+
+### General
+
+**842-50-35-1** > Leveraged Lease Acquired in a Business Combination or an Acquisition by a Not-for-Profit Entity
+In a business combination or an acquisition by a not-for-profit entity
+, the acquiring entity shall subsequently account for its acquired investment as a lessor in a leveraged lease in accordance with the guidance in this Subtopic as it would for any other leveraged lease.
+In a business combination or an acquisition by a not-for-profit entity
+**842-50-35-2** , the acquiring entity shall subsequently account for its acquired investment as a lessor in a leveraged lease in accordance with the guidance in this Subtopic as it would for any other leveraged lease. > Income Recognition on a Leveraged Lease
+The investment in leveraged leases
+minus deferred taxes arising from differences between pretax accounting income and taxable income shall represent the lessor's net investment in leveraged leases for purposes of computing periodic net income from the leveraged lease. Given the original investment and using the projected cash receipts and disbursements over the term of the lease, the rate of return on the net investment in the years in which it is positive shall be computed. The rate is that rate that, when applied to the net investment in the years in which the net investment is positive, will distribute the net income to those years and is distinct from the interest rate implicit in the lease. In each year, whether positive or not, the difference between the net cash flow and the amount of income recognized, if any, shall serve to increase or reduce the net investment balance. The use of the term *years* is not intended to preclude application of the accounting prescribed in this paragraph to shorter accounting periods.
+The investment in leveraged leases
+**842-50-35-3** minus deferred taxes arising from differences between pretax accounting income and taxable income shall represent the lessor's net investment in leveraged leases for purposes of computing periodic net income from the leveraged lease. Given the original investment and using the projected cash receipts and disbursements over the term of the lease, the rate of return on the net investment in the years in which it is positive shall be computed. The rate is that rate that, when applied to the net investment in the years in which the net investment is positive, will distribute the net income to those years and is distinct from the interest rate implicit in the lease. In each year, whether positive or not, the difference between the net cash flow and the amount of income recognized, if any, shall serve to increase or reduce the net investment balance. The use of the term *years* is not intended to preclude application of the accounting prescribed in this paragraph to shorter accounting periods.
+Pretax lease income (or loss)
+2. Investment tax credit
+3. Tax effect of pretax lease income (or loss).
+
+Pretax lease income (or loss)
+2. Investment tax credit
+3. Tax effect of pretax lease income (or loss).
+
+The pretax lease income (or loss) and investment tax credit elements shall be allocated in proportionate amounts from the unearned and deferred income included in the lessor's net investment (as described in paragraph 842-50-30-1(d)). The tax effect of the pretax lease income (or loss) recognized shall be reflected in tax expense for the year. The tax effect of the difference between pretax accounting income (or loss) and taxable income (or loss) for the year shall be charged or credited to deferred taxes.
+The pretax lease income (or loss) and investment tax credit elements shall be allocated in proportionate amounts from the unearned and deferred income included in the lessor's net investment (as described in paragraph 842-50-30-1(d)). The tax effect of the pretax lease income (or loss) recognized shall be reflected in tax expense for the year. The tax effect of the difference between pretax accounting income (or loss) and taxable income (or loss) for the year shall be charged or credited to deferred taxes.
+If, at any time during the lease term
+the application of the method prescribed in this Subtopic would result in a loss being allocated to future years, that loss shall be recognized immediately. This situation might arise in circumstances in which one of the important assumptions affecting net income is revised (see paragraphs 842-50-35-6 through 35-15).
+If, at any time during the lease term
+
+##### · > Changes in Assumptions
+
+**842-50-35-6** the application of the method prescribed in this Subtopic would result in a loss being allocated to future years, that loss shall be recognized immediately. This situation might arise in circumstances in which one of the important assumptions affecting net income is revised (see paragraphs 842-50-35-6 through 35-15).
+Any estimated residual value
+1. The estimate of the residual value is determined to be excessive, and the decline in the residual value is judged to be other than temporary.
+2. The revision of another important assumption changes the estimated total net income from the lease.
+3. The projected timing of the income tax cash flows is revised.
+
+Any estimated residual value
+1. The estimate of the residual value is determined to be excessive, and the decline in the residual value is judged to be other than temporary.
+2. The revision of another important assumption changes the estimated total net income from the lease.
+3. The projected timing of the income tax cash flows is revised.
+
+The lessor
+shall update all assumptions used to calculate total and periodic income if the lessor is performing a recalculation of the leveraged lease. That recalculation shall include actual cash flows up to the date of the recalculation and projected cash flows following the date of recalculation.
+The lessor
+**842-50-35-8** shall update all assumptions used to calculate total and periodic income if the lessor is performing a recalculation of the leveraged lease. That recalculation shall include actual cash flows up to the date of the recalculation and projected cash flows following the date of recalculation.
+The pretax gain or loss shall be included in income from continuing operations before income taxes in the same line item in which leveraged lease income is recognized.
+2. The tax effect of the gain or loss shall be included in the income tax line item.
+3. An upward adjustment of the estimated residual value (including any guaranteed portion) shall not be made.
+
+The pretax gain or loss shall be included in income from continuing operations before income taxes in the same line item in which leveraged lease income is recognized.
+2. The tax effect of the gain or loss shall be included in the income tax line item.
+3. An upward adjustment of the estimated residual value (including any guaranteed portion) shall not be made.
+
+The projected timing of income tax cash flows generated by the leveraged lease is an important assumption and shall be reviewed annually, or more frequently, if events or changes in circumstances indicate that a change in timing has occurred or is projected to occur. The income effect of a change in the income tax rate shall be recognized in the first accounting period ending on or after the date on which the legislation effecting a rate change becomes law.
+The projected timing of income tax cash flows generated by the leveraged lease is an important assumption and shall be reviewed annually, or more frequently, if events or changes in circumstances indicate that a change in timing has occurred or is projected to occur. The income effect of a change in the income tax rate shall be recognized in the first accounting period ending on or after the date on which the legislation effecting a rate change becomes law.
+An interpretation of the tax law
+2. A change in the lessor's assessment of the likelihood of prevailing in a challenge by the taxing authority
+3. A change in the lessor's expectations about settlement with the taxing authority.
+
+An interpretation of the tax law
+2. A change in the lessor's assessment of the likelihood of prevailing in a challenge by the taxing authority
+3. A change in the lessor's expectations about settlement with the taxing authority.
+
+In contrast, as discussed in paragraph 842-50-35-20, a change in timing of income taxes solely as a result of an alternative minimum tax credit or insufficient taxable income of the lessor would not require a recalculation of a leveraged lease because that change in timing is not directly related to that lease. A recalculation would not be required unless there is an indication that the previous assumptions about total after-tax net income from the leveraged lease were no longer valid.
+In contrast, as discussed in paragraph 842-50-35-20, a change in timing of income taxes solely as a result of an alternative minimum tax credit or insufficient taxable income of the lessor would not require a recalculation of a leveraged lease because that change in timing is not directly related to that lease. A recalculation would not be required unless there is an indication that the previous assumptions about total after-tax net income from the leveraged lease were no longer valid.
+Tax positions shall be reflected in the lessor's initial calculation or subsequent recalculation on the recognition, measurement, and derecognition criteria in paragraphs 740-10-25-6, 740-10-30-7, and 740-10-40-2. The determination of when a tax position no longer meets those criteria is a matter of individual facts and circumstances evaluated in light of all available evidence.
+Tax positions shall be reflected in the lessor's initial calculation or subsequent recalculation on the recognition, measurement, and derecognition criteria in paragraphs 740-10-25-6, 740-10-30-7, and 740-10-40-2. The determination of when a tax position no longer meets those criteria is a matter of individual facts and circumstances evaluated in light of all available evidence.
+If the lessor expects to enter into a settlement of a tax position relating to a leveraged lease with a taxing authority, the cash flows following the date of recalculation shall include projected cash flows between the date of the recalculation and the date of any projected settlement and a projected settlement amount at the date of the projected settlement.
+If the lessor expects to enter into a settlement of a tax position relating to a leveraged lease with a taxing authority, the cash flows following the date of recalculation shall include projected cash flows between the date of the recalculation and the date of any projected settlement and a projected settlement amount at the date of the projected settlement.
+The recalculation of income from the leveraged lease shall not include interest or penalties in the cash flows from the leveraged lease.
+The recalculation of income from the leveraged lease shall not include interest or penalties in the cash flows from the leveraged lease.
+Advance payments and deposits made with a taxing authority shall not be considered an actual cash flow of the leveraged lease; rather, those payments and deposits shall be included in the projected settlement amount.
+Advance payments and deposits made with a taxing authority shall not be considered an actual cash flow of the leveraged lease; rather, those payments and deposits shall be included in the projected settlement amount.
+**842-50-35-16** > Effect of Alternative Minimum Tax
+An entity shall include assumptions about the effect of the alternative minimum tax, considering its consolidated tax position, in leveraged lease
+computations.
+An entity shall include assumptions about the effect of the alternative minimum tax, considering its consolidated tax position, in leveraged lease
+**842-50-35-17** computations.
+Any difference between alternative minimum tax depreciation and the tax depreciation assumed in the leveraged lease or between income recognition for financial reporting purposes and alternative minimum tax income could, depending on the lessor's
+overall tax situation, result in alternative minimum tax or the utilization of alternative minimum tax credits.
+Any difference between alternative minimum tax depreciation and the tax depreciation assumed in the leveraged lease or between income recognition for financial reporting purposes and alternative minimum tax income could, depending on the lessor's
+**842-50-35-18** overall tax situation, result in alternative minimum tax or the utilization of alternative minimum tax credits.
+If alternative minimum tax is paid or an alternative minimum tax credit is utilized, the total cash flows from the leveraged lease could be changed and the lessor's net investment in the leveraged lease and income recognition would be affected.
+If alternative minimum tax is paid or an alternative minimum tax credit is utilized, the total cash flows from the leveraged lease could be changed and the lessor's net investment in the leveraged lease and income recognition would be affected.
+If a change to the tax assumptions changes total estimated after-tax net income, the rate of return on the leveraged lease shall be recalculated from inception, the accounts constituting the lessor's net investment shall be adjusted, and a gain or loss shall be recognized in the year in which the assumption is changed.
+If a change to the tax assumptions changes total estimated after-tax net income, the rate of return on the leveraged lease shall be recalculated from inception, the accounts constituting the lessor's net investment shall be adjusted, and a gain or loss shall be recognized in the year in which the assumption is changed.
+However, an entity whose tax position frequently varies between alternative minimum tax and regular tax shall not be required to recalculate the rate of return on the leveraged lease each year unless there is an indication that the original assumptions regarding total after-tax net income from the lease
+are no longer valid. In that circumstance, the entity shall be required to revise the leveraged lease computations in any period in which total net income from the leveraged lease changes because of the effect of the alternative minimum tax on cash flows for the lease.
+However, an entity whose tax position frequently varies between alternative minimum tax and regular tax shall not be required to recalculate the rate of return on the leveraged lease each year unless there is an indication that the original assumptions regarding total after-tax net income from the lease
+**842-50-35-21** are no longer valid. In that circumstance, the entity shall be required to revise the leveraged lease computations in any period in which total net income from the leveraged lease changes because of the effect of the alternative minimum tax on cash flows for the lease. > Transfer of Minimum Rental Payments
+If a lessor
+sells substantially all of the minimum rental payments associated with a leveraged lease and retains an interest in the residual value of the leased asset, the lessor shall not recognize increases in the value of the lease residual to its estimated value over the remaining lease term. The lessor shall report any remaining interest thereafter at its carrying amount at the date of the sale of the lease payments. If it is determined subsequently that the fair value of the residual value of the leased asset has declined below the carrying amount of the interest retained and that decline is other than temporary, the asset shall be written down to fair value, and the amount of the write-down shall be recognized as a loss. That fair value becomes the asset's new carrying amount, and the asset shall not be increased for any subsequent increase in its fair value before its sale or disposition.
+If a lessor
+
+## 45 Other Presentation Matters
+
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+
+### General
+
+For purposes of presenting the investment in a leveraged lease
+in the lessor's balance sheet, the amount of related deferred taxes shall be presented separately (from the remainder of the net investment). In the income statement or the notes to that statement, separate presentation (from each other) shall be made of pretax income from the leveraged lease, the tax effect of pretax income, and the amount of investment tax credit recognized as income during the period.
+For purposes of presenting the investment in a leveraged lease
+**842-50-45-2** in the lessor's balance sheet, the amount of related deferred taxes shall be presented separately (from the remainder of the net investment). In the income statement or the notes to that statement, separate presentation (from each other) shall be made of pretax income from the leveraged lease, the tax effect of pretax income, and the amount of investment tax credit recognized as income during the period. > Income Taxes and Leveraged Leases
+Integration of the results of income tax accounting for leveraged leases
+with the other results of accounting for income taxes under Topic 740 on income taxes is required if deferred tax credits related to leveraged leases are the only source (see paragraph 740-10-30-18) for recognition of a tax benefit for deductible temporary differences and carryforwards not related to leveraged leases. A valuation allowance is not necessary if deductible temporary differences and carryforwards will offset taxable amounts from future recovery of the net investment in the leveraged lease. However, to the extent that the amount of deferred tax credits for a leveraged lease as determined in accordance with this Subtopic differs from the amount of the deferred tax liability related to the leveraged lease that would otherwise result from applying the guidance in Topic 740, that difference is preserved and is not a source of taxable income for recognition of the tax benefit of deductible temporary differences and operating loss or tax credit carryforwards.
+Integration of the results of income tax accounting for leveraged leases
+**842-50-45-3** with the other results of accounting for income taxes under Topic 740 on income taxes is required if deferred tax credits related to leveraged leases are the only source (see paragraph 740-10-30-18) for recognition of a tax benefit for deductible temporary differences and carryforwards not related to leveraged leases. A valuation allowance is not necessary if deductible temporary differences and carryforwards will offset taxable amounts from future recovery of the net investment in the leveraged lease. However, to the extent that the amount of deferred tax credits for a leveraged lease as determined in accordance with this Subtopic differs from the amount of the deferred tax liability related to the leveraged lease that would otherwise result from applying the guidance in Topic 740, that difference is preserved and is not a source of taxable income for recognition of the tax benefit of deductible temporary differences and operating loss or tax credit carryforwards.
+This Subtopic requires that the tax effect of any difference between the assigned value and the tax basis of a leveraged lease at the date of a business combination or an acquisition by a not-for-profit entity
+shall not be accounted for as a deferred tax credit. Any tax effects included in unearned and deferred income as required by this Subtopic shall not be offset by the deferred tax consequences of other temporary differences or by the tax benefit of operating loss or tax credit carryforwards. However, deferred tax credits that arise after the date of a combination shall be accounted for in the same manner as for leveraged leases that were not acquired in a combination. PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 This Subtopic requires that the tax effect of any difference between the assigned value and the tax basis of a leveraged lease at the date of a business combination, an acquisition by a not-for-profit entity, or a joint venture formation shall not be accounted for as a deferred tax credit. Any tax effects included in unearned and deferred income as required by this Subtopic shall not be offset by the deferred tax consequences of other temporary differences or by the tax benefit of operating loss or tax credit carryforwards. However, deferred tax credits that arise after the date of a combination shall be accounted for in the same manner as for leveraged leases that were not acquired in a combination.
+This Subtopic requires that the tax effect of any difference between the assigned value and the tax basis of a leveraged lease at the date of a business combination or an acquisition by a not-for-profit entity
+
+## 50 Disclosure
+
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+
+### General
+
+**842-50-50-1** If leveraged leasing is a significant part of the lessor's
+business activities in terms of revenue, net income, or assets, the components of the net investment balance in leveraged leases as set forth in paragraph 842-50-25-1 shall be disclosed in the notes to financial statements.
+**842-50-50-1** If leveraged leasing is a significant part of the lessor's
+**842-50-50-2** business activities in terms of revenue, net income, or assets, the components of the net investment balance in leveraged leases as set forth in paragraph 842-50-25-1 shall be disclosed in the notes to financial statements.
+For guidance on disclosures about financing receivables, which include receivables relating to a lessor's rights to payments from leveraged leases, see the guidance in Subtopic 326-20 on financial instruments measured at amortized cost.
+**842-50-50-2** For guidance on disclosures about financing receivables, which include receivables relating to a lessor's rights to payments from leveraged leases, see the guidance in Subtopic 326-20 on financial instruments measured at amortized cost.
+**842-50-50-3** If accounting for the effect on leveraged leases of the change in tax rates results in a significant variation from the customary relationship between income tax expense and pretax accounting income and the reason for that variation is not otherwise apparent, the lessor shall disclose the reason for that variation.
+**842-50-50-3** If accounting for the effect on leveraged leases of the change in tax rates results in a significant variation from the customary relationship between income tax expense and pretax accounting income and the reason for that variation is not otherwise apparent, the lessor shall disclose the reason for that variation.
+
+## 55 Implementation Guidance and Illustrations
+
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+
+### General
+
+##### · > Leveraged Lease Involving an Existing Asset of a Regulated Entity
+
+**842-50-55-1** > Implementation Guidance
+Although the carrying amount of an asset acquired previously may not differ significantly from its fair value
+, it is unlikely that the two will be the same. However, regulated utilities have argued that the carrying amounts of certain of their assets always equal the fair value based on the utility's ability to recover that cost in conjunction with a franchise to sell a related service in a specified area. That argument is not valid when considering the value of the asset to a third-party purchaser that does not own that franchise.
+Although the carrying amount of an asset acquired previously may not differ significantly from its fair value
+
+##### · > Delayed Equity Investment
+
+**842-50-55-2** , it is unlikely that the two will be the same. However, regulated utilities have argued that the carrying amounts of certain of their assets always equal the fair value based on the utility's ability to recover that cost in conjunction with a franchise to sell a related service in a specified area. That argument is not valid when considering the value of the asset to a third-party purchaser that does not own that franchise.
+A delayed equity investment
+frequently obligates the lessor to make up the shortfall between rent and debt service in the first several years of the transaction. The type of recourse debt resulting from the delayed equity investment does not contradict the notion of nonrecourse and, therefore, does not preclude leveraged lease accounting as long as other requirements of leveraged lease accounting are met. The lessor's related obligation should be recorded as a liability at present value at lease inception.
+A delayed equity investment
+**842-50-55-3** frequently obligates the lessor to make up the shortfall between rent and debt service in the first several years of the transaction. The type of recourse debt resulting from the delayed equity investment does not contradict the notion of nonrecourse and, therefore, does not preclude leveraged lease accounting as long as other requirements of leveraged lease accounting are met. The lessor's related obligation should be recorded as a liability at present value at lease inception.
+Recognition of the liability would increase the lessor's net investment on which the lessor bases its pattern of income recognition. While the increase to the net investment results in an increase in income, it may be offset by the accrual of interest on the liability.
+Recognition of the liability would increase the lessor's net investment on which the lessor bases its pattern of income recognition. While the increase to the net investment results in an increase in income, it may be offset by the accrual of interest on the liability.
+
+##### · > Income Taxes Related to Leveraged Leases
+
+The accounting for income taxes related to leveraged leases
+set forth in this Subtopic is not consistent with the guidance in Topic 740 on income taxes.
+The accounting for income taxes related to leveraged leases
+**842-50-55-5** set forth in this Subtopic is not consistent with the guidance in Topic 740 on income taxes.
+The accounting for a leveraged lease requires recognition of deferred tax credits.
+2. The guidance in Topic 740 limits the recognition of a tax benefit for deductible temporary differences and carryforwards not related to the leveraged lease.
+3. Unrecognized tax benefits in this paragraph could offset taxable amounts that result from future recovery of the net investment in the leveraged lease.
+
+The accounting for a leveraged lease requires recognition of deferred tax credits.
+2. The guidance in Topic 740 limits the recognition of a tax benefit for deductible temporary differences and carryforwards not related to the leveraged lease.
+3. Unrecognized tax benefits in this paragraph could offset taxable amounts that result from future recovery of the net investment in the leveraged lease.
+
+##### · > Example 1: Lessor's Accounting for a Leveraged Lease
+
+**842-50-55-6** > Illustrations
+Cash flow analysis by years (see paragraph 842-50-55-8)
+2. Allocation of annual cash flow to investment and income (see paragraph 842-50-55-9)
+3. Journal entries for lessor's initial investment and first year of operation (see paragraph 842-50-55-10)
+4. Financial statements including notes at end of second year (see paragraph 842-50-55-11)
+1. Revised allocation of annual cash flow to investment and income (see paragraph 842-50-55-12)
+2. Balances in investment accounts at beginning of the eleventh year before revised estimate (see paragraph 842-50-55-13)
+3. Journal entries (see paragraph 842-50-55-14)
+4. Adjustment of investment accounts (see paragraph 842-50-55-15).
+
+Cash flow analysis by years (see paragraph 842-50-55-8)
+2. Allocation of annual cash flow to investment and income (see paragraph 842-50-55-9)
+3. Journal entries for lessor's initial investment and first year of operation (see paragraph 842-50-55-10)
+4. Financial statements including notes at end of second year (see paragraph 842-50-55-11)
+1. Revised allocation of annual cash flow to investment and income (see paragraph 842-50-55-12)
+2. Balances in investment accounts at beginning of the eleventh year before revised estimate (see paragraph 842-50-55-13)
+3. Journal entries (see paragraph 842-50-55-14)
+4. Adjustment of investment accounts (see paragraph 842-50-55-15).
+
+This Example has the following terms and assumptions.
+This Example has the following terms and assumptions.
+Cash flow analysis by years follows.
+Cash flow analysis by years follows.
+Allocation of annual cash flow to investment and income follows.
+Allocation of annual cash flow to investment and income follows.
+Illustrative journal entries for the year ending December 31, 1975, follow.
+Illustrative journal entries for the year ending December 31, 1975, follow.
+The following are illustrative partial financial statements including notes.
+The following are notes to the illustrative financial statements included in this Example. Investment in Leveraged Leases Entity is the lessor in a leveraged lease agreement entered into in 1975 under which mining equipment having an estimated economic life of 18 years was leased for a term of 15 years. Entity's equity investment represented 40 percent of the purchase price; the remaining 60 percent was furnished by third-party financing in the form of long-term debt that provides for no recourse against Entity and is secured by a first lien on the property. At the end of the lease term, the equipment is turned back to Entity. The residual value at that time is estimated to be 20 percent of cost. For federal income tax purposes, Entity receives the investment tax credit and has the benefit of tax deductions for depreciation on the entire leased asset and for interest on the long-term debt. During the early years of the lease, those deductions exceed the lease rental income, and substantial excess deductions are available to be applied against Entity's other income. In the later years of the lease, rental income will exceed the deductions and taxes will be payable. Deferred taxes are provided to reflect this reversal. Entity's net investment in leveraged leases is composed of the following elements.
+The following are illustrative partial financial statements including notes.
+The following are notes to the illustrative financial statements included in this Example. Investment in Leveraged Leases Entity is the lessor in a leveraged lease agreement entered into in 1975 under which mining equipment having an estimated economic life of 18 years was leased for a term of 15 years. Entity's equity investment represented 40 percent of the purchase price; the remaining 60 percent was furnished by third-party financing in the form of long-term debt that provides for no recourse against Entity and is secured by a first lien on the property. At the end of the lease term, the equipment is turned back to Entity. The residual value at that time is estimated to be 20 percent of cost. For federal income tax purposes, Entity receives the investment tax credit and has the benefit of tax deductions for depreciation on the entire leased asset and for interest on the long-term debt. During the early years of the lease, those deductions exceed the lease rental income, and substantial excess deductions are available to be applied against Entity's other income. In the later years of the lease, rental income will exceed the deductions and taxes will be payable. Deferred taxes are provided to reflect this reversal. Entity's net investment in leveraged leases is composed of the following elements.
+Allocation of annual cash flow to investment and income follows, revised to include new residual value estimate.
+Allocation of annual cash flow to investment and income follows, revised to include new residual value estimate.
+Balances in investment accounts before revised estimate of residual value follow.
+Balances in investment accounts before revised estimate of residual value follow.
+Illustrative journal entries involving a reduction in residual value follow.
+Illustrative journal entries involving a reduction in residual value follow.
+Adjustment of investment accounts for revised estimates of residual value follows.
+Adjustment of investment accounts for revised estimates of residual value follows.
+
+##### · > Example 2: Income Taxes Related to a Leveraged Lease
+
+This Example illustrates integration of the results of a lessor's income tax accounting for leveraged leases (in accordance with the guidance in this Subtopic) with the other results of accounting for income taxes as required by Topic 740.
+This Example illustrates integration of the results of a lessor's income tax accounting for leveraged leases (in accordance with the guidance in this Subtopic) with the other results of accounting for income taxes as required by Topic 740.
+At the end of Year 1 (the current year), an entity has two temporary differences.
+At the end of Year 1 (the current year), an entity has two temporary differences.
+The first temporary difference is for a leveraged lease that was entered into in a prior year. During Year 1, the enacted tax rate for Year 2 and thereafter changes from 40 percent to 35 percent.
+The first temporary difference is for a leveraged lease that was entered into in a prior year. During Year 1, the enacted tax rate for Year 2 and thereafter changes from 40 percent to 35 percent.
+After adjusting for the change in estimated total net income from the lease as a result of the change in tax rates, the components of the investment in the leveraged lease at the end of Year 1 are as follows.
+After adjusting for the change in estimated total net income from the lease as a result of the change in tax rates, the components of the investment in the leveraged lease at the end of Year 1 are as follows.
+The second temporary difference is a $120,000 estimated liability for warranty expense that will result in a tax deduction in Year 5 when the liability is expected to be paid. Absent consideration of the deferred tax credits attributable to the leveraged lease, the weight of available evidence indicates that a valuation allowance is needed for the entire amount of the deferred tax asset related to that $120,000 deductible temporary difference.
+The second temporary difference is a $120,000 estimated liability for warranty expense that will result in a tax deduction in Year 5 when the liability is expected to be paid. Absent consideration of the deferred tax credits attributable to the leveraged lease, the weight of available evidence indicates that a valuation allowance is needed for the entire amount of the deferred tax asset related to that $120,000 deductible temporary difference.
+The tax basis of the investment in the leveraged lease at the end of Year 1 is $41,000. The amount of the deferred tax liability for that leveraged lease that would otherwise result from the application of guidance in Topic 740 on income taxes is determined as follows.
+The tax basis of the investment in the leveraged lease at the end of Year 1 is $41,000. The amount of the deferred tax liability for that leveraged lease that would otherwise result from the application of guidance in Topic 740 on income taxes is determined as follows.
+Loss carryback (to Year 2) and loss carryforward (to Year 20) of the $120,000 tax deduction for warranty expense in Year 5 would offset the $100,000 of taxable amounts resulting from future recovery of the net investment in the leveraged lease over the remainder of the lease term.
+Loss carryback (to Year 2) and loss carryforward (to Year 20) of the $120,000 tax deduction for warranty expense in Year 5 would offset the $100,000 of taxable amounts resulting from future recovery of the net investment in the leveraged lease over the remainder of the lease term.
+At the end of Year 1, the entity recognizes a $42,000 ($120,000 at 35 percent) deferred tax asset and a related $7,000 valuation allowance. The effect is to recognize a $35,000 net deferred tax benefit for the reduction in deferred tax credits attributable to the leveraged lease. Deferred tax credits attributable to the leveraged lease determined under the guidance in this Subtopic are $39,000. However, the deferred tax liability determined is only $35,000. The $4,000 difference is not available for offsetting.
+At the end of Year 1, the entity recognizes a $42,000 ($120,000 at 35 percent) deferred tax asset and a related $7,000 valuation allowance. The effect is to recognize a $35,000 net deferred tax benefit for the reduction in deferred tax credits attributable to the leveraged lease. Deferred tax credits attributable to the leveraged lease determined under the guidance in this Subtopic are $39,000. However, the deferred tax liability determined is only $35,000. The $4,000 difference is not available for offsetting.
+
+##### · > Example 3: Effect of Advance Payments and Deposits on Recalculation of a Leveraged Lease
+
+This Example illustrates how (in accordance with the guidance in paragraph 842-50-35-13 and other paragraphs) a lessor would include advance payments and deposits in a recalculation of a leveraged lease resulting from a determination by the lessor that it would enter into a settlement of a tax position arising from a leveraged lease.
+This Example illustrates how (in accordance with the guidance in paragraph 842-50-35-13 and other paragraphs) a lessor would include advance payments and deposits in a recalculation of a leveraged lease resulting from a determination by the lessor that it would enter into a settlement of a tax position arising from a leveraged lease.
+This Example assumes that the lessor has concluded that the position originally taken on the tax return would meet the more-likely-than-not threshold in Subtopic 740-10 on income taxes. It also assumes that the lessor would conclude that the estimate of $50 for the projected lease-in, lease-out settlement is consistent with the measurement guidance in that Subtopic.
+This Example assumes that the lessor has concluded that the position originally taken on the tax return would meet the more-likely-than-not threshold in Subtopic 740-10 on income taxes. It also assumes that the lessor would conclude that the estimate of $50 for the projected lease-in, lease-out settlement is consistent with the measurement guidance in that Subtopic.
+A lessor makes an advance payment of $25 on July 1, 2007, $10 of which is estimated to be associated with issues arising from a lease-in, lease-out transaction. On July 1, 2007, the lessor changes its assumption about the timing of the tax cash flows and projects a settlement with the Internal Revenue Service on September 1, 2009. The projected settlement would result in a payment to the taxing authority of $125 of which $50 is associated with the lease-in, lease-out transaction. On July 1, 2007, when the lessor recalculates the leveraged lease, the lessor would include a $50 cash flow on September 1, 2009, as a projected outflow in the leveraged lease recalculation.
+A lessor makes an advance payment of $25 on July 1, 2007, $10 of which is estimated to be associated with issues arising from a lease-in, lease-out transaction. On July 1, 2007, the lessor changes its assumption about the timing of the tax cash flows and projects a settlement with the Internal Revenue Service on September 1, 2009. The projected settlement would result in a payment to the taxing authority of $125 of which $50 is associated with the lease-in, lease-out transaction. On July 1, 2007, when the lessor recalculates the leveraged lease, the lessor would include a $50 cash flow on September 1, 2009, as a projected outflow in the leveraged lease recalculation.
+
+##### · > Example 4: Leveraged Lease Acquired in a Business Combination or an Acquisition by a Not-for-Profit Entity
+
+Acquiring entity's cash flow analysis by years (see paragraph 842-50-55-29)
+2. Acquiring entity's valuation of investment in the leveraged lease (see paragraph 842-50-55-30)
+3. Acquiring entity's allocation of annual cash flow to investment and income (see paragraph 842-50-55-31)
+4. Journal entry for recording allocation of purchase price to net investment in the leveraged lease (see paragraph 842-50-55-32)
+5. Journal entries for the year ending December 31, 1984 (Year 10 of the lease) (see paragraph 842-50-55-33).
+
+Acquiring entity's cash flow analysis by years (see paragraph 842-50-55-29)
+2. Acquiring entity's valuation of investment in the leveraged lease (see paragraph 842-50-55-30)
+3. Acquiring entity's allocation of annual cash flow to investment and income (see paragraph 842-50-55-31)
+4. Journal entry for recording allocation of purchase price to net investment in the leveraged lease (see paragraph 842-50-55-32)
+5. Journal entries for the year ending December 31, 1984 (Year 10 of the lease) (see paragraph 842-50-55-33).
+
+This Example has the following terms and assumptions.
+This Example has the following terms and assumptions.
+Acquiring entity's cash flow analysis by years follows.
+Acquiring entity's cash flow analysis by years follows.
+Acquiring entity's valuation of investment in the leveraged lease follows.
+Acquiring entity's valuation of investment in the leveraged lease follows.
+Acquiring entity's allocation of annual cash flow to investment and income follows (see footnote (a)).
+Acquiring entity's allocation of annual cash flow to investment and income follows (see footnote (a)).
+Illustrative journal entry for recording allocation of purchase price to net investment in the leveraged lease follows.
+Illustrative journal entry for recording allocation of purchase price to net investment in the leveraged lease follows.
+Illustrative journal entries for year ending December 31, 19Y4, follows.
+Illustrative journal entries for year ending December 31, 19Y4, follows.
+
+## S00 Status
+
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+
+### General
+
+**842-50-S00-1** The following table identifies the changes made to this Subtopic.
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| 842-50-S35-1 | Added | Accounting Standards Update No. 2017-13 | 09/29/2017 |
+| 842-50-S99-1 | Added | Accounting Standards Update No. 2017-13 | 09/29/2017 |
+
+
+**842-50-S00-1** The following table identifies the changes made to this Subtopic.
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| 842-50-S35-1 | Added | Accounting Standards Update No. 2017-13 | 09/29/2017 |
+| 842-50-S99-1 | Added | Accounting Standards Update No. 2017-13 | 09/29/2017 |
+
+
+## S35 Subsequent Measurement
+
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+
+### General
+
+**842-50-S35-1** > Effect of a Change in Tax Law or Rates on Leveraged Leases
+See paragraph 842-50-S99-1, SEC Observer Comment: Effect of a Change in Tax Law or Rates on Leverage Leases, for SEC Staff views on the effect of a change in tax law or rate on leveraged leases.
+See paragraph 842-50-S99-1, SEC Observer Comment: Effect of a Change in Tax Law or Rates on Leverage Leases, for SEC Staff views on the effect of a change in tax law or rate on leveraged leases.
+
+## S99 SEC Materials
+
+General Note:As more fully described in *About the Codification*, the Codification includes selected SEC and SEC Staff content for reference by public companies. The Codification does not replace or affect how the SEC or SEC Staff issues or updates SEC content. SEC Staff content does not constitute Commission-approved rules or interpretations of the SEC.
+
+### General
+
+##### · > Comments Made by SEC Observer at                EITF Meetings
+
+**842-50-S99-1** > SEC Staff Guidance· · > SEC Observer Comment: Effect of a Change in Tax Law or Rates on Leveraged Leases
+The following is the text of SEC Observer Comment: Effect of a Change in Tax Law or Rates on Leveraged Leases.Section 842-50-35 requires that all components of a leveraged lease be recalculated from inception of the lease based on the revised after-tax cash flows arising from the change in the tax law, including revised tax rates. The difference between the amounts originally recorded and the recalculated amounts must be included in income of the year in which the tax law is enacted.
+This accounting may have distortive effects on the ratio of earnings to fixed charges ("the ratio") as calculated. For example, a favorable after-tax effect might consist of an unfavorable adjustment to pretax income that is more than offset by a favorable adjustment to income tax expense. In those circumstances, despite the overall favorable effect, the ratio as calculated pursuant to the applicable instructions to Item 503(d) of Regulation S-K would be affected negatively because the "earnings" component of the ratio is based on pretax income. In filings with the Commission the SEC staff will expect the cumulative effect on pretax income and income tax expense, if material, to be reported as separate line items in the income statement. SEC staff will not object to exclusion of an unfavorable pretax adjustment from the "earnings" component of the ratio, in cases in which the after-tax effect is favorable, provided that (1) such exclusion is adequately identified and explained in connection with all disclosures and discussions relating to the ratio and (2) supplemental disclosure is made of the ratio as calculated in accordance with the applicable instructions.
+The following is the text of SEC Observer Comment: Effect of a Change in Tax Law or Rates on Leveraged Leases.Section 842-50-35 requires that all components of a leveraged lease be recalculated from inception of the lease based on the revised after-tax cash flows arising from the change in the tax law, including revised tax rates. The difference between the amounts originally recorded and the recalculated amounts must be included in income of the year in which the tax law is enacted.
+This accounting may have distortive effects on the ratio of earnings to fixed charges ("the ratio") as calculated. For example, a favorable after-tax effect might consist of an unfavorable adjustment to pretax income that is more than offset by a favorable adjustment to income tax expense. In those circumstances, despite the overall favorable effect, the ratio as calculated pursuant to the applicable instructions to Item 503(d) of Regulation S-K would be affected negatively because the "earnings" component of the ratio is based on pretax income.
+In filings with the Commission the SEC staff will expect the cumulative effect on pretax income and income tax expense, if material, to be reported as separate line items in the income statement. SEC staff will not object to exclusion of an unfavorable pretax adjustment from the "earnings" component of the ratio, in cases in which the after-tax effect is favorable, provided that (1) such exclusion is adequately identified and explained in connection with all disclosures and discussions relating to the ratio and (2) supplemental disclosure is made of the ratio as calculated in accordance with the applicable instructions.

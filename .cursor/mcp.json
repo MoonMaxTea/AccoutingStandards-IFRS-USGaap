@@ -1,16 +1,3 @@
 {
-  "mcpServers": {
-    "feedback-gate": {
-      "command": "C:\\Users\\WINDOWS\\cursor-extensions\\feedback-gate\\venv\\Scripts\\python.exe",
-      "args": [
-        "C:\\Users\\WINDOWS\\cursor-extensions\\feedback-gate\\feedback_gate_mcp.py"
-      ],
-      "env": {
-        "PYTHONPATH": "C:\\Users\\WINDOWS\\cursor-extensions\\feedback-gate",
-        "PYTHONUNBUFFERED": "1",
-        "PYTHONIOENCODING": "utf-8",
-        "FEEDBACK_GATE_MODE": "cursor_integration"
-      }
-    }
-  }
+  "mcpServers": {}
 }

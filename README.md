@@ -47,7 +47,7 @@ date: 2026-06-18
 ## 知识库规模
 
 - IFRS 准则：19 篇 + IAS 23 篇（含中文提炼）
-- US GAAP：88 个 ASC Topic（Codification 英文原文）
+- US GAAP：88 个 ASC Topic（Codification 英文原文，含完整 SubTopic）
 - 索引：[[03 - 知识库/IFRS/IFRS 知识库总览]]、[[03 - 知识库/US GAAP/US GAAP 知识库总览]]
 
 ## 维护

@@ -485,4 +485,3 @@ General Note:The Disclosure Section provides guidance regarding the disclosure i
 
 **225-30-50-1** Paragraph superseded by Maintenance Update 2017-19.
 **225-30-50-1** Paragraph superseded by Maintenance Update 2017-19.
-About Help Contact Us Copyright Terms and Conditions FASB.org Presentation 225 Income Statement Print keyboard_arrow_upDisplaykeyboard_arrow_up
