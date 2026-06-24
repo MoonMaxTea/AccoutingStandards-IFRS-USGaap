@@ -2169,3 +2169,2777 @@ General Note:As more fully described in *About the Codification*, the Codificati
 **860-10-S99-1** > SEC Staff Guidance· · > SEC Observer Comment: Balance Sheet Treatment of a Sale of Mortgage Servicing Rights with a Subservicing Agreement
 The following is the text of SEC Observer Comment: Balance Sheet Treatment of a Sale of Mortgage Servicing Rights with a Subservicing Agreement.In accordance with paragraph 860-50-40-7, a sale of mortgage servicing rights with a subservicing contract could be treated as a sale with the gain deferred if substantially all of the risks and rewards have been transferred to the transferree. In the view of the SEC staff, a transaction that, in substance, transfers only a portion of the servicing revenues does not result in transfer of substantially all of the risks and rewards of ownership and the accounting for those transactions should be guided by the guidance in paragraph 470-10-25-1.
 **860-10-S99-1** The following is the text of SEC Observer Comment: Balance Sheet Treatment of a Sale of Mortgage Servicing Rights with a Subservicing Agreement.In accordance with paragraph 860-50-40-7, a sale of mortgage servicing rights with a subservicing contract could be treated as a sale with the gain deferred if substantially all of the risks and rewards have been transferred to the transferree. In the view of the SEC staff, a transaction that, in substance, transfers only a portion of the servicing revenues does not result in transfer of substantially all of the risks and rewards of ownership and the accounting for those transactions should be guided by the guidance in paragraph 470-10-25-1.
+
+## 00 Status
+
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+
+### General
+
+**860-20-00-1** The following table identifies the changes made to this Subtopic.
+
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Affiliate | Removed from Subtopic | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Beneficial Interests | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Cash | Added | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Continuing Involvement | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Contract | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Derivative Financial Instrument | Amended | Accounting Standards Update No. 2024-02 | 03/29/2024 |
+| Derivative Instrument | Added | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Financial Asset (1st def.) | Superseded | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| Financial Asset (1st def.) | Added | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| Financial Asset (2nd def.) | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| Financial Asset | Added | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Financial Instrument | Amended | Accounting Standards Update No. 2024-02 | 03/29/2024 |
+| Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease Payments | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lessee | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lessor | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Participating Interest | Added | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Proceeds | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Purchased Financial Assets with Credit Deterioration | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| Purchased Financial Assets with Credit Deterioration | Added | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| Repurchase Agreement | Added | Accounting Standards Update No. 2014-11 | 06/12/2014 |
+| Servicing Assets | Added | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Transferee | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Transferor | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Transferred Financial Assets | Amended | Accounting Standards Update No. 2014-06 | 03/14/2014 |
+| Transferred Financial Assets | Added | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Underlying Asset | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 860-20-10-1 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-25-1 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-25-3 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-25-4 | Amended | Accounting Standards Update No. 2015-10 | 06/12/2015 |
+| 860-20-25-4 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-25-5 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-25-6 | Amended | Accounting Standards Update No. 2012-04 | 10/01/2012 |
+| 860-20-25-6 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-25-7 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-25-8 through 25-12 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-25-9 | Amended | Maintenance Update 2016-05 | 04/12/2016 |
+| 860-20-25-13 | Amended | Accounting Standards Update No. 2020-03 | 03/09/2020 |
+| 860-20-30-1 through 30-3 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-30-2 | Amended | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 860-20-30-4 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-35-1 through 35-3 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-35-3 | Amended | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 860-20-35-5 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-35-6 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-35-7 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-35-8 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-35-9 | Amended | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 860-20-40-1 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-40-1A | Amended | Accounting Standards Update No. 2022-01 | 03/28/2022 |
+| 860-20-40-1A | Added | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-40-1B | Amended | Accounting Standards Update No. 2022-01 | 03/28/2022 |
+| 860-20-40-1B | Added | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-40-2 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-40-3 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-50-1 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-50-2 | Added | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-50-2A through 50-4 | Amended | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| 860-20-50-2A | Added | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| 860-20-50-3 through 50-5 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-50-4A through 50-4D | Added | Accounting Standards Update No. 2014-11 | 06/12/2014 |
+| 860-20-50-4D | Amended | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| 860-20-50-5 | Amended | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| 860-20-50-5 | Amended | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 860-20-50-6 through 50-9 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-1 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 860-20-55-1 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-2 through 55-15 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-16 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-18 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-19 | Amended | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 860-20-55-19 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-24 | Amended | Maintenance Update 2014-07 | 03/17/2014 |
+| 860-20-55-24 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-24A | Added | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-25 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-26 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 860-20-55-26 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-27 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 860-20-55-28 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-29 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-31 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-32 | Amended | Accounting Standards Update No. 2012-04 | 10/01/2012 |
+| 860-20-55-33 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-38 through 55-41 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-41 | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| 860-20-55-43 through 55-47 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-49 through 55-57 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-58 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 860-20-55-58 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-59 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 860-20-55-60 through 55-82 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-83 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-85 through 55-88 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-89 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-90 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-91 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-92 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-93 through 55-107 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-108 | Amended | Maintenance Update 2016-11 | 06/27/2016 |
+| 860-20-55-108 | Added | Accounting Standards Update No. 2014-11 | 06/12/2014 |
+
+
+**860-20-00-1** The following table identifies the changes made to this Subtopic.
+
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Affiliate | Removed from Subtopic | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Beneficial Interests | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Cash | Added | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Continuing Involvement | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Contract | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Derivative Financial Instrument | Amended | Accounting Standards Update No. 2024-02 | 03/29/2024 |
+| Derivative Instrument | Added | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Financial Asset (1st def.) | Superseded | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| Financial Asset (1st def.) | Added | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| Financial Asset (2nd def.) | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| Financial Asset | Added | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Financial Instrument | Amended | Accounting Standards Update No. 2024-02 | 03/29/2024 |
+| Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease Payments | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lessee | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lessor | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Participating Interest | Added | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Proceeds | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Purchased Financial Assets with Credit Deterioration | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| Purchased Financial Assets with Credit Deterioration | Added | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| Repurchase Agreement | Added | Accounting Standards Update No. 2014-11 | 06/12/2014 |
+| Servicing Assets | Added | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Transferee | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Transferor | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Transferred Financial Assets | Amended | Accounting Standards Update No. 2014-06 | 03/14/2014 |
+| Transferred Financial Assets | Added | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Underlying Asset | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 860-20-10-1 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-25-1 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-25-3 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-25-4 | Amended | Accounting Standards Update No. 2015-10 | 06/12/2015 |
+| 860-20-25-4 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-25-5 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-25-6 | Amended | Accounting Standards Update No. 2012-04 | 10/01/2012 |
+| 860-20-25-6 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-25-7 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-25-8 through 25-12 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-25-9 | Amended | Maintenance Update 2016-05 | 04/12/2016 |
+| 860-20-25-13 | Amended | Accounting Standards Update No. 2020-03 | 03/09/2020 |
+| 860-20-30-1 through 30-3 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-30-2 | Amended | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 860-20-30-4 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-35-1 through 35-3 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-35-3 | Amended | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 860-20-35-5 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-35-6 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-35-7 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-35-8 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-35-9 | Amended | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 860-20-40-1 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-40-1A | Amended | Accounting Standards Update No. 2022-01 | 03/28/2022 |
+| 860-20-40-1A | Added | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-40-1B | Amended | Accounting Standards Update No. 2022-01 | 03/28/2022 |
+| 860-20-40-1B | Added | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-40-2 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-40-3 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-50-1 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-50-2 | Added | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-50-2A through 50-4 | Amended | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| 860-20-50-2A | Added | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| 860-20-50-3 through 50-5 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-50-4A through 50-4D | Added | Accounting Standards Update No. 2014-11 | 06/12/2014 |
+| 860-20-50-4D | Amended | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| 860-20-50-5 | Amended | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| 860-20-50-5 | Amended | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 860-20-50-6 through 50-9 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-1 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 860-20-55-1 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-2 through 55-15 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-16 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-18 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-19 | Amended | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 860-20-55-19 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-24 | Amended | Maintenance Update 2014-07 | 03/17/2014 |
+| 860-20-55-24 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-24A | Added | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-25 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-26 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 860-20-55-26 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-27 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 860-20-55-28 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-29 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-31 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-32 | Amended | Accounting Standards Update No. 2012-04 | 10/01/2012 |
+| 860-20-55-33 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-38 through 55-41 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-41 | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| 860-20-55-43 through 55-47 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-49 through 55-57 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-58 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 860-20-55-58 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-59 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 860-20-55-60 through 55-82 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-83 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-85 through 55-88 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-89 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-90 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-91 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-92 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-93 through 55-107 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-20-55-108 | Amended | Maintenance Update 2016-11 | 06/27/2016 |
+| 860-20-55-108 | Added | Accounting Standards Update No. 2014-11 | 06/12/2014 |
+
+## 05 Overview and Background
+
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+
+### General
+
+**860-20-05-1** This Subtopic provides guidance on the accounting for a transfer
+of financial assets that satisfies the conditions for sale accounting in paragraph 860-10-40-5 and the accounting if a transferor regains control of assets previously sold.
+**860-20-05-1** This Subtopic provides guidance on the accounting for a transfer
+
+## 10 Objectives
+
+General Note:The Objectives Section provides the high-level objectives that the Subtopic is intended to accomplish or attain. The Section does not summarize or discuss the main principles of accounting and reporting requirements.
+
+### General
+
+**860-20-10-1** Paragraph superseded by Accounting Standards Update No. 2009-16.
+**860-20-10-1** Paragraph superseded by Accounting Standards Update No. 2009-16.
+
+## 15 Scope and Scope Exceptions
+
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+
+General Note for Financial Instruments:Some of the items subject to the guidance in this Subtopic are financial instruments
+
+### General
+
+**860-20-15-1** . For guidance on matters related broadly to all financial instruments, (including the fair value option, accounting for registration payment arrangements, and broad financial instrument disclosure requirements), see Topic 825. See Section 825-10-15 for guidance on the scope of the Financial Instruments Topic.> Overall Guidance
+This Subtopic follows the same Scope and Scope Exceptions as outlined in the Overall Subtopic, see Section 860-10-15.
+**860-20-15-1** This Subtopic follows the same Scope and Scope Exceptions as outlined in the Overall Subtopic, see Section 860-10-15.
+
+## 20 Glossary
+
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+
+##### Agent
+
+A party that acts for and on behalf of another party. For example, a third-party intermediary is an agent of the transferor if it acts on behalf of the transferor.
+A party that acts for and on behalf of another party. For example, a third-party intermediary is an agent of the transferor if it acts on behalf of the transferor.
+
+##### Beneficial Interests
+
+1. Senior and subordinated shares of interest, principal, or other cash inflows to be passed-through or paid-through
+2. Premiums due to guarantors
+3. Commercial paper obligations
+4. Residual interests, whether in the form of debt or equity.
+
+Senior and subordinated shares of interest, principal, or other cash inflows to be passed-through or paid-through
+2. Premiums due to guarantors
+3. Commercial paper obligations
+4. Residual interests, whether in the form of debt or equity.
+
+##### Cash
+
+Consistent with common usage, cash includes not only currency on hand but demand deposits with banks or other financial institutions. Cash also includes other kinds of accounts that have the general characteristics of demand deposits in that the customer may deposit additional funds at any time and also effectively may withdraw funds at any time without prior notice or penalty. All charges and credits to those accounts are cash receipts or payments to both the entity owning the account and the bank holding it. For example, a bank's granting of a loan by crediting the proceeds to a customer's demand deposit account is a cash payment by the bank and a cash receipt of the customer when the entry is made.
+Consistent with common usage, cash includes not only currency on hand but demand deposits with banks or other financial institutions. Cash also includes other kinds of accounts that have the general characteristics of demand deposits in that the customer may deposit additional funds at any time and also effectively may withdraw funds at any time without prior notice or penalty. All charges and credits to those accounts are cash receipts or payments to both the entity owning the account and the bank holding it. For example, a bank's granting of a loan by crediting the proceeds to a customer's demand deposit account is a cash payment by the bank and a cash receipt of the customer when the entry is made.
+
+##### Consolidated Affiliate
+
+An entity whose assets and liabilities are included in the consolidated, combined, or other financial statements being presented.
+An entity whose assets and liabilities are included in the consolidated, combined, or other financial statements being presented.
+
+##### Continuing Involvement
+
+Any involvement with the transferred financial assets that permits the transferor to receive cash flows or other benefits that arise from the transferred financial assets or that obligates the transferor to provide additional cash flows or other assets to any party related to the transfer. For related implementation guidance, see paragraph 860-10-55-79A.
+Any involvement with the transferred financial assets that permits the transferor to receive cash flows or other benefits that arise from the transferred financial assets or that obligates the transferor to provide additional cash flows or other assets to any party related to the transfer. For related implementation guidance, see paragraph 860-10-55-79A.
+
+##### Contract
+
+An agreement between two or more parties that creates enforceable rights and obligations.
+An agreement between two or more parties that creates enforceable rights and obligations.
+
+##### Derecognize
+
+Remove previously recognized assets or liabilities from the statement of financial position.
+Remove previously recognized assets or liabilities from the statement of financial position.
+
+##### Derivative Financial Instrument
+
+A derivative instrument that is a financial instrument.
+A derivative instrument that is a financial instrument.
+
+##### Derivative Instrument
+
+Paragraphs 815-10-15-83 through 15-139 define the term *derivative instrument*.
+Paragraphs 815-10-15-83 through 15-139
+
+##### Financial Asset
+
+1. Receive cash or another financial instrument from a second entity
+2. Exchange other financial instruments on potentially favorable terms with the second entity.
+
+Receive cash or another financial instrument from a second entity
+2. Exchange other financial instruments on potentially favorable terms with the second entity.
+
+##### Financial Instrument
+
+1. To deliver cash or another financial instrument to a second entity
+2. To exchange other financial instruments on potentially unfavorable terms with the second entity.
+
+1. To receive cash or another financial instrument from the first entity
+2. To exchange other financial instruments on potentially favorable terms with the first entity.
+
+1. To deliver cash or another financial instrument to a second entity
+2. To exchange other financial instruments on potentially unfavorable terms with the second entity.
+
+1. To receive cash or another financial instrument from the first entity
+2. To exchange other financial instruments on potentially favorable terms with the first entity.
+
+The use of the term financial instrument in this definition is recursive (because the term financial instrument is included in it), though it is not circular. The definition requires a chain of contractual obligations that ends with the delivery of cash or an ownership interest in an entity. Any number of obligations to deliver financial instruments can be links in a chain that qualifies a particular contract as a financial instrument. Contractual rights and contractual obligations encompass both those that are conditioned on the occurrence of a specified event and those that are not. Some contractual rights (contractual obligations) that are financial instruments may not be recognized in financial statements—that is, they may be off-balance-sheet—because they fail to meet some other criterion for recognition. For some financial instruments, the right is held by or the obligation is due from (or the obligation is owed to or by) a group of entities rather than a single entity.
+Imposes on one entity a contractual obligation either:
+1. To deliver cash or another financial instrument to a second entity
+2. To exchange other financial instruments on potentially unfavorable terms with the second entity.
+
+1. To receive cash or another financial instrument from the first entity
+2. To exchange other financial instruments on potentially favorable terms with the first entity.
+
+The use of the term financial instrument in this definition is recursive (because the term financial instrument is included in it), though it is not circular. The definition requires a chain of contractual obligations that ends with the delivery of cash or an ownership interest in an entity. Any number of obligations to deliver financial instruments can be links in a chain that qualifies a particular contract as a financial instrument.
+Contractual rights and contractual obligations encompass both those that are conditioned on the occurrence of a specified event and those that are not. All contractual rights (contractual obligations) that are financial instruments meet the definition of asset (liability) set forth in FASB Concepts Statement No. 6, Elements of Financial Statements, although some may not be recognized as assets (liabilities) in financial statements—that is, they may be off-balance-sheet—because they fail to meet some other criterion for recognition.
+For some financial instruments, the right is held by or the obligation is due from (or the obligation is owed to or by) a group of entities rather than a single entity.
+Imposes on one entity a contractual obligation either:
+1. To deliver cash or another financial instrument to a second entity
+2. To exchange other financial instruments on potentially unfavorable terms with the second entity.
+
+1. To receive cash or another financial instrument from the first entity
+2. To exchange other financial instruments on potentially favorable terms with the first entity.
+
+The use of the term financial instrument in this definition is recursive (because the term financial instrument is included in it), though it is not circular. The definition requires a chain of contractual obligations that ends with the delivery of cash or an ownership interest in an entity. Any number of obligations to deliver financial instruments can be links in a chain that qualifies a particular contract as a financial instrument.
+Contractual rights and contractual obligations encompass both those that are conditioned on the occurrence of a specified event and those that are not. Some contractual rights (contractual obligations) that are financial instruments may not be recognized in financial statements—that is, they may be off-balance-sheet—because they fail to meet some other criterion for recognition.
+For some financial instruments, the right is held by or the obligation is due from (or the obligation is owed to or by) a group of entities rather than a single entity.
+
+##### Freestanding Call Option
+
+A call option that is neither embedded in nor attached to an asset subject to that call option.
+A call option that is neither embedded in nor attached to an asset subject to that call option.
+
+##### Interest-Only Strip
+
+A contractual right to receive some or all of the interest due on a bond, mortgage loan, collateralized mortgage obligation, or other interest-bearing financial asset.
+A contractual right to receive some or all of the interest due on a bond, mortgage loan, collateralized mortgage obligation, or other interest-bearing financial asset.
+
+##### Lease
+
+A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
+A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
+
+##### Lease Payments
+
+See paragraph 842-10-30-5 for what constitutes lease payments from the perspective of a lessee and a lessor.
+See paragraph 842-10-30-5 for what constitutes lease payments from the perspective of a lessee and a lessor.
+
+##### Lessee
+
+An entity that enters into a contract to obtain the right to use an underlying asset for a period of time in exchange for consideration.
+An entity that enters into a contract to obtain the right to use an underlying asset for a period of time in exchange for consideration.
+
+##### Lessor
+
+An entity that enters into a contract to provide the right to use an underlying asset for a period of time in exchange for consideration.
+An entity that enters into a contract to provide the right to use an underlying asset for a period of time in exchange for consideration.
+
+##### Participating Interest
+
+Paragraph 860-10-40-6A defines the term participating interest.
+Paragraph 860-10-40-6A defines the term participating interest.
+
+##### Proceeds
+
+Cash,beneficial interests, servicing assets, derivative instruments, or other assets that are obtained in a transfer of financial assets, less any liabilities incurred.
+Cash,beneficial interests, servicing assets, derivative instruments, or other assets that are obtained in a transfer of financial assets, less any liabilities incurred.
+
+##### Purchased Financial Assets with Credit Deterioration
+
+Acquired individual financial assets (or acquired groups of financial assets with similar risk characteristics) that as of the date of acquisition have experienced a more-than-insignificant deterioration in credit quality since origination, as determined by an acquirer's assessment. See paragraph 326-20-55-5 for more information on the meaning of similar risk characteristics for assets measured on an amortized cost basis.
+Acquired individual financial assets (or acquired groups of financial assets with similar risk characteristics) that as of the date of acquisition have experienced a more-than-insignificant deterioration in credit quality since origination, as determined by an acquirer's assessment. See paragraph 326-20-55-5 for more information on the meaning of similar risk characteristics for assets measured on an amortized cost basis.
+
+##### Purchased Seasoned                        Loans
+
+PENDING CONTENT Transition date: December 16, 2026; December 16, 2026Transition guidance: 326-10-65-7 Paragraphs 326-20-30-16 through 30-18 define the term *purchased seasoned loans*.
+
+##### Repurchase Agreement
+
+PENDING CONTENT Transition date: December 16, 2026; December 16, 2026Transition guidance: 326-10-65-7 Paragraphs 326-20-30-16 through 30-18 define the term *purchased seasoned loans*. An agreement under which the transferor (repo party) transfers a financial asset to a transferee (repo counterparty or reverse party) in exchange for cash and concurrently agrees to reacquire that financial asset at a future date for an amount equal to the cash exchanged plus or minus a stipulated interest factor. Instead of cash, other securities or letters of credit sometimes are exchanged. Some repurchase agreements call for repurchase of financial assets that need not be identical to the financial assets transferred.
+An agreement under which the transferor (repo party) transfers a financial asset to a transferee (repo counterparty or reverse party) in exchange for cash and concurrently agrees to reacquire that financial asset at a future date for an amount equal to the cash exchanged plus or minus a stipulated interest factor. Instead of cash, other securities or letters of credit sometimes are exchanged. Some repurchase agreements call for repurchase of financial assets that need not be identical to the financial assets transferred.
+
+##### Revolving-Period Securitizations
+
+Securitizations in which receivables are transferred at the inception and also periodically (daily or monthly) thereafter for a defined period (commonly three to eight years), referred to as the revolving period. During the revolving period, the special-purpose entity uses most of the cash collections to purchase additional receivables from the transferor on prearranged terms.
+Securitizations in which receivables are transferred at the inception and also periodically (daily or monthly) thereafter for a defined period (commonly three to eight years), referred to as the revolving period. During the revolving period, the special-purpose entity uses most of the cash collections to purchase additional receivables from the transferor on prearranged terms.
+
+##### Securitization
+
+The process by which financial assets are transformed into securities.
+The process by which financial assets are transformed into securities.
+
+##### Security
+
+1. It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
+2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
+3. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
+
+It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
+2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
+3. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
+
+##### Seller
+
+A transferor that relinquishes control over financial assets by transferring them to a transferee in exchange for consideration.
+A transferor that relinquishes control over financial assets by transferring them to a transferee in exchange for consideration.
+
+##### Servicing Assets
+
+1. Undertaken in conjunction with selling or securitizing the financial assets being serviced
+2. Purchased or assumed separately.
+
+Undertaken in conjunction with selling or securitizing the financial assets being serviced
+2. Purchased or assumed separately.
+
+##### Transfer
+
+1. Selling a receivable
+2. Putting a receivable into a securitization trust
+3. Posting a receivable as collateral.
+
+1. The origination of a receivable
+2. Settlement of a receivable
+3. The restructuring of a receivable into a security in a troubled debt restructuring.
+
+The conveyance of a noncash financial asset by and to someone other than the issuer of that financial asset.
+Selling a receivable
+2. Putting a receivable into a securitization trust
+3. Posting a receivable as collateral.
+
+The origination of a receivable
+2. Settlement of a receivable
+3. The restructuring of a receivable into a security in a troubled debt restructuring.
+
+##### Transferee
+
+An entity that receives a financial asset, an interest in a financial asset, or a group of financial assets from a transferor.
+An entity that receives a financial asset, an interest in a financial asset, or a group of financial assets from a transferor.
+
+##### Transferor
+
+An entity that transfers a financial asset, an interest in a financial asset, or a group of financial assets that it controls to another entity.
+An entity that transfers a financial asset, an interest in a financial asset, or a group of financial assets that it controls to another entity.
+
+##### Transferred Financial Assets
+
+1. An entire financial asset
+2. A group of entire financial assets
+3. A participating interest in an entire financial asset.
+
+Transfers of any of the following:
+1. An entire financial asset
+2. A group of entire financial assets
+3. A participating interest in an entire financial asset.
+
+##### Underlying Asset
+
+An asset that is the subject of a lease for which a right to use that asset has been conveyed to a lessee. The underlying asset could be a physically distinct portion of a single asset.
+An asset that is the subject of a lease for which a right to use that asset has been conveyed to a lessee. The underlying asset could be a physically distinct portion of a single asset.
+
+## 25 Recognition
+
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+
+General Note for Fair Value Option:Some of the items subject to the guidance in this Subtopic may qualify for application of the Fair Value Option Subsections of Subtopic 825-10. Those Subsections (see paragraph 825-10-05-5) address circumstances in which entities may choose, at specified election dates, to measure eligible items at fair value (the fair value option). See Section 825-10-15 for guidance on the scope of the Fair Value Option Subsections of the Financial Instruments Topic.
+
+### General
+
+**860-20-25-1** Section 860-20-40 provides derecognition guidance a transferor
+1. Cash
+2. Servicing assets
+3. Servicing liabilities
+1. The transferor's beneficial interest in the transferred financial assets
+2. Put or call options held or written (for example, guarantee or recourse obligations)
+3. Forward commitments (for example, commitments to deliver additional receivables during the revolving periods of some securitizations)
+4. Swaps (for example, provisions that convert interest rates from fixed to variable).
+
+See Examples 1, 2, and 5 (paragraphs 860-20-55-43 through 55-59) for illustration of this guidance.
+**860-20-25-1** Section 860-20-40 provides derecognition guidance a transferor
+1. Cash
+2. Servicing assets
+3. Servicing liabilities
+1. The transferor's beneficial interest in the transferred financial assets
+2. Put or call options held or written (for example, guarantee or recourse obligations)
+3. Forward commitments (for example, commitments to deliver additional receivables during the revolving periods of some securitizations)
+4. Swaps (for example, provisions that convert interest rates from fixed to variable).
+
+**860-20-25-2** See Examples 1, 2, and 5 (paragraphs 860-20-55-43 through 55-59) for illustration of this guidance.
+Although a transfer of securities may not be considered to have reached completion until the settlement date, this Subtopic does not modify other generally accepted accounting principles (GAAP) that require accounting at the trade date for certain contracts to purchase or sell securities.
+**860-20-25-2** Although a transfer of securities may not be considered to have reached completion until the settlement date, this Subtopic does not modify other generally accepted accounting principles (GAAP) that require accounting at the trade date for certain contracts to purchase or sell securities.
+**860-20-25-3** The transferee
+shall recognize all assets obtained (including any participating interest(s) obtained) and any liabilities incurred.
+**860-20-25-3** The transferee
+**860-20-25-4** shall recognize all assets obtained (including any participating interest(s) obtained) and any liabilities incurred. > Assets Obtained and Liabilities Incurred as Proceeds
+The proceeds from a sale of financial assets consist of the cash and any other assets obtained, including beneficial interests and separately recognized servicing assets, in the transfer less any liabilities incurred, including separately recognized servicing liabilities. Any asset obtained is part of the proceeds from the sale. Any liability incurred, even if it is related to the transferred financial assets, is a reduction of the proceeds. Any derivative financial instrument
+entered into concurrently with a transfer of financial assets is either an asset obtained or a liability incurred and part of the proceeds received in the transfer.
+**860-20-25-4** The proceeds from a sale of financial assets consist of the cash and any other assets obtained, including beneficial interests and separately recognized servicing assets, in the transfer less any liabilities incurred, including separately recognized servicing liabilities. Any asset obtained is part of the proceeds from the sale. Any liability incurred, even if it is related to the transferred financial assets, is a reduction of the proceeds. Any derivative financial instrument
+**860-20-25-5** entered into concurrently with a transfer of financial assets is either an asset obtained or a liability incurred and part of the proceeds received in the transfer.
+Paragraph superseded by Accounting Standards Update No. 2009-16.
+**860-20-25-5** Paragraph superseded by Accounting Standards Update No. 2009-16.
+**860-20-25-6** > Distinguishing New Interests Obtained from Part of a Beneficial Interest Obtained
+In determining whether credit risk is a separate liability or part of a beneficial interest that has been obtained by the transferor, the transferor should focus on the source of cash flows in the event of a claim by the transferee. If the transferee can only look to cash flows from the underlying financial assets, the transferor has obtained a portion of the credit risk only through the interest it obtained and a separate obligation shall not be recognized. Credit losses from the underlying assets would affect the measurement of the interest that the transferor obtained. In contrast, if the transferor could be obligated for more than the cash flows provided by the interest it obtained and, therefore, could be required to reimburse the transferee for credit-related losses on the underlying assets, the transferor shall record a separate liability. It is not appropriate for the transferor to defer any portion of a resulting gain or loss (or to eliminate gain on sale accounting, as it is sometimes described in practice).
+**860-20-25-6** In determining whether credit risk is a separate liability or part of a beneficial interest that has been obtained by the transferor, the transferor should focus on the source of cash flows in the event of a claim by the transferee. If the transferee can only look to cash flows from the underlying financial assets, the transferor has obtained a portion of the credit risk only through the interest it obtained and a separate obligation shall not be recognized. Credit losses from the underlying assets would affect the measurement of the interest that the transferor obtained. In contrast, if the transferor could be obligated for more than the cash flows provided by the interest it obtained and, therefore, could be required to reimburse the transferee for credit-related losses on the underlying assets, the transferor shall record a separate liability. It is not appropriate for the transferor to defer any portion of a resulting gain or loss (or to eliminate gain on sale accounting, as it is sometimes described in practice).
+**860-20-25-7** Paragraph superseded by Accounting Standards Update No. 2009-16.
+**860-20-25-7** Paragraph superseded by Accounting Standards Update No. 2009-16.
+**860-20-25-8** > Regaining Control of Financial Assets Sold
+Paragraph 860-10-40-41 explains that a change in law or other circumstance may result in a transferred portion of an entire financial asset no longer meeting the conditions of a participating interest (see paragraph 860-10-40-6A) or the transferor's regaining control of transferred financial assets after a transfer that was previously accounted for as a sale, because one or more of the conditions in paragraph 860-10-40-5 are no longer met.
+**860-20-25-8** Paragraph 860-10-40-41 explains that a change in law or other circumstance may result in a transferred portion of an entire financial asset no longer meeting the conditions of a participating interest (see paragraph 860-10-40-6A) or the transferor's regaining control of transferred financial assets after a transfer that was previously accounted for as a sale, because one or more of the conditions in paragraph 860-10-40-5 are no longer met.
+**860-20-25-9** Consolidation of an entity involved in the transfer at a subsequent date (see paragraph 860-20-25-10)
+2. A change in market prices (for example, an increase in price that moves into the money a freestanding call option on a non-readily-obtainable, transferred financial asset that was originally sufficiently out of the money that it was judged not to constrain the transferee).
+
+See the related guidance beginning in paragraph 860-20-25-1.
+**860-20-25-9** Consolidation of an entity involved in the transfer at a subsequent date (see paragraph 860-20-25-10)
+2. A change in market prices (for example, an increase in price that moves into the money a freestanding call option on a non-readily-obtainable, transferred financial asset that was originally sufficiently out of the money that it was judged not to constrain the transferee).
+
+**860-20-25-10** See the related guidance beginning in paragraph 860-20-25-1.
+Recognize in its financial statements those transferred financial assets together with liabilities to the former transferee(s) or beneficial interest holders of the former transferee(s).
+2. Not change the accounting for the servicing asset related to the previously sold financial assets. That is, even though the transferor has regained control over the previously sold assets, the cash flows from those assets will contractually be paid to the special-purpose entity, which will then distribute the proceeds to satisfy its contractual obligations (including obligations to the beneficial interest holders). Because the transferor, as servicer, is still contractually required to collect the asset's cash flows for the benefit of the special-purpose entity and otherwise service the assets, it shall continue to recognize the servicing asset and assess the asset for impairment if subsequently measured using the amortization method, as required by paragraph 860-50-35-9. Once a servicing asset is recognized it shall not be added back to the underlying asset. Even when the transferor has regained control over the underlying assets through an event that triggers a transferor to rerecognize previously transferred assets that were accounted for as having been sold, the related servicing asset shall continue to be separately recognized.
+3. Continue to account for the transferor's interests in those underlying financial assets apart from any rerecognized financial assets. That is, the transferor's interests shall not be combined with and accounted for with the rerecognized financial assets. Example 10 (see paragraph 860-20-55-83) illustrates this guidance. However, a subsequent event that results in the transferor reclaiming those financial assets from the transferee, for example, the exercise of a removal-of-accounts provision or the consolidation by the transferor of the securitization entity in accordance with applicable GAAP, including the Variable Interest Entities Subsections of Subtopic 810-10, would result in a recombination of the transferor's interests with the underlying financial assets.
+
+For guidance on consolidation, which is relevant to determining whether a transferor must consolidate an entity involved in a transfer that was accounted for as a sale, see Topic 810.
+**860-20-25-10** Recognize in its financial statements those transferred financial assets together with liabilities to the former transferee(s) or beneficial interest holders of the former transferee(s).
+2. Not change the accounting for the servicing asset related to the previously sold financial assets. That is, even though the transferor has regained control over the previously sold assets, the cash flows from those assets will contractually be paid to the special-purpose entity, which will then distribute the proceeds to satisfy its contractual obligations (including obligations to the beneficial interest holders). Because the transferor, as servicer, is still contractually required to collect the asset's cash flows for the benefit of the special-purpose entity and otherwise service the assets, it shall continue to recognize the servicing asset and assess the asset for impairment if subsequently measured using the amortization method, as required by paragraph 860-50-35-9. Once a servicing asset is recognized it shall not be added back to the underlying asset. Even when the transferor has regained control over the underlying assets through an event that triggers a transferor to rerecognize previously transferred assets that were accounted for as having been sold, the related servicing asset shall continue to be separately recognized.
+3. Continue to account for the transferor's interests in those underlying financial assets apart from any rerecognized financial assets. That is, the transferor's interests shall not be combined with and accounted for with the rerecognized financial assets. Example 10 (see paragraph 860-20-55-83) illustrates this guidance. However, a subsequent event that results in the transferor reclaiming those financial assets from the transferee, for example, the exercise of a removal-of-accounts provision or the consolidation by the transferor of the securitization entity in accordance with applicable GAAP, including the Variable Interest Entities Subsections of Subtopic 810-10, would result in a recombination of the transferor's interests with the underlying financial assets.
+
+**860-20-25-11** For guidance on consolidation, which is relevant to determining whether a transferor must consolidate an entity involved in a transfer that was accounted for as a sale, see Topic 810.
+A third party's action (such as default or cancellation) or decision not to act (expiration) occurs.
+2. The occurrence allows removal of assets to be initiated solely by the transferor.
+3. The provision provides a more-than-trivial benefit to the transferor.
+
+For example, once a contingency is met (such as when a given loan goes into default), the call option on that asset (loan) is no longer contingent.
+**860-20-25-11** A third party's action (such as default or cancellation) or decision not to act (expiration) occurs.
+2. The occurrence allows removal of assets to be initiated solely by the transferor.
+3. The provision provides a more-than-trivial benefit to the transferor.
+
+**860-20-25-12** For example, once a contingency is met (such as when a given loan goes into default), the call option on that asset (loan) is no longer contingent.
+Upon application of paragraph 860-20-25-10, no gain or loss shall be recognized in earnings with respect to any of the transferor's beneficial interests
+. A gain or loss may be recognized upon the exercise of a removal-of-accounts provision or similar contingent right with respect to the repurchased transferred financial assets that were sold if the removal-of-accounts provision or similar contingent right held by the transferor is not accounted for as a derivative instrument under Subtopic 815-10 and is not at the money, resulting in the fair value of those repurchased financial assets being greater or less than the related obligation to the transferee.
+**860-20-25-12** Upon application of paragraph 860-20-25-10, no gain or loss shall be recognized in earnings with respect to any of the transferor's beneficial interests
+**860-20-25-13** . A gain or loss may be recognized upon the exercise of a removal-of-accounts provision or similar contingent right with respect to the repurchased transferred financial assets that were sold if the removal-of-accounts provision or similar contingent right held by the transferor is not accounted for as a derivative instrument under Subtopic 815-10 and is not at the money, resulting in the fair value of those repurchased financial assets being greater or less than the related obligation to the transferee.
+For those financial assets that are not purchased financial assets with credit deterioration
+1. within the scope of Topic 326, an entity shall recognize an allowance for credit losses with a corresponding charge to credit loss expense as of the reporting date.
+2. For those financial assets that are purchased financial assets with credit deterioration (which includes beneficial interest that meets the criteria in paragraph 325-40-30-1A) within the scope of Topic 326, an entity shall recognize an allowance for credit losses in accordance with Topic 326 with a corresponding increase to the amortized cost basis of the financial asset(s) as of the recognition date.
+
+1. For those financial assets that are not purchased financial assets with credit deteriorationor purchased seasoned loanswithin the scope of Topic 326, an entity shall recognize an allowance for credit losses with a corresponding charge to credit loss expense as of the reporting date.
+2. For those financial assets that are purchased financial assets with credit deterioration (which includes beneficial interest that meets the criteria in paragraph 325-40-30-1A) and purchased seasoned loans within the scope of Topic 326, an entity shall recognize an allowance for credit losses in accordance with Topic 326 with a corresponding increase to the amortized cost basis of the financial asset(s) as of the recognition date.
+
+**860-20-25-13** For those financial assets that are not purchased financial assets with credit deterioration
+1. within the scope of Topic 326, an entity shall recognize an allowance for credit losses with a corresponding charge to credit loss expense as of the reporting date.
+2. For those financial assets that are purchased financial assets with credit deterioration (which includes beneficial interest that meets the criteria in paragraph 325-40-30-1A) within the scope of Topic 326, an entity shall recognize an allowance for credit losses in accordance with Topic 326 with a corresponding increase to the amortized cost basis of the financial asset(s) as of the recognition date.
+
+1. For those financial assets that are not purchased financial assets with credit deteriorationor purchased seasoned loanswithin the scope of Topic 326, an entity shall recognize an allowance for credit losses with a corresponding charge to credit loss expense as of the reporting date.
+2. For those financial assets that are purchased financial assets with credit deterioration (which includes beneficial interest that meets the criteria in paragraph 325-40-30-1A) and purchased seasoned loans within the scope of Topic 326, an entity shall recognize an allowance for credit losses in accordance with Topic 326 with a corresponding increase to the amortized cost basis of the financial asset(s) as of the recognition date.
+
+## 30 Initial Measurement
+
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+
+### General
+
+**860-20-30-1** The transferor
+shall initially measure at fair value any asset obtained (or liability incurred) and recognized under paragraph 860-20-25-1.
+**860-20-30-1** The transferor
+**860-20-30-2** shall initially measure at fair value any asset obtained (or liability incurred) and recognized under paragraph 860-20-25-1.
+The transferee
+shall initially measure, at fair value, any asset or liability recognized under paragraph 860-20-25-3, unless it is a purchased financial asset with credit deterioration or is a beneficial interest that meets the criteria in paragraph 325-40-30-1A, in which case the transferee shall apply the guidance in Topic 326 on measurement of credit losses to determine the initial amortized cost basis. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:326-10-65-7The transferee shall initially measure, at fair value, any asset or liability recognized under paragraph 860-20-25-3, unless it is a purchased financial asset with credit deterioration, a beneficial interest that meets the criteria in paragraph 325-40-30-1A, or a purchased seasoned loan, in which case the transferee shall apply the guidance in Topic 326 on measurement of credit losses to determine the initial amortized cost basis.
+**860-20-30-2** The transferee
+**860-20-30-3** shall initially measure, at fair value, any asset or liability recognized under paragraph 860-20-25-3, unless it is a purchased financial asset with credit deterioration or is a beneficial interest that meets the criteria in paragraph 325-40-30-1A, in which case the transferee shall apply the guidance in Topic 326 on measurement of credit losses to determine the initial amortized cost basis. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:326-10-65-7The transferee shall initially measure, at fair value, any asset or liability recognized under paragraph 860-20-25-3, unless it is a purchased financial asset with credit deterioration, a beneficial interest that meets the criteria in paragraph 325-40-30-1A, or a purchased seasoned loan, in which case the transferee shall apply the guidance in Topic 326 on measurement of credit losses to determine the initial amortized cost basis. > Regaining Control of Financial Assets Sold
+The transferor shall initially measure transferred financial assets
+and liabilities that are rerecognized under paragraph 860-20-25-10(a) as a result of regaining control of the financial assets sold at fair value on the date of the change as if the transferor purchased the transferred financial assets and assumed the liabilities on that date.
+**860-20-30-3** The transferor shall initially measure transferred financial assets
+**860-20-30-4** and liabilities that are rerecognized under paragraph 860-20-25-10(a) as a result of regaining control of the financial assets sold at fair value on the date of the change as if the transferor purchased the transferred financial assets and assumed the liabilities on that date.
+Paragraph superseded by Accounting Standards Update No. 2009-16.
+**860-20-30-4** Paragraph superseded by Accounting Standards Update No. 2009-16.
+
+## 35 Subsequent Measurement
+
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+
+### General
+
+**860-20-35-1** Financial assets
+1. subject to prepayment
+2. Subparagraph superseded by Accounting Standards Update No. 2009-16.
+3. Credit enhancements
+4. Beneficial interests
+5. Transaction costs.
+
+**860-20-35-1** Financial assets
+1. subject to prepayment
+2. Subparagraph superseded by Accounting Standards Update No. 2009-16.
+3. Credit enhancements
+4. Beneficial interests
+5. Transaction costs.
+
+**860-20-35-2** > Financial Assets Subject to Prepayment
+Financial assets, except for instruments that are within the scope of Subtopic 815-10, that can contractually be prepaid or otherwise settled in such a way that the holder would not recover substantially all of its recorded investment shall be subsequently measured like investments in debt securities classified as available for sale or trading under Topic 320. Examples of such financial assets include, but are not limited to, interest-only strips
+, other beneficial interests, loans, or other receivables. Interest-only strips and similar interests that meet the definition of securities are included in the scope of that Topic. Therefore, all relevant provisions of that Topic (including the disclosure requirements) shall be applied. See related implementation guidance beginning in paragraph 860-20-55-33.
+**860-20-35-2** Financial assets, except for instruments that are within the scope of Subtopic 815-10, that can contractually be prepaid or otherwise settled in such a way that the holder would not recover substantially all of its recorded investment shall be subsequently measured like investments in debt securities classified as available for sale or trading under Topic 320. Examples of such financial assets include, but are not limited to, interest-only strips
+**860-20-35-3** , other beneficial interests, loans, or other receivables. Interest-only strips and similar interests that meet the definition of securities are included in the scope of that Topic. Therefore, all relevant provisions of that Topic (including the disclosure requirements) shall be applied. See related implementation guidance beginning in paragraph 860-20-55-33.
+Interest-only strips and similar interests that are not in the form of securities are not within the scope of Topic 320 but shall be measured like investments in debt securities classified as available for sale or trading. In that circumstance, all of the measurement provisions of that Topic, as well as the provisions of Topic 326 on measurement of credit losses, shall be followed. However, other provisions of Topics 320 and 326, such as those addressing disclosures, are not required to be applied. Paragraph 320-10-15-9 explains that, for debt securities within its scope, Subtopic 325-40 provides incremental guidance on accounting for and reporting discount and credit losses.
+**860-20-35-3** Interest-only strips and similar interests that are not in the form of securities are not within the scope of Topic 320 but shall be measured like investments in debt securities classified as available for sale or trading. In that circumstance, all of the measurement provisions of that Topic, as well as the provisions of Topic 326 on measurement of credit losses, shall be followed. However, other provisions of Topics 320 and 326, such as those addressing disclosures, are not required to be applied. Paragraph 320-10-15-9 explains that, for debt securities within its scope, Subtopic 325-40 provides incremental guidance on accounting for and reporting discount and credit losses.
+**860-20-35-4** The requirement in paragraph 860-20-35-2 does not apply to situations in which events that are not the result of contractual provisions, for example, borrower default or changes in the value of an instrument's denominated currency relative to the entity's functional currency, cause the holder not to recover substantially all of its recorded investment.
+**860-20-35-4** The requirement in paragraph 860-20-35-2 does not apply to situations in which events that are not the result of contractual provisions, for example, borrower default or changes in the value of an instrument's denominated currency relative to the entity's functional currency, cause the holder not to recover substantially all of its recorded investment.
+**860-20-35-5** A financial asset that can be contractually prepaid or otherwise settled in such a way that the holder would not recover substantially all of its recorded investment shall not be classified as held-to-maturity even if the investor concludes that prepayment or other forms of settlement are remote. The probability of prepayment or other forms of settlement that would result in the holder's not recovering substantially all of its recorded investment is not relevant in deciding whether the provisions of paragraph 860-20-35-2 apply to those financial assets.
+**860-20-35-5** A financial asset that can be contractually prepaid or otherwise settled in such a way that the holder would not recover substantially all of its recorded investment shall not be classified as held-to-maturity even if the investor concludes that prepayment or other forms of settlement are remote. The probability of prepayment or other forms of settlement that would result in the holder's not recovering substantially all of its recorded investment is not relevant in deciding whether the provisions of paragraph 860-20-35-2 apply to those financial assets.
+**860-20-35-6** The guidance in this Subtopic does not specifically address the subsequent measurement of a transferor's beneficial interests that cannot be contractually prepaid or settled in such a way that the owner would not recover substantially all of its recorded investment.
+**860-20-35-6** The guidance in this Subtopic does not specifically address the subsequent measurement of a transferor's beneficial interests that cannot be contractually prepaid or settled in such a way that the owner would not recover substantially all of its recorded investment.
+**860-20-35-7** Paragraph superseded by Accounting Standards Update No. 2009-16.
+**860-20-35-7** Paragraph superseded by Accounting Standards Update No. 2009-16.
+**860-20-35-8** > Credit Enhancements
+While this Subtopic does not specifically address the subsequent measurement of credit enhancements, there are some factors to consider. Factors such as how much cash the transferor will receive from, for example, a cash reserve account, and when it will receive cash inflows depend on the performance of the transferred financial assets. Entities shall regularly review those assets for impairment because of their nature. Entities shall look to other guidance for subsequent measurement including guidance for impairment based on the nature of the credit enhancement.
+**860-20-35-8** While this Subtopic does not specifically address the subsequent measurement of credit enhancements, there are some factors to consider. Factors such as how much cash the transferor will receive from, for example, a cash reserve account, and when it will receive cash inflows depend on the performance of the transferred financial assets. Entities shall regularly review those assets for impairment because of their nature. Entities shall look to other guidance for subsequent measurement including guidance for impairment based on the nature of the credit enhancement.
+**860-20-35-9** > Beneficial Interests
+Beneficial interests shall be evaluated for credit losses, including at the time paragraphs 860-20-25-8 through 25-10
+are applied. See Section 325-40-35 for guidance on credit losses applicable to beneficial interests in securitized financial assets.
+**860-20-35-9** Beneficial interests shall be evaluated for credit losses, including at the time paragraphs 860-20-25-8 through 25-10
+**860-20-35-10** are applied. See Section 325-40-35 for guidance on credit losses applicable to beneficial interests in securitized financial assets. > Transaction Costs
+Transaction costs relating to a sale of the receivables may be recognized over the initial and reinvestment periods in a rational and systematic manner unless the transaction results in a loss. Transaction costs for a past sale are not an asset and thus are part of the gain or loss on sale. In a credit card securitization
+, however, some of the transaction costs incurred at the outset relate to the future sales that are to occur during the revolving period, and thus can qualify as an asset.
+**860-20-35-10** Transaction costs relating to a sale of the receivables may be recognized over the initial and reinvestment periods in a rational and systematic manner unless the transaction results in a loss. Transaction costs for a past sale are not an asset and thus are part of the gain or loss on sale. In a credit card securitization
+
+## 40 Derecognition
+
+General Note:The Derecognition Section provides guidance on determining whether and when an entity should remove an item from the financial statements. For example, the entity would derecognize an asset because it no longer has rights to the asset or it would derecognize a liability because it no longer has any obligation.
+
+### General
+
+**860-20-40-1** Paragraph superseded by Accounting Standards Update No. 2009-16.
+**860-20-40-1** Paragraph superseded by Accounting Standards Update No. 2009-16.
+**860-20-40-1A** > Sale of a Participating Interest
+Upon completion of a transfer
+1. The participating interest(s) sold
+2. The participating interest that continues to be held by the transferor.
+
+3. Derecognize the participating interest(s) sold
+4. Apply the guidance in paragraphs 860-20-25-1 and 860-20-30-1 on recognition and measurement of assets obtained and liabilities incurred in the sale
+5. Recognize in earnings any gain or loss on the sale
+1. The previous carrying amount of the entire financial asset
+2. The amount derecognized.
+
+For the transfer of a participating interest in a financial asset included in a closed portfolio hedged in an existing portfolio layer method hedge in accordance with Topic 815 on derivatives and hedging, when applying the guidance in (a) through (e) an entity shall not include any portion of the hedge basis adjustment that is maintained on the closed portfolio basis in accordance with paragraphs 815-20-25-12A(b) and 815-25-35-1(c).
+**860-20-40-1A** Upon completion of a transfer
+1. The participating interest(s) sold
+2. The participating interest that continues to be held by the transferor.
+
+3. Derecognize the participating interest(s) sold
+4. Apply the guidance in paragraphs 860-20-25-1 and 860-20-30-1 on recognition and measurement of assets obtained and liabilities incurred in the sale
+5. Recognize in earnings any gain or loss on the sale
+1. The previous carrying amount of the entire financial asset
+2. The amount derecognized.
+
+**860-20-40-1B** For the transfer of a participating interest in a financial asset included in a closed portfolio hedged in an existing portfolio layer method hedge in accordance with Topic 815 on derivatives and hedging, when applying the guidance in (a) through (e) an entity shall not include any portion of the hedge basis adjustment that is maintained on the closed portfolio basis in accordance with paragraphs 815-20-25-12A(b) and 815-25-35-1(c). > Sale of an Entire Financial Asset or Group of Entire Financial Assets
+Derecognize the transferred financial assets
+2. Apply the guidance in paragraphs 860-20-25-1 and 860-20-30-1 on recognition and measurement of assets obtained and liabilities incurred in the sale
+3. Recognize in earnings any gain or loss on the sale.
+
+If the transferred financial asset was accounted for under Topic 320 as available for sale before the transfer, item (a) requires that the amount in other comprehensive income be recognized in earnings at the date of transfer. If the transferred financial asset was included in a closed portfolio hedged in an existing portfolio layer method hedge in accordance with Topic 815 before the transfer, when applying the guidance in (a) through (c) an entity shall not include any portion of the hedge basis adjustment that is maintained on the closed portfolio basis in accordance with paragraphs 815-20-25-12A(b) and 815-25-35-1(c).
+**860-20-40-1B** Derecognize the transferred financial assets
+2. Apply the guidance in paragraphs 860-20-25-1 and 860-20-30-1 on recognition and measurement of assets obtained and liabilities incurred in the sale
+3. Recognize in earnings any gain or loss on the sale.
+
+**860-20-40-2** If the transferred financial asset was accounted for under Topic 320 as available for sale before the transfer, item (a) requires that the amount in other comprehensive income be recognized in earnings at the date of transfer. If the transferred financial asset was included in a closed portfolio hedged in an existing portfolio layer method hedge in accordance with Topic 815 before the transfer, when applying the guidance in (a) through (c) an entity shall not include any portion of the hedge basis adjustment that is maintained on the closed portfolio basis in accordance with paragraphs 815-20-25-12A(b) and 815-25-35-1(c).
+Paragraph superseded by Accounting Standards Update No. 2009-16.
+**860-20-40-2** Paragraph superseded by Accounting Standards Update No. 2009-16.
+**860-20-40-3** > Transferor and Transferee Accounting Circumstances upon Regaining Control
+The guidance beginning in paragraph 860-20-25-8 discusses the transferor's accounting upon regaining control of financial assets sold. In such circumstances, the former transferee would derecognize the transferred financial assets on that date, as if it had sold the transferred financial assets in exchange for a receivable from the transferor.
+**860-20-40-3** The guidance beginning in paragraph 860-20-25-8 discusses the transferor's accounting upon regaining control of financial assets sold. In such circumstances, the former transferee would derecognize the transferred financial assets on that date, as if it had sold the transferred financial assets in exchange for a receivable from the transferor.
+
+## 50 Disclosure
+
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+
+### General
+
+**860-20-50-1** > All Entities within Scope of Subtopic
+Disclosures for each income statement presented
+2. Disclosures for each statement of financial position presented
+3. Sales of loans and trade receivables.
+
+For overall guidance on Topic 860's disclosures, see Section 860-10-50.
+**860-20-50-1** Disclosures for each income statement presented
+2. Disclosures for each statement of financial position presented
+3. Sales of loans and trade receivables.
+
+**860-20-50-2** For overall guidance on Topic 860's disclosures, see Section 860-10-50.
+Paragraphs 860-20-50-3 through 50-4
+1. The transfer is accounted for as a sale
+2. The transferor has continuing involvement with the transferred financial assets.
+
+**860-20-50-2** Paragraphs 860-20-50-3 through 50-4
+1. The transfer is accounted for as a sale
+2. The transferor has continuing involvement with the transferred financial assets.
+
+**860-20-50-2A** If specific disclosures are required for a particular form of a transferor's continuing involvement by other Topics, the transferor shall provide the information required in paragraphs 860-20-50-3(b) through (cc) and 860-20-50-4(a) with a cross-reference to the separate notes to financial statements so a financial statement user can understand the risks retained in the transfer. The entity does not need to provide each specific disclosure required in paragraphs 860-20-50-3(d) and 860-20-50-4 if the disclosure is not required by other Topics and the objectives of paragraphs 860-10-50-3 through 50-4
+are met. For example, if the transferor's only form of continuing involvement is a derivative, the entity shall provide the disclosures required in paragraphs 860-20-50-3(b) through (cc) and 860-20-50-4(a) and the disclosures about derivatives required by applicable Topics. In addition, the entity shall evaluate whether the other disclosures in paragraphs 860-20-50-3 through 50-4 are necessary for the entity to meet the objectives in those paragraphs.PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1If specific disclosures are required for a particular form of a transferor's continuing involvement by other Topics, the transferor shall provide the information required in paragraphs 860-20-50-3(b) through (cc) and 860-20-50-4(a) with a cross-reference to the separate notes to financial statements in interim and annual reporting periods so a financial statement user can understand the risks retained in the transfer. The entity does not need to provide each specific disclosure required in paragraphs 860-20-50-3(d) and 860-20-50-4 if the disclosure is not required by other Topics and the objectives of paragraphs 860-10-50-3 through 50-4 are met. For example, if the transferor's only form of continuing involvement is a derivative, the entity shall provide the disclosures required in paragraphs 860-20-50-3(b) through (cc) and 860-20-50-4(a) and the disclosures about derivatives required by applicable Topics. In addition, the entity shall evaluate whether the other disclosures in paragraphs 860-20-50-3 through 50-4 are necessary for the entity to meet the objectives in those paragraphs.
+**860-20-50-2A** If specific disclosures are required for a particular form of a transferor's continuing involvement by other Topics, the transferor shall provide the information required in paragraphs 860-20-50-3(b) through (cc) and 860-20-50-4(a) with a cross-reference to the separate notes to financial statements so a financial statement user can understand the risks retained in the transfer. The entity does not need to provide each specific disclosure required in paragraphs 860-20-50-3(d) and 860-20-50-4 if the disclosure is not required by other Topics and the objectives of paragraphs 860-10-50-3 through 50-4
+
+##### · > Disclosures for Each Income                Statement Presented
+
+**860-20-50-3** are met. For example, if the transferor's only form of continuing involvement is a derivative, the entity shall provide the disclosures required in paragraphs 860-20-50-3(b) through (cc) and 860-20-50-4(a) and the disclosures about derivatives required by applicable Topics. In addition, the entity shall evaluate whether the other disclosures in paragraphs 860-20-50-3 through 50-4 are necessary for the entity to meet the objectives in those paragraphs.PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1If specific disclosures are required for a particular form of a transferor's continuing involvement by other Topics, the transferor shall provide the information required in paragraphs 860-20-50-3(b) through (cc) and 860-20-50-4(a) with a cross-reference to the separate notes to financial statements in interim and annual reporting periods so a financial statement user can understand the risks retained in the transfer. The entity does not need to provide each specific disclosure required in paragraphs 860-20-50-3(d) and 860-20-50-4 if the disclosure is not required by other Topics and the objectives of paragraphs 860-10-50-3 through 50-4 are met. For example, if the transferor's only form of continuing involvement is a derivative, the entity shall provide the disclosures required in paragraphs 860-20-50-3(b) through (cc) and 860-20-50-4(a) and the disclosures about derivatives required by applicable Topics. In addition, the entity shall evaluate whether the other disclosures in paragraphs 860-20-50-3 through 50-4 are necessary for the entity to meet the objectives in those paragraphs.
+Subparagraph superseded by Accounting Standards Update No. 2009-16.
+1. A description of the transferor's continuing involvement with the transferred financial assets
+1. The asset obtained as proceeds
+2. The liabilities incurred in the transfer.
+
+3. The gain or loss from sale of transferred financial assets.
+
+1. Quoted prices in active markets for identical assets or liabilities (Level 1)
+2. Significant other observable inputs (Level 2)
+3. Significant unobservable inputs (Level 3).
+
+1. Discount rates.
+2. Expected prepayments including the expected weighted-average life of prepayable financial assets. The weighted-average life of prepayable assets in periods (for example, months or years) can be calculated by multiplying the principal collections expected in each future period by the number of periods until that future period, summing those products, and dividing the sum by the initial principal balance.
+3. Anticipated credit losses, including expected static pool losses.
+
+3. If an entity has aggregated transfers during a period in accordance with the guidance beginning in paragraph 860-10-50-5, it may disclose the range of assumptions.
+4. For the initial fair value measurements in item (b)(2), the valuation technique(s) used to measure fair value.
+1. Proceeds from new transfers
+2. Proceeds from collections reinvested in revolving-period transfers
+3. Purchases of previously transferred financial assets
+4. Servicing fees
+5. Cash flows received from a transferor's interests.
+
+1. Subparagraph superseded by Accounting Standards Update No. 2009-16.
+1. A description of the transferor's continuing involvement with the transferred financial assets
+1. The asset obtained as proceeds
+2. The liabilities incurred in the transfer.
+
+3. The gain or loss from sale of transferred financial assets.
+
+1. Quoted prices in active markets for identical assets or liabilities (Level 1)
+2. Significant other observable inputs (Level 2)
+3. Significant unobservable inputs (Level 3).
+
+1. Discount rates.
+2. Expected prepayments including the expected weighted-average life of prepayable financial assets. The weighted-average life of prepayable assets in periods (for example, months or years) can be calculated by multiplying the principal collections expected in each future period by the number of periods until that future period, summing those products, and dividing the sum by the initial principal balance.
+3. Anticipated credit losses, including expected static pool losses.
+
+3. If an entity has aggregated transfers during a period in accordance with the guidance beginning in paragraph 860-10-50-5, it may disclose the range of assumptions.
+4. For the initial fair value measurements in item (b)(2), the valuation technique(s) used to measure fair value.
+1. Proceeds from new transfers
+2. Proceeds from collections reinvested in revolving-period transfers
+3. Purchases of previously transferred financial assets
+4. Servicing fees
+5. Cash flows received from a transferor's interests.
+
+**860-20-50-3** Subparagraph superseded by Accounting Standards Update No. 2009-16.
+1. A description of the transferor's continuing involvement with the transferred financial assets
+1. The asset obtained as proceeds
+2. The liabilities incurred in the transfer.
+
+3. The gain or loss from sale of transferred financial assets.
+
+1. Quoted prices in active markets for identical assets or liabilities (Level 1)
+2. Significant other observable inputs (Level 2)
+3. Significant unobservable inputs (Level 3).
+
+1. Discount rates.
+2. Expected prepayments including the expected weighted-average life of prepayable financial assets. The weighted-average life of prepayable assets in periods (for example, months or years) can be calculated by multiplying the principal collections expected in each future period by the number of periods until that future period, summing those products, and dividing the sum by the initial principal balance.
+3. Anticipated credit losses, including expected static pool losses.
+
+3. If an entity has aggregated transfers during a period in accordance with the guidance beginning in paragraph 860-10-50-5, it may disclose the range of assumptions.
+4. For the initial fair value measurements in item (b)(2), the valuation technique(s) used to measure fair value.
+1. Proceeds from new transfers
+2. Proceeds from collections reinvested in revolving-period transfers
+3. Purchases of previously transferred financial assets
+4. Servicing fees
+5. Cash flows received from a transferor's interests.
+
+1. Subparagraph superseded by Accounting Standards Update No. 2009-16.
+1. A description of the transferor's continuing involvement with the transferred financial assets
+1. The asset obtained as proceeds
+2. The liabilities incurred in the transfer.
+
+3. The gain or loss from sale of transferred financial assets.
+
+1. Quoted prices in active markets for identical assets or liabilities (Level 1)
+2. Significant other observable inputs (Level 2)
+3. Significant unobservable inputs (Level 3).
+
+1. Discount rates.
+2. Expected prepayments including the expected weighted-average life of prepayable financial assets. The weighted-average life of prepayable assets in periods (for example, months or years) can be calculated by multiplying the principal collections expected in each future period by the number of periods until that future period, summing those products, and dividing the sum by the initial principal balance.
+3. Anticipated credit losses, including expected static pool losses.
+
+3. If an entity has aggregated transfers during a period in accordance with the guidance beginning in paragraph 860-10-50-5, it may disclose the range of assumptions.
+4. For the initial fair value measurements in item (b)(2), the valuation technique(s) used to measure fair value.
+1. Proceeds from new transfers
+2. Proceeds from collections reinvested in revolving-period transfers
+3. Purchases of previously transferred financial assets
+4. Servicing fees
+5. Cash flows received from a transferor's interests.
+
+##### · > Disclosures for Each Statement of                Financial Position Presented
+
+**860-20-50-4** Qualitative and quantitative information about the transferor's continuing involvement with transferred financial assets that provides financial statement users with sufficient information to assess the reasons for the continuing involvement and the risks related to the transferred financial assets to which the transferor continues to be exposed after the transfer and the extent that the transferor's risk profile has changed as a result of the transfer (including, but not limited to, credit risk, interest rate risk, and other risks), including all of the following:
+1. The total principal amount outstanding
+2. The amount that has been derecognized
+3. The amount that continues to be recognized in the statement of financial position
+1. A description of any events or circumstances that could expose the transferor to loss
+2. The amount of the maximum exposure to loss.
+
+1. The type and amount of support
+2. The primary reasons for providing the support.
+
+2. An entity also is encouraged to disclose information about any liquidity arrangements, guarantees, or other commitments by third parties related to the transferred financial assets that may affect the fair value or risk of the related transferor's interest.
+
+3. The entity's accounting policies for subsequently measuring assets or liabilities that relate to the continuing involvement with the transferred financial assets.
+1. Discount rates
+2. Expected prepayments including the expected weighted-average life of prepayable financial assets (see paragraph 860-20-50-3(c)(2))
+3. Anticipated credit losses, including expected static pool losses, if applicable. Expected static pool losses can be calculated by summing the actual and projected future credit losses and dividing the sum by the original balance of the pool of assets.
+
+3. If an entity has aggregated transfers during a period in accordance with the guidance beginning in paragraph 860-10-50-5, it may disclose the range of assumptions.
+4. For the transferor's interest in the transferred financial assets, a sensitivity analysis or stress test showing the hypothetical effect on the fair value of those interests (including any servicing assets or servicing liabilities) of two or more unfavorable variations from the expected levels for each key assumption that is reported under item (b) of this paragraph independently from any change in another key assumption.
+5. A description of the objectives, methodology, and limitations of the sensitivity analysis or stress test.
+1. Subparagraph superseded by Accounting Standards Update No. 2009-16.
+2. Subparagraph superseded by Accounting Standards Update No. 2009-16.
+3. Subparagraph superseded by Accounting Standards Update No. 2009-16.
+4. Delinquencies at the end of the period
+5. Credit losses, net of recoveries, during the period.
+
+1. The total principal amount outstanding
+2. The amount that has been derecognized
+3. The amount that continues to be recognized in the statement of financial position
+1. A description of any events or circumstances that could expose the transferor to loss
+2. The amount of the maximum exposure to loss.
+
+1. The type and amount of support
+2. The primary reasons for providing the support.
+
+2. An entity also is encouraged to disclose information about any liquidity arrangements, guarantees, or other commitments by third parties related to the transferred financial assets that may affect the fair value or risk of the related transferor's interest.
+
+3. The entity's accounting policies for subsequently measuring assets or liabilities that relate to the continuing involvement with the transferred financial assets.
+1. Discount rates
+2. Expected prepayments including the expected weighted-average life of prepayable financial assets (see paragraph 860-20-50-3(c)(2))
+3. Anticipated credit losses, including expected static pool losses, if applicable. Expected static pool losses can be calculated by summing the actual and projected future credit losses and dividing the sum by the original balance of the pool of assets.
+
+3. If an entity has aggregated transfers during a period in accordance with the guidance beginning in paragraph 860-10-50-5, it may disclose the range of assumptions.
+4. For the transferor's interest in the transferred financial assets, a sensitivity analysis or stress test showing the hypothetical effect on the fair value of those interests (including any servicing assets or servicing liabilities) of two or more unfavorable variations from the expected levels for each key assumption that is reported under item (b) of this paragraph independently from any change in another key assumption.
+5. A description of the objectives, methodology, and limitations of the sensitivity analysis or stress test.
+1. Subparagraph superseded by Accounting Standards Update No. 2009-16.
+2. Subparagraph superseded by Accounting Standards Update No. 2009-16.
+3. Subparagraph superseded by Accounting Standards Update No. 2009-16.
+4. Delinquencies at the end of the period
+5. Credit losses, net of recoveries, during the period.
+
+**860-20-50-4** Qualitative and quantitative information about the transferor's continuing involvement with transferred financial assets that provides financial statement users with sufficient information to assess the reasons for the continuing involvement and the risks related to the transferred financial assets to which the transferor continues to be exposed after the transfer and the extent that the transferor's risk profile has changed as a result of the transfer (including, but not limited to, credit risk, interest rate risk, and other risks), including all of the following:
+1. The total principal amount outstanding
+2. The amount that has been derecognized
+3. The amount that continues to be recognized in the statement of financial position
+1. A description of any events or circumstances that could expose the transferor to loss
+2. The amount of the maximum exposure to loss.
+
+1. The type and amount of support
+2. The primary reasons for providing the support.
+
+2. An entity also is encouraged to disclose information about any liquidity arrangements, guarantees, or other commitments by third parties related to the transferred financial assets that may affect the fair value or risk of the related transferor's interest.
+
+3. The entity's accounting policies for subsequently measuring assets or liabilities that relate to the continuing involvement with the transferred financial assets.
+1. Discount rates
+2. Expected prepayments including the expected weighted-average life of prepayable financial assets (see paragraph 860-20-50-3(c)(2))
+3. Anticipated credit losses, including expected static pool losses, if applicable. Expected static pool losses can be calculated by summing the actual and projected future credit losses and dividing the sum by the original balance of the pool of assets.
+
+3. If an entity has aggregated transfers during a period in accordance with the guidance beginning in paragraph 860-10-50-5, it may disclose the range of assumptions.
+4. For the transferor's interest in the transferred financial assets, a sensitivity analysis or stress test showing the hypothetical effect on the fair value of those interests (including any servicing assets or servicing liabilities) of two or more unfavorable variations from the expected levels for each key assumption that is reported under item (b) of this paragraph independently from any change in another key assumption.
+5. A description of the objectives, methodology, and limitations of the sensitivity analysis or stress test.
+1. Subparagraph superseded by Accounting Standards Update No. 2009-16.
+2. Subparagraph superseded by Accounting Standards Update No. 2009-16.
+3. Subparagraph superseded by Accounting Standards Update No. 2009-16.
+4. Delinquencies at the end of the period
+5. Credit losses, net of recoveries, during the period.
+
+1. The total principal amount outstanding
+2. The amount that has been derecognized
+3. The amount that continues to be recognized in the statement of financial position
+1. A description of any events or circumstances that could expose the transferor to loss
+2. The amount of the maximum exposure to loss.
+
+1. The type and amount of support
+2. The primary reasons for providing the support.
+
+2. An entity also is encouraged to disclose information about any liquidity arrangements, guarantees, or other commitments by third parties related to the transferred financial assets that may affect the fair value or risk of the related transferor's interest.
+
+3. The entity's accounting policies for subsequently measuring assets or liabilities that relate to the continuing involvement with the transferred financial assets.
+1. Discount rates
+2. Expected prepayments including the expected weighted-average life of prepayable financial assets (see paragraph 860-20-50-3(c)(2))
+3. Anticipated credit losses, including expected static pool losses, if applicable. Expected static pool losses can be calculated by summing the actual and projected future credit losses and dividing the sum by the original balance of the pool of assets.
+
+3. If an entity has aggregated transfers during a period in accordance with the guidance beginning in paragraph 860-10-50-5, it may disclose the range of assumptions.
+4. For the transferor's interest in the transferred financial assets, a sensitivity analysis or stress test showing the hypothetical effect on the fair value of those interests (including any servicing assets or servicing liabilities) of two or more unfavorable variations from the expected levels for each key assumption that is reported under item (b) of this paragraph independently from any change in another key assumption.
+5. A description of the objectives, methodology, and limitations of the sensitivity analysis or stress test.
+1. Subparagraph superseded by Accounting Standards Update No. 2009-16.
+2. Subparagraph superseded by Accounting Standards Update No. 2009-16.
+3. Subparagraph superseded by Accounting Standards Update No. 2009-16.
+4. Delinquencies at the end of the period
+5. Credit losses, net of recoveries, during the period.
+
+**860-20-50-4A** A transfer of financial assets to a transferee
+2. An agreement entered into in contemplation of the initial transfer with the transferee that results in the transferor retaining substantially all of the exposure to the economic return on the transferred financial asset throughout the term of the transaction. For purposes of this paragraph, an agreement entered into in contemplation of the initial transfer refers to transactions that depend on the execution of one another and that are entered into for the same business purpose.
+
+**860-20-50-4A** A transfer of financial assets to a transferee
+2. An agreement entered into in contemplation of the initial transfer with the transferee that results in the transferor retaining substantially all of the exposure to the economic return on the transferred financial asset throughout the term of the transaction. For purposes of this paragraph, an agreement entered into in contemplation of the initial transfer refers to transactions that depend on the execution of one another and that are entered into for the same business purpose.
+
+**860-20-50-4B** Transfers of financial assets with an agreement to repurchase the transferred financial asset (or a substantially-the-same financial asset) before maturity at a fixed or determinable price that will be settled in a form other than the return of the transferred financial asset (for example, the transaction is cash-settled)
+2. Transfers of financial assets with an agreement that requires that the transferor retain substantially all of the exposure to the economic return on the transferred financial asset (for example, a sale with a total return swap).
+
+**860-20-50-4B** Transfers of financial assets with an agreement to repurchase the transferred financial asset (or a substantially-the-same financial asset) before maturity at a fixed or determinable price that will be settled in a form other than the return of the transferred financial asset (for example, the transaction is cash-settled)
+2. Transfers of financial assets with an agreement that requires that the transferor retain substantially all of the exposure to the economic return on the transferred financial asset (for example, a sale with a total return swap).
+
+**860-20-50-4C** Transfers of financial assets with an agreement to purchase another financial asset that is not substantially the same as the initial transferred financial asset in accordance with paragraph 860-10-40-24(a), for example, a dollar roll transaction accounted for as a sale because the financial asset to be purchased is not substantially the same as the initially transferred financial asset in accordance with paragraph 860-10-40-24(a)
+2. Transactions described in paragraph 860-20-50-2 that are subject to the disclosures in paragraphs 860-20-50-3 through 50-4.
+
+**860-20-50-4C** Transfers of financial assets with an agreement to purchase another financial asset that is not substantially the same as the initial transferred financial asset in accordance with paragraph 860-10-40-24(a), for example, a dollar roll transaction accounted for as a sale because the financial asset to be purchased is not substantially the same as the initially transferred financial asset in accordance with paragraph 860-10-40-24(a)
+2. Transactions described in paragraph 860-20-50-2 that are subject to the disclosures in paragraphs 860-20-50-3 through 50-4.
+
+**860-20-50-4D** To provide an understanding of the nature of the transactions, the transferor's continuing exposure to the transferred financial assets, and the presentation of the components of the transaction in the financial statements, an entity shall disclose the following for outstanding transactions at the reporting date that meet the scope guidance in paragraphs 860-20-50-4A through 50-4B
+1. If the amounts that have been derecognized have changed significantly from the amounts that have been derecognized in prior periods or are not representative of the activity throughout the period, a discussion of the reasons for the change shall be disclosed.
+
+2. The amount of gross cash proceeds received by the transferor for the assets derecognized as of the date of derecognition.
+1. As of the reporting date, the fair value of assets derecognized by the transferor.
+2. Amounts reported in the statement of financial position arising from the transaction (for example, the carrying value or fair value of forward repurchase agreements or swap contracts). To the extent that those amounts are captured in the derivative disclosures presented in accordance with paragraph 815-10-50-4B, an entity shall provide a cross-reference to the appropriate line item in that disclosure.
+3. A description of the arrangements that result in the transferor retaining substantially all of the exposure to the economic return on the transferred financial assets and the risks related to those arrangements.
+
+1. If the amounts that have been derecognized have changed significantly from the amounts that have been derecognized in prior periods or are not representative of the activity throughout the period, a discussion of the reasons for the change shall be disclosed.
+
+2. The amount of gross cash proceeds received by the transferor for the assets derecognized as of the date of derecognition.
+1. As of the reporting date, the fair value of assets derecognized by the transferor.
+2. Amounts reported in the statement of financial position arising from the transaction (for example, the carrying value or fair value of forward repurchase agreements or swap contracts). To the extent that those amounts are captured in the derivative disclosures presented in accordance with paragraph 815-10-50-4B, an entity shall provide a cross-reference to the appropriate line item in that disclosure.
+3. A description of the arrangements that result in the transferor retaining substantially all of the exposure to the economic return on the transferred financial assets and the risks related to those arrangements.
+
+**860-20-50-4D** To provide an understanding of the nature of the transactions, the transferor's continuing exposure to the transferred financial assets, and the presentation of the components of the transaction in the financial statements, an entity shall disclose the following for outstanding transactions at the reporting date that meet the scope guidance in paragraphs 860-20-50-4A through 50-4B
+1. If the amounts that have been derecognized have changed significantly from the amounts that have been derecognized in prior periods or are not representative of the activity throughout the period, a discussion of the reasons for the change shall be disclosed.
+
+2. The amount of gross cash proceeds received by the transferor for the assets derecognized as of the date of derecognition.
+1. As of the reporting date, the fair value of assets derecognized by the transferor.
+2. Amounts reported in the statement of financial position arising from the transaction (for example, the carrying value or fair value of forward repurchase agreements or swap contracts). To the extent that those amounts are captured in the derivative disclosures presented in accordance with paragraph 815-10-50-4B, an entity shall provide a cross-reference to the appropriate line item in that disclosure.
+3. A description of the arrangements that result in the transferor retaining substantially all of the exposure to the economic return on the transferred financial assets and the risks related to those arrangements.
+
+1. If the amounts that have been derecognized have changed significantly from the amounts that have been derecognized in prior periods or are not representative of the activity throughout the period, a discussion of the reasons for the change shall be disclosed.
+
+2. The amount of gross cash proceeds received by the transferor for the assets derecognized as of the date of derecognition.
+1. As of the reporting date, the fair value of assets derecognized by the transferor.
+2. Amounts reported in the statement of financial position arising from the transaction (for example, the carrying value or fair value of forward repurchase agreements or swap contracts). To the extent that those amounts are captured in the derivative disclosures presented in accordance with paragraph 815-10-50-4B, an entity shall provide a cross-reference to the appropriate line item in that disclosure.
+3. A description of the arrangements that result in the transferor retaining substantially all of the exposure to the economic return on the transferred financial assets and the risks related to those arrangements.
+
+##### · > Sales of Loans and Trade                Receivables
+
+**860-20-50-5** The aggregate amount of gains or losses on sales of loans or trade receivables (including adjustments to record loans held for sale at the lower of amortized cost basis or fair value) shall be presented separately in the financial statements or disclosed in the notes to financial statements. See Topic 310 on receivables and Topic 326 on measurement of credit losses for a full discussion of disclosure requirements for loans and trade receivables.
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For interim and annual reporting periods, the aggregate amount of gains or losses on sales of loans or trade receivables (including adjustments to record loans held for sale at the lower of amortized cost basis or fair value) shall be presented separately in the financial statements or disclosed in the notes to financial statements. See Topic 310 on receivables and Topic 326 on measurement of credit losses for a full discussion of disclosure requirements for loans and trade receivables.
+**860-20-50-5** The aggregate amount of gains or losses on sales of loans or trade receivables (including adjustments to record loans held for sale at the lower of amortized cost basis or fair value) shall be presented separately in the financial statements or disclosed in the notes to financial statements. See Topic 310 on receivables and Topic 326 on measurement of credit losses for a full discussion of disclosure requirements for loans and trade receivables.
+**860-20-50-6** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For interim and annual reporting periods, the aggregate amount of gains or losses on sales of loans or trade receivables (including adjustments to record loans held for sale at the lower of amortized cost basis or fair value) shall be presented separately in the financial statements or disclosed in the notes to financial statements. See Topic 310 on receivables and Topic 326 on measurement of credit losses for a full discussion of disclosure requirements for loans and trade receivables.
+Paragraphs 860-20-50-6 through 50-9 superseded by Accounting Standards Update No. 2009-16.
+**860-20-50-6** Paragraphs 860-20-50-6 through 50-9 superseded by Accounting Standards Update No. 2009-16.
+
+## 55 Implementation Guidance and Illustrations
+
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+
+### General
+
+**860-20-55-1** > Implementation Guidance
+Subparagraph superseded by Accounting Standards Update No. 2009-16.
+2. Estimating the fair value of certain beneficial interests
+3. Accrued interest receivable
+4. Options embedded in transferred securities
+5. Credit risk associated with transferred assets
+6. Transfer of a bond purchased at a premium
+7. Sales or securitizations of lease receivables
+8. Subparagraph superseded by Accounting Standards Update No. 2009-16.
+9. Forward contracts in revolving-period securitizations
+10. Subsequent measurement of interests issued in securitization transactions
+11. Transferor regains control of assets through a removal-of-accounts provision.
+
+**860-20-55-1** Subparagraph superseded by Accounting Standards Update No. 2009-16.
+2. Estimating the fair value of certain beneficial interests
+3. Accrued interest receivable
+4. Options embedded in transferred securities
+5. Credit risk associated with transferred assets
+6. Transfer of a bond purchased at a premium
+7. Sales or securitizations of lease receivables
+8. Subparagraph superseded by Accounting Standards Update No. 2009-16.
+9. Forward contracts in revolving-period securitizations
+10. Subsequent measurement of interests issued in securitization transactions
+11. Transferor regains control of assets through a removal-of-accounts provision.
+
+**860-20-55-2** Paragraphs 860-20-55-2 through 55-15 superseded by Accounting Standards Update No. 2009-16.
+**860-20-55-2** Paragraphs 860-20-55-2 through 55-15 superseded by Accounting Standards Update No. 2009-16.
+
+##### · > Estimating the Fair Value of                Certain Beneficial Interests
+
+**860-20-55-16** Trust liquidation methods that allocate receipts of principal or interest between beneficial interest holders and transferors in proportions different from their stated percentage of ownership interests do not affect whether the transferor should obtain sale accounting and derecognize
+those transferred assets, assuming the trust is not required to be consolidated by the transferor. However, both turbo and bullet provisions in securitization structures (as discussed in paragraph 860-10-05-3) should be taken into consideration in determining the fair values of assets obtained by the transferor and transferee.
+**860-20-55-16** Trust liquidation methods that allocate receipts of principal or interest between beneficial interest holders and transferors in proportions different from their stated percentage of ownership interests do not affect whether the transferor should obtain sale accounting and derecognize
+
+##### · > Accrued Interest                Receivable
+
+**860-20-55-17** those transferred assets, assuming the trust is not required to be consolidated by the transferor. However, both turbo and bullet provisions in securitization structures (as discussed in paragraph 860-10-05-3) should be taken into consideration in determining the fair values of assets obtained by the transferor and transferee.
+The receivables for accrued fee and finance charge income on an investors' portion of the transferred credit card receivables, whether billed but uncollected or accrued but unbilled, are commonly referred to as accrued interest receivable. The following addresses how the accrued interest receivable related to securitized and sold receivables should be accounted for and reported under this Subtopic. This guidance applies to credit card securitizations as well as other kinds of securitizations.
+**860-20-55-17** The receivables for accrued fee and finance charge income on an investors' portion of the transferred credit card receivables, whether billed but uncollected or accrued but unbilled, are commonly referred to as accrued interest receivable. The following addresses how the accrued interest receivable related to securitized and sold receivables should be accounted for and reported under this Subtopic. This guidance applies to credit card securitizations as well as other kinds of securitizations.
+**860-20-55-18** The right to receive the accrued interest receivable, if and when collected, is transferred to the securitization trust. Generally, if a securitization transaction meets the criteria for sale treatment and the accrued interest receivable is subordinated either because the asset has been isolated from the transferor (see paragraph 860-10-40-5) or because of the operation of the cash flow distribution (or waterfall) through the securitization trust, the total accrued interest receivable should be considered to be one of the components of the sale transaction. Therefore, under the circumstances described, the accrued interest receivable asset should be accounted for as a transferor's interest.It is inappropriate to report the accrued interest receivable related to securitized and sold receivables as loans receivable or other terminology implying that it has not been subordinated to the senior interests in the securitization.
+**860-20-55-18** The right to receive the accrued interest receivable, if and when collected, is transferred to the securitization trust. Generally, if a securitization transaction meets the criteria for sale treatment and the accrued interest receivable is subordinated either because the asset has been isolated from the transferor (see paragraph 860-10-40-5) or because of the operation of the cash flow distribution (or waterfall) through the securitization trust, the total accrued interest receivable should be considered to be one of the components of the sale transaction. Therefore, under the circumstances described, the accrued interest receivable asset should be accounted for as a transferor's interest.It is inappropriate to report the accrued interest receivable related to securitized and sold receivables as loans receivable or other terminology implying that it has not been subordinated to the senior interests in the securitization.
+**860-20-55-19** While, under the circumstances described, the accrued interest receivable is a transferor's interest, it is not required to be subsequently measured like an investment in debt securities classified as available for sale or trading under Topic 320 or the Transfers and Servicing Topic because the accrued interest receivable cannot be contractually prepaid or settled in such a way that the owner would not recover substantially all of its recorded investment. Entities should follow existing applicable accounting standards, including Topic 326 on measurement of credit losses, in subsequent accounting for the accrued interest receivable asset.
+**860-20-55-19** While, under the circumstances described, the accrued interest receivable is a transferor's interest, it is not required to be subsequently measured like an investment in debt securities classified as available for sale or trading under Topic 320 or the Transfers and Servicing Topic because the accrued interest receivable cannot be contractually prepaid or settled in such a way that the owner would not recover substantially all of its recorded investment. Entities should follow existing applicable accounting standards, including Topic 326 on measurement of credit losses, in subsequent accounting for the accrued interest receivable asset.
+
+##### · > Options Embedded in Transferred                Securities
+
+**860-20-55-20** This guidance addresses transactions that involve the sale of a marketable security to a third-party buyer, with the buyer's having an option to put the security back to the seller at a specified future date or dates for a fixed price. Because of the put option, the seller generally receives a premium price for the security.
+**860-20-55-20** This guidance addresses transactions that involve the sale of a marketable security to a third-party buyer, with the buyer's having an option to put the security back to the seller at a specified future date or dates for a fixed price. Because of the put option, the seller generally receives a premium price for the security.
+**860-20-55-21** If the transfer is accounted for as a sale, a put option that enables the holder to require the writer of the option to reacquire for cash or other assets a marketable security or an equity instrument issued by a third party should be accounted for as a derivative by both the holder and the writer, provided the put option meets the definition of a derivative in paragraph 815-10-15-83 (including meeting the net settlement requirement, which may be met if the option can be net settled in cash or other assets or if the asset required to be delivered is readily convertible to cash). If multiple put options exist, recognition of the multiple put options as liabilities, and initial measurement at fair value, are required.
+**860-20-55-21** If the transfer is accounted for as a sale, a put option that enables the holder to require the writer of the option to reacquire for cash or other assets a marketable security or an equity instrument issued by a third party should be accounted for as a derivative by both the holder and the writer, provided the put option meets the definition of a derivative in paragraph 815-10-15-83 (including meeting the net settlement requirement, which may be met if the option can be net settled in cash or other assets or if the asset required to be delivered is readily convertible to cash). If multiple put options exist, recognition of the multiple put options as liabilities, and initial measurement at fair value, are required.
+**860-20-55-22** A put option that is issued as part of a transfer being accounted for as a sale that is not accounted for as a derivative under Subtopic 815-10 would be considered a guarantee under paragraph 460-10-55-2(b) and would be subject to its initial recognition, initial measurement, and disclosure requirements. If the written put option is accounted for as a derivative under Subtopic 815-10 by the seller-transferor, then the put option would be subject to only the disclosure requirements of Topic 460.
+**860-20-55-22** A put option that is issued as part of a transfer being accounted for as a sale that is not accounted for as a derivative under Subtopic 815-10 would be considered a guarantee under paragraph 460-10-55-2(b) and would be subject to its initial recognition, initial measurement, and disclosure requirements. If the written put option is accounted for as a derivative under Subtopic 815-10 by the seller-transferor, then the put option would be subject to only the disclosure requirements of Topic 460.
+**860-20-55-23** If the transaction is accounted for as a secured borrowing under Subtopic 860-30, any difference between the sale proceeds and the put price shall be accrued as interest expense, and any impairment of the underlying security would generally not be recognized. The difference between the original sale price and the put price should be amortized over the period to the first date the securities are eligible to be put back. If the transfer is accounted for as a secured borrowing, the put option falls under paragraph 815-10-15-63, which provides a scope exception for a derivative instrument (such as the put option) that serves as an impediment to sale accounting under Subtopic 860-10. The guidance in paragraph 815-10-55-41 may also be relevant.
+**860-20-55-23** If the transaction is accounted for as a secured borrowing under Subtopic 860-30, any difference between the sale proceeds and the put price shall be accrued as interest expense, and any impairment of the underlying security would generally not be recognized. The difference between the original sale price and the put price should be amortized over the period to the first date the securities are eligible to be put back. If the transfer is accounted for as a secured borrowing, the put option falls under paragraph 815-10-15-63, which provides a scope exception for a derivative instrument (such as the put option) that serves as an impediment to sale accounting under Subtopic 860-10. The guidance in paragraph 815-10-55-41 may also be relevant.
+
+##### · > Credit Risk Associated with                Transferred Assets
+
+**860-20-55-24** A transferor may hold some portion of the credit risk associated with a transfer of an entire financial asset
+or group of entire financial assets. For example, a transferor may incur a liability to reimburse the transferee, up to a certain limit, for a failure of debtors to pay when due (a recourse liability). In that circumstance, a liability should be separately recognized and initially measured at fair value. That liability should be subsequently measured according to guidance in other Topics for measuring similar liabilities. In other circumstances, a transferor may provide credit enhancement through its ownership of a beneficial interest in the transferred financial assets if that beneficial interest is not paid until the other investors in the transferred financial assets are paid, thereby resulting in the transferor absorbing much of the related credit risk. As a result, the beneficial interests that are obtained by the transferor should be initially recognized according to paragraph 860-20-25-1.
+**860-20-55-24** A transferor may hold some portion of the credit risk associated with a transfer of an entire financial asset
+**860-20-55-24A** or group of entire financial assets. For example, a transferor may incur a liability to reimburse the transferee, up to a certain limit, for a failure of debtors to pay when due (a recourse liability). In that circumstance, a liability should be separately recognized and initially measured at fair value. That liability should be subsequently measured according to guidance in other Topics for measuring similar liabilities. In other circumstances, a transferor may provide credit enhancement through its ownership of a beneficial interest in the transferred financial assets if that beneficial interest is not paid until the other investors in the transferred financial assets are paid, thereby resulting in the transferor absorbing much of the related credit risk. As a result, the beneficial interests that are obtained by the transferor should be initially recognized according to paragraph 860-20-25-1.
+If the transfer does not consist of an entire financial asset or group of entire financial assets, the transferred financial asset must meet the definition of a participating interest
+1. Standard representations and warranties
+2. Ongoing contractual obligations to service the entire financial asset and administer the transfer contract
+3. Contractual obligations to share in any set-off benefits received by any participating interest holder.
+
+That recourse would result in the transfer being accounted for as a secured borrowing under Subtopic 860-30.
+**860-20-55-24A** If the transfer does not consist of an entire financial asset or group of entire financial assets, the transferred financial asset must meet the definition of a participating interest
+1. Standard representations and warranties
+2. Ongoing contractual obligations to service the entire financial asset and administer the transfer contract
+3. Contractual obligations to share in any set-off benefits received by any participating interest holder.
+
+##### · > Transfer of a Bond Purchased at a                Premium
+
+**860-20-55-25** That recourse would result in the transfer being accounted for as a secured borrowing under Subtopic 860-30.
+Assume an entity transfers a bond to an unconsolidated entity for cash and beneficial interests. When the transferor purchased the bond, it paid a premium for it (or bought it at a discount), and that premium (or discount) was not fully amortized (or accreted) at the date of the transfer. In other words, the carrying amount of the bond included a premium (or discount) at the date of the transfer. If the transfer of the bond is accounted for as a secured borrowing under Subtopic 860-30, the transferor would continue to amortize (or accrete) the premium (or discount) because paragraph 860-30-25-2 requires that the transferor continue to report the transferred financial assets in its statement of financial position with no change in their measurement (that is, basis of accounting). If the transfer of the bond satisfies the conditions to be accounted for as a sale, any beneficial interests received as proceeds would be initially recognized at fair value. As a result, the previously existing premium (or discount) would not continue to be amortized (or accreted); rather, the unamortized (or nonaccreted) amount would be included in the calculation of the gain (or loss) as of the transfer date.
+**860-20-55-25** Assume an entity transfers a bond to an unconsolidated entity for cash and beneficial interests. When the transferor purchased the bond, it paid a premium for it (or bought it at a discount), and that premium (or discount) was not fully amortized (or accreted) at the date of the transfer. In other words, the carrying amount of the bond included a premium (or discount) at the date of the transfer. If the transfer of the bond is accounted for as a secured borrowing under Subtopic 860-30, the transferor would continue to amortize (or accrete) the premium (or discount) because paragraph 860-30-25-2 requires that the transferor continue to report the transferred financial assets in its statement of financial position with no change in their measurement (that is, basis of accounting). If the transfer of the bond satisfies the conditions to be accounted for as a sale, any beneficial interests received as proceeds would be initially recognized at fair value. As a result, the previously existing premium (or discount) would not continue to be amortized (or accreted); rather, the unamortized (or nonaccreted) amount would be included in the calculation of the gain (or loss) as of the transfer date.
+
+##### · > Sales or Securitizations of Lease                Receivables
+
+**860-20-55-26** A transferor of lease receivables shall allocate the gross investment in receivables between lease payments
+, residual values guaranteed at commencement, and residual values not guaranteed at commencement using the individual carrying amounts of those components at the date of transfer. Those transferors also shall record a servicing asset or liability in accordance with Subtopic 860-50, if appropriate.
+**860-20-55-26** A transferor of lease receivables shall allocate the gross investment in receivables between lease payments
+**860-20-55-27** , residual values guaranteed at commencement, and residual values not guaranteed at commencement using the individual carrying amounts of those components at the date of transfer. Those transferors also shall record a servicing asset or liability in accordance with Subtopic 860-50, if appropriate.
+See paragraph 860-10-55-6 for further discussion of lease receivables.
+**860-20-55-27** See paragraph 860-10-55-6 for further discussion of lease receivables.
+**860-20-55-28** Paragraph superseded by Accounting Standards Update No. 2009-16.
+**860-20-55-28** Paragraph superseded by Accounting Standards Update No. 2009-16.
+
+##### · > Forward Contracts in                Revolving-Period Securitizations
+
+**860-20-55-29** The requirement that all financial assets obtained and liabilities incurred by the transferor of a securitization that qualifies as a sale shall be recognized and measured as provided in this Subtopic includes the implicit forward contract to sell additional financial assets during a revolving period. Such a forward contract may become valuable or onerous to the transferor as interest rates and other market conditions change.
+**860-20-55-29** The requirement that all financial assets obtained and liabilities incurred by the transferor of a securitization that qualifies as a sale shall be recognized and measured as provided in this Subtopic includes the implicit forward contract to sell additional financial assets during a revolving period. Such a forward contract may become valuable or onerous to the transferor as interest rates and other market conditions change.
+**860-20-55-30** The value of the forward contract implicit in a revolving-period securitization arises from the difference between the agreed-upon rate of return to investors on their beneficial interests in the trust and current market rates of return on similar investments. For example, if the agreed-upon annual rate of return to investors in a trust is 6 percent, and later market rates of return for those investments increased to 7 percent, the forward contract's value to the transferor (and burden to the investors) would approximate the present value of 1 percent of the amount of the investment for each year remaining in the revolving structure after the receivables already transferred have been collected. If a forward contract to sell receivables is entered into at the market rate, its value at inception may be zero. Changes in the fair value of the forward contract are likely to be greater if the investors receive a fixed rate than if the investors receive a rate that varies based on changes in market rates.
+**860-20-55-30** The value of the forward contract implicit in a revolving-period securitization arises from the difference between the agreed-upon rate of return to investors on their beneficial interests in the trust and current market rates of return on similar investments. For example, if the agreed-upon annual rate of return to investors in a trust is 6 percent, and later market rates of return for those investments increased to 7 percent, the forward contract's value to the transferor (and burden to the investors) would approximate the present value of 1 percent of the amount of the investment for each year remaining in the revolving structure after the receivables already transferred have been collected. If a forward contract to sell receivables is entered into at the market rate, its value at inception may be zero. Changes in the fair value of the forward contract are likely to be greater if the investors receive a fixed rate than if the investors receive a rate that varies based on changes in market rates.
+**860-20-55-31** Gain or loss recognition for revolving-period receivables sold to a securitization trust is limited to receivables that exist and have been sold.
+**860-20-55-31** Gain or loss recognition for revolving-period receivables sold to a securitization trust is limited to receivables that exist and have been sold.
+
+##### · > Financial Assets Subject to                Prepayment
+
+**860-20-55-32** Instruments that can be prepaid or otherwise settled in such a way that the holder would not recover substantially all of the recorded investment
+2. Loan that can be prepaid or otherwise settled in such a way that the holder would not recover substantially all of the recorded investment at initial acquisition
+3. Classification of a residual tranche in a securitization as held to maturity.
+
+**860-20-55-32** Instruments that can be prepaid or otherwise settled in such a way that the holder would not recover substantially all of the recorded investment
+2. Loan that can be prepaid or otherwise settled in such a way that the holder would not recover substantially all of the recorded investment at initial acquisition
+3. Classification of a residual tranche in a securitization as held to maturity.
+
+**860-20-55-33** · · > Instruments That Can Be Prepaid or Otherwise Settled in Such a Way That the Holder Would Not Recover Substantially All of the Recorded Investment
+A financial asset
+1. that is not a debt security denominated in a foreign currency
+2. A note for which the repayment amount is indexed to the creditworthiness of a party other than the issuer.
+
+**860-20-55-33** A financial asset
+1. that is not a debt security denominated in a foreign currency
+2. A note for which the repayment amount is indexed to the creditworthiness of a party other than the issuer.
+
+**860-20-55-34** Investing in a financial asset that is denominated in a foreign currency often exposes an entity to foreign currency exchange rate risk; however, that risk is not addressed in paragraph 860-20-35-2.
+**860-20-55-34** Investing in a financial asset that is denominated in a foreign currency often exposes an entity to foreign currency exchange rate risk; however, that risk is not addressed in paragraph 860-20-35-2.
+**860-20-55-35** A financial asset that is not a debt security under Topic 320 is not subject to the requirements of paragraph 860-20-35-2 because it is denominated in a foreign currency.
+**860-20-55-35** A financial asset that is not a debt security under Topic 320 is not subject to the requirements of paragraph 860-20-35-2 because it is denominated in a foreign currency.
+**860-20-55-36** An entity is not required to measure such an investment like a debt security under paragraph 860-20-35-2 unless it has provisions that allow it to be contractually prepaid or otherwise settled in such a way that the holder would not recover substantially all of its recorded investment, as denominated in the foreign currency. For example, an investment denominated in deutsche marks by an entity with a U.S. dollar functional currency would not be subject to that paragraph if the contract requires that substantially all of the invested deutsche marks be repaid.
+**860-20-55-36** An entity is not required to measure such an investment like a debt security under paragraph 860-20-35-2 unless it has provisions that allow it to be contractually prepaid or otherwise settled in such a way that the holder would not recover substantially all of its recorded investment, as denominated in the foreign currency. For example, an investment denominated in deutsche marks by an entity with a U.S. dollar functional currency would not be subject to that paragraph if the contract requires that substantially all of the invested deutsche marks be repaid.
+**860-20-55-37** A note for which the repayment amount is indexed to the creditworthiness of a party other than the issuer is subject to the provisions of paragraph 860-20-35-2 because the event that might cause the holder to receive less than substantially all of its recorded investment is based on a contractual provision, not on a default by the borrower (that is, the issuer of the note). That contractual provision indexes the payment terms of the note to a default by a third party unrelated to the issuer of the note. If that note is within the scope of Subtopic 815-10 the guidance of paragraph 860-20-35-2 would not apply.
+**860-20-55-37** A note for which the repayment amount is indexed to the creditworthiness of a party other than the issuer is subject to the provisions of paragraph 860-20-35-2 because the event that might cause the holder to receive less than substantially all of its recorded investment is based on a contractual provision, not on a default by the borrower (that is, the issuer of the note). That contractual provision indexes the payment terms of the note to a default by a third party unrelated to the issuer of the note. If that note is within the scope of Subtopic 815-10 the guidance of paragraph 860-20-35-2 would not apply.
+**860-20-55-38** · · > Loan That Can Be Prepaid or Otherwise Settled in Such a Way That the Holder Would Not Recover Substantially All of the Recorded Investment at Initial Acquisition
+It would no longer be possible for the holder not to recover substantially all of its recorded investment upon contractual prepayment or settlement.
+2. The conditions for amortized cost accounting are met (for example, paragraphs 310-10-35-47 and 948-310-25-1).
+
+However, any unrealized holding gain or loss arising under the available-for-sale classification that exists at the date of the reclassification would continue to be reported in other comprehensive income but should be amortized over the remaining life of the loan as an adjustment of yield. (The loan would not be classified as held to maturity because under Topic 320 only debt securities may be classified as held to maturity.)
+**860-20-55-38** It would no longer be possible for the holder not to recover substantially all of its recorded investment upon contractual prepayment or settlement.
+2. The conditions for amortized cost accounting are met (for example, paragraphs 310-10-35-47 and 948-310-25-1).
+
+**860-20-55-39** However, any unrealized holding gain or loss arising under the available-for-sale classification that exists at the date of the reclassification would continue to be reported in other comprehensive income but should be amortized over the remaining life of the loan as an adjustment of yield. (The loan would not be classified as held to maturity because under Topic 320 only debt securities may be classified as held to maturity.) · · > Classification of a Residual Tranche in a Securitization as Held to Maturity
+Whether a residual tranche debt security in a securitization of financial assets (for example, receivables) using a securitization entity can be classified as held to maturity depends on the facts and circumstances. If the contractual provisions of the residual tranche debt security provide that the residual tranche can contractually be prepaid or otherwise settled in such a way that the holder would not recover substantially all of its recorded investment, paragraph 860-20-35-2 precludes the residual tranche debt security from being accounted for as held to maturity. In contrast, if the only way that the holder of the residual tranche would not recover substantially all of its recorded investment would be in response to a default by the borrower (debtor), then a held-to-maturity classification is acceptable if the conditions specified for a held-to-maturity classification in paragraphs 320-10-25-1(c) and 320-10-25-5(a) have been met.
+**860-20-55-39** Whether a residual tranche debt security in a securitization of financial assets (for example, receivables) using a securitization entity can be classified as held to maturity depends on the facts and circumstances. If the contractual provisions of the residual tranche debt security provide that the residual tranche can contractually be prepaid or otherwise settled in such a way that the holder would not recover substantially all of its recorded investment, paragraph 860-20-35-2 precludes the residual tranche debt security from being accounted for as held to maturity. In contrast, if the only way that the holder of the residual tranche would not recover substantially all of its recorded investment would be in response to a default by the borrower (debtor), then a held-to-maturity classification is acceptable if the conditions specified for a held-to-maturity classification in paragraphs 320-10-25-1(c) and 320-10-25-5(a) have been met.
+
+##### · > Regaining Control through a                Removal-of-Accounts Provision
+
+**860-20-55-40** This guidance addresses implementation of paragraph 860-20-25-11. Under that paragraph's guidance, if the removal-of-accounts provision is not exercised, the financial assets are recognized because the transferor now can unilaterally cause the transferee to return those specific financial assets and, therefore, the transferor once again has effective control over those transferred financial assets (see paragraphs 860-20-25-8 through 25-10
+).
+**860-20-55-40** This guidance addresses implementation of paragraph 860-20-25-11. Under that paragraph's guidance, if the removal-of-accounts provision is not exercised, the financial assets are recognized because the transferor now can unilaterally cause the transferee to return those specific financial assets and, therefore, the transferor once again has effective control over those transferred financial assets (see paragraphs 860-20-25-8 through 25-10
+**860-20-55-41** ).
+Similarly, when a contingency related to a transferor's contingent right has been met, the transferor generally must account for the repurchase of a specific subset of the financial assets transferred to and held by the entity. When the contingency has been met, the transferor has a unilateral right to purchase a specific transferred financial asset. At that point, the transferor must determine whether the unilateral right to purchase a specific transferred financial asset provides the transferor with a more-than-trivial benefit. If the unilateral right to purchase a specific transferred financial asset provides the transferor with a more-than-trivial benefit, the transfer fails the criterion in paragraph 860-10-40-5(c)(2). The transferor must perform this analysis regardless of whether it intends to exercise its call option.
+**860-20-55-41** Similarly, when a contingency related to a transferor's contingent right has been met, the transferor generally must account for the repurchase of a specific subset of the financial assets transferred to and held by the entity. When the contingency has been met, the transferor has a unilateral right to purchase a specific transferred financial asset. At that point, the transferor must determine whether the unilateral right to purchase a specific transferred financial asset provides the transferor with a more-than-trivial benefit. If the unilateral right to purchase a specific transferred financial asset provides the transferor with a more-than-trivial benefit, the transfer fails the criterion in paragraph 860-10-40-5(c)(2). The transferor must perform this analysis regardless of whether it intends to exercise its call option.
+**860-20-55-42** Although this guidance uses removal-of-accounts provisions as an example, the guidance is not limited to removal-of-accounts provisions. Contingent rights can arise in many other situations. See paragraphs 860-10-55-39 through 55-42
+for more information.
+**860-20-55-42** Although this guidance uses removal-of-accounts provisions as an example, the guidance is not limited to removal-of-accounts provisions. Contingent rights can arise in many other situations. See paragraphs 860-10-55-39 through 55-42
+
+##### · > Example 1: Recording Transfers                with Proceeds of Cash, Derivative Instruments, and Other Liabilities
+
+**860-20-55-43** for more information. > Illustrations
+This Example illustrates the guidance in paragraphs 860-20-25-1 and 860-20-30-1. Entity A transfers entire loans with a carrying amount of $1,000 to an unconsolidated securitization entity and receives proceeds with a fair value of $1,030, and the transfer is accounted for as a sale. Entity A undertakes no obligation to service and assumes a limited recourse obligation to repurchase delinquent loans. Entity A agrees to provide the transferee a return at a variable rate of interest even though the contractual terms of the loan are fixed rate in nature (that provision is effectively an interest rate swap).
+**860-20-55-43** This Example illustrates the guidance in paragraphs 860-20-25-1 and 860-20-30-1. Entity A transfers entire loans with a carrying amount of $1,000 to an unconsolidated securitization entity and receives proceeds with a fair value of $1,030, and the transfer is accounted for as a sale. Entity A undertakes no obligation to service and assumes a limited recourse obligation to repurchase delinquent loans. Entity A agrees to provide the transferee a return at a variable rate of interest even though the contractual terms of the loan are fixed rate in nature (that provision is effectively an interest rate swap).
+**860-20-55-44** This Example has the following assumptions.
+**860-20-55-44** This Example has the following assumptions.
+**860-20-55-45** The following journal entry is made by Entity A.
+**860-20-55-45** The following journal entry is made by Entity A.
+
+##### · > Example 2: Recording Transfers of                Participating Interests
+
+**860-20-55-46** This Example illustrates the guidance in paragraph 860-20-25-1. This Example assumes the conditions for a sale in paragraph 860-10-40-5 are met. Entity B transfers a nine-tenths participating interest in a loan with a fair value of $1,100 and a carrying amount of $1,000, and the transfer is accounted for as a sale. The servicing contract has a fair value of zero because Entity B estimates that the benefits of servicing are just adequate to compensate it for its servicing responsibilities.
+**860-20-55-46** This Example illustrates the guidance in paragraph 860-20-25-1. This Example assumes the conditions for a sale in paragraph 860-10-40-5 are met. Entity B transfers a nine-tenths participating interest in a loan with a fair value of $1,100 and a carrying amount of $1,000, and the transfer is accounted for as a sale. The servicing contract has a fair value of zero because Entity B estimates that the benefits of servicing are just adequate to compensate it for its servicing responsibilities.
+**860-20-55-47** This Example has the following assumptions.
+**860-20-55-47** This Example has the following assumptions.
+**860-20-55-48** The following journal entry is made by Entity B.
+**860-20-55-48** The following journal entry is made by Entity B.
+**860-20-55-49** Paragraphs 860-20-55-49 through 55-57 superseded by Accounting Standards Update No. 2009-16.
+**860-20-55-49** Paragraphs 860-20-55-49 through 55-57 superseded by Accounting Standards Update No. 2009-16.
+
+##### · > Example 5: Transfer of Lease                Receivables with Residual Values
+
+**860-20-55-58** 860-20-25-1At the beginning of the second year in a 10-year sales-type lease, Entity E transfers for $505 a nine-tenths participating interest in the lease receivable to an independent third party, and the transfer is accounted for as a sale. Entity E retains a one-tenth participating interest in the lease receivable and a 100 percent interest in the unguaranteed residual asset, which is not subject to the requirements of this Subtopic as discussed in paragraph 860-10-55-6 because it is not a financial asset and, therefore, is excluded from the analysis of whether the transfer of the nine-tenths participating interest in the lease receivable meets the definition of a participating interest. The servicing asset has a fair value of zero because Entity E estimates that the benefits of servicing are just adequate to compensate it for its servicing responsibilities. The carrying amounts and related gain computation are as follows.
+**860-20-55-58** 860-20-25-1At the beginning of the second year in a 10-year sales-type lease, Entity E transfers for $505 a nine-tenths participating interest in the lease receivable to an independent third party, and the transfer is accounted for as a sale. Entity E retains a one-tenth participating interest in the lease receivable and a 100 percent interest in the unguaranteed residual asset, which is not subject to the requirements of this Subtopic as discussed in paragraph 860-10-55-6 because it is not a financial asset and, therefore, is excluded from the analysis of whether the transfer of the nine-tenths participating interest in the lease receivable meets the definition of a participating interest. The servicing asset has a fair value of zero because Entity E estimates that the benefits of servicing are just adequate to compensate it for its servicing responsibilities. The carrying amounts and related gain computation are as follows.
+**860-20-55-59** The following journal entry is made by Entity E.
+**860-20-55-59** The following journal entry is made by Entity E.
+**860-20-55-60** Paragraphs 860-20-55-60 through 55-82 superseded by Accounting Standards Update No. 2009-16.
+**860-20-55-60** Paragraphs 860-20-55-60 through 55-82 superseded by Accounting Standards Update No. 2009-16.
+
+##### · > Example 10: Rerecognition of                Transferred Assets and Subsequent Accounting for Transferor's Interest and a                Servicing Asset
+
+**860-20-55-83** This Example illustrates the accounting for a sale of loans in their entirety by a transferor to an unconsolidated entity and the subsequent accounting for the transferor's interest and a servicing asset. In this Example, the transferor's interest is an interest-only strip
+that is accounted for at fair value in the same manner as an available-for-sale security under paragraph 860-20-35-2.
+**860-20-55-83** This Example illustrates the accounting for a sale of loans in their entirety by a transferor to an unconsolidated entity and the subsequent accounting for the transferor's interest and a servicing asset. In this Example, the transferor's interest is an interest-only strip
+**860-20-55-84** that is accounted for at fair value in the same manner as an available-for-sale security under paragraph 860-20-35-2.
+This Example has the following assumptions.
+**860-20-55-84** This Example has the following assumptions.
+**860-20-55-85** On January 2, 20X1, Entity I (the transferor) originates $1,000 of loans, yielding 10.5 percent interest income for their estimated life of 9 years. Entity I later transfers the loans in their entirety to an unconsolidated entity and accounts for the transfer as a sale. Entity I receives as proceeds $1,000 cash plus a beneficial interest that entitles it to receive 1 percent of the contractual interest (an interest-only strip receivable). Entity I will continue to service the loans for a fee of 100 basis points. The guarantor, a third party, receives 50 basis points as a guarantee fee.
+**860-20-55-85** On January 2, 20X1, Entity I (the transferor) originates $1,000 of loans, yielding 10.5 percent interest income for their estimated life of 9 years. Entity I later transfers the loans in their entirety to an unconsolidated entity and accounts for the transfer as a sale. Entity I receives as proceeds $1,000 cash plus a beneficial interest that entitles it to receive 1 percent of the contractual interest (an interest-only strip receivable). Entity I will continue to service the loans for a fee of 100 basis points. The guarantor, a third party, receives 50 basis points as a guarantee fee.
+**860-20-55-86** The fair value of the servicing asset is $40.
+2. The total fair value of the loans including servicing is $1,040.
+3. The fair value of the interest-income strip receivable is $60.
+
+**860-20-55-86** The fair value of the servicing asset is $40.
+2. The total fair value of the loans including servicing is $1,040.
+3. The fair value of the interest-income strip receivable is $60.
+
+**860-20-55-87** On December 1, 20X1, an event occurs that results in the transfer not meeting the conditions for sale accounting. The fair value of the originally transferred financial assets that remain outstanding in the entity on that date is $929. The fair value of Entity I's interest (in the form of an interest-only strip) on that date is $58. The fair value of the servicing asset on that date is $38. The guarantee that was entered into by the entity does not trade with the underlying financial assets. The fees on this guarantee will be paid as part of the cash waterfall.
+**860-20-55-87** On December 1, 20X1, an event occurs that results in the transfer not meeting the conditions for sale accounting. The fair value of the originally transferred financial assets that remain outstanding in the entity on that date is $929. The fair value of Entity I's interest (in the form of an interest-only strip) on that date is $58. The fair value of the servicing asset on that date is $38. The guarantee that was entered into by the entity does not trade with the underlying financial assets. The fees on this guarantee will be paid as part of the cash waterfall.
+**860-20-55-88** All cash flows from the financial assets transferred to the trust are initially sent directly to the trust and then distributed in order of priority. The priority of payments in the cash waterfall is as follows: servicing fees, guarantees, amounts due to outside beneficial interest holders, and amounts due to Transferor's beneficial interest.
+**860-20-55-88** All cash flows from the financial assets transferred to the trust are initially sent directly to the trust and then distributed in order of priority. The priority of payments in the cash waterfall is as follows: servicing fees, guarantees, amounts due to outside beneficial interest holders, and amounts due to Transferor's beneficial interest.
+**860-20-55-89** Paragraph superseded by Accounting Standards Update No. 2009-16.
+**860-20-55-89** Paragraph superseded by Accounting Standards Update No. 2009-16.
+**860-20-55-90** The following journal entries would be made. January 2, 20X1
+December 1, 20X1
+**860-20-55-90** The following journal entries would be made. January 2, 20X1
+December 1, 20X1
+**860-20-55-91** The following illustrates the accounting entry to be made after the event occurs that results in the transfer not meeting the conditions for sale accounting. December 1, 20X1
+**860-20-55-91** The following illustrates the accounting entry to be made after the event occurs that results in the transfer not meeting the conditions for sale accounting. December 1, 20X1
+**860-20-55-92** Entity I would continue to account for transferor's interests (in accordance with paragraph 320-10-35-1) at fair value with changes in fair value recognized in other comprehensive income.
+2. Entity I would account for the loans at cost plus accrued interest in accordance with Subtopic 310-20.
+
+**860-20-55-92** Entity I would continue to account for transferor's interests (in accordance with paragraph 320-10-35-1) at fair value with changes in fair value recognized in other comprehensive income.
+2. Entity I would account for the loans at cost plus accrued interest in accordance with Subtopic 310-20.
+
+**860-20-55-93** Paragraphs 860-20-55-93 through 55-107 superseded by Accounting Standards Update No. 2009-16.
+**860-20-55-93** Paragraphs 860-20-55-93 through 55-107 superseded by Accounting Standards Update No. 2009-16.
+
+##### · > Example 11: Disclosure of Certain                Transfers of Financial Assets Accounted for as Sales with Agreements That Result in                the Transferor Retaining Substantially All of the Exposure to the Economic Return on                the Transferred Financial Asset
+
+**860-20-55-108** This Example illustrates one approach for satisfying the quantitative disclosure requirements in paragraph 860-20-50-4D.
+**860-20-55-108** This Example illustrates one approach for satisfying the quantitative disclosure requirements in paragraph 860-20-50-4D.
+
+## 00 Status
+
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+
+### General
+
+**860-30-00-1** The following table identifies the changes made to this Subtopic.
+
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Beneficial Interests | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Financial Asset (2nd def.) | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| Not-for-Profit Entity | Added | Accounting Standards Update No. 2023-06 | 10/09/2023 |
+| Public Business Entity | Added | Accounting Standards Update No. 2023-06 | 10/09/2023 |
+| Repurchase Agreement | Added | Accounting Standards Update No. 2014-11 | 06/12/2014 |
+| Repurchase Agreement Accounted for as a Collateralized Borrowing | Added | Accounting Standards Update No. 2014-11 | 06/12/2014 |
+| Repurchase-to-Maturity Transaction | Added | Accounting Standards Update No. 2014-11 | 06/12/2014 |
+| Reverse Repurchase Agreement Accounted for as a Collateralized Borrowing | Added | Accounting Standards Update No. 2014-11 | 06/12/2014 |
+| Security | Added | Accounting Standards Update No. 2023-06 | 10/09/2023 |
+| Transferee | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Transferor | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-30-10-1 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-30-15-1 | Amended | Accounting Standards Update No. 2023-06 | 10/09/2023 |
+| 860-30-25-2 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-30-25-6 | Amended | Accounting Standards Update No. 2014-11 | 06/12/2014 |
+| 860-30-25-7 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-30-45-2 | Amended | Accounting Standards Update No. 2023-06 | 10/09/2023 |
+| 860-30-45-2A | Added | Accounting Standards Update No. 2023-06 | 10/09/2023 |
+| 860-30-45-3 | Amended | Accounting Standards Update No. 2023-06 | 10/09/2023 |
+| 860-30-45-3 | Amended | Maintenance Update 2015-11 | 06/19/2015 |
+| 860-30-50-1 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-30-50-1A | Amended | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| 860-30-50-1A | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-30-50-2 through 50-5 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-30-50-6 | Superseded | Accounting Standards Update No. 2014-11 | 06/12/2014 |
+| 860-30-50-6 | Added | Accounting Standards Update No. 2013-01 | 01/31/2013 |
+| 860-30-50-7 | Amended | Accounting Standards Update No. 2023-06 | 10/09/2023 |
+| 860-30-50-7 | Added | Accounting Standards Update No. 2014-11 | 06/12/2014 |
+| 860-30-50-8 | Added | Accounting Standards Update No. 2014-11 | 06/12/2014 |
+| 860-30-50-9 through 50-12 | Added | Accounting Standards Update No. 2023-06 | 10/09/2023 |
+| 860-30-55-4 | Amended | Accounting Standards Update No. 2023-06 | 10/09/2023 |
+| 860-30-55-4 | Amended | Maintenance Update 2016-11 | 06/27/2016 |
+| 860-30-55-4 | Added | Accounting Standards Update No. 2014-11 | 06/12/2014 |
+| 860-30-60-1 | Amended | Accounting Standards Update No. 2014-11 | 06/12/2014 |
+
+**860-30-00-1** The following table identifies the changes made to this Subtopic.
+
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Beneficial Interests | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Financial Asset (2nd def.) | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| Not-for-Profit Entity | Added | Accounting Standards Update No. 2023-06 | 10/09/2023 |
+| Public Business Entity | Added | Accounting Standards Update No. 2023-06 | 10/09/2023 |
+| Repurchase Agreement | Added | Accounting Standards Update No. 2014-11 | 06/12/2014 |
+| Repurchase Agreement Accounted for as a Collateralized Borrowing | Added | Accounting Standards Update No. 2014-11 | 06/12/2014 |
+| Repurchase-to-Maturity Transaction | Added | Accounting Standards Update No. 2014-11 | 06/12/2014 |
+| Reverse Repurchase Agreement Accounted for as a Collateralized Borrowing | Added | Accounting Standards Update No. 2014-11 | 06/12/2014 |
+| Security | Added | Accounting Standards Update No. 2023-06 | 10/09/2023 |
+| Transferee | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Transferor | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-30-10-1 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-30-15-1 | Amended | Accounting Standards Update No. 2023-06 | 10/09/2023 |
+| 860-30-25-2 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-30-25-6 | Amended | Accounting Standards Update No. 2014-11 | 06/12/2014 |
+| 860-30-25-7 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-30-45-2 | Amended | Accounting Standards Update No. 2023-06 | 10/09/2023 |
+| 860-30-45-2A | Added | Accounting Standards Update No. 2023-06 | 10/09/2023 |
+| 860-30-45-3 | Amended | Accounting Standards Update No. 2023-06 | 10/09/2023 |
+| 860-30-45-3 | Amended | Maintenance Update 2015-11 | 06/19/2015 |
+| 860-30-50-1 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-30-50-1A | Amended | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| 860-30-50-1A | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-30-50-2 through 50-5 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-30-50-6 | Superseded | Accounting Standards Update No. 2014-11 | 06/12/2014 |
+| 860-30-50-6 | Added | Accounting Standards Update No. 2013-01 | 01/31/2013 |
+| 860-30-50-7 | Amended | Accounting Standards Update No. 2023-06 | 10/09/2023 |
+| 860-30-50-7 | Added | Accounting Standards Update No. 2014-11 | 06/12/2014 |
+| 860-30-50-8 | Added | Accounting Standards Update No. 2014-11 | 06/12/2014 |
+| 860-30-50-9 through 50-12 | Added | Accounting Standards Update No. 2023-06 | 10/09/2023 |
+| 860-30-55-4 | Amended | Accounting Standards Update No. 2023-06 | 10/09/2023 |
+| 860-30-55-4 | Amended | Maintenance Update 2016-11 | 06/27/2016 |
+| 860-30-55-4 | Added | Accounting Standards Update No. 2014-11 | 06/12/2014 |
+| 860-30-60-1 | Amended | Accounting Standards Update No. 2014-11 | 06/12/2014 |
+
+## 05 Overview and Background
+
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+
+### General
+
+**860-30-05-1** This Subtopic provides guidance on transactions that are accounted for as secured borrowings with a transfer
+of collateral.
+**860-30-05-1** This Subtopic provides guidance on transactions that are accounted for as secured borrowings with a transfer
+**860-30-05-2** of collateral.
+A debtor (obligor) may grant a security interest
+in certain assets to a lender (the secured party) to serve as collateral for its obligation under a borrowing, with or without recourse to other assets of the obligor. An obligor under other kinds of current or potential obligations, for example, interest rate swaps, also may grant a security interest in certain assets to a secured party.
+**860-30-05-2** A debtor (obligor) may grant a security interest
+**860-30-05-3** in certain assets to a lender (the secured party) to serve as collateral for its obligation under a borrowing, with or without recourse to other assets of the obligor. An obligor under other kinds of current or potential obligations, for example, interest rate swaps, also may grant a security interest in certain assets to a secured party.
+If collateral is transferred to the secured party, the custodial arrangement is commonly referred to as a pledge. Secured parties sometimes are permitted to sell or repledge (or otherwise transfer) collateral held under a pledge. The same relationships occur, under different names, in transfers documented as sales that are accounted for as secured borrowings (see paragraph 860-30-25-2).
+**860-30-05-3** If collateral is transferred to the secured party, the custodial arrangement is commonly referred to as a pledge. Secured parties sometimes are permitted to sell or repledge (or otherwise transfer) collateral held under a pledge. The same relationships occur, under different names, in transfers documented as sales that are accounted for as secured borrowings (see paragraph 860-30-25-2).
+
+## 10 Objectives
+
+General Note:The Objectives Section provides the high-level objectives that the Subtopic is intended to accomplish or attain. The Section does not summarize or discuss the main principles of accounting and reporting requirements.
+
+### General
+
+**860-30-10-1** Paragraph superseded by Accounting Standards Update No. 2009-16.
+**860-30-10-1** Paragraph superseded by Accounting Standards Update No. 2009-16.
+
+## 15 Scope and Scope Exceptions
+
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+
+General Note for Financial Instruments:Some of the items subject to the guidance in this Subtopic are financial instruments
+
+### General
+
+**860-30-15-1** . For guidance on matters related broadly to all financial instruments, (including the fair value option, accounting for registration payment arrangements, and broad financial instrument disclosure requirements), see Topic 825. See Section 825-10-15 for guidance on the scope of the Financial Instruments Topic.> Overall Guidance
+This Subtopic follows the same Scope and Scope Exceptions as outlined in the Overall Subtopic, see Section 860-10-15, with specific transaction qualifications noted below.
+PENDING CONTENT Transition date: June 30, 2027; June 30, 2027Transition guidance: 105-10-65-7 This Subtopic follows the same Scope and Scope Exceptions as outlined in the Overall Subtopic, see Section 860-10-15, with specific transaction qualifications noted below. Paragraph 860-30-50-7(d) applies to public business entities only.
+This Subtopic follows the same Scope and Scope Exceptions as outlined in the Overall Subtopic, see Section 860-10-15, with specific transaction qualifications noted below.
+**860-30-15-2** PENDING CONTENT Transition date: June 30, 2027; June 30, 2027Transition guidance: 105-10-65-7 This Subtopic follows the same Scope and Scope Exceptions as outlined in the Overall Subtopic, see Section 860-10-15, with specific transaction qualifications noted below. Paragraph 860-30-50-7(d) applies to public business entities only. > Transactions
+The collateral
+accounting provisions of paragraphs 860-30-25-5, 860-30-30-1, and 860-30-45-1 apply to all transfers of financial assets pledged as collateral in a transaction accounted for as a secured borrowing.
+The collateral
+**860-30-15-3** accounting provisions of paragraphs 860-30-25-5, 860-30-30-1, and 860-30-45-1 apply to all transfers of financial assets pledged as collateral in a transaction accounted for as a secured borrowing.
+Repurchase agreements
+2. Dollar rolls
+3. Securities lending transactions.
+
+Repurchase agreements
+2. Dollar rolls
+3. Securities lending transactions.
+
+## 20 Glossary
+
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+
+##### Agent
+
+A party that acts for and on behalf of another party. For example, a third-party intermediary is an agent of the transferor if it acts on behalf of the transferor.
+A party that acts for and on behalf of another party. For example, a third-party intermediary is an agent of the transferor if it acts on behalf of the transferor.
+
+##### Beneficial Interests
+
+1. Senior and subordinated shares of interest, principal, or other cash inflows to be passed-through or paid-through
+2. Premiums due to guarantors
+3. Commercial paper obligations
+4. Residual interests, whether in the form of debt or equity.
+
+Senior and subordinated shares of interest, principal, or other cash inflows to be passed-through or paid-through
+2. Premiums due to guarantors
+3. Commercial paper obligations
+4. Residual interests, whether in the form of debt or equity.
+
+##### Collateral
+
+Personal or real property in which a security interest has been given.
+Personal or real property in which a security interest has been given.
+
+##### Derecognize
+
+Remove previously recognized assets or liabilities from the statement of financial position.
+Remove previously recognized assets or liabilities from the statement of financial position.
+
+##### Financial Asset
+
+1. Receive cash or another financial instrument from a second entity
+2. Exchange other financial instruments on potentially favorable terms with the second entity.
+
+Receive cash or another financial instrument from a second entity
+2. Exchange other financial instruments on potentially favorable terms with the second entity.
+
+##### Not-for-Profit Entity
+
+1. Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
+2. Operating purposes other than to provide goods or services at a profit
+3. Absence of ownership interests like those of business entities.
+
+1. All investor-owned entities
+2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
+
+Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
+2. Operating purposes other than to provide goods or services at a profit
+3. Absence of ownership interests like those of business entities.
+
+All investor-owned entities
+2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
+
+##### Participating Interest
+
+Paragraph 860-10-40-6A defines the term participating interest.
+Paragraph 860-10-40-6A defines the term participating interest.
+
+##### Public Business Entity
+
+1. It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing).
+2. It is required by the Securities Exchange Act of 1934 (the Act), as amended, or rules or regulations promulgated under the Act, to file or furnish financial statements with a regulatory agency other than the SEC.
+3. It is required to file or furnish financial statements with a foreign or domestic regulatory agency in preparation for the sale of or for purposes of issuing securities that are not subject to contractual restrictions on transfer.
+4. It has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market.
+5. It has one or more securities that are not subject to contractual restrictions on transfer, and it is required by law, contract, or regulation to prepare U.S. GAAP financial statements (including notes) and make them publicly available on a periodic basis (for example, interim or annual periods). An entity must meet both of these conditions to meet this criterion.
+
+An entity may meet the definition of a public business entity solely because its financial statements or financial information is included in another entity's filing with the SEC. In that case, the entity is only a public business entity for purposes of financial statements that are filed or furnished with the SEC.
+It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing).
+2. It is required by the Securities Exchange Act of 1934 (the Act), as amended, or rules or regulations promulgated under the Act, to file or furnish financial statements with a regulatory agency other than the SEC.
+3. It is required to file or furnish financial statements with a foreign or domestic regulatory agency in preparation for the sale of or for purposes of issuing securities that are not subject to contractual restrictions on transfer.
+4. It has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market.
+5. It has one or more securities that are not subject to contractual restrictions on transfer, and it is required by law, contract, or regulation to prepare U.S. GAAP financial statements (including notes) and make them publicly available on a periodic basis (for example, interim or annual periods). An entity must meet both of these conditions to meet this criterion.
+
+##### Recourse
+
+1. Failure of debtors to pay when due
+2. The effects of prepayments
+3. Adjustments resulting from defects in the eligibility of the transferred receivables.
+
+Failure of debtors to pay when due
+2. The effects of prepayments
+3. Adjustments resulting from defects in the eligibility of the transferred receivables.
+
+##### Repurchase Agreement
+
+An agreement under which the transferor (repo party) transfers a financial asset to a transferee (repo counterparty or reverse party) in exchange for cash and concurrently agrees to reacquire that financial asset at a future date for an amount equal to the cash exchanged plus or minus a stipulated interest factor. Instead of cash, other securities or letters of credit sometimes are exchanged. Some repurchase agreements call for repurchase of financial assets that need not be identical to the financial assets transferred.
+An agreement under which the transferor (repo party) transfers a financial asset to a transferee (repo counterparty or reverse party) in exchange for cash and concurrently agrees to reacquire that financial asset at a future date for an amount equal to the cash exchanged plus or minus a stipulated interest factor. Instead of cash, other securities or letters of credit sometimes are exchanged. Some repurchase agreements call for repurchase of financial assets that need not be identical to the financial assets transferred.
+
+##### Repurchase Agreement Accounted for as a Collateralized Borrowing
+
+A repurchase agreement (repo) refers to a transaction in which a seller-borrower of securities sells those securities to a buyer-lender with an agreement to repurchase them at a stated price plus interest at a specified date or in specified circumstances. A repurchase agreement accounted for as a collateralized borrowing is a repo that does not qualify for sale accounting under Topic 860. The payable under a repurchase agreement accounted for as a collateralized borrowing refers to the amount of the seller-borrower's obligation recognized for the future repurchase of the securities from the buyer-lender. In certain industries, the terminology is reversed; that is, entities in those industries refer to this type of agreement as a reverse repo.
+A repurchase agreement (repo) refers to a transaction in which a seller-borrower of securities sells those securities to a buyer-lender with an agreement to repurchase them at a stated price plus interest at a specified date or in specified circumstances. A repurchase agreement accounted for as a collateralized borrowing is a repo that does not qualify for sale accounting under Topic 860. The payable under a repurchase agreement accounted for as a collateralized borrowing refers to the amount of the seller-borrower's obligation recognized for the future repurchase of the securities from the buyer-lender. In certain industries, the terminology is reversed; that is, entities in those industries refer to this type of agreement as a reverse repo.
+
+##### Repurchase-to-Maturity Transaction
+
+A repurchase agreement in which the settlement date of the agreement to repurchase a transferred financial asset is at the maturity date of that financial asset and the agreement would not require the transferor to reacquire the financial asset.
+A repurchase agreement in which the settlement date of the agreement to repurchase a transferred financial asset is at the maturity date of that financial asset and the agreement would not require the transferor to reacquire the financial asset.
+
+##### Reverse Repurchase Agreement Accounted for as a Collateralized Borrowing
+
+A reverse repurchase agreement accounted for as a collateralized borrowing (also known as a reverse repo) refers to a transaction that is accounted for as a collateralized lending in which a buyer-lender buys securities with an agreement to resell them to the seller-borrower at a stated price plus interest at a specified date or in specified circumstances. The receivable under a reverse repurchase agreement accounted for as a collateralized borrowing refers to the amount due from the seller-borrower for the repurchase of the securities from the buyer-lender. In certain industries, the terminology is reversed; that is, entities in those industries refer to this type of agreement as a repo.
+A reverse repurchase agreement accounted for as a collateralized borrowing (also known as a reverse repo) refers to a transaction that is accounted for as a collateralized lending in which a buyer-lender buys securities with an agreement to resell them to the seller-borrower at a stated price plus interest at a specified date or in specified circumstances. The receivable under a reverse repurchase agreement accounted for as a collateralized borrowing refers to the amount due from the seller-borrower for the repurchase of the securities from the buyer-lender. In certain industries, the terminology is reversed; that is, entities in those industries refer to this type of agreement as a repo.
+
+##### Security
+
+1. It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
+2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
+3. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
+
+It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
+2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
+3. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
+
+##### Security Interest
+
+A form of interest in property that provides that upon default of the obligation for which the security interest is given, the property may be sold to satisfy that obligation.
+A form of interest in property that provides that upon default of the obligation for which the security interest is given, the property may be sold to satisfy that obligation.
+
+##### Transfer
+
+1. Selling a receivable
+2. Putting a receivable into a securitization trust
+3. Posting a receivable as collateral.
+
+1. The origination of a receivable
+2. Settlement of a receivable
+3. The restructuring of a receivable into a security in a troubled debt restructuring.
+
+The conveyance of a noncash financial asset by and to someone other than the issuer of that financial asset.
+Selling a receivable
+2. Putting a receivable into a securitization trust
+3. Posting a receivable as collateral.
+
+The origination of a receivable
+2. Settlement of a receivable
+3. The restructuring of a receivable into a security in a troubled debt restructuring.
+
+##### Transferee
+
+An entity that receives a financial asset, an interest in a financial asset, or a group of financial assets from a transferor.
+An entity that receives a financial asset, an interest in a financial asset, or a group of financial assets from a transferor.
+
+##### Transferor
+
+An entity that transfers a financial asset, an interest in a financial asset, or a group of financial assets that it controls to another entity.
+An entity that transfers a financial asset, an interest in a financial asset, or a group of financial assets that it controls to another entity.
+
+## 25 Recognition
+
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+
+General Note for Fair Value Option:Some of the items subject to the guidance in this Subtopic may qualify for application of the Fair Value Option Subsections of Subtopic 825-10. Those Subsections (see paragraph 825-10-05-5) address circumstances in which entities may choose, at specified election dates, to measure eligible items at fair value (the fair value option). See Section 825-10-15 for guidance on the scope of the Fair Value Option Subsections of the Financial Instruments Topic.
+
+### General
+
+This Section provides guidance on the recognition of transfers
+1. Cash collateral
+2. Noncash collateral
+3. Cash or securities received as proceeds
+4. Sales of collateral received.
+
+This Section provides guidance on the recognition of transfers
+1. Cash collateral
+2. Noncash collateral
+3. Cash or securities received as proceeds
+4. Sales of collateral received.
+
+The transferor
+1. If a transfer of an entire financial asset, a group of entire financial assets, or a participating interest in an entire financial asset does not meet the conditions for a sale in paragraph 860-10-40-5
+2. If a transfer of a portion of an entire financial asset does not meet the definition of a participating interest.
+
+The transferor shall continue to report the transferred financial asset in its statement of financial position with no change in the asset's measurement (that is, basis of accounting).
+The transferor
+1. If a transfer of an entire financial asset, a group of entire financial assets, or a participating interest in an entire financial asset does not meet the conditions for a sale in paragraph 860-10-40-5
+2. If a transfer of a portion of an entire financial asset does not meet the definition of a participating interest.
+
+**860-30-25-3** The transferor shall continue to report the transferred financial asset in its statement of financial position with no change in the asset's measurement (that is, basis of accounting). > Cash Collateral
+Transfers of financial assets in exchange for cash collateral cannot be distinguished from borrowing cash. Further, because cash is fungible, it is impossible to determine whether it has been used by the secured party. Accordingly, all cash collateral shall be recorded as an asset by the party receiving it (the secured party), together with a liability for the obligation to return it to the payer (obligor), whose asset is a receivable.
+Transfers of financial assets in exchange for cash collateral cannot be distinguished from borrowing cash. Further, because cash is fungible, it is impossible to determine whether it has been used by the secured party. Accordingly, all cash collateral shall be recorded as an asset by the party receiving it (the secured party), together with a liability for the obligation to return it to the payer (obligor), whose asset is a receivable.
+Cash collateral used, for example, in securities lending transactions (see paragraphs 860-10-05-16 through 05-18
+) shall be derecognized by the obligor and recognized by the secured party, not as collateral but rather as proceeds of either a sale or a borrowing. See paragraphs 860-30-25-6 through 25-9 for further discussion of recognition of cash and noncash collateral as proceeds of a transfer.
+Cash collateral used, for example, in securities lending transactions (see paragraphs 860-10-05-16 through 05-18
+**860-30-25-5** ) shall be derecognized by the obligor and recognized by the secured party, not as collateral but rather as proceeds of either a sale or a borrowing. See paragraphs 860-30-25-6 through 25-9 for further discussion of recognition of cash and noncash collateral as proceeds of a transfer. > Noncash Collateral
+If the secured party (transferee) has the right by contract or custom to sell or repledge the collateral, then paragraph 860-30-45-1 requires that the obligor (transferor) reclassify that asset and report that asset in its statement of financial position separately (for example, as security pledged to creditors) from other assets not so encumbered.
+2. If the secured party (transferee) sells collateral pledged to it, it shall recognize the proceeds from the sale and its obligation to return the collateral. The sale of the collateral is a transfer subject to the provisions of this Topic.
+3. If the obligor (transferor) defaults under the terms of the secured contract and is no longer entitled to redeem the pledged asset, it shall derecognize the pledged asset as required by paragraph 860-30-40-1 and the secured party (transferee) shall recognize the collateral as its asset. (See paragraph 860-30-30-1 for guidance on the secured party's initial measurement of collateral recognized. See paragraph 860-30-40-1 for further guidance if the debtor has sold the collateral.)
+4. Except as provided in paragraph 860-30-40-1 the obligor (transferor) shall continue to carry the collateral as its asset, and the secured party (transferee) shall not recognize the pledged asset.
+
+If the secured party (transferee) has the right by contract or custom to sell or repledge the collateral, then paragraph 860-30-45-1 requires that the obligor (transferor) reclassify that asset and report that asset in its statement of financial position separately (for example, as security pledged to creditors) from other assets not so encumbered.
+2. If the secured party (transferee) sells collateral pledged to it, it shall recognize the proceeds from the sale and its obligation to return the collateral. The sale of the collateral is a transfer subject to the provisions of this Topic.
+3. If the obligor (transferor) defaults under the terms of the secured contract and is no longer entitled to redeem the pledged asset, it shall derecognize the pledged asset as required by paragraph 860-30-40-1 and the secured party (transferee) shall recognize the collateral as its asset. (See paragraph 860-30-30-1 for guidance on the secured party's initial measurement of collateral recognized. See paragraph 860-30-40-1 for further guidance if the debtor has sold the collateral.)
+4. Except as provided in paragraph 860-30-40-1 the obligor (transferor) shall continue to carry the collateral as its asset, and the secured party (transferee) shall not recognize the pledged asset.
+
+**860-30-25-6** > Cash or Securities Received as Proceeds
+Paragraph 860-10-55-55A discusses securities lending transactions in which the criteria in paragraph 860-10-40-5 for a sale are met. The following guidance relates to securities lending or similar transactions in which a transferor (lender) transfers securities and receives either cash or securities as collateral and the transfer does not meet the sale criteria in that paragraph.
+Paragraph 860-10-55-55A discusses securities lending transactions in which the criteria in paragraph 860-10-40-5 for a sale are met. The following guidance relates to securities lending or similar transactions in which a transferor (lender) transfers securities and receives either cash or securities as collateral and the transfer does not meet the sale criteria in that paragraph.
+Many securities lending transactions are accompanied by an agreement that both entitles and obligates the transferor to repurchase or redeem the transferred financial assets before their maturity. Paragraph 860-10-40-24 states that an agreement that both entitles and obligates the transferor to repurchase or redeem transferred financial assets from the transferee maintains the transferor's effective control over those assets as described in paragraph 860-10-40-5(c)(1), if all of the conditions in paragraph 860-10-40-24 are met. Those transactions shall be accounted for as secured borrowings, in which either cash or securities that the holder is permitted by contract or custom to sell or repledge received as collateral are considered the amount borrowed, the securities loaned are considered pledged as collateral against the cash borrowed and reclassified as set forth in paragraph 860-30-25-5(a), and any rebate paid to the transferee of securities is interest on the cash the transferor is considered to have borrowed.
+Many securities lending transactions are accompanied by an agreement that both entitles and obligates the transferor to repurchase or redeem the transferred financial assets before their maturity. Paragraph 860-10-40-24 states that an agreement that both entitles and obligates the transferor to repurchase or redeem transferred financial assets from the transferee maintains the transferor's effective control over those assets as described in paragraph 860-10-40-5(c)(1), if all of the conditions in paragraph 860-10-40-24 are met. Those transactions shall be accounted for as secured borrowings, in which either cash or securities that the holder is permitted by contract or custom to sell or repledge received as collateral are considered the amount borrowed, the securities loaned are considered pledged as collateral against the cash borrowed and reclassified as set forth in paragraph 860-30-25-5(a), and any rebate paid to the transferee of securities is interest on the cash the transferor is considered to have borrowed.
+In a securities lending transaction, the transferor of securities being loaned accounts for cash received in the same way whether the transfer is accounted for as a sale or a secured borrowing. Cash collateral or securities received as collateral that a securities lender is permitted to sell or repledge are the proceeds of a borrowing secured by them. The cash received shall be recognized as the transferor's asset, as shall investments made with that cash, even if made by agents
+or in pools with other securities lenders, along with the obligation to return the cash. If securities that may be sold or repledged are received, the transferor of the securities being loaned accounts for those securities in the same way as it would account for cash received. See Example 1 (paragraph 860-30-55-1) for an illustration of a securities lending transaction that is accounted for as a secured borrowing in which cash collateral is transferred.
+In a securities lending transaction, the transferor of securities being loaned accounts for cash received in the same way whether the transfer is accounted for as a sale or a secured borrowing. Cash collateral or securities received as collateral that a securities lender is permitted to sell or repledge are the proceeds of a borrowing secured by them. The cash received shall be recognized as the transferor's asset, as shall investments made with that cash, even if made by agents
+**860-30-25-9** or in pools with other securities lenders, along with the obligation to return the cash. If securities that may be sold or repledged are received, the transferor of the securities being loaned accounts for those securities in the same way as it would account for cash received. See Example 1 (paragraph 860-30-55-1) for an illustration of a securities lending transaction that is accounted for as a secured borrowing in which cash collateral is transferred.
+As noted in paragraphs 860-30-25-4 and 860-30-25-8, the collateral accounting provisions do not apply to cash, or securities that can be sold or pledged for cash, received as so-called collateral for noncash financial assets, for example, in certain securities lending transactions. Such cash or securities that can be sold or pledged for cash are accounted for as proceeds of either a sale or a borrowing.
+As noted in paragraphs 860-30-25-4 and 860-30-25-8, the collateral accounting provisions do not apply to cash, or securities that can be sold or pledged for cash, received as so-called collateral for noncash financial assets, for example, in certain securities lending transactions. Such cash or securities that can be sold or pledged for cash are accounted for as proceeds of either a sale or a borrowing.
+**860-30-25-10** > Sales of Collateral Held
+Obligations to return to the transferor assets borrowed and then sold have sometimes been effectively recognized as part of a liability for securities sold but not yet purchased, and this Section does not require any change in that practice.
+Obligations to return to the transferor assets borrowed and then sold have sometimes been effectively recognized as part of a liability for securities sold but not yet purchased, and this Section does not require any change in that practice.
+
+## 30 Initial Measurement
+
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+
+### General
+
+**860-30-30-1** > Noncash Collateral
+Noncash collateral
+recognized by the secured party as its asset under paragraph 860-30-25-5(c) that the secured party has not already sold shall be initially measured at fair value.
+**860-30-30-1** Noncash collateral
+
+## 35 Subsequent Measurement
+
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+
+### General
+
+**860-30-35-1** This Section provides subsequent measurement guidance for the following assets and liabilities related to transfers
+1. Pledged assets required to be reclassified
+2. Obligation to return transferred collateral.
+
+**860-30-35-1** This Section provides subsequent measurement guidance for the following assets and liabilities related to transfers
+1. Pledged assets required to be reclassified
+2. Obligation to return transferred collateral.
+
+**860-30-35-2** > Pledged Assets Required to Be Reclassified
+A transferor
+that has transferred collateral that must be reclassified in accordance with paragraph 860-30-25-5(a) (for example, as securities pledged to creditors) shall not change its measurement of that collateral. The transferor shall follow the same measurement principles as before the transfer. For example, securities reclassified from the available-for-sale category to securities pledged to creditors should continue to be measured at fair value, with changes in fair value reported in comprehensive income, while debt securities reclassified from the held-to-maturity category to securities pledged to creditors should continue to be measured at amortized cost. See Topic 320 for guidance related to measurement of investments in securities classified as available for sale and held to maturity.
+**860-30-35-2** A transferor
+**860-30-35-3** that has transferred collateral that must be reclassified in accordance with paragraph 860-30-25-5(a) (for example, as securities pledged to creditors) shall not change its measurement of that collateral. The transferor shall follow the same measurement principles as before the transfer. For example, securities reclassified from the available-for-sale category to securities pledged to creditors should continue to be measured at fair value, with changes in fair value reported in comprehensive income, while debt securities reclassified from the held-to-maturity category to securities pledged to creditors should continue to be measured at amortized cost. See Topic 320 for guidance related to measurement of investments in securities classified as available for sale and held to maturity.> Obligation to Return Transferred Collateral
+This Section does not provide specific guidance on the subsequent measurement of the obligation to return transferred collateral. The liability to return the collateral shall be measured in accordance with other relevant accounting guidance. Paragraph 942-405-35-1 requires that a bank or savings institution that, as transferee
+, sells transferred collateral subsequently measure that liability like a short sale at fair value.
+**860-30-35-3** This Section does not provide specific guidance on the subsequent measurement of the obligation to return transferred collateral. The liability to return the collateral shall be measured in accordance with other relevant accounting guidance. Paragraph 942-405-35-1 requires that a bank or savings institution that, as transferee
+
+## 40 Derecognition
+
+General Note:The Derecognition Section provides guidance on determining whether and when an entity should remove an item from the financial statements. For example, the entity would derecognize an asset because it no longer has rights to the asset or it would derecognize a liability because it no longer has any obligation.
+
+### General
+
+**860-30-40-1** In circumstances where an obligor (transferor
+) transfers noncash collateral in a secured borrowing and the obligor (transferor) defaults under the terms of the secured contract and is no longer entitled to redeem the pledged asset, the obligor shall derecognize the pledged asset. If the secured party has already sold the collateral, the secured party shall derecognize its obligation to return the collateral.
+**860-30-40-1** In circumstances where an obligor (transferor
+**860-30-40-2** ) transfers noncash collateral in a secured borrowing and the obligor (transferor) defaults under the terms of the secured contract and is no longer entitled to redeem the pledged asset, the obligor shall derecognize the pledged asset. If the secured party has already sold the collateral, the secured party shall derecognize its obligation to return the collateral.
+Otherwise paragraph 860-30-25-5(c) addresses the secured party's accounting for the collateral.
+**860-30-40-2** Otherwise paragraph 860-30-25-5(c) addresses the secured party's accounting for the collateral.
+
+## 45 Other Presentation Matters
+
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+
+### General
+
+If the secured party (transferee
+) has the right by contract or custom to sell or repledge the collateral, then the obligor (transferor) shall reclassify that asset and report that asset in its statement of financial position separately (for example, as security pledged to creditors) from other assets not so encumbered.
+If the secured party (transferee
+**860-30-45-2** ) has the right by contract or custom to sell or repledge the collateral, then the obligor (transferor) shall reclassify that asset and report that asset in its statement of financial position separately (for example, as security pledged to creditors) from other assets not so encumbered.
+Liabilities incurred by either the secured party or obligor in securities borrowing or resale transactions shall be separately classified.
+PENDING CONTENT Transition date: June 30, 2027; June 30, 2027Transition guidance: 105-10-65-7 Liabilities , including accrued interest, incurred by either the secured party or obligor in securities borrowing or resale transactions shall be separately classified.
+Liabilities incurred by either the secured party or obligor in securities borrowing or resale transactions shall be separately classified.
+**860-30-45-2A** PENDING CONTENT Transition date: June 30, 2027; June 30, 2027Transition guidance: 105-10-65-7 Liabilities , including accrued interest, incurred by either the secured party or obligor in securities borrowing or resale transactions shall be separately classified. PENDING CONTENT Transition date: June 30, 2027; June 30, 2027Transition guidance: 105-10-65-7 If as of the date of the most recent statement of financial position the aggregate carrying amount of reverse repurchase agreements (securities or other assets purchased under agreements to resell) exceeds 10 percent of total assets, the assets shall be separately classified.
+**860-30-45-3** PENDING CONTENT Transition date: June 30, 2027; June 30, 2027Transition guidance: 105-10-65-7 If as of the date of the most recent statement of financial position the aggregate carrying amount of reverse repurchase agreements (securities or other assets purchased under agreements to resell) exceeds 10 percent of total assets, the assets shall be separately classified.
+Pledged assets reclassified by the transferor of securities loaned or transferred under a repurchase agreement accounted for as a collateralized borrowing
+1. if the transferee is permitted to sell or repledge those securities
+2. Liabilities incurred by either the secured party or obligor in securities borrowing or resale transactions.
+
+1. Pledged assets reclassified by the transferor of securities loaned or transferred under a repurchase agreement accounted for as a collateralized borrowing if the transferee is permitted to sell or repledge those securities
+2. Liabilities, including accrued interest, incurred by either the secured party or obligor in securities borrowing or resale transactions.
+
+Example 1 (see paragraph 860-30-55-1) illustrates possible classifications and terminology.
+Pledged assets reclassified by the transferor of securities loaned or transferred under a repurchase agreement accounted for as a collateralized borrowing
+1. if the transferee is permitted to sell or repledge those securities
+2. Liabilities incurred by either the secured party or obligor in securities borrowing or resale transactions.
+
+1. Pledged assets reclassified by the transferor of securities loaned or transferred under a repurchase agreement accounted for as a collateralized borrowing if the transferee is permitted to sell or repledge those securities
+2. Liabilities, including accrued interest, incurred by either the secured party or obligor in securities borrowing or resale transactions.
+
+## 50 Disclosure
+
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+
+### General
+
+**860-30-50-1** Paragraph superseded by Accounting Standards Update No. 2009-16.
+**860-30-50-1** Paragraph superseded by Accounting Standards Update No. 2009-16.
+**860-30-50-1A** An entity shall disclose all of the following for collateral
+1. If the entity has entered into repurchase agreements or securities lending transactions, it shall disclose its policy for requiring collateral or other security.
+1. Any assets pledged as collateral that are not reclassified and separately reported in the statement of financial position in accordance with paragraph 860-30-25-5(a)
+2. Associated liabilities.
+
+3. Qualitative information about the relationship(s) between those assets and associated liabilities; for example, if assets are restricted solely to satisfy a specific obligation, a description of the nature of restrictions placed on those assets.
+
+1. The fair value as of the date of each statement of financial position presented of that collateral
+2. The fair value as of the date of each statement of financial position presented of the portion of that collateral that it has sold or repledged
+3. Information about the sources and uses of that collateral.
+
+1. If the entity has entered into repurchase agreements or securities lending transactions, it shall disclose its policy for requiring collateral or other security.
+1. Any assets pledged as collateral that are not reclassified and separately reported in the statement of financial position in accordance with paragraph 860-30-25-5(a)
+2. Associated liabilities.
+
+3. Qualitative information about the relationship(s) between those assets and associated liabilities; for example, if assets are restricted solely to satisfy a specific obligation, a description of the nature of restrictions placed on those assets.
+
+1. The fair value as of the date of each statement of financial position presented of that collateral
+2. The fair value as of the date of each statement of financial position presented of the portion of that collateral that it has sold or repledged
+3. Information about the sources and uses of that collateral.
+
+For overall guidance on Topic 860's disclosures, see Section 860-10-50.
+**860-30-50-1A** An entity shall disclose all of the following for collateral
+1. If the entity has entered into repurchase agreements or securities lending transactions, it shall disclose its policy for requiring collateral or other security.
+1. Any assets pledged as collateral that are not reclassified and separately reported in the statement of financial position in accordance with paragraph 860-30-25-5(a)
+2. Associated liabilities.
+
+3. Qualitative information about the relationship(s) between those assets and associated liabilities; for example, if assets are restricted solely to satisfy a specific obligation, a description of the nature of restrictions placed on those assets.
+
+1. The fair value as of the date of each statement of financial position presented of that collateral
+2. The fair value as of the date of each statement of financial position presented of the portion of that collateral that it has sold or repledged
+3. Information about the sources and uses of that collateral.
+
+1. If the entity has entered into repurchase agreements or securities lending transactions, it shall disclose its policy for requiring collateral or other security.
+1. Any assets pledged as collateral that are not reclassified and separately reported in the statement of financial position in accordance with paragraph 860-30-25-5(a)
+2. Associated liabilities.
+
+3. Qualitative information about the relationship(s) between those assets and associated liabilities; for example, if assets are restricted solely to satisfy a specific obligation, a description of the nature of restrictions placed on those assets.
+
+1. The fair value as of the date of each statement of financial position presented of that collateral
+2. The fair value as of the date of each statement of financial position presented of the portion of that collateral that it has sold or repledged
+3. Information about the sources and uses of that collateral.
+
+**860-30-50-2** For overall guidance on Topic 860's disclosures, see Section 860-10-50.
+Paragraphs 860-30-50-2 through 50-5 superseded by Accounting Standards Update No. 2009-16.
+**860-30-50-2** Paragraphs 860-30-50-2 through 50-5 superseded by Accounting Standards Update No. 2009-16.
+**860-30-50-6** Paragraph superseded by Accounting Standards Update No. 2014-11.
+**860-30-50-6** Paragraph superseded by Accounting Standards Update No. 2014-11.
+**860-30-50-7** > Disclosures for Repurchase Agreements, Securities Lending Transactions, and Repurchase-to-Maturity Transactions
+To provide an understanding of the nature and risks of short-term collateralized financing obtained through repurchase agreements
+1. Total borrowings under those agreements shall be reconciled to the amount of the gross liability for repurchase agreements and securities lending transactions disclosed in accordance with paragraph 210-20-50-3(a) before any adjustments for offsetting. Any difference between the amount of the gross obligation disclosed under this paragraph and the amount disclosed in accordance with paragraph 210-20-50-3(a) shall be presented as reconciling item(s).
+
+2. The remaining contractual maturity of the repurchase agreements, securities lending transactions, and repurchase-to-maturity transactions. An entity shall use judgment to determine an appropriate range of maturity intervals that would convey an understanding of the overall maturity profile of the entity's financing agreements.
+3. A discussion of the potential risks associated with the agreements and related collateral pledged, including obligations arising from a decline in the fair value of the collateral pledged and how those risks are managed.
+
+1. Total borrowings under those agreements shall be reconciled to the amount of the gross liability for repurchase agreements and securities lending transactions disclosed in accordance with paragraph 210-20-50-3(a) before any adjustments for offsetting. Any difference between the amount of the gross obligation disclosed under this paragraph and the amount disclosed in accordance with paragraph 210-20-50-3(a) shall be presented as reconciling item(s).
+
+2. The remaining contractual maturity of the repurchase agreements, securities lending transactions, and repurchase-to-maturity transactions. An entity shall use judgment to determine an appropriate range of maturity intervals that would convey an understanding of the overall maturity profile of the entity's financing agreements.
+3. A discussion of the potential risks associated with the agreements and related collateral pledged, including obligations arising from a decline in the fair value of the collateral pledged and how those risks are managed.
+4. For a public business entity, the weighted-average interest rate of the repurchase liability and the related repurchase liability.
+
+**860-30-50-7** To provide an understanding of the nature and risks of short-term collateralized financing obtained through repurchase agreements
+1. Total borrowings under those agreements shall be reconciled to the amount of the gross liability for repurchase agreements and securities lending transactions disclosed in accordance with paragraph 210-20-50-3(a) before any adjustments for offsetting. Any difference between the amount of the gross obligation disclosed under this paragraph and the amount disclosed in accordance with paragraph 210-20-50-3(a) shall be presented as reconciling item(s).
+
+2. The remaining contractual maturity of the repurchase agreements, securities lending transactions, and repurchase-to-maturity transactions. An entity shall use judgment to determine an appropriate range of maturity intervals that would convey an understanding of the overall maturity profile of the entity's financing agreements.
+3. A discussion of the potential risks associated with the agreements and related collateral pledged, including obligations arising from a decline in the fair value of the collateral pledged and how those risks are managed.
+
+1. Total borrowings under those agreements shall be reconciled to the amount of the gross liability for repurchase agreements and securities lending transactions disclosed in accordance with paragraph 210-20-50-3(a) before any adjustments for offsetting. Any difference between the amount of the gross obligation disclosed under this paragraph and the amount disclosed in accordance with paragraph 210-20-50-3(a) shall be presented as reconciling item(s).
+
+2. The remaining contractual maturity of the repurchase agreements, securities lending transactions, and repurchase-to-maturity transactions. An entity shall use judgment to determine an appropriate range of maturity intervals that would convey an understanding of the overall maturity profile of the entity's financing agreements.
+3. A discussion of the potential risks associated with the agreements and related collateral pledged, including obligations arising from a decline in the fair value of the collateral pledged and how those risks are managed.
+4. For a public business entity, the weighted-average interest rate of the repurchase liability and the related repurchase liability.
+
+**860-30-50-8** A reporting entity also shall disclose the information required by paragraphs 210-20-50-1 through 50-6
+1. Recognized repurchase agreements accounted for as a collateralized borrowing and reverse repurchase agreements accounted for as a collateralized borrowing
+2. Recognized securities borrowing and securities lending transactions.
+
+**860-30-50-8** A reporting entity also shall disclose the information required by paragraphs 210-20-50-1 through 50-6
+1. Recognized repurchase agreements accounted for as a collateralized borrowing and reverse repurchase agreements accounted for as a collateralized borrowing
+2. Recognized securities borrowing and securities lending transactions.
+
+**860-30-50-9** > Disclosures for Counterparty Risk for Repurchase Agreements, Securities Lending Transactions, and Repurchase-to-Maturity TransactionsPENDING CONTENTTransition date: June 30, 2027; June 30, 2027Transition guidance:105-10-65-7If as of the date of the most recent statement of financial position the amount at risk under repurchase agreements or the amount at risk under reverse repurchase agreements with any individual counterparty or group of related counterparties exceeds 10 percent of stockholders’ equity, an entity shall disclose the name(s) of those counterparties or group of related counterparties, the amount at risk with each, and the weighted-average maturity of the repurchase agreements or reverse repurchase agreements with each.
+**860-30-50-10** PENDING CONTENTTransition date: June 30, 2027; June 30, 2027Transition guidance:105-10-65-7If as of the date of the most recent statement of financial position the amount at risk under repurchase agreements or the amount at risk under reverse repurchase agreements with any individual counterparty or group of related counterparties exceeds 10 percent of stockholders’ equity, an entity shall disclose the name(s) of those counterparties or group of related counterparties, the amount at risk with each, and the weighted-average maturity of the repurchase agreements or reverse repurchase agreements with each.PENDING CONTENTTransition date: June 30, 2027; June 30, 2027Transition guidance:105-10-65-7As used in this Subtopic, the amount at risk under repurchase agreements is the excess of the carrying amount (or market value, if higher than the carrying amount or if there is no carrying amount) of the securities or other assets sold under agreement to repurchase, including accrued interest plus any cash or other assets on deposit to secure the repurchase obligation, over the amount of the repurchase liability (adjusted for accrued interest).
+**860-30-50-11** PENDING CONTENTTransition date: June 30, 2027; June 30, 2027Transition guidance:105-10-65-7As used in this Subtopic, the amount at risk under repurchase agreements is the excess of the carrying amount (or market value, if higher than the carrying amount or if there is no carrying amount) of the securities or other assets sold under agreement to repurchase, including accrued interest plus any cash or other assets on deposit to secure the repurchase obligation, over the amount of the repurchase liability (adjusted for accrued interest).PENDING CONTENTTransition date: June 30, 2027; June 30, 2027Transition guidance:105-10-65-7As used in this Subtopic, the amount at risk under reverse repurchase agreements is the excess of the carrying amount of the reverse repurchase agreements over the market value of assets delivered in accordance with the agreements by the counterparty to an entity (or to a third-party agent that has affirmatively agreed to act on behalf of the entity) and not returned to the counterparty, except in exchange for their approximate market value in a separate transaction.
+**860-30-50-12** PENDING CONTENTTransition date: June 30, 2027; June 30, 2027Transition guidance:105-10-65-7As used in this Subtopic, the amount at risk under reverse repurchase agreements is the excess of the carrying amount of the reverse repurchase agreements over the market value of assets delivered in accordance with the agreements by the counterparty to an entity (or to a third-party agent that has affirmatively agreed to act on behalf of the entity) and not returned to the counterparty, except in exchange for their approximate market value in a separate transaction.PENDING CONTENTTransition date: June 30, 2027; June 30, 2027Transition guidance:105-10-65-7If the aggregate carrying amount of reverse repurchase agreements exceeds 10 percent of total assets as described in paragraph 860-30-45-2A, an entity shall disclose whether there are any provisions to ensure that the market value of the underlying assets remains sufficient to protect the entity in the event that the counterparty defaults and, if so, the nature of those provisions.
+
+## 55 Implementation Guidance and Illustrations
+
+**860-30-50-12** General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+
+### General
+
+##### · > Example 1: Securities Lending                Transaction Accounted for as a Secured Borrowing
+
+**860-30-55-1** > Illustrations
+Transferor's carrying amount and fair value of security loaned: $1,000
+2. Cash collateral: $1,020
+3. Transferor's return from investing cash collateral at a 5 percent annual rate: $5
+4. Transferor's rebate to the securities borrower at a 4 percent annual rate: $4.
+
+Transferor's carrying amount and fair value of security loaned: $1,000
+2. Cash collateral: $1,020
+3. Transferor's return from investing cash collateral at a 5 percent annual rate: $5
+4. Transferor's rebate to the securities borrower at a 4 percent annual rate: $4.
+
+For simplicity, the fair value of the security is assumed not to change during the 35-day term of the transaction.
+For simplicity, the fair value of the security is assumed not to change during the 35-day term of the transaction.
+The journal entries for the transferor
+and the transferee are as follows.
+The journal entries for the transferor
+and the transferee are as follows.
+
+##### · > Example 2: Disclosures for                Repurchase Agreements, Securities Lending Transactions, and Repurchase-to-Maturity                Transactions Accounted for as Secured Borrowings
+
+This Example illustrates one approach for satisfying the quantitative disclosure requirements in paragraph 860-30-50-7.
+PENDING CONTENT Transition date: June 30, 2027; June 30, 2027Transition guidance: 105-10-65-7 This Example illustrates one approach for satisfying the quantitative disclosure requirements in paragraph 860-30-50-7(a) through (b).
+This Example illustrates one approach for satisfying the quantitative disclosure requirements in paragraph 860-30-50-7.
+PENDING CONTENT Transition date: June 30, 2027; June 30, 2027Transition guidance: 105-10-65-7 This Example illustrates one approach for satisfying the quantitative disclosure requirements in paragraph 860-30-50-7(a) through (b).
+
+## 60 Relationships
+
+General Note:The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
+
+### General
+
+**860-30-60-1** > Balance Sheet
+For the conditions that must be met for an entity to be permitted to offset amounts recognized as payables under repurchase agreements accounted for as collateralized borrowings
+and amounts recognized as receivables under reverse repurchase agreements accounted for as collateralized borrowings, see paragraphs 210-20-45-11 through 45-12.
+For the conditions that must be met for an entity to be permitted to offset amounts recognized as payables under repurchase agreements accounted for as collateralized borrowings
+
+## S50 Disclosure
+
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+
+### General
+
+**860-30-S50-1** > Assets Subject to Lien
+See paragraph 235-10-S99-1, Regulation S-X Rule 4-08(b), for required disclosures for assets subject to lien.
+**860-30-S50-1** See paragraph 235-10-S99-1, Regulation S-X Rule 4-08(b), for required disclosures for assets subject to lien.
+
+## 00 Status
+
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+
+### General
+
+The following table identifies the changes made to this Subtopic.
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Affiliate | Removed from Subtopic | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Agent | Removed from Subtopic | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Beneficial Interests | Removed from Subtopic | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Commingling | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Condominium Structure | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Consolidated Affiliate | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Consolidated Affiliate of the Transferor | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Derivative Financial Instrument | Removed from Subtopic | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Embedded Call Option | Removed from Subtopic | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Financial Asset | Removed from Subtopic | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Guaranteed Mortgage Securitization | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Qualifying Special-Purpose Entity | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Securitization | Removed from Subtopic | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Transfer | Removed from Subtopic | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Transferee | Removed from Subtopic | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Transferor | Removed from Subtopic | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Unilateral Ability | Removed from Subtopic | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-40-05-1 through 05-4 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-40-05-6 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-40-10-1 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-40-15-1 through 15-29 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-40-25-1 through 25-3 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-40-40-1 through 40-11 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-40-45-1 through 45-4 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-40-55-1 through 55-29 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+
+**** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** ****
+The following table identifies the changes made to this Subtopic.
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Affiliate | Removed from Subtopic | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Agent | Removed from Subtopic | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Beneficial Interests | Removed from Subtopic | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Commingling | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Condominium Structure | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Consolidated Affiliate | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Consolidated Affiliate of the Transferor | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Derivative Financial Instrument | Removed from Subtopic | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Embedded Call Option | Removed from Subtopic | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Financial Asset | Removed from Subtopic | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Guaranteed Mortgage Securitization | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Qualifying Special-Purpose Entity | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Securitization | Removed from Subtopic | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Transfer | Removed from Subtopic | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Transferee | Removed from Subtopic | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Transferor | Removed from Subtopic | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Unilateral Ability | Removed from Subtopic | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-40-05-1 through 05-4 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-40-05-6 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-40-10-1 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-40-15-1 through 15-29 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-40-25-1 through 25-3 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-40-40-1 through 40-11 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-40-45-1 through 45-4 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-40-55-1 through 55-29 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+
+**** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** **** ****
+
+## 05 Overview and Background
+
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+
+### General
+
+**860-40-05-1** Paragraphs 860-40-05-1 through 05-4 superseded by Accounting Standards Update No. 2009-16.
+**860-40-05-1** Paragraphs 860-40-05-1 through 05-4 superseded by Accounting Standards Update No. 2009-16.
+**860-40-05-5** Paragraph not used.
+**860-40-05-5** Paragraph not used.
+**860-40-05-6** Paragraph superseded by Accounting Standards Update No. 2009-16.
+**860-40-05-6** Paragraph superseded by Accounting Standards Update No. 2009-16.
+**860-40-05-7** Paragraph not used.
+**860-40-05-7** Paragraph not used.
+
+## 10 Objectives
+
+General Note:The Objectives Section provides the high-level objectives that the Subtopic is intended to accomplish or attain. The Section does not summarize or discuss the main principles of accounting and reporting requirements.
+
+### General
+
+**860-40-10-1** Paragraph superseded by Accounting Standards Update No. 2009-16.
+**860-40-10-1** Paragraph superseded by Accounting Standards Update No. 2009-16.
+
+## 15 Scope and Scope Exceptions
+
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+
+General Note for Financial Instruments:Some of the items subject to the guidance in this Subtopic are financial instruments
+
+### General
+
+**860-40-15-1** . For guidance on matters related broadly to all financial instruments, (including the fair value option, accounting for registration payment arrangements, and broad financial instrument disclosure requirements), see Topic 825. See Section 825-10-15 for guidance on the scope of the Financial Instruments Topic.
+Paragraphs 860-40-15-1 through 15-29 superseded by Accounting Standards Update No. 2009-16.
+**860-40-15-1** Paragraphs 860-40-15-1 through 15-29 superseded by Accounting Standards Update No. 2009-16.
+
+## 20 Glossary
+
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+
+## 25 Recognition
+
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+
+### General
+
+**860-40-25-1** Paragraphs 860-40-25-1 through 25-3 superseded by Accounting Standards Update No. 2009-16.
+**860-40-25-1** Paragraphs 860-40-25-1 through 25-3 superseded by Accounting Standards Update No. 2009-16.
+
+## 40 Derecognition
+
+General Note:The Derecognition Section provides guidance on determining whether and when an entity should remove an item from the financial statements. For example, the entity would derecognize an asset because it no longer has rights to the asset or it would derecognize a liability because it no longer has any obligation.
+
+### General
+
+**860-40-40-1** Paragraphs 860-40-40-1 through 40-11 superseded by Accounting Standards Update No. 2009-16.
+**860-40-40-1** Paragraphs 860-40-40-1 through 40-11 superseded by Accounting Standards Update No. 2009-16.
+
+## 45 Other Presentation Matters
+
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+
+### General
+
+**860-40-45-1** Paragraphs 860-40-45-1 through 45-4 superseded by Accounting Standards Update No. 2009-16.
+**860-40-45-1** Paragraphs 860-40-45-1 through 45-4 superseded by Accounting Standards Update No. 2009-16.
+
+## 55 Implementation Guidance and Illustrations
+
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+
+### General
+
+**860-40-55-1** Paragraphs 860-40-55-1 through 55-29 superseded by Accounting Standards Update No. 2009-16.
+**860-40-55-1** Paragraphs 860-40-55-1 through 55-29 superseded by Accounting Standards Update No. 2009-16.
+
+## 00 Status
+
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+
+### General
+
+**860-50-00-1** The following table identifies the changes made to this Subtopic.
+
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Beneficial Interests | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Consolidated Affiliate | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Consolidated Affiliate of the Transferor | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Contractually Specified Servicing Fees | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Financial Asset (2nd def.) | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| Financial Asset | Added | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Guaranteed Mortgage Securitization | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Transferee | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Transferor | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-05-3 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-05-4 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-15-3 | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| 860-50-25-1 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-25-2 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-25-4 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-25-7 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-25-9 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-25-10 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-30-1 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-30-5 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-30-6 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-30-7 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-30-8 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-30-9 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-35-8 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-35-15 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-35-16 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-40-6 | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| 860-50-50-1 | Amended | Maintenance Update No. 2025-05 | 06/20/2025 |
+| 860-50-50-1 through 50-5 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-50-2 through 50-5 | Amended | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| 860-50-50-2 | Amended | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 860-50-50-3 | Amended | Maintenance Update 2020-18 | 11/25/2020 |
+| 860-50-50-4 | Amended | Maintenance Update 2018-02 | 02/02/2018 |
+| 860-50-50-5 | Amended | Maintenance Update 2014-20 | 09/29/2014 |
+| 860-50-50-6 through 50-9 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-55-1 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-55-2 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-55-3 through 55-7 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-55-9 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-55-10 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-55-11 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-55-12 through 55-19 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-55-20 through 55-22 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-55-23 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-55-24 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-55-26 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-55-27 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+
+
+**860-50-00-1** The following table identifies the changes made to this Subtopic.
+
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Beneficial Interests | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Consolidated Affiliate | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Consolidated Affiliate of the Transferor | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Contractually Specified Servicing Fees | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Financial Asset (2nd def.) | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| Financial Asset | Added | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Guaranteed Mortgage Securitization | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Transferee | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| Transferor | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-05-3 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-05-4 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-15-3 | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| 860-50-25-1 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-25-2 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-25-4 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-25-7 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-25-9 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-25-10 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-30-1 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-30-5 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-30-6 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-30-7 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-30-8 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-30-9 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-35-8 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-35-15 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-35-16 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-40-6 | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| 860-50-50-1 | Amended | Maintenance Update No. 2025-05 | 06/20/2025 |
+| 860-50-50-1 through 50-5 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-50-2 through 50-5 | Amended | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| 860-50-50-2 | Amended | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 860-50-50-3 | Amended | Maintenance Update 2020-18 | 11/25/2020 |
+| 860-50-50-4 | Amended | Maintenance Update 2018-02 | 02/02/2018 |
+| 860-50-50-5 | Amended | Maintenance Update 2014-20 | 09/29/2014 |
+| 860-50-50-6 through 50-9 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-55-1 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-55-2 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-55-3 through 55-7 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-55-9 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-55-10 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-55-11 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-55-12 through 55-19 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-55-20 through 55-22 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-55-23 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-55-24 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-55-26 | Amended | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+| 860-50-55-27 | Superseded | Accounting Standards Update No. 2009-16 | 12/23/2009 |
+
+## 05 Overview and Background
+
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+
+### General
+
+**860-50-05-1** This Subtopic provides accounting guidance for servicing assets
+and servicing liabilities.
+**860-50-05-1** This Subtopic provides accounting guidance for servicing assets
+**860-50-05-2** and servicing liabilities.
+Servicing is inherent in all financial assets
+; it becomes a distinct asset or liability for accounting purposes only in the circumstances described in paragraph 860-50-25-1.
+**860-50-05-2** Servicing is inherent in all financial assets
+**860-50-05-3** ; it becomes a distinct asset or liability for accounting purposes only in the circumstances described in paragraph 860-50-25-1.
+Collecting principal, interest, and escrow payments from borrowers
+2. Paying taxes and insurance from escrowed funds
+3. Monitoring delinquencies
+4. Executing foreclosure if necessary
+5. Temporarily investing funds pending distribution
+6. Remitting fees to guarantors, trustees, and others providing services
+7. Accounting for and remitting principal and interest payments to the holders of beneficial interests or participating interests in the financial assets.
+
+**860-50-05-3** Collecting principal, interest, and escrow payments from borrowers
+2. Paying taxes and insurance from escrowed funds
+3. Monitoring delinquencies
+4. Executing foreclosure if necessary
+5. Temporarily investing funds pending distribution
+6. Remitting fees to guarantors, trustees, and others providing services
+7. Accounting for and remitting principal and interest payments to the holders of beneficial interests or participating interests in the financial assets.
+
+**860-50-05-4** A servicer of financial assets commonly receives the following benefits of servicing
+1. Revenues from contractually specified servicing fees
+2. A portion of the interest from the financial assets
+3. Late charges
+4. Other ancillary sources, including float.
+
+A servicer is entitled to receive all of those benefits of servicing only if it performs the servicing and incurs the costs of servicing the financial assets.
+**860-50-05-4** A servicer of financial assets commonly receives the following benefits of servicing
+1. Revenues from contractually specified servicing fees
+2. A portion of the interest from the financial assets
+3. Late charges
+4. Other ancillary sources, including float.
+
+## 15 Scope and Scope Exceptions
+
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+
+### General
+
+**860-50-15-1** > Overall Guidance
+This Subtopic has its own discrete scope, which is separate and distinct from the pervasive scope for this Topic as outlined in Section 860-10-15.
+**860-50-15-1** This Subtopic has its own discrete scope, which is separate and distinct from the pervasive scope for this Topic as outlined in Section 860-10-15.
+**860-50-15-2** > Entities
+The guidance in this Subtopic applies to all entities.
+**860-50-15-2** The guidance in this Subtopic applies to all entities.
+**860-50-15-3** > Transactions
+The guidance in this Subtopic applies to transactions in which servicing assets
+are obtained and servicing liabilities are incurred, including transactions in which loans are transferred with servicing retained by the transferor. The guidance in this Subtopic also applies to transactions in which servicing assets are transferred with loans retained by the transferor.
+**860-50-15-3** The guidance in this Subtopic applies to transactions in which servicing assets
+
+## 20 Glossary
+
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+
+##### Adequate Compensation
+
+The amount of benefits of servicing that would fairly compensate a substitute servicer should one be required, which includes the profit that would be demanded in the marketplace. It is the amount demanded by the marketplace to perform the specific type of servicing. Adequate compensation is determined by the marketplace; it does not vary according to the specific servicing costs of the servicer.
+The amount of benefits of servicing that would fairly compensate a substitute servicer should one be required, which includes the profit that would be demanded in the marketplace. It is the amount demanded by the marketplace to perform the specific type of servicing. Adequate compensation is determined by the marketplace; it does not vary according to the specific servicing costs of the servicer.
+
+##### Beneficial Interests
+
+1. Senior and subordinated shares of interest, principal, or other cash inflows to be passed-through or paid-through
+2. Premiums due to guarantors
+3. Commercial paper obligations
+4. Residual interests, whether in the form of debt or equity.
+
+Senior and subordinated shares of interest, principal, or other cash inflows to be passed-through or paid-through
+2. Premiums due to guarantors
+3. Commercial paper obligations
+4. Residual interests, whether in the form of debt or equity.
+
+##### Benefits of Servicing
+
+Revenues from contractually specified servicing fees, late charges, and other ancillary sources, including float.
+Revenues from contractually specified servicing fees, late charges, and other ancillary sources, including float.
+
+##### Consolidated Affiliate
+
+An entity whose assets and liabilities are included in the consolidated, combined, or other financial statements being presented.
+An entity whose assets and liabilities are included in the consolidated, combined, or other financial statements being presented.
+
+##### Contractually Specified Servicing Fees
+
+All amounts that, per contract, are due to the servicer in exchange for servicing the financial asset and would no longer be received by a servicer if the beneficial owners of the serviced assets (or their trustees or agents) were to exercise their actual or potential authority under the contract to shift the servicing to another servicer. Depending on the servicing contract, those fees may include some or all of the difference between the interest rate collectible on the financial asset being serviced and the rate to be paid to the beneficial owners of those financial assets.
+All amounts that, per contract, are due to the servicer in exchange for servicing the financial asset and would no longer be received by a servicer if the beneficial owners of the serviced assets (or their trustees or agents) were to exercise their actual or potential authority under the contract to shift the servicing to another servicer. Depending on the servicing contract, those fees may include some or all of the difference between the interest rate collectible on the financial asset being serviced and the rate to be paid to the beneficial owners of those financial assets.
+
+##### Derecognize
+
+Remove previously recognized assets or liabilities from the statement of financial position.
+Remove previously recognized assets or liabilities from the statement of financial position.
+
+##### Financial Asset
+
+1. Receive cash or another financial instrument from a second entity
+2. Exchange other financial instruments on potentially favorable terms with the second entity.
+
+Receive cash or another financial instrument from a second entity
+2. Exchange other financial instruments on potentially favorable terms with the second entity.
+
+##### Interest-Only Strip
+
+A contractual right to receive some or all of the interest due on a bond, mortgage loan, collateralized mortgage obligation, or other interest-bearing financial asset.
+A contractual right to receive some or all of the interest due on a bond, mortgage loan, collateralized mortgage obligation, or other interest-bearing financial asset.
+
+##### Participating Interest
+
+Paragraph 860-10-40-6A defines the term participating interest.
+Paragraph 860-10-40-6A defines the term participating interest.
+
+##### Protection Provisions
+
+Provisions in some contracts to sell or transfer mortgage servicing rights that could affect the amount ultimately paid to the transferor. For example, the transferor may agree to adjust the sales price for loan prepayments, defaults, or foreclosures that occur within a specified period of time.
+Provisions in some contracts to sell or transfer mortgage servicing rights that could affect the amount ultimately paid to the transferor. For example, the transferor may agree to adjust the sales price for loan prepayments, defaults, or foreclosures that occur within a specified period of time.
+
+##### Recourse
+
+1. Failure of debtors to pay when due
+2. The effects of prepayments
+3. Adjustments resulting from defects in the eligibility of the transferred receivables.
+
+Failure of debtors to pay when due
+2. The effects of prepayments
+3. Adjustments resulting from defects in the eligibility of the transferred receivables.
+
+##### Revolving-Period Securitizations
+
+Securitizations in which receivables are transferred at the inception and also periodically (daily or monthly) thereafter for a defined period (commonly three to eight years), referred to as the revolving period. During the revolving period, the special-purpose entity uses most of the cash collections to purchase additional receivables from the transferor on prearranged terms.
+Securitizations in which receivables are transferred at the inception and also periodically (daily or monthly) thereafter for a defined period (commonly three to eight years), referred to as the revolving period. During the revolving period, the special-purpose entity uses most of the cash collections to purchase additional receivables from the transferor on prearranged terms.
+
+##### Seller
+
+A transferor that relinquishes control over financial assets by transferring them to a transferee in exchange for consideration.
+A transferor that relinquishes control over financial assets by transferring them to a transferee in exchange for consideration.
+
+##### Servicing Assets
+
+1. Undertaken in conjunction with selling or securitizing the financial assets being serviced
+2. Purchased or assumed separately.
+
+Undertaken in conjunction with selling or securitizing the financial assets being serviced
+2. Purchased or assumed separately.
+
+##### Servicing Liabilities
+
+A contract to service financial assets under which the estimated future revenues from contractually specified servicing fees, late charges, and other ancillary revenues (benefits of servicing) are not expected to adequately compensate the servicer for performing the servicing.
+A contract to service financial assets under which the estimated future revenues from contractually specified servicing fees, late charges, and other ancillary revenues (benefits of servicing) are not expected to adequately compensate the servicer for performing the servicing.
+
+##### Transfer
+
+1. Selling a receivable
+2. Putting a receivable into a securitization trust
+3. Posting a receivable as collateral.
+
+1. The origination of a receivable
+2. Settlement of a receivable
+3. The restructuring of a receivable into a security in a troubled debt restructuring.
+
+The conveyance of a noncash financial asset by and to someone other than the issuer of that financial asset.
+Selling a receivable
+2. Putting a receivable into a securitization trust
+3. Posting a receivable as collateral.
+
+The origination of a receivable
+2. Settlement of a receivable
+3. The restructuring of a receivable into a security in a troubled debt restructuring.
+
+##### Transferee
+
+An entity that receives a financial asset, an interest in a financial asset, or a group of financial assets from a transferor.
+An entity that receives a financial asset, an interest in a financial asset, or a group of financial assets from a transferor.
+
+##### Transferor
+
+An entity that transfers a financial asset, an interest in a financial asset, or a group of financial assets that it controls to another entity.
+An entity that transfers a financial asset, an interest in a financial asset, or a group of financial assets that it controls to another entity.
+
+## 25 Recognition
+
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+
+### General
+
+**860-50-25-1** An entity shall recognize a servicing asset
+1. An entire financial asset
+2. A group of entire financial assets
+3. A participating interest in an entire financial asset, in which circumstance the transferor shall recognize a servicing asset or a servicing liability only related to the participating interest sold.
+
+4. Subparagraph superseded by Accounting Standards Update No. 2009-16.
+5. An acquisition or assumption of a servicing obligation that does not relate to financial assets of the servicer or its consolidated affiliates included in the financial statements being presented.
+
+Example 1 (see paragraph 860-50-55-20) illustrates accounting for a sale of receivables with servicing obtained by the transferor.
+**860-50-25-1** An entity shall recognize a servicing asset
+1. An entire financial asset
+2. A group of entire financial assets
+3. A participating interest in an entire financial asset, in which circumstance the transferor shall recognize a servicing asset or a servicing liability only related to the participating interest sold.
+
+4. Subparagraph superseded by Accounting Standards Update No. 2009-16.
+5. An acquisition or assumption of a servicing obligation that does not relate to financial assets of the servicer or its consolidated affiliates included in the financial statements being presented.
+
+**860-50-25-2** Example 1 (see paragraph 860-50-55-20) illustrates accounting for a sale of receivables with servicing obtained by the transferor.
+A servicer that transfers or securitizes financial assets in a transaction that does not meet the requirements for sale accounting and is accounted for as a secured borrowing with the underlying financial assets remaining on the transferor's balance sheet shall not recognize a servicing asset or a servicing liability.
+**860-50-25-2** A servicer that transfers or securitizes financial assets in a transaction that does not meet the requirements for sale accounting and is accounted for as a secured borrowing with the underlying financial assets remaining on the transferor's balance sheet shall not recognize a servicing asset or a servicing liability.
+**860-50-25-3** A servicer that recognizes a servicing asset or servicing liability shall account for the contract to service financial assets separately from those financial assets.
+**860-50-25-3** A servicer that recognizes a servicing asset or servicing liability shall account for the contract to service financial assets separately from those financial assets.
+**860-50-25-4** An entity that transfers its financial assets to an unconsolidated entity in a transfer that qualifies as a sale in which the transferor obtains the resulting securities and classifies them as debt securities held to maturity in accordance with Topic 320 may either separately recognize its servicing assets or servicing liabilities or report those servicing assets or servicing liabilities together with the asset being serviced.
+**860-50-25-4** An entity that transfers its financial assets to an unconsolidated entity in a transfer that qualifies as a sale in which the transferor obtains the resulting securities and classifies them as debt securities held to maturity in accordance with Topic 320 may either separately recognize its servicing assets or servicing liabilities or report those servicing assets or servicing liabilities together with the asset being serviced.
+**860-50-25-5** Distinguishing servicing from an interest-only strip
+2. Revolving-period securitizations
+3. Regaining control of previously transferred assets.
+
+**860-50-25-5** Distinguishing servicing from an interest-only strip
+2. Revolving-period securitizations
+3. Regaining control of previously transferred assets.
+
+**860-50-25-6** > Distinguishing Servicing from an Interest-Only Strip
+A servicer shall account separately for rights to future interest income from the serviced assets that exceed contractually specified servicing fees
+. Those rights are not servicing assets; they are financial assets, effectively interest-only strips to be accounted for in accordance with paragraph 860-20-35-2.
+**860-50-25-6** A servicer shall account separately for rights to future interest income from the serviced assets that exceed contractually specified servicing fees
+**860-50-25-7** . Those rights are not servicing assets; they are financial assets, effectively interest-only strips to be accounted for in accordance with paragraph 860-20-35-2.
+Whether a right to future interest income from serviced assets should be accounted for as an interest-only strip, a servicing asset, or a combination thereof, depends on whether a servicer would continue to receive that amount (that is, the value of the right to future interest income) if a substitute servicer began servicing the assets. Therefore, any portion of the right to future interest income from the serviced assets that would continue to be received even if the servicing were shifted to another servicer would be reported separately as a financial asset in accordance with paragraph 860-20-35-2. For guidance on why an interest-only strip precludes a portion of a financial asset from meeting the definition of a participating interest, see paragraph 860-10-55-17K.
+**860-50-25-7** Whether a right to future interest income from serviced assets should be accounted for as an interest-only strip, a servicing asset, or a combination thereof, depends on whether a servicer would continue to receive that amount (that is, the value of the right to future interest income) if a substitute servicer began servicing the assets. Therefore, any portion of the right to future interest income from the serviced assets that would continue to be received even if the servicing were shifted to another servicer would be reported separately as a financial asset in accordance with paragraph 860-20-35-2. For guidance on why an interest-only strip precludes a portion of a financial asset from meeting the definition of a participating interest, see paragraph 860-10-55-17K.
+**860-50-25-8** The value of the right to receive future cash flows from ancillary sources such as late fees shall be included in the measurement of the servicing asset, not the interest-only strip, if retention of the right to receive the cash flows from those fees depends on servicing being performed satisfactorily, as is generally the case.
+**860-50-25-8** The value of the right to receive future cash flows from ancillary sources such as late fees shall be included in the measurement of the servicing asset, not the interest-only strip, if retention of the right to receive the cash flows from those fees depends on servicing being performed satisfactorily, as is generally the case.
+**860-50-25-9** > Revolving-Period Securitizations
+Recognition of servicing assets or servicing liabilities for revolving-period receivables shall be limited to the servicing for the receivables that exist and have been sold. As new receivables are sold, rights to service them may become assets or liabilities that are recognized. Therefore, additional transfers under revolving-period securitizations (for example, home equity loans or credit card receivables) may result in the recognition of additional servicing assets or servicing liabilities.
+**860-50-25-9** Recognition of servicing assets or servicing liabilities for revolving-period receivables shall be limited to the servicing for the receivables that exist and have been sold. As new receivables are sold, rights to service them may become assets or liabilities that are recognized. Therefore, additional transfers under revolving-period securitizations (for example, home equity loans or credit card receivables) may result in the recognition of additional servicing assets or servicing liabilities.
+**860-50-25-10** > Regaining Control of Financial Assets Sold
+Paragraph 860-20-25-10(b) explains that, after a paragraph 860-10-40-41 change, the transferor shall not change, the accounting for the servicing asset related to the previously sold financial assets and provides related guidance.
+**860-50-25-10** Paragraph 860-20-25-10(b) explains that, after a paragraph 860-10-40-41 change, the transferor shall not change, the accounting for the servicing asset related to the previously sold financial assets and provides related guidance.
+
+## 30 Initial Measurement
+
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+
+### General
+
+**860-50-30-1** An entity shall initially measure at fair value, a servicing asset
+or servicing liability that qualifies for separate recognition regardless of whether explicit consideration was exchanged.
+**860-50-30-1** An entity shall initially measure at fair value, a servicing asset
+**860-50-30-2** or servicing liability that qualifies for separate recognition regardless of whether explicit consideration was exchanged.
+Typically, the benefits of servicing
+are expected to be more than adequate compensation to a servicer for performing the servicing, and the contract results in a servicing asset. However, if the benefits of servicing are not expected to adequately compensate a servicer for performing the servicing, the contract results in a servicing liability. Paragraph 860-50-35-1A states that a servicing asset may become a servicing liability, or vice versa, if circumstances change. The initial measure for servicing may be zero if the benefits of servicing are just adequate to compensate the servicer for its servicing responsibilities. A servicing contract that entitles the servicer to receive benefits of servicing just equal to adequate compensation, regardless of the servicer's own servicing costs, does not result in recognizing a servicing asset or a servicing liability. A purchaser would neither pay nor receive payment to obtain the right to service for a rate just equal to adequate compensation.
+**860-50-30-2** Typically, the benefits of servicing
+**860-50-30-3** are expected to be more than adequate compensation to a servicer for performing the servicing, and the contract results in a servicing asset. However, if the benefits of servicing are not expected to adequately compensate a servicer for performing the servicing, the contract results in a servicing liability. Paragraph 860-50-35-1A states that a servicing asset may become a servicing liability, or vice versa, if circumstances change. The initial measure for servicing may be zero if the benefits of servicing are just adequate to compensate the servicer for its servicing responsibilities. A servicing contract that entitles the servicer to receive benefits of servicing just equal to adequate compensation, regardless of the servicer's own servicing costs, does not result in recognizing a servicing asset or a servicing liability. A purchaser would neither pay nor receive payment to obtain the right to service for a rate just equal to adequate compensation.
+The determination of whether the servicer is adequately compensated for servicing specified assets is based on the amount demanded by the marketplace, not the contractual amount to be paid to a replacement servicer. However, that contractual provision would be relevant for determining the amount of contractually specified servicing fees
+. Therefore, the amount that would be paid to a replacement servicer under the terms of the servicing contract can be more or less than adequate compensation.
+**860-50-30-3** The determination of whether the servicer is adequately compensated for servicing specified assets is based on the amount demanded by the marketplace, not the contractual amount to be paid to a replacement servicer. However, that contractual provision would be relevant for determining the amount of contractually specified servicing fees
+**860-50-30-4** . Therefore, the amount that would be paid to a replacement servicer under the terms of the servicing contract can be more or less than adequate compensation.
+Whether a servicing asset or servicing liability is recorded is a function of the marketplace, not the servicer's cost of servicing. For example, a loss shall not be recognized if a servicing fee that is equal to or greater than adequate compensation is to be received but the servicer's anticipated cost of servicing would exceed the fee.
+**860-50-30-4** Whether a servicing asset or servicing liability is recorded is a function of the marketplace, not the servicer's cost of servicing. For example, a loss shall not be recognized if a servicing fee that is equal to or greater than adequate compensation is to be received but the servicer's anticipated cost of servicing would exceed the fee.
+**860-50-30-5** Paragraph superseded by Accounting Standards Update No. 2009-16.
+**860-50-30-5** Paragraph superseded by Accounting Standards Update No. 2009-16.
+**860-50-30-6** When valuing the right to receive future cash flows from ancillary sources such as late fees, an entity shall estimate the value of the right to benefit from the cash flows of potential future transactions, not the value of the expected cash flows to be derived from future transactions.
+**860-50-30-6** When valuing the right to receive future cash flows from ancillary sources such as late fees, an entity shall estimate the value of the right to benefit from the cash flows of potential future transactions, not the value of the expected cash flows to be derived from future transactions.
+**860-50-30-7** Entities shall consider the nature of the assets being serviced as a factor in determining the fair value of a servicing asset or servicing liability. The types of assets being serviced affect the amount required to adequately compensate the servicer. Several variables, including the nature of the underlying assets, shall be considered in determining whether a servicer is adequately compensated. For example, the amount of effort required to service a home equity loan likely would be different from the amount of effort required to service a credit card receivable or a small business administration loan.
+**860-50-30-7** Entities shall consider the nature of the assets being serviced as a factor in determining the fair value of a servicing asset or servicing liability. The types of assets being serviced affect the amount required to adequately compensate the servicer. Several variables, including the nature of the underlying assets, shall be considered in determining whether a servicer is adequately compensated. For example, the amount of effort required to service a home equity loan likely would be different from the amount of effort required to service a credit card receivable or a small business administration loan.
+**860-50-30-8** Paragraph superseded by Accounting Standards Update No. 2009-16.
+**860-50-30-8** Paragraph superseded by Accounting Standards Update No. 2009-16.
+**860-50-30-9** Paragraph superseded by Accounting Standards Update No. 2009-16.
+**860-50-30-9** Paragraph superseded by Accounting Standards Update No. 2009-16.
+
+## 35 Subsequent Measurement
+
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+
+### General
+
+An entity shall subsequently measure each class of servicing assets
+1. Amortization method. Amortize servicing assets or servicing liabilities in proportion to and over the period of estimated net servicing income (if servicing revenues exceed servicing costs) or net servicing loss (if servicing costs exceed servicing revenues), and assess servicing assets or servicing liabilities for impairment or increased obligation based on fair value at each reporting date.
+2. Fair value measurement method. Measure servicing assets or servicing liabilities at fair value at each reporting date and report changes in fair value of servicing assets and servicing liabilities in earnings in the period in which the changes occur.
+
+An entity shall subsequently measure each class of servicing assets
+1. Amortization method. Amortize servicing assets or servicing liabilities in proportion to and over the period of estimated net servicing income (if servicing revenues exceed servicing costs) or net servicing loss (if servicing costs exceed servicing revenues), and assess servicing assets or servicing liabilities for impairment or increased obligation based on fair value at each reporting date.
+2. Fair value measurement method. Measure servicing assets or servicing liabilities at fair value at each reporting date and report changes in fair value of servicing assets and servicing liabilities in earnings in the period in which the changes occur.
+
+A servicing asset may become a servicing liability, or vice versa, if circumstances change.
+A servicing asset may become a servicing liability, or vice versa, if circumstances change.
+The election described in paragraphs 860-50-35-1 through 35-5
+shall be made separately for each class of servicing assets and servicing liabilities.
+The election described in paragraphs 860-50-35-1 through 35-5
+**860-50-35-3** shall be made separately for each class of servicing assets and servicing liabilities.
+Once an entity elects the fair value measurement method for a class of servicing assets and servicing liabilities, that election shall not be reversed.
+2. Different elections can be made for different classes of servicing assets and servicing liabilities.
+3. Once a servicing asset or a servicing liability is reported in a class of servicing assets and servicing liabilities that an entity elects to subsequently measure at fair value, that servicing asset or servicing liability shall not be placed in a class of servicing assets and servicing liabilities that is subsequently measured using the amortization method.
+4. An entity may make an irrevocable decision to subsequently measure a class of servicing assets and servicing liabilities at fair value at the beginning of any fiscal year.
+5. Transferring servicing assets and servicing liabilities from a class subsequently measured using the amortization method to a class subsequently measured at fair value is permitted as of the beginning of any fiscal year. If an entity makes such a transfer, subsequent measurement of servicing assets and servicing liabilities at fair value shall be applied prospectively with a cumulative-effect adjustment to retained earnings as of the beginning of the fiscal year to reflect the difference between the fair value and the carrying amount, net of any related valuation allowance, of the servicing assets and servicing liabilities that exist at the beginning of the fiscal year in which the entity makes the fair value election.
+6. If an entity recognizes a new class of servicing assets and servicing liabilities, and no servicing assets and servicing liabilities that would belong to this class had previously been recognized by the entity, the entity may elect to subsequently measure that new class of servicing assets and servicing liabilities at fair value at the date of initial recognition of those servicing assets and servicing liabilities.
+
+Once an entity elects the fair value measurement method for a class of servicing assets and servicing liabilities, that election shall not be reversed.
+2. Different elections can be made for different classes of servicing assets and servicing liabilities.
+3. Once a servicing asset or a servicing liability is reported in a class of servicing assets and servicing liabilities that an entity elects to subsequently measure at fair value, that servicing asset or servicing liability shall not be placed in a class of servicing assets and servicing liabilities that is subsequently measured using the amortization method.
+4. An entity may make an irrevocable decision to subsequently measure a class of servicing assets and servicing liabilities at fair value at the beginning of any fiscal year.
+5. Transferring servicing assets and servicing liabilities from a class subsequently measured using the amortization method to a class subsequently measured at fair value is permitted as of the beginning of any fiscal year. If an entity makes such a transfer, subsequent measurement of servicing assets and servicing liabilities at fair value shall be applied prospectively with a cumulative-effect adjustment to retained earnings as of the beginning of the fiscal year to reflect the difference between the fair value and the carrying amount, net of any related valuation allowance, of the servicing assets and servicing liabilities that exist at the beginning of the fiscal year in which the entity makes the fair value election.
+6. If an entity recognizes a new class of servicing assets and servicing liabilities, and no servicing assets and servicing liabilities that would belong to this class had previously been recognized by the entity, the entity may elect to subsequently measure that new class of servicing assets and servicing liabilities at fair value at the date of initial recognition of those servicing assets and servicing liabilities.
+
+An entity shall apply the same subsequent measurement method to each servicing asset and servicing liability in a class.
+An entity shall apply the same subsequent measurement method to each servicing asset and servicing liability in a class.
+The availability of market inputs used in determining the fair value of servicing assets or servicing liabilities
+2. An entity's method for managing the risks of its servicing assets or servicing liabilities.
+
+The availability of market inputs used in determining the fair value of servicing assets or servicing liabilities
+2. An entity's method for managing the risks of its servicing assets or servicing liabilities.
+
+Under the approach in the preceding paragraph, a servicer may or may not consider the major asset type of the underlying financial asset
+being serviced when identifying its classes of separately recognized servicing assets and servicing liabilities. Further, this approach for defining classes of servicing assets and servicing liabilities is not analogous to the stratification guidance for determining impairment of servicing assets or servicing liabilities that are subsequently measured using the amortization method.
+Under the approach in the preceding paragraph, a servicer may or may not consider the major asset type of the underlying financial asset
+**860-50-35-7** being serviced when identifying its classes of separately recognized servicing assets and servicing liabilities. Further, this approach for defining classes of servicing assets and servicing liabilities is not analogous to the stratification guidance for determining impairment of servicing assets or servicing liabilities that are subsequently measured using the amortization method.
+An entity shall first identify its classes of separately recognized servicing assets and servicing liabilities under the approach in paragraph 860-50-35-5. For any class subsequently measured using the amortization method, an entity shall then stratify that class to determine if impairment has occurred, as discussed in paragraph 860-50-35-9(a).
+An entity shall first identify its classes of separately recognized servicing assets and servicing liabilities under the approach in paragraph 860-50-35-5. For any class subsequently measured using the amortization method, an entity shall then stratify that class to determine if impairment has occurred, as discussed in paragraph 860-50-35-9(a).
+Amortization method—measurement of impairment or increased obligation
+2. Subparagraph superseded by Accounting Standards Update No. 2009-16.
+3. Obligation to service refinanced financial assets.
+
+Amortization method—measurement of impairment or increased obligation
+2. Subparagraph superseded by Accounting Standards Update No. 2009-16.
+3. Obligation to service refinanced financial assets.
+
+**860-50-35-9** > Amortization Method—Measurement of Impairment or Increased Obligation
+Stratify servicing assets within a class based on one or more of the predominant risk characteristics of the underlying financial assets. Those characteristics may include financial asset type, size, interest rate, date of origination, term, and geographic location. For mortgage loans, financial asset type refers to the various conventional or government guaranteed or insured mortgage loans and adjustable-rate or fixed-rate mortgage loans.
+2. Recognize impairment through a valuation allowance for an individual stratum. The amount of impairment recognized separately shall be the amount by which the carrying amount of servicing assets for a stratum exceeds their fair value. The fair value of servicing assets that have not been recognized shall not be used in the evaluation of impairment.
+3. Adjust the valuation allowance to reflect changes in the measurement of impairment after the initial measurement of impairment. Fair value in excess of the carrying amount of servicing assets for that stratum, however, shall not be recognized.
+
+Stratify servicing assets within a class based on one or more of the predominant risk characteristics of the underlying financial assets. Those characteristics may include financial asset type, size, interest rate, date of origination, term, and geographic location. For mortgage loans, financial asset type refers to the various conventional or government guaranteed or insured mortgage loans and adjustable-rate or fixed-rate mortgage loans.
+2. Recognize impairment through a valuation allowance for an individual stratum. The amount of impairment recognized separately shall be the amount by which the carrying amount of servicing assets for a stratum exceeds their fair value. The fair value of servicing assets that have not been recognized shall not be used in the evaluation of impairment.
+3. Adjust the valuation allowance to reflect changes in the measurement of impairment after the initial measurement of impairment. Fair value in excess of the carrying amount of servicing assets for that stratum, however, shall not be recognized.
+
+This Subtopic does not address when an entity should record a direct write-down of recognized servicing assets.
+This Subtopic does not address when an entity should record a direct write-down of recognized servicing assets.
+For servicing liabilities subsequently measured using the amortization method, if subsequent events have increased the fair value of the liability above the carrying amount, for example, because of significant changes in the amount or timing of actual or expected future cash flows relative to the cash flows previously projected, the servicer shall revise its earlier estimates and recognize the increased obligation as a loss in earnings. That is, if subsequent events increase the fair value of a stratum of servicing liabilities within a class that an entity has elected to subsequently measure using the amortization method, that increase shall be recognized in earnings as a loss. Similar to the accounting for changes in a valuation allowance for an impaired asset, increases in the servicing obligation may be recovered, but the obligation shall not be reduced below the amortized measurement of the initially recognized servicing liability.
+For servicing liabilities subsequently measured using the amortization method, if subsequent events have increased the fair value of the liability above the carrying amount, for example, because of significant changes in the amount or timing of actual or expected future cash flows relative to the cash flows previously projected, the servicer shall revise its earlier estimates and recognize the increased obligation as a loss in earnings. That is, if subsequent events increase the fair value of a stratum of servicing liabilities within a class that an entity has elected to subsequently measure using the amortization method, that increase shall be recognized in earnings as a loss. Similar to the accounting for changes in a valuation allowance for an impaired asset, increases in the servicing obligation may be recovered, but the obligation shall not be reduced below the amortized measurement of the initially recognized servicing liability.
+The impairment provisions of paragraphs 860-50-35-9 and 860-50-35-11 for classes of servicing assets and servicing liabilities subsequently measured using the amortization method are based on the fair value of the contract rather than the gain or loss from subsequently carrying out the terms of the contract.
+The impairment provisions of paragraphs 860-50-35-9 and 860-50-35-11 for classes of servicing assets and servicing liabilities subsequently measured using the amortization method are based on the fair value of the contract rather than the gain or loss from subsequently carrying out the terms of the contract.
+An entity is not required to use either the most predominant risk characteristic or more than one predominant risk characteristic to stratify the servicing assets for purposes of evaluating and measuring impairment. An entity must exercise judgment when determining how to stratify servicing assets (that is, when selecting the most appropriate characteristic[s] for stratification). An entity may use different stratification criteria for the purposes of impairment testing under this Subtopic and for the purposes of grouping similar assets to be designated as a hedged portfolio in a fair value hedge under Subtopic 815-20. If an entity chooses not to restratify servicing assets for impairment testing under this Subtopic consistent with any restratification done for compliance with hedging criteria under Subtopic 815-20, the entity shall record any adjustments resulting from a fair value hedge to the risk strata used for impairment testing under paragraph 860-50-35-9.
+An entity is not required to use either the most predominant risk characteristic or more than one predominant risk characteristic to stratify the servicing assets for purposes of evaluating and measuring impairment. An entity must exercise judgment when determining how to stratify servicing assets (that is, when selecting the most appropriate characteristic[s] for stratification). An entity may use different stratification criteria for the purposes of impairment testing under this Subtopic and for the purposes of grouping similar assets to be designated as a hedged portfolio in a fair value hedge under Subtopic 815-20. If an entity chooses not to restratify servicing assets for impairment testing under this Subtopic consistent with any restratification done for compliance with hedging criteria under Subtopic 815-20, the entity shall record any adjustments resulting from a fair value hedge to the risk strata used for impairment testing under paragraph 860-50-35-9.
+Once an entity has determined the predominant risk characteristics to be used in identifying the resulting stratums within each class of servicing assets subsequently measured using the amortization method, that decision shall be applied consistently unless significant changes in economic facts and circumstances clearly indicate that the predominant risk characteristics and resulting stratums should be changed. If a significant change in economic facts and circumstances occurs, that change shall be accounted for prospectively as a change in accounting estimate in accordance with paragraphs 250-10-45-17 through 45-19
+and 250-10-50-4.
+Once an entity has determined the predominant risk characteristics to be used in identifying the resulting stratums within each class of servicing assets subsequently measured using the amortization method, that decision shall be applied consistently unless significant changes in economic facts and circumstances clearly indicate that the predominant risk characteristics and resulting stratums should be changed. If a significant change in economic facts and circumstances occurs, that change shall be accounted for prospectively as a change in accounting estimate in accordance with paragraphs 250-10-45-17 through 45-19
+**860-50-35-15** and 250-10-50-4.
+Paragraph superseded by Accounting Standards Update No. 2009-16.
+Paragraph superseded by Accounting Standards Update No. 2009-16.
+Paragraph superseded by Accounting Standards Update No. 2009-16.
+Paragraph superseded by Accounting Standards Update No. 2009-16.
+**860-50-35-17** > Obligation to Service Refinanced Mortgage Loans
+When an entity that is servicing mortgage loans refinances a mortgage loan that is being serviced (resulting in prepayment of the old mortgage loan and origination of a new mortgage loan), the entity shall not consider the estimated future net servicing income (that is, servicing revenue in excess of servicing costs) from the new mortgage loan in determining how to amortize any capitalized cost related to acquiring the mortgage servicing asset for the old mortgage loan. The mortgage servicing asset represents a contractual relationship between the servicer and the investor in the mortgage loan, not between the servicer and the borrower.
+When an entity that is servicing mortgage loans refinances a mortgage loan that is being serviced (resulting in prepayment of the old mortgage loan and origination of a new mortgage loan), the entity shall not consider the estimated future net servicing income (that is, servicing revenue in excess of servicing costs) from the new mortgage loan in determining how to amortize any capitalized cost related to acquiring the mortgage servicing asset for the old mortgage loan. The mortgage servicing asset represents a contractual relationship between the servicer and the investor in the mortgage loan, not between the servicer and the borrower.
+The cost of a mortgage servicing asset that is subsequently measured using the amortization method may require adjustment as a result of the refinancing transaction depending on the servicer's assumptions in recording the servicing asset. If the refinancing transaction represents prepayment activity anticipated by the servicer when the servicing asset was recorded, an adjustment would not be necessary. However, if actual prepayments differ from anticipated prepayments, an adjustment to the servicing asset would be required. If the servicing assets or liabilities are subsequently measured using the fair value measurement method, the entity shall recognize any adjustment as a result of the refinancing transaction directly in earnings.
+The cost of a mortgage servicing asset that is subsequently measured using the amortization method may require adjustment as a result of the refinancing transaction depending on the servicer's assumptions in recording the servicing asset. If the refinancing transaction represents prepayment activity anticipated by the servicer when the servicing asset was recorded, an adjustment would not be necessary. However, if actual prepayments differ from anticipated prepayments, an adjustment to the servicing asset would be required. If the servicing assets or liabilities are subsequently measured using the fair value measurement method, the entity shall recognize any adjustment as a result of the refinancing transaction directly in earnings.
+
+## 40 Derecognition
+
+General Note:The Derecognition Section provides guidance on determining whether and when an entity should remove an item from the financial statements. For example, the entity would derecognize an asset because it no longer has rights to the asset or it would derecognize a liability because it no longer has any obligation.
+
+### General
+
+Overall
+2. Transfers with a subservicing contract
+3. Transfers involving participation in an income stream.
+
+Overall
+2. Transfers with a subservicing contract
+3. Transfers involving participation in an income stream.
+
+**860-50-40-2** > Overall
+Whether the transferor
+1. has received written approval from the investor if required.
+2. Whether the transferee is a currently approved transferor-servicer and is not at risk of losing approved status.
+3. If the transferor finances a portion of the sales price, whether an adequate nonrefundable down payment has been received (necessary to demonstrate the transferee's commitment to pay the remaining sales price) and whether the note receivable from the transferee provides full recourse to the transferee. Nonrecourse notes or notes with limited recourse (such as to the servicing) do not satisfy this criterion.
+4. Temporary servicing performed by the transferor for a short period of time shall be compensated in accordance with a subservicing contract that provides adequate compensation.
+
+Whether the transferor
+1. has received written approval from the investor if required.
+2. Whether the transferee is a currently approved transferor-servicer and is not at risk of losing approved status.
+3. If the transferor finances a portion of the sales price, whether an adequate nonrefundable down payment has been received (necessary to demonstrate the transferee's commitment to pay the remaining sales price) and whether the note receivable from the transferee provides full recourse to the transferee. Nonrecourse notes or notes with limited recourse (such as to the servicing) do not satisfy this criterion.
+4. Temporary servicing performed by the transferor for a short period of time shall be compensated in accordance with a subservicing contract that provides adequate compensation.
+
+Title has passed.
+2. Substantially all risks and rewards of ownership have irrevocably passed to the buyer.
+3. Any protection provisions retained by the seller are minor and can be reasonably estimated.
+
+Title has passed.
+2. Substantially all risks and rewards of ownership have irrevocably passed to the buyer.
+3. Any protection provisions retained by the seller are minor and can be reasonably estimated.
+
+The obligation associated with those provisions is estimated to be no more than 10 percent of the sales price.
+2. Risk of prepayment is retained for no longer than 120 days.
+
+The obligation associated with those provisions is estimated to be no more than 10 percent of the sales price.
+2. Risk of prepayment is retained for no longer than 120 days.
+
+A temporary subservicing contract in which the subservicing will be performed by the transferor for a short period of time would not necessarily preclude recognizing a sale at the closing date.
+A temporary subservicing contract in which the subservicing will be performed by the transferor for a short period of time would not necessarily preclude recognizing a sale at the closing date.
+The criteria in paragraphs 860-50-40-2 through 40-4
+apply to transfers of servicing rights relating to loans previously sold and to transfers of servicing rights relating to loans that are retained by the transferor. The carrying amount of servicing rights sold relating to loans that have been retained shall be allocated at the date of sale between the servicing rights and the loans retained using relative fair values.
+The criteria in paragraphs 860-50-40-2 through 40-4
+**860-50-40-7** apply to transfers of servicing rights relating to loans previously sold and to transfers of servicing rights relating to loans that are retained by the transferor. The carrying amount of servicing rights sold relating to loans that have been retained shall be allocated at the date of sale between the servicing rights and the loans retained using relative fair values. > Sales of Servicing Rights with a Subservicing Contract
+A sale of mortgage servicing rights with a subservicing contract shall be treated as a sale with gain deferred if substantially all the risks and rewards inherent in owning the mortgage servicing rights have been effectively transferred to the transferee, as discussed in paragraph 860-50-40-3. Attributes of the transferee (for example, ability to perform servicing) would not be significant to the accounting for the transaction. The risks and rewards associated with a transferor performing purely administrative functions under a subservicing contract would not necessarily preclude sales treatment. A loss shall be recognized currently if the transferor determines that prepayments of the underlying mortgage loans may result in performing the future servicing at a loss.
+A sale of mortgage servicing rights with a subservicing contract shall be treated as a sale with gain deferred if substantially all the risks and rewards inherent in owning the mortgage servicing rights have been effectively transferred to the transferee, as discussed in paragraph 860-50-40-3. Attributes of the transferee (for example, ability to perform servicing) would not be significant to the accounting for the transaction. The risks and rewards associated with a transferor performing purely administrative functions under a subservicing contract would not necessarily preclude sales treatment. A loss shall be recognized currently if the transferor determines that prepayments of the underlying mortgage loans may result in performing the future servicing at a loss.
+The transferor-subservicer directly or indirectly guarantees a yield to the transferee. For example, the transferor-subservicer guarantees prepayment speeds or maximum loan default ratios to the buyer.
+2. The transferor-subservicer is obligated to advance a portion or all of the servicing fees on a nonrecoverable basis to the transferee before receipt of the loan payment from the mortgagor.
+3. The transferor-subservicer indemnifies the transferee for damages due to causes other than failure to perform its duties under the terms of the subservicing contract.
+4. The transferor-subservicer absorbs losses on mortgage loan foreclosures not covered by the Federal Housing Administration, Department of Veterans Affairs, or other guarantors, if any, including absorption of foreclosure costs and costs of managing foreclosed property.
+5. Title to the servicing rights is retained by the transferor-subservicer.
+
+The transferor-subservicer directly or indirectly guarantees a yield to the transferee. For example, the transferor-subservicer guarantees prepayment speeds or maximum loan default ratios to the buyer.
+2. The transferor-subservicer is obligated to advance a portion or all of the servicing fees on a nonrecoverable basis to the transferee before receipt of the loan payment from the mortgagor.
+3. The transferor-subservicer indemnifies the transferee for damages due to causes other than failure to perform its duties under the terms of the subservicing contract.
+4. The transferor-subservicer absorbs losses on mortgage loan foreclosures not covered by the Federal Housing Administration, Department of Veterans Affairs, or other guarantors, if any, including absorption of foreclosure costs and costs of managing foreclosed property.
+5. Title to the servicing rights is retained by the transferor-subservicer.
+
+The transferor-subservicer directly or indirectly provides financing or guarantees the transferee's financing. Nonrecourse financing, for example, would indicate that risks have not been transferred to the transferee. Topic 450 requires a guarantor to recognize, at inception of the guarantee, a liability for the obligation undertaken in issuing the guarantee.
+2. The terms of the subservicing contract unduly limit the transferee's ability to exercise ownership control over the servicing rights or result in the seller's retaining some of the risks and rewards of ownership. For example, if the transferee cannot cancel or decline to renew the subservicing contract after a reasonable period of time, the transferee is precluded from exercising certain rights of ownership. Conversely, if the transferor cannot cancel the subservicing contract after a reasonable period of time, the transferor has not transferred substantially all of the risks of ownership.
+3. The transferee is a special-purpose entity without substantive capital at risk.
+
+The transferor-subservicer directly or indirectly provides financing or guarantees the transferee's financing. Nonrecourse financing, for example, would indicate that risks have not been transferred to the transferee. Topic 450 requires a guarantor to recognize, at inception of the guarantee, a liability for the obligation undertaken in issuing the guarantee.
+2. The terms of the subservicing contract unduly limit the transferee's ability to exercise ownership control over the servicing rights or result in the seller's retaining some of the risks and rewards of ownership. For example, if the transferee cannot cancel or decline to renew the subservicing contract after a reasonable period of time, the transferee is precluded from exercising certain rights of ownership. Conversely, if the transferor cannot cancel the subservicing contract after a reasonable period of time, the transferor has not transferred substantially all of the risks of ownership.
+3. The transferee is a special-purpose entity without substantive capital at risk.
+
+**860-50-40-10** > Sales of Servicing Rights for Participation in an Income Stream
+The following addresses a situation in which an entity sells the right to service mortgage loans that are owned by other parties. The related mortgage loans have been previously sold, with servicing retained, in a separate transaction. Because of the ability to invest the float that results from payments received from borrowers but not yet passed to the owners of the mortgages, the mortgage servicing rights can be sold for immediate cash or for a participation in the future interest stream of the loans.
+The following addresses a situation in which an entity sells the right to service mortgage loans that are owned by other parties. The related mortgage loans have been previously sold, with servicing retained, in a separate transaction. Because of the ability to invest the float that results from payments received from borrowers but not yet passed to the owners of the mortgages, the mortgage servicing rights can be sold for immediate cash or for a participation in the future interest stream of the loans.
+If a transfer of mortgage servicing rights qualifies as a sale under the criteria beginning in paragraph 860-50-40-2 and the sale is for a participation in the future interest income stream, gain recognition is appropriate at the sale date. There are difficulties in measuring the amount of the gain if the sales price is based on a participation in future payments and there is no specified upper limit on the computed sales price. The transferor of mortgage servicing rights shall consider all available information, including the amount of gain that would be recognized if the servicing rights were to be sold outright for a fixed cash price.
+If a transfer of mortgage servicing rights qualifies as a sale under the criteria beginning in paragraph 860-50-40-2 and the sale is for a participation in the future interest income stream, gain recognition is appropriate at the sale date. There are difficulties in measuring the amount of the gain if the sales price is based on a participation in future payments and there is no specified upper limit on the computed sales price. The transferor of mortgage servicing rights shall consider all available information, including the amount of gain that would be recognized if the servicing rights were to be sold outright for a fixed cash price.
+
+## 45 Other Presentation Matters
+
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+
+### General
+
+An entity shall report recognized servicing assets
+and servicing liabilities that are subsequently measured using the fair value measurement method in a manner that separates those carrying amounts on the face of the statement of financial position from the carrying amounts for separately recognized servicing assets and servicing liabilities that are subsequently measured using the amortization method.
+An entity shall report recognized servicing assets
+**860-50-45-2** and servicing liabilities that are subsequently measured using the fair value measurement method in a manner that separates those carrying amounts on the face of the statement of financial position from the carrying amounts for separately recognized servicing assets and servicing liabilities that are subsequently measured using the amortization method.
+Display separate line items for the amounts that are subsequently measured using the fair value measurement method and amounts that are subsequently measured using the amortization method
+2. Present the aggregate of those amounts that are subsequently measured at fair value and those amounts that are subsequently measured using the amortization method (see paragraphs 860-50-35-9 through 35-11) and disclose parenthetically the amount that is subsequently measured at fair value that is included in the aggregate amount.
+
+Display separate line items for the amounts that are subsequently measured using the fair value measurement method and amounts that are subsequently measured using the amortization method
+2. Present the aggregate of those amounts that are subsequently measured at fair value and those amounts that are subsequently measured using the amortization method (see paragraphs 860-50-35-9 through 35-11) and disclose parenthetically the amount that is subsequently measured at fair value that is included in the aggregate amount.
+
+## 50 Disclosure
+
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+
+### General
+
+**860-50-50-1** > All Entities within the Scope of Subtopic
+All servicing assets
+1. and servicing liabilities
+2. Servicing assets and servicing liabilities subsequently measured at fair value
+3. Servicing assets and servicing liabilities subsequently amortized
+4. Servicing assets and servicing liabilities for which subsequent measurement at fair value is elected as of the beginning of the fiscal year.
+
+For overall guidance on Topic 860's disclosures, see Section 860-10-50.
+**860-50-50-1** All servicing assets
+1. and servicing liabilities
+2. Servicing assets and servicing liabilities subsequently measured at fair value
+3. Servicing assets and servicing liabilities subsequently amortized
+4. Servicing assets and servicing liabilities for which subsequent measurement at fair value is elected as of the beginning of the fiscal year.
+
+##### · > All Servicing Assets and Servicing                Liabilities
+
+**860-50-50-2** For overall guidance on Topic 860's disclosures, see Section 860-10-50.
+Management's basis for determining its classes of servicing assets and servicing liabilities.
+2. A description of the risks inherent in servicing assets and servicing liabilities and, if applicable, the instruments used to mitigate the income statement effect of changes in fair value of the servicing assets and servicing liabilities.
+3. The amount of contractually specified servicing fees, late fees, and ancillary fees recognized for each period for which results of operations are presented, including a description of where each amount is reported in the statement of income.
+4. Quantitative and qualitative information about the assumptions used to estimate fair value (for example, discount rates, anticipated credit losses, and prepayment speeds).
+
+1. Management's basis for determining its classes of servicing assets and servicing liabilities.
+2. A description of the risks inherent in servicing assets and servicing liabilities and, if applicable, the instruments used to mitigate the income statement effect of changes in fair value of the servicing assets and servicing liabilities.
+3. The amount of contractually specified servicing fees, late fees, and ancillary fees recognized for each period for which results of operations are presented, including a description of where each amount is reported in the statement of income.
+4. Quantitative and qualitative information about the assumptions used to estimate fair value (for example, discount rates, anticipated credit losses, and prepayment speeds).
+
+Disclosure of quantitative information about the instruments used to manage the risks inherent in servicing assets and servicing liabilities, including the fair value of those instruments at the beginning and end of the period, is encouraged but not required. An entity that provides such quantitative information is also encouraged, but not required, to disclose quantitative and qualitative information about the assumptions used to estimate the fair value of those instruments. Section 235-10-50 provides guidance on disclosures of accounting policies.
+**860-50-50-2** Management's basis for determining its classes of servicing assets and servicing liabilities.
+2. A description of the risks inherent in servicing assets and servicing liabilities and, if applicable, the instruments used to mitigate the income statement effect of changes in fair value of the servicing assets and servicing liabilities.
+3. The amount of contractually specified servicing fees, late fees, and ancillary fees recognized for each period for which results of operations are presented, including a description of where each amount is reported in the statement of income.
+4. Quantitative and qualitative information about the assumptions used to estimate fair value (for example, discount rates, anticipated credit losses, and prepayment speeds).
+
+1. Management's basis for determining its classes of servicing assets and servicing liabilities.
+2. A description of the risks inherent in servicing assets and servicing liabilities and, if applicable, the instruments used to mitigate the income statement effect of changes in fair value of the servicing assets and servicing liabilities.
+3. The amount of contractually specified servicing fees, late fees, and ancillary fees recognized for each period for which results of operations are presented, including a description of where each amount is reported in the statement of income.
+4. Quantitative and qualitative information about the assumptions used to estimate fair value (for example, discount rates, anticipated credit losses, and prepayment speeds).
+
+##### · > Servicing Assets and Servicing                Liabilities Subsequently Measured at Fair Value
+
+**860-50-50-3** Disclosure of quantitative information about the instruments used to manage the risks inherent in servicing assets and servicing liabilities, including the fair value of those instruments at the beginning and end of the period, is encouraged but not required. An entity that provides such quantitative information is also encouraged, but not required, to disclose quantitative and qualitative information about the assumptions used to estimate the fair value of those instruments. Section 235-10-50 provides guidance on disclosures of accounting policies.
+For each class of servicing assets and servicing liabilities, the activity in the balance of servicing assets and the activity in the balance of servicing liabilities (including a description of where changes in fair value are reported in the statement of income for each period for which results of operations are presented), including, but not limited to, the following:
+1. The beginning and ending balances
+1. Purchases of servicing assets
+2. Assumptions of servicing obligations
+3. Recognition of servicing obligations that result from transfers of financial assets.
+
+4. Disposals
+1. Changes in valuation inputs or assumptions used in the valuation model
+2. Other changes in fair value and a description of those changes.
+
+3. Other changes that affect the balance and a description of those changes.
+
+4. Subparagraph superseded by Accounting Standards Update No. 2009-16.
+
+1. The beginning and ending balances
+1. Purchases of servicing assets
+2. Assumptions of servicing obligations
+3. Recognition of servicing obligations that result from transfers of financial assets.
+
+4. Disposals
+1. Changes in valuation inputs or assumptions used in the valuation model
+2. Other changes in fair value and a description of those changes.
+
+3. Other changes that affect the balance and a description of those changes.
+
+4. Subparagraph superseded by Accounting Standards Update No. 2009-16.
+
+**860-50-50-3** For each class of servicing assets and servicing liabilities, the activity in the balance of servicing assets and the activity in the balance of servicing liabilities (including a description of where changes in fair value are reported in the statement of income for each period for which results of operations are presented), including, but not limited to, the following:
+1. The beginning and ending balances
+1. Purchases of servicing assets
+2. Assumptions of servicing obligations
+3. Recognition of servicing obligations that result from transfers of financial assets.
+
+4. Disposals
+1. Changes in valuation inputs or assumptions used in the valuation model
+2. Other changes in fair value and a description of those changes.
+
+3. Other changes that affect the balance and a description of those changes.
+
+4. Subparagraph superseded by Accounting Standards Update No. 2009-16.
+
+1. The beginning and ending balances
+1. Purchases of servicing assets
+2. Assumptions of servicing obligations
+3. Recognition of servicing obligations that result from transfers of financial assets.
+
+4. Disposals
+1. Changes in valuation inputs or assumptions used in the valuation model
+2. Other changes in fair value and a description of those changes.
+
+3. Other changes that affect the balance and a description of those changes.
+
+4. Subparagraph superseded by Accounting Standards Update No. 2009-16.
+
+##### · > Servicing Assets and Servicing                Liabilities Subsequently Amortized
+
+**860-50-50-4** For each class of servicing assets and servicing liabilities, the activity in the balance of servicing assets and the activity in the balance of servicing liabilities (including a description of where changes in the carrying amount are reported in the statement of income for each period for which results of operations are presented), including, but not limited to, the following:
+1. The beginning and ending balances
+1. Purchases of servicing assets
+2. Assumptions of servicing obligations
+3. Recognition of servicing obligations that result from transfers of financial assets.
+
+4. Disposals
+5. Amortization
+6. Application of valuation allowance to adjust carrying value of servicing assets
+7. Other-than-temporary impairments
+8. Other changes that affect the balance and a description of those changes.
+
+9. For each class of servicing assets and servicing liabilities, the fair value of recognized servicing assets and servicing liabilities at the beginning and end of the period.
+10. Subparagraph superseded by Accounting Standards Update No. 2009-16.
+11. The risk characteristics of the underlying financial assets used to stratify recognized servicing assets for purposes of measuring impairment in accordance with paragraph 860-50-35-9. If the predominant risk characteristics and resulting stratums are changed, that fact and the reasons for those changes shall be included in the disclosures about the risk characteristics of the underlying financial assets used to stratify the recognized servicing assets in accordance with this paragraph.
+1. Beginning and ending balances
+2. Aggregate additions charged and recoveries credited to operations
+3. Aggregate write-downs charged against the allowance.
+
+1. The beginning and ending balances
+1. Purchases of servicing assets
+2. Assumptions of servicing obligations
+3. Recognition of servicing obligations that result from transfers of financial assets.
+
+4. Disposals
+5. Amortization
+6. Application of valuation allowance to adjust carrying value of servicing assets
+7. Other-than-temporary impairments
+8. Other changes that affect the balance and a description of those changes.
+
+9. For each class of servicing assets and servicing liabilities, the fair value of recognized servicing assets and servicing liabilities at the beginning and end of the period.
+10. Subparagraph superseded by Accounting Standards Update No. 2009-16.
+11. The risk characteristics of the underlying financial assets used to stratify recognized servicing assets for purposes of measuring impairment in accordance with paragraph 860-50-35-9. If the predominant risk characteristics and resulting stratums are changed, that fact and the reasons for those changes shall be included in the disclosures about the risk characteristics of the underlying financial assets used to stratify the recognized servicing assets in accordance with this paragraph.
+1. Beginning and ending balances
+2. Aggregate additions charged and recoveries credited to operations
+3. Aggregate write-downs charged against the allowance.
+
+**860-50-50-4** For each class of servicing assets and servicing liabilities, the activity in the balance of servicing assets and the activity in the balance of servicing liabilities (including a description of where changes in the carrying amount are reported in the statement of income for each period for which results of operations are presented), including, but not limited to, the following:
+1. The beginning and ending balances
+1. Purchases of servicing assets
+2. Assumptions of servicing obligations
+3. Recognition of servicing obligations that result from transfers of financial assets.
+
+4. Disposals
+5. Amortization
+6. Application of valuation allowance to adjust carrying value of servicing assets
+7. Other-than-temporary impairments
+8. Other changes that affect the balance and a description of those changes.
+
+9. For each class of servicing assets and servicing liabilities, the fair value of recognized servicing assets and servicing liabilities at the beginning and end of the period.
+10. Subparagraph superseded by Accounting Standards Update No. 2009-16.
+11. The risk characteristics of the underlying financial assets used to stratify recognized servicing assets for purposes of measuring impairment in accordance with paragraph 860-50-35-9. If the predominant risk characteristics and resulting stratums are changed, that fact and the reasons for those changes shall be included in the disclosures about the risk characteristics of the underlying financial assets used to stratify the recognized servicing assets in accordance with this paragraph.
+1. Beginning and ending balances
+2. Aggregate additions charged and recoveries credited to operations
+3. Aggregate write-downs charged against the allowance.
+
+1. The beginning and ending balances
+1. Purchases of servicing assets
+2. Assumptions of servicing obligations
+3. Recognition of servicing obligations that result from transfers of financial assets.
+
+4. Disposals
+5. Amortization
+6. Application of valuation allowance to adjust carrying value of servicing assets
+7. Other-than-temporary impairments
+8. Other changes that affect the balance and a description of those changes.
+
+9. For each class of servicing assets and servicing liabilities, the fair value of recognized servicing assets and servicing liabilities at the beginning and end of the period.
+10. Subparagraph superseded by Accounting Standards Update No. 2009-16.
+11. The risk characteristics of the underlying financial assets used to stratify recognized servicing assets for purposes of measuring impairment in accordance with paragraph 860-50-35-9. If the predominant risk characteristics and resulting stratums are changed, that fact and the reasons for those changes shall be included in the disclosures about the risk characteristics of the underlying financial assets used to stratify the recognized servicing assets in accordance with this paragraph.
+1. Beginning and ending balances
+2. Aggregate additions charged and recoveries credited to operations
+3. Aggregate write-downs charged against the allowance.
+
+##### · > Servicing Assets and Servicing                Liabilities for Which Subsequent Measurement at Fair Value Is Elected as of the                Beginning of the Fiscal Year
+
+**860-50-50-5** If an entity elects under paragraph 860-50-35-3(d) to subsequently measure a class of servicing assets and servicing liabilities at fair value at the beginning of the fiscal year, the amount of the cumulative-effect adjustment to retained earnings shall be separately disclosed.
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1If an entity elects under paragraph 860-50-35-3(d) to subsequently measure a class of servicing assets and servicing liabilities at fair value at the beginning of the fiscal year, the amount of the cumulative-effect adjustment to retained earnings shall be separately disclosed in the interim or annual reporting period in which the adjustment is recorded.
+**860-50-50-5** If an entity elects under paragraph 860-50-35-3(d) to subsequently measure a class of servicing assets and servicing liabilities at fair value at the beginning of the fiscal year, the amount of the cumulative-effect adjustment to retained earnings shall be separately disclosed.
+**860-50-50-6** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1If an entity elects under paragraph 860-50-35-3(d) to subsequently measure a class of servicing assets and servicing liabilities at fair value at the beginning of the fiscal year, the amount of the cumulative-effect adjustment to retained earnings shall be separately disclosed in the interim or annual reporting period in which the adjustment is recorded.
+Paragraphs 860-50-50-6 through 50-9 superseded by Accounting Standards Update No. 2009-16.
+**860-50-50-6** Paragraphs 860-50-50-6 through 50-9 superseded by Accounting Standards Update No. 2009-16.
+
+## 55 Implementation Guidance and Illustrations
+
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+
+### General
+
+Paragraph superseded by Accounting Standards Update No. 2009-16.
+Paragraph superseded by Accounting Standards Update No. 2009-16.
+Paragraph superseded by Accounting Standards Update No. 2009-16.
+Paragraph superseded by Accounting Standards Update No. 2009-16.
+
+##### · > Recognition of Servicing Assets and Servicing Liabilities
+
+**860-50-55-3** > Implementation Guidance
+Recognition of servicing upon sale of a participating interest
+2. Servicer not entitled to receive a contractually specified servicing fee
+3. Servicing assets assumed without cash payment
+4. Subservicing contracts.
+
+Recognition of servicing upon sale of a participating interest
+2. Servicer not entitled to receive a contractually specified servicing fee
+3. Servicing assets assumed without cash payment
+4. Subservicing contracts.
+
+**860-50-55-4** · · > Recognition of Servicing upon Sale of a Participating Interest
+If the entity that transfers a portion of a loan under a participation agreement that meets the definition of a participating interest and qualifies for sale accounting under Subtopic 860-10 obtains the right to receive benefits of servicing
+that more than adequately compensate it for servicing the loan, and the entity would continue to service the loan regardless of the transfer because it retains part of the participated loan, the entity shall record a servicing asset for the portion of the loan it sold. The assumption that the entity would service the loan because it retains part of the participated loan does not affect the requirement to recognize a servicing asset. Conversely, an entity could not avoid recording a servicing liability if the benefits of servicing are not expected to adequately compensate the servicer for performing the servicing. However, if the benefits of servicing are significantly above an amount that would fairly compensate a substitute service provider, should one be required, the transferred portion does not meet the definition of a participating interest, and, therefore, the transfer does not qualify for sale accounting (see paragraph 860-10-40-6A(b)).
+If the entity that transfers a portion of a loan under a participation agreement that meets the definition of a participating interest and qualifies for sale accounting under Subtopic 860-10 obtains the right to receive benefits of servicing
+**860-50-55-5** that more than adequately compensate it for servicing the loan, and the entity would continue to service the loan regardless of the transfer because it retains part of the participated loan, the entity shall record a servicing asset for the portion of the loan it sold. The assumption that the entity would service the loan because it retains part of the participated loan does not affect the requirement to recognize a servicing asset. Conversely, an entity could not avoid recording a servicing liability if the benefits of servicing are not expected to adequately compensate the servicer for performing the servicing. However, if the benefits of servicing are significantly above an amount that would fairly compensate a substitute service provider, should one be required, the transferred portion does not meet the definition of a participating interest, and, therefore, the transfer does not qualify for sale accounting (see paragraph 860-10-40-6A(b)). · · > Servicer Is Not Entitled to Receive a Contractually Specified Servicing Fee
+The following guidance addresses whether an entity should recognize a servicing liability if it transfers all or some of a financial asset
+that meets the definition of a participating interest that is accounted for as a sale and undertakes an obligation to service the asset but is not entitled to receive a contractually specified servicing fee. In the circumstances described, the transferor-servicer would be required to recognize a servicing liability at fair value if the benefits of servicing are less than adequate compensation. The requirements in paragraph 860-50-25-1 apply even if it is not customary to charge a contractually specified servicing fee. Example 1, Case C (paragraph 860-50-55-25) illustrates a transaction in which a transferor agrees to service loans without explicit compensation.
+The following guidance addresses whether an entity should recognize a servicing liability if it transfers all or some of a financial asset
+**860-50-55-6** that meets the definition of a participating interest that is accounted for as a sale and undertakes an obligation to service the asset but is not entitled to receive a contractually specified servicing fee. In the circumstances described, the transferor-servicer would be required to recognize a servicing liability at fair value if the benefits of servicing are less than adequate compensation. The requirements in paragraph 860-50-25-1 apply even if it is not customary to charge a contractually specified servicing fee. Example 1, Case C (paragraph 860-50-55-25) illustrates a transaction in which a transferor agrees to service loans without explicit compensation. · · > Servicing Assets Assumed without Cash Payment
+The following guidance addresses transactions in which servicing assets are assumed without cash payment, and the appropriate offsetting entry by the transferee
+.
+The following guidance addresses transactions in which servicing assets are assumed without cash payment, and the appropriate offsetting entry by the transferee
+**860-50-55-7** .
+The offsetting entry depends on whether an exchange or capital transaction has occurred. If an exchange has occurred, then the transaction should be recorded based on the facts and circumstances. For example, the servicing asset may represent consideration for goods or services provided by the transferee to the transferor
+of the servicing. In that case, the offsetting entry by the transferee would be the same as if cash was received in exchange for the goods and services (that is, revenue or a liability as appropriate).
+The offsetting entry depends on whether an exchange or capital transaction has occurred. If an exchange has occurred, then the transaction should be recorded based on the facts and circumstances. For example, the servicing asset may represent consideration for goods or services provided by the transferee to the transferor
+**860-50-55-8** of the servicing. In that case, the offsetting entry by the transferee would be the same as if cash was received in exchange for the goods and services (that is, revenue or a liability as appropriate).
+The servicing assets also might be received in full or partial satisfaction of a receivable from the transferor of the servicing. In those cases, the offsetting entry by the transferee would be to derecognize
+all or part of the receivable satisfied in the exchange. Another possibility is that an investor is in substance making a capital contribution to the investee (the party receiving the servicing asset, that is, the transferee) in exchange for an increased ownership interest. In that case, the investee should recognize an increase in equity from a contribution by owner.
+The servicing assets also might be received in full or partial satisfaction of a receivable from the transferor of the servicing. In those cases, the offsetting entry by the transferee would be to derecognize
+**860-50-55-9** all or part of the receivable satisfied in the exchange. Another possibility is that an investor is in substance making a capital contribution to the investee (the party receiving the servicing asset, that is, the transferee) in exchange for an increased ownership interest. In that case, the investee should recognize an increase in equity from a contribution by owner.
+Paragraph superseded by Accounting Standards Update No. 2009-16.
+Paragraph superseded by Accounting Standards Update No. 2009-16.
+**860-50-55-10** · · > Subservicing Contracts
+A transferor may transfer mortgage loans in their entirety to a third party in a transfer that is accounted for as a sale and undertake an obligation to service the loans. After the transfer, the transferor enters into a subservicing arrangement with a third party.
+A transferor may transfer mortgage loans in their entirety to a third party in a transfer that is accounted for as a sale and undertake an obligation to service the loans. After the transfer, the transferor enters into a subservicing arrangement with a third party.
+If the transferor's benefits of servicing exceed its obligation under the subservicing contract, that differential shall not be accounted for as an interest-only strip. Rather, the transferor should account for the two transactions separately. First, the transferor should account for the transfer of mortgage loans in accordance with Subtopic 860-20. The obligation to service the loans should be initially recognized and measured at fair value according to paragraph 860-50-30-1 as proceeds obtained from the sale of the mortgage loans. Second, the transferor should account for the subcontract with the subservicer.
+If the transferor's benefits of servicing exceed its obligation under the subservicing contract, that differential shall not be accounted for as an interest-only strip. Rather, the transferor should account for the two transactions separately. First, the transferor should account for the transfer of mortgage loans in accordance with Subtopic 860-20. The obligation to service the loans should be initially recognized and measured at fair value according to paragraph 860-50-30-1 as proceeds obtained from the sale of the mortgage loans. Second, the transferor should account for the subcontract with the subservicer.
+Paragraphs 860-50-55-12 through 55-19 superseded by Accounting Standards Update No. 2009-16.
+Paragraphs 860-50-55-12 through 55-19 superseded by Accounting Standards Update No. 2009-16.
+
+##### · > Example 1: Sale of Receivables with Servicing Obtained by the Transferor
+
+**860-50-55-20** > Illustrations
+Transferor continues to service the loans (Case A).
+2. Subparagraph superseded by Accounting Standards Update No. 2009-16.
+3. Future benefits of servicing do not provide adequate compensation (Case C).
+
+Transferor continues to service the loans (Case A).
+2. Subparagraph superseded by Accounting Standards Update No. 2009-16.
+3. Future benefits of servicing do not provide adequate compensation (Case C).
+
+Entity A originates $1,000 of loans that yield 10 percent interest income for their estimated lives of 9 years. Entity A transfers the entire loans to an unconsolidated entity and the transfer is accounted for as a sale.
+Entity A originates $1,000 of loans that yield 10 percent interest income for their estimated lives of 9 years. Entity A transfers the entire loans to an unconsolidated entity and the transfer is accounted for as a sale.
+**860-50-55-22** · · > Case A: Transferor Continues to Service the Loans
+Entity A receives as proceeds $1,000 cash, a beneficial interest to receive 1 percent of the contractual interest on the loans (an interest-only strip receivable), and an additional 1 percent of the contractual interest as compensation for servicing the loans. The fair values of the servicing asset and the interest-only strip receivable are $40 and $60, respectively. This Case illustrates Entity A's (the transferor's) accounting for a sale with the servicing obtained by Entity A (the transferor), as follows.
+Entity A receives as proceeds $1,000 cash, a beneficial interest to receive 1 percent of the contractual interest on the loans (an interest-only strip receivable), and an additional 1 percent of the contractual interest as compensation for servicing the loans. The fair values of the servicing asset and the interest-only strip receivable are $40 and $60, respectively. This Case illustrates Entity A's (the transferor's) accounting for a sale with the servicing obtained by Entity A (the transferor), as follows.
+Paragraph superseded by Accounting Standards Update No. 2009-16.
+Paragraph superseded by Accounting Standards Update No. 2009-16.
+Paragraph superseded by Accounting Standards Update No. 2009-16.
+Paragraph superseded by Accounting Standards Update No. 2009-16.
+**860-50-55-25** · · > Case C: Future Benefits of Servicing Do Not Provide Adequate Compensation
+Transferors sometimes agree to take on servicing responsibilities when the future benefits of servicing are not expected to adequately compensate them for performing that servicing. In that circumstance, the result is a servicing liability rather than a servicing asset.
+Transferors sometimes agree to take on servicing responsibilities when the future benefits of servicing are not expected to adequately compensate them for performing that servicing. In that circumstance, the result is a servicing liability rather than a servicing asset.
+For example, if in the transaction illustrated in paragraphs 860-20-55-43 through 55-45
+, the transferor (Entity A) had agreed to service the loans without explicit compensation and it estimated the fair value of that servicing obligation at $50, net proceeds would be reduced to $980, gain on sale would become a loss on sale of $20, and the transferor would report a servicing liability of $50.
+For example, if in the transaction illustrated in paragraphs 860-20-55-43 through 55-45
+**860-50-55-27** , the transferor (Entity A) had agreed to service the loans without explicit compensation and it estimated the fair value of that servicing obligation at $50, net proceeds would be reduced to $980, gain on sale would become a loss on sale of $20, and the transferor would report a servicing liability of $50.
+Paragraph superseded by Accounting Standards Update No. 2009-16.
+Paragraph superseded by Accounting Standards Update No. 2009-16.
+
+## 60 Relationships
+
+General Note:The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
+
+### General
+
+**860-50-60-1** > Derivatives and Hedging
+For guidance on whether an entity may designate as the hedged item in a fair value hedge a portion of a recognized servicing right asset subsequently measured using the amortization method, see paragraph 815-20-55-65.
+**860-50-60-1** For guidance on whether an entity may designate as the hedged item in a fair value hedge a portion of a recognized servicing right asset subsequently measured using the amortization method, see paragraph 815-20-55-65.
+**860-50-60-2** > Financial Services—Mortgage Banking
+For guidance on the capitalization of interest costs on certain Government National Mortgage Association (GNMA) securities, and the determination of net future servicing income for this purpose, see paragraph 948-340-30-1.
+**860-50-60-2** For guidance on the capitalization of interest costs on certain Government National Mortgage Association (GNMA) securities, and the determination of net future servicing income for this purpose, see paragraph 948-340-30-1.

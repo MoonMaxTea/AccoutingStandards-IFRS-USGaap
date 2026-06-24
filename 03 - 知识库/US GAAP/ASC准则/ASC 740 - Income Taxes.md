@@ -2887,3 +2887,803 @@ Recently, questions have arisen about the effect, if any, that the different sig
 The following is the text of SEC Staff Announcement: Accounting for the Health Care and Education Reconciliation Act of 2010 and the Patient Protection and Affordable Care Act On March 30, 2010, the President signed the Health Care and Education Reconciliation Act of 2010, which is a reconciliation bill that amends the Patient Protection and Affordable Care Act that was signed by the President on March 23, 2010 (collectively the "Acts").
 Recently, questions have arisen about the effect, if any, that the different signing dates might have on the accounting for these two Acts. This timing difference, related solely to the signing dates, should not have an impact on a majority of registrants because the Acts were both signed within a relatively short time period, which for the vast majority of companies falls into the same reporting period. However, there may be a limited number of registrants with a period end that falls between the signing dates for which the timing difference could raise questions about whether the different signing dates have an accounting impact. For example, FASB Codification Topic 740, Income Taxes, requires the measurement of current and deferred tax liabilities and assets to be based on provisions of enacted tax law; the effects of future changes in tax laws or rates are not anticipated.
 After consultation with the FASB staff, the Office of the Chief Accountant would not object to a view that the two Acts should be considered together for accounting purposes. That is, in this specific fact pattern the SEC staff would not object to a registrant incorporating the effects of the Health Care and Education Reconciliation Act of 2010 when accounting for the Patient Protection and Affordable Care Act. This view is based in part on the SEC staff's understanding that the two Acts, when taken together, represent the current health care reforms as passed by Congress and signed by the President. The SEC staff does not believe that it would be appropriate to analogize to this view in any other fact patterns.
+
+## 00 Status
+
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+
+### General
+
+The following table identifies the changes made to this Subtopic.
+**** **** **** ****
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Debt Security (1st def.) | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| Deferred Tax Expense (or Benefit) | Amended | Accounting Standards Update No. 2015-01 | 01/09/2015 |
+| Gains and Losses Included in Comprehensive Income but Excluded from Net Income | Amended | Accounting Standards Update No. 2012-04 | 10/01/2012 |
+| Tax Consequences | Superseded | Accounting Standards Update No. 2019-12 | 12/18/2019 |
+| Temporary Difference | Amended | Accounting Standards Update No. 2016-16 | 10/24/2016 |
+| 740-20-05-2 | Amended | Accounting Standards Update No. 2015-01 | 01/09/2015 |
+| 740-20-45-2 | Amended | Accounting Standards Update No. 2015-01 | 01/09/2015 |
+| 740-20-45-7 | Amended | Accounting Standards Update No. 2019-12 | 12/18/2019 |
+| 740-20-45-7 | Amended | Accounting Standards Update No. 2015-01 | 01/09/2015 |
+| 740-20-45-8 | Amended | Accounting Standards Update No. 2016-09 | 03/30/2016 |
+| 740-20-45-11 | Amended | Accounting Standards Update No. 2016-09 | 03/30/2016 |
+| 740-20-45-15 through 45-18 | Added | Accounting Standards Update No. 2016-01 | 01/05/2016 |
+| 740-20-55-2 | Amended | Accounting Standards Update No. 2016-09 | 03/30/2016 |
+| 740-20-55-10 through 55-12 | Amended | Accounting Standards Update No. 2019-12 | 12/18/2019 |
+| 740-20-55-10 through 55-12 | Amended | Accounting Standards Update No. 2015-01 | 01/09/2015 |
+| 740-20-55-12A through 55-12C | Added | Accounting Standards Update No. 2019-12 | 12/18/2019 |
+| 740-20-55-14 | Amended | Accounting Standards Update No. 2019-12 | 12/18/2019 |
+| 740-20-55-15 through 55-17 | Amended | Accounting Standards Update No. 2015-01 | 01/09/2015 |
+| 740-20-60-1 | Superseded | Accounting Standards Update No. 2016-01 | 01/05/2016 |
+
+****
+The following table identifies the changes made to this Subtopic.
+**** **** **** ****
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Debt Security (1st def.) | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| Deferred Tax Expense (or Benefit) | Amended | Accounting Standards Update No. 2015-01 | 01/09/2015 |
+| Gains and Losses Included in Comprehensive Income but Excluded from Net Income | Amended | Accounting Standards Update No. 2012-04 | 10/01/2012 |
+| Tax Consequences | Superseded | Accounting Standards Update No. 2019-12 | 12/18/2019 |
+| Temporary Difference | Amended | Accounting Standards Update No. 2016-16 | 10/24/2016 |
+| 740-20-05-2 | Amended | Accounting Standards Update No. 2015-01 | 01/09/2015 |
+| 740-20-45-2 | Amended | Accounting Standards Update No. 2015-01 | 01/09/2015 |
+| 740-20-45-7 | Amended | Accounting Standards Update No. 2019-12 | 12/18/2019 |
+| 740-20-45-7 | Amended | Accounting Standards Update No. 2015-01 | 01/09/2015 |
+| 740-20-45-8 | Amended | Accounting Standards Update No. 2016-09 | 03/30/2016 |
+| 740-20-45-11 | Amended | Accounting Standards Update No. 2016-09 | 03/30/2016 |
+| 740-20-45-15 through 45-18 | Added | Accounting Standards Update No. 2016-01 | 01/05/2016 |
+| 740-20-55-2 | Amended | Accounting Standards Update No. 2016-09 | 03/30/2016 |
+| 740-20-55-10 through 55-12 | Amended | Accounting Standards Update No. 2019-12 | 12/18/2019 |
+| 740-20-55-10 through 55-12 | Amended | Accounting Standards Update No. 2015-01 | 01/09/2015 |
+| 740-20-55-12A through 55-12C | Added | Accounting Standards Update No. 2019-12 | 12/18/2019 |
+| 740-20-55-14 | Amended | Accounting Standards Update No. 2019-12 | 12/18/2019 |
+| 740-20-55-15 through 55-17 | Amended | Accounting Standards Update No. 2015-01 | 01/09/2015 |
+| 740-20-60-1 | Superseded | Accounting Standards Update No. 2016-01 | 01/05/2016 |
+
+## 05 Overview and Background
+
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+
+### General
+
+**740-20-05-1** Subtopic 740-10 addresses the majority of accounting requirements for income taxes
+. That Subtopic also establishes the methods and requirements for computing total income tax expense or benefit for an entity.
+**740-20-05-1** Subtopic 740-10 addresses the majority of accounting requirements for income taxes
+**740-20-05-2** . That Subtopic also establishes the methods and requirements for computing total income tax expense or benefit for an entity.
+Continuing operations
+2. Discontinued operations
+3. Subparagraph superseded by Accounting Standards Update No. 2015-01.
+4. Other comprehensive income
+5. Items charged or credited directly to shareholders' equity.
+
+This Subtopic provides guidance on the method for making those allocations of total income tax expense or benefit and provides several examples and illustrations.
+**740-20-05-2** Continuing operations
+2. Discontinued operations
+3. Subparagraph superseded by Accounting Standards Update No. 2015-01.
+4. Other comprehensive income
+5. Items charged or credited directly to shareholders' equity.
+
+## 15 Scope and Scope Exceptions
+
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+
+### General
+
+**740-20-15-1** > Overall Guidance
+This Subtopic follows the same Scope and Scope Exceptions as outlined in the Overall Subtopic, see Section 740-10-15, with specific transaction qualifications noted below.
+**740-20-15-1** This Subtopic follows the same Scope and Scope Exceptions as outlined in the Overall Subtopic, see Section 740-10-15, with specific transaction qualifications noted below.
+**740-20-15-2** > Transactions
+The guidance in this Subtopic applies to the process of allocating total income tax expense or benefit of an entity for a period to different components of comprehensive income and shareholders' equity.
+**740-20-15-2** The guidance in this Subtopic applies to the process of allocating total income tax expense or benefit of an entity for a period to different components of comprehensive income and shareholders' equity.
+
+## 20 Glossary
+
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+
+##### Carryforwards
+
+Deductions or credits that cannot be utilized on the tax return during a year that may be carried forward to reduce taxable income or taxes payable in a future year. An operating loss carryforward is an excess of tax deductions over gross income in a year; a tax credit carryforward is the amount by which tax credits available for utilization exceed statutory limitations. Different tax jurisdictions have different rules about whether excess deductions or credits may be carried forward and the length of the carryforward period. The terms carryforward, operating loss carryforward, and tax credit carryforward refer to the amounts of those items, if any, reported in the tax return for the current year.
+Deductions or credits that cannot be utilized on the tax return during a year that may be carried forward to reduce taxable income or taxes payable in a future year. An operating loss carryforward is an excess of tax deductions over gross income in a year; a tax credit carryforward is the amount by which tax credits available for utilization exceed statutory limitations. Different tax jurisdictions have different rules about whether excess deductions or credits may be carried forward and the length of the carryforward period. The terms carryforward, operating loss carryforward, and tax credit carryforward refer to the amounts of those items, if any, reported in the tax return for the current year.
+
+##### Current Tax Expense (or Benefit)
+
+The amount of income taxes paid or payable (or refundable) for a year as determined by applying the provisions of the enacted tax law to the taxable income or excess of deductions over revenues for that year.
+The amount of income taxes paid or payable (or refundable) for a year as determined by applying the provisions of the enacted tax law to the taxable income or excess of deductions over revenues for that year.
+
+##### Debt Security
+
+1. Preferred stock that by its terms either must be redeemed by the issuing entity or is redeemable at the option of the investor
+2. A collateralized mortgage obligation (or other instrument) that is issued in equity form but is required to be accounted for as a nonequity instrument regardless of how that instrument is classified (that is, whether equity or debt) in the issuer's statement of financial position
+3. U.S. Treasury securities
+4. U.S. government agency securities
+5. Municipal securities
+6. Corporate bonds
+7. Convertible debt
+8. Commercial paper
+9. All securitized debt instruments, such as collateralized mortgage obligations and real estate mortgage investment conduits
+10. Interest-only and principal-only strips.
+
+1. Option contracts
+2. Financial futures contracts
+3. Forward contracts
+4. Lease contracts
+1. Trade accounts receivable arising from sales on credit by industrial or commercial entities
+2. Loans receivable arising from consumer, commercial, and real estate lending activities of financial institutions.
+
+Preferred stock that by its terms either must be redeemed by the issuing entity or is redeemable at the option of the investor
+2. A collateralized mortgage obligation (or other instrument) that is issued in equity form but is required to be accounted for as a nonequity instrument regardless of how that instrument is classified (that is, whether equity or debt) in the issuer's statement of financial position
+3. U.S. Treasury securities
+4. U.S. government agency securities
+5. Municipal securities
+6. Corporate bonds
+7. Convertible debt
+8. Commercial paper
+9. All securitized debt instruments, such as collateralized mortgage obligations and real estate mortgage investment conduits
+10. Interest-only and principal-only strips.
+
+Option contracts
+2. Financial futures contracts
+3. Forward contracts
+4. Lease contracts
+1. Trade accounts receivable arising from sales on credit by industrial or commercial entities
+2. Loans receivable arising from consumer, commercial, and real estate lending activities of financial institutions.
+
+##### Deductible Temporary Difference
+
+Temporary differences that result in deductible amounts in future years when the related asset or liability is recovered or settled, respectively. See Temporary Difference.
+Temporary differences that result in deductible amounts in future years when the related asset or liability is recovered or settled, respectively. See Temporary Difference.
+
+##### Deferred Tax Asset
+
+The deferred tax consequences attributable to deductible temporary differences and carryforwards. A deferred tax asset is measured using the applicable enacted tax rate and provisions of the enacted tax law. A deferred tax asset is reduced by a valuation allowance if, based on the weight of evidence available, it is more likely than not that some portion or all of a deferred tax asset will not be realized.
+The deferred tax consequences attributable to deductible temporary differences and carryforwards. A deferred tax asset is measured using the applicable enacted tax rate and provisions of the enacted tax law. A deferred tax asset is reduced by a valuation allowance if, based on the weight of evidence available, it is more likely than not that some portion or all of a deferred tax asset will not be realized.
+
+##### Deferred Tax Expense (or Benefit)
+
+The change during the year in an entity's deferred tax liabilities and assets. For deferred tax liabilities and assets acquired in a purchase business combination during the year, it is the change since the combination date. Income tax expense (or benefit) for the year is allocated among continuing operations, discontinued operations, and items charged or credited directly to shareholders' equity.
+The change during the year in an entity's deferred tax liabilities and assets. For deferred tax liabilities and assets acquired in a purchase business combination during the year, it is the change since the combination date. Income tax expense (or benefit) for the year is allocated among continuing operations, discontinued operations, and items charged or credited directly to shareholders' equity.
+
+##### Deferred Tax Liability
+
+The deferred tax consequences attributable to taxable temporary differences. A deferred tax liability is measured using the applicable enacted tax rate and provisions of the enacted tax law.
+The deferred tax consequences attributable to taxable temporary differences. A deferred tax liability is measured using the applicable enacted tax rate and provisions of the enacted tax law.
+
+##### Gains and Losses Included in Comprehensive Income but Excluded from Net Income
+
+Gains and losses included in comprehensive income but excluded from net income include certain changes in fair values of investments in marketable equity securities classified as noncurrent assets, certain changes in fair values of investments in industries having specialized accounting practices for marketable securities, adjustments related to pension liabilities or assets recognized within other comprehensive income, and foreign currency translation adjustments. Future changes to generally accepted accounting principles (GAAP) may change what is included in this category.
+Gains and losses included in comprehensive income but excluded from net income include certain changes in fair values of investments in marketable equity securities classified as noncurrent assets, certain changes in fair values of investments in industries having specialized accounting practices for marketable securities, adjustments related to pension liabilities or assets recognized within other comprehensive income, and foreign currency translation adjustments. Future changes to generally accepted accounting principles (GAAP) may change what is included in this category.
+
+##### Income Tax Expense (or Benefit)
+
+The sum of current tax expense (or benefit) and deferred tax expense (or benefit).
+The sum of current tax expense (or benefit) and deferred tax expense (or benefit).
+
+##### Income Taxes
+
+Domestic and foreign federal (national), state, and local (including franchise) taxes based on income.
+Domestic and foreign federal (national), state, and local (including franchise) taxes based on income.
+
+##### Income Taxes Currently Payable (Refundable)
+
+See Current Tax Expense (or Benefit).
+See Current Tax Expense (or Benefit).
+
+##### Taxable Income
+
+The excess of taxable revenues over tax deductible expenses and exemptions for the year as defined by the governmental taxing authority.
+The excess of taxable revenues over tax deductible expenses and exemptions for the year as defined by the governmental taxing authority.
+
+##### Taxable Temporary Difference
+
+Temporary differences that result in taxable amounts in future years when the related asset is recovered or the related liability is settled. See Temporary Difference.
+Temporary differences that result in taxable amounts in future years when the related asset is recovered or the related liability is settled. See Temporary Difference.
+
+##### Temporary Difference
+
+1. Result from events that have been recognized in the financial statements
+2. Will result in taxable or deductible amounts in future years based on provisions of the tax law.
+
+Some events recognized in financial statements do not have tax consequences. Certain revenues are exempt from taxation and certain expenses are not deductible. Events that do not have tax consequences do not give rise to temporary differences.
+A difference between the tax basis of an asset or liability computed pursuant to the requirements in Subtopic 740-10 for tax positions, and its reported amount in the financial statements that will result in taxable or deductible amounts in future years when the reported amount of the asset or liability is recovered or settled, respectively. Paragraph 740-10-25-20 cites examples of temporary differences. Some temporary differences cannot be identified with a particular asset or liability for financial reporting (see paragraphs 740-10-05-10 and 740-10-25-24 through 25-25
+1. Result from events that have been recognized in the financial statements
+2. Will result in taxable or deductible amounts in future years based on provisions of the tax law.
+
+Some events recognized in financial statements do not have tax consequences. Certain revenues are exempt from taxation and certain expenses are not deductible. Events that do not have tax consequences do not give rise to temporary differences.
+
+##### Valuation Allowance
+
+The portion of a deferred tax asset for which it is more likely than not that a tax benefit will not be realized.
+The portion of a deferred tax asset for which it is more likely than not that a tax benefit will not be realized.
+
+## 45 Other Presentation Matters
+
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+
+### General
+
+**740-20-45-1** > Allocation of Income Tax Expense or Benefit for the Year
+This guidance addresses the requirements to allocate total income tax expense or benefit. Subtopic 740-10 defines the requirements for computing total income tax expense or benefit for an entity. As defined by those requirements, total income tax expense or benefit includes current and deferred income taxes
+. After determining total income tax expense or benefit under those requirements, the intraperiod tax allocation guidance is used to allocate total income tax expense or benefit to different components of comprehensive income and shareholders' equity.
+This guidance addresses the requirements to allocate total income tax expense or benefit. Subtopic 740-10 defines the requirements for computing total income tax expense or benefit for an entity. As defined by those requirements, total income tax expense or benefit includes current and deferred income taxes
+**740-20-45-2** . After determining total income tax expense or benefit under those requirements, the intraperiod tax allocation guidance is used to allocate total income tax expense or benefit to different components of comprehensive income and shareholders' equity.
+Continuing operations
+2. Discontinued operations
+3. Subparagraph superseded by Accounting Standards Update No. 2015-01.
+4. Other comprehensive income
+5. Items charged or credited directly to shareholders' equity.
+
+Continuing operations
+2. Discontinued operations
+3. Subparagraph superseded by Accounting Standards Update No. 2015-01.
+4. Other comprehensive income
+5. Items charged or credited directly to shareholders' equity.
+
+The tax benefit of an operating loss carryforward or carryback (other than for the exceptions related to the carryforwards
+1. Subparagraph not used.
+2. Subparagraph not used.
+
+The tax benefit of an operating loss carryforward or carryback (other than for the exceptions related to the carryforwards
+1. Subparagraph not used.
+2. Subparagraph not used.
+
+Paragraph 740-10-45-20 requires that changes in the beginning of the year balance of a valuation allowance
+caused by changes in judgment about the realization of deferred tax assets in future years are ordinarily allocated to continuing operations. That paragraph also identifies certain exceptions to that allocation guidance related to business combinations and the items specified in paragraph 740-20-45-11(c) through (f). The effect of other changes in the balance of a valuation allowance are allocated among continuing operations and items other than continuing operations using the general allocation methodology presented in this Section.
+Paragraph 740-10-45-20 requires that changes in the beginning of the year balance of a valuation allowance
+**740-20-45-5** caused by changes in judgment about the realization of deferred tax assets in future years are ordinarily allocated to continuing operations. That paragraph also identifies certain exceptions to that allocation guidance related to business combinations and the items specified in paragraph 740-20-45-11(c) through (f). The effect of other changes in the balance of a valuation allowance are allocated among continuing operations and items other than continuing operations using the general allocation methodology presented in this Section.
+See Section 740-20-55 for examples of the allocation of total tax expense or benefit to continuing operations, the effect of a tax credit carryforward, and an allocation to other comprehensive income.
+See Section 740-20-55 for examples of the allocation of total tax expense or benefit to continuing operations, the effect of a tax credit carryforward, and an allocation to other comprehensive income.
+**740-20-45-6** > Allocation to Continuing Operations
+This guidance addresses the allocation methodology for allocating total income tax expense or benefit to continuing operations. The amount of income tax expense or benefit allocated to continuing operations may include multiple components. The tax effect of pretax income or loss from current year continuing operations is always one component of the amount allocated to continuing operations.
+This guidance addresses the allocation methodology for allocating total income tax expense or benefit to continuing operations. The amount of income tax expense or benefit allocated to continuing operations may include multiple components. The tax effect of pretax income or loss from current year continuing operations is always one component of the amount allocated to continuing operations.
+The tax effect of pretax income or loss from continuing operations should be determined by a computation that does not consider the tax effects of items that are not included in continuing operations.
+The tax effect of pretax income or loss from continuing operations should be determined by a computation that does not consider the tax effects of items that are not included in continuing operations.
+Changes in circumstances that cause a change in judgment about the realization of deferred tax assets in future years (see paragraph 740-10-45-20 for a discussion of exceptions to this allocation for certain items)
+2. Changes in tax laws or rates (see paragraph 740-10-35-4)
+3. Changes in tax status (see paragraphs 740-10-25-32 and 740-10-40-6)
+4. Tax-deductible dividends paid to shareholders.
+
+The remainder is allocated to items other than continuing operations in accordance with the provisions of paragraphs 740-20-45-12 and 740-20-45-14.
+Changes in circumstances that cause a change in judgment about the realization of deferred tax assets in future years (see paragraph 740-10-45-20 for a discussion of exceptions to this allocation for certain items)
+2. Changes in tax laws or rates (see paragraph 740-10-35-4)
+3. Changes in tax status (see paragraphs 740-10-25-32 and 740-10-40-6)
+4. Tax-deductible dividends paid to shareholders.
+
+**740-20-45-9** The remainder is allocated to items other than continuing operations in accordance with the provisions of paragraphs 740-20-45-12 and 740-20-45-14.
+See Example 1 (paragraph 740-20-55-1) for an example of the allocation of total tax expense or benefit to continuing operations.
+See Example 1 (paragraph 740-20-55-1) for an example of the allocation of total tax expense or benefit to continuing operations.
+**740-20-45-10** > Allocations to Items Other Than Continuing Operations
+This guidance identifies specific items outside of continuing operations that require an allocation of income tax expense or benefit. It also establishes the methodology for allocation. That methodology differs depending on whether there is only one item other than continuing operations or whether there are multiple items other than continuing operations.
+This guidance identifies specific items outside of continuing operations that require an allocation of income tax expense or benefit. It also establishes the methodology for allocation. That methodology differs depending on whether there is only one item other than continuing operations or whether there are multiple items other than continuing operations.
+Adjustments of the opening balance of retained earnings for certain changes in accounting principles or a correction of an error. Paragraph 250-10-45-8 addresses the effects of a change in accounting principle, including any related income tax effects.
+2. Gains and losses included in comprehensive income but excluded from net income (for example, translation adjustments accounted for under the requirements of Topic 830 and changes in the unrealized holding gains and losses of securities classified as available-for-sale as required by Topic 320).
+3. An increase or decrease in contributed capital (for example, deductible expenditures reported as a reduction of the proceeds from issuing capital stock).
+4. Subparagraph superseded by Accounting Standards Update No. 2016-09.
+5. Subparagraph superseded by Accounting Standards Update No. 2016-09.
+6. Deductible temporary differences and carryforwards that existed at the date of a quasi reorganization.
+7. All changes in the tax bases of assets and liabilities caused by transactions among or with shareholders shall be included in equity including the effect of valuation allowances initially required upon recognition of any related deferred tax assets. Changes in valuation allowances occurring in subsequent periods shall be included in the income statement.
+
+Adjustments of the opening balance of retained earnings for certain changes in accounting principles or a correction of an error. Paragraph 250-10-45-8 addresses the effects of a change in accounting principle, including any related income tax effects.
+2. Gains and losses included in comprehensive income but excluded from net income (for example, translation adjustments accounted for under the requirements of Topic 830 and changes in the unrealized holding gains and losses of securities classified as available-for-sale as required by Topic 320).
+3. An increase or decrease in contributed capital (for example, deductible expenditures reported as a reduction of the proceeds from issuing capital stock).
+4. Subparagraph superseded by Accounting Standards Update No. 2016-09.
+5. Subparagraph superseded by Accounting Standards Update No. 2016-09.
+6. Deductible temporary differences and carryforwards that existed at the date of a quasi reorganization.
+7. All changes in the tax bases of assets and liabilities caused by transactions among or with shareholders shall be included in equity including the effect of valuation allowances initially required upon recognition of any related deferred tax assets. Changes in valuation allowances occurring in subsequent periods shall be included in the income statement.
+
+**740-20-45-12** > Single Item of Allocation Other Than Continuing Operations
+If there is only one item other than continuing operations, the portion of income tax expense or benefit for the year that remains after the allocation to continuing operations shall be allocated to that item.
+If there is only one item other than continuing operations, the portion of income tax expense or benefit for the year that remains after the allocation to continuing operations shall be allocated to that item.
+See Example 2 (paragraph 740-20-55-8) for an example of the allocation of total tax expense or benefit to continuing operations and one other item.
+See Example 2 (paragraph 740-20-55-8) for an example of the allocation of total tax expense or benefit to continuing operations and one other item.
+**740-20-45-14** > Multiple Items of Allocation Other Than Continuing Operations
+Determine the effect on income tax expense or benefit for the year of the total net loss for all net loss items.
+2. Apportion the tax benefit determined in (a) ratably to each net loss item.
+3. Determine the amount that remains, that is, the difference between the amount to be allocated to all items other than continuing operations and the amount allocated to all net loss items.
+4. Apportion the tax expense determined in (c) ratably to each net gain item.
+
+Determine the effect on income tax expense or benefit for the year of the total net loss for all net loss items.
+2. Apportion the tax benefit determined in (a) ratably to each net loss item.
+3. Determine the amount that remains, that is, the difference between the amount to be allocated to all items other than continuing operations and the amount allocated to all net loss items.
+4. Apportion the tax expense determined in (c) ratably to each net gain item.
+
+**740-20-45-15** > Presentation of Deferred Tax Assets Relating to Losses on Available-for-Sale Debt Securities
+An entity that recognizes a deferred tax asset relating to a net unrealized loss on available-for-sale securities may at the same time conclude that it is more likely than not that some or all of that deferred tax asset will not be realized. In that circumstance, the entity shall report the offsetting entry to the valuation allowance in the component of other comprehensive income classified as unrealized gains and losses on certain investments in debt securities
+because the valuation allowance is directly related to the unrealized holding loss on the available-for-sale securities. The entity shall also report the offsetting entry to the valuation allowance in the component of other comprehensive income classified as unrealized gains and losses on certain investments in debt securities if the entity concludes on the need for a valuation allowance in a later interim period of the same fiscal year in which the deferred tax asset is initially recognized.
+An entity that recognizes a deferred tax asset relating to a net unrealized loss on available-for-sale securities may at the same time conclude that it is more likely than not that some or all of that deferred tax asset will not be realized. In that circumstance, the entity shall report the offsetting entry to the valuation allowance in the component of other comprehensive income classified as unrealized gains and losses on certain investments in debt securities
+**740-20-45-16** because the valuation allowance is directly related to the unrealized holding loss on the available-for-sale securities. The entity shall also report the offsetting entry to the valuation allowance in the component of other comprehensive income classified as unrealized gains and losses on certain investments in debt securities if the entity concludes on the need for a valuation allowance in a later interim period of the same fiscal year in which the deferred tax asset is initially recognized.
+An entity that does not need to recognize a valuation allowance at the same time that it establishes a deferred tax asset relating to a net unrealized loss on available-for-sale securities may, in a subsequent fiscal year, conclude that it is more likely than not that some or all of that deferred tax asset will not be realized. In that circumstance, if an entity initially decided that no valuation allowance was required at the time the unrealized loss was recognized but in a subsequent fiscal year decides that it is more likely than not that the deferred tax asset will not be realized, a valuation allowance shall be recognized. The entity shall include the offsetting entry as an item in determining income from continuing operations. The offsetting entry shall not be included in other comprehensive income.
+An entity that does not need to recognize a valuation allowance at the same time that it establishes a deferred tax asset relating to a net unrealized loss on available-for-sale securities may, in a subsequent fiscal year, conclude that it is more likely than not that some or all of that deferred tax asset will not be realized. In that circumstance, if an entity initially decided that no valuation allowance was required at the time the unrealized loss was recognized but in a subsequent fiscal year decides that it is more likely than not that the deferred tax asset will not be realized, a valuation allowance shall be recognized. The entity shall include the offsetting entry as an item in determining income from continuing operations. The offsetting entry shall not be included in other comprehensive income.
+An entity that recognizes a deferred tax asset relating to a net unrealized loss on available-for-sale securities may, at the same time, conclude that a valuation allowance is warranted and in a subsequent fiscal year makes a change in judgment about the level of future years' taxable income such that all or a portion of that valuation allowance is no longer warranted. In that circumstance, the entity shall include any reversals in the valuation allowance due to such a change in judgment in subsequent fiscal years as an item in determining income from continuing operations, even though initial recognition of the valuation allowance affected the component of other comprehensive income classified as unrealized gains and losses on certain investments in debt securities. If, rather than a change in judgment about future years' taxable income, the entity generates taxable income in the current year (subsequent to the year the related deferred tax asset was recognized) that can use the benefit of the deferred tax asset, the elimination (or reduction) of the valuation allowance is allocated to that taxable income. Paragraph 740-10-45-20 provides additional information.
+An entity that recognizes a deferred tax asset relating to a net unrealized loss on available-for-sale securities may, at the same time, conclude that a valuation allowance is warranted and in a subsequent fiscal year makes a change in judgment about the level of future years' taxable income such that all or a portion of that valuation allowance is no longer warranted. In that circumstance, the entity shall include any reversals in the valuation allowance due to such a change in judgment in subsequent fiscal years as an item in determining income from continuing operations, even though initial recognition of the valuation allowance affected the component of other comprehensive income classified as unrealized gains and losses on certain investments in debt securities. If, rather than a change in judgment about future years' taxable income, the entity generates taxable income in the current year (subsequent to the year the related deferred tax asset was recognized) that can use the benefit of the deferred tax asset, the elimination (or reduction) of the valuation allowance is allocated to that taxable income. Paragraph 740-10-45-20 provides additional information.
+An entity that has recognized a deferred tax asset relating to other deductible temporary differences in a previous fiscal year may at the same time have concluded that no valuation allowance was warranted. If in the current year an entity recognizes a deferred tax asset relating to a net unrealized loss on available-for-sale securities that arose in the current year and at the same time concludes that a valuation allowance is warranted, management shall determine the extent to which the valuation allowance is directly related to the unrealized loss and the other deductible temporary differences, such as an accrual for other postemployment benefits. The entity shall report the offsetting entry to the valuation allowance in the component of other comprehensive income classified as unrealized gains and losses on certain investments in debt securities only to the extent the valuation allowance is directly related to the unrealized loss on the available-for-sale securities that arose in the current year.
+An entity that has recognized a deferred tax asset relating to other deductible temporary differences in a previous fiscal year may at the same time have concluded that no valuation allowance was warranted. If in the current year an entity recognizes a deferred tax asset relating to a net unrealized loss on available-for-sale securities that arose in the current year and at the same time concludes that a valuation allowance is warranted, management shall determine the extent to which the valuation allowance is directly related to the unrealized loss and the other deductible temporary differences, such as an accrual for other postemployment benefits. The entity shall report the offsetting entry to the valuation allowance in the component of other comprehensive income classified as unrealized gains and losses on certain investments in debt securities only to the extent the valuation allowance is directly related to the unrealized loss on the available-for-sale securities that arose in the current year.
+
+## 55 Implementation Guidance and Illustrations
+
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+
+### General
+
+##### · > Example 1: Allocation to Continuing Operations
+
+**740-20-55-1** > Illustrations
+Paragraph 740-20-45-8 states that the amount of income tax expense or benefit
+allocated to continuing operations is the tax effect of pretax income or loss from continuing operations that occurred during the year plus or minus certain adjustments.
+Paragraph 740-20-45-8 states that the amount of income tax expense or benefit
+**740-20-55-2** allocated to continuing operations is the tax effect of pretax income or loss from continuing operations that occurred during the year plus or minus certain adjustments.
+Changes in circumstances that cause a change in judgment about the realization of deferred tax assets in future years
+2. Changes in tax laws or rates
+3. Changes in tax status
+4. Tax-deductible dividends paid to shareholders.
+
+Changes in circumstances that cause a change in judgment about the realization of deferred tax assets in future years
+2. Changes in tax laws or rates
+3. Changes in tax status
+4. Tax-deductible dividends paid to shareholders.
+
+The allocation of income tax expense between pretax income from continuing operations and other items shall include deferred taxes.
+The allocation of income tax expense between pretax income from continuing operations and other items shall include deferred taxes.
+This Example illustrates allocation of current and deferred tax expense
+1. Tax rates are 40 percent for Years 1, 2, and 3 and 30 percent for Year 4 and subsequent years. No valuation allowances are required for deferred tax assets.
+4. During Year 2, the entity decides that it will sell its contracting operations in Year 3. As a result, all temporary differences related to the contracting operations (the $500 taxable temporary difference that existed at the end of Year 1, plus an additional $200 taxable temporary difference that arose during Year 2) are now considered to result in taxable amounts in Year 3 because the contracting operations will be sold in Year 3.
+5. At the end of Year 2, the entity also has $300 of deductible temporary differences ($100 of the temporary difference that existed at the end of Year 1, plus an additional $200 that arose during Year 2) from continuing operations.
+6. For Year 2, the entity has $50 of pretax reported income from continuing operations and $200 of pretax reported income from discontinued operations.
+
+This Example illustrates allocation of current and deferred tax expense
+1. Tax rates are 40 percent for Years 1, 2, and 3 and 30 percent for Year 4 and subsequent years. No valuation allowances are required for deferred tax assets.
+4. During Year 2, the entity decides that it will sell its contracting operations in Year 3. As a result, all temporary differences related to the contracting operations (the $500 taxable temporary difference that existed at the end of Year 1, plus an additional $200 taxable temporary difference that arose during Year 2) are now considered to result in taxable amounts in Year 3 because the contracting operations will be sold in Year 3.
+5. At the end of Year 2, the entity also has $300 of deductible temporary differences ($100 of the temporary difference that existed at the end of Year 1, plus an additional $200 that arose during Year 2) from continuing operations.
+6. For Year 2, the entity has $50 of pretax reported income from continuing operations and $200 of pretax reported income from discontinued operations.
+
+Total deferred tax expense for Year 2 is $100 ($170 - $70). The deferred tax benefit of the deductible temporary differences related to the entity's continuing operations during Year 2 is determined as follows.
+Total deferred tax expense for Year 2 is $100 ($170 - $70). The deferred tax benefit of the deductible temporary differences related to the entity's continuing operations during Year 2 is determined as follows.
+The deferred tax expense for taxable temporary differences related to the entity's discontinued operations during Year 2 is determined as follows.
+The deferred tax expense for taxable temporary differences related to the entity's discontinued operations during Year 2 is determined as follows.
+Total tax expense and tax expense allocated to continuing and discontinued operations for Year 2 are determined as follows.
+Total tax expense and tax expense allocated to continuing and discontinued operations for Year 2 are determined as follows.
+
+##### · > Example 2: Allocations of Income Taxes to Continuing Operations and One Other Item
+
+If there is only one item other than continuing operations, the portion of income tax expense or benefit for the year that remains after the allocation to continuing operations is allocated to that item. If there are two or more items other than continuing operations, the amount that remains after the allocation to continuing operations is allocated among those other items in proportion to their individual effects on income tax expense or benefit for the year.
+If there is only one item other than continuing operations, the portion of income tax expense or benefit for the year that remains after the allocation to continuing operations is allocated to that item. If there are two or more items other than continuing operations, the amount that remains after the allocation to continuing operations is allocated among those other items in proportion to their individual effects on income tax expense or benefit for the year.
+Loss from continuing operations with an extraordinary gain (Case A)
+2. Income from continuing operations with a loss from discontinued operations (Case B).
+
+Loss from continuing operations with an extraordinary gain (Case A)
+2. Income from continuing operations with a loss from discontinued operations (Case B).
+
+**740-20-55-10** · · > Case A: Loss from Continuing Operations with a Gain on Discontinued Operations (Tax Benefit Realizable)
+The entity's pretax financial income and taxable income
+1. are the same.
+2. The entity's ordinary loss from continuing operations is $500.
+3. The entity also has a gain on discontinued operations of $900 that is a capital gain for tax purposes.
+4. The tax rate is 40 percent on ordinary income and 30 percent on capital gains. Income taxes currently payable are $120 ($400 at 30 percent).
+5. The entity has determined that the deferred tax asset that would have resulted from the loss from continuing operations if the gain on discontinued operations had not occurred would be expected to be realized (that is, a valuation allowance would not have been needed).
+
+The entity's pretax financial income and taxable income
+1. are the same.
+2. The entity's ordinary loss from continuing operations is $500.
+3. The entity also has a gain on discontinued operations of $900 that is a capital gain for tax purposes.
+4. The tax rate is 40 percent on ordinary income and 30 percent on capital gains. Income taxes currently payable are $120 ($400 at 30 percent).
+5. The entity has determined that the deferred tax asset that would have resulted from the loss from continuing operations if the gain on discontinued operations had not occurred would be expected to be realized (that is, a valuation allowance would not have been needed).
+
+Income tax expense is allocated between the pretax loss from operations and the gain on discontinued operations as follows.
+Income tax expense is allocated between the pretax loss from operations and the gain on discontinued operations as follows.
+The effect of the $500 loss from continuing operations was to offset an equal amount of capital gains that otherwise would be taxed at a 30 percent tax rate. However, the guidance in paragraph 740-20-45-7 requires that an entity determine the tax effects of pretax income from continuing operations by a computation that does not consider the tax effects of items that are not included in continuing operations. The entity has determined that, absent the capital gain from discontinued operations, a valuation allowance would not have been needed on the deferred tax asset resulting from the $500 loss from continuing operations. Thus, $200 ($500 at 40 percent) of tax benefit is allocated to continuing operations. The $320 incremental effect of the gain on discontinued operations is the difference between $120 of total tax expense and the $200 tax benefit allocated to continuing operations.
+The effect of the $500 loss from continuing operations was to offset an equal amount of capital gains that otherwise would be taxed at a 30 percent tax rate. However, the guidance in paragraph 740-20-45-7 requires that an entity determine the tax effects of pretax income from continuing operations by a computation that does not consider the tax effects of items that are not included in continuing operations. The entity has determined that, absent the capital gain from discontinued operations, a valuation allowance would not have been needed on the deferred tax asset resulting from the $500 loss from continuing operations. Thus, $200 ($500 at 40 percent) of tax benefit is allocated to continuing operations. The $320 incremental effect of the gain on discontinued operations is the difference between $120 of total tax expense and the $200 tax benefit allocated to continuing operations.
+**740-20-55-12A** · · > Case A1: Loss from Continuing Operations with a Gain on Discontinued Operations (Tax Benefit Not Realizable)
+This Case illustrates allocation of income tax expense if there is only one item other than income from continuing operations. The assumptions are the same as in Case A except that the entity has determined that the deferred tax asset that would have resulted from the loss from continuing operations if the gain on discontinued operations had not occurred would not be expected to be realized (that is, a valuation allowance would have been needed).
+This Case illustrates allocation of income tax expense if there is only one item other than income from continuing operations. The assumptions are the same as in Case A except that the entity has determined that the deferred tax asset that would have resulted from the loss from continuing operations if the gain on discontinued operations had not occurred would not be expected to be realized (that is, a valuation allowance would have been needed).
+Income tax expense is allocated between the pretax loss from operations and the gain on discontinued operations as follows.
+Income tax expense is allocated between the pretax loss from operations and the gain on discontinued operations as follows.
+The effect of the $500 loss from continuing operations was to offset an equal amount of capital gains that otherwise would be taxed at a 30 percent tax rate. However, the guidance in paragraph 740-20-45-7 requires that an entity determine the tax effects of pretax income from continuing operations by a computation that does not consider the tax effects of items that are not included in continuing operations. The entity has determined that, absent the capital gain from discontinued operations, a valuation allowance would have been needed on the deferred tax asset resulting from the $500 loss from continuing operations. Thus, zero tax benefit is allocated to continuing operations. The $120 incremental income tax expense related to the gain on discontinued operations is the difference between $120 of total tax expense and the zero tax benefit allocated to continuing operations.
+The effect of the $500 loss from continuing operations was to offset an equal amount of capital gains that otherwise would be taxed at a 30 percent tax rate. However, the guidance in paragraph 740-20-45-7 requires that an entity determine the tax effects of pretax income from continuing operations by a computation that does not consider the tax effects of items that are not included in continuing operations. The entity has determined that, absent the capital gain from discontinued operations, a valuation allowance would have been needed on the deferred tax asset resulting from the $500 loss from continuing operations. Thus, zero tax benefit is allocated to continuing operations. The $120 incremental income tax expense related to the gain on discontinued operations is the difference between $120 of total tax expense and the zero tax benefit allocated to continuing operations.
+**740-20-55-13** · · > Case B: Income from Continuing Operations with a Loss from Discontinued Operations
+This Case further illustrates the general requirement to determine the tax effects of pretax income from continuing operations by a computation that does not consider the tax effects of items that are not included in continuing operations.
+This Case further illustrates the general requirement to determine the tax effects of pretax income from continuing operations by a computation that does not consider the tax effects of items that are not included in continuing operations.
+To illustrate, assume that in the current year an entity has $1,000 of income from continuing operations and a $1,000 loss from discontinued operations. At the beginning of the year, the entity has a $2,000 net operating loss carryforward for which the deferred tax asset, net of its valuation allowance, is zero, and the entity did not reduce that valuation allowance during the year. No tax expense should be allocated to income from continuing operations because the $2,000 loss carryforward is sufficient to offset that income. Thus, no tax benefit is allocated to the loss from discontinued operations.
+To illustrate, assume that in the current year an entity has $1,000 of income from continuing operations and a $1,000 loss from discontinued operations. At the beginning of the year, the entity has a $2,000 net operating loss carryforward for which the deferred tax asset, net of its valuation allowance, is zero, and the entity did not reduce that valuation allowance during the year. No tax expense should be allocated to income from continuing operations because the $2,000 loss carryforward is sufficient to offset that income. Thus, no tax benefit is allocated to the loss from discontinued operations.
+
+##### · > Example 3: Allocation of the Benefit of a Tax Credit Carryforward
+
+This Example illustrates the guidance in paragraphs 740-20-45-7 through 45-8
+1. The entity's pretax financial income and taxable income are the same.
+2. Pretax financial income for the year comprises $300 from continuing operations and $400 from a gain on discontinued operations.
+3. The tax rate is 40 percent. Taxes payable for the year are zero because $330 of tax credits that arose in the current year more than offset the $280 of tax otherwise payable on $700 of taxable income.
+4. A $50 deferred tax asset is recognized for the $50 ($330 - $280) tax credit carryforward. Based on the weight of available evidence, management concludes that no valuation allowance is necessary.
+
+This Example illustrates the guidance in paragraphs 740-20-45-7 through 45-8
+1. The entity's pretax financial income and taxable income are the same.
+2. Pretax financial income for the year comprises $300 from continuing operations and $400 from a gain on discontinued operations.
+3. The tax rate is 40 percent. Taxes payable for the year are zero because $330 of tax credits that arose in the current year more than offset the $280 of tax otherwise payable on $700 of taxable income.
+4. A $50 deferred tax asset is recognized for the $50 ($330 - $280) tax credit carryforward. Based on the weight of available evidence, management concludes that no valuation allowance is necessary.
+
+Income tax expense or benefit is allocated between pretax income from continuing operations and the gain on discontinued operations as follows.
+Income tax expense or benefit is allocated between pretax income from continuing operations and the gain on discontinued operations as follows.
+Absent the gain on discontinued operations and assuming it was not the deciding factor in reaching a conclusion that a valuation allowance is not needed, the entire tax benefit of the $330 of tax credits would be allocated to continuing operations. The presence of the gain on discontinued operations does not change that allocation.
+Absent the gain on discontinued operations and assuming it was not the deciding factor in reaching a conclusion that a valuation allowance is not needed, the entire tax benefit of the $330 of tax credits would be allocated to continuing operations. The presence of the gain on discontinued operations does not change that allocation.
+
+##### · > Example 4: Allocation to Other Comprehensive Income
+
+Income taxes are sometimes allocated directly to shareholders' equity or to other comprehensive income. This Example illustrates the allocation of income taxes for translation adjustments under the requirements of Subtopic 830-30 to other comprehensive income. In this Example, FC represents units of foreign currency.
+Income taxes are sometimes allocated directly to shareholders' equity or to other comprehensive income. This Example illustrates the allocation of income taxes for translation adjustments under the requirements of Subtopic 830-30 to other comprehensive income. In this Example, FC represents units of foreign currency.
+A foreign subsidiary has earnings of FC 600 for Year 2. Its net assets (and unremitted earnings) are FC 1,000 and FC 1,600 at the end of Years 1 and 2, respectively.
+A foreign subsidiary has earnings of FC 600 for Year 2. Its net assets (and unremitted earnings) are FC 1,000 and FC 1,600 at the end of Years 1 and 2, respectively.
+The foreign currency is the functional currency. For Year 2, translated amounts are as follows.
+The foreign currency is the functional currency. For Year 2, translated amounts are as follows.
+A $260 translation adjustment ($1,200 + $660 - $1,600) is reported in other comprehensive income and accumulated in shareholders' equity for Year 2.
+A $260 translation adjustment ($1,200 + $660 - $1,600) is reported in other comprehensive income and accumulated in shareholders' equity for Year 2.
+The U.S. parent expects that all of the foreign subsidiary's unremitted earnings will be remitted in the foreseeable future, and under the requirements of Subtopic 740-30, a deferred U.S. tax liability is recognized for those unremitted earnings.
+The U.S. parent expects that all of the foreign subsidiary's unremitted earnings will be remitted in the foreseeable future, and under the requirements of Subtopic 740-30, a deferred U.S. tax liability is recognized for those unremitted earnings.
+The U.S. parent accrues the deferred tax liability
+at a 20 percent tax rate (that is, net of foreign tax credits, foreign tax credit carryforwards, and so forth). An analysis of the net investment in the foreign subsidiary and the related deferred tax liability for Year 2 is as follows.
+The U.S. parent accrues the deferred tax liability
+at a 20 percent tax rate (that is, net of foreign tax credits, foreign tax credit carryforwards, and so forth). An analysis of the net investment in the foreign subsidiary and the related deferred tax liability for Year 2 is as follows.
+For Year 2, $132 of deferred taxes are charged against earnings, and $52 of deferred taxes are reported in other comprehensive income and accumulated in shareholders' equity.
+For Year 2, $132 of deferred taxes are charged against earnings, and $52 of deferred taxes are reported in other comprehensive income and accumulated in shareholders' equity.
+
+## 60 Relationships
+
+General Note:The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
+
+### General
+
+**740-20-60-1** > Investments—Debt and Equity Securities
+Paragraph superseded by Accounting Standards Update No. 2016-01.
+**740-20-60-1** Paragraph superseded by Accounting Standards Update No. 2016-01.
+
+## 00 Status
+
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+
+### General
+
+The following table identifies the changes made to this Subtopic.
+**** **** **** ****
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Corporate Joint Venture | Amended | Accounting Standards Update No. 2010-08 | 02/02/2010 |
+| Subsidiary | Superseded | Accounting Standards Update No. 2015-10 | 06/12/2015 |
+| Temporary Difference | Amended | Accounting Standards Update No. 2016-16 | 10/24/2016 |
+| 740-30-05-4 | Amended | Accounting Standards Update No. 2015-10 | 06/12/2015 |
+| 740-30-25-2 | Amended | Accounting Standards Update No. 2015-10 | 06/12/2015 |
+| 740-30-25-7 | Amended | Accounting Standards Update No. 2010-08 | 02/02/2010 |
+| 740-30-25-10 | Amended | Accounting Standards Update No. 2014-08 | 04/10/2014 |
+| 740-30-25-15 | Amended | Accounting Standards Update No. 2019-12 | 12/18/2019 |
+| 740-30-25-15 | Amended | Accounting Standards Update No. 2015-01 | 01/09/2015 |
+| 740-30-25-16 | Amended | Accounting Standards Update No. 2019-12 | 12/18/2019 |
+| 740-30-25-19 | Amended | Accounting Standards Update No. 2015-01 | 01/09/2015 |
+| 740-30-45-2 | Amended | Accounting Standards Update No. 2015-10 | 06/12/2015 |
+| 740-30-45-2 | Amended | Accounting Standards Update No. 2015-01 | 01/09/2015 |
+| 740-30-45-3 | Amended | Accounting Standards Update No. 2019-12 | 12/18/2019 |
+| 740-30-45-3 | Amended | Accounting Standards Update No. 2015-01 | 01/09/2015 |
+| 740-30-50-2 | Amended | Accounting Standards Update No. 2023-09 | 12/14/2023 |
+| 740-30-60-1 | Added | Accounting Standards Update No. 2018-06 | 05/07/2018 |
+
+****
+The following table identifies the changes made to this Subtopic.
+**** **** **** ****
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Corporate Joint Venture | Amended | Accounting Standards Update No. 2010-08 | 02/02/2010 |
+| Subsidiary | Superseded | Accounting Standards Update No. 2015-10 | 06/12/2015 |
+| Temporary Difference | Amended | Accounting Standards Update No. 2016-16 | 10/24/2016 |
+| 740-30-05-4 | Amended | Accounting Standards Update No. 2015-10 | 06/12/2015 |
+| 740-30-25-2 | Amended | Accounting Standards Update No. 2015-10 | 06/12/2015 |
+| 740-30-25-7 | Amended | Accounting Standards Update No. 2010-08 | 02/02/2010 |
+| 740-30-25-10 | Amended | Accounting Standards Update No. 2014-08 | 04/10/2014 |
+| 740-30-25-15 | Amended | Accounting Standards Update No. 2019-12 | 12/18/2019 |
+| 740-30-25-15 | Amended | Accounting Standards Update No. 2015-01 | 01/09/2015 |
+| 740-30-25-16 | Amended | Accounting Standards Update No. 2019-12 | 12/18/2019 |
+| 740-30-25-19 | Amended | Accounting Standards Update No. 2015-01 | 01/09/2015 |
+| 740-30-45-2 | Amended | Accounting Standards Update No. 2015-10 | 06/12/2015 |
+| 740-30-45-2 | Amended | Accounting Standards Update No. 2015-01 | 01/09/2015 |
+| 740-30-45-3 | Amended | Accounting Standards Update No. 2019-12 | 12/18/2019 |
+| 740-30-45-3 | Amended | Accounting Standards Update No. 2015-01 | 01/09/2015 |
+| 740-30-50-2 | Amended | Accounting Standards Update No. 2023-09 | 12/14/2023 |
+| 740-30-60-1 | Added | Accounting Standards Update No. 2018-06 | 05/07/2018 |
+
+## 05 Overview and Background
+
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+
+### General
+
+**740-30-05-1** > Undistributed Earnings of Subsidiaries and Corporate Joint Ventures
+Subtopic 740-10 addresses the majority of tax accounting issues. That Subtopic addresses the majority of differences between the financial reporting (or book) basis and tax basis of assets and liabilities (basis differences) and the requirements to record deferred income taxes
+on those differences. It also identifies specific and limited exceptions to the otherwise required recognition of deferred taxes on basis differences.
+**740-30-05-1** Subtopic 740-10 addresses the majority of tax accounting issues. That Subtopic addresses the majority of differences between the financial reporting (or book) basis and tax basis of assets and liabilities (basis differences) and the requirements to record deferred income taxes
+**740-30-05-2** on those differences. It also identifies specific and limited exceptions to the otherwise required recognition of deferred taxes on basis differences.
+This Subtopic provides the required accounting and disclosure guidance for certain of the specific limited exceptions identified in Subtopic 740-10 to the requirements to record deferred taxes on specific basis differences related to investments in subsidiaries and corporate joint ventures arising from undistributed earnings or other causes.
+**740-30-05-2** This Subtopic provides the required accounting and disclosure guidance for certain of the specific limited exceptions identified in Subtopic 740-10 to the requirements to record deferred taxes on specific basis differences related to investments in subsidiaries and corporate joint ventures arising from undistributed earnings or other causes.
+**740-30-05-3** The accounting addressed in this Subtopic represents, in some situations, an exception to the otherwise required comprehensive recognition of deferred income taxes for temporary differences.
+**740-30-05-3** The accounting addressed in this Subtopic represents, in some situations, an exception to the otherwise required comprehensive recognition of deferred income taxes for temporary differences.
+**740-30-05-4** Financial requirements of the parent entity
+2. Financial requirements of the subsidiary
+3. Operational and fiscal objectives of the parent entity, both long-term and short-term
+4. Remittance restrictions imposed by governments
+5. Remittance restrictions imposed by lease or financing agreements of the subsidiary
+6. Tax consequences of the remittance.
+
+**740-30-05-4** Financial requirements of the parent entity
+2. Financial requirements of the subsidiary
+3. Operational and fiscal objectives of the parent entity, both long-term and short-term
+4. Remittance restrictions imposed by governments
+5. Remittance restrictions imposed by lease or financing agreements of the subsidiary
+6. Tax consequences of the remittance.
+
+**740-30-05-5** Remittance of earnings of a subsidiary may sometimes be indefinite because of the specific long-term investment plans and objectives of the parent entity. Even in the absence of long-term investment plans, the flexibility inherent in the U.S. Internal Revenue Code may permit a parent entity to postpone income taxes on the earnings of a subsidiary for an extended period or may permit the ultimate distribution to be taxed at special rates applicable to the nature of the distribution. Other circumstances may indicate that the earnings will probably be remitted in the foreseeable future. However, the parent entity may control the events that create the tax consequences in either circumstance.
+**740-30-05-5** Remittance of earnings of a subsidiary may sometimes be indefinite because of the specific long-term investment plans and objectives of the parent entity. Even in the absence of long-term investment plans, the flexibility inherent in the U.S. Internal Revenue Code may permit a parent entity to postpone income taxes on the earnings of a subsidiary for an extended period or may permit the ultimate distribution to be taxed at special rates applicable to the nature of the distribution. Other circumstances may indicate that the earnings will probably be remitted in the foreseeable future. However, the parent entity may control the events that create the tax consequences in either circumstance.
+**740-30-05-6** Corporate joint ventures
+are of two kinds: those essentially permanent in duration and those that have a life limited by the nature of the venture or other business activity.
+**740-30-05-6** Corporate joint ventures
+**740-30-05-7** are of two kinds: those essentially permanent in duration and those that have a life limited by the nature of the venture or other business activity.
+Unless characteristics indicate a limited life, a corporate joint venture has many of the characteristics of a subsidiary. The investors usually participate in the management of the joint venture, consider the factors set forth in paragraph 740-30-05-4, and agree (frequently before forming the venture) as to plans for long-term investment, for utilizing the flexibility inherent in the U.S. Internal Revenue Code, and for planned remittances.
+**740-30-05-7** Unless characteristics indicate a limited life, a corporate joint venture has many of the characteristics of a subsidiary. The investors usually participate in the management of the joint venture, consider the factors set forth in paragraph 740-30-05-4, and agree (frequently before forming the venture) as to plans for long-term investment, for utilizing the flexibility inherent in the U.S. Internal Revenue Code, and for planned remittances.
+
+## 15 Scope and Scope Exceptions
+
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+
+### General
+
+**740-30-15-1** > Overall Guidance
+This Subtopic follows the same Scope and Scope Exceptions as outlined in the Overall Subtopic, see Section 740-10-15, with specific transaction qualifications noted below.
+**740-30-15-1** This Subtopic follows the same Scope and Scope Exceptions as outlined in the Overall Subtopic, see Section 740-10-15, with specific transaction qualifications noted below.
+**740-30-15-2** > Transactions
+The guidance in this Subtopic applies to basis differences arising from investments in subsidiaries and corporate joint ventures.
+**740-30-15-2** The guidance in this Subtopic applies to basis differences arising from investments in subsidiaries and corporate joint ventures.
+**740-30-15-3** The basis differences addressed in this Subtopic represent situations where there are exceptions to the general requirements established in the Overall Subtopic for the comprehensive recognition of deferred income taxes
+on temporary differences.
+**740-30-15-3** The basis differences addressed in this Subtopic represent situations where there are exceptions to the general requirements established in the Overall Subtopic for the comprehensive recognition of deferred income taxes
+**740-30-15-4** on temporary differences.
+There are other exceptions to the comprehensive recognition of deferred income taxes on temporary differences specifically addressed in other Subtopics. However; the provisions of this Subtopic shall not be applied to analogous types of temporary differences.
+**740-30-15-4** There are other exceptions to the comprehensive recognition of deferred income taxes on temporary differences specifically addressed in other Subtopics. However; the provisions of this Subtopic shall not be applied to analogous types of temporary differences.
+
+## 20 Glossary
+
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+
+##### Benefit
+
+See Tax (or Benefit).
+See Tax (or Benefit).
+
+##### Carryforwards
+
+Deductions or credits that cannot be utilized on the tax return during a year that may be carried forward to reduce taxable income or taxes payable in a future year. An operating loss carryforward is an excess of tax deductions over gross income in a year; a tax credit carryforward is the amount by which tax credits available for utilization exceed statutory limitations. Different tax jurisdictions have different rules about whether excess deductions or credits may be carried forward and the length of the carryforward period. The terms carryforward, operating loss carryforward, and tax credit carryforward refer to the amounts of those items, if any, reported in the tax return for the current year.
+Deductions or credits that cannot be utilized on the tax return during a year that may be carried forward to reduce taxable income or taxes payable in a future year. An operating loss carryforward is an excess of tax deductions over gross income in a year; a tax credit carryforward is the amount by which tax credits available for utilization exceed statutory limitations. Different tax jurisdictions have different rules about whether excess deductions or credits may be carried forward and the length of the carryforward period. The terms carryforward, operating loss carryforward, and tax credit carryforward refer to the amounts of those items, if any, reported in the tax return for the current year.
+
+##### Consolidated Financial Statements
+
+The financial statements of a consolidated group of entities that include a parent and all its subsidiaries presented as those of a single economic entity.
+The financial statements of a consolidated group of entities that include a parent and all its subsidiaries presented as those of a single economic entity.
+
+##### Corporate Joint Venture
+
+A corporation owned and operated by a small group of entities (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a corporate joint venture frequently is to share risks and rewards in developing a new market, product or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A corporate joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a corporate joint venture. The ownership of a corporate joint venture seldom changes, and its stock is usually not traded publicly. A noncontrolling interest held by public ownership, however, does not preclude a corporation from being a corporate joint venture.
+A corporation owned and operated by a small group of entities (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a corporate joint venture frequently is to share risks and rewards in developing a new market, product or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A corporate joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a corporate joint venture. The ownership of a corporate joint venture seldom changes, and its stock is usually not traded publicly. A noncontrolling interest held by public ownership, however, does not preclude a corporation from being a corporate joint venture.
+
+##### Deductible Temporary Difference
+
+Temporary differences that result in deductible amounts in future years when the related asset or liability is recovered or settled, respectively. See Temporary Difference.
+Temporary differences that result in deductible amounts in future years when the related asset or liability is recovered or settled, respectively. See Temporary Difference.
+
+##### Deferred Tax Asset
+
+The deferred tax consequences attributable to deductible temporary differences and carryforwards. A deferred tax asset is measured using the applicable enacted tax rate and provisions of the enacted tax law. A deferred tax asset is reduced by a valuation allowance if, based on the weight of evidence available, it is more likely than not that some portion or all of a deferred tax asset will not be realized.
+The deferred tax consequences attributable to deductible temporary differences and carryforwards. A deferred tax asset is measured using the applicable enacted tax rate and provisions of the enacted tax law. A deferred tax asset is reduced by a valuation allowance if, based on the weight of evidence available, it is more likely than not that some portion or all of a deferred tax asset will not be realized.
+
+##### Deferred Tax Liability
+
+The deferred tax consequences attributable to taxable temporary differences. A deferred tax liability is measured using the applicable enacted tax rate and provisions of the enacted tax law.
+The deferred tax consequences attributable to taxable temporary differences. A deferred tax liability is measured using the applicable enacted tax rate and provisions of the enacted tax law.
+
+##### Income Taxes
+
+Domestic and foreign federal (national), state, and local (including franchise) taxes based on income.
+Domestic and foreign federal (national), state, and local (including franchise) taxes based on income.
+
+##### Noncontrolling Interest
+
+The portion of equity (net assets) in a subsidiary not attributable, directly or indirectly, to a parent. A noncontrolling interest is sometimes called a minority interest.
+The portion of equity (net assets) in a subsidiary not attributable, directly or indirectly, to a parent. A noncontrolling interest is sometimes called a minority interest.
+
+##### Parent
+
+An entity that has a controlling financial interest in one or more subsidiaries. (Also, an entity that is the primary beneficiary of a variable interest entity.)
+An entity that has a controlling financial interest in one or more subsidiaries. (Also, an entity that is the primary beneficiary of a variable interest entity.)
+
+##### Tax (or Benefit)
+
+Tax (or benefit) is the total income tax expense (or benefit), including the provision (or benefit) for income taxes both currently payable and deferred.
+Tax (or benefit) is the total income tax expense (or benefit), including the provision (or benefit) for income taxes both currently payable and deferred.
+
+##### Tax Consequences
+
+The effects on income taxes—current or deferred—of an event.
+The effects on income taxes—current or deferred—of an event.
+
+##### Taxable Income
+
+The excess of taxable revenues over tax deductible expenses and exemptions for the year as defined by the governmental taxing authority.
+The excess of taxable revenues over tax deductible expenses and exemptions for the year as defined by the governmental taxing authority.
+
+##### Taxable Temporary Difference
+
+Temporary differences that result in taxable amounts in future years when the related asset is recovered or the related liability is settled. See Temporary Difference.
+Temporary differences that result in taxable amounts in future years when the related asset is recovered or the related liability is settled. See Temporary Difference.
+
+##### Temporary Difference
+
+1. Result from events that have been recognized in the financial statements
+2. Will result in taxable or deductible amounts in future years based on provisions of the tax law.
+
+Some events recognized in financial statements do not have tax consequences. Certain revenues are exempt from taxation and certain expenses are not deductible. Events that do not have tax consequences do not give rise to temporary differences.
+A difference between the tax basis of an asset or liability computed pursuant to the requirements in Subtopic 740-10 for tax positions, and its reported amount in the financial statements that will result in taxable or deductible amounts in future years when the reported amount of the asset or liability is recovered or settled, respectively. Paragraph 740-10-25-20 cites examples of temporary differences. Some temporary differences cannot be identified with a particular asset or liability for financial reporting (see paragraphs 740-10-05-10 and 740-10-25-24 through 25-25
+1. Result from events that have been recognized in the financial statements
+2. Will result in taxable or deductible amounts in future years based on provisions of the tax law.
+
+Some events recognized in financial statements do not have tax consequences. Certain revenues are exempt from taxation and certain expenses are not deductible. Events that do not have tax consequences do not give rise to temporary differences.
+
+##### Valuation Allowance
+
+The portion of a deferred tax asset for which it is more likely than not that a tax benefit will not be realized.
+The portion of a deferred tax asset for which it is more likely than not that a tax benefit will not be realized.
+
+## 25 Recognition
+
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+
+### General
+
+**740-30-25-1** > Undistributed Earnings of Subsidiaries and Corporate Joint Ventures
+This Section provides guidance on the accounting for specific temporary differences related to investments in subsidiaries and corporate joint ventures
+, including differences arising from undistributed earnings. In certain situations, these temporary differences may be accounted for differently from the accounting that otherwise requires comprehensive recognition of deferred income taxes for temporary differences.
+This Section provides guidance on the accounting for specific temporary differences related to investments in subsidiaries and corporate joint ventures
+**740-30-25-2** , including differences arising from undistributed earnings. In certain situations, these temporary differences may be accounted for differently from the accounting that otherwise requires comprehensive recognition of deferred income taxes for temporary differences.
+Including undistributed earnings of a subsidiary (which would include the undistributed earnings of a domestic international sales corporation eligible for tax deferral) in the pretax accounting income of a parent entity either through consolidation or accounting for the investment by the equity method results in a temporary difference
+.
+Including undistributed earnings of a subsidiary (which would include the undistributed earnings of a domestic international sales corporation eligible for tax deferral) in the pretax accounting income of a parent entity either through consolidation or accounting for the investment by the equity method results in a temporary difference
+**740-30-25-3** .
+It shall be presumed that all undistributed earnings of a subsidiary will be transferred to the parent entity. Accordingly, the undistributed earnings of a subsidiary included in consolidated income shall be accounted for as a temporary difference unless the tax law provides a means by which the investment in a domestic subsidiary can be recovered tax free.
+It shall be presumed that all undistributed earnings of a subsidiary will be transferred to the parent entity. Accordingly, the undistributed earnings of a subsidiary included in consolidated income shall be accounted for as a temporary difference unless the tax law provides a means by which the investment in a domestic subsidiary can be recovered tax free.
+The principles applicable to undistributed earnings of subsidiaries in this Section also apply to tax effects of differences between taxable income
+and pretax accounting income attributable to earnings of corporate joint ventures that are essentially permanent in duration and are accounted for by the equity method. Certain corporate joint ventures have a life limited by the nature of the venture, project, or other business activity. Therefore, a reasonable assumption is that a part or all of the undistributed earnings of the venture will be transferred to the investor in a taxable distribution. Deferred taxes shall be recorded, in accordance with the requirements of Subtopic 740-10 at the time the earnings (or losses) are included in the investor's income.
+The principles applicable to undistributed earnings of subsidiaries in this Section also apply to tax effects of differences between taxable income
+**740-30-25-5** and pretax accounting income attributable to earnings of corporate joint ventures that are essentially permanent in duration and are accounted for by the equity method. Certain corporate joint ventures have a life limited by the nature of the venture, project, or other business activity. Therefore, a reasonable assumption is that a part or all of the undistributed earnings of the venture will be transferred to the investor in a taxable distribution. Deferred taxes shall be recorded, in accordance with the requirements of Subtopic 740-10 at the time the earnings (or losses) are included in the investor's income.
+A deferred tax liability
+1. An excess of the amount for financial reporting over the tax basis of an investment in a domestic subsidiary that arises in fiscal years beginning after December 15, 1992
+2. An excess of the amount for financial reporting over the tax basis of an investment in a 50-percent-or-less-owned investee except as provided in paragraph 740-30-25-18 for a corporate joint venture that is essentially permanent in duration.
+
+Paragraphs 740-30-25-9 and 740-30-25-18 identify exceptions to the accounting that otherwise requires comprehensive recognition of deferred income taxes for temporary differences arising from investments in subsidiaries and corporate joint ventures.
+A deferred tax liability
+1. An excess of the amount for financial reporting over the tax basis of an investment in a domestic subsidiary that arises in fiscal years beginning after December 15, 1992
+2. An excess of the amount for financial reporting over the tax basis of an investment in a 50-percent-or-less-owned investee except as provided in paragraph 740-30-25-18 for a corporate joint venture that is essentially permanent in duration.
+
+**740-30-25-6** Paragraphs 740-30-25-9 and 740-30-25-18 identify exceptions to the accounting that otherwise requires comprehensive recognition of deferred income taxes for temporary differences arising from investments in subsidiaries and corporate joint ventures.
+An excess of the amount for financial reporting over the tax basis of an investment in a foreign subsidiary that meets the criteria in paragraph 740-30-25-17
+2. Undistributed earnings of a domestic subsidiary that arose in fiscal years beginning on or before December 15, 1992, and that meet the criteria in paragraph 740-30-25-17. The criteria in that paragraph do not apply to undistributed earnings of domestic subsidiaries that arise in fiscal years beginning after December 15, 1992, and as required by the preceding paragraph, a deferred tax liability shall be recognized if the undistributed earnings are a taxable temporary difference.
+
+An excess of the amount for financial reporting over the tax basis of an investment in a foreign subsidiary that meets the criteria in paragraph 740-30-25-17
+2. Undistributed earnings of a domestic subsidiary that arose in fiscal years beginning on or before December 15, 1992, and that meet the criteria in paragraph 740-30-25-17. The criteria in that paragraph do not apply to undistributed earnings of domestic subsidiaries that arise in fiscal years beginning after December 15, 1992, and as required by the preceding paragraph, a deferred tax liability shall be recognized if the undistributed earnings are a taxable temporary difference.
+
+##### · > Determining Whether a Temporary Difference Is a Taxable Temporary Difference
+
+An entity may elect to determine taxable gain or loss on the liquidation of an 80-percent-or-more-owned subsidiary by reference to the tax basis of the subsidiary's net assets rather than by reference to the parent
+1. entity's tax basis for the stock of that subsidiary.
+2. An entity may execute a statutory merger whereby a subsidiary is merged into the parent entity, the noncontrolling shareholders receive stock of the parent, the subsidiary's stock is cancelled, and no taxable gain or loss results if the continuity of ownership, continuity of business entity, and certain other requirements of the tax law are met.
+
+An entity may elect to determine taxable gain or loss on the liquidation of an 80-percent-or-more-owned subsidiary by reference to the tax basis of the subsidiary's net assets rather than by reference to the parent
+1. entity's tax basis for the stock of that subsidiary.
+2. An entity may execute a statutory merger whereby a subsidiary is merged into the parent entity, the noncontrolling shareholders receive stock of the parent, the subsidiary's stock is cancelled, and no taxable gain or loss results if the continuity of ownership, continuity of business entity, and certain other requirements of the tax law are met.
+
+Some elections for tax purposes are available only if the parent owns a specified percentage of the subsidiary's stock. The parent sometimes may own less than that specified percentage, and the price per share to acquire a noncontrolling interest
+may significantly exceed the per-share equivalent of the amount reported as noncontrolling interest in the consolidated financial statements. In those circumstances, the excess of the amount for financial reporting over the tax basis of the parent's investment in the subsidiary is not a taxable temporary difference if settlement of the noncontrolling interest is expected to occur at the point in time when settlement would not result in a significant cost. That could occur, for example, toward the end of the life of the subsidiary, after it has recovered and settled most of its assets and liabilities, respectively. The fair value of the noncontrolling interest ordinarily will approximately equal its percentage of the subsidiary's net assets if those net assets consist primarily of cash.
+Some elections for tax purposes are available only if the parent owns a specified percentage of the subsidiary's stock. The parent sometimes may own less than that specified percentage, and the price per share to acquire a noncontrolling interest
+
+##### · > Recognition of Deferred Tax Assets
+
+**740-30-25-9** may significantly exceed the per-share equivalent of the amount reported as noncontrolling interest in the consolidated financial statements. In those circumstances, the excess of the amount for financial reporting over the tax basis of the parent's investment in the subsidiary is not a taxable temporary difference if settlement of the noncontrolling interest is expected to occur at the point in time when settlement would not result in a significant cost. That could occur, for example, toward the end of the life of the subsidiary, after it has recovered and settled most of its assets and liabilities, respectively. The fair value of the noncontrolling interest ordinarily will approximately equal its percentage of the subsidiary's net assets if those net assets consist primarily of cash.
+A deferred tax asset
+shall be recognized for an excess of the tax basis over the amount for financial reporting of an investment in a subsidiary or corporate joint venture that is essentially permanent in duration only if it is apparent that the temporary difference will reverse in the foreseeable future.
+A deferred tax asset
+**740-30-25-10** shall be recognized for an excess of the tax basis over the amount for financial reporting of an investment in a subsidiary or corporate joint venture that is essentially permanent in duration only if it is apparent that the temporary difference will reverse in the foreseeable future.
+For example, if an entity decides to sell a subsidiary that meets the requirements of paragraphs 205-20-45-1A through 45-1D
+for measurement and display as a discontinued operation and the parent entity's tax basis in the stock of the subsidiary (outside tax basis) exceeds the financial reporting amount of the investment in the subsidiary, the decision to sell the subsidiary makes it apparent that the deductible temporary difference will reverse in the foreseeable future. Assuming in this example that it is more likely than not that the deferred tax asset will be realized, the tax benefit for the excess of outside tax basis over financial reporting basis shall be recognized when it is apparent that the temporary difference will reverse in the foreseeable future. The same criterion shall apply for the recognition of a deferred tax liability related to an excess of financial reporting basis over outside tax basis of an investment in a subsidiary that was previously not recognized under the provisions of paragraph 740-30-25-18.
+For example, if an entity decides to sell a subsidiary that meets the requirements of paragraphs 205-20-45-1A through 45-1D
+**740-30-25-11** for measurement and display as a discontinued operation and the parent entity's tax basis in the stock of the subsidiary (outside tax basis) exceeds the financial reporting amount of the investment in the subsidiary, the decision to sell the subsidiary makes it apparent that the deductible temporary difference will reverse in the foreseeable future. Assuming in this example that it is more likely than not that the deferred tax asset will be realized, the tax benefit for the excess of outside tax basis over financial reporting basis shall be recognized when it is apparent that the temporary difference will reverse in the foreseeable future. The same criterion shall apply for the recognition of a deferred tax liability related to an excess of financial reporting basis over outside tax basis of an investment in a subsidiary that was previously not recognized under the provisions of paragraph 740-30-25-18.
+The need for a valuation allowance
+for the deferred tax asset referred to in paragraph 740-30-25-9 and other related deferred tax assets, such as a deferred tax asset for foreign tax credit carryforwards, shall be assessed.
+The need for a valuation allowance
+**740-30-25-12** for the deferred tax asset referred to in paragraph 740-30-25-9 and other related deferred tax assets, such as a deferred tax asset for foreign tax credit carryforwards, shall be assessed.
+Paragraph 740-10-30-18 identifies four sources of taxable income to be considered in determining the need for and amount of a valuation allowance for those and other deferred tax assets. One source is future reversals of temporary differences.
+Paragraph 740-10-30-18 identifies four sources of taxable income to be considered in determining the need for and amount of a valuation allowance for those and other deferred tax assets. One source is future reversals of temporary differences.
+Future distributions of future earnings of a subsidiary or corporate joint venture, however, shall not be considered except to the extent that a deferred tax liability has been recognized for existing undistributed earnings or earnings have been remitted in the past.
+Future distributions of future earnings of a subsidiary or corporate joint venture, however, shall not be considered except to the extent that a deferred tax liability has been recognized for existing undistributed earnings or earnings have been remitted in the past.
+A tax benefit shall not be recognized, however, for tax deductions or favorable tax rates attributable to future dividends of undistributed earnings for which a deferred tax liability has not been recognized under the requirements of paragraph 740-30-25-18.
+A tax benefit shall not be recognized, however, for tax deductions or favorable tax rates attributable to future dividends of undistributed earnings for which a deferred tax liability has not been recognized under the requirements of paragraph 740-30-25-18.
+
+##### · > Ownership Changes in Investments
+
+An investment in common stock of a subsidiary may change so that it is no longer a subsidiary because the parent entity sells a portion of the investment, the subsidiary sells additional stock, or other transactions affect the investment. If a parent entity did not recognize income taxes on its equity in undistributed earnings of a subsidiary for the reasons cited in paragraph 740-30-25-17 (and the entity in which the investment is held ceases to be a subsidiary), it shall accrue in the current period income taxes on the temporary difference related to its remaining investment in common stock in accordance with the guidance in Subtopic 740-10.
+An investment in common stock of a subsidiary may change so that it is no longer a subsidiary because the parent entity sells a portion of the investment, the subsidiary sells additional stock, or other transactions affect the investment. If a parent entity did not recognize income taxes on its equity in undistributed earnings of a subsidiary for the reasons cited in paragraph 740-30-25-17 (and the entity in which the investment is held ceases to be a subsidiary), it shall accrue in the current period income taxes on the temporary difference related to its remaining investment in common stock in accordance with the guidance in Subtopic 740-10.
+Paragraph superseded by Accounting Standards Update No. 2019-12
+Paragraph superseded by Accounting Standards Update No. 2019-12
+
+##### · > Exceptions to Comprehensive Recognition of Deferred Income Taxes
+
+The presumption in paragraph 740-30-25-3 that all undistributed earnings will be transferred to the parent entity may be overcome, and no income taxes shall be accrued by the parent entity, for entities and periods identified in the following paragraph if sufficient evidence shows that the subsidiary has invested or will invest the undistributed earnings indefinitely or that the earnings will be remitted in a tax-free liquidation. A parent entity shall have evidence of specific plans for reinvestment of undistributed earnings of a subsidiary which demonstrate that remittance of the earnings will be postponed indefinitely. These criteria required to overcome the presumption are sometimes referred to as the indefinite reversal criteria. Experience of the entities and definite future programs of operations and remittances are examples of the types of evidence required to substantiate the parent entity's representation of indefinite postponement of remittances from a subsidiary. The indefinite reversal criteria shall not be applied to the inside basis differences of foreign subsidiaries.
+The presumption in paragraph 740-30-25-3 that all undistributed earnings will be transferred to the parent entity may be overcome, and no income taxes shall be accrued by the parent entity, for entities and periods identified in the following paragraph if sufficient evidence shows that the subsidiary has invested or will invest the undistributed earnings indefinitely or that the earnings will be remitted in a tax-free liquidation. A parent entity shall have evidence of specific plans for reinvestment of undistributed earnings of a subsidiary which demonstrate that remittance of the earnings will be postponed indefinitely. These criteria required to overcome the presumption are sometimes referred to as the indefinite reversal criteria. Experience of the entities and definite future programs of operations and remittances are examples of the types of evidence required to substantiate the parent entity's representation of indefinite postponement of remittances from a subsidiary. The indefinite reversal criteria shall not be applied to the inside basis differences of foreign subsidiaries.
+An excess of the amount for financial reporting over the tax basis of an investment in a foreign subsidiary or a foreign corporate joint venture that is essentially permanent in duration
+2. Undistributed earnings of a domestic subsidiary or a domestic corporate joint venture that is essentially permanent in duration that arose in fiscal years beginning on or before December 15, 1992. A last-in, first-out (LIFO) pattern determines whether reversals pertain to differences that arose in fiscal years beginning on or before December 15, 1992.
+
+An excess of the amount for financial reporting over the tax basis of an investment in a foreign subsidiary or a foreign corporate joint venture that is essentially permanent in duration
+2. Undistributed earnings of a domestic subsidiary or a domestic corporate joint venture that is essentially permanent in duration that arose in fiscal years beginning on or before December 15, 1992. A last-in, first-out (LIFO) pattern determines whether reversals pertain to differences that arose in fiscal years beginning on or before December 15, 1992.
+
+If circumstances change and it becomes apparent that some or all of the undistributed earnings of a subsidiary will be remitted in the foreseeable future but income taxes have not been recognized by the parent entity, it shall accrue as an expense of the current period income taxes attributable to that remittance. If it becomes apparent that some or all of the undistributed earnings of a subsidiary on which income taxes have been accrued will not be remitted in the foreseeable future, the parent entity shall adjust income tax expense of the current period.
+If circumstances change and it becomes apparent that some or all of the undistributed earnings of a subsidiary will be remitted in the foreseeable future but income taxes have not been recognized by the parent entity, it shall accrue as an expense of the current period income taxes attributable to that remittance. If it becomes apparent that some or all of the undistributed earnings of a subsidiary on which income taxes have been accrued will not be remitted in the foreseeable future, the parent entity shall adjust income tax expense of the current period.
+
+## 45 Other Presentation Matters
+
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+
+### General
+
+**740-30-45-1** > Undistributed Earnings of Subsidiaries and Corporate Joint Ventures
+This guidance addresses presentation in the income statement of specific types of adjustments to income taxes
+. The specific types of adjustments addressed result from either the recognition or derecognition of deferred income taxes related to exceptions to comprehensive recognition of deferred income taxes arising from investments in subsidiaries and corporate joint ventures.
+This guidance addresses presentation in the income statement of specific types of adjustments to income taxes
+**740-30-45-2** . The specific types of adjustments addressed result from either the recognition or derecognition of deferred income taxes related to exceptions to comprehensive recognition of deferred income taxes arising from investments in subsidiaries and corporate joint ventures.
+Paragraph 740-30-25-18 identifies situations where deferred tax liabilities are not recorded for specific temporary differences. Paragraph 740-30-25-19 provides that if circumstances change and it becomes apparent that some or all of the undistributed earnings of a subsidiary will be remitted in the foreseeable future but income taxes have not been recognized by the parent entity, it shall accrue as an expense of the current period income taxes attributable to that remittance. If it becomes apparent that some or all of the undistributed earnings of a subsidiary on which income taxes have been accrued will not be remitted in the foreseeable future, the parent entity shall adjust income tax expense of the current period.
+Paragraph 740-30-25-18 identifies situations where deferred tax liabilities are not recorded for specific temporary differences. Paragraph 740-30-25-19 provides that if circumstances change and it becomes apparent that some or all of the undistributed earnings of a subsidiary will be remitted in the foreseeable future but income taxes have not been recognized by the parent entity, it shall accrue as an expense of the current period income taxes attributable to that remittance. If it becomes apparent that some or all of the undistributed earnings of a subsidiary on which income taxes have been accrued will not be remitted in the foreseeable future, the parent entity shall adjust income tax expense of the current period.
+If a parent entity did not recognize income taxes on its equity in undistributed earnings of a subsidiary for the reasons cited in paragraph 740-30-25-17 and the entity in which the investment is held ceases to be a subsidiary, paragraph 740-30-25-15 requires that it shall accrue in the current period income taxes on the temporary difference related to its remaining investment in common stock in accordance with the guidance in Subtopic 740-10.
+If a parent entity did not recognize income taxes on its equity in undistributed earnings of a subsidiary for the reasons cited in paragraph 740-30-25-17 and the entity in which the investment is held ceases to be a subsidiary, paragraph 740-30-25-15 requires that it shall accrue in the current period income taxes on the temporary difference related to its remaining investment in common stock in accordance with the guidance in Subtopic 740-10.
+
+## 50 Disclosure
+
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+
+### General
+
+**740-30-50-1** Related Proposed ASUs > Undistributed Earnings of Subsidiaries and Corporate Joint Ventures
+This guidance establishes disclosure requirements applicable to unrecognized deferred tax liabilities related to investments in subsidiaries and corporate joint ventures.
+This guidance establishes disclosure requirements applicable to unrecognized deferred tax liabilities related to investments in subsidiaries and corporate joint ventures.
+All of the following information shall be disclosed whenever a deferred tax liability
+1. A description of the types of temporary differences for which a deferred tax liability has not been recognized and the types of events that would cause those temporary differences to become taxable
+2. The cumulative amount of each type of temporary difference
+3. The amount of the unrecognized deferred tax liability for temporary differences related to investments in foreign subsidiaries and foreign corporate joint ventures that are essentially permanent in duration if determination of that liability is practicable or a statement that determination is not practicable. While paragraph 740-30-25-14 prohibits recognition of a tax benefit for tax deductions or favorable tax rates attributable to future dividends of undistributed earnings for which a deferred tax liability has not been recognized, favorable tax treatment would be reflected in measuring that unrecognized deferred tax liability for disclosure purposes.
+4. The amount of the deferred tax liability for temporary differences other than those in (c) (that is, undistributed domestic earnings) that is not recognized in accordance with the provisions of paragraph 740-30-25-18.
+
+1. A description of the types of temporary differences for which a deferred tax liability has not been recognized and the types of events that would cause those temporary differences to become taxable
+2. Subparagraph superseded by Accounting Standards Update No. 2023-09.
+3. The amount of the unrecognized deferred tax liability for temporary differences related to investments in foreign subsidiaries and foreign corporate joint ventures that are essentially permanent in duration if determination of that liability is practicable or a statement that determination is not practicable. While paragraph 740-30-25-14 prohibits recognition of a tax benefit for tax deductions or favorable tax rates attributable to future dividends of undistributed earnings for which a deferred tax liability has not been recognized, favorable tax treatment would be reflected in measuring that unrecognized deferred tax liability for disclosure purposes.
+4. The amount of the deferred tax liability for temporary differences other than those in (c) (that is, undistributed domestic earnings) that is not recognized in accordance with the provisions of paragraph 740-30-25-18.
+
+All of the following information shall be disclosed whenever a deferred tax liability
+1. A description of the types of temporary differences for which a deferred tax liability has not been recognized and the types of events that would cause those temporary differences to become taxable
+2. The cumulative amount of each type of temporary difference
+3. The amount of the unrecognized deferred tax liability for temporary differences related to investments in foreign subsidiaries and foreign corporate joint ventures that are essentially permanent in duration if determination of that liability is practicable or a statement that determination is not practicable. While paragraph 740-30-25-14 prohibits recognition of a tax benefit for tax deductions or favorable tax rates attributable to future dividends of undistributed earnings for which a deferred tax liability has not been recognized, favorable tax treatment would be reflected in measuring that unrecognized deferred tax liability for disclosure purposes.
+4. The amount of the deferred tax liability for temporary differences other than those in (c) (that is, undistributed domestic earnings) that is not recognized in accordance with the provisions of paragraph 740-30-25-18.
+
+1. A description of the types of temporary differences for which a deferred tax liability has not been recognized and the types of events that would cause those temporary differences to become taxable
+2. Subparagraph superseded by Accounting Standards Update No. 2023-09.
+3. The amount of the unrecognized deferred tax liability for temporary differences related to investments in foreign subsidiaries and foreign corporate joint ventures that are essentially permanent in duration if determination of that liability is practicable or a statement that determination is not practicable. While paragraph 740-30-25-14 prohibits recognition of a tax benefit for tax deductions or favorable tax rates attributable to future dividends of undistributed earnings for which a deferred tax liability has not been recognized, favorable tax treatment would be reflected in measuring that unrecognized deferred tax liability for disclosure purposes.
+4. The amount of the deferred tax liability for temporary differences other than those in (c) (that is, undistributed domestic earnings) that is not recognized in accordance with the provisions of paragraph 740-30-25-18.
+
+## 60 Relationships
+
+General Note:The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
+
+### General
+
+**740-30-60-1** > Financial Services—Depository and Lending
+For guidance on the tax consequences of bad debt reserves of savings and loans (and other qualified thrift lenders) that arose in tax years beginning before December 31, 1987, see Subtopic 942-740 on financial services—depository and lending—income taxes.
+**740-30-60-1** For guidance on the tax consequences of bad debt reserves of savings and loans (and other qualified thrift lenders) that arose in tax years beginning before December 31, 1987, see Subtopic 942-740 on financial services—depository and lending—income taxes.

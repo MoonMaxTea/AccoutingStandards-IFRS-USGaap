@@ -597,4 +597,3 @@ Question: Is disclosure required of the amount of income realized as a result of
 **330-10-S99-3** The following is the text of SAB Topic 11.F, LIFO Liquidations.Facts: Registrant on LIFO basis of accounting liquidates a substantial portion of its LIFO inventory and as a result includes a material amount of income in its income statement which would not have been recorded had the inventory liquidation not taken place.
 Question: Is disclosure required of the amount of income realized as a result of the inventory liquidation?
 Interpretive Response: Yes. Such disclosure would be required in order to make the financial statements not misleading. Disclosure may be made either in a footnote or parenthetically on the face of the income statement.
-About Help Contact Us Copyright Terms and Conditions FASB.org Assets 330 Inventory Print keyboard_arrow_upDisplaykeyboard_arrow_up

@@ -1082,3 +1082,180 @@ Interpretive Response: The 10% measurement level of the significant subsidiary r
 **323-10-S99-4** · · > SEC Observer Comment: Accounting by an Investor for Stock-Based Compensation Granted to Employees of an Equity Method Investee
 The following is the text of SEC Observer Comment: Accounting by an Investor for Stock-Based Compensation Granted to Employees of an Equity Method Investee.Paragraph 323-10-25-3 provides guidance on the accounting by an investor for stock-based compensation based on the investor's stock granted to employees of an equity method investee. Investors that are SEC registrants should classify any income or expense resulting from application of this guidance in the same income statement caption as the equity in earnings (or losses) of the investee.
 **323-10-S99-4** The following is the text of SEC Observer Comment: Accounting by an Investor for Stock-Based Compensation Granted to Employees of an Equity Method Investee.Paragraph 323-10-25-3 provides guidance on the accounting by an investor for stock-based compensation based on the investor's stock granted to employees of an equity method investee. Investors that are SEC registrants should classify any income or expense resulting from application of this guidance in the same income statement caption as the equity in earnings (or losses) of the investee.
+
+## 00 Status
+
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+
+### General
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| 323-30-35-3 | Amended | Accounting Standards Update No. 2016-01 | 01/05/2016 |
+| 323-30-35-4 | Amended | Accounting Standards Update No. 2016-01 | 01/05/2016 |
+| 323-30-60-2 | Superseded | Accounting Standards Update No. 2016-01 | 01/05/2016 |
+
+**323-30-00-1** The following table identifies the changes made to this Subtopic. 
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| 323-30-35-3 | Amended | Accounting Standards Update No. 2016-01 | 01/05/2016 |
+| 323-30-35-4 | Amended | Accounting Standards Update No. 2016-01 | 01/05/2016 |
+| 323-30-60-2 | Superseded | Accounting Standards Update No. 2016-01 | 01/05/2016 |
+
+**323-30-00-1** The following table identifies the changes made to this Subtopic. 
+
+## 05 Overview and Background
+
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+
+### General
+
+**323-30-05-1** This Subtopic provides guidance on applying the criteria for equity method accounting to investments in partnerships, unincorporated joint ventures, and limited liability companies.
+**323-30-05-1** This Subtopic provides guidance on applying the criteria for equity method accounting to investments in partnerships, unincorporated joint ventures, and limited liability companies.
+**323-30-05-2** See Section 323-10-05 for a discussion of the interaction of guidance in the multiple Subtopics within the Investments—Equity Method and Joint Ventures Topic.
+**323-30-05-2** See Section 323-10-05 for a discussion of the interaction of guidance in the multiple Subtopics within the Investments—Equity Method and Joint Ventures Topic.
+
+## 15 Scope and Scope Exceptions
+
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+
+### General
+
+**323-30-15-1** > Overall Guidance
+This Subtopic follows the same Scope and Scope Exceptions as outlined in the Overall Subtopic, see Section 323-10-15, with specific transaction qualifications noted below.
+**323-30-15-1** This Subtopic follows the same Scope and Scope Exceptions as outlined in the Overall Subtopic, see Section 323-10-15, with specific transaction qualifications noted below.
+**323-30-15-2** > Transactions
+Partnerships
+2. Unincorporated joint ventures
+3. Limited liability companies.
+
+**323-30-15-2** Partnerships
+2. Unincorporated joint ventures
+3. Limited liability companies.
+
+**323-30-15-3** Although Subtopic 323-10 applies only to investments in common stock
+of corporations and does not cover investments in partnerships and unincorporated joint ventures (also called undivided interests in ventures), many of the provisions of that Subtopic would be appropriate in accounting for investments in these unincorporated entities as discussed within this Subtopic.
+**323-30-15-3** Although Subtopic 323-10 applies only to investments in common stock
+**323-30-15-4** of corporations and does not cover investments in partnerships and unincorporated joint ventures (also called undivided interests in ventures), many of the provisions of that Subtopic would be appropriate in accounting for investments in these unincorporated entities as discussed within this Subtopic.
+This Subtopic does not provide guidance for investments in limited liability companies that are required to be accounted for as debt securities pursuant to paragraph 860-20-35-2.
+**323-30-15-4** This Subtopic does not provide guidance for investments in limited liability companies that are required to be accounted for as debt securities pursuant to paragraph 860-20-35-2.
+
+## 20 Glossary
+
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+
+##### Common Stock
+
+A stock that is subordinate to all other stock of the issuer. Also called common shares.
+A stock that is subordinate to all other stock of the issuer. Also called common shares.
+
+##### Investee
+
+An entity that issued an equity instrument that is held by an investor.
+An entity that issued an equity instrument that is held by an investor.
+
+##### Investor
+
+A business entity that holds an investment in voting stock of another entity.
+A business entity that holds an investment in voting stock of another entity.
+
+##### Significant Influence
+
+Paragraphs 323-10-15-6 through 15-11 define significant influence.
+Paragraphs 323-10-15-6 through 15-11
+
+## 25 Recognition
+
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+
+General Note for Fair Value Option:Some of the items subject to the guidance in this Subtopic may qualify for application of the Fair Value Option Subsections of Subtopic 825-10. Those Subsections (see paragraph 825-10-05-5) address circumstances in which entities may choose, at specified election dates, to measure eligible items at fair value (the fair value option). See Section 825-10-15 for guidance on the scope of the Fair Value Option Subsections of the Financial Instruments Topic.
+
+### General
+
+**323-30-25-1** Investors in unincorporated entities such as partnerships and other unincorporated joint ventures generally shall account for their investments using the equity method of accounting by analogy to Subtopic 323-10 if the investor
+has the ability to exercise significant influence over the investee.
+**323-30-25-1** Investors in unincorporated entities such as partnerships and other unincorporated joint ventures generally shall account for their investments using the equity method of accounting by analogy to Subtopic 323-10 if the investor
+**323-30-25-2** has the ability to exercise significant influence over the investee.
+The elimination of intra-entity profits and the accounting for income taxes as provided for in paragraph 323-10-35-7 shall also apply to unincorporated joint ventures.
+**323-30-25-2** The elimination of intra-entity profits and the accounting for income taxes as provided for in paragraph 323-10-35-7 shall also apply to unincorporated joint ventures.
+
+## 35 Subsequent Measurement
+
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+
+### General
+
+**323-30-35-1** > Partnership Profits and Losses
+Partnership profits and losses accrued by investor-partners generally shall be reflected in their financial statements as described in paragraphs 323-10-45-1 through 45-2
+, respectively.
+Partnership profits and losses accrued by investor-partners generally shall be reflected in their financial statements as described in paragraphs 323-10-45-1 through 45-2
+**323-30-35-2** , respectively.
+Likewise, most of the other provisions of Section 323-10-35 would be appropriate in accounting for a partnership interest, such as the elimination of intra-entity profits and losses (see paragraph 323-10-35-7). However, income taxes shall be provided on the profits accrued by investor-partners regardless of the tax basis employed in the partnership return. The tax liabilities applicable to partnership interests relate directly to the partners, and the accounting for income taxes generally contemplated by Topic 740 is appropriate.
+Likewise, most of the other provisions of Section 323-10-35 would be appropriate in accounting for a partnership interest, such as the elimination of intra-entity profits and losses (see paragraph 323-10-35-7). However, income taxes shall be provided on the profits accrued by investor-partners regardless of the tax basis employed in the partnership return. The tax liabilities applicable to partnership interests relate directly to the partners, and the accounting for income taxes generally contemplated by Topic 740 is appropriate.
+**323-30-35-3** > Investment in a Limited Liability Company
+An investment in a limited liability company that maintains a specific ownership account for each investor—similar to a partnership capital account structure—shall be viewed as similar to an investment in a limited partnership for purposes of determining whether a noncontrolling investment in a limited liability company shall be accounted for in accordance with the guidance in Topic 321 or the equity method.
+An investment in a limited liability company that maintains a specific ownership account for each investor—similar to a partnership capital account structure—shall be viewed as similar to an investment in a limited partnership for purposes of determining whether a noncontrolling investment in a limited liability company shall be accounted for in accordance with the guidance in Topic 321 or the equity method.
+**323-30-35-4** > Discontinuance of the Equity Method
+Paragraph 323-10-35-39 provides guidance on discontinuance of the equity method for a limited partnership because the conditions in paragraph 970-323-25-6 are met.
+Paragraph 323-10-35-39 provides guidance on discontinuance of the equity method for a limited partnership because the conditions in paragraph 970-323-25-6 are met.
+
+## 60 Relationships
+
+General Note:The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
+
+### General
+
+**323-30-60-1** > Receivables
+For guidance on accounting for an acquisition, development, and construction arrangement, see the Acquisition, Development, and Construction Arrangements Subsection of Section 310-10-25.
+**323-30-60-1** For guidance on accounting for an acquisition, development, and construction arrangement, see the Acquisition, Development, and Construction Arrangements Subsection of Section 310-10-25.
+**323-30-60-2** Paragraph superseded by Accounting Standards Update No. 2016-01.
+**323-30-60-2** Paragraph superseded by Accounting Standards Update No. 2016-01.
+**323-30-60-3** > Real Estate—General
+For guidance on an investment in real estate or real estate development projects in a form that otherwise would be within the scope of this Subtopic, see Subtopic 970-323.
+**323-30-60-3** For guidance on an investment in real estate or real estate development projects in a form that otherwise would be within the scope of this Subtopic, see Subtopic 970-323.
+**323-30-60-4** > Collaborative Arrangements
+For guidance on collaborative arrangements, see Topic 808.
+**323-30-60-4** For guidance on collaborative arrangements, see Topic 808.
+
+## S00 Status
+
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+
+### General
+
+**323-30-S00-1** The following table identifies the changes made to this Subtopic.
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| 323-30-S99-1 | Amended | Accounting Standards Update No. 2010-04 | 01/15/2010 |
+
+
+**323-30-S00-1** The following table identifies the changes made to this Subtopic.
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| 323-30-S99-1 | Amended | Accounting Standards Update No. 2010-04 | 01/15/2010 |
+
+
+## S55 Implementation Guidance and Illustrations
+
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+
+### General
+
+**323-30-S55-1** > Accounting for Limited Partnership Investments
+See paragraph 323-30-S99-1, SEC Staff Announcement: Accounting for Limited Partnership Investments, for SEC Staff views on when a limited partner may have "so minor" an interest that the equity method would not be required.
+**323-30-S55-1** See paragraph 323-30-S99-1, SEC Staff Announcement: Accounting for Limited Partnership Investments, for SEC Staff views on when a limited partner may have "so minor" an interest that the equity method would not be required.
+
+## S99 SEC Materials
+
+General Note:As more fully described in *About the Codification*, the Codification includes selected SEC and SEC Staff content for reference by public companies. The Codification does not replace or affect how the SEC or SEC Staff issues or updates SEC content. SEC Staff content does not constitute Commission-approved rules or interpretations of the SEC.
+
+### General
+
+##### · > Announcements Made by SEC Staff at Emerging Issues Task Force (EITF) Meetings
+
+**323-30-S99-1** > SEC Staff Guidance· · > SEC Staff Announcement: Accounting for Limited Partnership Investments
+The following is the text of SEC Staff Announcement: Accounting for Limited Partnership Investments.The SEC staff's position on the application of the equity method to investments in limited partnerships is that investments in all limited partnerships should be accounted for pursuant to paragraph 970-323-25-6. That guidance requires the use of the equity method unless the investor's interest "is so minor that the limited partner may have virtually no influence over partnership operating and financial policies." The SEC staff understands that practice generally has viewed investments of more than 3 to 5 percent to be more than minor.
+**323-30-S99-1** The following is the text of SEC Staff Announcement: Accounting for Limited Partnership Investments.The SEC staff's position on the application of the equity method to investments in limited partnerships is that investments in all limited partnerships should be accounted for pursuant to paragraph 970-323-25-6. That guidance requires the use of the equity method unless the investor's interest "is so minor that the limited partner may have virtually no influence over partnership operating and financial policies." The SEC staff understands that practice generally has viewed investments of more than 3 to 5 percent to be more than minor.

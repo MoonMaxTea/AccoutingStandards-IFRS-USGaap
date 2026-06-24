@@ -4532,3 +4532,381 @@ The following is the text of the SEC Observer Comment: Accounting for Gain Recog
 of several limited partnerships into a MLP and receives tradable limited partnership units in exchange for relinquishing the rights to certain future fees from the limited partnerships.
 **810-10-S99-6** The following is the text of the SEC Observer Comment: Accounting for Gain Recognition in Certain Transactions Involving the General Partner in a Master Limited Partnership.The SEC staff has objected to immediate gain recognition when the general partner in a Master Limited Partnership has continuing exposure in forms such as debt guarantees, financing commitments, or restrictions on the sale of MLP units. The SEC staff also will not accept immediate gain recognition in transactions when the general partner (who will continue to act in that capacity and exercise significant influence but not control over the MLP) sponsors the rollup
 of several limited partnerships into a MLP and receives tradable limited partnership units in exchange for relinquishing the rights to certain future fees from the limited partnerships.
+
+## 00 Status
+
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+
+### General
+
+The following table identifies the changes made to this Subtopic.
+**** **** **** **** **** **** **** **** **** **** ****
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Kick-Out Rights (1st def.) | Superseded | Accounting Standards Update No. 2015-02 | 02/18/2015 |
+| Kick-Out Rights (2nd def.) | Superseded | Accounting Standards Update No. 2015-02 | 02/18/2015 |
+| Ordinary Course of Business | Superseded | Accounting Standards Update No. 2015-02 | 02/18/2015 |
+| Participating Rights (2nd def.) | Superseded | Accounting Standards Update No. 2015-02 | 02/18/2015 |
+| Protective Rights (2nd def.) | Superseded | Accounting Standards Update No. 2015-02 | 02/18/2015 |
+| With Cause | Superseded | Accounting Standards Update No. 2015-02 | 02/18/2015 |
+| Without Cause | Superseded | Accounting Standards Update No. 2015-02 | 02/18/2015 |
+| 810-20-05-1 | Superseded | Accounting Standards Update No. 2015-02 | 02/18/2015 |
+| 810-20-05-2 | Superseded | Accounting Standards Update No. 2015-02 | 02/18/2015 |
+| 810-20-05-2 | Amended | Accounting Standards Update No. 2009-17 | 12/23/2009 |
+| 810-20-15-1 through 15-3 | Superseded | Accounting Standards Update No. 2015-02 | 02/18/2015 |
+| 810-20-25-1 through 25-21 | Superseded | Accounting Standards Update No. 2015-02 | 02/18/2015 |
+| 810-20-45-1 | Superseded | Accounting Standards Update No. 2015-02 | 02/18/2015 |
+| 810-20-55-1 through 55-16 | Superseded | Accounting Standards Update No. 2015-02 | 02/18/2015 |
+
+The following table identifies the changes made to this Subtopic.
+**** **** **** **** **** **** **** **** **** **** ****
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Kick-Out Rights (1st def.) | Superseded | Accounting Standards Update No. 2015-02 | 02/18/2015 |
+| Kick-Out Rights (2nd def.) | Superseded | Accounting Standards Update No. 2015-02 | 02/18/2015 |
+| Ordinary Course of Business | Superseded | Accounting Standards Update No. 2015-02 | 02/18/2015 |
+| Participating Rights (2nd def.) | Superseded | Accounting Standards Update No. 2015-02 | 02/18/2015 |
+| Protective Rights (2nd def.) | Superseded | Accounting Standards Update No. 2015-02 | 02/18/2015 |
+| With Cause | Superseded | Accounting Standards Update No. 2015-02 | 02/18/2015 |
+| Without Cause | Superseded | Accounting Standards Update No. 2015-02 | 02/18/2015 |
+| 810-20-05-1 | Superseded | Accounting Standards Update No. 2015-02 | 02/18/2015 |
+| 810-20-05-2 | Superseded | Accounting Standards Update No. 2015-02 | 02/18/2015 |
+| 810-20-05-2 | Amended | Accounting Standards Update No. 2009-17 | 12/23/2009 |
+| 810-20-15-1 through 15-3 | Superseded | Accounting Standards Update No. 2015-02 | 02/18/2015 |
+| 810-20-25-1 through 25-21 | Superseded | Accounting Standards Update No. 2015-02 | 02/18/2015 |
+| 810-20-45-1 | Superseded | Accounting Standards Update No. 2015-02 | 02/18/2015 |
+| 810-20-55-1 through 55-16 | Superseded | Accounting Standards Update No. 2015-02 | 02/18/2015 |
+
+## 05 Overview and Background
+
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+
+### General
+
+**810-20-05-1** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-05-1** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-05-2** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-05-2** Paragraph superseded by Accounting Standards Update No. 2015-02.
+
+## 15 Scope and Scope Exceptions
+
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+
+### General
+
+**810-20-15-1** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-15-1** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-15-2** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-15-2** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-15-3** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-15-3** Paragraph superseded by Accounting Standards Update No. 2015-02.
+
+## 20 Glossary
+
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+
+## 25 Recognition
+
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+
+### General
+
+**810-20-25-1** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-1** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-2** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-2** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-3** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-3** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-4** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-4** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-5** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-5** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-6** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-6** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-7** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-7** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-8** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-8** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-9** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-9** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-10** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-10** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-11** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-11** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-12** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-12** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-13** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-13** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-14** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-14** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-15** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-15** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-16** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-16** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-17** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-17** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-18** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-18** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-19** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-19** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-20** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-20** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-21** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-25-21** Paragraph superseded by Accounting Standards Update No. 2015-02.
+
+## 45 Other Presentation Matters
+
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+
+### General
+
+**810-20-45-1** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-45-1** Paragraph superseded by Accounting Standards Update No. 2015-02.
+
+## 55 Implementation Guidance and Illustrations
+
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+
+### General
+
+**810-20-55-1** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-55-1** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-55-2** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-55-2** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-55-3** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-55-3** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-55-4** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-55-4** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-55-5** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-55-5** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-55-6** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-55-6** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-55-7** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-55-7** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-55-8** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-55-8** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-55-9** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-55-9** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-55-10** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-55-10** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-55-11** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-55-11** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-55-12** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-55-12** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-55-13** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-55-13** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-55-14** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-55-14** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-55-15** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-55-15** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-55-16** Paragraph superseded by Accounting Standards Update No. 2015-02.
+**810-20-55-16** Paragraph superseded by Accounting Standards Update No. 2015-02.
+
+## 00 Status
+
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+
+### General
+
+**810-30-00-1** The following table identifies the changes made to this Subtopic.
+
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Fair Value (3rd def.) | Added | Accounting Standards Update No. 2012-04 | 10/01/2012 |
+| 810-30-15-3 | Amended | Accounting Standards Update No. 2015-02 | 02/18/2015 |
+| 810-30-55-1 | Amended | Accounting Standards Update No. 2012-04 | 10/01/2012 |
+| 810-30-55-3 | Amended | Accounting Standards Update No. 2012-04 | 10/01/2012 |
+
+**810-30-00-1** The following table identifies the changes made to this Subtopic.
+
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Fair Value (3rd def.) | Added | Accounting Standards Update No. 2012-04 | 10/01/2012 |
+| 810-30-15-3 | Amended | Accounting Standards Update No. 2015-02 | 02/18/2015 |
+| 810-30-55-1 | Amended | Accounting Standards Update No. 2012-04 | 10/01/2012 |
+| 810-30-55-3 | Amended | Accounting Standards Update No. 2012-04 | 10/01/2012 |
+
+## 05 Overview and Background
+
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+
+### General
+
+This Subtopic provides guidance on whether and how a sponsor
+should consolidate a research and development arrangement. The guidance follows one example throughout the Subtopic. For guidance on other issues concerning research and development arrangements, see Subtopic 730-20.
+This Subtopic provides guidance on whether and how a sponsor
+**810-30-05-2** should consolidate a research and development arrangement. The guidance follows one example throughout the Subtopic. For guidance on other issues concerning research and development arrangements, see Subtopic 730-20.
+For guidance on what a research and development arrangement is, see Subtopic 730-20. An overview can be found in paragraphs 730-20-05-1 through 05-9
+.
+For guidance on what a research and development arrangement is, see Subtopic 730-20. An overview can be found in paragraphs 730-20-05-1 through 05-9
+
+## 15 Scope and Scope Exceptions
+
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+
+### General
+
+**810-30-15-1** > Overall Guidance
+This Subtopic follows the same Scope and Scope Exceptions as outlined in the Overall Subtopic, see Section 810-10-15, with specific transaction qualifications and exceptions noted below.
+**810-30-15-1** This Subtopic follows the same Scope and Scope Exceptions as outlined in the Overall Subtopic, see Section 810-10-15, with specific transaction qualifications and exceptions noted below.
+**810-30-15-2** > Transactions
+The scope of this Subtopic is limited to those research and development arrangements in which all of the funds for the research and development activities are provided by the sponsor
+of the research and development arrangement.
+**810-30-15-2** The scope of this Subtopic is limited to those research and development arrangements in which all of the funds for the research and development activities are provided by the sponsor
+**810-30-15-3** of the research and development arrangement.
+Transactions in which the funds are provided by third parties, which would generally be within the scope of Subtopic 730-20. That Subtopic establishes standards of financial accounting and reporting for an entity that is a party to a research and development arrangement through which it can obtain the results of research and development funded partially or entirely by others.
+2. Legal entities required to be consolidated under the guidance on variable interest entities (VIEs). That guidance must be applied first (see the Variable Interest Entities Subsection of Section 810-10-15) before considering this Subtopic. Consolidation by reporting entities of VIEs, which include many legal entities used in research and development arrangements, is addressed by the Variable Interest Entities Subsections of Subtopic 810-10.
+
+**810-30-15-3** Transactions in which the funds are provided by third parties, which would generally be within the scope of Subtopic 730-20. That Subtopic establishes standards of financial accounting and reporting for an entity that is a party to a research and development arrangement through which it can obtain the results of research and development funded partially or entirely by others.
+2. Legal entities required to be consolidated under the guidance on variable interest entities (VIEs). That guidance must be applied first (see the Variable Interest Entities Subsection of Section 810-10-15) before considering this Subtopic. Consolidation by reporting entities of VIEs, which include many legal entities used in research and development arrangements, is addressed by the Variable Interest Entities Subsections of Subtopic 810-10.
+
+**810-30-15-4** > Other Considerations
+This Subtopic provides guidance on consolidation issues; for guidance on other issues concerning research and development arrangements, see Subtopic 730-20.
+**810-30-15-4** This Subtopic provides guidance on consolidation issues; for guidance on other issues concerning research and development arrangements, see Subtopic 730-20.
+
+## 20 Glossary
+
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+
+##### Fair Value
+
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+
+##### Market Participants
+
+1. They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
+3. They are able to enter into a transaction for the asset or liability
+4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
+
+They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
+3. They are able to enter into a transaction for the asset or liability
+4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
+
+##### Noncontrolling Interest
+
+The portion of equity (net assets) in a subsidiary not attributable, directly or indirectly, to a parent. A noncontrolling interest is sometimes called a minority interest.
+The portion of equity (net assets) in a subsidiary not attributable, directly or indirectly, to a parent. A noncontrolling interest is sometimes called a minority interest.
+
+##### Orderly Transaction
+
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+
+##### Related Parties
+
+1. Affiliates of the entity
+2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
+3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
+4. Principal owners of the entity and members of their immediate families
+5. Management of the entity and members of their immediate families
+6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
+7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
+
+Affiliates of the entity
+2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
+3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
+4. Principal owners of the entity and members of their immediate families
+5. Management of the entity and members of their immediate families
+6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
+7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
+
+##### Sponsor
+
+An entity that capitalizes a research and development arrangement.
+An entity that capitalizes a research and development arrangement.
+
+##### Subsidiary
+
+An entity, including an unincorporated entity such as a partnership or trust, in which another entity, known as its parent, holds a controlling financial interest. (Also, a variable interest entity that is consolidated by a primary beneficiary.)
+An entity, including an unincorporated entity such as a partnership or trust, in which another entity, known as its parent, holds a controlling financial interest. (Also, a variable interest entity that is consolidated by a primary beneficiary.)
+
+## 25 Recognition
+
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+
+### General
+
+**810-30-25-1** This guidance addresses transactions in which a sponsor
+capitalizes a new entity with cash and rights to certain technology developed by the sponsor, in exchange for Class A and Class B common stock in the new entity. The Class B common shares convey essentially no financial interest to the Sponsor and, other than certain blocking rights, provide the sponsor essentially no voting rights. The sponsor subsequently distributes the Class A common stock to its shareholders subject to a purchase option held by the sponsor. The sponsor then receives funds from the new entity to perform research and development activities. Other potential structures designed to achieve similar objectives also exist. For other types of research and development arrangements, see Subtopic 730-20.
+**810-30-25-1** This guidance addresses transactions in which a sponsor
+**810-30-25-2** capitalizes a new entity with cash and rights to certain technology developed by the sponsor, in exchange for Class A and Class B common stock in the new entity. The Class B common shares convey essentially no financial interest to the Sponsor and, other than certain blocking rights, provide the sponsor essentially no voting rights. The sponsor subsequently distributes the Class A common stock to its shareholders subject to a purchase option held by the sponsor. The sponsor then receives funds from the new entity to perform research and development activities. Other potential structures designed to achieve similar objectives also exist. For other types of research and development arrangements, see Subtopic 730-20.
+While a consolidation approach to the sponsor's accounting is not specified, if the incurred research and development costs were allocated to the new entity's Class B common stock held by the sponsor (because the value of the new entity's Class A common stock is derived from the sponsor's purchase option on those shares, not from the sponsor's initial funding of the new entity), the accounting that would result from consolidation would be essentially the same as that required by this Subtopic.
+**810-30-25-2** While a consolidation approach to the sponsor's accounting is not specified, if the incurred research and development costs were allocated to the new entity's Class B common stock held by the sponsor (because the value of the new entity's Class A common stock is derived from the sponsor's purchase option on those shares, not from the sponsor's initial funding of the new entity), the accounting that would result from consolidation would be essentially the same as that required by this Subtopic.
+**810-30-25-3** Reclassify the cash contributed to the new entity as restricted cash at the time of distribution of the new entity's Class A common stock.
+2. Recognize research and development expense as the research and development activities are performed.
+3. Account for the distribution of the new entity's Class A common stock as a dividend to common stockholders of the sponsor.
+
+**810-30-25-3** Reclassify the cash contributed to the new entity as restricted cash at the time of distribution of the new entity's Class A common stock.
+2. Recognize research and development expense as the research and development activities are performed.
+3. Account for the distribution of the new entity's Class A common stock as a dividend to common stockholders of the sponsor.
+
+## 30 Initial Measurement
+
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+
+### General
+
+**810-30-30-1** The amount of the dividend recognized on the distribution of the new research and development arrangement entity's Class A common stock should be based on the fair value of the new entity's Class A common stock and should be recorded at the time the sponsor
+distributes the new entity's Class A common stock to its stockholders.
+**810-30-30-1** The amount of the dividend recognized on the distribution of the new research and development arrangement entity's Class A common stock should be based on the fair value of the new entity's Class A common stock and should be recorded at the time the sponsor
+
+## 35 Subsequent Measurement
+
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+
+### General
+
+**810-30-35-1** If there is a purchase option, the sponsor
+of a research and development arrangement shall account for the exercise of the option to acquire the new entity's Class A common stock like the acquisition of noncontrolling interest. That is, the excess of the option exercise price over the carrying amount of the new entity's Class A common stock should be allocated to the assets acquired (generally, in-process or completed research and development) and liabilities assumed (if any). However, if the sponsor does not exercise the purchase option, the new entity's Class A common stock should be reclassified to additional paid-in capital upon expiration of the option as an adjustment to the initial dividend. Example 1 (see paragraph 810-30-55-1) provides an illustration of the application of this guidance to a research and development arrangement.
+**810-30-35-1** If there is a purchase option, the sponsor
+
+## 45 Other Presentation Matters
+
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+
+### General
+
+**810-30-45-1** > Presentation of the New Entity's Common Stock by the Sponsor
+The new research and development arrangement entity's Class A common stock shall be presented as noncontrolling interest
+of the sponsor, classified as equity, but separate from the parent's equity.
+**810-30-45-1** The new research and development arrangement entity's Class A common stock shall be presented as noncontrolling interest
+**810-30-45-2** of the sponsor, classified as equity, but separate from the parent's equity. > EPS
+The research and development expense recognized by the sponsor should not be allocated to the new entity's Class A common stock in determining net income or earnings available to common stockholders of the sponsor in the calculation of earnings per share (EPS).
+**810-30-45-2** The research and development expense recognized by the sponsor should not be allocated to the new entity's Class A common stock in determining net income or earnings available to common stockholders of the sponsor in the calculation of earnings per share (EPS).
+
+## 55 Implementation Guidance and Illustrations
+
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+
+### General
+
+##### · > Example 1: Research and Development Arrangements
+
+**810-30-55-1** > Illustrations
+This Example illustrates the guidance in this Subtopic. A sponsor
+(the Sponsor) capitalizes a newly created, wholly owned subsidiary, Newco, with $110 million and rights to certain technology developed by the Sponsor (assumed to have no book value) in exchange for Newco Class A common stock and Newco Class B common stock with a nominal fair value. Concurrent with its formation, the Sponsor and Newco enter into various agreements including a development contract and purchase option (each described in this Example). Shortly thereafter, the Sponsor distributes all of the Newco Class A common stock to the Sponsor's stockholders. The fair value of the Newco Class A common stock at distribution is $80 million.
+This Example illustrates the guidance in this Subtopic. A sponsor
+**810-30-55-2** (the Sponsor) capitalizes a newly created, wholly owned subsidiary, Newco, with $110 million and rights to certain technology developed by the Sponsor (assumed to have no book value) in exchange for Newco Class A common stock and Newco Class B common stock with a nominal fair value. Concurrent with its formation, the Sponsor and Newco enter into various agreements including a development contract and purchase option (each described in this Example). Shortly thereafter, the Sponsor distributes all of the Newco Class A common stock to the Sponsor's stockholders. The fair value of the Newco Class A common stock at distribution is $80 million.
+After the distribution, the Sponsor owns all of the authorized shares of the Newco Class B common stock. The Newco Class B common stock conveys essentially no financial interest to the Sponsor and, other than certain blocking rights, provides the Sponsor essentially no voting rights. Under the development contract, Newco will be required to spend all of the cash contributed to it by the Sponsor (the available funds) in the research and development of technologies mutually agreed upon with the Sponsor. Newco will have no employees other than its chief executive officer and no facilities other than a nominal amount of office space. (For purposes of this Example, investment income on the available funds, the chief executive officer's salary, and office space rent are ignored.) In addition, Newco will contract with the Sponsor to perform all of Newco's research and development activities under the development contract at the Sponsor's cost plus 10 percent. Newco expects that, in paying for such activities, the available funds will be substantially exhausted within the first two years of its existence. For purposes of this Example, it is assumed that the Sponsor incurs $50 million in research and development costs for each year under the development contract. As a result, Newco pays $55 million to the Sponsor for each year of the development contract.
+After the distribution, the Sponsor owns all of the authorized shares of the Newco Class B common stock. The Newco Class B common stock conveys essentially no financial interest to the Sponsor and, other than certain blocking rights, provides the Sponsor essentially no voting rights. Under the development contract, Newco will be required to spend all of the cash contributed to it by the Sponsor (the available funds) in the research and development of technologies mutually agreed upon with the Sponsor. Newco will have no employees other than its chief executive officer and no facilities other than a nominal amount of office space. (For purposes of this Example, investment income on the available funds, the chief executive officer's salary, and office space rent are ignored.) In addition, Newco will contract with the Sponsor to perform all of Newco's research and development activities under the development contract at the Sponsor's cost plus 10 percent. Newco expects that, in paying for such activities, the available funds will be substantially exhausted within the first two years of its existence. For purposes of this Example, it is assumed that the Sponsor incurs $50 million in research and development costs for each year under the development contract. As a result, Newco pays $55 million to the Sponsor for each year of the development contract.
+Under the purchase option, the Sponsor will have the right to purchase all of the Newco Class A common stock at an exercise price that is intended to approximate the fair value of the shares. The purchase option is exercisable at any time until the second anniversary of the distribution of the Newco Class A common stock. For purposes of this Example, 2 scenarios are assumed under the purchase option—1 in which the option is not exercised and 1 in which the option is exercised for $200 million just before the second anniversary of the distribution of the Newco Class A common stock.
+Under the purchase option, the Sponsor will have the right to purchase all of the Newco Class A common stock at an exercise price that is intended to approximate the fair value of the shares. The purchase option is exercisable at any time until the second anniversary of the distribution of the Newco Class A common stock. For purposes of this Example, 2 scenarios are assumed under the purchase option—1 in which the option is not exercised and 1 in which the option is exercised for $200 million just before the second anniversary of the distribution of the Newco Class A common stock.
+Under Newco's certificate of incorporation, Newco is prohibited from taking or permitting any action inconsistent with, or that will in any way alter, the Sponsor's rights under the purchase option without the preapproval of the Sponsor. In addition, until the expiration of the purchase option, Newco may not merge, liquidate, or sell any substantial portion of its assets or amend its certificate of incorporation to alter the purchase option, Newco's authorized capitalization, or the provisions of the certificate of incorporation governing Newco's board of directors without the preapproval of the Sponsor. The journal entries to account for the research and development arrangement are presented in the following table.
+Under Newco's certificate of incorporation, Newco is prohibited from taking or permitting any action inconsistent with, or that will in any way alter, the Sponsor's rights under the purchase option without the preapproval of the Sponsor. In addition, until the expiration of the purchase option, Newco may not merge, liquidate, or sell any substantial portion of its assets or amend its certificate of incorporation to alter the purchase option, Newco's authorized capitalization, or the provisions of the certificate of incorporation governing Newco's board of directors without the preapproval of the Sponsor. The journal entries to account for the research and development arrangement are presented in the following table.
+
+## 60 Relationships
+
+General Note:The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
+
+### General
+
+**810-30-60-1** > Collaborative Arrangements
+For guidance on research and development arrangements conducted as collaborative arrangements, see Topic 808.
+**810-30-60-1** For guidance on research and development arrangements conducted as collaborative arrangements, see Topic 808.

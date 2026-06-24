@@ -1293,3 +1293,331 @@ Paragraph superseded on 04/13/2010 after the end of the transition period stated
 **825-10-65-6** Paragraph superseded on 07/10/2023 after the end of the transition period stated in Accounting Standards Update No. 2020-01, *Investments—Equity Securities (Topic 321), Investments—Equity Method and Joint Ventures (Topic 323), and Derivatives and Hedging (Topic 815): Clarifying the Interactions between Topic 321, Topic 323, and Topic 815*.
 **825-10-65-7** Paragraph superseded on 07/10/2023 after the end of the transition period stated in Accounting Standards Update No. 2020-03, *Codification Improvements to Financial Instruments*.
 **825-10-65-7** Paragraph superseded on 07/10/2023 after the end of the transition period stated in Accounting Standards Update No. 2020-03, *Codification Improvements to Financial Instruments*.
+
+## 00 Status
+
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+
+### General
+
+The following table identifies the changes made to this Subtopic.
+**** **** **** ****
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Financial Instrument | Amended | Accounting Standards Update No. 2024-02 | 03/29/2024 |
+| Registration Payment Arrangement | Added | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| 825-20-05-1 | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| 825-20-15-1 | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| 825-20-15-2 | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| 825-20-15-3 | Superseded | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| 825-20-15-4 | Amended | Accounting Standards Update No. 2020-06 | 08/05/2020 |
+| 825-20-30-1 | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| 825-20-35-1 | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| 825-20-50-1 | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| 825-20-55-1 | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+
+The following table identifies the changes made to this Subtopic.
+**** **** **** ****
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Financial Instrument | Amended | Accounting Standards Update No. 2024-02 | 03/29/2024 |
+| Registration Payment Arrangement | Added | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| 825-20-05-1 | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| 825-20-15-1 | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| 825-20-15-2 | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| 825-20-15-3 | Superseded | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| 825-20-15-4 | Amended | Accounting Standards Update No. 2020-06 | 08/05/2020 |
+| 825-20-30-1 | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| 825-20-35-1 | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| 825-20-50-1 | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| 825-20-55-1 | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+
+## 05 Overview and Background
+
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+
+### General
+
+**825-20-05-1** An entity may issue financial instruments (for example, equity shares, warrants, or debt instruments) that are subject to a registration payment arrangement
+. This Subtopic provides guidance related to such arrangements.
+**825-20-05-1** An entity may issue financial instruments (for example, equity shares, warrants, or debt instruments) that are subject to a registration payment arrangement
+
+## 15 Scope and Scope Exceptions
+
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+
+### General
+
+**825-20-15-1** > Entities
+The guidance in this Subtopic applies to all entities that issue a registration payment arrangement
+.
+**825-20-15-1** The guidance in this Subtopic applies to all entities that issue a registration payment arrangement
+**825-20-15-2** . > Transactions
+A registration payment arrangement
+1. regardless of whether it is issued as a separate agreement or included as a provision of a financial instrument or other agreement. An arrangement that requires the issuer to obtain and/or maintain a listing on a stock exchange, instead of, or in addition to, obtaining and/or maintaining an effective registration statement, is within the scope of this Subtopic if the remaining characteristics of the definition of the term *registration payment arrangement* are met.
+
+**825-20-15-2** A registration payment arrangement
+1. regardless of whether it is issued as a separate agreement or included as a provision of a financial instrument or other agreement. An arrangement that requires the issuer to obtain and/or maintain a listing on a stock exchange, instead of, or in addition to, obtaining and/or maintaining an effective registration statement, is within the scope of this Subtopic if the remaining characteristics of the definition of the term *registration payment arrangement* are met.
+
+**825-20-15-3** Paragraph superseded by Accounting Standards Update No. 2016-19.
+**825-20-15-3** Paragraph superseded by Accounting Standards Update No. 2016-19.
+**825-20-15-4** Arrangements that require registration or listing of convertible debt instruments or convertible preferred stock if the form of consideration that would be transferred to the counterparty is an adjustment to the conversion ratio. See Subtopic 470-20 on debt with conversion and other options or Subtopic 505-10 on equity for related guidance.
+1. An observable market other than the market for the issuer's stock
+2. An observable index.
+
+2. For example, if the consideration to be transferred if the issuer is unable to obtain an effective registration statement is determined by reference to the price of a commodity. See Subtopic 815-15 for related guidance.
+3. Arrangements in which the financial instrument or instruments subject to the arrangement are settled when the consideration is transferred (for example, a warrant that is contingently puttable if an effective registration statement for the resale of the equity shares that are issuable upon exercise of the warrant is not declared effective by the SEC within a specified grace period).
+
+**825-20-15-4** Arrangements that require registration or listing of convertible debt instruments or convertible preferred stock if the form of consideration that would be transferred to the counterparty is an adjustment to the conversion ratio. See Subtopic 470-20 on debt with conversion and other options or Subtopic 505-10 on equity for related guidance.
+1. An observable market other than the market for the issuer's stock
+2. An observable index.
+
+2. For example, if the consideration to be transferred if the issuer is unable to obtain an effective registration statement is determined by reference to the price of a commodity. See Subtopic 815-15 for related guidance.
+3. Arrangements in which the financial instrument or instruments subject to the arrangement are settled when the consideration is transferred (for example, a warrant that is contingently puttable if an effective registration statement for the resale of the equity shares that are issuable upon exercise of the warrant is not declared effective by the SEC within a specified grace period).
+
+**825-20-15-5** The guidance in this Subtopic shall not be applied by analogy to the accounting for contracts that are not registration payment arrangements meeting the criteria in paragraphs 825-20-15-2 through 15-3
+. For example, a building contract that includes a provision requiring the contractor to obtain a certificate of occupancy by a certain date or pay a penalty every month until the certificate of occupancy is obtained is not addressed by this Subtopic.
+**825-20-15-5** The guidance in this Subtopic shall not be applied by analogy to the accounting for contracts that are not registration payment arrangements meeting the criteria in paragraphs 825-20-15-2 through 15-3
+
+## 20 Glossary
+
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+
+##### Fair Value
+
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+
+##### Financial Instrument
+
+1. To deliver cash or another financial instrument to a second entity
+2. To exchange other financial instruments on potentially unfavorable terms with the second entity.
+
+1. To receive cash or another financial instrument from the first entity
+2. To exchange other financial instruments on potentially favorable terms with the first entity.
+
+1. To deliver cash or another financial instrument to a second entity
+2. To exchange other financial instruments on potentially unfavorable terms with the second entity.
+
+1. To receive cash or another financial instrument from the first entity
+2. To exchange other financial instruments on potentially favorable terms with the first entity.
+
+The use of the term financial instrument in this definition is recursive (because the term financial instrument is included in it), though it is not circular. The definition requires a chain of contractual obligations that ends with the delivery of cash or an ownership interest in an entity. Any number of obligations to deliver financial instruments can be links in a chain that qualifies a particular contract as a financial instrument. Contractual rights and contractual obligations encompass both those that are conditioned on the occurrence of a specified event and those that are not. Some contractual rights (contractual obligations) that are financial instruments may not be recognized in financial statements—that is, they may be off-balance-sheet—because they fail to meet some other criterion for recognition. For some financial instruments, the right is held by or the obligation is due from (or the obligation is owed to or by) a group of entities rather than a single entity.
+Imposes on one entity a contractual obligation either:
+1. To deliver cash or another financial instrument to a second entity
+2. To exchange other financial instruments on potentially unfavorable terms with the second entity.
+
+1. To receive cash or another financial instrument from the first entity
+2. To exchange other financial instruments on potentially favorable terms with the first entity.
+
+The use of the term financial instrument in this definition is recursive (because the term financial instrument is included in it), though it is not circular. The definition requires a chain of contractual obligations that ends with the delivery of cash or an ownership interest in an entity. Any number of obligations to deliver financial instruments can be links in a chain that qualifies a particular contract as a financial instrument.
+Contractual rights and contractual obligations encompass both those that are conditioned on the occurrence of a specified event and those that are not. All contractual rights (contractual obligations) that are financial instruments meet the definition of asset (liability) set forth in FASB Concepts Statement No. 6, Elements of Financial Statements, although some may not be recognized as assets (liabilities) in financial statements—that is, they may be off-balance-sheet—because they fail to meet some other criterion for recognition.
+For some financial instruments, the right is held by or the obligation is due from (or the obligation is owed to or by) a group of entities rather than a single entity.
+Imposes on one entity a contractual obligation either:
+1. To deliver cash or another financial instrument to a second entity
+2. To exchange other financial instruments on potentially unfavorable terms with the second entity.
+
+1. To receive cash or another financial instrument from the first entity
+2. To exchange other financial instruments on potentially favorable terms with the first entity.
+
+The use of the term financial instrument in this definition is recursive (because the term financial instrument is included in it), though it is not circular. The definition requires a chain of contractual obligations that ends with the delivery of cash or an ownership interest in an entity. Any number of obligations to deliver financial instruments can be links in a chain that qualifies a particular contract as a financial instrument.
+Contractual rights and contractual obligations encompass both those that are conditioned on the occurrence of a specified event and those that are not. Some contractual rights (contractual obligations) that are financial instruments may not be recognized in financial statements—that is, they may be off-balance-sheet—because they fail to meet some other criterion for recognition.
+For some financial instruments, the right is held by or the obligation is due from (or the obligation is owed to or by) a group of entities rather than a single entity.
+
+##### Market Participants
+
+1. They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
+3. They are able to enter into a transaction for the asset or liability
+4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
+
+They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
+3. They are able to enter into a transaction for the asset or liability
+4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
+
+##### Orderly Transaction
+
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+
+##### Registration Payment Arrangement
+
+1. File a registration statement for the resale of specified financial instruments and/or for the resale of equity shares that are issuable upon exercise or conversion of specified financial instruments and for that registration statement to be declared effective by the U.S. Securities and Exchange Commission (SEC) (or other applicable securities regulator if the registration statement will be filed in a foreign jurisdiction) within a specified grace period
+2. Maintain the effectiveness of the registration statement for a specified period of time (or in perpetuity).
+
+3. It requires the issuer to transfer consideration to the counterparty if the registration statement for the resale of the financial instrument or instruments subject to the arrangement is not declared effective or if effectiveness of the registration statement is not maintained. That consideration may be payable in a lump sum or it may be payable periodically, and the form of the consideration may vary. For example, the consideration may be in the form of cash, equity instruments, or adjustments to the terms of the financial instrument or instruments that are subject to the registration payment arrangement (such as an increased interest rate on a debt instrument).
+
+1. File a registration statement for the resale of specified financial instruments and/or for the resale of equity shares that are issuable upon exercise or conversion of specified financial instruments and for that registration statement to be declared effective by the U.S. Securities and Exchange Commission (SEC) (or other applicable securities regulator if the registration statement will be filed in a foreign jurisdiction) within a specified grace period
+2. Maintain the effectiveness of the registration statement for a specified period of time (or in perpetuity).
+
+3. It requires the issuer to transfer consideration to the counterparty if the registration statement for the resale of the financial instrument or instruments subject to the arrangement is not declared effective or if effectiveness of the registration statement is not maintained. That consideration may be payable in a lump sum or it may be payable periodically, and the form of the consideration may vary. For example, the consideration may be in the form of cash, equity instruments, or adjustments to the terms of the financial instrument or instruments that are subject to the registration payment arrangement (such as an increased interest rate on a debt instrument).
+
+##### Related Parties
+
+1. Affiliates of the entity
+2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
+3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
+4. Principal owners of the entity and members of their immediate families
+5. Management of the entity and members of their immediate families
+6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
+7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
+
+Affiliates of the entity
+2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
+3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
+4. Principal owners of the entity and members of their immediate families
+5. Management of the entity and members of their immediate families
+6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
+7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
+
+## 25 Recognition
+
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+
+### General
+
+**825-20-25-1** An entity shall recognize a registration payment arrangement as a separate unit of account from the financial instrument
+(s) subject to that arrangement.
+**825-20-25-1** An entity shall recognize a registration payment arrangement as a separate unit of account from the financial instrument
+**825-20-25-2** (s) subject to that arrangement.
+The financial instrument(s) subject to the registration payment arrangement shall be recognized in accordance with other applicable generally accepted accounting principles (GAAP) (for example, Subtopics 815-10; 815-40; and 835-30) without regard to the contingent obligation to transfer consideration pursuant to the registration payment arrangement.
+**825-20-25-2** The financial instrument(s) subject to the registration payment arrangement shall be recognized in accordance with other applicable generally accepted accounting principles (GAAP) (for example, Subtopics 815-10; 815-40; and 835-30) without regard to the contingent obligation to transfer consideration pursuant to the registration payment arrangement.
+**825-20-25-3** The contingent obligation to make future payments or otherwise transfer consideration under a registration payment arrangement shall be recognized separately in accordance with Subtopic 450-20.
+**825-20-25-3** The contingent obligation to make future payments or otherwise transfer consideration under a registration payment arrangement shall be recognized separately in accordance with Subtopic 450-20.
+
+## 30 Initial Measurement
+
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+
+### General
+
+**825-20-30-1** An entity shall measure a registration payment arrangement
+as a separate unit of account from the financial instrument(s) subject to that arrangement.
+**825-20-30-1** An entity shall measure a registration payment arrangement
+**825-20-30-2** as a separate unit of account from the financial instrument(s) subject to that arrangement.
+The financial instrument(s) subject to the registration payment arrangement shall be measured in accordance with other applicable generally accepted accounting principles (GAAP) (for example, Subtopics 815-10; 815-40; and 835-30) without regard to the contingent obligation to transfer consideration pursuant to the registration payment arrangement.
+**825-20-30-2** The financial instrument(s) subject to the registration payment arrangement shall be measured in accordance with other applicable generally accepted accounting principles (GAAP) (for example, Subtopics 815-10; 815-40; and 835-30) without regard to the contingent obligation to transfer consideration pursuant to the registration payment arrangement.
+**825-20-30-3** The contingent obligation to make future payments or otherwise transfer consideration under a registration payment arrangement shall be measured separately in accordance with Subtopic 450-20.
+**825-20-30-3** The contingent obligation to make future payments or otherwise transfer consideration under a registration payment arrangement shall be measured separately in accordance with Subtopic 450-20.
+**825-20-30-4** If the transfer of consideration under a registration payment arrangement is probable and can be reasonably estimated at inception, the contingent liability under the registration payment arrangement shall be included in the allocation of proceeds from the related financing transaction using the measurement guidance in Subtopic 450-20. The remaining proceeds shall be allocated to the financial instrument(s) issued in conjunction with the registration payment arrangement based on the provisions of other applicable GAAP. A financial instrument issued concurrently with a registration payment arrangement might be initially measured at a discount to its principal amount under this allocation methodology. For example, if the financial instruments issued concurrently with the registration payment arrangement are a debt instrument and an equity-classified warrant, the remaining proceeds after recognizing and measuring a liability for the registration payment arrangement under that Subtopic would be allocated on a relative fair value
+basis between the debt and the warrant pursuant to paragraph 470-20-25-3.
+**825-20-30-4** If the transfer of consideration under a registration payment arrangement is probable and can be reasonably estimated at inception, the contingent liability under the registration payment arrangement shall be included in the allocation of proceeds from the related financing transaction using the measurement guidance in Subtopic 450-20. The remaining proceeds shall be allocated to the financial instrument(s) issued in conjunction with the registration payment arrangement based on the provisions of other applicable GAAP. A financial instrument issued concurrently with a registration payment arrangement might be initially measured at a discount to its principal amount under this allocation methodology. For example, if the financial instruments issued concurrently with the registration payment arrangement are a debt instrument and an equity-classified warrant, the remaining proceeds after recognizing and measuring a liability for the registration payment arrangement under that Subtopic would be allocated on a relative fair value
+**825-20-30-5** basis between the debt and the warrant pursuant to paragraph 470-20-25-3.
+An entity would be required to deliver shares under a registration payment arrangement.
+2. The transfer of that consideration is probable.
+3. The number of shares to be delivered can be reasonably estimated.
+
+**825-20-30-5** An entity would be required to deliver shares under a registration payment arrangement.
+2. The transfer of that consideration is probable.
+3. The number of shares to be delivered can be reasonably estimated.
+
+## 35 Subsequent Measurement
+
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+
+### General
+
+**825-20-35-1** If the transfer of consideration under a registration payment arrangement
+becomes probable and can be reasonably estimated after the inception of the arrangement or if the measurement of a previously recognized contingent liability increases or decreases in a subsequent period, the initial recognition of the contingent liability or the change in the measurement of the previously recognized contingent liability (in accordance with Subtopic 450-20) shall be recognized in earnings.
+**825-20-35-1** If the transfer of consideration under a registration payment arrangement
+
+## 50 Disclosure
+
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+
+### General
+
+**825-20-50-1** The issuer of a registration payment arrangement
+1. The approximate term of the arrangement
+2. The financial instrument(s) subject to the arrangement
+3. The events or circumstances that would require the issuer to transfer consideration under the arrangement.
+
+4. Any settlement alternatives contained in the terms of the registration payment arrangement, including the party that controls the settlement alternatives
+5. The maximum potential amount of consideration, undiscounted, that the issuer could be required to transfer under the registration payment arrangement (including the maximum number of shares that may be required to be issued)
+6. If the terms of the arrangement provide for no limitation to the maximum potential consideration (including shares) to be transferred, that fact shall be disclosed
+7. The current carrying amount of the liability representing the issuer's obligations under the registration payment arrangement
+8. The income statement classification of any gains or losses resulting from changes in the carrying amount of the liability representing the issuer's obligations under the registration payment arrangement.
+
+**825-20-50-1** The issuer of a registration payment arrangement
+1. The approximate term of the arrangement
+2. The financial instrument(s) subject to the arrangement
+3. The events or circumstances that would require the issuer to transfer consideration under the arrangement.
+
+4. Any settlement alternatives contained in the terms of the registration payment arrangement, including the party that controls the settlement alternatives
+5. The maximum potential amount of consideration, undiscounted, that the issuer could be required to transfer under the registration payment arrangement (including the maximum number of shares that may be required to be issued)
+6. If the terms of the arrangement provide for no limitation to the maximum potential consideration (including shares) to be transferred, that fact shall be disclosed
+7. The current carrying amount of the liability representing the issuer's obligations under the registration payment arrangement
+8. The income statement classification of any gains or losses resulting from changes in the carrying amount of the liability representing the issuer's obligations under the registration payment arrangement.
+
+**825-20-50-2** These disclosures are incremental to the disclosures that may be required under other applicable generally accepted accounting principles (GAAP) and are required even if the likelihood of the issuer having to make any payments under the arrangement is remote.
+**825-20-50-2** These disclosures are incremental to the disclosures that may be required under other applicable generally accepted accounting principles (GAAP) and are required even if the likelihood of the issuer having to make any payments under the arrangement is remote.
+
+## 55 Implementation Guidance and Illustrations
+
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+
+### General
+
+##### · > Example 1: Equity Shares and Warrants Issued Subject to a Registration Payment Arrangement
+
+**825-20-55-1** > Illustrations
+The following Cases illustrate the application of this Subtopic to a registration payment arrangement
+1. Transfer of consideration is not probable at inception (Case A).
+2. Transfer of consideration is probable at inception (Case B).
+
+**825-20-55-1** The following Cases illustrate the application of this Subtopic to a registration payment arrangement
+1. Transfer of consideration is not probable at inception (Case A).
+2. Transfer of consideration is probable at inception (Case B).
+
+**825-20-55-2** Entity A issues 10 million shares of common stock and 2 million freestanding warrants to purchase additional shares of common stock for total proceeds of $100 million in a private placement transaction.
+1. File a registration statement with the Securities and Exchange Commission (SEC) for the resale of 12 million shares of common stock. That registration statement must be declared effective within 180 days of the offering's closing date
+2. Once the registration statement is effective, maintain its effectiveness for three years.
+
+3. If the registration statement is not declared effective within 180 days, or if it ceases to be effective during the 3-year period in which Entity A is required to maintain its effectiveness, the investors are entitled to liquidated damages in the form of monthly cash payments computed as 1.5 percent per month of the $100 million total offering proceeds.
+
+**825-20-55-2** Entity A issues 10 million shares of common stock and 2 million freestanding warrants to purchase additional shares of common stock for total proceeds of $100 million in a private placement transaction.
+1. File a registration statement with the Securities and Exchange Commission (SEC) for the resale of 12 million shares of common stock. That registration statement must be declared effective within 180 days of the offering's closing date
+2. Once the registration statement is effective, maintain its effectiveness for three years.
+
+3. If the registration statement is not declared effective within 180 days, or if it ceases to be effective during the 3-year period in which Entity A is required to maintain its effectiveness, the investors are entitled to liquidated damages in the form of monthly cash payments computed as 1.5 percent per month of the $100 million total offering proceeds.
+
+**825-20-55-3** · · > Case A: Transfer of Consideration Is Not Probable at Inception
+At closing, Entity A concludes that it is not probable that it will be required to remit any payments to the investors for failing to obtain an effective registration statement or failing to maintain its effectiveness.
+**825-20-55-3** At closing, Entity A concludes that it is not probable that it will be required to remit any payments to the investors for failing to obtain an effective registration statement or failing to maintain its effectiveness.
+**825-20-55-4** Entity A files a registration statement for the resale of the shares that is declared effective within the 180-day grace period. One year after the effective date of the registration statement, circumstances have changed such that Entity A concludes that it is probable that the effectiveness of the registration statement will not be maintained for some portion of the remaining two-year period. Although Entity A is unable to estimate the exact amount of time that the registration statement will cease to be effective, its reasonable estimate at the reporting date is a period of time ranging between 9 and 18 months. Accordingly, the range of loss is between $13.5 million ($100 million × 1.5 percent × 9 months) and $27 million ($100 million × 1.5 percent × 18 months). At the reporting date, no amount within that range appears to be a better estimate than any other amount.
+**825-20-55-4** Entity A files a registration statement for the resale of the shares that is declared effective within the 180-day grace period. One year after the effective date of the registration statement, circumstances have changed such that Entity A concludes that it is probable that the effectiveness of the registration statement will not be maintained for some portion of the remaining two-year period. Although Entity A is unable to estimate the exact amount of time that the registration statement will cease to be effective, its reasonable estimate at the reporting date is a period of time ranging between 9 and 18 months. Accordingly, the range of loss is between $13.5 million ($100 million × 1.5 percent × 9 months) and $27 million ($100 million × 1.5 percent × 18 months). At the reporting date, no amount within that range appears to be a better estimate than any other amount.
+**825-20-55-5** The common stock and warrants subject to the registration payment arrangement must be recognized and measured in accordance with other applicable generally accepted accounting principles (GAAP) without regard to the contingent obligation to make payments pursuant to the registration payment arrangement. Therefore, that contingent obligation does not affect Entity A's analysis of whether the warrants are classified as liabilities or equity instruments under Subtopic 815-40, regardless of whether the transfer of consideration under the registration payment arrangement is probable. In the period in which it became probable that Entity A will be required to remit payments to the investors for failing to maintain an effective registration statement and a range of payments can be reasonably estimated, a contingent liability should be accrued by a charge to earnings. Because no amount within the range of payments is a better estimate than any other amount, the $13.5 million minimum amount in the range should be accrued.
+**825-20-55-5** The common stock and warrants subject to the registration payment arrangement must be recognized and measured in accordance with other applicable generally accepted accounting principles (GAAP) without regard to the contingent obligation to make payments pursuant to the registration payment arrangement. Therefore, that contingent obligation does not affect Entity A's analysis of whether the warrants are classified as liabilities or equity instruments under Subtopic 815-40, regardless of whether the transfer of consideration under the registration payment arrangement is probable. In the period in which it became probable that Entity A will be required to remit payments to the investors for failing to maintain an effective registration statement and a range of payments can be reasonably estimated, a contingent liability should be accrued by a charge to earnings. Because no amount within the range of payments is a better estimate than any other amount, the $13.5 million minimum amount in the range should be accrued.
+**825-20-55-6** · · > Case B: Transfer of Consideration Is Probable at Inception
+In this Case, at closing, Entity A concludes that it is probable that it will be required to remit payments to the investors for failing to obtain an effective registration statement within the 180-day grace period.
+**825-20-55-6** In this Case, at closing, Entity A concludes that it is probable that it will be required to remit payments to the investors for failing to obtain an effective registration statement within the 180-day grace period.
+**825-20-55-7** The registration statement will become effective six months after the grace period expires.
+2. Once effective, registration will be maintained for the three-year required period of effectiveness.
+
+**825-20-55-7** The registration statement will become effective six months after the grace period expires.
+2. Once effective, registration will be maintained for the three-year required period of effectiveness.
+
+**825-20-55-8** The common stock and warrants subject to the registration payment arrangement must be recognized and measured in accordance with other applicable GAAP without regard to the contingent obligation to make payments pursuant to the registration payment arrangement. Therefore, that contingent obligation does not affect Entity A's analysis of whether the warrants are classified as liabilities or equity instruments under Subtopic 815-40, regardless of whether the transfer of consideration under the registration payment arrangement is probable. Because a transfer of consideration under the registration payment arrangement is probable and can be reasonably estimated at inception, the $9 million ($100 million × 1.5 percent × 6 months) contingent liability under the registration payment arrangement must be included in the allocation of proceeds from the offering. The $91 million of remaining proceeds should be allocated between the common stock and warrants based on the guidance in other applicable GAAP.
+**825-20-55-8** The common stock and warrants subject to the registration payment arrangement must be recognized and measured in accordance with other applicable GAAP without regard to the contingent obligation to make payments pursuant to the registration payment arrangement. Therefore, that contingent obligation does not affect Entity A's analysis of whether the warrants are classified as liabilities or equity instruments under Subtopic 815-40, regardless of whether the transfer of consideration under the registration payment arrangement is probable. Because a transfer of consideration under the registration payment arrangement is probable and can be reasonably estimated at inception, the $9 million ($100 million × 1.5 percent × 6 months) contingent liability under the registration payment arrangement must be included in the allocation of proceeds from the offering. The $91 million of remaining proceeds should be allocated between the common stock and warrants based on the guidance in other applicable GAAP.
+
+##### · > Example 2: Debt Issued Subject to a Registration Payment Arrangement
+
+**825-20-55-9** This Example illustrates the application of this Subtopic to debt issued subject to a registration payment arrangement within the scope of this Subtopic.
+**825-20-55-9** This Example illustrates the application of this Subtopic to debt issued subject to a registration payment arrangement within the scope of this Subtopic.
+**825-20-55-10** Entity A issues notes with an aggregate principal amount of $100 million in a private placement transaction. The notes were issued at par, bear interest at 8 percent per annum, and are not convertible into equity shares of the issuer.
+**825-20-55-10** Entity A issues notes with an aggregate principal amount of $100 million in a private placement transaction. The notes were issued at par, bear interest at 8 percent per annum, and are not convertible into equity shares of the issuer.
+**825-20-55-11** File a registration statement with the SEC for the resale of the notes. That registration statement must be declared effective within 180 days of the offering's closing date
+2. Once the registration statement is effective, maintain its effectiveness for two years.
+
+**825-20-55-11** File a registration statement with the SEC for the resale of the notes. That registration statement must be declared effective within 180 days of the offering's closing date
+2. Once the registration statement is effective, maintain its effectiveness for two years.
+
+**825-20-55-12** If the registration statement is not declared effective within 180 days, or if it ceases to be effective during the 2-year period in which Entity A is required to maintain its effectiveness, the investors are entitled to liquidated damages in the form of an increase to the interest coupon of 50 basis points per month. At closing, Entity A concludes that it is not probable that it will be required to remit any payments to the investors for failing to obtain an effective registration statement or failing to maintain its effectiveness.
+**825-20-55-12** If the registration statement is not declared effective within 180 days, or if it ceases to be effective during the 2-year period in which Entity A is required to maintain its effectiveness, the investors are entitled to liquidated damages in the form of an increase to the interest coupon of 50 basis points per month. At closing, Entity A concludes that it is not probable that it will be required to remit any payments to the investors for failing to obtain an effective registration statement or failing to maintain its effectiveness.
+**825-20-55-13** Entity A files a registration statement for the resale of the notes that is declared effective within the 180-day grace period. One year after the effective date of the registration statement, circumstances have changed such that Entity A concludes that it is probable that the effectiveness of the registration statement will not be maintained for some portion of the remaining one-year period. Although Entity A is unable to estimate the exact amount of time that the registration statement will cease to be effective, its reasonable estimate at the reporting date is a period of time ranging between three and six months. Accordingly, the range of loss is between $1.5 million ($100 million × 0.5 percent × 3 months) and $3 million ($100 million × 0.5 percent × 6 months). At the reporting date, no amount within that range appears to be a better estimate than any other amount.
+**825-20-55-13** Entity A files a registration statement for the resale of the notes that is declared effective within the 180-day grace period. One year after the effective date of the registration statement, circumstances have changed such that Entity A concludes that it is probable that the effectiveness of the registration statement will not be maintained for some portion of the remaining one-year period. Although Entity A is unable to estimate the exact amount of time that the registration statement will cease to be effective, its reasonable estimate at the reporting date is a period of time ranging between three and six months. Accordingly, the range of loss is between $1.5 million ($100 million × 0.5 percent × 3 months) and $3 million ($100 million × 0.5 percent × 6 months). At the reporting date, no amount within that range appears to be a better estimate than any other amount.
+**825-20-55-14** In the period in which it became probable that Entity A will be required to remit payments to the investors for failing to maintain an effective registration statement and a range of payments can be reasonably estimated, a contingent liability should be accrued by a charge to earnings. Because no amount within the range of payments is a better estimate than any other amount, the $1.5 million minimum amount in the range should be accrued.
+**825-20-55-14** In the period in which it became probable that Entity A will be required to remit payments to the investors for failing to maintain an effective registration statement and a range of payments can be reasonably estimated, a contingent liability should be accrued by a charge to earnings. Because no amount within the range of payments is a better estimate than any other amount, the $1.5 million minimum amount in the range should be accrued.

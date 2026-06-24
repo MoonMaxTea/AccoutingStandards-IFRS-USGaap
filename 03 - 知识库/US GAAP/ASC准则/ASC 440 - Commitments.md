@@ -375,4 +375,3 @@ Paragraph superseded by Accounting Standards Update No. 2014-09.
 Paragraph superseded by Accounting Standards Update No. 2014-09.
 Paragraph superseded by Accounting Standards Update No. 2014-09.
 Paragraph superseded by Accounting Standards Update No. 2014-09.
-About Help Contact Us Copyright Terms and Conditions FASB.org Liabilities 440 Commitments Print keyboard_arrow_upDisplaykeyboard_arrow_up

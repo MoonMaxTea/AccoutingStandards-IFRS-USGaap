@@ -726,3 +726,536 @@ Question 3: If the broker retains all of the interest income for a specified per
 Interpretive Response: Yes. If it appears from the terms of the arrangement that it was the intent of the parties to provide for full or partial reimbursement for the expenses and commissions paid by the broker, then a commitment to reimbursement should be recognized by the partnership and an equivalent amount of interest income should be recognized on the partnership's financial statements as earned.
 Question 4: Under the arrangements where commissions on commodity transactions are at a lower rate after a specified period and there is no reference to reimbursement of the broker for expenses and commissions, should recognition be given on the partnership's financial statements to a commitment to reimburse the broker for all or part of the expenses and commissions?
 Interpretive Response: If it appears from the terms of the arrangement that the intent of the parties was to provide for full or partial reimbursement of the broker's expenses and commissions, then the estimated commitment should be recognized on the partnership's financial statements. During the specified initial period commissions on commodity transactions should be charged to operations at the lower commission rate with the difference applied to reduce the aforementioned commitment.
+
+## 00 Status
+
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+
+### General
+
+The following table identifies the changes made to this Subtopic.
+**** **** **** ****
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Front-End Load | Added | Accounting Standards Update No. 2014-06 | 03/14/2014 |
+| 946-20-05-1 | Amended | Accounting Standards Update No. 2013-08 | 06/07/2013 |
+| 946-20-05-1A through 05-1E | Added | Accounting Standards Update No. 2013-08 | 06/07/2013 |
+| 946-20-05-1D | Amended | Accounting Standards Update No. 2014-06 | 03/14/2014 |
+| 946-20-25-1 | Superseded | Accounting Standards Update No. 2013-08 | 06/07/2013 |
+| 946-20-25-4 | Amended | Accounting Standards Update No. 2024-02 | 03/29/2024 |
+| 946-20-50-1 | Superseded | Accounting Standards Update No. 2013-08 | 06/07/2013 |
+| 946-20-50-11 | Amended | Accounting Standards Update No. 2023-06 | 10/09/2023 |
+| 946-20-50-15 | Added | Accounting Standards Update No. 2013-08 | 06/07/2013 |
+| 946-20-50-16 | Added | Accounting Standards Update No. 2013-08 | 06/07/2013 |
+
+The following table identifies the changes made to this Subtopic.
+**** **** **** ****
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Front-End Load | Added | Accounting Standards Update No. 2014-06 | 03/14/2014 |
+| 946-20-05-1 | Amended | Accounting Standards Update No. 2013-08 | 06/07/2013 |
+| 946-20-05-1A through 05-1E | Added | Accounting Standards Update No. 2013-08 | 06/07/2013 |
+| 946-20-05-1D | Amended | Accounting Standards Update No. 2014-06 | 03/14/2014 |
+| 946-20-25-1 | Superseded | Accounting Standards Update No. 2013-08 | 06/07/2013 |
+| 946-20-25-4 | Amended | Accounting Standards Update No. 2024-02 | 03/29/2024 |
+| 946-20-50-1 | Superseded | Accounting Standards Update No. 2013-08 | 06/07/2013 |
+| 946-20-50-11 | Amended | Accounting Standards Update No. 2023-06 | 10/09/2023 |
+| 946-20-50-15 | Added | Accounting Standards Update No. 2013-08 | 06/07/2013 |
+| 946-20-50-16 | Added | Accounting Standards Update No. 2013-08 | 06/07/2013 |
+
+## 05 Overview and Background
+
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+
+### General
+
+Subparagraph superseded by Accounting Standards Update No. 2013-08.
+2. Subparagraph superseded by Accounting Standards Update No. 2013-08.
+3. Subparagraph superseded by Accounting Standards Update No. 2013-08.
+4. Subparagraph superseded by Accounting Standards Update No. 2013-08.
+5. Subparagraph superseded by Accounting Standards Update No. 2013-08.
+6. Subparagraph superseded by Accounting Standards Update No. 2013-08.
+
+Subparagraph superseded by Accounting Standards Update No. 2013-08.
+2. Subparagraph superseded by Accounting Standards Update No. 2013-08.
+3. Subparagraph superseded by Accounting Standards Update No. 2013-08.
+4. Subparagraph superseded by Accounting Standards Update No. 2013-08.
+5. Subparagraph superseded by Accounting Standards Update No. 2013-08.
+6. Subparagraph superseded by Accounting Standards Update No. 2013-08.
+
+**946-20-05-1A** > Background Information about Investment Company Activities
+Typically, an investment company sells its ownership interests, invests the proceeds to achieve its investment objectives, and provides returns to its investors from the net income earned on its investments and net gains realized on the disposal of its investments.
+Typically, an investment company sells its ownership interests, invests the proceeds to achieve its investment objectives, and provides returns to its investors from the net income earned on its investments and net gains realized on the disposal of its investments.
+Several kinds of investment companies exist: management investment companies, unit investment trusts, common (collective) trust funds, exchange-traded funds, investment partnerships, certain separate accounts of life insurance companies, and offshore funds. Management investment companies may be open-end funds (commonly known as mutual funds), closed-end funds
+, special purpose funds, venture capital investment companies, small business investment companies, and business development companies. Investment companies are organized as corporations (in the case of mutual funds, under the laws of certain states that authorize the issuance of common shares redeemable on demand of individual shareholders), common law trusts (sometimes called business trusts), limited partnerships, limited liability investment partnerships and companies, and other more specialized entities, such as separate accounts of insurance companies that are not in themselves legal entities.
+Several kinds of investment companies exist: management investment companies, unit investment trusts, common (collective) trust funds, exchange-traded funds, investment partnerships, certain separate accounts of life insurance companies, and offshore funds. Management investment companies may be open-end funds (commonly known as mutual funds), closed-end funds
+**946-20-05-1C** , special purpose funds, venture capital investment companies, small business investment companies, and business development companies. Investment companies are organized as corporations (in the case of mutual funds, under the laws of certain states that authorize the issuance of common shares redeemable on demand of individual shareholders), common law trusts (sometimes called business trusts), limited partnerships, limited liability investment partnerships and companies, and other more specialized entities, such as separate accounts of insurance companies that are not in themselves legal entities.
+Once an investment company has been organized to do business, it usually engages immediately in its planned principal operations, that is, the sale of capital stock and investment of funds. Employee training, development of markets for the sale of capital stock, and similar activities are usually performed by the investment adviser or other agent, and the costs of these activities are not borne directly by the investment company. However, an investment company, particularly one not engaging an agent to manage its portfolio and to perform other essential functions, may engage in such activities and may bear those costs directly during its development stage.
+Once an investment company has been organized to do business, it usually engages immediately in its planned principal operations, that is, the sale of capital stock and investment of funds. Employee training, development of markets for the sale of capital stock, and similar activities are usually performed by the investment adviser or other agent, and the costs of these activities are not borne directly by the investment company. However, an investment company, particularly one not engaging an agent to manage its portfolio and to perform other essential functions, may engage in such activities and may bear those costs directly during its development stage.
+Multiple-class funds issue more than one class of shares. Each class of shares typically has a different kind of sales charge, such as a front-end load
+, contingent-deferred sales load, 12b-1 fee (referring to Rule 12b-1 in Chapter 17 of the Code of Federal Regulations, which implements the Investment Company Act of 1940), or combinations thereof. Multiple-class funds may charge different classes of shares for specific or incremental expenses, such as transfer-agent, registration, and printing expenses related to each class.
+Multiple-class funds issue more than one class of shares. Each class of shares typically has a different kind of sales charge, such as a front-end load
+**946-20-05-1E** , contingent-deferred sales load, 12b-1 fee (referring to Rule 12b-1 in Chapter 17 of the Code of Federal Regulations, which implements the Investment Company Act of 1940), or combinations thereof. Multiple-class funds may charge different classes of shares for specific or incremental expenses, such as transfer-agent, registration, and printing expenses related to each class.
+Venture capital investment companies, including most small business investment companies and private equity investment companies, differ from other types of investment companies. The typical open-end or closed-end investment company is a more passive investor, whereas a venture capital investment company is more actively involved with its investees. In addition to providing funds, whether in the form of loans or equity, a venture capital investment company often provides technical and management assistance to its investees as needed and requested. That assistance is provided for maximizing the overall value of the investment rather than for other benefits. The portfolio of a venture capital investment company may be illiquid by the very nature of the investments, which are usually securities with no public market. Often, gains on those investments are realized over a relatively long holding period. The nature of the investments therefore requires valuation procedures that may differ from those used by the typical investment company primarily addressed by this Subtopic. Venture capital investment companies also may incur liabilities not generally found in other investment companies.
+Venture capital investment companies, including most small business investment companies and private equity investment companies, differ from other types of investment companies. The typical open-end or closed-end investment company is a more passive investor, whereas a venture capital investment company is more actively involved with its investees. In addition to providing funds, whether in the form of loans or equity, a venture capital investment company often provides technical and management assistance to its investees as needed and requested. That assistance is provided for maximizing the overall value of the investment rather than for other benefits. The portfolio of a venture capital investment company may be illiquid by the very nature of the investments, which are usually securities with no public market. Often, gains on those investments are realized over a relatively long holding period. The nature of the investments therefore requires valuation procedures that may differ from those used by the typical investment company primarily addressed by this Subtopic. Venture capital investment companies also may incur liabilities not generally found in other investment companies.
+**946-20-05-2** > Payments by Affiliates
+Payments by affiliates. To reimburse the effect of a loss (realized or unrealized) on a portfolio investment, often caused by a situation outside the fund's, or its affiliates', direct control, such as an issuer default or a decline in fair value
+1. .
+2. Investment restriction violations (investments not meeting investment guidelines). Occasionally, a fund adviser may purchase an investment for a fund that clearly violates the fund's investment restrictions (investment restrictions are described in the prospectus or statement of additional information for registered funds and in partnership agreements or offering memorandums for nonregistered funds). The investment held in violation of the fund's investment restrictions may appreciate or depreciate in value. In the case where the investment has depreciated in value and the fund has consequently incurred a loss, the fund adviser may make a payment to the fund in lieu of settlement of a potential claim resulting from the violation of the fund's investment restrictions. This payment, in effect, makes the fund whole relative to the loss that it has incurred. This type of transaction is in essence a payment to put the fund's shareholders in the position they would have been in had the violation not occurred.
+
+Payments by affiliates. To reimburse the effect of a loss (realized or unrealized) on a portfolio investment, often caused by a situation outside the fund's, or its affiliates', direct control, such as an issuer default or a decline in fair value
+1. .
+2. Investment restriction violations (investments not meeting investment guidelines). Occasionally, a fund adviser may purchase an investment for a fund that clearly violates the fund's investment restrictions (investment restrictions are described in the prospectus or statement of additional information for registered funds and in partnership agreements or offering memorandums for nonregistered funds). The investment held in violation of the fund's investment restrictions may appreciate or depreciate in value. In the case where the investment has depreciated in value and the fund has consequently incurred a loss, the fund adviser may make a payment to the fund in lieu of settlement of a potential claim resulting from the violation of the fund's investment restrictions. This payment, in effect, makes the fund whole relative to the loss that it has incurred. This type of transaction is in essence a payment to put the fund's shareholders in the position they would have been in had the violation not occurred.
+
+A direct cash contribution to the fund to offset the effect of a realized loss on a portfolio investment
+2. Purchase of securities from the fund at prices in excess of the securities' current fair value
+3. Provision of a credit enhancement to maintain the investment's value.
+
+A direct cash contribution to the fund to offset the effect of a realized loss on a portfolio investment
+2. Purchase of securities from the fund at prices in excess of the securities' current fair value
+3. Provision of a credit enhancement to maintain the investment's value.
+
+**946-20-05-4** > Certain Distribution Costs
+Open-end investment companies, also known as funds, are permitted to finance the distribution of their shares under a plan pursuant to Rule 12b-1
+1. A 12b-1 fee, payable by the fund, based on an annual percentage of the fund's average net assets (a compensation plan) or based on an annual percentage of the fund's average net assets limited to actual costs incurred, after deducting contingent-deferred sales loads received by the distributor (a reimbursement plan). Therefore, a compensation plan differs from a reimbursement plan only in that the latter provides for annual or cumulative limits, or both, on fees paid. Fees for both kinds of plans are treated as expenses in a fund's statement of operations.
+2. A front-end load, which is assessed on purchasing shareholders at the time fund shares are sold.
+3. A contingent-deferred sales load imposed directly on redeeming shareholders. The contingent-deferred sales load usually is expressed as a percentage, which declines with the passage of time, of the lesser of redemption proceeds or original cost. The contingent-deferred sales load normally ranges from 4 percent to 6 percent and typically is reduced by 1 percent (for example, from 6 percent to 5 percent) a year until the sales charge reaches 0 percent.
+
+Open-end investment companies, also known as funds, are permitted to finance the distribution of their shares under a plan pursuant to Rule 12b-1
+1. A 12b-1 fee, payable by the fund, based on an annual percentage of the fund's average net assets (a compensation plan) or based on an annual percentage of the fund's average net assets limited to actual costs incurred, after deducting contingent-deferred sales loads received by the distributor (a reimbursement plan). Therefore, a compensation plan differs from a reimbursement plan only in that the latter provides for annual or cumulative limits, or both, on fees paid. Fees for both kinds of plans are treated as expenses in a fund's statement of operations.
+2. A front-end load, which is assessed on purchasing shareholders at the time fund shares are sold.
+3. A contingent-deferred sales load imposed directly on redeeming shareholders. The contingent-deferred sales load usually is expressed as a percentage, which declines with the passage of time, of the lesser of redemption proceeds or original cost. The contingent-deferred sales load normally ranges from 4 percent to 6 percent and typically is reduced by 1 percent (for example, from 6 percent to 5 percent) a year until the sales charge reaches 0 percent.
+
+Rule 12b-1
+plans historically have provided that a fund's board of directors may terminate the plan with no penalty to the fund. (Termination of the plan does not necessitate termination of the fund.) Redeeming shareholders still would be subject to the contingent-deferred sales load, which would be paid to the distributor that sold the shares to those shareholders. However, with a traditional 12b-1 plan, the 12b-1 fees normally would be discontinued on plan termination. Some traditional reimbursement 12b-1 plans provide that, when the plan is terminated, the fund's board of directors has the option, but not the requirement, to pay the distributor for any costs incurred by the distributor in excess of the cumulative contingent-deferred sales load and 12b-1 fees the distributor has received. Such a plan is referred to as a board-contingent plan. Under traditional reimbursement 12b-1 plans, including board-contingent plans, contingent-deferred sales load payments by shareholders continue to be remitted to the distributor until excess costs are fully recovered, after which the contingent-deferred sales load payments usually are remitted to the fund instead of the distributor.
+Rule 12b-1
+**946-20-05-6** plans historically have provided that a fund's board of directors may terminate the plan with no penalty to the fund. (Termination of the plan does not necessitate termination of the fund.) Redeeming shareholders still would be subject to the contingent-deferred sales load, which would be paid to the distributor that sold the shares to those shareholders. However, with a traditional 12b-1 plan, the 12b-1 fees normally would be discontinued on plan termination. Some traditional reimbursement 12b-1 plans provide that, when the plan is terminated, the fund's board of directors has the option, but not the requirement, to pay the distributor for any costs incurred by the distributor in excess of the cumulative contingent-deferred sales load and 12b-1 fees the distributor has received. Such a plan is referred to as a board-contingent plan. Under traditional reimbursement 12b-1 plans, including board-contingent plans, contingent-deferred sales load payments by shareholders continue to be remitted to the distributor until excess costs are fully recovered, after which the contingent-deferred sales load payments usually are remitted to the fund instead of the distributor.
+With an enhanced 12b-1 plan
+, the fund is required to continue paying the 12b-1 fee after termination of the plan to the extent the distributor has excess costs. Contingent-deferred sales load payments by shareholders would continue to be remitted to the distributor to further offset excess costs. Thus, the major distinction between traditional and enhanced 12b-1 plans is the requirement for the fund to continue such payments upon plan termination.
+With an enhanced 12b-1 plan
+**946-20-05-7** , the fund is required to continue paying the 12b-1 fee after termination of the plan to the extent the distributor has excess costs. Contingent-deferred sales load payments by shareholders would continue to be remitted to the distributor to further offset excess costs. Thus, the major distinction between traditional and enhanced 12b-1 plans is the requirement for the fund to continue such payments upon plan termination.
+The following table summarizes the 12b-1 plan attributes.
+The following table summarizes the 12b-1 plan attributes.
+**946-20-05-8** > Expense Limitation Agreements
+Some expense limitation agreements may provide that reimbursements by the fund adviser of expenses incurred by the fund in excess of the maximum permitted by the prospectus or offering document will be carried over to a future period and reimbursed to the fund adviser when, and to the extent that, the total expense ratio falls below the permitted maximum. Such agreements may provide that reimbursement of excess expenses to the fund adviser is not required after a specified date or upon conclusion of a specified period from the time the fund initially incurred, or the adviser initially reimbursed, the expenses, such as three years. Under most excess expense plans, a fund is obligated to repay a servicer for expenses incurred previously only if, during a defined period, the fund retains the service provider and can reduce its expense ratio to a low enough level to permit payment, and maintain that ratio at a sufficiently low level thereafter. Many substantive conditions could cause the fund to have no obligation to the servicer, including failure to attract assets, significant redemptions of shares by investors, market depreciation, and significant increases in other expenses, all of which could drive expenses up to or beyond the maximum under which payment would otherwise be made.
+Some expense limitation agreements may provide that reimbursements by the fund adviser of expenses incurred by the fund in excess of the maximum permitted by the prospectus or offering document will be carried over to a future period and reimbursed to the fund adviser when, and to the extent that, the total expense ratio falls below the permitted maximum. Such agreements may provide that reimbursement of excess expenses to the fund adviser is not required after a specified date or upon conclusion of a specified period from the time the fund initially incurred, or the adviser initially reimbursed, the expenses, such as three years. Under most excess expense plans, a fund is obligated to repay a servicer for expenses incurred previously only if, during a defined period, the fund retains the service provider and can reduce its expense ratio to a low enough level to permit payment, and maintain that ratio at a sufficiently low level thereafter. Many substantive conditions could cause the fund to have no obligation to the servicer, including failure to attract assets, significant redemptions of shares by investors, market depreciation, and significant increases in other expenses, all of which could drive expenses up to or beyond the maximum under which payment would otherwise be made.
+**946-20-05-9** > Brokerage Service Arrangements
+An investment company may have a brokerage service arrangement with a broker-dealer or an affiliate of a broker-dealer under which the broker-dealer (or its affiliate), in connection with the investment company's brokerage transactions directed to the broker-dealer, provides or pays for services to the investment company (other than brokerage and research services as those terms are used in section 28(e) of the Securities Exchange Act of 1934).
+An investment company may have a brokerage service arrangement with a broker-dealer or an affiliate of a broker-dealer under which the broker-dealer (or its affiliate), in connection with the investment company's brokerage transactions directed to the broker-dealer, provides or pays for services to the investment company (other than brokerage and research services as those terms are used in section 28(e) of the Securities Exchange Act of 1934).
+**946-20-05-10** > General Partner Advisory Services
+Investment companies organized as limited partnerships typically receive advisory services from the general partner. For such services, a number of partnerships pay fees chargeable as expenses to the partnership, whereas others allocate net income from the limited partners' capital accounts to the general partner's capital account, and still others employ a combination of the two methods.
+Investment companies organized as limited partnerships typically receive advisory services from the general partner. For such services, a number of partnerships pay fees chargeable as expenses to the partnership, whereas others allocate net income from the limited partners' capital accounts to the general partner's capital account, and still others employ a combination of the two methods.
+**946-20-05-11** > Fee Waivers
+An adviser or a third party may voluntarily or involuntarily waive its fee and reimburse expenses (waivers). An example of an involuntary waiver is when the advisory agreement (or other regulation or agreements that are either outside the adviser's control or require shareholder approval) provides that the adviser should reimburse the investment company for expenses in excess of a specified percentage of average net assets.
+An adviser or a third party may voluntarily or involuntarily waive its fee and reimburse expenses (waivers). An example of an involuntary waiver is when the advisory agreement (or other regulation or agreements that are either outside the adviser's control or require shareholder approval) provides that the adviser should reimburse the investment company for expenses in excess of a specified percentage of average net assets.
+**946-20-05-12** > Portfolio Insurance
+Many municipal bond funds, primarily those organized as unit investment trusts with fixed portfolios, arrange for insurance for the payment of principal and interest when due. The insurance applies to portfolio securities only while they are owned by the fund, and its coverage is not transferable to buyers of the securities. That arrangement differs from those in which the issuer of the securities acquires the insurance, making the insurance feature an element of the securities and transferable on changes in ownership.
+Many municipal bond funds, primarily those organized as unit investment trusts with fixed portfolios, arrange for insurance for the payment of principal and interest when due. The insurance applies to portfolio securities only while they are owned by the fund, and its coverage is not transferable to buyers of the securities. That arrangement differs from those in which the issuer of the securities acquires the insurance, making the insurance feature an element of the securities and transferable on changes in ownership.
+
+## 15 Scope and Scope Exceptions
+
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+
+General Note for Financial Instruments:Some of the items subject to the guidance in this Subtopic are financial instruments
+
+### General
+
+**946-20-15-1** . For guidance on matters related broadly to all financial instruments, (including the fair value option, accounting for registration payment arrangements, and broad financial instrument disclosure requirements), see Topic 825. See Section 825-10-15 for guidance on the scope of the Financial Instruments Topic.> Overall Guidance
+This Subtopic follows the same Scope and Scope Exceptions as outlined in the Overall Subtopic, see Section 946-10-15.
+**946-20-15-1** This Subtopic follows the same Scope and Scope Exceptions as outlined in the Overall Subtopic, see Section 946-10-15.
+
+## 20 Glossary
+
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+
+##### 12b-1
+
+Rule 12b-1 in Chapter 17 of the Code of Federal Regulations is one of the regulations implementing the Investment Company Act of 1940.
+Rule 12b-1 in Chapter 17 of the Code of Federal Regulations is one of the regulations implementing the Investment Company Act of 1940.
+
+##### Board-Contingent Plan
+
+A reimbursement 12b-1 plan that provides that, on the plan's termination, a fund's board of directors has the option, but not the requirement, to pay the distributor for any excess costs incurred by the distributor.
+A reimbursement 12b-1 plan that provides that, on the plan's termination, a fund's board of directors has the option, but not the requirement, to pay the distributor for any excess costs incurred by the distributor.
+
+##### Closed-End Funds
+
+Closed-end funds are investment companies that issue a fixed number of shares (that generally trade on an open market) to raise capital, similar to the way in which an entity sells stock in an initial public offering.
+Closed-end funds are investment companies that issue a fixed number of shares (that generally trade on an open market) to raise capital, similar to the way in which an entity sells stock in an initial public offering.
+
+##### Compensation Plan
+
+A plan that provides for a 12b-1 fee, payable by the fund, based on a percentage of the fund's average net assets. The 12b-1 fee may be more or less than the costs incurred by the distributor.
+A plan that provides for a 12b-1 fee, payable by the fund, based on a percentage of the fund's average net assets. The 12b-1 fee may be more or less than the costs incurred by the distributor.
+
+##### Contingent-Deferred Sales Load
+
+A sales charge imposed directly on redeeming shareholders based on a percentage of the lesser of the redemption proceeds or original cost. The percentage may decrease or be eliminated based on the duration of share ownership (frequently decreases by 1 percent a year). Also referred to as back-end load.
+A sales charge imposed directly on redeeming shareholders based on a percentage of the lesser of the redemption proceeds or original cost. The percentage may decrease or be eliminated based on the duration of share ownership (frequently decreases by 1 percent a year). Also referred to as back-end load.
+
+##### Current Shareholders
+
+Shareholders of a fund, or a class of shares of a fund, at an evaluation or measurement date. Amounts attributable to current shareholders are based on shares outstanding at that date and do not include estimates of future reinvestments or other share purchases.
+Shareholders of a fund, or a class of shares of a fund, at an evaluation or measurement date. Amounts attributable to current shareholders are based on shares outstanding at that date and do not include estimates of future reinvestments or other share purchases.
+
+##### Distribution Costs
+
+Costs, as defined in a distribution agreement between a distributor and a fund, incurred by a distributor in distributing a fund's shares. Such costs may include commission payments to sales representatives, promotional materials, overhead allocations, and interest.
+Costs, as defined in a distribution agreement between a distributor and a fund, incurred by a distributor in distributing a fund's shares. Such costs may include commission payments to sales representatives, promotional materials, overhead allocations, and interest.
+
+##### Distributor
+
+Usually the principal underwriter that sells the fund's capital shares by acting as an agent (intermediary between the fund and an independent dealer or the public) or as a principal, buying capital shares from the fund at net asset value and selling shares through dealers or to the public (see definition of underwriter in section 2(a)(40) of the Investment Company Act of 1940).
+Usually the principal underwriter that sells the fund's capital shares by acting as an agent (intermediary between the fund and an independent dealer or the public) or as a principal, buying capital shares from the fund at net asset value and selling shares through dealers or to the public (see definition of underwriter in section 2(a)(40) of the Investment Company Act of 1940).
+
+##### Enhanced 12b-1 Plan
+
+A reimbursement 12b-1 plan that provides that, on termination of the plan, the fund is required to continue paying the 12b-1 fee to the extent the distributor has excess costs.
+A reimbursement 12b-1 plan that provides that, on termination of the plan, the fund is required to continue paying the 12b-1 fee to the extent the distributor has excess costs.
+
+##### Excess Costs
+
+The cumulative distribution costs incurred by the distributor less the sum of cumulative 12b-1 fees paid, cumulative contingent-deferred sales load payments, and future cumulative contingent-deferred sales load payments by current shareholders, if reasonably estimable.
+The cumulative distribution costs incurred by the distributor less the sum of cumulative 12b-1 fees paid, cumulative contingent-deferred sales load payments, and future cumulative contingent-deferred sales load payments by current shareholders, if reasonably estimable.
+
+##### Fair Value
+
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+
+##### Front-End Load
+
+A sales commission or charge payable at the time of purchase of mutual fund shares.
+A sales commission or charge payable at the time of purchase of mutual fund shares.
+
+##### Market Participants
+
+1. They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
+3. They are able to enter into a transaction for the asset or liability
+4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
+
+They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
+3. They are able to enter into a transaction for the asset or liability
+4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
+
+##### Net Asset Value per Share
+
+Net asset value per share is the amount of net assets attributable to each share of capital stock (other than senior equity securities, that is, preferred stock) outstanding at the close of the period. It excludes the effects of assuming conversion of outstanding convertible securities, whether or not their conversion would have a diluting effect.
+Net asset value per share is the amount of net assets attributable to each share of capital stock (other than senior equity securities, that is, preferred stock) outstanding at the close of the period. It excludes the effects of assuming conversion of outstanding convertible securities, whether or not their conversion would have a diluting effect.
+
+##### Offering Costs
+
+1. Legal fees pertaining to the investment company's shares offered for sale
+2. Securities and Exchange Commission (SEC)and state registration fees
+3. Underwriting and other similar costs
+4. Costs of printing prospectuses for sales purposes
+5. Initial fees paid to be listed on an exchange
+6. Tax opinion costs related to offering of shares
+7. Initial agency fees of securing the rating for bonds or preferred stock issued by closed-end funds.
+
+Legal fees pertaining to the investment company's shares offered for sale
+2. Securities and Exchange Commission (SEC)and state registration fees
+3. Underwriting and other similar costs
+4. Costs of printing prospectuses for sales purposes
+5. Initial fees paid to be listed on an exchange
+6. Tax opinion costs related to offering of shares
+7. Initial agency fees of securing the rating for bonds or preferred stock issued by closed-end funds.
+
+##### Orderly Transaction
+
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+
+##### Persistency
+
+The length of time a shareholder owns shares of a particular fund or class of shares of a fund before redemption.
+The length of time a shareholder owns shares of a particular fund or class of shares of a fund before redemption.
+
+##### Reimbursement Plan
+
+A plan that provides for a 12b-1 fee, payable by the fund, that may not exceed the lesser of an annual percentage of the fund's average net assets or actual costs incurred by the distributor net of contingent-deferred sales load received by the distributor.
+A plan that provides for a 12b-1 fee, payable by the fund, that may not exceed the lesser of an annual percentage of the fund's average net assets or actual costs incurred by the distributor net of contingent-deferred sales load received by the distributor.
+
+##### Related Parties
+
+1. Affiliates of the entity
+2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
+3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
+4. Principal owners of the entity and members of their immediate families
+5. Management of the entity and members of their immediate families
+6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
+7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
+
+Affiliates of the entity
+2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
+3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
+4. Principal owners of the entity and members of their immediate families
+5. Management of the entity and members of their immediate families
+6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
+7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
+
+##### Return of Capital
+
+Distributions by investment companies in excess of tax-basis earnings and profits.
+Distributions by investment companies in excess of tax-basis earnings and profits.
+
+##### Traditional 12b-1 Plan
+
+A compensation or reimbursement plan pursuant to Rule 12b-1 that permits the use of a fund's assets to pay distribution-related expenses under certain conditions. The 12b-1 fees under traditional 12b-1 plans are normally discontinued upon plan termination, but may continue to be paid after plan termination under a board-contingent plan.
+A compensation or reimbursement plan pursuant to Rule 12b-1 that permits the use of a fund's assets to pay distribution-related expenses under certain conditions. The 12b-1 fees under traditional 12b-1 plans are normally discontinued upon plan termination, but may continue to be paid after plan termination under a board-contingent plan.
+
+## 25 Recognition
+
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+
+General Note for Fair Value Option:Some of the items subject to the guidance in this Subtopic may qualify for application of the Fair Value Option Subsections of Subtopic 825-10. Those Subsections (see paragraph 825-10-05-5) address circumstances in which entities may choose, at specified election dates, to measure eligible items at fair value (the fair value option). See Section 825-10-15 for guidance on the scope of the Fair Value Option Subsections of the Financial Instruments Topic.
+
+### General
+
+**946-20-25-1** Paragraph superseded by Accounting Standards Update No. 2013-08.
+**946-20-25-1** Paragraph superseded by Accounting Standards Update No. 2013-08.
+**946-20-25-2** > Payments by Affiliates
+A credit enhancement provided by an affiliate to maintain an investment's value shall be recognized when the enhancement becomes available to the fund.
+**946-20-25-2** A credit enhancement provided by an affiliate to maintain an investment's value shall be recognized when the enhancement becomes available to the fund.
+**946-20-25-3** > Certain Distribution Costs
+The guidance in this paragraph applies to annual and interim financial statements of investment companies that adopt plans that comply with Rule 12b-1
+. A liability, with a corresponding charge to expense, shall be recognized by a fund with an enhanced 12b-1 plan for excess costs. A liability for excess costs, computed in the same way as for an enhanced 12b-1 plan, shall be recorded by a fund with a board-contingent plan when the fund's board commits to pay such costs. Example 1 (see paragraph 946-20-55-1) illustrates this guidance.
+**946-20-25-3** The guidance in this paragraph applies to annual and interim financial statements of investment companies that adopt plans that comply with Rule 12b-1
+**946-20-25-4** . A liability, with a corresponding charge to expense, shall be recognized by a fund with an enhanced 12b-1 plan for excess costs. A liability for excess costs, computed in the same way as for an enhanced 12b-1 plan, shall be recorded by a fund with a board-contingent plan when the fund's board commits to pay such costs. Example 1 (see paragraph 946-20-55-1) illustrates this guidance. > Expense Limitation Agreements
+A liability for excess expenses shall be recognized if, and to the extent that, the expense limitation agreement's established terms for repayment of the excess expenses to the adviser by the fund and the attendant circumstances meet the criteria in paragraphs 36(a), 36(b), and 36(c) of FASB Concepts Statement No. 6, Elements of Financial Statements, and the criteria in paragraph 450-20-25-2. In most instances, a liability will not be recorded because it is not likely that excess expenses under such plans will meet those criteria before amounts are actually due to the adviser under the reimbursement agreement. If an assessment of the specific circumstances (such as an agreement to reimburse for either an unlimited period or a period substantially greater than that necessary for the fund to demonstrate its economic viability or an obligation to reimburse the servicer remains even after the cancellation of the fund's contract with the servicer) indicates that those criteria are met, a liability shall be recorded.
+1. The excess expense or expenses embody a present duty or responsibility to one or more other entities that entails settlement by probable future transfer or use of assets at a specified or determinable date, on occurrence of a specified event, or on demand.
+2. The duty or responsibility obligates a particular entity, leaving it little or no discretion to avoid the future sacrifice.
+3. The transaction or other event obligating the entity has already happened.
+4. The guidance in paragraph 450-20-25-2.
+
+In most instances, a liability will not be recorded because it is not likely that excess expenses under such plans will meet those criteria before amounts are actually due to the adviser under the reimbursement agreement. If an assessment of the specific circumstances (such as an agreement to reimburse for either an unlimited period or a period substantially greater than that necessary for the fund to demonstrate its economic viability or an obligation to reimburse the servicer remains even after the cancellation of the fund's contract with the servicer) indicates that those criteria are met, a liability shall be recorded.
+**946-20-25-4** A liability for excess expenses shall be recognized if, and to the extent that, the expense limitation agreement's established terms for repayment of the excess expenses to the adviser by the fund and the attendant circumstances meet the criteria in paragraphs 36(a), 36(b), and 36(c) of FASB Concepts Statement No. 6, Elements of Financial Statements, and the criteria in paragraph 450-20-25-2. In most instances, a liability will not be recorded because it is not likely that excess expenses under such plans will meet those criteria before amounts are actually due to the adviser under the reimbursement agreement. If an assessment of the specific circumstances (such as an agreement to reimburse for either an unlimited period or a period substantially greater than that necessary for the fund to demonstrate its economic viability or an obligation to reimburse the servicer remains even after the cancellation of the fund's contract with the servicer) indicates that those criteria are met, a liability shall be recorded.
+1. The excess expense or expenses embody a present duty or responsibility to one or more other entities that entails settlement by probable future transfer or use of assets at a specified or determinable date, on occurrence of a specified event, or on demand.
+2. The duty or responsibility obligates a particular entity, leaving it little or no discretion to avoid the future sacrifice.
+3. The transaction or other event obligating the entity has already happened.
+4. The guidance in paragraph 450-20-25-2.
+
+**946-20-25-5** In most instances, a liability will not be recorded because it is not likely that excess expenses under such plans will meet those criteria before amounts are actually due to the adviser under the reimbursement agreement. If an assessment of the specific circumstances (such as an agreement to reimburse for either an unlimited period or a period substantially greater than that necessary for the fund to demonstrate its economic viability or an obligation to reimburse the servicer remains even after the cancellation of the fund's contract with the servicer) indicates that those criteria are met, a liability shall be recorded. > Offering Costs
+Offering costs
+of closed-end funds and investment partnerships shall be charged to paid-in capital upon sale of the shares or units.
+**946-20-25-5** Offering costs
+**946-20-25-6** of closed-end funds and investment partnerships shall be charged to paid-in capital upon sale of the shares or units.
+Offering costs of open-end investment companies and of closed-end funds with a continuous offering period shall be recognized as a deferred charge.
+**946-20-25-6** Offering costs of open-end investment companies and of closed-end funds with a continuous offering period shall be recognized as a deferred charge.
+**946-20-25-7** > Capital Share Transactions
+Accounting for shareholder transactions of open-end funds differs from the accounting followed by commercial entities in several key aspects. Sales of fund shares are recorded daily by crediting capital stock for the par value of the stock to be issued and additional paid-in capital for the amount paid over the par value; redemptions are recorded daily by debiting those accounts. The offsetting debit (credit), however, is made to an asset (liability) account, typically captioned as receivable for fund shares sold (payable for fund shares redeemed). These entries are made on or as of the date the order to purchase or sell fund shares is received (trade date), not on the day the payment is due (settlement date) as is typical practice for the recording of issuance of equity shares by commercial entities.
+**946-20-25-7** Accounting for shareholder transactions of open-end funds differs from the accounting followed by commercial entities in several key aspects. Sales of fund shares are recorded daily by crediting capital stock for the par value of the stock to be issued and additional paid-in capital for the amount paid over the par value; redemptions are recorded daily by debiting those accounts. The offsetting debit (credit), however, is made to an asset (liability) account, typically captioned as receivable for fund shares sold (payable for fund shares redeemed). These entries are made on or as of the date the order to purchase or sell fund shares is received (trade date), not on the day the payment is due (settlement date) as is typical practice for the recording of issuance of equity shares by commercial entities.
+**946-20-25-8** Investment partnerships shall record capital subscription and redemption commitments as of the date required by the partnership agreement. Cash received before this date shall be recorded as an advance capital contribution liability.
+**946-20-25-8** Investment partnerships shall record capital subscription and redemption commitments as of the date required by the partnership agreement. Cash received before this date shall be recorded as an advance capital contribution liability.
+**946-20-25-9** > Dividends
+Both closed-end and open-end investment companies record distribution liabilities on the ex-dividend date rather than the declaration date. For closed-end investment companies, a purchaser typically is not entitled to a dividend for shares purchased on the ex-dividend date. Open-end investment companies record the liability on the ex-dividend date to properly state the net asset value at which sales and redemptions are made. When large (in excess of 15 percent of a closed-end fund's net asset value) dividends or distributions are declared, it is the policy of some exchanges to postpone the ex-dividend date until the dividend has been paid. In such circumstances, the liability for the dividend distribution would be recorded on the books of the fund on the payment date.
+**946-20-25-9** Both closed-end and open-end investment companies record distribution liabilities on the ex-dividend date rather than the declaration date. For closed-end investment companies, a purchaser typically is not entitled to a dividend for shares purchased on the ex-dividend date. Open-end investment companies record the liability on the ex-dividend date to properly state the net asset value at which sales and redemptions are made. When large (in excess of 15 percent of a closed-end fund's net asset value) dividends or distributions are declared, it is the policy of some exchanges to postpone the ex-dividend date until the dividend has been paid. In such circumstances, the liability for the dividend distribution would be recorded on the books of the fund on the payment date.
+**946-20-25-10** > Performance Fees
+Performance fees by an investment adviser under an investment advisory agreement shall be accrued at interim dates based on actual performance through the accrual date.
+**946-20-25-10** Performance fees by an investment adviser under an investment advisory agreement shall be accrued at interim dates based on actual performance through the accrual date.
+**946-20-25-11** > Portfolio Insurance
+If insurance applies only to the fund's portfolio, it does not have a measurable fair value
+in the absence of default of the underlying securities or of indications of the probability of default and, accordingly, the cost of the policy should be treated as an operating expense.
+**946-20-25-11** If insurance applies only to the fund's portfolio, it does not have a measurable fair value
+
+## 30 Initial Measurement
+
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+
+### General
+
+**946-20-30-1** > Payments by Affiliates
+The amount of the payment from a credit enhancement to maintain the investment's value shall be measured initially by the cost of obtaining a similar enhancement in an arm's-length transaction.
+The amount of the payment from a credit enhancement to maintain the investment's value shall be measured initially by the cost of obtaining a similar enhancement in an arm's-length transaction.
+**946-20-30-2** > Certain Distribution Costs
+The guidance in paragraphs 946-20-30-3 through 30-5
+applies to annual and interim financial statements of investment companies that adopt plans that comply with Rule 12b-1.
+The guidance in paragraphs 946-20-30-3 through 30-5
+**946-20-30-3** applies to annual and interim financial statements of investment companies that adopt plans that comply with Rule 12b-1.
+The liability and expense recognized under paragraph 946-20-25-3 shall be measured initially in an amount equal to the cumulative distribution costs
+1. Cumulative 12b-1 fees paid
+2. Cumulative contingent-deferred sales load payments
+3. Future cumulative contingent-deferred sales load payments by current shareholders, if reasonably estimable.
+
+The liability and expense recognized under paragraph 946-20-25-3 shall be measured initially in an amount equal to the cumulative distribution costs
+1. Cumulative 12b-1 fees paid
+2. Cumulative contingent-deferred sales load payments
+3. Future cumulative contingent-deferred sales load payments by current shareholders, if reasonably estimable.
+
+The amount and timing of cash flows are reliably determinable.
+2. The distribution costs are not subject to a reasonable interest charge.
+
+The amount and timing of cash flows are reliably determinable.
+2. The distribution costs are not subject to a reasonable interest charge.
+
+If these conditions are not met, the liability recognized under paragraph 946-20-25-3 shall be calculated without discounting to present value.
+If these conditions are not met, the liability recognized under paragraph 946-20-25-3 shall be calculated without discounting to present value.
+
+## 35 Subsequent Measurement
+
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+
+### General
+
+**946-20-35-1** > Payments by Affiliates
+Any subsequent change in the value of a credit enhancement to maintain the investment's value shall be accounted for as unrealized appreciation or depreciation.
+Any subsequent change in the value of a credit enhancement to maintain the investment's value shall be accounted for as unrealized appreciation or depreciation.
+**946-20-35-2** > Certain Distribution Costs
+The guidance in the following paragraph and paragraph 946-20-35-4 applies to annual and interim financial statements of investment companies that adopt plans that comply with Rule 12b-1
+.
+The guidance in the following paragraph and paragraph 946-20-35-4 applies to annual and interim financial statements of investment companies that adopt plans that comply with Rule 12b-1
+**946-20-35-3** .
+The liability recognized under paragraph 946-20-25-3 shall be subsequently measured using the guidance in paragraphs 946-20-30-4 through 30-5
+. Changes in the liability shall be recognized in the statement of operations as an expense or reduction in expense.
+The liability recognized under paragraph 946-20-25-3 shall be subsequently measured using the guidance in paragraphs 946-20-30-4 through 30-5
+**946-20-35-4** . Changes in the liability shall be recognized in the statement of operations as an expense or reduction in expense.
+Any future cumulative contingent-deferred sales load
+1. Current net asset value per share
+2. The number of shares currently outstanding and the number of years that they have been outstanding
+3. Estimated shareholder persistency based on historical fund data or, if historical fund data are not available, group or industry data for a similar class of shares.
+
+Any future cumulative contingent-deferred sales load
+1. Current net asset value per share
+2. The number of shares currently outstanding and the number of years that they have been outstanding
+3. Estimated shareholder persistency based on historical fund data or, if historical fund data are not available, group or industry data for a similar class of shares.
+
+**946-20-35-5** > Offering Costs
+Offering costs
+recognized as a deferred charge under paragraph 946-20-25-6 shall be amortized to expense over 12 months on a straight-line basis when operations begin.
+Offering costs
+**946-20-35-6** recognized as a deferred charge under paragraph 946-20-25-6 shall be amortized to expense over 12 months on a straight-line basis when operations begin.
+Offering costs of unit investment trusts shall be charged to paid-in capital on a pro rata basis as the units or shares are issued or sold by the trust (when the units are purchased by the underwriters). Units sold to underwriters on a firm basis are considered sold by the trust, and the offering costs associated with those units shall be charged to paid-in capital when the units are purchased by the underwriters. Offering costs that remain unamortized at the end of the year shall be reviewed for impairment. (For guidance concerning organization and offering costs, see Subtopic 720-15.)
+Offering costs of unit investment trusts shall be charged to paid-in capital on a pro rata basis as the units or shares are issued or sold by the trust (when the units are purchased by the underwriters). Units sold to underwriters on a firm basis are considered sold by the trust, and the offering costs associated with those units shall be charged to paid-in capital when the units are purchased by the underwriters. Offering costs that remain unamortized at the end of the year shall be reviewed for impairment. (For guidance concerning organization and offering costs, see Subtopic 720-15.)
+
+## 40 Derecognition
+
+General Note:The Derecognition Section provides guidance on determining whether and when an entity should remove an item from the financial statements. For example, the entity would derecognize an asset because it no longer has rights to the asset or it would derecognize a liability because it no longer has any obligation.
+
+### General
+
+**946-20-40-1** > Offering Costs
+Offering costs
+of unit investment trusts that have not yet been charged to paid-in capital shall be written off when it is no longer probable that the shares to which the offering costs relate will be issued in the future. It is presumed that those costs will not have a future benefit one year from the initial offering.
+**946-20-40-1** Offering costs
+
+## 45 Other Presentation Matters
+
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+
+### General
+
+**946-20-45-1** > Payments by Affiliates
+Voluntary reimbursements by the affiliate for investment transaction losses
+2. Realized and unrealized losses on investments not meeting the investment guidelines of the fund
+3. Reimbursements from the affiliate for losses on investments not meeting the investment guidelines of the fund
+4. Realized and unrealized gains on investments not meeting the investment guidelines of the fund.
+
+**946-20-45-1** Voluntary reimbursements by the affiliate for investment transaction losses
+2. Realized and unrealized losses on investments not meeting the investment guidelines of the fund
+3. Reimbursements from the affiliate for losses on investments not meeting the investment guidelines of the fund
+4. Realized and unrealized gains on investments not meeting the investment guidelines of the fund.
+
+**946-20-45-2** > Certain Distribution Costs
+The guidance in this paragraph applies to annual and interim financial statements of investment companies that adopt plans that comply with Rule 12b-1
+. An excess of cumulative 12b-1 fees and contingent-deferred sales load payments to date and future contingent-deferred sales load payments by current shareholders over the cumulative costs incurred by the distributor shall not be reported as an asset.
+**946-20-45-2** The guidance in this paragraph applies to annual and interim financial statements of investment companies that adopt plans that comply with Rule 12b-1
+**946-20-45-3** . An excess of cumulative 12b-1 fees and contingent-deferred sales load payments to date and future contingent-deferred sales load payments by current shareholders over the cumulative costs incurred by the distributor shall not be reported as an asset. > Brokerage Service Arrangements
+The relevant expense caption on the statement of operations and the expense ratio in the financial highlights shall include the amount that would have been incurred by the investment company for brokerage services had it paid for the services directly in an arm's-length transaction. Such amounts shall also be shown as a corresponding reduction in total expenses, captioned as fees paid indirectly.
+**946-20-45-3** The relevant expense caption on the statement of operations and the expense ratio in the financial highlights shall include the amount that would have been incurred by the investment company for brokerage services had it paid for the services directly in an arm's-length transaction. Such amounts shall also be shown as a corresponding reduction in total expenses, captioned as fees paid indirectly.
+**946-20-45-4** > General Partner Advisory Services
+The amounts of any payments or allocations for advisory services from the general partner shall be presented in either the statement of operations or the statement of changes in partners' capital.
+**946-20-45-4** The amounts of any payments or allocations for advisory services from the general partner shall be presented in either the statement of operations or the statement of changes in partners' capital.
+**946-20-45-5** > Expense Offset Arrangements
+Expense offset arrangements, under which a third party explicitly reduces its fees by a specified or readily ascertainable amount for services provided to the investment company in exchange for use of the investment company's assets, shall be presented in the statement of operations, the expense ratio in the financial highlights, and notes to financial statements in the same manner as brokerage service arrangements.
+**946-20-45-5** Expense offset arrangements, under which a third party explicitly reduces its fees by a specified or readily ascertainable amount for services provided to the investment company in exchange for use of the investment company's assets, shall be presented in the statement of operations, the expense ratio in the financial highlights, and notes to financial statements in the same manner as brokerage service arrangements.
+**946-20-45-6** > Small Business Investment Companies
+The unique features (primarily the existence of significant debt) of small business investment companies often make it desirable that their financial statements be presented in a conventional balance sheet format.
+**946-20-45-6** The unique features (primarily the existence of significant debt) of small business investment companies often make it desirable that their financial statements be presented in a conventional balance sheet format.
+**946-20-45-7** > Venture Capital Investment Companies
+Though all venture capital investment companies shall prepare their financial statements in conformity with generally accepted accounting principles (GAAP), the statement presentation of some venture capital investment companies may need to be tailored to present the information in a manner most meaningful to their particular group of investors. For example, if debt is a significant item, a balance sheet might be more appropriate than a statement of net assets.
+**946-20-45-7** Though all venture capital investment companies shall prepare their financial statements in conformity with generally accepted accounting principles (GAAP), the statement presentation of some venture capital investment companies may need to be tailored to present the information in a manner most meaningful to their particular group of investors. For example, if debt is a significant item, a balance sheet might be more appropriate than a statement of net assets.
+
+## 50 Disclosure
+
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+
+### General
+
+Paragraph superseded by Accounting Standards Update No. 2013-08.
+Paragraph superseded by Accounting Standards Update No. 2013-08.
+**946-20-50-2** > Payments by Affiliates
+The amounts and circumstances of payments by affiliates to reimburse the fund for losses on investment transactions shall be described in the notes to financial statements. The gains and losses on investments not meeting investment guidelines of the fund shall also be disclosed in the notes to financial statements. In addition, the effect on total return of the payments, as well as any gains or losses on investments not meeting investment guidelines of the fund, shall be quantified and disclosed in the financial highlights in a manner similar to disclosure of the effect of voluntary waivers of fees and expenses on expense ratios. (See Subtopic 850-10.) Total return shall be presented in the financial highlights.
+The amounts and circumstances of payments by affiliates to reimburse the fund for losses on investment transactions shall be described in the notes to financial statements. The gains and losses on investments not meeting investment guidelines of the fund shall also be disclosed in the notes to financial statements. In addition, the effect on total return of the payments, as well as any gains or losses on investments not meeting investment guidelines of the fund, shall be quantified and disclosed in the financial highlights in a manner similar to disclosure of the effect of voluntary waivers of fees and expenses on expense ratios. (See Subtopic 850-10.) Total return shall be presented in the financial highlights.
+**946-20-50-3** > Certain Distribution Costs
+The guidance in this paragraph applies to annual and interim financial statements of investment companies that adopt plans that comply with Rule 12b-1
+. For both board-contingent plans and enhanced 12b-1 plans, funds shall disclose in their financial statements the principal terms of such plans and any plan provisions permitting or requiring payments of excess costs after plan termination. For board-contingent and enhanced plans, the aggregate amount of distribution costs subject to recovery through future payments by the fund pursuant to the plan and through future contingent-deferred sales load payments by current shareholders shall be disclosed. For enhanced plans, funds shall disclose the methodology used to estimate future contingent-deferred sales load payments by current shareholders.
+The guidance in this paragraph applies to annual and interim financial statements of investment companies that adopt plans that comply with Rule 12b-1
+**946-20-50-4** . For both board-contingent plans and enhanced 12b-1 plans, funds shall disclose in their financial statements the principal terms of such plans and any plan provisions permitting or requiring payments of excess costs after plan termination. For board-contingent and enhanced plans, the aggregate amount of distribution costs subject to recovery through future payments by the fund pursuant to the plan and through future contingent-deferred sales load payments by current shareholders shall be disclosed. For enhanced plans, funds shall disclose the methodology used to estimate future contingent-deferred sales load payments by current shareholders.
+If a 12b-1 distribution reimbursement plan
+provides for the carryover of unreimbursed costs to subsequent periods, the terms of reimbursement and the unreimbursed amount shall be disclosed.
+If a 12b-1 distribution reimbursement plan
+**946-20-50-5** provides for the carryover of unreimbursed costs to subsequent periods, the terms of reimbursement and the unreimbursed amount shall be disclosed. > General Partner Advisory Services
+The method of computing payments or allocations for advisory services from the general partner shall be described in the notes to financial statements.
+The method of computing payments or allocations for advisory services from the general partner shall be described in the notes to financial statements.
+**946-20-50-6** > Expense Limitation Agreements
+The existence of reimbursement agreements and the carryover of excess expenses potentially reimbursable to the adviser but not recorded as a liability shall be disclosed in the notes to financial statements.
+The existence of reimbursement agreements and the carryover of excess expenses potentially reimbursable to the adviser but not recorded as a liability shall be disclosed in the notes to financial statements.
+**946-20-50-7** > Fee Waivers
+All voluntary and involuntary fee waivers shall be disclosed on the face of the statement of operations as a reduction of total expenses. The expense ratio in the financial highlights shall be shown net of voluntary and involuntary waivers. The effect of only voluntary waivers on the expense ratio shall be disclosed (either as the basis point effect on the ratio or as the gross expense ratio) in a note to, or as part of, the financial highlights. In addition, the terms of all voluntary and involuntary waivers shall be disclosed in the notes to financial statements.
+All voluntary and involuntary fee waivers shall be disclosed on the face of the statement of operations as a reduction of total expenses. The expense ratio in the financial highlights shall be shown net of voluntary and involuntary waivers. The effect of only voluntary waivers on the expense ratio shall be disclosed (either as the basis point effect on the ratio or as the gross expense ratio) in a note to, or as part of, the financial highlights. In addition, the terms of all voluntary and involuntary waivers shall be disclosed in the notes to financial statements.
+**946-20-50-8** > Dividends
+Dividends paid to investors shall be disclosed as a single line item in the statement of changes in net assets, except tax return of capital
+distributions, which shall be disclosed separately. The notes shall disclose the tax basis components of the dividends paid (that is, either from ordinary income, capital gains, or tax return of capital). Disclosing dividends on a tax basis is consistent with how dividends are reported to shareholders during and at the end of the calendar year. The financial highlights table would disclose per-share information that is consistent with the statement of changes in net assets.
+Dividends paid to investors shall be disclosed as a single line item in the statement of changes in net assets, except tax return of capital
+**946-20-50-9** distributions, which shall be disclosed separately. The notes shall disclose the tax basis components of the dividends paid (that is, either from ordinary income, capital gains, or tax return of capital). Disclosing dividends on a tax basis is consistent with how dividends are reported to shareholders during and at the end of the calendar year. The financial highlights table would disclose per-share information that is consistent with the statement of changes in net assets.
+Dividends from affiliates and controlled companies shall be disclosed.
+Dividends from affiliates and controlled companies shall be disclosed.
+If management of a fund determines that a tax return of capital is likely to occur for the fund's fiscal year, although the exact amount may not be estimable, that fact shall be disclosed in a note to the interim financial statements.
+If management of a fund determines that a tax return of capital is likely to occur for the fund's fiscal year, although the exact amount may not be estimable, that fact shall be disclosed in a note to the interim financial statements.
+**946-20-50-11** > Components of Capital and Distributable Earnings
+This guidance requires all investment companies to disclose only two components of capital on the balance sheet: shareholder capital and distributable earnings. The components of distributable earnings, on a tax basis, shall be disclosed in a note to financial statements. This information enables investors to determine the amount of accumulated and undistributed earnings they potentially could receive in the future and on which they could be taxed.
+PENDING CONTENT Transition date: June 30, 2027; June 30, 2027Transition guidance: 105-10-65-7 This guidance requires all investment companies to disclose two components of capital on the balance sheet: shareholder capital and distributable earnings. The components of distributable earnings, on a tax basis, shall be disclosed in a note to financial statements. This information enables investors to determine the amount of accumulated and undistributed earnings they potentially could receive in the future and on which they could be taxed.
+This guidance requires all investment companies to disclose only two components of capital on the balance sheet: shareholder capital and distributable earnings. The components of distributable earnings, on a tax basis, shall be disclosed in a note to financial statements. This information enables investors to determine the amount of accumulated and undistributed earnings they potentially could receive in the future and on which they could be taxed.
+**946-20-50-12** PENDING CONTENT Transition date: June 30, 2027; June 30, 2027Transition guidance: 105-10-65-7 This guidance requires all investment companies to disclose two components of capital on the balance sheet: shareholder capital and distributable earnings. The components of distributable earnings, on a tax basis, shall be disclosed in a note to financial statements. This information enables investors to determine the amount of accumulated and undistributed earnings they potentially could receive in the future and on which they could be taxed.
+Undistributed ordinary income
+2. Undistributed long-term capital gains
+3. Capital loss carryforwards
+4. Unrealized appreciation (depreciation).
+
+Undistributed ordinary income
+2. Undistributed long-term capital gains
+3. Capital loss carryforwards
+4. Unrealized appreciation (depreciation).
+
+Paragraphs 946-740-35-1 and 946-740-50-1 require that, if a provision for deferred income taxes on unrealized appreciation exists, it be charged against the unrealized gains account and disclosed as such in the statement of operations. Explanations shall be provided for the differences between the total of these amounts and distributable earnings (accumulated losses).
+Paragraphs 946-740-35-1 and 946-740-50-1 require that, if a provision for deferred income taxes on unrealized appreciation exists, it be charged against the unrealized gains account and disclosed as such in the statement of operations. Explanations shall be provided for the differences between the total of these amounts and distributable earnings (accumulated losses).
+Investment partnerships and other pass-through entities shall aggregate all elements of equity into partners' capital, because the results from operations are deemed distributed to each partner.
+Investment partnerships and other pass-through entities shall aggregate all elements of equity into partners' capital, because the results from operations are deemed distributed to each partner.
+**946-20-50-15** > Financial Support to Investees
+The type and amount of financial support provided, including situations in which the investment company assisted the investee in obtaining financial support
+2. The primary reasons for providing the financial support.
+
+The type and amount of financial support provided, including situations in which the investment company assisted the investee in obtaining financial support
+2. The primary reasons for providing the financial support.
+
+The type and amount of financial support to be provided, including situations in which the investment company must assist the investee in obtaining financial support
+2. The primary reasons for the contractual requirement to provide the financial support.
+
+The type and amount of financial support to be provided, including situations in which the investment company must assist the investee in obtaining financial support
+2. The primary reasons for the contractual requirement to provide the financial support.
+
+## 55 Implementation Guidance and Illustrations
+
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+
+### General
+
+##### · > Example 1: Disclosure of Payments by Affiliates
+
+**946-20-55-1** > Illustrations
+This Example illustrates application of the guidance in paragraph 946-20-50-2. An entity might disclose the following.In 20XX, a.aa% of the fund's total return consists of a voluntary reimbursement by the adviser for a realized investment loss, and another b.bb% consists of a gain on an investment not meeting the fund's investment restrictions. Excluding these items, total return would have been c.cc%. Additionally, the adviser fully reimbursed the fund for a loss on a transaction not meeting the fund's investment guidelines, which otherwise would have reduced total return by d.dd%.
+**946-20-55-1** This Example illustrates application of the guidance in paragraph 946-20-50-2. An entity might disclose the following.In 20XX, a.aa% of the fund's total return consists of a voluntary reimbursement by the adviser for a realized investment loss, and another b.bb% consists of a gain on an investment not meeting the fund's investment restrictions. Excluding these items, total return would have been c.cc%. Additionally, the adviser fully reimbursed the fund for a loss on a transaction not meeting the fund's investment guidelines, which otherwise would have reduced total return by d.dd%.

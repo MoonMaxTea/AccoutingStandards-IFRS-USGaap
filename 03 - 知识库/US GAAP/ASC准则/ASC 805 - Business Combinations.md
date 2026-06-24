@@ -1533,3 +1533,4314 @@ Interpretive Response: No. The guidance in SAB Topic 5.G is intended to address 
 **805-10-S99-8** · · > SEC Observer Comment: Accounting by a Joint Venture for Businesses Received at Its Formation
 The following is the text of SEC Observer Comment: Accounting by a Joint Venture for Businesses Received at Its Formation.The SEC staff will object to a conclusion that did not result in the application of Topic 805 to transactions in which businesses are contributed to a newly formed, jointly controlled entity if that entity is not a joint venture. The SEC staff also would object to a conclusion that joint control is the only defining characteristic of a joint venture.
 **805-10-S99-8** The following is the text of SEC Observer Comment: Accounting by a Joint Venture for Businesses Received at Its Formation.The SEC staff will object to a conclusion that did not result in the application of Topic 805 to transactions in which businesses are contributed to a newly formed, jointly controlled entity if that entity is not a joint venture. The SEC staff also would object to a conclusion that joint control is the only defining characteristic of a joint venture.
+
+## 00 Status
+
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+
+### General
+
+The following table identifies the changes made to this Subtopic.
+**** **** **** ****
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Acquiree | Amended | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| Acquirer | Amended | Accounting Standards Update No. 2025-03 | 05/12/2025 |
+| Acquisition by a Not-for-Profit Entity | Added | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| Bargain Purchase Option | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Bargain Renewal Option | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Business | Amended | Accounting Standards Update No. 2017-01 | 01/05/2017 |
+| Business Combination | Amended | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| Compliance Environmental Credit | Added | Accounting Standards Update No. 2026-02 | 05/19/2026 |
+| Contract | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Contract Asset | Added | Accounting Standards Update No. 2014-18 | 12/23/2014 |
+| Contract Liability | Added | Accounting Standards Update No. 2021-08 | 10/28/2021 |
+| Corporate Joint Venture | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Direct Financing Lease | Amended | Accounting Standards Update No. 2021-05 | 07/19/2021 |
+| Direct Financing Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Environmental Credit | Added | Accounting Standards Update No. 2026-02 | 05/19/2026 |
+| Environmental Credit Obligation | Added | Accounting Standards Update No. 2026-02 | 05/19/2026 |
+| Exchange | Added | Accounting Standards Update No. 2025-10 | 12/04/2025 |
+| Finance Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Financial Asset (1st def.) | Superseded | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| Financial Asset (1st def.) | Added | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| Financial Asset (2nd def.) | Added | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| Financial Statements Are Available to Be Issued | Superseded | Accounting Standards Update No. 2016-03 | 03/07/2016 |
+| Financial Statements Are Available to Be Issued | Added | Accounting Standards Update No. 2014-18 | 12/23/2014 |
+| Goodwill | Amended | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Goodwill | Amended | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| Government Grant | Added | Accounting Standards Update No. 2025-10 | 12/04/2025 |
+| Grant Related to an Asset | Added | Accounting Standards Update No. 2025-10 | 12/04/2025 |
+| Grant Related to Income | Added | Accounting Standards Update No. 2025-10 | 12/04/2025 |
+| Income Taxes | Added | Accounting Standards Update No. 2026-02 | 05/19/2026 |
+| Indirectly Related to the Leased Property | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Joint Venture | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Lease | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease | Added | Accounting Standards Update No. 2014-18 | 12/23/2014 |
+| Lease Liability | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease Payments | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease Receivable | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease Term | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lessee | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lessor | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Monetary Assets | Added | Accounting Standards Update No. 2025-10 | 12/04/2025 |
+| Net Investment in the Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Noncancelable Lease Term | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Nonreciprocal Transfer (1st def.) | Added | Accounting Standards Update No. 2026-02 | 05/19/2026 |
+| Operating Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Performance Obligation | Added | Accounting Standards Update No. 2021-08 | 10/28/2021 |
+| Private Company | Added | Accounting Standards Update No. 2014-18 | 12/23/2014 |
+| Probable | Added | Accounting Standards Update No. 2026-02 | 05/19/2026 |
+| Public Business Entity | Amended | Maintenance Update 2016-11 | 06/27/2016 |
+| Public Business Entity | Added | Accounting Standards Update No. 2014-18 | 12/23/2014 |
+| Purchased Financial Assets with Credit Deterioration | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| Purchased Financial Assets with Credit Deterioration | Added | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| Purchased Seasoned Loans | Added | Accounting Standards Update No. 2025-08 | 11/12/2025 |
+| Reinsurance | Added | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| Right-of-Use Asset | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Sales-Type Lease | Amended | Accounting Standards Update No. 2021-05 | 07/19/2021 |
+| Sales-Type Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Standalone Selling Price | Added | Accounting Standards Update No. 2021-08 | 10/28/2021 |
+| Sublease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Transaction Price | Added | Accounting Standards Update No. 2021-08 | 10/28/2021 |
+| Underlying Asset | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Unguaranteed Residual Asset | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Variable Interest Entity | Superseded | Accounting Standards Update No. 2025-03 | 05/12/2025 |
+| 805-20-05-3 | Added | Accounting Standards Update No. 2014-18 | 12/23/2014 |
+| 805-20-05-4 | Added | Accounting Standards Update No. 2014-18 | 12/23/2014 |
+| 805-20-15-1A | Amended | Accounting Standards Update No. 2019-06 | 05/30/2019 |
+| 805-20-15-1A | Added | Accounting Standards Update No. 2016-03 | 03/07/2016 |
+| 805-20-15-2 | Amended | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| 805-20-15-2 | Amended | Accounting Standards Update No. 2019-06 | 05/30/2019 |
+| 805-20-15-2 through 15-4 | Added | Accounting Standards Update No. 2014-18 | 12/23/2014 |
+| 805-20-15-4 | Amended | Accounting Standards Update No. 2021-03 | 03/30/2021 |
+| 805-20-15-4 | Amended | Accounting Standards Update No. 2019-06 | 05/30/2019 |
+| 805-20-25-1 | Amended | Accounting Standards Update No. 2019-06 | 05/30/2019 |
+| 805-20-25-1 | Amended | Accounting Standards Update No. 2014-18 | 12/23/2014 |
+| 805-20-25-2 | Amended | Accounting Standards Update No. 2024-02 | 03/29/2024 |
+| 805-20-25-5 | Amended | Accounting Standards Update No. 2025-10 | 12/04/2025 |
+| 805-20-25-5 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-25-8 | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| 805-20-25-8 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-25-9 | Amended | Accounting Standards Update No. 2026-02 | 05/19/2026 |
+| 805-20-25-9 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-25-10A | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-25-11 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-25-12 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-25-13 | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-25-15B through 25-15D | Added | Accounting Standards Update No. 2026-02 | 05/19/2026 |
+| 805-20-25-16 | Amended | Accounting Standards Update No. 2025-10 | 12/04/2025 |
+| 805-20-25-16 | Amended | Accounting Standards Update No. 2021-08 | 10/28/2021 |
+| 805-20-25-16 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-25-17 | Amended | Accounting Standards Update No. 2025-10 | 12/04/2025 |
+| 805-20-25-17 | Amended | Accounting Standards Update No. 2021-08 | 10/28/2021 |
+| 805-20-25-17 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-25-28A | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-25-28B | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-25-28C | Added | Accounting Standards Update No. 2021-08 | 10/28/2021 |
+| 805-20-25-28D | Added | Accounting Standards Update No. 2025-10 | 12/04/2025 |
+| 805-20-25-29 through 25-33 | Added | Accounting Standards Update No. 2014-18 | 12/23/2014 |
+| 805-20-30-2 | Amended | Accounting Standards Update No. 2026-02 | 05/19/2026 |
+| 805-20-30-2 | Amended | Accounting Standards Update No. 2025-10 | 12/04/2025 |
+| 805-20-30-2 | Amended | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 805-20-30-4 | Amended | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 805-20-30-4A | Amended | Accounting Standards Update No. 2025-08 | 11/12/2025 |
+| 805-20-30-4A | Added | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 805-20-30-4B | Amended | Accounting Standards Update No. 2025-08 | 11/12/2025 |
+| 805-20-30-4B | Added | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 805-20-30-6 through 30-8 | Amended | Accounting Standards Update No. 2011-04 | 05/12/2011 |
+| 805-20-30-10 | Amended | Accounting Standards Update No. 2026-02 | 05/19/2026 |
+| 805-20-30-10 | Amended | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 805-20-30-10 through 30-12 | Amended | Accounting Standards Update No. 2025-10 | 12/04/2025 |
+| 805-20-30-10 through 30-12 | Amended | Accounting Standards Update No. 2021-08 | 10/28/2021 |
+| 805-20-30-10 through 30-12 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-30-12 | Amended | Accounting Standards Update No. 2025-08 | 11/12/2025 |
+| 805-20-30-12 | Amended | Accounting Standards Update No. 2026-02 | 05/19/2026 |
+| 805-20-30-12 | Amended | Accounting Standards Update No. 2025-08 | 11/12/2025 |
+| 805-20-30-12 | Amended | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 805-20-30-24 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-30-25 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-30-26 | Amended | Accounting Standards Update No. 2025-08 | 11/12/2025 |
+| 805-20-30-26 | Added | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 805-20-30-27 through 30-30 | Added | Accounting Standards Update No. 2021-08 | 10/28/2021 |
+| 805-20-30-31 | Added | Accounting Standards Update No. 2025-10 | 12/04/2025 |
+| 805-20-30-32 | Added | Accounting Standards Update No. 2026-02 | 05/19/2026 |
+| 805-20-35-4 | Amended | Accounting Standards Update No. 2012-06 | 10/23/2012 |
+| 805-20-35-4A | Superseded | Accounting Standards Update No. 2012-06 | 10/23/2012 |
+| 805-20-35-4B | Amended | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 805-20-35-4B | Added | Accounting Standards Update No. 2012-06 | 10/23/2012 |
+| 805-20-35-4C | Added | Accounting Standards Update No. 2012-06 | 10/23/2012 |
+| 805-20-35-6 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-35-7 | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| 805-20-35-7 | Amended | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 805-20-50-1 through 50-5 | Amended | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| 805-20-50-1 | Amended | Accounting Standards Update No. 2019-11 | 11/26/2019 |
+| 805-20-50-1 | Amended | Maintenance Update 2016-11 | 06/27/2016 |
+| 805-20-50-1 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-50-4 | Amended | Accounting Standards Update No. 2015-10 | 06/12/2015 |
+| 805-20-50-4A | Amended | Accounting Standards Update No. 2015-16 | 09/25/2015 |
+| 805-20-50-4A | Added | Accounting Standards Update No. 2015-10 | 06/12/2015 |
+| 805-20-50-5 | Added | Accounting Standards Update No. 2021-08 | 10/28/2021 |
+| 805-20-55-2 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-55-9 | Amended | Accounting Standards Update No. 2011-04 | 05/12/2011 |
+| 805-20-55-31 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-65-1 | Added | Accounting Standards Update No. 2012-06 | 10/23/2012 |
+| 805-20-65-2 | Amended | Accounting Standards Update No. 2019-06 | 05/30/2019 |
+| 805-20-65-2 | Amended | Accounting Standards Update No. 2016-03 | 03/07/2016 |
+| 805-20-65-2 | Added | Accounting Standards Update No. 2014-18 | 12/23/2014 |
+| 805-20-65-3 | Added | Accounting Standards Update No. 2021-08 | 10/28/2021 |
+
+**** **** **** **** **** **** **** ****
+The following table identifies the changes made to this Subtopic.
+**** **** **** ****
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Acquiree | Amended | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| Acquirer | Amended | Accounting Standards Update No. 2025-03 | 05/12/2025 |
+| Acquisition by a Not-for-Profit Entity | Added | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| Bargain Purchase Option | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Bargain Renewal Option | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Business | Amended | Accounting Standards Update No. 2017-01 | 01/05/2017 |
+| Business Combination | Amended | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| Compliance Environmental Credit | Added | Accounting Standards Update No. 2026-02 | 05/19/2026 |
+| Contract | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Contract Asset | Added | Accounting Standards Update No. 2014-18 | 12/23/2014 |
+| Contract Liability | Added | Accounting Standards Update No. 2021-08 | 10/28/2021 |
+| Corporate Joint Venture | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Direct Financing Lease | Amended | Accounting Standards Update No. 2021-05 | 07/19/2021 |
+| Direct Financing Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Environmental Credit | Added | Accounting Standards Update No. 2026-02 | 05/19/2026 |
+| Environmental Credit Obligation | Added | Accounting Standards Update No. 2026-02 | 05/19/2026 |
+| Exchange | Added | Accounting Standards Update No. 2025-10 | 12/04/2025 |
+| Finance Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Financial Asset (1st def.) | Superseded | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| Financial Asset (1st def.) | Added | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| Financial Asset (2nd def.) | Added | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| Financial Statements Are Available to Be Issued | Superseded | Accounting Standards Update No. 2016-03 | 03/07/2016 |
+| Financial Statements Are Available to Be Issued | Added | Accounting Standards Update No. 2014-18 | 12/23/2014 |
+| Goodwill | Amended | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Goodwill | Amended | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| Government Grant | Added | Accounting Standards Update No. 2025-10 | 12/04/2025 |
+| Grant Related to an Asset | Added | Accounting Standards Update No. 2025-10 | 12/04/2025 |
+| Grant Related to Income | Added | Accounting Standards Update No. 2025-10 | 12/04/2025 |
+| Income Taxes | Added | Accounting Standards Update No. 2026-02 | 05/19/2026 |
+| Indirectly Related to the Leased Property | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Joint Venture | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Lease | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease | Added | Accounting Standards Update No. 2014-18 | 12/23/2014 |
+| Lease Liability | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease Payments | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease Receivable | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease Term | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lessee | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lessor | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Monetary Assets | Added | Accounting Standards Update No. 2025-10 | 12/04/2025 |
+| Net Investment in the Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Noncancelable Lease Term | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Nonreciprocal Transfer (1st def.) | Added | Accounting Standards Update No. 2026-02 | 05/19/2026 |
+| Operating Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Performance Obligation | Added | Accounting Standards Update No. 2021-08 | 10/28/2021 |
+| Private Company | Added | Accounting Standards Update No. 2014-18 | 12/23/2014 |
+| Probable | Added | Accounting Standards Update No. 2026-02 | 05/19/2026 |
+| Public Business Entity | Amended | Maintenance Update 2016-11 | 06/27/2016 |
+| Public Business Entity | Added | Accounting Standards Update No. 2014-18 | 12/23/2014 |
+| Purchased Financial Assets with Credit Deterioration | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| Purchased Financial Assets with Credit Deterioration | Added | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| Purchased Seasoned Loans | Added | Accounting Standards Update No. 2025-08 | 11/12/2025 |
+| Reinsurance | Added | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| Right-of-Use Asset | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Sales-Type Lease | Amended | Accounting Standards Update No. 2021-05 | 07/19/2021 |
+| Sales-Type Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Standalone Selling Price | Added | Accounting Standards Update No. 2021-08 | 10/28/2021 |
+| Sublease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Transaction Price | Added | Accounting Standards Update No. 2021-08 | 10/28/2021 |
+| Underlying Asset | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Unguaranteed Residual Asset | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Variable Interest Entity | Superseded | Accounting Standards Update No. 2025-03 | 05/12/2025 |
+| 805-20-05-3 | Added | Accounting Standards Update No. 2014-18 | 12/23/2014 |
+| 805-20-05-4 | Added | Accounting Standards Update No. 2014-18 | 12/23/2014 |
+| 805-20-15-1A | Amended | Accounting Standards Update No. 2019-06 | 05/30/2019 |
+| 805-20-15-1A | Added | Accounting Standards Update No. 2016-03 | 03/07/2016 |
+| 805-20-15-2 | Amended | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| 805-20-15-2 | Amended | Accounting Standards Update No. 2019-06 | 05/30/2019 |
+| 805-20-15-2 through 15-4 | Added | Accounting Standards Update No. 2014-18 | 12/23/2014 |
+| 805-20-15-4 | Amended | Accounting Standards Update No. 2021-03 | 03/30/2021 |
+| 805-20-15-4 | Amended | Accounting Standards Update No. 2019-06 | 05/30/2019 |
+| 805-20-25-1 | Amended | Accounting Standards Update No. 2019-06 | 05/30/2019 |
+| 805-20-25-1 | Amended | Accounting Standards Update No. 2014-18 | 12/23/2014 |
+| 805-20-25-2 | Amended | Accounting Standards Update No. 2024-02 | 03/29/2024 |
+| 805-20-25-5 | Amended | Accounting Standards Update No. 2025-10 | 12/04/2025 |
+| 805-20-25-5 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-25-8 | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| 805-20-25-8 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-25-9 | Amended | Accounting Standards Update No. 2026-02 | 05/19/2026 |
+| 805-20-25-9 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-25-10A | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-25-11 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-25-12 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-25-13 | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-25-15B through 25-15D | Added | Accounting Standards Update No. 2026-02 | 05/19/2026 |
+| 805-20-25-16 | Amended | Accounting Standards Update No. 2025-10 | 12/04/2025 |
+| 805-20-25-16 | Amended | Accounting Standards Update No. 2021-08 | 10/28/2021 |
+| 805-20-25-16 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-25-17 | Amended | Accounting Standards Update No. 2025-10 | 12/04/2025 |
+| 805-20-25-17 | Amended | Accounting Standards Update No. 2021-08 | 10/28/2021 |
+| 805-20-25-17 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-25-28A | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-25-28B | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-25-28C | Added | Accounting Standards Update No. 2021-08 | 10/28/2021 |
+| 805-20-25-28D | Added | Accounting Standards Update No. 2025-10 | 12/04/2025 |
+| 805-20-25-29 through 25-33 | Added | Accounting Standards Update No. 2014-18 | 12/23/2014 |
+| 805-20-30-2 | Amended | Accounting Standards Update No. 2026-02 | 05/19/2026 |
+| 805-20-30-2 | Amended | Accounting Standards Update No. 2025-10 | 12/04/2025 |
+| 805-20-30-2 | Amended | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 805-20-30-4 | Amended | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 805-20-30-4A | Amended | Accounting Standards Update No. 2025-08 | 11/12/2025 |
+| 805-20-30-4A | Added | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 805-20-30-4B | Amended | Accounting Standards Update No. 2025-08 | 11/12/2025 |
+| 805-20-30-4B | Added | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 805-20-30-6 through 30-8 | Amended | Accounting Standards Update No. 2011-04 | 05/12/2011 |
+| 805-20-30-10 | Amended | Accounting Standards Update No. 2026-02 | 05/19/2026 |
+| 805-20-30-10 | Amended | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 805-20-30-10 through 30-12 | Amended | Accounting Standards Update No. 2025-10 | 12/04/2025 |
+| 805-20-30-10 through 30-12 | Amended | Accounting Standards Update No. 2021-08 | 10/28/2021 |
+| 805-20-30-10 through 30-12 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-30-12 | Amended | Accounting Standards Update No. 2025-08 | 11/12/2025 |
+| 805-20-30-12 | Amended | Accounting Standards Update No. 2026-02 | 05/19/2026 |
+| 805-20-30-12 | Amended | Accounting Standards Update No. 2025-08 | 11/12/2025 |
+| 805-20-30-12 | Amended | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 805-20-30-24 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-30-25 | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-30-26 | Amended | Accounting Standards Update No. 2025-08 | 11/12/2025 |
+| 805-20-30-26 | Added | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 805-20-30-27 through 30-30 | Added | Accounting Standards Update No. 2021-08 | 10/28/2021 |
+| 805-20-30-31 | Added | Accounting Standards Update No. 2025-10 | 12/04/2025 |
+| 805-20-30-32 | Added | Accounting Standards Update No. 2026-02 | 05/19/2026 |
+| 805-20-35-4 | Amended | Accounting Standards Update No. 2012-06 | 10/23/2012 |
+| 805-20-35-4A | Superseded | Accounting Standards Update No. 2012-06 | 10/23/2012 |
+| 805-20-35-4B | Amended | Accounting Standards Update No. 2016-13 | 06/16/2016 |
+| 805-20-35-4B | Added | Accounting Standards Update No. 2012-06 | 10/23/2012 |
+| 805-20-35-4C | Added | Accounting Standards Update No. 2012-06 | 10/23/2012 |
+| 805-20-35-6 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-35-7 | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| 805-20-35-7 | Amended | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 805-20-50-1 through 50-5 | Amended | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| 805-20-50-1 | Amended | Accounting Standards Update No. 2019-11 | 11/26/2019 |
+| 805-20-50-1 | Amended | Maintenance Update 2016-11 | 06/27/2016 |
+| 805-20-50-1 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-50-4 | Amended | Accounting Standards Update No. 2015-10 | 06/12/2015 |
+| 805-20-50-4A | Amended | Accounting Standards Update No. 2015-16 | 09/25/2015 |
+| 805-20-50-4A | Added | Accounting Standards Update No. 2015-10 | 06/12/2015 |
+| 805-20-50-5 | Added | Accounting Standards Update No. 2021-08 | 10/28/2021 |
+| 805-20-55-2 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-55-9 | Amended | Accounting Standards Update No. 2011-04 | 05/12/2011 |
+| 805-20-55-31 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 805-20-65-1 | Added | Accounting Standards Update No. 2012-06 | 10/23/2012 |
+| 805-20-65-2 | Amended | Accounting Standards Update No. 2019-06 | 05/30/2019 |
+| 805-20-65-2 | Amended | Accounting Standards Update No. 2016-03 | 03/07/2016 |
+| 805-20-65-2 | Added | Accounting Standards Update No. 2014-18 | 12/23/2014 |
+| 805-20-65-3 | Added | Accounting Standards Update No. 2021-08 | 10/28/2021 |
+
+## 05 Overview and Background
+
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+
+### General
+
+**805-20-05-1** Identifiable
+1. assets acquired
+2. Liabilities assumed
+3. Noncontrolling interests, if any, in the acquiree.
+
+**805-20-05-1** Identifiable
+1. assets acquired
+2. Liabilities assumed
+3. Noncontrolling interests, if any, in the acquiree.
+
+**805-20-05-2** The remaining aspects of the acquisition method are addressed in Subtopics 805-10 and 805-30. Subtopic 805-30 addresses the recognition and measurement of goodwill
+1. Identification of the acquirer
+2. Determination of the acquisition date
+3. Particular types of business combinations
+4. Measurement period
+5. Determination of what is part of a business combination.
+
+**805-20-05-2** The remaining aspects of the acquisition method are addressed in Subtopics 805-10 and 805-30. Subtopic 805-30 addresses the recognition and measurement of goodwill
+1. Identification of the acquirer
+2. Determination of the acquisition date
+3. Particular types of business combinations
+4. Measurement period
+5. Determination of what is part of a business combination.
+
+**805-20-05-3** General
+2. Accounting Alternative.
+
+**805-20-05-3** General
+2. Accounting Alternative.
+
+### Accounting Alternative
+
+**805-20-05-4** The Accounting Alternative Subsections of this Subtopic provide guidance for an entity within the scope of paragraph 805-20-15-2 that elects the accounting alternative for the recognition of identifiable intangible assets acquired in a business combination.
+**805-20-05-4** The Accounting Alternative Subsections of this Subtopic provide guidance for an entity within the scope of paragraph 805-20-15-2 that elects the accounting alternative for the recognition of identifiable intangible assets acquired in a business combination.
+
+## 15 Scope and Scope Exceptions
+
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+
+Note on Subsection Accounting Alternative:Upon the effective date of Accounting Standards Update 2021-03, the title of the Subsection below, Accounting Alternative, will change to Accounting Alternatives.
+
+### General
+
+**805-20-15-1** > Overall Guidance
+This Subtopic follows the same Scope and Scope Exceptions as outlined in the Overall Subtopic, see Section 805-10-15.
+**805-20-15-1** This Subtopic follows the same Scope and Scope Exceptions as outlined in the Overall Subtopic, see Section 805-10-15.
+
+### Accounting Alternatives
+
+Paragraphs 805-20-15-2 through 15-4
+and 805-20-25-29 through 25-33 provide guidance for an entity electing the accounting alternative in this Subtopic. See paragraph 805-20-65-2 for transition guidance for private companies and not-for-profit entities on applying the accounting alternative in this Subtopic.
+Paragraphs 805-20-15-2 through 15-4
+**805-20-15-2** and 805-20-25-29 through 25-33 provide guidance for an entity electing the accounting alternative in this Subtopic. See paragraph 805-20-65-2 for transition guidance for private companies and not-for-profit entities on applying the accounting alternative in this Subtopic.
+Applying the acquisition method (as described in paragraph 805-10-05-4 for all entities and Subtopic 958-805 for additional guidance for not-for-profit entities)
+2. Assessing the nature of the difference between the carrying amount of an investment and the amount of underlying equity in net assets of an investee when applying the equity method of accounting in accordance with Topic 323 on investments—equity method and joint ventures
+3. Adopting fresh-start reporting in accordance with Topic 852 on reorganizations.
+
+1. Applying the acquisition method (as described in paragraph 805-10-05-4 for all entities and Subtopic 958-805 for additional guidance for not-for-profit entities)
+2. Assessing the nature of the difference between the carrying amount of an investment and the amount of underlying equity in net assets of an investee when applying the equity method of accounting in accordance with Topic 323 on investments—equity method and joint ventures
+3. Adopting fresh-start reporting in accordance with Topic 852 on reorganizations
+4. Accounting for the formation of a joint venture in accordance with Subtopic 805-60.
+
+Applying the acquisition method (as described in paragraph 805-10-05-4 for all entities and Subtopic 958-805 for additional guidance for not-for-profit entities)
+2. Assessing the nature of the difference between the carrying amount of an investment and the amount of underlying equity in net assets of an investee when applying the equity method of accounting in accordance with Topic 323 on investments—equity method and joint ventures
+3. Adopting fresh-start reporting in accordance with Topic 852 on reorganizations.
+
+1. Applying the acquisition method (as described in paragraph 805-10-05-4 for all entities and Subtopic 958-805 for additional guidance for not-for-profit entities)
+2. Assessing the nature of the difference between the carrying amount of an investment and the amount of underlying equity in net assets of an investee when applying the equity method of accounting in accordance with Topic 323 on investments—equity method and joint ventures
+3. Adopting fresh-start reporting in accordance with Topic 852 on reorganizations
+4. Accounting for the formation of a joint venture in accordance with Subtopic 805-60.
+
+An entity that elects the accounting alternative shall apply all of the related recognition requirements upon election. The accounting alternative, once elected, shall be applied to all future transactions that are identified in paragraph 805-20-15-2.
+An entity that elects the accounting alternative shall apply all of the related recognition requirements upon election. The accounting alternative, once elected, shall be applied to all future transactions that are identified in paragraph 805-20-15-2.
+An entity that elects this accounting alternative must adopt the accounting alternative for amortizing goodwill
+in the Accounting Alternatives Subsections of Topic 350-20 on intangibles—goodwill and other. If the accounting alternative for amortizing goodwill was not adopted previously, it should be adopted on a prospective basis as of the adoption of the accounting alternative in this Subtopic. For example, upon adoption, existing goodwill should be amortized on a straight-line basis over 10 years, or less than 10 years if the entity demonstrates that another useful life is more appropriate. However, an entity that elects the accounting alternative for amortizing goodwill is not required to adopt the accounting alternative in this Subtopic.
+An entity that elects this accounting alternative must adopt the accounting alternative for amortizing goodwill
+
+## 20 Glossary
+
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+
+##### Acquiree
+
+The business or businesses that the acquirer obtains control of in a business combination. This term also includes a nonprofit activity or business that a not-for-profit acquirer obtains control of in an acquisition by a not-for-profit entity.
+The business or businesses that the acquirer obtains control of in a business combination. This term also includes a nonprofit activity or business that a not-for-profit acquirer obtains control of in an acquisition by a not-for-profit entity.
+
+##### Acquirer
+
+The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:805-10-65-5The entity that obtains control of the acquiree.See paragraphs 805-10-25-4 through 25-5 for guidance on determining the acquirer.
+The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer.
+PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:805-10-65-5The entity that obtains control of the acquiree.See paragraphs 805-10-25-4 through 25-5
+
+##### Acquisition by a Not-for-Profit Entity
+
+for guidance on determining the acquirer.A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.
+A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.
+
+##### Acquisition Date
+
+The date on which the acquirer obtains control of the acquiree.
+The date on which the acquirer obtains control of the acquiree.
+
+##### Business
+
+Paragraphs 805-10-55-3A through 55-6 and 805-10-55-8 through 55-9 define what is considered a business.
+Paragraphs 805-10-55-3A through 55-6
+
+##### Business Combination
+
+and 805-10-55-8 through 55-9 define what is considered a business. A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
+A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
+
+##### Compliance Environmental Credit
+
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:818-10-65-1An environmental credit recognized as an asset in accordance with Topic 818 and probable of being used to settle an environmental credit obligation.
+
+##### Contingency
+
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:818-10-65-1An environmental credit recognized as an asset in accordance with Topic 818 and probable of being used to settle an environmental credit obligation.An existing condition, situation, or set of circumstances involving uncertainty as to possible gain (gain contingency) or loss (loss contingency) to an entity that will ultimately be resolved when one or more future events occur or fail to occur.
+An existing condition, situation, or set of circumstances involving uncertainty as to possible gain (gain contingency) or loss (loss contingency) to an entity that will ultimately be resolved when one or more future events occur or fail to occur.
+
+##### Contract
+
+An agreement between two or more parties that creates enforceable rights and obligations.
+An agreement between two or more parties that creates enforceable rights and obligations.
+
+##### Contract Asset
+
+An entity's right to consideration in exchange for goods or services that the entity has transferred to a customer when that right is conditioned on something other than the passage of time (for example, the entity's future performance).
+An entity's right to consideration in exchange for goods or services that the entity has transferred to a customer when that right is conditioned on something other than the passage of time (for example, the entity's future performance).
+
+##### Contract Liability
+
+An entity's obligation to transfer goods or services to a customer for which the entity has received consideration (or the amount is due) from the customer.
+An entity's obligation to transfer goods or services to a customer for which the entity has received consideration (or the amount is due) from the customer.
+
+##### Control
+
+The same as the meaning of controlling financial interest in paragraph 810-10-15-8.
+The same as the meaning of controlling financial interest in paragraph 810-10-15-8.
+
+##### Corporate Joint Venture
+
+A corporation owned and operated by a small group of entities (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a corporate joint venture frequently is to share risks and rewards in developing a new market, product or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A corporate joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a corporate joint venture. The ownership of a corporate joint venture seldom changes, and its stock is usually not traded publicly. A noncontrolling interest held by public ownership, however, does not preclude a corporation from being a corporate joint venture.
+A corporation owned and operated by a small group of entities (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a corporate joint venture frequently is to share risks and rewards in developing a new market, product or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A corporate joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a corporate joint venture. The ownership of a corporate joint venture seldom changes, and its stock is usually not traded publicly. A noncontrolling interest held by public ownership, however, does not preclude a corporation from being a corporate joint venture.
+
+##### Customer
+
+A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.
+A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.
+
+##### Defensive Intangible Asset
+
+An acquired intangible asset in a situation in which an entity does not intend to actively use the asset but intends to hold (lock up) the asset to prevent others from obtaining access to the asset.
+An acquired intangible asset in a situation in which an entity does not intend to actively use the asset but intends to hold (lock up) the asset to prevent others from obtaining access to the asset.
+
+##### Direct Financing                Lease
+
+From the perspective of a lessor, a lease that meets none of the criteria in paragraph 842-10-25-2 but meets the criteria in paragraph 842-10-25-3(b)and is not an operating lease in accordance with paragraph 842-10-25-3A.
+From the perspective of a lessor, a lease that meets none of the criteria in paragraph 842-10-25-2 but meets the criteria in paragraph 842-10-25-3(b)and is not an operating lease in accordance with paragraph 842-10-25-3A.
+
+##### Environmental Credit
+
+1. Lacks physical substance and is not a financial asset.
+2. Is represented to prevent, control, reduce, or remove emissions or other pollution.
+3. Is, or previously was, separately transferable in an exchange transaction. If an item is no longer separately transferable in an exchange transaction, an entity must be able to use that item to satisfy an environmental credit obligation to meet this criterion.
+4. Is not an income tax credit that may be used to settle an entity’s income tax liability, regardless of whether the entity has a tax liability or intends to use the credit for that purpose.
+
+An environmental credit that meets the above criteria may exist in a variety of forms, including (but not limited to) credits, certificates, allowances, and offsets.
+1. Lacks physical substance and is not a financial asset.
+2. Is represented to prevent, control, reduce, or remove emissions or other pollution.
+3. Is, or previously was, separately transferable in an exchange transaction. If an item is no longer separately transferable in an exchange transaction, an entity must be able to use that item to satisfy an environmental credit obligation to meet this criterion.
+4. Is not an income tax credit that may be used to settle an entity’s income tax liability, regardless of whether the entity has a tax liability or intends to use the credit for that purpose.
+
+##### Environmental Credit Obligation
+
+An environmental credit that meets the above criteria may exist in a variety of forms, including (but not limited to) credits, certificates, allowances, and offsets.PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:818-10-65-1A regulatory compliance obligation arising from existing or enacted laws, statutes, or ordinances represented to prevent, control, reduce, or remove emissions or other pollution that may be settled with environmental credits. Obligations within the scope of Subtopic 410-30 are not environmental credit obligations.
+
+##### Exchange
+
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:818-10-65-1A regulatory compliance obligation arising from existing or enacted laws, statutes, or ordinances represented to prevent, control, reduce, or remove emissions or other pollution that may be settled with environmental credits. Obligations within the scope of Subtopic 410-30 are not environmental credit obligations.An exchange (or exchange transaction) is a reciprocal transfer between two entities that results in one of the entities acquiring assets or services or satisfying liabilities by surrendering other assets or services or incurring other obligations.
+An exchange (or exchange transaction) is a reciprocal transfer between two entities that results in one of the entities acquiring assets or services or satisfying liabilities by surrendering other assets or services or incurring other obligations.
+
+##### Fair Value
+
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+
+##### Finance Lease
+
+From the perspective of a lessee, a lease that meets one or more of the criteria in paragraph 842-10-25-2.
+From the perspective of a lessee, a lease that meets one or more of the criteria in paragraph 842-10-25-2.
+
+##### Financial Asset
+
+1. Receive cash or another financial instrument from a second entity
+2. Exchange other financial instruments on potentially favorable terms with the second entity.
+
+Receive cash or another financial instrument from a second entity
+2. Exchange other financial instruments on potentially favorable terms with the second entity.
+
+##### Financial Statements Are Available to Be Issued
+
+Financial statements are considered available to be issued when they are complete in a form and format that complies with GAAP and all approvals necessary for issuance have been obtained, for example, from management, the board of directors, and/or significant shareholders. The process involved in creating and distributing the financial statements will vary depending on an entity's management and corporate governance structure as well as statutory and regulatory requirements.
+Financial statements are considered available to be issued when they are complete in a form and format that complies with GAAP and all approvals necessary for issuance have been obtained, for example, from management, the board of directors, and/or significant shareholders. The process involved in creating and distributing the financial statements will vary depending on an entity's management and corporate governance structure as well as statutory and regulatory requirements.
+
+##### Gain Contingency
+
+An existing condition, situation, or set of circumstances involving uncertainty as to possible gain to an entity that will ultimately be resolved when one or more future events occur or fail to occur.
+An existing condition, situation, or set of circumstances involving uncertainty as to possible gain to an entity that will ultimately be resolved when one or more future events occur or fail to occur.
+
+##### Goodwill
+
+An asset representing the future economic benefits arising from other assets acquired in a business combination or an acquisition by a not-for-profit entity that are not individually identified and separately recognized. For ease of reference, this term also includes the immediate charge recognized by not-for-profit entities in accordance with paragraph 958-805-25-29. PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1An asset representing the future economic benefits arising from other assets acquired in a business combination, acquired in an acquisition by a not-for-profit entity, or recognized by a joint venture upon formation that are not individually identified and separately recognized. For ease of reference, this term also includes the immediate charge recognized by not-for-profit entities in accordance with paragraph 958-805-25-29.
+An asset representing the future economic benefits arising from other assets acquired in a business combination or an acquisition by a not-for-profit entity that are not individually identified and separately recognized. For ease of reference, this term also includes the immediate charge recognized by not-for-profit entities in accordance with paragraph 958-805-25-29.
+
+##### Government Grant
+
+PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1An asset representing the future economic benefits arising from other assets acquired in a business combination, acquired in an acquisition by a not-for-profit entity, or recognized by a joint venture upon formation that are not individually identified and separately recognized. For ease of reference, this term also includes the immediate charge recognized by not-for-profit entities in accordance with paragraph 958-805-25-29. PENDING CONTENTTransition date: December 16, 2028; December 16, 2029Transition guidance:832-10-65-2A transfer of a monetary asset or a tangible nonmonetary asset, other than in an exchange transaction (including an exchange transaction that may be at a significant discount to fair value), from a government to an entity except for a not-for-profit entity and an employee benefit plan within the scope of Topics 960, 962, and 965 on plan accounting.
+
+##### Grant Related to an        Asset
+
+PENDING CONTENTTransition date: December 16, 2028; December 16, 2029Transition guidance:832-10-65-2A transfer of a monetary asset or a tangible nonmonetary asset, other than in an exchange transaction (including an exchange transaction that may be at a significant discount to fair value), from a government to an entity except for a not-for-profit entity and an employee benefit plan within the scope of Topics 960, 962, and 965 on plan accounting.PENDING CONTENTTransition date: December 16, 2028; December 16, 2029Transition guidance:832-10-65-2A government grant, or part of a government grant, that is conditioned on the purchase, construction, or acquisition of an asset (for example, a long-lived asset or inventory). Other conditions also may be attached, such as restricting the type or location of the asset, the periods during which the asset is to be acquired or held, or the disposal of the asset.
+
+##### Grant Related to        Income
+
+PENDING CONTENTTransition date: December 16, 2028; December 16, 2029Transition guidance:832-10-65-2A government grant, or part of a government grant, that is conditioned on the purchase, construction, or acquisition of an asset (for example, a long-lived asset or inventory). Other conditions also may be attached, such as restricting the type or location of the asset, the periods during which the asset is to be acquired or held, or the disposal of the asset.PENDING CONTENTTransition date: December 16, 2028; December 16, 2029Transition guidance:832-10-65-2A government grant, or part of a government grant, other than a grant related to an asset (for example, a grant that reimburses an entity for operating expenses).
+
+##### Identifiable
+
+1. It is separable, that is, capable of being separated or divided from the entity and sold, transferred, licensed, rented, or exchanged, either individually or together with a related contract, identifiable asset, or liability, regardless of whether the entity intends to do so.
+2. It arises from contractual or other legal rights, regardless of whether those rights are transferable or separable from the entity or from other rights and obligations.
+
+It is separable, that is, capable of being separated or divided from the entity and sold, transferred, licensed, rented, or exchanged, either individually or together with a related contract, identifiable asset, or liability, regardless of whether the entity intends to do so.
+2. It arises from contractual or other legal rights, regardless of whether those rights are transferable or separable from the entity or from other rights and obligations.
+
+##### Income Taxes
+
+Domestic and foreign federal (national), state, and local (including franchise) taxes based on income.
+Domestic and foreign federal (national), state, and local (including franchise) taxes based on income.
+
+##### Intangible Assets
+
+Assets (not including financial assets) that lack physical substance. (The term intangible assets is used to refer to intangible assets other than goodwill.)
+Assets (not including financial assets) that lack physical substance. (The term intangible assets is used to refer to intangible assets other than goodwill.)
+
+##### Joint Venture
+
+An entity owned and operated by a small group of businesses (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a joint venture frequently is to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a joint venture. The ownership of a joint venture seldom changes, and its equity interests usually are not traded publicly. A minority public ownership, however, does not preclude an entity from being a joint venture. As distinguished from a corporate joint venture, a joint venture is not limited to corporate entities.
+An entity owned and operated by a small group of businesses (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a joint venture frequently is to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a joint venture. The ownership of a joint venture seldom changes, and its equity interests usually are not traded publicly. A minority public ownership, however, does not preclude an entity from being a joint venture. As distinguished from a corporate joint venture, a joint venture is not limited to corporate entities.
+
+##### Lease
+
+A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
+A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
+
+##### Lease Liability
+
+A lessee's obligation to make the lease payments arising from a lease, measured on a discounted basis.
+A lessee's obligation to make the lease payments arising from a lease, measured on a discounted basis.
+
+##### Lease Payments
+
+See paragraph 842-10-30-5 for what constitutes lease payments from the perspective of a lessee and a lessor.
+See paragraph 842-10-30-5 for what constitutes lease payments from the perspective of a lessee and a lessor.
+
+##### Lease Receivable
+
+A lessor's right to receive lease payments arising from a sales-type lease or a direct financing lease plus any amount that a lessor expects to derive from the underlying asset following the end of the lease term to the extent that it is guaranteed by the lessee or any other third party unrelated to the lessor, measured on a discounted basis.
+A lessor's right to receive lease payments arising from a sales-type lease or a direct financing lease plus any amount that a lessor expects to derive from the underlying asset following the end of the lease term to the extent that it is guaranteed by the lessee or any other third party unrelated to the lessor, measured on a discounted basis.
+
+##### Lease Term
+
+Periods covered by an option to extend the lease if the lessee is reasonably certain to exercise that option
+2. Periods covered by an option to terminate the lease if the lessee is reasonably certain not to exercise that option
+3. Periods covered by an option to extend (or not to terminate) the lease in which exercise of the option is controlled by the lessor.
+
+Periods covered by an option to extend the lease if the lessee is reasonably certain to exercise that option
+Periods covered by an option to terminate the lease if the lessee is reasonably certain not to exercise that option
+3. Periods covered by an option to extend (or not to terminate) the lease in which exercise of the option is controlled by the lessor.
+
+##### Legal Entity
+
+Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts.
+Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts.
+
+##### Lessee
+
+An entity that enters into a contract to obtain the right to use an underlying asset for a period of time in exchange for consideration.
+An entity that enters into a contract to obtain the right to use an underlying asset for a period of time in exchange for consideration.
+
+##### Lessor
+
+An entity that enters into a contract to provide the right to use an underlying asset for a period of time in exchange for consideration.
+An entity that enters into a contract to provide the right to use an underlying asset for a period of time in exchange for consideration.
+
+##### Loss Contingency
+
+An existing condition, situation, or set of circumstances involving uncertainty as to possible loss to an entity that will ultimately be resolved when one or more future events occur or fail to occur. The term loss is used for convenience to include many charges against income that are commonly referred to as expenses and others that are commonly referred to as losses.
+An existing condition, situation, or set of circumstances involving uncertainty as to possible loss to an entity that will ultimately be resolved when one or more future events occur or fail to occur. The term loss is used for convenience to include many charges against income that are commonly referred to as expenses and others that are commonly referred to as losses.
+
+##### Market Participants
+
+1. They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
+3. They are able to enter into a transaction for the asset or liability
+4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
+
+They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
+3. They are able to enter into a transaction for the asset or liability
+4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
+
+##### Mineral Rights
+
+The legal right to explore, extract, and retain at least a portion of the benefits from mineral deposits.
+The legal right to explore, extract, and retain at least a portion of the benefits from mineral deposits.
+
+##### Monetary Assets
+
+Money or a claim to receive a sum of money the amount of which is fixed or determinable without reference to future prices of specific goods or services.
+Money or a claim to receive a sum of money the amount of which is fixed or determinable without reference to future prices of specific goods or services.
+
+##### Net Investment in the        Lease
+
+For a sales-type lease, the sum of the lease receivable and the unguaranteed residual asset.
+For a direct financing lease, the sum of the lease receivable and the unguaranteed residual asset, net of any deferred selling profit.
+For a sales-type lease, the sum of the lease receivable and the unguaranteed residual asset.
+For a direct financing lease, the sum of the lease receivable and the unguaranteed residual asset, net of any deferred selling profit.
+
+##### Noncontrolling Interest
+
+The portion of equity (net assets) in a subsidiary not attributable, directly or indirectly, to a parent. A noncontrolling interest is sometimes called a minority interest.
+The portion of equity (net assets) in a subsidiary not attributable, directly or indirectly, to a parent. A noncontrolling interest is sometimes called a minority interest.
+
+##### Nonreciprocal Transfer
+
+Nonreciprocal transfer is a transfer of assets or services in one direction, either from an entity to its owners (whether or not in exchange for their ownership interests) or to another entity, or from owners or another entity to the entity. An entity's reacquisition of its outstanding stock is an example of a nonreciprocal transfer.
+Nonreciprocal transfer is a transfer of assets or services in one direction, either from an entity to its owners (whether or not in exchange for their ownership interests) or to another entity, or from owners or another entity to the entity. An entity's reacquisition of its outstanding stock is an example of a nonreciprocal transfer.
+
+##### Not-for-Profit Entity
+
+1. Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
+2. Operating purposes other than to provide goods or services at a profit
+3. Absence of ownership interests like those of business entities.
+
+1. All investor-owned entities
+2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
+
+Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
+2. Operating purposes other than to provide goods or services at a profit
+3. Absence of ownership interests like those of business entities.
+
+All investor-owned entities
+2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
+
+##### Operating                Lease
+
+From the perspective of a lessee, any lease other than a finance lease.
+From the perspective of a lessor, any lease other than a sales-type lease or a direct financing lease.
+From the perspective of a lessee, any lease other than a finance lease.
+From the perspective of a lessor, any lease other than a sales-type lease or a direct financing lease.
+
+##### Orderly Transaction
+
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+
+##### Performance Obligation
+
+1. A good or service (or a bundle of goods or services) that is distinct
+2. A series of distinct goods or services that are substantially the same and that have the same pattern of transfer to the customer.
+
+A good or service (or a bundle of goods or services) that is distinct
+2. A series of distinct goods or services that are substantially the same and that have the same pattern of transfer to the customer.
+
+##### Private Company
+
+An entity other than a public business entity, a not-for-profit entity, or an employee benefit plan within the scope of Topics 960 through 965 on plan accounting.
+An entity other than a public business entity, a not-for-profit entity, or an employee benefit plan within the scope of Topics 960 through 965 on plan accounting.
+
+##### Probable
+
+The future event or events are likely to occur.
+The future event or events are likely to occur.
+
+##### Public Business Entity
+
+1. It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing).
+2. It is required by the Securities Exchange Act of 1934 (the Act), as amended, or rules or regulations promulgated under the Act, to file or furnish financial statements with a regulatory agency other than the SEC.
+3. It is required to file or furnish financial statements with a foreign or domestic regulatory agency in preparation for the sale of or for purposes of issuing securities that are not subject to contractual restrictions on transfer.
+4. It has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market.
+5. It has one or more securities that are not subject to contractual restrictions on transfer, and it is required by law, contract, or regulation to prepare U.S. GAAP financial statements (including notes) and make them publicly available on a periodic basis (for example, interim or annual periods). An entity must meet both of these conditions to meet this criterion.
+
+An entity may meet the definition of a public business entity solely because its financial statements or financial information is included in another entity's filing with the SEC. In that case, the entity is only a public business entity for purposes of financial statements that are filed or furnished with the SEC.
+It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing).
+2. It is required by the Securities Exchange Act of 1934 (the Act), as amended, or rules or regulations promulgated under the Act, to file or furnish financial statements with a regulatory agency other than the SEC.
+3. It is required to file or furnish financial statements with a foreign or domestic regulatory agency in preparation for the sale of or for purposes of issuing securities that are not subject to contractual restrictions on transfer.
+4. It has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market.
+5. It has one or more securities that are not subject to contractual restrictions on transfer, and it is required by law, contract, or regulation to prepare U.S. GAAP financial statements (including notes) and make them publicly available on a periodic basis (for example, interim or annual periods). An entity must meet both of these conditions to meet this criterion.
+
+##### Purchased Financial Assets with Credit Deterioration
+
+An entity may meet the definition of a public business entity solely because its financial statements or financial information is included in another entity's filing with the SEC. In that case, the entity is only a public business entity for purposes of financial statements that are filed or furnished with the SEC. Acquired individual financial assets (or acquired groups of financial assets with similar risk characteristics) that as of the date of acquisition have experienced a more-than-insignificant deterioration in credit quality since origination, as determined by an acquirer's assessment. See paragraph 326-20-55-5 for more information on the meaning of similar risk characteristics for assets measured on an amortized cost basis.
+Acquired individual financial assets (or acquired groups of financial assets with similar risk characteristics) that as of the date of acquisition have experienced a more-than-insignificant deterioration in credit quality since origination, as determined by an acquirer's assessment. See paragraph 326-20-55-5 for more information on the meaning of similar risk characteristics for assets measured on an amortized cost basis.
+
+##### Purchased Seasoned                        Loans
+
+PENDING CONTENT Transition date: December 16, 2026; December 16, 2026Transition guidance: 326-10-65-7 Paragraphs 326-20-30-16 through 30-18 define the term *purchased seasoned loans*.
+
+##### Reinsurance
+
+PENDING CONTENT Transition date: December 16, 2026; December 16, 2026Transition guidance: 326-10-65-7 Paragraphs 326-20-30-16 through 30-18 define the term *purchased seasoned loans*. A transaction in which a reinsurer (assuming entity), for a consideration (premium), assumes all or part of a risk undertaken originally by another insurer (ceding entity). For indemnity reinsurance, the legal rights of the insured are not affected by the reinsurance transaction and the insurance entity issuing the insurance contract remains liable to the insured for payment of policy benefits. Assumption or novation reinsurance contracts that are legal replacements of one insurer by another extinguish the ceding entity's liability to the policyholder.
+A transaction in which a reinsurer (assuming entity), for a consideration (premium), assumes all or part of a risk undertaken originally by another insurer (ceding entity). For indemnity reinsurance, the legal rights of the insured are not affected by the reinsurance transaction and the insurance entity issuing the insurance contract remains liable to the insured for payment of policy benefits. Assumption or novation reinsurance contracts that are legal replacements of one insurer by another extinguish the ceding entity's liability to the policyholder.
+
+##### Related Parties
+
+1. Affiliates of the entity
+2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
+3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
+4. Principal owners of the entity and members of their immediate families
+5. Management of the entity and members of their immediate families
+6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
+7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
+
+Affiliates of the entity
+2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
+3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
+4. Principal owners of the entity and members of their immediate families
+5. Management of the entity and members of their immediate families
+6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
+7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
+
+##### Right-of-Use                Asset
+
+An asset that represents a lessee's right to use an underlying asset for the lease term.
+An asset that represents a lessee's right to use an underlying asset for the lease term.
+
+##### Sales-Type                Lease
+
+From the perspective of a lessor, a lease that meets one or more of the criteria in paragraph 842-10-25-2 and is not an operating lease in accordance with paragraph 842-10-25-3A.
+From the perspective of a lessor, a lease that meets one or more of the criteria in paragraph 842-10-25-2 and is not an operating lease in accordance with paragraph 842-10-25-3A.
+
+##### Security
+
+1. It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
+2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
+3. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
+
+It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
+2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
+3. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
+
+##### Standalone Selling Price
+
+The price at which an entity would sell a promised good or service separately to a customer.
+The price at which an entity would sell a promised good or service separately to a customer.
+
+##### Sublease
+
+A transaction in which an underlying asset is re-leased by the lessee (or intermediate lessor) to a third party (the sublessee) and the original (or head) lease between the lessor and the lessee remains in effect.
+A transaction in which an underlying asset is re-leased by the lessee (or intermediate lessor) to a third party (the sublessee) and the original (or head) lease between the lessor and the lessee remains in effect.
+
+##### Transaction Price
+
+The amount of consideration to which an entity expects to be entitled in exchange for transferring promised goods or services to a customer, excluding amounts collected on behalf of third parties.
+The amount of consideration to which an entity expects to be entitled in exchange for transferring promised goods or services to a customer, excluding amounts collected on behalf of third parties.
+
+##### Underlying Asset
+
+An asset that is the subject of a lease for which a right to use that asset has been conveyed to a lessee. The underlying asset could be a physically distinct portion of a single asset.
+An asset that is the subject of a lease for which a right to use that asset has been conveyed to a lessee. The underlying asset could be a physically distinct portion of a single asset.
+
+##### Unguaranteed Residual                Asset
+
+The amount that a lessor expects to derive from the underlying asset following the end of the lease term that is not guaranteed by the lessee or any other third party unrelated to the lessor, measured on a discounted basis.
+The amount that a lessor expects to derive from the underlying asset following the end of the lease term that is not guaranteed by the lessee or any other third party unrelated to the lessor, measured on a discounted basis.
+
+##### Variable Interest Entity
+
+A legal entity subject to consolidation according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
+A legal entity subject to consolidation according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
+
+## 25 Recognition
+
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+
+### General
+
+**805-20-25-1** Related Proposed ASUs > Recognition Principle
+As of the acquisition date
+, the acquirer shall recognize, separately from goodwill, the identifiable assets acquired, the liabilities assumed, and any noncontrolling interest in the acquiree. Recognition of identifiable assets acquired and liabilities assumed is subject to the conditions specified in paragraphs 805-20-25-2 through 25-3. However, an entity (the acquirer) within the scope of paragraph 805-20-15-2 may elect to apply the accounting alternative for the recognition of identifiable intangible assets acquired in a business combination as described in paragraphs 805-20-25-29 through 25-33.
+**805-20-25-1** As of the acquisition date
+
+##### · > Recognition Conditions
+
+**805-20-25-2** , the acquirer shall recognize, separately from goodwill, the identifiable assets acquired, the liabilities assumed, and any noncontrolling interest in the acquiree. Recognition of identifiable assets acquired and liabilities assumed is subject to the conditions specified in paragraphs 805-20-25-2 through 25-3. However, an entity (the acquirer) within the scope of paragraph 805-20-15-2 may elect to apply the accounting alternative for the recognition of identifiable intangible assets acquired in a business combination as described in paragraphs 805-20-25-29 through 25-33.
+To qualify for recognition as part of applying the acquisition method, the identifiable assets acquired and liabilities assumed must meet the definitions of assets and liabilities in FASB Concepts Statement No. 6, Elements of Financial Statements, at the acquisition date. For example, costs the acquirer expects but is not obligated to incur in the future to effect its plan to exit an activity of an acquiree or to terminate the employment of or relocate an acquiree's employees are not liabilities at the acquisition date. Therefore, the acquirer does not recognize those costs as part of applying the acquisition method. Instead, the acquirer recognizes those costs in its postcombination financial statements in accordance with other applicable generally accepted accounting principles (GAAP).
+PENDING CONTENTTransition date: December 16, 2024; December 16, 2025Transition guidance:105-10-65-9To qualify for recognition as part of applying the acquisition method, the identifiable assets acquired and liabilities assumed must exist at the acquisition date. For example, costs the acquirer expects but is not obligated to incur in the future to effect its plan to exit an activity of an acquiree or to terminate the employment of or relocate an acquiree's employees are not liabilities at the acquisition date. Therefore, the acquirer does not recognize those costs as part of applying the acquisition method. Instead, the acquirer recognizes those costs in its postcombination financial statements in accordance with other applicable generally accepted accounting principles (GAAP).
+**805-20-25-2** To qualify for recognition as part of applying the acquisition method, the identifiable assets acquired and liabilities assumed must meet the definitions of assets and liabilities in FASB Concepts Statement No. 6, Elements of Financial Statements, at the acquisition date. For example, costs the acquirer expects but is not obligated to incur in the future to effect its plan to exit an activity of an acquiree or to terminate the employment of or relocate an acquiree's employees are not liabilities at the acquisition date. Therefore, the acquirer does not recognize those costs as part of applying the acquisition method. Instead, the acquirer recognizes those costs in its postcombination financial statements in accordance with other applicable generally accepted accounting principles (GAAP).
+**805-20-25-3** PENDING CONTENTTransition date: December 16, 2024; December 16, 2025Transition guidance:105-10-65-9To qualify for recognition as part of applying the acquisition method, the identifiable assets acquired and liabilities assumed must exist at the acquisition date. For example, costs the acquirer expects but is not obligated to incur in the future to effect its plan to exit an activity of an acquiree or to terminate the employment of or relocate an acquiree's employees are not liabilities at the acquisition date. Therefore, the acquirer does not recognize those costs as part of applying the acquisition method. Instead, the acquirer recognizes those costs in its postcombination financial statements in accordance with other applicable generally accepted accounting principles (GAAP).
+In addition, to qualify for recognition as part of applying the acquisition method, the identifiable assets acquired and liabilities assumed must be part of what the acquirer and the acquiree (or its former owners) exchanged in the business combination
+transaction rather than the result of separate transactions. The acquirer shall apply the guidance in paragraphs 805-10-25-20 through 25-23 to determine which assets acquired or liabilities assumed are part of the exchange for the acquiree and which, if any, are the result of separate transactions to be accounted for in accordance with their nature and the applicable GAAP.
+**805-20-25-3** In addition, to qualify for recognition as part of applying the acquisition method, the identifiable assets acquired and liabilities assumed must be part of what the acquirer and the acquiree (or its former owners) exchanged in the business combination
+**805-20-25-4** transaction rather than the result of separate transactions. The acquirer shall apply the guidance in paragraphs 805-10-25-20 through 25-23 to determine which assets acquired or liabilities assumed are part of the exchange for the acquiree and which, if any, are the result of separate transactions to be accounted for in accordance with their nature and the applicable GAAP.
+The acquirer's application of the recognition principle and conditions may result in recognizing some assets and liabilities that the acquiree had not previously recognized as assets and liabilities in its financial statements. For example, the acquirer recognizes the acquired identifiable intangible assets
+, such as a brand name, a patent, or a customer relationship, that the acquiree did not recognize as assets in its financial statements because it developed them internally and charged the related costs to expense.
+**805-20-25-4** The acquirer's application of the recognition principle and conditions may result in recognizing some assets and liabilities that the acquiree had not previously recognized as assets and liabilities in its financial statements. For example, the acquirer recognizes the acquired identifiable intangible assets
+**805-20-25-5** , such as a brand name, a patent, or a customer relationship, that the acquiree did not recognize as assets in its financial statements because it developed them internally and charged the related costs to expense.
+Paragraphs 805-20-25-11 through 25-12
+provide guidance on recognizing operating leases and paragraphs 805-20-55-2 through 55-45 provide guidance on recognizing intangible assets. Paragraphs 805-20-25-17 through 25-28B specify the types of identifiable assets and liabilities that include items for which this Subtopic and Subtopic 805-740 provide limited exceptions to the recognition principle and conditions in paragraphs 805-20-25-1 through 25-3. PENDING CONTENTTransition date: December 16, 2028; December 16, 2029Transition guidance:832-10-65-2Paragraphs 805-20-25-11 through 25-12 provide guidance on recognizing operating leases and paragraphs 805-20-55-2 through 55-45 provide guidance on recognizing intangible assets. Paragraphs 805-20-25-17 through 25-28Dspecify the types of identifiable assets and liabilities that include items for which this Subtopic and Subtopic 805-740 provide limited exceptions to the recognition principle and conditions in paragraphs 805-20-25-1 through 25-3.
+**805-20-25-5** Paragraphs 805-20-25-11 through 25-12
+
+##### · > Classifying or Designating                Identifiable Assets Acquired and Liabilities Assumed in a Business                Combination
+
+**805-20-25-6** provide guidance on recognizing operating leases and paragraphs 805-20-55-2 through 55-45 provide guidance on recognizing intangible assets. Paragraphs 805-20-25-17 through 25-28B specify the types of identifiable assets and liabilities that include items for which this Subtopic and Subtopic 805-740 provide limited exceptions to the recognition principle and conditions in paragraphs 805-20-25-1 through 25-3. PENDING CONTENTTransition date: December 16, 2028; December 16, 2029Transition guidance:832-10-65-2Paragraphs 805-20-25-11 through 25-12 provide guidance on recognizing operating leases and paragraphs 805-20-55-2 through 55-45 provide guidance on recognizing intangible assets. Paragraphs 805-20-25-17 through 25-28Dspecify the types of identifiable assets and liabilities that include items for which this Subtopic and Subtopic 805-740 provide limited exceptions to the recognition principle and conditions in paragraphs 805-20-25-1 through 25-3.
+At the acquisition date, the acquirer shall classify or designate the identifiable assets acquired and liabilities assumed as necessary to subsequently apply other GAAP. The acquirer shall make those classifications or designations on the basis of the contractual terms, economic conditions, its operating or accounting policies, and other pertinent conditions as they exist at the acquisition date.
+**805-20-25-6** At the acquisition date, the acquirer shall classify or designate the identifiable assets acquired and liabilities assumed as necessary to subsequently apply other GAAP. The acquirer shall make those classifications or designations on the basis of the contractual terms, economic conditions, its operating or accounting policies, and other pertinent conditions as they exist at the acquisition date.
+**805-20-25-7** Classification of particular investments in securities as trading, available for sale, or held to maturity in accordance with Section 320-10-25
+2. Designation of a derivative instrument as a hedging instrument in accordance with paragraph 815-10-05-4
+3. Assessment of whether an embedded derivative should be separated from the host contract in accordance with Section 815-15-25 (which is a matter of classification as this Subtopic uses that term).
+
+**805-20-25-7** Classification of particular investments in securities as trading, available for sale, or held to maturity in accordance with Section 320-10-25
+2. Designation of a derivative instrument as a hedging instrument in accordance with paragraph 815-10-05-4
+3. Assessment of whether an embedded derivative should be separated from the host contract in accordance with Section 815-15-25 (which is a matter of classification as this Subtopic uses that term).
+
+**805-20-25-8** Classification of a lease of an acquiree shall be in accordance with the guidance in paragraph 842-10-55-11
+2. Classification of a contract written by an entity that is in the scope of Subtopic 944-10 as an insurance or reinsurance contract or a deposit contract. The acquirer shall classify that contract on the basis of the contractual terms and other factors at the inception of the contract (or, if the terms of the contract have been modified in a manner that would change its classification, at the date of that modification, which might be the acquisition date).
+
+**805-20-25-8** Classification of a lease of an acquiree shall be in accordance with the guidance in paragraph 842-10-55-11
+2. Classification of a contract written by an entity that is in the scope of Subtopic 944-10 as an insurance or reinsurance contract or a deposit contract. The acquirer shall classify that contract on the basis of the contractual terms and other factors at the inception of the contract (or, if the terms of the contract have been modified in a manner that would change its classification, at the date of that modification, which might be the acquisition date).
+
+**805-20-25-9** > Recognizing Particular Assets Acquired and Liabilities Assumed
+Guidance on recognizing identifiable intangible assets, including reacquired rights, follows.
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:818-10-65-1Guidance on recognizing particular assets acquired and liabilities assumed is as follows.
+**805-20-25-9** Guidance on recognizing identifiable intangible assets, including reacquired rights, follows.
+
+##### · > Identifiable Intangible                Assets
+
+**805-20-25-10** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:818-10-65-1Guidance on recognizing particular assets acquired and liabilities assumed is as follows.
+The acquirer shall recognize separately from goodwill the identifiable intangible assets acquired in a business combination. An intangible asset is identifiable if it meets either the separability criterion or the contractual-legal criterion described in the definition of identifiable. Additional guidance on applying that definition is provided in paragraphs 805-20-25-14 through 25-15
+, 805-20-55-2 through 55-45, and Example 1 (see paragraph 805-20-55-52). For guidance on the recognition and subsequent measurement of a defensive intangible asset, see Subtopic 350-30.
+**805-20-25-10** The acquirer shall recognize separately from goodwill the identifiable intangible assets acquired in a business combination. An intangible asset is identifiable if it meets either the separability criterion or the contractual-legal criterion described in the definition of identifiable. Additional guidance on applying that definition is provided in paragraphs 805-20-25-14 through 25-15
+**805-20-25-10A** , 805-20-55-2 through 55-45, and Example 1 (see paragraph 805-20-55-52). For guidance on the recognition and subsequent measurement of a defensive intangible asset, see Subtopic 350-30.
+An identifiable intangible asset may be associated with a lease
+, which may be evidenced by market participants' willingness to pay a price for the lease even if it is at market terms. For example, a lease of gates at an airport or of retail space in a prime shopping area might provide entry into a market or other future economic benefits that qualify as identifiable intangible assets, such as a customer relationship. In that situation, the acquirer shall recognize the associated identifiable intangible asset(s) in accordance with paragraph 805-20-25-10.
+**805-20-25-10A** An identifiable intangible asset may be associated with a lease
+
+##### · > Operating Leases
+
+**805-20-25-11** , which may be evidenced by market participants' willingness to pay a price for the lease even if it is at market terms. For example, a lease of gates at an airport or of retail space in a prime shopping area might provide entry into a market or other future economic benefits that qualify as identifiable intangible assets, such as a customer relationship. In that situation, the acquirer shall recognize the associated identifiable intangible asset(s) in accordance with paragraph 805-20-25-10.
+The acquirer shall recognize assets or liabilities related to an operating lease
+in which the acquiree is the lessee as required by paragraphs 805-20-25-10A and 805-20-25-28A.
+**805-20-25-11** The acquirer shall recognize assets or liabilities related to an operating lease
+**805-20-25-12** in which the acquiree is the lessee as required by paragraphs 805-20-25-10A and 805-20-25-28A.
+Regardless of whether the acquiree is the lessee or the lessor
+, the acquirer shall determine whether the terms of each of an acquiree's operating leases are favorable or unfavorable compared with the market terms of leases of the same or similar items at the acquisition date. If the acquiree is a lessor, the acquirer shall recognize an intangible asset if the terms of an operating lease are favorable relative to market terms and a liability if the terms are unfavorable relative to market terms. If the acquiree is a lessee, the acquirer shall adjust the measurement of the acquired right-of-use asset for any favorable or unfavorable terms in accordance with paragraph 805-20-30-24.
+**805-20-25-12** Regardless of whether the acquiree is the lessee or the lessor
+**805-20-25-13** , the acquirer shall determine whether the terms of each of an acquiree's operating leases are favorable or unfavorable compared with the market terms of leases of the same or similar items at the acquisition date. If the acquiree is a lessor, the acquirer shall recognize an intangible asset if the terms of an operating lease are favorable relative to market terms and a liability if the terms are unfavorable relative to market terms. If the acquiree is a lessee, the acquirer shall adjust the measurement of the acquired right-of-use asset for any favorable or unfavorable terms in accordance with paragraph 805-20-30-24.
+Paragraph superseded by Accounting Standards Update No. 2016-02
+**805-20-25-13** Paragraph superseded by Accounting Standards Update No. 2016-02
+
+##### · > Reacquired Rights
+
+**805-20-25-14** As part of a business combination, an acquirer may reacquire a right that it had previously granted to the acquiree to use one or more of the acquirer's recognized or unrecognized assets. Examples of such rights include a right to use the acquirer's trade name under a franchise agreement or a right to use the acquirer's technology under a technology licensing agreement. A reacquired right is an identifiable intangible asset that the acquirer recognizes separately from goodwill. Paragraph 805-20-30-20 provides guidance on measuring a reacquired right, and paragraph 805-20-35-2 provides guidance on the subsequent accounting for a reacquired right.
+**805-20-25-14** As part of a business combination, an acquirer may reacquire a right that it had previously granted to the acquiree to use one or more of the acquirer's recognized or unrecognized assets. Examples of such rights include a right to use the acquirer's trade name under a franchise agreement or a right to use the acquirer's technology under a technology licensing agreement. A reacquired right is an identifiable intangible asset that the acquirer recognizes separately from goodwill. Paragraph 805-20-30-20 provides guidance on measuring a reacquired right, and paragraph 805-20-35-2 provides guidance on the subsequent accounting for a reacquired right.
+**805-20-25-15** If the terms of the contract giving rise to a reacquired right are favorable or unfavorable relative to the terms of current market transactions for the same or similar items, the acquirer shall recognize a settlement gain or loss. Paragraph 805-10-55-21 provides guidance for measuring that settlement gain or loss.
+**805-20-25-15** If the terms of the contract giving rise to a reacquired right are favorable or unfavorable relative to the terms of current market transactions for the same or similar items, the acquirer shall recognize a settlement gain or loss. Paragraph 805-10-55-21 provides guidance for measuring that settlement gain or loss.
+
+##### · > Contingent Consideration                Arrangements of an Acquiree Assumed by the Acquirer
+
+**805-20-25-15A** Contingent consideration arrangements of an acquiree assumed by the acquirer in a business combination shall be recognized initially at fair value in accordance with the guidance for contingent consideration arrangements in paragraph 805-30-25-5.
+**805-20-25-15A** Contingent consideration arrangements of an acquiree assumed by the acquirer in a business combination shall be recognized initially at fair value in accordance with the guidance for contingent consideration arrangements in paragraph 805-30-25-5.
+
+##### · > Environmental Credits
+
+**805-20-25-15B** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:818-10-65-1An acquirer shall recognize an environmental credit acquired in a business combination as an asset, regardless of whether it is probable that the acquirer will use that environmental credit to settle an environmental credit obligation, transfer the environmental credit in an exchange transaction, or use the environmental credit in a nonreciprocal transfer. An environmental credit recognized as an asset in a business combination shall subsequently be accounted for in accordance with Topic 818, including the recognition reassessment requirements in paragraph 818-20-40-2.
+**805-20-25-15C** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:818-10-65-1An acquirer shall recognize an environmental credit acquired in a business combination as an asset, regardless of whether it is probable that the acquirer will use that environmental credit to settle an environmental credit obligation, transfer the environmental credit in an exchange transaction, or use the environmental credit in a nonreciprocal transfer. An environmental credit recognized as an asset in a business combination shall subsequently be accounted for in accordance with Topic 818, including the recognition reassessment requirements in paragraph 818-20-40-2. PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:818-10-65-1An item acquired in a business combination that does not meet the definition of an environmental credit solely because it is not separately transferable in an exchange transaction at the acquisition date is not an identifiable asset and shall not be recognized as an asset.
+
+##### · > Environmental Credit Obligations
+
+**805-20-25-15D** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:818-10-65-1An item acquired in a business combination that does not meet the definition of an environmental credit solely because it is not separately transferable in an exchange transaction at the acquisition date is not an identifiable asset and shall not be recognized as an asset. PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:818-10-65-1When evaluating whether an environmental credit obligation liability should be recognized in a business combination, an entity shall determine whether environmental credits would be due assuming that the acquisition date is the end of the regulatory compliance period, regardless of whether the regulatory compliance period ends after the acquisition date.
+**805-20-25-16** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:818-10-65-1When evaluating whether an environmental credit obligation liability should be recognized in a business combination, an entity shall determine whether environmental credits would be due assuming that the acquisition date is the end of the regulatory compliance period, regardless of whether the regulatory compliance period ends after the acquisition date. > Exceptions to the Recognition Principle
+This Topic provides limited exceptions to the recognition and measurement principles applicable to business combinations. Paragraphs 805-20-25-17 through 25-28C specify the types of identifiable assets and liabilities that include items for which this Subtopic provides limited exceptions to the recognition principle in paragraph 805-20-25-1. The acquirer shall apply the specified GAAP or the specified requirements rather than that recognition principle to determine when to recognize the assets or liabilities identified in paragraphs 805-20-25-17 through 25-28C. That will result in some items being recognized either by applying recognition conditions in addition to those in paragraphs 805-20-25-2 through 25-3
+or by applying the requirements of other GAAP, with results that differ from applying the recognition principle and conditions in paragraphs 805-20-25-1 through 25-3. PENDING CONTENTTransition date: December 16, 2028; December 16, 2029Transition guidance:832-10-65-2This Topic provides limited exceptions to the recognition and measurement principles applicable to business combinations. Paragraphs 805-20-25-17 through 25-28Dspecify the types of identifiable assets and liabilities that include items for which this Subtopic provides limited exceptions to the recognition principle in paragraph 805-20-25-1. The acquirer shall apply the specified GAAP or the specified requirements rather than that recognition principle to determine when to recognize the assets or liabilities identified in paragraphs 805-20-25-17 through 25-28D. That will result in some items being recognized either by applying recognition conditions in addition to those in paragraphs 805-20-25-2 through 25-3 or by applying the requirements of other GAAP, with results that differ from applying the recognition principle and conditions in paragraphs 805-20-25-1 through 25-3.
+**805-20-25-16** This Topic provides limited exceptions to the recognition and measurement principles applicable to business combinations. Paragraphs 805-20-25-17 through 25-28C specify the types of identifiable assets and liabilities that include items for which this Subtopic provides limited exceptions to the recognition principle in paragraph 805-20-25-1. The acquirer shall apply the specified GAAP or the specified requirements rather than that recognition principle to determine when to recognize the assets or liabilities identified in paragraphs 805-20-25-17 through 25-28C. That will result in some items being recognized either by applying recognition conditions in addition to those in paragraphs 805-20-25-2 through 25-3
+**805-20-25-17** or by applying the requirements of other GAAP, with results that differ from applying the recognition principle and conditions in paragraphs 805-20-25-1 through 25-3. PENDING CONTENTTransition date: December 16, 2028; December 16, 2029Transition guidance:832-10-65-2This Topic provides limited exceptions to the recognition and measurement principles applicable to business combinations. Paragraphs 805-20-25-17 through 25-28Dspecify the types of identifiable assets and liabilities that include items for which this Subtopic provides limited exceptions to the recognition principle in paragraph 805-20-25-1. The acquirer shall apply the specified GAAP or the specified requirements rather than that recognition principle to determine when to recognize the assets or liabilities identified in paragraphs 805-20-25-17 through 25-28D. That will result in some items being recognized either by applying recognition conditions in addition to those in paragraphs 805-20-25-2 through 25-3 or by applying the requirements of other GAAP, with results that differ from applying the recognition principle and conditions in paragraphs 805-20-25-1 through 25-3.
+Assets and liabilities arising from contingencies
+2. Income taxes
+3. Employee benefits
+4. Indemnification assets
+5. Leases
+6. Contract assets and contract liabilities.
+
+1. Assets and liabilities arising from contingencies
+2. Income taxes
+3. Employee benefits
+4. Indemnification assets
+5. Leases
+6. Contract assets and contract liabilities
+7. Grants related to income.
+
+**805-20-25-17** Assets and liabilities arising from contingencies
+2. Income taxes
+3. Employee benefits
+4. Indemnification assets
+5. Leases
+6. Contract assets and contract liabilities.
+
+1. Assets and liabilities arising from contingencies
+2. Income taxes
+3. Employee benefits
+4. Indemnification assets
+5. Leases
+6. Contract assets and contract liabilities
+7. Grants related to income.
+
+**805-20-25-18** Paragraph not used.
+**805-20-25-18** Paragraph not used.
+
+##### · > Assets and Liabilities Arising                from Contingencies
+
+**805-20-25-18A** Assets acquired and liabilities assumed that would be within the scope of Topic 450 if not acquired or assumed in a business combination
+2. Assets or liabilities arising from contingencies that are not otherwise subject to specific guidance in this Subtopic.
+
+**805-20-25-18A** Assets acquired and liabilities assumed that would be within the scope of Topic 450 if not acquired or assumed in a business combination
+2. Assets or liabilities arising from contingencies that are not otherwise subject to specific guidance in this Subtopic.
+
+**805-20-25-19** · · > Acquisition Date Fair Value Determinable during Measurement Period
+If the acquisition-date fair value of the asset or liability arising from a contingency can be determined during the measurement period, that asset or liability shall be recognized at the acquisition date. For example, the acquisition-date fair value of a warranty obligation often can be determined.
+**805-20-25-19** If the acquisition-date fair value of the asset or liability arising from a contingency can be determined during the measurement period, that asset or liability shall be recognized at the acquisition date. For example, the acquisition-date fair value of a warranty obligation often can be determined.
+**805-20-25-20** · · > Acquisition Date Fair Value Not Determinable during Measurement Period
+Information available before the end of the measurement period indicates that it is probable that an asset existed or that a liability had been incurred at the acquisition date. It is implicit in this condition that it must be probable at the acquisition date that one or more future events confirming the existence of the asset or liability will occur.
+2. The amount of the asset or liability can be reasonably estimated.
+
+**805-20-25-20** Information available before the end of the measurement period indicates that it is probable that an asset existed or that a liability had been incurred at the acquisition date. It is implicit in this condition that it must be probable at the acquisition date that one or more future events confirming the existence of the asset or liability will occur.
+2. The amount of the asset or liability can be reasonably estimated.
+
+**805-20-25-20A** The criteria in paragraph 805-20-25-20 shall be applied using the guidance in Topic 450 for application of similar criteria in paragraph 450-20-25-2.
+**805-20-25-20A** The criteria in paragraph 805-20-25-20 shall be applied using the guidance in Topic 450 for application of similar criteria in paragraph 450-20-25-2.
+**805-20-25-20B** · · > Recognition Criteria Not Met during Measurement Period
+If the recognition criteria in paragraphs 805-20-25-19 through 25-20A are not met at the acquisition date using information that is available during the measurement period about facts and circumstances that existed as of the acquisition date, the acquirer shall not recognize an asset or liability as of the acquisition date. In periods after the acquisition date, the acquirer shall account for an asset or a liability arising from a contingency that does not meet the recognition criteria at the acquisition date in accordance with other applicable GAAP, including Topic 450, as appropriate.
+**805-20-25-20B** If the recognition criteria in paragraphs 805-20-25-19 through 25-20A are not met at the acquisition date using information that is available during the measurement period about facts and circumstances that existed as of the acquisition date, the acquirer shall not recognize an asset or liability as of the acquisition date. In periods after the acquisition date, the acquirer shall account for an asset or a liability arising from a contingency that does not meet the recognition criteria at the acquisition date in accordance with other applicable GAAP, including Topic 450, as appropriate.
+
+##### · > Income Taxes
+
+**805-20-25-21** Section 805-740-25 establishes the recognition guidance for accounting for income taxes in a business combination.
+**805-20-25-21** Section 805-740-25 establishes the recognition guidance for accounting for income taxes in a business combination.
+
+##### · > Employee Benefits
+
+**805-20-25-22** The acquirer shall recognize a liability (or asset, if any) related to the acquiree's employee benefit arrangements in accordance with other GAAP. For example, employee benefits in the scope of the guidance identified in paragraphs 805-20-25-23 through 25-26
+would be recognized in accordance with that guidance and as specified in those paragraphs.
+**805-20-25-22** The acquirer shall recognize a liability (or asset, if any) related to the acquiree's employee benefit arrangements in accordance with other GAAP. For example, employee benefits in the scope of the guidance identified in paragraphs 805-20-25-23 through 25-26
+**805-20-25-23** would be recognized in accordance with that guidance and as specified in those paragraphs. · · > Pension and Postretirement Benefits Other than Pensions
+Guidance on defined benefit pension plans is presented in Subtopic 715-30. If an acquiree sponsors a single-employer defined benefit pension plan, the acquirer shall recognize as part of the business combination an asset or a liability representing the funded status of the plan (see paragraph 715-30-25-1). Paragraph 805-20-30-15 provides guidance on determining that funded status. If an acquiree participates in a multiemployer plan, and it is probable as of the acquisition date that the acquirer will withdraw from that plan, the acquirer shall recognize as part of the business combination a withdrawal liability in accordance with Subtopic 450-20.
+**805-20-25-23** Guidance on defined benefit pension plans is presented in Subtopic 715-30. If an acquiree sponsors a single-employer defined benefit pension plan, the acquirer shall recognize as part of the business combination an asset or a liability representing the funded status of the plan (see paragraph 715-30-25-1). Paragraph 805-20-30-15 provides guidance on determining that funded status. If an acquiree participates in a multiemployer plan, and it is probable as of the acquisition date that the acquirer will withdraw from that plan, the acquirer shall recognize as part of the business combination a withdrawal liability in accordance with Subtopic 450-20.
+**805-20-25-24** The Settlements, Curtailments, and Certain Termination Benefits Subsections of Sections 715-30-25 and 715-30-35 establish the recognition guidance related to accounting for settlements and curtailments of defined benefit pension plans and certain termination benefits.
+**805-20-25-24** The Settlements, Curtailments, and Certain Termination Benefits Subsections of Sections 715-30-25 and 715-30-35 establish the recognition guidance related to accounting for settlements and curtailments of defined benefit pension plans and certain termination benefits.
+**805-20-25-25** Guidance on defined benefit other postretirement plans is presented in Subtopic 715-60. If an acquiree sponsors a single-employer defined benefit postretirement plan, the acquirer shall recognize as part of the business combination an asset or a liability representing the funded status of the plan (see paragraph 715-60-25-1). Paragraph 805-20-30-15 provides guidance on determining that funded status. If an acquiree participates in a multiemployer plan and it is probable as of the acquisition date that the acquirer will withdraw from that plan, the acquirer shall recognize as part of the business combination a withdrawal liability in accordance with Subtopic 450-20.
+**805-20-25-25** Guidance on defined benefit other postretirement plans is presented in Subtopic 715-60. If an acquiree sponsors a single-employer defined benefit postretirement plan, the acquirer shall recognize as part of the business combination an asset or a liability representing the funded status of the plan (see paragraph 715-60-25-1). Paragraph 805-20-30-15 provides guidance on determining that funded status. If an acquiree participates in a multiemployer plan and it is probable as of the acquisition date that the acquirer will withdraw from that plan, the acquirer shall recognize as part of the business combination a withdrawal liability in accordance with Subtopic 450-20.
+**805-20-25-26** · · > Other Employee Benefit Arrangements
+One-time termination benefits in connection with exit or disposal activities. See Section 420-10-25.
+2. Compensated absences. See Section 710-10-25.
+3. Deferred compensation contracts. See Section 710-10-25.
+4. Nonretirement postemployment benefits. See Section 712-10-25.
+
+**805-20-25-26** One-time termination benefits in connection with exit or disposal activities. See Section 420-10-25.
+2. Compensated absences. See Section 710-10-25.
+3. Deferred compensation contracts. See Section 710-10-25.
+4. Nonretirement postemployment benefits. See Section 712-10-25.
+
+##### · > Indemnification Assets
+
+**805-20-25-27** The seller in a business combination may contractually indemnify the acquirer for the outcome of a contingency or uncertainty related to all or part of a specific asset or liability. For example, the seller may indemnify the acquirer against losses above a specified amount on a liability arising from a particular contingency; in other words, the seller will guarantee that the acquirer's liability will not exceed a specified amount. As a result, the acquirer obtains an indemnification asset. The acquirer shall recognize an indemnification asset at the same time that it recognizes the indemnified item, measured on the same basis as the indemnified item, subject to the need for a valuation allowance for uncollectible amounts. Therefore, if the indemnification relates to an asset or a liability that is recognized at the acquisition date and measured at its acquisition-date fair value, the acquirer shall recognize the indemnification asset at the acquisition date measured at its acquisition-date fair value.
+**805-20-25-27** The seller in a business combination may contractually indemnify the acquirer for the outcome of a contingency or uncertainty related to all or part of a specific asset or liability. For example, the seller may indemnify the acquirer against losses above a specified amount on a liability arising from a particular contingency; in other words, the seller will guarantee that the acquirer's liability will not exceed a specified amount. As a result, the acquirer obtains an indemnification asset. The acquirer shall recognize an indemnification asset at the same time that it recognizes the indemnified item, measured on the same basis as the indemnified item, subject to the need for a valuation allowance for uncollectible amounts. Therefore, if the indemnification relates to an asset or a liability that is recognized at the acquisition date and measured at its acquisition-date fair value, the acquirer shall recognize the indemnification asset at the acquisition date measured at its acquisition-date fair value.
+**805-20-25-28** In some circumstances, the indemnification may relate to an asset or a liability that is an exception to the recognition or measurement principles. For example, an indemnification may relate to a contingency that is not recognized at the acquisition date because it does not satisfy the criteria for recognition in paragraphs 805-20-25-18A through 25-19
+at that date. In those circumstances, the indemnification asset shall be recognized and measured using assumptions consistent with those used to measure the indemnified item, subject to management's assessment of the collectibility of the indemnification asset and any contractual limitations on the indemnified amount.
+**805-20-25-28** In some circumstances, the indemnification may relate to an asset or a liability that is an exception to the recognition or measurement principles. For example, an indemnification may relate to a contingency that is not recognized at the acquisition date because it does not satisfy the criteria for recognition in paragraphs 805-20-25-18A through 25-19
+
+##### · > Leases
+
+**805-20-25-28A** at that date. In those circumstances, the indemnification asset shall be recognized and measured using assumptions consistent with those used to measure the indemnified item, subject to management's assessment of the collectibility of the indemnification asset and any contractual limitations on the indemnified amount.
+The acquirer shall recognize assets and liabilities arising from leases of an acquiree in accordance with Topic 842 on leases (taking into account the requirements in paragraph 805-20-25-8(a)).
+**805-20-25-28A** The acquirer shall recognize assets and liabilities arising from leases of an acquiree in accordance with Topic 842 on leases (taking into account the requirements in paragraph 805-20-25-8(a)).
+**805-20-25-28B** For leases for which the acquiree is a lessee, the acquirer may elect, as an accounting policy election by class of underlying asset and applicable to all of the entity's acquisitions, not to recognize assets or liabilities at the acquisition date for leases that, at the acquisition date, have a remaining lease term of 12 months or less. This includes not recognizing an intangible asset if the terms of an operating lease are favorable relative to market terms or a liability if the terms are unfavorable relative to market terms.
+**805-20-25-28B** For leases for which the acquiree is a lessee, the acquirer may elect, as an accounting policy election by class of underlying asset and applicable to all of the entity's acquisitions, not to recognize assets or liabilities at the acquisition date for leases that, at the acquisition date, have a remaining lease term of 12 months or less. This includes not recognizing an intangible asset if the terms of an operating lease are favorable relative to market terms or a liability if the terms are unfavorable relative to market terms.
+
+##### · > Contract Assets and Contract                Liabilities
+
+**805-20-25-28C** The acquirer shall recognize a contract asset or contract liability in accordance with Topic 606 on revenue from contracts
+1. Contracts with customers
+2. Other contracts to which the provisions of Topic 606 apply.
+
+**805-20-25-28C** The acquirer shall recognize a contract asset or contract liability in accordance with Topic 606 on revenue from contracts
+1. Contracts with customers
+2. Other contracts to which the provisions of Topic 606 apply.
+
+##### · > Grants Related to Income
+
+**805-20-25-28D** PENDING CONTENTTransition date: December 16, 2028; December 16, 2029Transition guidance:832-10-65-2For a grant related to income, an acquirer shall recognize deferred income in accordance with Topic 832 on government grants at the acquisition date, unless an entity has fully complied with the conditions attached to a government grant, in which case the acquirer shall not recognize deferred income.
+
+### Accounting Alternatives
+
+**805-20-25-29** PENDING CONTENTTransition date: December 16, 2028; December 16, 2029Transition guidance:832-10-65-2For a grant related to income, an acquirer shall recognize deferred income in accordance with Topic 832 on government grants at the acquisition date, unless an entity has fully complied with the conditions attached to a government grant, in which case the acquirer shall not recognize deferred income. Related Proposed ASUs
+The guidance in this Subsection applies to entities within the scope of paragraph 805-20-15-2 that elect the accounting alternative for the recognition of identifiable intangible assets acquired in a business combination.
+The guidance in this Subsection applies to entities within the scope of paragraph 805-20-15-2 that elect the accounting alternative for the recognition of identifiable intangible assets acquired in a business combination.
+**805-20-25-30** > Identifiable Intangible Assets
+An intangible asset
+1. Customer-related intangible assets unless they are capable of being sold or licensed independently from other assets of a business
+2. Noncompetition agreements.
+
+An intangible asset
+1. Customer-related intangible assets unless they are capable of being sold or licensed independently from other assets of a business
+2. Noncompetition agreements.
+
+Mortgage servicing rights
+2. Commodity supply contracts
+3. Core deposits
+4. Customer information (for example, names and contact information).
+
+Mortgage servicing rights
+2. Commodity supply contracts
+3. Core deposits
+4. Customer information (for example, names and contact information).
+
+Contract assets
+, as used in Topic 606 on revenue from contracts with customers, are not considered to be customer-related intangible assets for purposes of applying this accounting alternative. Therefore, contract assets are not eligible to be subsumed into goodwill and shall be recognized separately.
+Contract assets
+**805-20-25-33** , as used in Topic 606 on revenue from contracts with customers, are not considered to be customer-related intangible assets for purposes of applying this accounting alternative. Therefore, contract assets are not eligible to be subsumed into goodwill and shall be recognized separately.
+A lease
+is not considered to be a customer-related intangible asset for purposes of applying this accounting alternative. Therefore, favorable and unfavorable leases are not eligible to be subsumed into goodwill and shall be recognized separately.
+A lease
+
+## 30 Initial Measurement
+
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+
+### General
+
+**805-20-30-1** Related Proposed ASUs > Measurement Principle
+The acquirer
+shall measure the identifiable assets acquired, the liabilities assumed, and any noncontrolling interest in the acquiree at their acquisition-datefair values.
+**805-20-30-1** The acquirer
+**805-20-30-2** shall measure the identifiable assets acquired, the liabilities assumed, and any noncontrolling interest in the acquiree at their acquisition-datefair values.
+Exceptions to the measurement principle are identified and their accounting treatment is addressed in paragraphs 805-20-30-10 through 30-26
+.PENDING CONTENTTransition date: December 16, 2028; December 16, 2029Transition guidance:832-10-65-2Exceptions to the measurement principle are identified and their accounting treatment is addressed in paragraphs 805-20-30-10 through 30-31.PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:818-10-65-1Exceptions to the measurement principle are identified and their accounting treatment is addressed in paragraphs 805-20-30-10 through 30-32.
+**805-20-30-2** Exceptions to the measurement principle are identified and their accounting treatment is addressed in paragraphs 805-20-30-10 through 30-26
+**805-20-30-3** .PENDING CONTENTTransition date: December 16, 2028; December 16, 2029Transition guidance:832-10-65-2Exceptions to the measurement principle are identified and their accounting treatment is addressed in paragraphs 805-20-30-10 through 30-31.PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:818-10-65-1Exceptions to the measurement principle are identified and their accounting treatment is addressed in paragraphs 805-20-30-10 through 30-32.> Measuring the Fair Values of Particular Identifiable Assets and a Noncontrolling Interest in an Acquiree
+The following guidance demonstrates the application of the measurement principle in paragraph 805-20-30-1 to specific situations in a business combination
+including guidance on measuring the fair values of particular identifiable assets and a noncontrolling interest in an acquiree.
+**805-20-30-3** The following guidance demonstrates the application of the measurement principle in paragraph 805-20-30-1 to specific situations in a business combination
+
+##### · > Assets with Uncertain Cash Flows                (Valuation Allowances)
+
+**805-20-30-4** including guidance on measuring the fair values of particular identifiable assets and a noncontrolling interest in an acquiree.
+The acquirer shall not recognize a separate valuation allowance as of the acquisition date
+for assets acquired in a business combination that are measured at their acquisition-date fair values because the effects of uncertainty about future cash flows are included in the fair value measure, unless the assets acquired are financial assets for which the acquirer shall refer to the guidance in paragraphs 805-20-30-4A through 30-4B.
+**805-20-30-4** The acquirer shall not recognize a separate valuation allowance as of the acquisition date
+**805-20-30-4A** for assets acquired in a business combination that are measured at their acquisition-date fair values because the effects of uncertainty about future cash flows are included in the fair value measure, unless the assets acquired are financial assets for which the acquirer shall refer to the guidance in paragraphs 805-20-30-4A through 30-4B.
+For acquired financial assets that are not purchased financial assets with credit deterioration
+, the acquirer shall record the purchased financial assets at the acquisition-date fair value. Additionally, for these financial assets within the scope of Topic 326, an allowance shall be recorded with a corresponding charge to credit loss expense as of the reporting date. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:326-10-65-7For acquired financial assets that are not purchased financial assets with credit deteriorationor purchased seasoned loans, the acquirer shall record the acquired financial assets at the acquisition-date fair value. Additionally, for these financial assets within the scope of Topic 326, an allowance shall be recorded with a corresponding charge to credit loss expense as of the reporting date.
+**805-20-30-4A** For acquired financial assets that are not purchased financial assets with credit deterioration
+**805-20-30-4B** , the acquirer shall record the purchased financial assets at the acquisition-date fair value. Additionally, for these financial assets within the scope of Topic 326, an allowance shall be recorded with a corresponding charge to credit loss expense as of the reporting date. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:326-10-65-7For acquired financial assets that are not purchased financial assets with credit deteriorationor purchased seasoned loans, the acquirer shall record the acquired financial assets at the acquisition-date fair value. Additionally, for these financial assets within the scope of Topic 326, an allowance shall be recorded with a corresponding charge to credit loss expense as of the reporting date.
+For assets accounted for as purchased financial assets with credit deterioration (which includes beneficial interests that meet the criteria in paragraph 325-40-30-1A), an acquirer shall recognize an allowance in accordance with Topic 326 with a corresponding increase to the amortized cost basis of the financial asset(s) as of the acquisition date.
+PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:326-10-65-7For assets accounted for as purchased financial assets with credit deterioration (which includes beneficial interests that meet the criteria in paragraph 325-40-30-1A) and purchased seasoned loans, an acquirer shall recognize an allowance in accordance with Topic 326 with a corresponding increase to the amortized cost basis of the financial asset(s) as of the acquisition date.
+**805-20-30-4B** For assets accounted for as purchased financial assets with credit deterioration (which includes beneficial interests that meet the criteria in paragraph 325-40-30-1A), an acquirer shall recognize an allowance in accordance with Topic 326 with a corresponding increase to the amortized cost basis of the financial asset(s) as of the acquisition date.
+
+##### · > Assets Subject to Operating Leases                in Which the Acquiree Is the Lessor
+
+**805-20-30-5** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:326-10-65-7For assets accounted for as purchased financial assets with credit deterioration (which includes beneficial interests that meet the criteria in paragraph 325-40-30-1A) and purchased seasoned loans, an acquirer shall recognize an allowance in accordance with Topic 326 with a corresponding increase to the amortized cost basis of the financial asset(s) as of the acquisition date.
+The acquirer shall measure the acquisition-date fair value of an asset, such as a building or a patent or other intangible asset, that is subject to an operating lease in which the acquiree is the lessor separately from the lease contract. In other words, the fair value of the asset shall be the same regardless of whether it is subject to an operating lease. In accordance with paragraph 805-20-25-12, the acquirer separately recognizes an asset or a liability if the terms of the lease are favorable or unfavorable relative to market terms.
+**805-20-30-5** The acquirer shall measure the acquisition-date fair value of an asset, such as a building or a patent or other intangible asset, that is subject to an operating lease in which the acquiree is the lessor separately from the lease contract. In other words, the fair value of the asset shall be the same regardless of whether it is subject to an operating lease. In accordance with paragraph 805-20-25-12, the acquirer separately recognizes an asset or a liability if the terms of the lease are favorable or unfavorable relative to market terms.
+
+##### · > Assets that the Acquirer Intends                Not to Use or to Use in a Way Other Than Their Highest and Best Use
+
+**805-20-30-6** To protect its competitive position, or for other reasons, the acquirer may intend not to use an acquired nonfinancial asset actively, or it may not intend to use the asset according to its highest and best use. For example, that might be the case for an acquired research and development intangible asset that the acquirer plans to use defensively by preventing others from using it. Nevertheless, the acquirer shall measure the fair value of the nonfinancial asset in accordance with Subtopic 820-10 assuming its highest and best use by market participants in accordance with the appropriate valuation premise, both initially and for purposes of subsequent impairment testing.
+**805-20-30-6** To protect its competitive position, or for other reasons, the acquirer may intend not to use an acquired nonfinancial asset actively, or it may not intend to use the asset according to its highest and best use. For example, that might be the case for an acquired research and development intangible asset that the acquirer plans to use defensively by preventing others from using it. Nevertheless, the acquirer shall measure the fair value of the nonfinancial asset in accordance with Subtopic 820-10 assuming its highest and best use by market participants in accordance with the appropriate valuation premise, both initially and for purposes of subsequent impairment testing.
+
+##### · > Measuring the Fair Value of a                Noncontrolling Interest in an Acquiree
+
+**805-20-30-7** Paragraph 805-20-30-1 requires the acquirer to measure a noncontrolling interest in the acquiree at its fair value at the acquisition date. An acquirer sometimes will be able to measure the acquisition-date fair value of a noncontrolling interest on the basis of a quoted price in an active market for the equity shares (that is, those not held by the acquirer). In other situations, however, a quoted price in an active market for the equity shares will not be available. In those situations, the acquirer would measure the fair value of the noncontrolling interest using another valuation technique.
+**805-20-30-7** Paragraph 805-20-30-1 requires the acquirer to measure a noncontrolling interest in the acquiree at its fair value at the acquisition date. An acquirer sometimes will be able to measure the acquisition-date fair value of a noncontrolling interest on the basis of a quoted price in an active market for the equity shares (that is, those not held by the acquirer). In other situations, however, a quoted price in an active market for the equity shares will not be available. In those situations, the acquirer would measure the fair value of the noncontrolling interest using another valuation technique.
+**805-20-30-8** The fair values of the acquirer's interest in the acquiree and the noncontrolling interest on a per-share basis might differ. The main difference is likely to be the inclusion of a control premium in the per-share fair value of the acquirer's interest in the acquiree or, conversely, the inclusion of a discount for lack of control (also referred to as a noncontrolling interest discount) in the per-share fair value of the noncontrolling interest if market participants would take into account such a premium or discount when pricing the noncontrolling interest.
+**805-20-30-8** The fair values of the acquirer's interest in the acquiree and the noncontrolling interest on a per-share basis might differ. The main difference is likely to be the inclusion of a control premium in the per-share fair value of the acquirer's interest in the acquiree or, conversely, the inclusion of a discount for lack of control (also referred to as a noncontrolling interest discount) in the per-share fair value of the noncontrolling interest if market participants would take into account such a premium or discount when pricing the noncontrolling interest.
+**805-20-30-9** > Measurement of Assets and Liabilities Arising from Contingencies
+Paragraphs 805-20-25-18A through 25-20B establish the requirements related to recognition of certain assets and liabilities arising from contingencies
+. Initial measurement of assets and liabilities meeting the recognition criteria in paragraph 805-20-25-19 shall be at acquisition-date fair value. Guidance on the initial measurement of other assets and liabilities from contingencies not meeting the recognition criteria of that paragraph, but meeting the criteria in paragraph 805-20-25-20 is at paragraph 805-20-30-23.
+**805-20-30-9** Paragraphs 805-20-25-18A through 25-20B establish the requirements related to recognition of certain assets and liabilities arising from contingencies
+
+##### · > Contingent Consideration                Arrangements of an Acquiree Assumed by the Acquirer
+
+**805-20-30-9A** . Initial measurement of assets and liabilities meeting the recognition criteria in paragraph 805-20-25-19 shall be at acquisition-date fair value. Guidance on the initial measurement of other assets and liabilities from contingencies not meeting the recognition criteria of that paragraph, but meeting the criteria in paragraph 805-20-25-20 is at paragraph 805-20-30-23.
+Contingent consideration arrangements of an acquiree assumed by the acquirer in a business combination shall be measured initially at fair value in accordance with the guidance for contingent consideration arrangements in paragraph 805-30-25-5.
+**805-20-30-9A** Contingent consideration arrangements of an acquiree assumed by the acquirer in a business combination shall be measured initially at fair value in accordance with the guidance for contingent consideration arrangements in paragraph 805-30-25-5.
+**805-20-30-10** > Exceptions to the Measurement Principle
+Paragraph 805-20-25-16 notes that the Business Combinations Topic provides limited exceptions to the recognition and measurement principles applicable to business combinations. Paragraphs 805-20-30-12 through 30-30
+specify the types of identifiable assets and liabilities that include items for which this Subtopic provides limited exceptions to the paragraph 805-20-30-1 measurement principle. The acquirer shall apply the specified GAAP or the specified requirements rather than that measurement principle to determine how to measure the assets or liabilities identified in paragraphs 805-20-30-12 through 30-30. That will result in some items being measured at an amount other than their acquisition-date fair values. PENDING CONTENTTransition date: December 16, 2028; December 16, 2029Transition guidance:832-10-65-2Paragraph 805-20-25-16 notes that the Business Combinations Topic provides limited exceptions to the recognition and measurement principles applicable to business combinations. Paragraphs 805-20-30-12 through 30-31specify the types of identifiable assets and liabilities that include items for which this Subtopic provides limited exceptions to the paragraph 805-20-30-1 measurement principle. The acquirer shall apply the specified GAAP or the specified requirements rather than that measurement principle to determine how to measure the assets or liabilities identified in paragraphs 805-20-30-12 through 30-31. That will result in some items being measured at an amount other than their acquisition-date fair values. PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:818-10-65-1Paragraph 805-20-25-16 notes that the Business Combinations Topic provides limited exceptions to the recognition and measurement principles applicable to business combinations. Paragraphs 805-20-30-12 through 30-32specify the types of identifiable assets and liabilities that include items for which this Subtopic provides limited exceptions to the paragraph 805-20-30-1 measurement principle. The acquirer shall apply the specified GAAP or the specified requirements rather than that measurement principle to determine how to measure the assets or liabilities identified in paragraphs 805-20-30-12 through 30-32. That will result in some items being measured at an amount other than their acquisition-date fair values.
+**805-20-30-10** Paragraph 805-20-25-16 notes that the Business Combinations Topic provides limited exceptions to the recognition and measurement principles applicable to business combinations. Paragraphs 805-20-30-12 through 30-30
+**805-20-30-11** specify the types of identifiable assets and liabilities that include items for which this Subtopic provides limited exceptions to the paragraph 805-20-30-1 measurement principle. The acquirer shall apply the specified GAAP or the specified requirements rather than that measurement principle to determine how to measure the assets or liabilities identified in paragraphs 805-20-30-12 through 30-30. That will result in some items being measured at an amount other than their acquisition-date fair values. PENDING CONTENTTransition date: December 16, 2028; December 16, 2029Transition guidance:832-10-65-2Paragraph 805-20-25-16 notes that the Business Combinations Topic provides limited exceptions to the recognition and measurement principles applicable to business combinations. Paragraphs 805-20-30-12 through 30-31specify the types of identifiable assets and liabilities that include items for which this Subtopic provides limited exceptions to the paragraph 805-20-30-1 measurement principle. The acquirer shall apply the specified GAAP or the specified requirements rather than that measurement principle to determine how to measure the assets or liabilities identified in paragraphs 805-20-30-12 through 30-31. That will result in some items being measured at an amount other than their acquisition-date fair values. PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:818-10-65-1Paragraph 805-20-25-16 notes that the Business Combinations Topic provides limited exceptions to the recognition and measurement principles applicable to business combinations. Paragraphs 805-20-30-12 through 30-32specify the types of identifiable assets and liabilities that include items for which this Subtopic provides limited exceptions to the paragraph 805-20-30-1 measurement principle. The acquirer shall apply the specified GAAP or the specified requirements rather than that measurement principle to determine how to measure the assets or liabilities identified in paragraphs 805-20-30-12 through 30-32. That will result in some items being measured at an amount other than their acquisition-date fair values.
+As noted in paragraph 805-20-25-17, income taxes, employee benefits, indemnification assets, leases, and contract assets
+and contract liabilities are also exceptions to the recognition principle in paragraph 805-20-25-1.PENDING CONTENTTransition date: December 16, 2028; December 16, 2029Transition guidance:832-10-65-2As noted in paragraph 805-20-25-17, income taxes, employee benefits, indemnification assets, leases, contract assets and contract liabilities, and grants related to incomeare also exceptions to the recognition principle in paragraph 805-20-25-1.
+**805-20-30-11** As noted in paragraph 805-20-25-17, income taxes, employee benefits, indemnification assets, leases, and contract assets
+**805-20-30-12** and contract liabilities are also exceptions to the recognition principle in paragraph 805-20-25-1.PENDING CONTENTTransition date: December 16, 2028; December 16, 2029Transition guidance:832-10-65-2As noted in paragraph 805-20-25-17, income taxes, employee benefits, indemnification assets, leases, contract assets and contract liabilities, and grants related to incomeare also exceptions to the recognition principle in paragraph 805-20-25-1.
+Income taxes
+2. Employee benefits
+3. Indemnification assets
+4. Reacquired rights
+5. Share-based payment awards
+6. Assets held for sale
+7. Certain assets and liabilities arising from contingencies
+8. Leases
+9. Purchased financial assets with credit deterioration
+10. Contract assets and contract liabilities.
+
+1. Income taxes
+2. Employee benefits
+3. Indemnification assets
+4. Reacquired rights
+5. Share-based payment awards
+6. Assets held for sale
+7. Certain assets and liabilities arising from contingencies
+8. Leases
+9. Purchased financial assets with credit deteriorationand purchased seasoned loans
+10. Contract assets and contract liabilities.
+
+1. Income taxes
+2. Employee benefits
+3. Indemnification assets
+4. Reacquired rights
+5. Share-based payment awards
+6. Assets held for sale
+7. Certain assets and liabilities arising from contingencies
+8. Leases
+9. Purchased financial assets with credit deteriorationand purchased seasoned loans
+10. Contract assets and contract liabilities
+11. Grants related to income.
+
+1. Income taxes
+2. Employee benefits
+3. Indemnification assets
+4. Reacquired rights
+5. Share-based payment awards
+6. Assets held for sale
+7. Certain assets and liabilities arising from contingencies
+8. Leases
+9. Purchased financial assets with credit deteriorationand purchased seasoned loans
+10. Contract assets and contract liabilities
+11. Grants related to income
+12. Environmental credit obligations.
+
+**805-20-30-12** Income taxes
+2. Employee benefits
+3. Indemnification assets
+4. Reacquired rights
+5. Share-based payment awards
+6. Assets held for sale
+7. Certain assets and liabilities arising from contingencies
+8. Leases
+9. Purchased financial assets with credit deterioration
+10. Contract assets and contract liabilities.
+
+1. Income taxes
+2. Employee benefits
+3. Indemnification assets
+4. Reacquired rights
+5. Share-based payment awards
+6. Assets held for sale
+7. Certain assets and liabilities arising from contingencies
+8. Leases
+9. Purchased financial assets with credit deteriorationand purchased seasoned loans
+10. Contract assets and contract liabilities.
+
+1. Income taxes
+2. Employee benefits
+3. Indemnification assets
+4. Reacquired rights
+5. Share-based payment awards
+6. Assets held for sale
+7. Certain assets and liabilities arising from contingencies
+8. Leases
+9. Purchased financial assets with credit deteriorationand purchased seasoned loans
+10. Contract assets and contract liabilities
+11. Grants related to income.
+
+1. Income taxes
+2. Employee benefits
+3. Indemnification assets
+4. Reacquired rights
+5. Share-based payment awards
+6. Assets held for sale
+7. Certain assets and liabilities arising from contingencies
+8. Leases
+9. Purchased financial assets with credit deteriorationand purchased seasoned loans
+10. Contract assets and contract liabilities
+11. Grants related to income
+12. Environmental credit obligations.
+
+##### · > Income Taxes
+
+**805-20-30-13** Section 805-740-30 establishes the measurement guidance related to accounting for income taxes in a business combination.
+**805-20-30-13** Section 805-740-30 establishes the measurement guidance related to accounting for income taxes in a business combination.
+
+##### · > Employee Benefits
+
+**805-20-30-14** The acquirer shall measure a liability (or asset, if any) related to the acquiree's employee benefit arrangements in accordance with other GAAP. For example, employee benefits in the scope of the guidance identified in paragraphs 805-20-30-15 through 30-17
+would be measured in accordance with that guidance and as specified in those paragraphs.
+**805-20-30-14** The acquirer shall measure a liability (or asset, if any) related to the acquiree's employee benefit arrangements in accordance with other GAAP. For example, employee benefits in the scope of the guidance identified in paragraphs 805-20-30-15 through 30-17
+**805-20-30-15** would be measured in accordance with that guidance and as specified in those paragraphs. · · > Pension and Postretirement Benefits Other Than Pensions
+Guidance on defined benefit pension plans is presented in Subtopic 715-30. Guidance on defined benefit other postretirement plans is presented in Subtopic 715-60. Paragraphs 805-20-25-23 and 805-20-25-25 require an acquirer to recognize as part of a business combination an asset or a liability representing the funded status of a single-employer defined benefit pension or postretirement plan. In determining that funded status, the acquirer shall exclude the effects of expected plan amendments, terminations, or curtailments that at the acquisition date it has no obligation to make. The projected benefit obligation assumed shall reflect any other necessary changes in assumptions based on the acquirer's assessment of relevant future events.
+**805-20-30-15** Guidance on defined benefit pension plans is presented in Subtopic 715-30. Guidance on defined benefit other postretirement plans is presented in Subtopic 715-60. Paragraphs 805-20-25-23 and 805-20-25-25 require an acquirer to recognize as part of a business combination an asset or a liability representing the funded status of a single-employer defined benefit pension or postretirement plan. In determining that funded status, the acquirer shall exclude the effects of expected plan amendments, terminations, or curtailments that at the acquisition date it has no obligation to make. The projected benefit obligation assumed shall reflect any other necessary changes in assumptions based on the acquirer's assessment of relevant future events.
+**805-20-30-16** The Settlements, Curtailments, and Certain Termination Benefits Subsection of Section 715-30-35 establishes the measurement guidance related to accounting for settlements and curtailments of defined benefit pension plans and certain termination benefits.
+**805-20-30-16** The Settlements, Curtailments, and Certain Termination Benefits Subsection of Section 715-30-35 establishes the measurement guidance related to accounting for settlements and curtailments of defined benefit pension plans and certain termination benefits.
+**805-20-30-17** · · > Other Employee Benefit Arrangements
+One-time termination benefits in connection with exit or disposal activities. See Section 420-10-30.
+2. Compensated absences. See Section 710-10-25.
+3. Deferred compensation contracts. See Section 710-10-30.
+4. Nonretirement postemployment benefits. See Section 712-10-25.
+
+**805-20-30-17** One-time termination benefits in connection with exit or disposal activities. See Section 420-10-30.
+2. Compensated absences. See Section 710-10-25.
+3. Deferred compensation contracts. See Section 710-10-30.
+4. Nonretirement postemployment benefits. See Section 712-10-25.
+
+##### · > Indemnification Assets
+
+**805-20-30-18** Paragraph 805-20-25-27 requires that the acquirer recognize an indemnification asset at the same time that it recognizes the indemnified item, measured on the same basis as the indemnified item, subject to the need for a valuation allowance for uncollectible amounts. That paragraph also requires that, if the indemnification relates to an asset or a liability that is recognized at the acquisition date and measured at its acquisition-date fair value, the acquirer recognize the indemnification asset at the acquisition date measured at its acquisition-date fair value. For an indemnification asset measured at fair value, the effects of uncertainty about future cash flows because of collectibility considerations are included in the fair value measure and a separate valuation allowance is not necessary, as noted in paragraph 805-20-30-4.
+**805-20-30-18** Paragraph 805-20-25-27 requires that the acquirer recognize an indemnification asset at the same time that it recognizes the indemnified item, measured on the same basis as the indemnified item, subject to the need for a valuation allowance for uncollectible amounts. That paragraph also requires that, if the indemnification relates to an asset or a liability that is recognized at the acquisition date and measured at its acquisition-date fair value, the acquirer recognize the indemnification asset at the acquisition date measured at its acquisition-date fair value. For an indemnification asset measured at fair value, the effects of uncertainty about future cash flows because of collectibility considerations are included in the fair value measure and a separate valuation allowance is not necessary, as noted in paragraph 805-20-30-4.
+**805-20-30-19** Paragraph 805-20-25-28 states that in some circumstances, the indemnification may relate to an asset or a liability that is an exception to the recognition or measurement principles, and provides an example of an indemnification that may relate to a contingency that is not recognized at the acquisition date because it does not satisfy the criteria for recognition in paragraphs 805-20-25-18A through 25-19
+at that date. Alternatively, an indemnification may relate to an asset or a liability, for example, one that results from an uncertain tax position that is measured on a basis other than acquisition-date fair value. (Paragraph 805-20-30-13 identifies the business-combination-related measurement requirements for income taxes.) Paragraph 805-20-25-28 establishes that in those circumstances, the indemnification asset shall be recognized and measured using assumptions consistent with those used to measure the indemnified item, subject to management's assessment of the collectibility of the indemnification asset and any contractual limitations on the indemnified amount.
+**805-20-30-19** Paragraph 805-20-25-28 states that in some circumstances, the indemnification may relate to an asset or a liability that is an exception to the recognition or measurement principles, and provides an example of an indemnification that may relate to a contingency that is not recognized at the acquisition date because it does not satisfy the criteria for recognition in paragraphs 805-20-25-18A through 25-19
+
+##### · > Reacquired Rights
+
+**805-20-30-20** at that date. Alternatively, an indemnification may relate to an asset or a liability, for example, one that results from an uncertain tax position that is measured on a basis other than acquisition-date fair value. (Paragraph 805-20-30-13 identifies the business-combination-related measurement requirements for income taxes.) Paragraph 805-20-25-28 establishes that in those circumstances, the indemnification asset shall be recognized and measured using assumptions consistent with those used to measure the indemnified item, subject to management's assessment of the collectibility of the indemnification asset and any contractual limitations on the indemnified amount.
+The acquirer shall measure the value of a reacquired right recognized as an intangible asset in accordance with paragraph 805-20-25-14 on the basis of the remaining contractual term of the related contract regardless of whether market participants would consider potential contractual renewals in determining its fair value.
+**805-20-30-20** The acquirer shall measure the value of a reacquired right recognized as an intangible asset in accordance with paragraph 805-20-25-14 on the basis of the remaining contractual term of the related contract regardless of whether market participants would consider potential contractual renewals in determining its fair value.
+
+##### · > Share-Based Payment Awards
+
+**805-20-30-21** The acquirer shall measure a liability or an equity instrument related to the replacement of an acquiree's share-based payment awards with share-based payment awards of the acquirer in accordance with the method in Topic 718. The Business Combinations Topic refers to the result of that method as the fair-value-based measure of the award. Paragraphs 805-30-30-9 through 30-13
+and 805-30-55-6 through 55-13 provide additional guidance.
+**805-20-30-21** The acquirer shall measure a liability or an equity instrument related to the replacement of an acquiree's share-based payment awards with share-based payment awards of the acquirer in accordance with the method in Topic 718. The Business Combinations Topic refers to the result of that method as the fair-value-based measure of the award. Paragraphs 805-30-30-9 through 30-13
+
+##### · > Assets Held for Sale
+
+**805-20-30-22** and 805-30-55-6 through 55-13 provide additional guidance.
+The acquirer shall measure an acquired long-lived asset (or disposal group) that is classified as held for sale at the acquisition date in accordance with Subtopic 360-10, at fair value less cost to sell in accordance with paragraphs 360-10-35-38 and 360-10-35-43.
+**805-20-30-22** The acquirer shall measure an acquired long-lived asset (or disposal group) that is classified as held for sale at the acquisition date in accordance with Subtopic 360-10, at fair value less cost to sell in accordance with paragraphs 360-10-35-38 and 360-10-35-43.
+
+##### · > Certain Assets and Liabilities                Arising from Contingencies
+
+**805-20-30-23** Initial measurement of assets and liabilities meeting the recognition criteria in paragraph 805-20-25-20 shall be at the amount that can be reasonably estimated by applying the guidance in Topic 450 for application of similar criteria in paragraph 450-20-25-2.
+**805-20-30-23** Initial measurement of assets and liabilities meeting the recognition criteria in paragraph 805-20-25-20 shall be at the amount that can be reasonably estimated by applying the guidance in Topic 450 for application of similar criteria in paragraph 450-20-25-2.
+
+##### · > Measurement of Lease Assets and                Lease Liabilities Arising from Leases in Which the Acquiree Is the Lessee
+
+**805-20-30-24** For leases
+in which the acquiree is a lessee, the acquirer shall measure the lease liability at the present value of the remaining lease payments, as if the acquired lease were a new lease of the acquirer at the acquisition date. The acquirer shall measure the right-of-use asset at the same amount as the lease liability as adjusted to reflect favorable or unfavorable terms of the lease when compared with market terms.
+**805-20-30-24** For leases
+
+##### · > Measurement of Assets and                Liabilities Arising from Leases in Which the Acquiree Is the Lessor
+
+**805-20-30-25** in which the acquiree is a lessee, the acquirer shall measure the lease liability at the present value of the remaining lease payments, as if the acquired lease were a new lease of the acquirer at the acquisition date. The acquirer shall measure the right-of-use asset at the same amount as the lease liability as adjusted to reflect favorable or unfavorable terms of the lease when compared with market terms.
+For leases in which the acquiree is a lessor of a sales-type lease
+1. The remaining lease payments
+2. The amount the lessor expects to derive from the underlying asset following the end of the lease term that is guaranteed by the lessee or any other third party unrelated to the lessor.
+
+3. The unguaranteed residual asset as the difference between the fair value of the underlying asset at the acquisition date and the carrying amount of the lease receivable, as determined in accordance with (a), at that date.
+
+The acquirer shall take into account the terms and conditions of the lease in calculating the acquisition-date fair value of an underlying asset that is subject to a sales-type lease or a direct financing lease by the acquiree-lessor.
+**805-20-30-25** For leases in which the acquiree is a lessor of a sales-type lease
+1. The remaining lease payments
+2. The amount the lessor expects to derive from the underlying asset following the end of the lease term that is guaranteed by the lessee or any other third party unrelated to the lessor.
+
+3. The unguaranteed residual asset as the difference between the fair value of the underlying asset at the acquisition date and the carrying amount of the lease receivable, as determined in accordance with (a), at that date.
+
+##### · > Purchased Financial Assets with                Credit Deterioration
+
+**805-20-30-26** The acquirer shall take into account the terms and conditions of the lease in calculating the acquisition-date fair value of an underlying asset that is subject to a sales-type lease or a direct financing lease by the acquiree-lessor.
+An acquirer shall recognize purchased financial assets with credit deterioration
+
+| Editor's Note: The content of paragraph 805-20-30-26 will be amended upon transition, together with a change in the heading noted below. |
+| --- |
+| > Purchased Financial Assets with Credit Deterioration and Purchased Seasoned Loans |
+
+(including beneficial interests meeting the conditions in paragraph 325-40-30-1A) in accordance with Section 326-20-30 for financial instruments measured at amortized cost or Section 326-30-30 for available-for-sale debt securities. Paragraphs 326-20-55-57 through 55-78 illustrate how the guidance is applied for purchased financial assets with credit deterioration measured at amortized cost. Paragraphs 326-30-55-5 through 55-7 illustrate how the guidance is applied to available-for-sale debt securities. An acquirer shall not accrete into interest income the credit losses embedded in the purchase price for purchased financial assets with credit deterioration. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:326-10-65-7An acquirer shall recognize purchased financial assets with credit deterioration (including beneficial interests meeting the conditions in paragraph 325-40-30-1A) and purchased seasoned loansin accordance with Section 326-20-30 for financial instruments measured at amortized cost or Section 326-30-30 for available-for-sale debt securities. Paragraphs 326-20-55-57 through 55-78 illustrate how the guidance is applied for purchased financial assets with credit deterioration measured at amortized cost. Paragraphs 326-30-55-5 through 55-7 illustrate how the guidance is applied to available-for-sale debt securities. An acquirer shall not accrete into interest income the credit losses embedded in the purchase price for purchased financial assets with credit deterioration and purchased seasoned loans.
+**805-20-30-26** An acquirer shall recognize purchased financial assets with credit deterioration
+
+| Editor's Note: The content of paragraph 805-20-30-26 will be amended upon transition, together with a change in the heading noted below. |
+| --- |
+| > Purchased Financial Assets with Credit Deterioration and Purchased Seasoned Loans |
+
+##### · > Contract Assets and Contract                Liabilities
+
+**805-20-30-27** (including beneficial interests meeting the conditions in paragraph 325-40-30-1A) in accordance with Section 326-20-30 for financial instruments measured at amortized cost or Section 326-30-30 for available-for-sale debt securities. Paragraphs 326-20-55-57 through 55-78 illustrate how the guidance is applied for purchased financial assets with credit deterioration measured at amortized cost. Paragraphs 326-30-55-5 through 55-7 illustrate how the guidance is applied to available-for-sale debt securities. An acquirer shall not accrete into interest income the credit losses embedded in the purchase price for purchased financial assets with credit deterioration. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:326-10-65-7An acquirer shall recognize purchased financial assets with credit deterioration (including beneficial interests meeting the conditions in paragraph 325-40-30-1A) and purchased seasoned loansin accordance with Section 326-20-30 for financial instruments measured at amortized cost or Section 326-30-30 for available-for-sale debt securities. Paragraphs 326-20-55-57 through 55-78 illustrate how the guidance is applied for purchased financial assets with credit deterioration measured at amortized cost. Paragraphs 326-30-55-5 through 55-7 illustrate how the guidance is applied to available-for-sale debt securities. An acquirer shall not accrete into interest income the credit losses embedded in the purchase price for purchased financial assets with credit deterioration and purchased seasoned loans.
+An acquirer shall measure a contract asset or contract liability in accordance with Topic 606 on revenue from contracts
+1. Contracts with customers
+2. Other contracts to which the provisions of Topic 606 apply.
+
+**805-20-30-27** An acquirer shall measure a contract asset or contract liability in accordance with Topic 606 on revenue from contracts
+1. Contracts with customers
+2. Other contracts to which the provisions of Topic 606 apply.
+
+**805-20-30-28** An acquirer shall measure the contract assets and contract liabilities of the acquired contract as if the acquirer had originated the acquired contract. Topic 606 specifies when certain assessments and estimates should be made, for example, as of contract inception or on a recurring basis. At the acquisition date, the acquirer shall make those assessments as of the dates required by Topic 606.
+**805-20-30-28** An acquirer shall measure the contract assets and contract liabilities of the acquired contract as if the acquirer had originated the acquired contract. Topic 606 specifies when certain assessments and estimates should be made, for example, as of contract inception or on a recurring basis. At the acquisition date, the acquirer shall make those assessments as of the dates required by Topic 606.
+**805-20-30-29** An acquirer may use one or more of the following practical expedients when applying paragraphs 805-20-30-27 through 30-28
+1. Identifying the satisfied and unsatisfied performance obligations
+2. Determining the transaction price
+3. Allocating the transaction price to the satisfied and unsatisfied performance obligations.
+
+4. For all contracts, for purposes of allocating the transaction price, an acquirer may determine the standalone selling price at the acquisition date (instead of the contract inception date) of each performance obligation in the contract.
+
+**805-20-30-29** An acquirer may use one or more of the following practical expedients when applying paragraphs 805-20-30-27 through 30-28
+1. Identifying the satisfied and unsatisfied performance obligations
+2. Determining the transaction price
+3. Allocating the transaction price to the satisfied and unsatisfied performance obligations.
+
+4. For all contracts, for purposes of allocating the transaction price, an acquirer may determine the standalone selling price at the acquisition date (instead of the contract inception date) of each performance obligation in the contract.
+
+**805-20-30-30** For any of the practical expedients in paragraph 805-20-30-29 that an acquirer uses, the acquirer shall apply that expedient on an acquisition-by-acquisition basis. Each practical expedient that is elected shall be applied consistently to all contracts acquired in the same business combination. In addition, the acquirer shall provide the disclosures in paragraph 805-20-50-5.
+**805-20-30-30** For any of the practical expedients in paragraph 805-20-30-29 that an acquirer uses, the acquirer shall apply that expedient on an acquisition-by-acquisition basis. Each practical expedient that is elected shall be applied consistently to all contracts acquired in the same business combination. In addition, the acquirer shall provide the disclosures in paragraph 805-20-50-5.
+
+##### · > Grants Related to Income
+
+**805-20-30-31** PENDING CONTENTTransition date: December 16, 2028; December 16, 2029Transition guidance:832-10-65-2Deferred income recognized in accordance with paragraph 805-20-25-28D shall be measured in accordance with Topic 832 on government grants at the acquisition date.
+
+##### · > Environmental Credit Obligations
+
+**805-20-30-32** PENDING CONTENTTransition date: December 16, 2028; December 16, 2029Transition guidance:832-10-65-2Deferred income recognized in accordance with paragraph 805-20-25-28D shall be measured in accordance with Topic 832 on government grants at the acquisition date.PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:818-10-65-1An acquirer shall measure an environmental credit obligation liability assumed in a business combination in accordance with the initial measurement requirements of Topic 818. Paragraph 818-30-30-1 specifies that an environmental credit obligation liability may have a funded portion and an unfunded portion. When measuring the funded portion in accordance with paragraph 818-30-30-2, an acquirer shall consider only environmental credits acquired in the business combination that will be classified as compliance environmental credits. If applicable, the unfunded portion of an environmental credit obligation liability measured in accordance with paragraph 818-30-30-3(b) shall consider only the acquiree’s existing purchase commitments and unconditional rights.
+
+## 35 Subsequent Measurement
+
+**805-20-30-32** General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+
+### General
+
+**805-20-35-1** Related Proposed ASUs > Guidance on Specific Business-Combination-Related Items
+This Topic directly establishes generally accepted accounting principles (GAAP) for business combinations
+related to recognition and initial measurement. Paragraph 805-10-35-1 cites the general requirement for an acquirer to subsequently measure and account for assets acquired, liabilities assumed or incurred, and equity instruments issued in a business combination in accordance with other applicable generally accepted accounting principles (GAAP). However, that paragraph also identifies specific items for which this Topic provides guidance. This Subtopic provides guidance on several of those specific items as follows.
+**805-20-35-1** This Topic directly establishes generally accepted accounting principles (GAAP) for business combinations
+
+##### · > Reacquired Rights
+
+**805-20-35-2** related to recognition and initial measurement. Paragraph 805-10-35-1 cites the general requirement for an acquirer to subsequently measure and account for assets acquired, liabilities assumed or incurred, and equity instruments issued in a business combination in accordance with other applicable generally accepted accounting principles (GAAP). However, that paragraph also identifies specific items for which this Topic provides guidance. This Subtopic provides guidance on several of those specific items as follows.
+A reacquired right recognized as an intangible asset
+in accordance with paragraph 805-20-25-14 shall be amortized over the remaining contractual period of the contract in which the right was granted. An acquirer that subsequently sells a reacquired right to a third party shall include the carrying amount of the intangible asset in determining the gain or loss on the sale.
+**805-20-35-2** A reacquired right recognized as an intangible asset
+
+##### · > Assets and Liabilities Arising from Contingencies Recognized as of the Acquisition Date
+
+**805-20-35-3** in accordance with paragraph 805-20-25-14 shall be amortized over the remaining contractual period of the contract in which the right was granted. An acquirer that subsequently sells a reacquired right to a third party shall include the carrying amount of the intangible asset in determining the gain or loss on the sale.
+An acquirer shall develop a systematic and rational basis for subsequently measuring and accounting for assets and liabilities arising from contingencies
+depending on their nature.
+**805-20-35-3** An acquirer shall develop a systematic and rational basis for subsequently measuring and accounting for assets and liabilities arising from contingencies
+
+##### · > Indemnification Assets
+
+**805-20-35-4** depending on their nature.
+At each subsequent reporting date, the acquirer shall measure an indemnification asset that was recognized in accordance with paragraphs 805-20-25-27 through 25-28
+at the acquisition date on the same basis as the indemnified liability or asset, subject to any contractual limitations on its amount, except as noted in paragraph 805-20-35-4B, and, for an indemnification asset that is not subsequently measured at its fair value, management's assessment of the collectibility of the indemnification asset.
+**805-20-35-4** At each subsequent reporting date, the acquirer shall measure an indemnification asset that was recognized in accordance with paragraphs 805-20-25-27 through 25-28
+**805-20-35-4A** at the acquisition date on the same basis as the indemnified liability or asset, subject to any contractual limitations on its amount, except as noted in paragraph 805-20-35-4B, and, for an indemnification asset that is not subsequently measured at its fair value, management's assessment of the collectibility of the indemnification asset.
+Paragraph superseded by Accounting Standards Update No. 2012-06.
+**805-20-35-4A** Paragraph superseded by Accounting Standards Update No. 2012-06.
+**805-20-35-4B** · · > Indemnification Assets Arising from Government-Assisted Acquisitions of a Financial Institution
+An indemnification asset recognized at the acquisition date in accordance with paragraphs 805-20-25-27 through 25-28
+as a result of a government-assisted acquisition of a financial institution involving an indemnification agreement shall be subsequently measured on the same basis as the indemnified item. For example, if the expected cash flows on indemnified assets increase such that a previously recorded valuation allowance is reversed, an entity shall account for the associated decrease in the indemnification assets immediately in earnings.
+**805-20-35-4B** An indemnification asset recognized at the acquisition date in accordance with paragraphs 805-20-25-27 through 25-28
+
+##### · > Contingent Consideration Arrangements of an Acquiree Assumed by the Acquirer
+
+**805-20-35-4C** as a result of a government-assisted acquisition of a financial institution involving an indemnification agreement shall be subsequently measured on the same basis as the indemnified item. For example, if the expected cash flows on indemnified assets increase such that a previously recorded valuation allowance is reversed, an entity shall account for the associated decrease in the indemnification assets immediately in earnings.
+Contingent consideration arrangements of an acquiree assumed by the acquirer in a business combination shall be measured subsequently in accordance with the guidance for contingent consideration arrangements in paragraph 805-30-35-1.
+**805-20-35-4C** Contingent consideration arrangements of an acquiree assumed by the acquirer in a business combination shall be measured subsequently in accordance with the guidance for contingent consideration arrangements in paragraph 805-30-35-1.
+**805-20-35-5** > Additional Guidance on Subsequent Measurement of Assets Acquired, Liabilities Assumed or Incurred, and Any Noncontrolling Interests in a Business Combination
+Additional guidance on subsequently measuring and accounting for assets acquired in a business combination is addressed in Subtopic 350-30, which prescribes the accounting for identifiable
+intangible assets acquired in a business combination, including recognition of intangible assets used in research and development activities, regardless of whether those assets have an alternative future use, and their classification as indefinite-lived until the completion or abandonment of the associated research and development efforts.
+**805-20-35-5** Additional guidance on subsequently measuring and accounting for assets acquired in a business combination is addressed in Subtopic 350-30, which prescribes the accounting for identifiable
+**805-20-35-6** intangible assets acquired in a business combination, including recognition of intangible assets used in research and development activities, regardless of whether those assets have an alternative future use, and their classification as indefinite-lived until the completion or abandonment of the associated research and development efforts.
+Leasehold improvements acquired in a business combination shall be amortized over the shorter of the useful life of the assets and the remaining lease term
+at the date of acquisition. However, if the lease transfers ownership of the underlying asset to the lessee, or the lessee is reasonably certain to exercise an option to purchase the underlying asset, the lessee shall amortize the leasehold improvements to the end of their useful life.
+**805-20-35-6** Leasehold improvements acquired in a business combination shall be amortized over the shorter of the useful life of the assets and the remaining lease term
+**805-20-35-7** at the date of acquisition. However, if the lease transfers ownership of the underlying asset to the lessee, or the lessee is reasonably certain to exercise an option to purchase the underlying asset, the lessee shall amortize the leasehold improvements to the end of their useful life.
+Topic 944on insurance provides guidance on the subsequent accounting for an insurance or reinsurance
+contract acquired in a business combination.
+**805-20-35-7** Topic 944on insurance provides guidance on the subsequent accounting for an insurance or reinsurance
+**805-20-35-8** contract acquired in a business combination.
+Additional guidance on accounting for changes in a parent's ownership interest in a subsidiary after control
+is obtained is provided in paragraphs 810-10-45-22 through 45-24 and Example 1 (see paragraph 810-10-55-4B).
+**805-20-35-8** Additional guidance on accounting for changes in a parent's ownership interest in a subsidiary after control
+
+## 40 Derecognition
+
+General Note:The Derecognition Section provides guidance on determining whether and when an entity should remove an item from the financial statements. For example, the entity would derecognize an asset because it no longer has rights to the asset or it would derecognize a liability because it no longer has any obligation.
+
+### General
+
+The Business Combinations Topic directly establishes generally accepted accounting principles (GAAP) for business combinations related to recognition and initial measurement. Paragraph 805-10-35-1 cites the general requirement for an acquirer
+to subsequently measure and account for assets acquired, liabilities assumed or incurred, and equity instruments issued in a business combination in accordance with other applicable GAAP. However, that paragraph also identifies specific items for which the Business Combinations Topic provides guidance. This Section provides guidance on one of those specific items as follows.
+The Business Combinations Topic directly establishes generally accepted accounting principles (GAAP) for business combinations related to recognition and initial measurement. Paragraph 805-10-35-1 cites the general requirement for an acquirer
+**805-20-40-2** to subsequently measure and account for assets acquired, liabilities assumed or incurred, and equity instruments issued in a business combination in accordance with other applicable GAAP. However, that paragraph also identifies specific items for which the Business Combinations Topic provides guidance. This Section provides guidance on one of those specific items as follows.
+Paragraph not used.
+Paragraph not used.
+**805-20-40-3** > Indemnification Assets
+The acquirer shall derecognize an indemnification asset recognized in accordance with paragraphs 805-20-25-27 through 25-28
+only when it collects the asset, sells it, or otherwise loses the right to it.
+The acquirer shall derecognize an indemnification asset recognized in accordance with paragraphs 805-20-25-27 through 25-28
+
+## 50 Disclosure
+
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+
+### General
+
+**805-20-50-1** Related Proposed ASUs > Business Combinations Occurring during a Current Reporting Period or after the Reporting Date but before the Financial Statements Are Issued
+Paragraph 805-10-50-1 identifies one of the objectives of disclosures about a business combination
+1. The amount recognized as of the acquisition date
+2. A description of the arrangement and the basis for determining the amount of the payment
+3. An estimate of the range of outcomes (undiscounted) or, if a range cannot be estimated, that fact and the reasons why a range cannot be estimated. If the maximum amount of the payment is unlimited, the acquirer shall disclose that fact.
+
+1. The fair value of the receivables (unless those receivables arise from sales-type leases or direct financing leases by the lessor for which the acquirer shall disclose the amounts recognized as of the acquisition date)
+2. The gross contractual amounts receivable
+3. The best estimate at the acquisition date of the contractual cash flows not expected to be collected.
+
+3. The disclosures shall be provided by major class of receivable, such as loans, net investment in sales-type or direct financing leases in accordance with Subtopic 842-30 on leases—lessor, and any other class of receivables.
+4. The amounts recognized as of the acquisition date for each major class of assets acquired and liabilities assumed (see Example 5 [paragraph 805-10-55-37]).
+1. The amounts recognized at the acquisition date and the measurement basis applied (that is, at fair value or at an amount recognized in accordance with Topic 450 and Section 450-20-25)
+2. The nature of the contingencies.
+
+2. An acquirer may aggregate disclosures for assets or liabilities arising from contingencies that are similar in nature.
+3. For contingencies that are not recognized at the acquisition date, the disclosures required by Topic 450 if the criteria for disclosures in that Topic are met.
+
+3. An acquirer may aggregate disclosures for assets and liabilities arising from contingencies that are similar in nature.
+1. The fair value of the noncontrolling interest in the acquiree at the acquisition date
+2. The valuation technique(s) and significant inputs used to measure the fair value of the noncontrolling interest.
+
+1. The amount recognized as of the acquisition date
+2. A description of the arrangement and the basis for determining the amount of the payment
+3. An estimate of the range of outcomes (undiscounted) or, if a range cannot be estimated, that fact and the reasons why a range cannot be estimated. If the maximum amount of the payment is unlimited, the acquirer shall disclose that fact.
+
+1. The fair value of the receivables (unless those receivables arise from sales-type leases or direct financing leases by the lessor for which the acquirer shall disclose the amounts recognized as of the acquisition date)
+2. The gross contractual amounts receivable
+3. The best estimate at the acquisition date of the contractual cash flows not expected to be collected.
+
+3. The disclosures shall be provided by major class of receivable, such as loans, net investment in sales-type or direct financing leases in accordance with Subtopic 842-30 on leases—lessor, and any other class of receivables.
+4. The amounts recognized as of the acquisition date for each major class of assets acquired and liabilities assumed (see Example 5 [paragraph 805-10-55-37]).
+1. The amounts recognized at the acquisition date and the measurement basis applied (that is, at fair value or at an amount recognized in accordance with Topic 450 and Section 450-20-25)
+2. The nature of the contingencies.
+
+2. An acquirer may aggregate disclosures for assets or liabilities arising from contingencies that are similar in nature.
+3. For contingencies that are not recognized at the acquisition date, the disclosures required by Topic 450 if the criteria for disclosures in that Topic are met.
+
+3. An acquirer may aggregate disclosures for assets and liabilities arising from contingencies that are similar in nature.
+1. The fair value of the noncontrolling interest in the acquiree at the acquisition date
+2. The valuation technique(s) and significant inputs used to measure the fair value of the noncontrolling interest.
+
+**805-20-50-1** Paragraph 805-10-50-1 identifies one of the objectives of disclosures about a business combination
+1. The amount recognized as of the acquisition date
+2. A description of the arrangement and the basis for determining the amount of the payment
+3. An estimate of the range of outcomes (undiscounted) or, if a range cannot be estimated, that fact and the reasons why a range cannot be estimated. If the maximum amount of the payment is unlimited, the acquirer shall disclose that fact.
+
+1. The fair value of the receivables (unless those receivables arise from sales-type leases or direct financing leases by the lessor for which the acquirer shall disclose the amounts recognized as of the acquisition date)
+2. The gross contractual amounts receivable
+3. The best estimate at the acquisition date of the contractual cash flows not expected to be collected.
+
+3. The disclosures shall be provided by major class of receivable, such as loans, net investment in sales-type or direct financing leases in accordance with Subtopic 842-30 on leases—lessor, and any other class of receivables.
+4. The amounts recognized as of the acquisition date for each major class of assets acquired and liabilities assumed (see Example 5 [paragraph 805-10-55-37]).
+1. The amounts recognized at the acquisition date and the measurement basis applied (that is, at fair value or at an amount recognized in accordance with Topic 450 and Section 450-20-25)
+2. The nature of the contingencies.
+
+2. An acquirer may aggregate disclosures for assets or liabilities arising from contingencies that are similar in nature.
+3. For contingencies that are not recognized at the acquisition date, the disclosures required by Topic 450 if the criteria for disclosures in that Topic are met.
+
+3. An acquirer may aggregate disclosures for assets and liabilities arising from contingencies that are similar in nature.
+1. The fair value of the noncontrolling interest in the acquiree at the acquisition date
+2. The valuation technique(s) and significant inputs used to measure the fair value of the noncontrolling interest.
+
+1. The amount recognized as of the acquisition date
+2. A description of the arrangement and the basis for determining the amount of the payment
+3. An estimate of the range of outcomes (undiscounted) or, if a range cannot be estimated, that fact and the reasons why a range cannot be estimated. If the maximum amount of the payment is unlimited, the acquirer shall disclose that fact.
+
+1. The fair value of the receivables (unless those receivables arise from sales-type leases or direct financing leases by the lessor for which the acquirer shall disclose the amounts recognized as of the acquisition date)
+2. The gross contractual amounts receivable
+3. The best estimate at the acquisition date of the contractual cash flows not expected to be collected.
+
+3. The disclosures shall be provided by major class of receivable, such as loans, net investment in sales-type or direct financing leases in accordance with Subtopic 842-30 on leases—lessor, and any other class of receivables.
+4. The amounts recognized as of the acquisition date for each major class of assets acquired and liabilities assumed (see Example 5 [paragraph 805-10-55-37]).
+1. The amounts recognized at the acquisition date and the measurement basis applied (that is, at fair value or at an amount recognized in accordance with Topic 450 and Section 450-20-25)
+2. The nature of the contingencies.
+
+2. An acquirer may aggregate disclosures for assets or liabilities arising from contingencies that are similar in nature.
+3. For contingencies that are not recognized at the acquisition date, the disclosures required by Topic 450 if the criteria for disclosures in that Topic are met.
+
+3. An acquirer may aggregate disclosures for assets and liabilities arising from contingencies that are similar in nature.
+1. The fair value of the noncontrolling interest in the acquiree at the acquisition date
+2. The valuation technique(s) and significant inputs used to measure the fair value of the noncontrolling interest.
+
+**805-20-50-2** For individually immaterial business combinations occurring during the reporting period that are material collectively, the acquirer shall disclose the information required by paragraph 805-20-50-1 in the aggregate.
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For individually immaterial business combinations occurring during the reporting period that are material collectively, the acquirer shall disclose the information required by paragraph 805-20-50-1 in the aggregate in interim and annual reporting periods.
+**805-20-50-2** For individually immaterial business combinations occurring during the reporting period that are material collectively, the acquirer shall disclose the information required by paragraph 805-20-50-1 in the aggregate.
+**805-20-50-3** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For individually immaterial business combinations occurring during the reporting period that are material collectively, the acquirer shall disclose the information required by paragraph 805-20-50-1 in the aggregate in interim and annual reporting periods.
+If the acquisition date of a business combination is after the reporting date but before the financial statements are issued or are available to be issued (as discussed in Section 855-10-25), the acquirer shall disclose the information required by paragraph 805-20-50-1 unless the initial accounting for the business combination is incomplete at the time the financial statements are issued or are available to be issued. In that situation, the acquirer shall describe which disclosures could not be made and the reason why they could not be made.
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1If the acquisition date of a business combination is after the reporting date but before the financial statements are issued or are available to be issued (as discussed in Section 855-10-25), the acquirer shall disclose the information required by paragraph 805-20-50-1in interim and annual reporting periods unless the initial accounting for the business combination is incomplete at the time the financial statements are issued or are available to be issued. In that situation, the acquirer shall describe which disclosures could not be made and the reason why they could not be made.
+**805-20-50-3** If the acquisition date of a business combination is after the reporting date but before the financial statements are issued or are available to be issued (as discussed in Section 855-10-25), the acquirer shall disclose the information required by paragraph 805-20-50-1 unless the initial accounting for the business combination is incomplete at the time the financial statements are issued or are available to be issued. In that situation, the acquirer shall describe which disclosures could not be made and the reason why they could not be made.
+**805-20-50-4** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1If the acquisition date of a business combination is after the reporting date but before the financial statements are issued or are available to be issued (as discussed in Section 855-10-25), the acquirer shall disclose the information required by paragraph 805-20-50-1in interim and annual reporting periods unless the initial accounting for the business combination is incomplete at the time the financial statements are issued or are available to be issued. In that situation, the acquirer shall describe which disclosures could not be made and the reason why they could not be made. > The Financial Effects of Adjustments That Relate to Business Combinations That Occurred in the Current or Previous Reporting Periods
+Paragraph 805-10-50-5 identifies the second objective of disclosures about the effects of business combinations that occurred in the current or previous reporting periods. To meet the objective in that paragraph, the acquirer shall disclose the information in paragraph 805-20-50-4A for each material business combination or in the aggregate for individually immaterial business combinations that are material collectively.
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1Paragraph 805-10-50-5 identifies the second objective of disclosures about the effects of business combinations that occurred in the current or previous reporting periods. To meet the objective in that paragraph, in interim and annual reporting periods the acquirer shall disclose the information in paragraph 805-20-50-4A for each material business combination or in the aggregate for individually immaterial business combinations that are material collectively.
+**805-20-50-4** Paragraph 805-10-50-5 identifies the second objective of disclosures about the effects of business combinations that occurred in the current or previous reporting periods. To meet the objective in that paragraph, the acquirer shall disclose the information in paragraph 805-20-50-4A for each material business combination or in the aggregate for individually immaterial business combinations that are material collectively.
+**805-20-50-4A** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1Paragraph 805-10-50-5 identifies the second objective of disclosures about the effects of business combinations that occurred in the current or previous reporting periods. To meet the objective in that paragraph, in interim and annual reporting periods the acquirer shall disclose the information in paragraph 805-20-50-4A for each material business combination or in the aggregate for individually immaterial business combinations that are material collectively.
+If the initial accounting for a business combination is incomplete (see paragraphs 805-10-25-13 through 25-14
+1. The reasons why the initial accounting is incomplete
+2. The assets, liabilities, equity interests, or items of consideration for which the initial accounting is incomplete
+3. The nature and amount of any measurement period adjustments recognized during the reporting period in accordance with paragraph 805-10-25-17, including separately the amount of adjustment to current-period income statement line items relating to the income effects that would have been recognized in previous periods if the adjustment to provisional amounts were recognized as of the acquisition date. Alternatively, an acquirer may present those amounts separately on the face of the income statement.
+
+1. The reasons why the initial accounting is incomplete
+2. The assets, liabilities, equity interests, or items of consideration for which the initial accounting is incomplete
+3. The nature and amount of any measurement period adjustments recognized during the reporting period in accordance with paragraph 805-10-25-17, including separately the amount of adjustment to current-period income statement line items relating to the income effects that would have been recognized in previous periods if the adjustment to provisional amounts were recognized as of the acquisition date. Alternatively, an acquirer may present those amounts separately on the face of the income statement.
+
+**805-20-50-4A** If the initial accounting for a business combination is incomplete (see paragraphs 805-10-25-13 through 25-14
+1. The reasons why the initial accounting is incomplete
+2. The assets, liabilities, equity interests, or items of consideration for which the initial accounting is incomplete
+3. The nature and amount of any measurement period adjustments recognized during the reporting period in accordance with paragraph 805-10-25-17, including separately the amount of adjustment to current-period income statement line items relating to the income effects that would have been recognized in previous periods if the adjustment to provisional amounts were recognized as of the acquisition date. Alternatively, an acquirer may present those amounts separately on the face of the income statement.
+
+1. The reasons why the initial accounting is incomplete
+2. The assets, liabilities, equity interests, or items of consideration for which the initial accounting is incomplete
+3. The nature and amount of any measurement period adjustments recognized during the reporting period in accordance with paragraph 805-10-25-17, including separately the amount of adjustment to current-period income statement line items relating to the income effects that would have been recognized in previous periods if the adjustment to provisional amounts were recognized as of the acquisition date. Alternatively, an acquirer may present those amounts separately on the face of the income statement.
+
+**805-20-50-5** > Exceptions to the Measurement Principle
+The expedients that have been used
+2. To the extent reasonably possible, a qualitative assessment of the estimated effect of applying each of those expedients.
+
+1. The expedients that have been used
+2. To the extent reasonably possible, a qualitative assessment of the estimated effect of applying each of those expedients.
+
+**805-20-50-5** The expedients that have been used
+2. To the extent reasonably possible, a qualitative assessment of the estimated effect of applying each of those expedients.
+
+1. The expedients that have been used
+2. To the extent reasonably possible, a qualitative assessment of the estimated effect of applying each of those expedients.
+
+## 55 Implementation Guidance and Illustrations
+
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+
+### General
+
+**805-20-55-1** This Section is an integral part of the requirements of this Subtopic. This Section provides additional guidance and illustrations that address the application of accounting requirements for business combinations
+to identifiable assets and liabilities and to noncontrolling interests.
+**805-20-55-1** This Section is an integral part of the requirements of this Subtopic. This Section provides additional guidance and illustrations that address the application of accounting requirements for business combinations
+
+##### · > Recognition of Intangible Assets Separately from Goodwill
+
+**805-20-55-2** to identifiable assets and liabilities and to noncontrolling interests.> Implementation Guidance
+Paragraph 805-20-25-10 establishes that an intangible asset is identifiable if it meets either the separability criterion or the contractual-legal criterion described in the definition of identifiable. An intangible asset
+1. An acquiree leases a manufacturing facility to a lessee under an operating lease that has terms that are favorable relative to market terms. The lease terms explicitly prohibit transfer of the lease (through either sale or sublease). The amount by which the lease terms are favorable compared with the pricing of current market transactions for the same or similar items is an intangible asset that meets the contractual-legal criterion for recognition separately from goodwill, even though the acquirer cannot sell or otherwise transfer the lease contract. See also paragraph 805-20-25-12.
+2. An acquiree owns and operates a nuclear power plant. The license to operate that power plant is an intangible asset that meets the contractual-legal criterion for recognition separately from goodwill, even if the acquirer cannot sell or transfer it separately from the acquired power plant. An acquirer may recognize the fair value of the operating license and the fair value of the power plant as a single asset for financial reporting purposes if the useful lives of those assets are similar.
+3. An acquiree owns a technology patent. It has licensed that patent to others for their exclusive use outside the domestic market, receiving a specified percentage of future foreign revenue in exchange. Both the technology patent and the related license agreement meet the contractual-legal criterion for recognition separately from goodwill even if selling or exchanging the patent and the related license agreement separately from one another would not be practical.
+
+**805-20-55-2** Paragraph 805-20-25-10 establishes that an intangible asset is identifiable if it meets either the separability criterion or the contractual-legal criterion described in the definition of identifiable. An intangible asset
+1. An acquiree leases a manufacturing facility to a lessee under an operating lease that has terms that are favorable relative to market terms. The lease terms explicitly prohibit transfer of the lease (through either sale or sublease). The amount by which the lease terms are favorable compared with the pricing of current market transactions for the same or similar items is an intangible asset that meets the contractual-legal criterion for recognition separately from goodwill, even though the acquirer cannot sell or otherwise transfer the lease contract. See also paragraph 805-20-25-12.
+2. An acquiree owns and operates a nuclear power plant. The license to operate that power plant is an intangible asset that meets the contractual-legal criterion for recognition separately from goodwill, even if the acquirer cannot sell or transfer it separately from the acquired power plant. An acquirer may recognize the fair value of the operating license and the fair value of the power plant as a single asset for financial reporting purposes if the useful lives of those assets are similar.
+3. An acquiree owns a technology patent. It has licensed that patent to others for their exclusive use outside the domestic market, receiving a specified percentage of future foreign revenue in exchange. Both the technology patent and the related license agreement meet the contractual-legal criterion for recognition separately from goodwill even if selling or exchanging the patent and the related license agreement separately from one another would not be practical.
+
+**805-20-55-3** The separability criterion means that an acquired intangible asset is capable of being separated or divided from the acquiree and sold, transferred, licensed, rented, or exchanged, either individually or together with a related contract, identifiable asset, or liability. An intangible asset that the acquirer would be able to sell, license, or otherwise exchange for something else of value meets the separability criterion even if the acquirer does not intend to sell, license, or otherwise exchange it.
+**805-20-55-3** The separability criterion means that an acquired intangible asset is capable of being separated or divided from the acquiree and sold, transferred, licensed, rented, or exchanged, either individually or together with a related contract, identifiable asset, or liability. An intangible asset that the acquirer would be able to sell, license, or otherwise exchange for something else of value meets the separability criterion even if the acquirer does not intend to sell, license, or otherwise exchange it.
+**805-20-55-4** An acquired intangible asset meets the separability criterion if there is evidence of exchange transactions for that type of asset or an asset of a similar type, even if those transactions are infrequent and regardless of whether the acquirer is involved in them. For example, customer and subscriber lists are frequently licensed and thus meet the separability criterion. Even if an acquiree believes its customer lists have characteristics different from other customer lists, the fact that customer lists are frequently licensed generally means that the acquired customer list meets the separability criterion. However, a customer list acquired in a business combination
+would not meet the separability criterion if the terms of confidentiality or other agreements prohibit an entity from selling, leasing, or otherwise exchanging information about its customers.
+**805-20-55-4** An acquired intangible asset meets the separability criterion if there is evidence of exchange transactions for that type of asset or an asset of a similar type, even if those transactions are infrequent and regardless of whether the acquirer is involved in them. For example, customer and subscriber lists are frequently licensed and thus meet the separability criterion. Even if an acquiree believes its customer lists have characteristics different from other customer lists, the fact that customer lists are frequently licensed generally means that the acquired customer list meets the separability criterion. However, a customer list acquired in a business combination
+**805-20-55-5** would not meet the separability criterion if the terms of confidentiality or other agreements prohibit an entity from selling, leasing, or otherwise exchanging information about its customers.
+Market participants exchange deposit liabilities and related depositor relationship intangible assets
+1. in observable exchange transactions. Therefore, the acquirer should recognize the depositor relationship intangible asset separately from goodwill.
+2. An acquiree owns a registered trademark and documented but unpatented technical expertise used to manufacture the trademarked product. To transfer ownership of a trademark, the owner is also required to transfer everything else necessary for the new owner to produce a product or service indistinguishable from that produced by the former owner. Because the unpatented technical expertise must be separated from the acquiree or combined entity and sold if the related trademark is sold, it meets the separability criterion.
+
+**805-20-55-5** Market participants exchange deposit liabilities and related depositor relationship intangible assets
+1. in observable exchange transactions. Therefore, the acquirer should recognize the depositor relationship intangible asset separately from goodwill.
+2. An acquiree owns a registered trademark and documented but unpatented technical expertise used to manufacture the trademarked product. To transfer ownership of a trademark, the owner is also required to transfer everything else necessary for the new owner to produce a product or service indistinguishable from that produced by the former owner. Because the unpatented technical expertise must be separated from the acquiree or combined entity and sold if the related trademark is sold, it meets the separability criterion.
+
+**805-20-55-6** · · > Assembled Workforce and Other Items that Are not Identifiable
+The acquirer subsumes into goodwill the value of an acquired intangible asset that is not identifiable as of the acquisition date
+. For example, an acquirer may attribute value to the existence of an assembled workforce, which is an existing collection of employees that permits the acquirer to continue to operate an acquired business from the acquisition date. An assembled workforce does not represent the intellectual capital of the skilled workforce―the (often specialized) knowledge and experience that employees of an acquiree bring to their jobs. Because the assembled workforce is not an identifiable asset to be recognized separately from goodwill, any value attributed to it is subsumed into goodwill.
+**805-20-55-6** The acquirer subsumes into goodwill the value of an acquired intangible asset that is not identifiable as of the acquisition date
+**805-20-55-7** . For example, an acquirer may attribute value to the existence of an assembled workforce, which is an existing collection of employees that permits the acquirer to continue to operate an acquired business from the acquisition date. An assembled workforce does not represent the intellectual capital of the skilled workforce―the (often specialized) knowledge and experience that employees of an acquiree bring to their jobs. Because the assembled workforce is not an identifiable asset to be recognized separately from goodwill, any value attributed to it is subsumed into goodwill.
+The acquirer also subsumes into goodwill any value attributed to items that do not qualify as assets at the acquisition date. For example, the acquirer might attribute value to potential contracts the acquiree is negotiating with prospective new customers at the acquisition date. Because those potential contracts are not themselves assets at the acquisition date, the acquirer does not recognize them separately from goodwill. The acquirer should not subsequently reclassify the value of those contracts from goodwill for events that occur after the acquisition date. However, the acquirer should assess the facts and circumstances surrounding events occurring shortly after the acquisition to determine whether a separately recognizable intangible asset existed at the acquisition date.
+**805-20-55-7** The acquirer also subsumes into goodwill any value attributed to items that do not qualify as assets at the acquisition date. For example, the acquirer might attribute value to potential contracts the acquiree is negotiating with prospective new customers at the acquisition date. Because those potential contracts are not themselves assets at the acquisition date, the acquirer does not recognize them separately from goodwill. The acquirer should not subsequently reclassify the value of those contracts from goodwill for events that occur after the acquisition date. However, the acquirer should assess the facts and circumstances surrounding events occurring shortly after the acquisition to determine whether a separately recognizable intangible asset existed at the acquisition date.
+**805-20-55-8** After initial recognition, an acquirer accounts for intangible assets acquired in a business combination in accordance with the provisions of Subtopics 350-30and 360-10. However, as described in paragraph 350-10-15-4, the accounting for some acquired intangible assets after initial recognition is prescribed in other standards.
+**805-20-55-8** After initial recognition, an acquirer accounts for intangible assets acquired in a business combination in accordance with the provisions of Subtopics 350-30and 360-10. However, as described in paragraph 350-10-15-4, the accounting for some acquired intangible assets after initial recognition is prescribed in other standards.
+**805-20-55-9** The identifiability criteria determine whether an intangible asset is recognized separately from goodwill. However, the criteria neither provide guidance for measuring the fair value of an intangible asset nor restrict the assumptions used in measuring the fair value of an intangible asset. For example, the acquirer would take into account the assumptions that market participants would use when pricing the intangible asset, such as expectations of future contract renewals, in measuring fair value. It is not necessary for the renewals themselves to meet the identifiability criteria. (However, see paragraph 805-20-30-20, which establishes an exception to the fair value measurement principle for reacquired rights recognized in a business combination.)
+**805-20-55-9** The identifiability criteria determine whether an intangible asset is recognized separately from goodwill. However, the criteria neither provide guidance for measuring the fair value of an intangible asset nor restrict the assumptions used in measuring the fair value of an intangible asset. For example, the acquirer would take into account the assumptions that market participants would use when pricing the intangible asset, such as expectations of future contract renewals, in measuring fair value. It is not necessary for the renewals themselves to meet the identifiability criteria. (However, see paragraph 805-20-30-20, which establishes an exception to the fair value measurement principle for reacquired rights recognized in a business combination.)
+**805-20-55-10** Paragraphs 350-30-35-21 through 35-28
+provide guidance for determining whether indefinite-lived intangible assets should be combined into a single unit of account to test for impairment if they are operated as a single asset and essentially are inseparable from one another.
+**805-20-55-10** Paragraphs 350-30-35-21 through 35-28
+
+##### · > Examples of Intangible Assets That Are Identifiable
+
+**805-20-55-11** provide guidance for determining whether indefinite-lived intangible assets should be combined into a single unit of account to test for impairment if they are operated as a single asset and essentially are inseparable from one another.
+The following guidance presents examples of identifiable intangible assets acquired in a business combination. Some of the examples may have characteristics of assets other than intangible assets. The acquirer should account for those assets in accordance with their substance. The examples are not intended to be all-inclusive.
+**805-20-55-11** The following guidance presents examples of identifiable intangible assets acquired in a business combination. Some of the examples may have characteristics of assets other than intangible assets. The acquirer should account for those assets in accordance with their substance. The examples are not intended to be all-inclusive.
+**805-20-55-12** Intangible assets designated with the symbol # are those that arise from contractual or other legal rights. Those designated with the symbol * do not arise from contractual or other legal rights but are separable. Intangible assets designated with the symbol # might also be separable, but separability is not a necessary condition for an asset to meet the contractual-legal criterion.
+**805-20-55-12** Intangible assets designated with the symbol # are those that arise from contractual or other legal rights. Those designated with the symbol * do not arise from contractual or other legal rights but are separable. Intangible assets designated with the symbol # might also be separable, but separability is not a necessary condition for an asset to meet the contractual-legal criterion.
+**805-20-55-13** Marketing-related intangible assets
+2. Customer-related intangible assets
+3. Artistic-related intangible assets
+4. Contract-based intangible assets
+5. Technology-based intangible assets.
+
+**805-20-55-13** Marketing-related intangible assets
+2. Customer-related intangible assets
+3. Artistic-related intangible assets
+4. Contract-based intangible assets
+5. Technology-based intangible assets.
+
+**805-20-55-14** · · > Marketing-Related Intangible Assets
+Trademarks, trade names, service marks, collective marks, certification marks #
+2. Trade dress (unique color, shape, package design) #
+3. Newspaper mastheads #
+4. Internet domain names #
+5. Noncompetition agreements. #
+
+**805-20-55-14** Trademarks, trade names, service marks, collective marks, certification marks #
+2. Trade dress (unique color, shape, package design) #
+3. Newspaper mastheads #
+4. Internet domain names #
+5. Noncompetition agreements. #
+
+**805-20-55-15** Guidance on trademarks, trade names, service marks, collective marks, certification marks, and internet domain names follows.
+**805-20-55-15** Guidance on trademarks, trade names, service marks, collective marks, certification marks, and internet domain names follows.
+**805-20-55-16** · · · > Trademarks, Trade Names, Service Marks, Collective Marks, Certification Marks #
+Trademarks are words, names, symbols, or other devices used in trade to indicate the source of a product and to distinguish it from the products of others. A service mark identifies and distinguishes the source of a service rather than a product. Collective marks identify the goods or services of members of a group. Certification marks certify the geographical origin or other characteristics of a good or service.
+**805-20-55-16** Trademarks are words, names, symbols, or other devices used in trade to indicate the source of a product and to distinguish it from the products of others. A service mark identifies and distinguishes the source of a service rather than a product. Collective marks identify the goods or services of members of a group. Certification marks certify the geographical origin or other characteristics of a good or service.
+**805-20-55-17** Trademarks, trade names, service marks, collective marks, and certification marks may be protected legally through registration with governmental agencies, continuous use in commerce, or by other means. If it is protected legally through registration or other means, a trademark or other mark acquired in a business combination is an intangible asset that meets the contractual-legal criterion. Otherwise, a trademark or other mark acquired in a business combination
+can be recognized separately from goodwill if the separability criterion is met, which normally it would be.
+**805-20-55-17** Trademarks, trade names, service marks, collective marks, and certification marks may be protected legally through registration with governmental agencies, continuous use in commerce, or by other means. If it is protected legally through registration or other means, a trademark or other mark acquired in a business combination is an intangible asset that meets the contractual-legal criterion. Otherwise, a trademark or other mark acquired in a business combination
+**805-20-55-18** can be recognized separately from goodwill if the separability criterion is met, which normally it would be.
+The terms *brand* and *brand name*, often used as synonyms for trademarks and other marks, are general marketing terms that typically refer to a group of complementary assets such as a trademark (or service mark) and its related trade name, formulas, recipes, and technological expertise. This Subtopic does not preclude an entity from recognizing, as a single asset separately from goodwill, a group of complementary intangible assets commonly referred to as a brand if the assets that make up that group have similar useful lives.
+**805-20-55-18** The terms *brand* and *brand name*, often used as synonyms for trademarks and other marks, are general marketing terms that typically refer to a group of complementary assets such as a trademark (or service mark) and its related trade name, formulas, recipes, and technological expertise. This Subtopic does not preclude an entity from recognizing, as a single asset separately from goodwill, a group of complementary intangible assets commonly referred to as a brand if the assets that make up that group have similar useful lives.
+**805-20-55-19** · · · > Internet Domain Names #
+An internet domain name is a unique alphanumeric name that is used to identify a particular numeric internet address. Registration of a domain name creates an association between that name and a designated computer on the internet for the period of the registration. Those registrations are renewable. A registered domain name acquired in a business combination meets the contractual-legal criterion.
+**805-20-55-19** An internet domain name is a unique alphanumeric name that is used to identify a particular numeric internet address. Registration of a domain name creates an association between that name and a designated computer on the internet for the period of the registration. Those registrations are renewable. A registered domain name acquired in a business combination meets the contractual-legal criterion.
+**805-20-55-20** · · > Customer-Related Intangible Assets
+Customer lists *
+2. Order or production backlog #
+3. Customer contracts and related customer relationships #
+4. Noncontractual customer relationships. *
+
+**805-20-55-20** Customer lists *
+2. Order or production backlog #
+3. Customer contracts and related customer relationships #
+4. Noncontractual customer relationships. *
+
+**805-20-55-21** · · · > Customer Lists *
+A customer list consists of information about customers, such as their names and contact information. A customer list also may be in the form of a database that includes other information about the customers, such as their order histories and demographic information. A customer list generally does not arise from contractual or other legal rights. However, customer lists are frequently leased or exchanged. Therefore, a customer list acquired in a business combination normally meets the separability criterion.
+**805-20-55-21** A customer list consists of information about customers, such as their names and contact information. A customer list also may be in the form of a database that includes other information about the customers, such as their order histories and demographic information. A customer list generally does not arise from contractual or other legal rights. However, customer lists are frequently leased or exchanged. Therefore, a customer list acquired in a business combination normally meets the separability criterion.
+**805-20-55-22** · · · > Order or Production Backlog #
+An order or production backlog arises from contracts such as purchase or sales orders. An order or production backlog acquired in a business combination meets the contractual-legal criterion even if the purchase or sales orders are cancelable.
+**805-20-55-22** An order or production backlog arises from contracts such as purchase or sales orders. An order or production backlog acquired in a business combination meets the contractual-legal criterion even if the purchase or sales orders are cancelable.
+**805-20-55-23** · · · > Customer Contracts and the Related Customer Relationships #
+If an entity establishes relationships with its customers through contracts, those customer relationships arise from contractual rights. Therefore, customer contracts and the related customer relationships acquired in a business combination meet the contractual-legal criterion, even if confidentiality or other contractual terms prohibit the sale or transfer of a contract separately from the acquiree.
+**805-20-55-23** If an entity establishes relationships with its customers through contracts, those customer relationships arise from contractual rights. Therefore, customer contracts and the related customer relationships acquired in a business combination meet the contractual-legal criterion, even if confidentiality or other contractual terms prohibit the sale or transfer of a contract separately from the acquiree.
+**805-20-55-24** A customer contract and the related customer relationship may represent two distinct intangible assets. Both the useful lives and the pattern in which the economic benefits of the two assets are consumed may differ.
+**805-20-55-24** A customer contract and the related customer relationship may represent two distinct intangible assets. Both the useful lives and the pattern in which the economic benefits of the two assets are consumed may differ.
+**805-20-55-25** A customer relationship exists between an entity and its customer if the entity has information about the customer and has regular contact with the customer, and the customer has the ability to make direct contact with the entity. Customer relationships meet the contractual-legal criterion if an entity has a practice of establishing contracts with its customers, regardless of whether a contract exists at the acquisition date. Customer relationships also may arise through means other than contracts, such as through regular contact by sales or service representatives. As noted in paragraph 805-20-55-22, an order or a production backlog arises from contracts such as purchase or sales orders and therefore is considered a contractual right. Consequently, if an entity has relationships with its customers through these types of contracts, the customer relationships also arise from contractual rights and therefore meet the contractual-legal criterion.
+**805-20-55-25** A customer relationship exists between an entity and its customer if the entity has information about the customer and has regular contact with the customer, and the customer has the ability to make direct contact with the entity. Customer relationships meet the contractual-legal criterion if an entity has a practice of establishing contracts with its customers, regardless of whether a contract exists at the acquisition date. Customer relationships also may arise through means other than contracts, such as through regular contact by sales or service representatives. As noted in paragraph 805-20-55-22, an order or a production backlog arises from contracts such as purchase or sales orders and therefore is considered a contractual right. Consequently, if an entity has relationships with its customers through these types of contracts, the customer relationships also arise from contractual rights and therefore meet the contractual-legal criterion.
+**805-20-55-26** See Example 1 (paragraph 805-20-55-52) for illustrations of customer contract and customer relationship intangible assets acquired in a business combination.
+**805-20-55-26** See Example 1 (paragraph 805-20-55-52) for illustrations of customer contract and customer relationship intangible assets acquired in a business combination.
+**805-20-55-27** · · · > Noncontractual Customer Relationships *
+A customer relationship acquired in a business combination that does not arise from a contract may nevertheless be identifiable because the relationship is separable. Exchange transactions for the same asset or a similar asset that indicate that other entities have sold or otherwise transferred a particular type of noncontractual customer relationship would provide evidence that the noncontractual customer relationship is separable. For example, relationships with depositors are frequently exchanged with the related deposits and therefore meet the criteria for recognition as an intangible asset separately from goodwill.
+**805-20-55-27** A customer relationship acquired in a business combination that does not arise from a contract may nevertheless be identifiable because the relationship is separable. Exchange transactions for the same asset or a similar asset that indicate that other entities have sold or otherwise transferred a particular type of noncontractual customer relationship would provide evidence that the noncontractual customer relationship is separable. For example, relationships with depositors are frequently exchanged with the related deposits and therefore meet the criteria for recognition as an intangible asset separately from goodwill.
+**805-20-55-28** See Example 1 (paragraph 805-20-55-52) for illustrations of customer contract and customer relationship intangible assets acquired in a business combination.
+**805-20-55-28** See Example 1 (paragraph 805-20-55-52) for illustrations of customer contract and customer relationship intangible assets acquired in a business combination.
+**805-20-55-29** · · > Artistic-Related Intangible Assets
+Plays, operas, ballets #
+2. Books, magazines, newspapers, other literary works #
+3. Musical works such as compositions, song lyrics, advertising jingles #
+4. Pictures, photographs #
+5. Video and audiovisual material, including motion pictures or films, music videos, television programs. #
+
+**805-20-55-29** Plays, operas, ballets #
+2. Books, magazines, newspapers, other literary works #
+3. Musical works such as compositions, song lyrics, advertising jingles #
+4. Pictures, photographs #
+5. Video and audiovisual material, including motion pictures or films, music videos, television programs. #
+
+**805-20-55-30** Artistic-related assets acquired in a business combination are identifiable if they arise from contractual or legal rights such as those provided by copyright. The holder can transfer a copyright, either in whole through an assignment or in part through a licensing agreement. An acquirer is not precluded from recognizing a copyright intangible asset and any related assignments or license agreements as a single asset, provided they have similar useful lives.
+**805-20-55-30** Artistic-related assets acquired in a business combination are identifiable if they arise from contractual or legal rights such as those provided by copyright. The holder can transfer a copyright, either in whole through an assignment or in part through a licensing agreement. An acquirer is not precluded from recognizing a copyright intangible asset and any related assignments or license agreements as a single asset, provided they have similar useful lives.
+**805-20-55-31** · · > Contract-Based Intangible Assets
+Licensing, royalty, standstill agreements #
+2. Advertising, construction, management, service or supply contracts #
+3. Operating lease agreements of a lessor #
+4. Construction permits #
+5. Franchise agreements #
+6. Operating and broadcast rights #
+7. Servicing contracts such as mortgage servicing contracts #
+8. Employment contracts #
+9. Use rights such as drilling, water, air, timber cutting, and route authorities. #
+
+**805-20-55-31** Licensing, royalty, standstill agreements #
+2. Advertising, construction, management, service or supply contracts #
+3. Operating lease agreements of a lessor #
+4. Construction permits #
+5. Franchise agreements #
+6. Operating and broadcast rights #
+7. Servicing contracts such as mortgage servicing contracts #
+8. Employment contracts #
+9. Use rights such as drilling, water, air, timber cutting, and route authorities. #
+
+**805-20-55-32** Guidance on servicing contracts, employment contracts, and use rights follows.
+**805-20-55-32** Guidance on servicing contracts, employment contracts, and use rights follows.
+**805-20-55-33** · · · > Servicing Contracts Such as Mortgage Servicing Contracts #
+If the transfer of the servicer's financial assets met the requirements for sale accounting
+2. Through the separate acquisition or assumption of a servicing obligation that does not relate to financial assets of the combined entity.
+
+**805-20-55-33** If the transfer of the servicer's financial assets met the requirements for sale accounting
+2. Through the separate acquisition or assumption of a servicing obligation that does not relate to financial assets of the combined entity.
+
+**805-20-55-34** Topic 860 provides guidance on accounting for servicing contracts.
+**805-20-55-34** Topic 860 provides guidance on accounting for servicing contracts.
+**805-20-55-35** If mortgage loans, credit card receivables, or other financial assets are acquired in a business combination with the servicing obligation, the inherent servicing rights are not a separate intangible asset because the fair value of those servicing rights is included in the measurement of the fair value of the acquired financial asset.
+**805-20-55-35** If mortgage loans, credit card receivables, or other financial assets are acquired in a business combination with the servicing obligation, the inherent servicing rights are not a separate intangible asset because the fair value of those servicing rights is included in the measurement of the fair value of the acquired financial asset.
+**805-20-55-36** · · · > Employment Contracts #
+Employment contracts that are beneficial contracts from the perspective of the employer because the pricing of those contracts is favorable relative to market terms are one type of contract-based intangible asset.
+**805-20-55-36** Employment contracts that are beneficial contracts from the perspective of the employer because the pricing of those contracts is favorable relative to market terms are one type of contract-based intangible asset.
+**805-20-55-37** · · · > Use Rights #
+Use rights such as drilling, water, air, timber cutting, and route authorities are contract-based intangible assets to be accounted for separately from goodwill. Particular use rights may have characteristics of tangible, rather than intangible, assets. For example, mineral rights
+are tangible assets. An acquirer should account for use rights based on their nature.
+**805-20-55-37** Use rights such as drilling, water, air, timber cutting, and route authorities are contract-based intangible assets to be accounted for separately from goodwill. Particular use rights may have characteristics of tangible, rather than intangible, assets. For example, mineral rights
+**805-20-55-38** are tangible assets. An acquirer should account for use rights based on their nature. · · > Technology-Based Intangible Assets
+Patented technology #
+2. Computer software and mask works #
+3. Unpatented technology *
+4. Databases, including title plants *
+5. Trade secrets, such as secret formulas, processes, recipes. #
+
+**805-20-55-38** Patented technology #
+2. Computer software and mask works #
+3. Unpatented technology *
+4. Databases, including title plants *
+5. Trade secrets, such as secret formulas, processes, recipes. #
+
+**805-20-55-39** Guidance on computer software and mask works, databases, including title plants, and trade secrets such as secret formulas, processes, and recipes follows.
+**805-20-55-39** Guidance on computer software and mask works, databases, including title plants, and trade secrets such as secret formulas, processes, and recipes follows.
+**805-20-55-40** · · · > Computer Software and Mask Works #
+Computer software and program formats acquired in a business combination that are protected legally, such as by patent or copyright, meet the contractual-legal criterion for identification as intangible assets.
+**805-20-55-40** Computer software and program formats acquired in a business combination that are protected legally, such as by patent or copyright, meet the contractual-legal criterion for identification as intangible assets.
+**805-20-55-41** Mask works are software permanently stored on a read-only memory chip as a series of stencils or integrated circuitry. Mask works may have legal protection. Mask works with legal protection that are acquired in a business combination meet the contractual-legal criterion for identification as intangible assets.
+**805-20-55-41** Mask works are software permanently stored on a read-only memory chip as a series of stencils or integrated circuitry. Mask works may have legal protection. Mask works with legal protection that are acquired in a business combination meet the contractual-legal criterion for identification as intangible assets.
+**805-20-55-42** · · · > Databases, Including Title Plants
+Databases are collections of information, often stored in electronic form, such as on computer disks or files. A database that includes original works of authorship may be entitled to copyright protection. A database acquired in a business combination that is protected by copyright meets the contractual-legal criterion. However, a database typically includes information created as a consequence of an entity's normal operations, such as customer lists, or specialized information, such as scientific data or credit information. Databases that are not protected by copyright can be, and often are, exchanged, licensed, or leased to others in their entirety or in part. Therefore, even if the future economic benefits from a database do not arise from legal rights, a database acquired in a business combination meets the separability criterion.
+**805-20-55-42** Databases are collections of information, often stored in electronic form, such as on computer disks or files. A database that includes original works of authorship may be entitled to copyright protection. A database acquired in a business combination that is protected by copyright meets the contractual-legal criterion. However, a database typically includes information created as a consequence of an entity's normal operations, such as customer lists, or specialized information, such as scientific data or credit information. Databases that are not protected by copyright can be, and often are, exchanged, licensed, or leased to others in their entirety or in part. Therefore, even if the future economic benefits from a database do not arise from legal rights, a database acquired in a business combination meets the separability criterion.
+**805-20-55-43** Title plants constitute a historical record of all matters affecting title to parcels of land in a particular geographical area. Title plant assets are bought and sold, either in whole or in part, in exchange transactions or are licensed. Therefore, title plant assets acquired in a business combination meet the separability criterion.
+**805-20-55-43** Title plants constitute a historical record of all matters affecting title to parcels of land in a particular geographical area. Title plant assets are bought and sold, either in whole or in part, in exchange transactions or are licensed. Therefore, title plant assets acquired in a business combination meet the separability criterion.
+**805-20-55-44** · · · > Trade Secrets Such as Secret Formulas, Processes, Recipes #
+A trade secret is “information, including a formula, pattern, recipe, compilation, program, device, method, technique, or process that (1) derives independent economic value, actual or potential, from not being generally known and (2) is the subject of efforts that are reasonable under the circumstances to maintain its secrecy," according to *The New Role of Intellectual Property in Commercial Transactions* (Simensky and Breyer 1998).
+**805-20-55-44** A trade secret is “information, including a formula, pattern, recipe, compilation, program, device, method, technique, or process that (1) derives independent economic value, actual or potential, from not being generally known and (2) is the subject of efforts that are reasonable under the circumstances to maintain its secrecy," according to *The New Role of Intellectual Property in Commercial Transactions* (Simensky and Breyer 1998).
+**805-20-55-45** If the future economic benefits from a trade secret acquired in a business combination are legally protected, that asset meets the contractual-legal criterion. Otherwise, trade secrets acquired in a business combination are identifiable only if the separability criterion is met, which is likely to be the case.
+**805-20-55-45** If the future economic benefits from a trade secret acquired in a business combination are legally protected, that asset meets the contractual-legal criterion. Otherwise, trade secrets acquired in a business combination are identifiable only if the separability criterion is met, which is likely to be the case.
+**805-20-55-46** Paragraph not used.
+**805-20-55-46** Paragraph not used.
+**805-20-55-47** Paragraph not used.
+**805-20-55-47** Paragraph not used.
+**805-20-55-48** Paragraph not used.
+**805-20-55-48** Paragraph not used.
+**805-20-55-49** Paragraph not used.
+**805-20-55-49** Paragraph not used.
+
+##### · > Contractual Termination Benefits and Curtailment Losses
+
+**805-20-55-50** An entity that has agreed to a business combination may develop a plan to terminate certain employees. The plan will be implemented only if the combination is consummated, but the entity assesses the likelihood of the combination to be probable. In this circumstance, when terminated, the employees will be entitled to termination benefits under a preexisting plan or contractual relationship. The termination of the employees also may affect the entity's assumptions in estimating its obligations for pension benefits, other postretirement benefits, and postemployment benefits; that is, the termination of the employees may trigger curtailment losses or the recording of a contractual termination benefit.
+**805-20-55-50** An entity that has agreed to a business combination may develop a plan to terminate certain employees. The plan will be implemented only if the combination is consummated, but the entity assesses the likelihood of the combination to be probable. In this circumstance, when terminated, the employees will be entitled to termination benefits under a preexisting plan or contractual relationship. The termination of the employees also may affect the entity's assumptions in estimating its obligations for pension benefits, other postretirement benefits, and postemployment benefits; that is, the termination of the employees may trigger curtailment losses or the recording of a contractual termination benefit.
+**805-20-55-51** The liability for the contractual termination benefits and the curtailment losses under employee benefit plans that will be triggered by the consummation of the business combination shall not be recognized when it is probable that the business combination will be consummated; rather it shall be recognized when the business combination is consummated.
+**805-20-55-51** The liability for the contractual termination benefits and the curtailment losses under employee benefit plans that will be triggered by the consummation of the business combination shall not be recognized when it is probable that the business combination will be consummated; rather it shall be recognized when the business combination is consummated.
+
+##### · > Example 1: Customer Contract and Customer Relationship Intangible Assets Acquired in a Business Combination
+
+**805-20-55-52** > Illustrations
+The following Cases illustrate the guidance in paragraphs 805-20-55-23 through 55-27
+1. Five-year supply agreement (Case A)
+2. One customer, contract in one of two lines of business (Case B)
+3. Purchase and sales orders (Case C)
+4. Cancelable contracts (Case D).
+
+**805-20-55-52** The following Cases illustrate the guidance in paragraphs 805-20-55-23 through 55-27
+1. Five-year supply agreement (Case A)
+2. One customer, contract in one of two lines of business (Case B)
+3. Purchase and sales orders (Case C)
+4. Cancelable contracts (Case D).
+
+**805-20-55-53** In each of the Cases, the Acquirer acquires Target in a business combination on December 31, 20X5.
+**805-20-55-53** In each of the Cases, the Acquirer acquires Target in a business combination on December 31, 20X5.
+**805-20-55-54** · · > Case A: Five-Year Supply Agreement
+Target has a five-year agreement to supply goods to Customer. Both Target and Acquirer believe that Customer will renew the agreement at the end of the current contract. The agreement is not separable. The agreement, whether cancelable or not, meets the contractual-legal criterion. Additionally, because Target establishes its relationship with Customer through a contract, not only the agreement itself but also Target's customer relationship with Customer meet the contractual-legal criterion.
+**805-20-55-54** Target has a five-year agreement to supply goods to Customer. Both Target and Acquirer believe that Customer will renew the agreement at the end of the current contract. The agreement is not separable. The agreement, whether cancelable or not, meets the contractual-legal criterion. Additionally, because Target establishes its relationship with Customer through a contract, not only the agreement itself but also Target's customer relationship with Customer meet the contractual-legal criterion.
+**805-20-55-55** · · > Case B: One Customer, Contract in One of Two Lines of Business
+Target manufactures goods in two distinct lines of business: sporting goods and electronics. Customer purchases both sporting goods and electronics from Target. Target has a contract with Customer to be its exclusive provider of sporting goods but has no contract for the supply of electronics to Customer. Both Target and Acquirer believe that only one overall customer relationship exists between Target and Customer. The contract to be Customer's exclusive supplier of sporting goods, whether cancelable or not, meets the contractual-legal criterion. Additionally, because Target establishes its relationship with Customer through a contract, the customer relationship with Customer meets the contractual-legal criterion. Because Target has only one customer relationship with Customer, the fair value of that relationship incorporates assumptions about Target's relationship with Customer related to both sporting goods and electronics. However, if Acquirer determines that the customer relationships with Customer for sporting goods and for electronics are separate from each other, Acquirer would assess whether the customer relationship for electronics meets the separability criterion for identification as an intangible asset.
+**805-20-55-55** Target manufactures goods in two distinct lines of business: sporting goods and electronics. Customer purchases both sporting goods and electronics from Target. Target has a contract with Customer to be its exclusive provider of sporting goods but has no contract for the supply of electronics to Customer. Both Target and Acquirer believe that only one overall customer relationship exists between Target and Customer. The contract to be Customer's exclusive supplier of sporting goods, whether cancelable or not, meets the contractual-legal criterion. Additionally, because Target establishes its relationship with Customer through a contract, the customer relationship with Customer meets the contractual-legal criterion. Because Target has only one customer relationship with Customer, the fair value of that relationship incorporates assumptions about Target's relationship with Customer related to both sporting goods and electronics. However, if Acquirer determines that the customer relationships with Customer for sporting goods and for electronics are separate from each other, Acquirer would assess whether the customer relationship for electronics meets the separability criterion for identification as an intangible asset.
+**805-20-55-56** · · > Case C: Purchase and Sales Orders
+Target does business with its customers solely through purchase and sales orders. At December 31, 20X5, Target has a backlog of customer purchase orders from 60 percent of its customers, all of whom are recurring customers. The other 40 percent of Target's customers also are recurring customers. However, as of December 31, 20X5, Target has no open purchase orders or other contracts with those customers. Regardless of whether they are cancelable or not, the purchase orders from 60 percent of Target's customers meet the contractual-legal criterion. Additionally, because Target has established its relationship with 60 percent of its customers through contracts, not only the purchase orders but also Target's customer relationships meet the contractual-legal criterion. Because Target has a practice of establishing contracts with the remaining 40 percent of its customers, its relationship with those customers also arises through contractual rights and therefore meets the contractual-legal criterion even though Target does not have contracts with those customers at December 31, 20X5.
+**805-20-55-56** Target does business with its customers solely through purchase and sales orders. At December 31, 20X5, Target has a backlog of customer purchase orders from 60 percent of its customers, all of whom are recurring customers. The other 40 percent of Target's customers also are recurring customers. However, as of December 31, 20X5, Target has no open purchase orders or other contracts with those customers. Regardless of whether they are cancelable or not, the purchase orders from 60 percent of Target's customers meet the contractual-legal criterion. Additionally, because Target has established its relationship with 60 percent of its customers through contracts, not only the purchase orders but also Target's customer relationships meet the contractual-legal criterion. Because Target has a practice of establishing contracts with the remaining 40 percent of its customers, its relationship with those customers also arises through contractual rights and therefore meets the contractual-legal criterion even though Target does not have contracts with those customers at December 31, 20X5.
+**805-20-55-57** · · > Case D: Cancelable Contracts
+Target has a portfolio of one-year motor insurance contracts that are cancelable by policyholders. Because Target establishes its relationships with policyholders through insurance contracts, the customer relationship with policyholders meets the contractual-legal criterion. The guidance in Subtopic 350-30 applies to the customer relationship intangible asset.
+**805-20-55-57** Target has a portfolio of one-year motor insurance contracts that are cancelable by policyholders. Because Target establishes its relationships with policyholders through insurance contracts, the customer relationship with policyholders meets the contractual-legal criterion. The guidance in Subtopic 350-30 applies to the customer relationship intangible asset.
+**805-20-55-58** Paragraph not used.
+**805-20-55-58** Paragraph not used.
+**805-20-55-59** Paragraph not used.
+**805-20-55-59** Paragraph not used.
+**805-20-55-60** Paragraph not used.
+**805-20-55-60** Paragraph not used.
+
+## 65 Transition and Open Effective Date Information
+
+General Note:The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
+
+### General
+
+**805-20-65-1** Related Proposed ASUs
+Paragraph superseded on 07/02/2014 after the end of the transition period stated in Accounting Standards Update No. 2012-06, *Business Combinations (Topic 805): Subsequent Accounting for an Indemnification Asset Recognized at the Acquisition Date as a Result of a Government-Assisted Acquisition of a Financial Institution*.
+Paragraph superseded on 07/02/2014 after the end of the transition period stated in Accounting Standards Update No. 2012-06, *Business Combinations (Topic 805): Subsequent Accounting for an Indemnification Asset Recognized at the Acquisition Date as a Result of a Government-Assisted Acquisition of a Financial Institution*.
+**805-20-65-2** > Transition Related to Accounting Standards Updates No. 2014-18, *Business Combinations (Topic 805): Accounting for Identifiable Intangible Assets in a Business Combination,* and No. 2019-06, *Intangibles—Goodwill and Other (Topic 350), Business Combinations (Topic 805), and Not-for-Profit Entities (Topic 958): Extending the Private Company Accounting Alternatives on Goodwill and Certain Identifiable Intangible Assets to Not-for-Profit Entities*
+Upon adoption of the Accounting Alternative Subsections of this Subtopic, that guidance shall be effective prospectively to the first transaction that is identified in paragraph 805-20-15-2 after the adoption of the accounting alternative.
+2. Customer-related intangible assets and noncompetition agreements that exist as of the beginning of the period of adoption shall continue to be subsequently measured in accordance with Topic 350 on intangibles—goodwill and other. That is, existing customer-related intangible assets and noncompetition agreements should not be subsumed into goodwill upon adoption of the Accounting Alternative Subsections of this Subtopic.
+3. Subparagraph superseded by Accounting Standards Update No. 2016-03.
+4. A private company or not-for-profit entity that makes an accounting policy election to apply the guidance in the Accounting Alternative Subsections of this Subtopic for the first time need not justify that the use of the accounting alternative is preferable as described in paragraph 250-10-45-2.
+
+Upon adoption of the Accounting Alternative Subsections of this Subtopic, that guidance shall be effective prospectively to the first transaction that is identified in paragraph 805-20-15-2 after the adoption of the accounting alternative.
+2. Customer-related intangible assets and noncompetition agreements that exist as of the beginning of the period of adoption shall continue to be subsequently measured in accordance with Topic 350 on intangibles—goodwill and other. That is, existing customer-related intangible assets and noncompetition agreements should not be subsumed into goodwill upon adoption of the Accounting Alternative Subsections of this Subtopic.
+3. Subparagraph superseded by Accounting Standards Update No. 2016-03.
+4. A private company or not-for-profit entity that makes an accounting policy election to apply the guidance in the Accounting Alternative Subsections of this Subtopic for the first time need not justify that the use of the accounting alternative is preferable as described in paragraph 250-10-45-2.
+
+Paragraph superseded on 06/30/2025 after the end of the transition period stated in Accounting Standards Update No. 2021-08, *Business Combinations (Topic 805): Accounting for Contract Assets and Contract Liabilities from Contracts with Customers.*
+Paragraph superseded on 06/30/2025 after the end of the transition period stated in Accounting Standards Update No. 2021-08, *Business Combinations (Topic 805): Accounting for Contract Assets and Contract Liabilities from Contracts with Customers.*
+
+## S00 Status
+
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+
+### General
+
+**805-20-S00-1** The following table identifies the changes made to this Subtopic.
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| 805-20-S50-1 | Superseded | Accounting Standards Update No. 2012-03 | 08/27/2012 |
+| 805-20-S55-1 | Superseded | Accounting Standards Update No. 2012-03 | 08/27/2012 |
+| 805-20-S55-2 | Superseded | Accounting Standards Update No. 2012-03 | 08/27/2012 |
+| 805-20-S99-1 | Superseded | Accounting Standards Update No. 2010-22 | 08/19/2010 |
+| 805-20-S99-2 | Superseded | Accounting Standards Update No. 2010-22 | 08/19/2010 |
+| 805-20-S99-3 | Amended | Accounting Standards Update No. 2010-04 | 01/15/2010 |
+
+
+**805-20-S00-1** The following table identifies the changes made to this Subtopic.
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| 805-20-S50-1 | Superseded | Accounting Standards Update No. 2012-03 | 08/27/2012 |
+| 805-20-S55-1 | Superseded | Accounting Standards Update No. 2012-03 | 08/27/2012 |
+| 805-20-S55-2 | Superseded | Accounting Standards Update No. 2012-03 | 08/27/2012 |
+| 805-20-S99-1 | Superseded | Accounting Standards Update No. 2010-22 | 08/19/2010 |
+| 805-20-S99-2 | Superseded | Accounting Standards Update No. 2010-22 | 08/19/2010 |
+| 805-20-S99-3 | Amended | Accounting Standards Update No. 2010-04 | 01/15/2010 |
+
+
+## S30 Initial Measurement
+
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+
+### General
+
+**805-20-S30-1** > Use of Residual Method to Value Acquired Assets Other Than Goodwill
+See paragraph 805-20-S99-3, SEC Staff Announcement: Use of the Residual Method to Value Acquired Assets Other than Goodwill, for SEC Staff views regarding the use of the residual method.
+**805-20-S30-1** See paragraph 805-20-S99-3, SEC Staff Announcement: Use of the Residual Method to Value Acquired Assets Other than Goodwill, for SEC Staff views regarding the use of the residual method.
+
+## S50 Disclosure
+
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+
+### General
+
+**805-20-S50-1** Paragraph superseded by Accounting Standards Update No. 2012-03.
+**805-20-S50-1** Paragraph superseded by Accounting Standards Update No. 2012-03.
+
+## S55 Implementation Guidance and Illustrations
+
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+
+### General
+
+**805-20-S55-1** Paragraph superseded by Accounting Standards Update No. 2012-03.
+**805-20-S55-1** Paragraph superseded by Accounting Standards Update No. 2012-03.
+**805-20-S55-2** Paragraph superseded by Accounting Standards Update No. 2012-03.
+**805-20-S55-2** Paragraph superseded by Accounting Standards Update No. 2012-03.
+
+## S99 SEC Materials
+
+General Note:As more fully described in *About the Codification*, the Codification includes selected SEC and SEC Staff content for reference by public companies. The Codification does not replace or affect how the SEC or SEC Staff issues or updates SEC content. SEC Staff content does not constitute Commission-approved rules or interpretations of the SEC.
+
+### General
+
+Paragraph superseded by Accounting Standards Update No. 2010-22.
+Paragraph superseded by Accounting Standards Update No. 2010-22.
+Paragraph superseded by Accounting Standards Update No. 2010-22.
+Paragraph superseded by Accounting Standards Update No. 2010-22.
+
+##### · > Announcements Made by SEC Staff at Emerging Issues Task Force (EITF) Meetings
+
+**805-20-S99-3** > SEC Staff Guidance· · > SEC Staff Announcement: Use of Residual Method to Value Acquired Assets Other than Goodwill
+The following is the text of SEC Staff Announcement: Use of Residual Method to Value Acquired Assets Other than Goodwill.Paragraph 805-20-25-10 discusses the recognition of identifiable intangible assets acquired in a business combination. The SEC staff is aware of instances in which registrants have asserted that certain intangible assets that arise from legal or contractual rights cannot be separately and directly valued (hereinafter referred to as a "direct value method") because the nature of the particular asset makes it fundamentally indistinguishable from goodwill in a business combination (for example, cellular/spectrum licenses, cable franchise agreements, and so forth). Accordingly, some have applied a policy of assigning purchase price to all other identifiable assets and liabilities as provided in Topic 805, with the remaining residual amount being allocated to the "indistinguishable" intangible asset. In those instances, there is either no goodwill recognized or the amount of goodwill recognized uses a technique other than the one specified in paragraph 805-30-30-1. These methods have been referred to as "the residual method" of valuing intangible assets and have been used in the telecommunications, broadcasting, and cable industries.
+Some have asserted that the residual method provides an acceptable approach for determining the fair value of the intangible asset to which the residual is assigned, either because it approximates the value that would be attained from a direct value method or because they believe that other methods of valuation are not practicable under the circumstances. Others have indicated that the residual method should be used as a proxy for fair value of the intangible asset in these situations, since the fair value of the intangible asset in question is not determinable. When it is or has been used in assigning purchase price, the residual method is also often used in impairment tests. The SEC staff believes that the residual method does not comply with the requirements of Topic 805. Except for certain exceptions noted in paragraphs 805-20-30-10 through 30-12, identifiable intangible assets that meet the recognition criteria shall be recorded at fair value. Paragraph 805-30-30-1 discusses the initial measurement of goodwill. The SEC staff notes that a fundamental distinction between other recognized intangible assets and goodwill is that goodwill is both defined and measured as an excess or residual asset, while other recognized intangible assets are required to be measured at fair value. The SEC staff does not believe that the application of the residual method to the valuation of intangible assets can be assumed to produce amounts representing the fair values of those assets. The SEC staff also notes that valuation difficulty does not provide relief from the requirements in paragraphs 805-20-25-1 and 805-20-30-1 to separately recognize intangible assets at fair value apart from goodwill. Furthermore, the SEC staff notes that the same types of assets being valued using the residual method by some entities are being valued using a direct value method by other entities. Accordingly, the SEC staff believes the residual method should no longer be used to value intangible assets other than goodwill. Rather, a direct value method should be used to determine the fair value of all intangible assets required to be recognized at fair value under Topic 805. Impairment testing of intangible assets similarly should not rely on a residual method and should, instead, comply with the provisions of Topic 350.
+The following is the text of SEC Staff Announcement: Use of Residual Method to Value Acquired Assets Other than Goodwill.Paragraph 805-20-25-10 discusses the recognition of identifiable intangible assets acquired in a business combination. The SEC staff is aware of instances in which registrants have asserted that certain intangible assets that arise from legal or contractual rights cannot be separately and directly valued (hereinafter referred to as a "direct value method") because the nature of the particular asset makes it fundamentally indistinguishable from goodwill in a business combination (for example, cellular/spectrum licenses, cable franchise agreements, and so forth). Accordingly, some have applied a policy of assigning purchase price to all other identifiable assets and liabilities as provided in Topic 805, with the remaining residual amount being allocated to the "indistinguishable" intangible asset. In those instances, there is either no goodwill recognized or the amount of goodwill recognized uses a technique other than the one specified in paragraph 805-30-30-1. These methods have been referred to as "the residual method" of valuing intangible assets and have been used in the telecommunications, broadcasting, and cable industries.
+Some have asserted that the residual method provides an acceptable approach for determining the fair value of the intangible asset to which the residual is assigned, either because it approximates the value that would be attained from a direct value method or because they believe that other methods of valuation are not practicable under the circumstances. Others have indicated that the residual method should be used as a proxy for fair value of the intangible asset in these situations, since the fair value of the intangible asset in question is not determinable. When it is or has been used in assigning purchase price, the residual method is also often used in impairment tests.
+The SEC staff believes that the residual method does not comply with the requirements of Topic 805. Except for certain exceptions noted in paragraphs 805-20-30-10 through 30-12
+, identifiable intangible assets that meet the recognition criteria shall be recorded at fair value. Paragraph 805-30-30-1 discusses the initial measurement of goodwill.
+The SEC staff notes that a fundamental distinction between other recognized intangible assets and goodwill is that goodwill is both defined and measured as an excess or residual asset, while other recognized intangible assets are required to be measured at fair value. The SEC staff does not believe that the application of the residual method to the valuation of intangible assets can be assumed to produce amounts representing the fair values of those assets. The SEC staff also notes that valuation difficulty does not provide relief from the requirements in paragraphs 805-20-25-1 and 805-20-30-1 to separately recognize intangible assets at fair value apart from goodwill. Furthermore, the SEC staff notes that the same types of assets being valued using the residual method by some entities are being valued using a direct value method by other entities. Accordingly, the SEC staff believes the residual method should no longer be used to value intangible assets other than goodwill. Rather, a direct value method should be used to determine the fair value of all intangible assets required to be recognized at fair value under Topic 805.
+Impairment testing of intangible assets similarly should not rely on a residual method and should, instead, comply with the provisions of Topic 350.
+
+## 00 Status
+
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+
+### General
+
+**805-30-00-1** The following table identifies the changes made to this Subtopic.
+
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Acquiree | Amended | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| Acquirer | Amended | Accounting Standards Update No. 2025-03 | 05/12/2025 |
+| Business | Amended | Accounting Standards Update No. 2017-01 | 01/05/2017 |
+| Business Combination | Amended | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| Goodwill | Amended | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Goodwill | Amended | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| Not-for-Profit Entity | Added | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| Private Company | Added | Accounting Standards Update No. 2019-06 | 05/30/2019 |
+| Variable Interest Entity | Superseded | Accounting Standards Update No. 2025-03 | 05/12/2025 |
+| 805-30-15-1 | Amended | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| 805-30-15-2 | Added | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| 805-30-30-7 | Amended | Accounting Standards Update No. 2018-07 | 06/20/2018 |
+| 805-30-30-9 | Amended | Accounting Standards Update No. 2018-07 | 06/20/2018 |
+| 805-30-30-10 | Amended | Accounting Standards Update No. 2010-08 | 02/02/2010 |
+| 805-30-30-11 through 30-13 | Amended | Accounting Standards Update No. 2018-07 | 06/20/2018 |
+| 805-30-35-3 | Amended | Accounting Standards Update No. 2018-07 | 06/20/2018 |
+| 805-30-50-1 through 50-4 | Amended | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| 805-30-50-1 | Amended | Accounting Standards Update No. 2024-03 | 11/04/2024 |
+| 805-30-50-4 | Amended | Accounting Standards Update No. 2021-03 | 03/30/2021 |
+| 805-30-50-4 | Amended | Accounting Standards Update No. 2019-06 | 05/30/2019 |
+| 805-30-50-4 | Amended | Accounting Standards Update No. 2011-04 | 05/12/2011 |
+| 805-30-55-2 | Amended | Accounting Standards Update No. 2011-04 | 05/12/2011 |
+| 805-30-55-6 through 55-13 | Amended | Accounting Standards Update No. 2018-07 | 06/20/2018 |
+| 805-30-55-9A | Added | Accounting Standards Update No. 2018-07 | 06/20/2018 |
+| 805-30-55-11 | Amended | Accounting Standards Update No. 2016-09 | 03/30/2016 |
+| 805-30-55-17 through 55-24 | Amended | Accounting Standards Update No. 2018-07 | 06/20/2018 |
+| 805-30-55-25 through 55-35 | Added | Accounting Standards Update No. 2018-07 | 06/20/2018 |
+
+****
+**805-30-00-1** The following table identifies the changes made to this Subtopic.
+
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Acquiree | Amended | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| Acquirer | Amended | Accounting Standards Update No. 2025-03 | 05/12/2025 |
+| Business | Amended | Accounting Standards Update No. 2017-01 | 01/05/2017 |
+| Business Combination | Amended | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| Goodwill | Amended | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Goodwill | Amended | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| Not-for-Profit Entity | Added | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| Private Company | Added | Accounting Standards Update No. 2019-06 | 05/30/2019 |
+| Variable Interest Entity | Superseded | Accounting Standards Update No. 2025-03 | 05/12/2025 |
+| 805-30-15-1 | Amended | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| 805-30-15-2 | Added | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| 805-30-30-7 | Amended | Accounting Standards Update No. 2018-07 | 06/20/2018 |
+| 805-30-30-9 | Amended | Accounting Standards Update No. 2018-07 | 06/20/2018 |
+| 805-30-30-10 | Amended | Accounting Standards Update No. 2010-08 | 02/02/2010 |
+| 805-30-30-11 through 30-13 | Amended | Accounting Standards Update No. 2018-07 | 06/20/2018 |
+| 805-30-35-3 | Amended | Accounting Standards Update No. 2018-07 | 06/20/2018 |
+| 805-30-50-1 through 50-4 | Amended | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| 805-30-50-1 | Amended | Accounting Standards Update No. 2024-03 | 11/04/2024 |
+| 805-30-50-4 | Amended | Accounting Standards Update No. 2021-03 | 03/30/2021 |
+| 805-30-50-4 | Amended | Accounting Standards Update No. 2019-06 | 05/30/2019 |
+| 805-30-50-4 | Amended | Accounting Standards Update No. 2011-04 | 05/12/2011 |
+| 805-30-55-2 | Amended | Accounting Standards Update No. 2011-04 | 05/12/2011 |
+| 805-30-55-6 through 55-13 | Amended | Accounting Standards Update No. 2018-07 | 06/20/2018 |
+| 805-30-55-9A | Added | Accounting Standards Update No. 2018-07 | 06/20/2018 |
+| 805-30-55-11 | Amended | Accounting Standards Update No. 2016-09 | 03/30/2016 |
+| 805-30-55-17 through 55-24 | Amended | Accounting Standards Update No. 2018-07 | 06/20/2018 |
+| 805-30-55-25 through 55-35 | Added | Accounting Standards Update No. 2018-07 | 06/20/2018 |
+
+## 05 Overview and Background
+
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+
+### General
+
+**805-30-05-1** This Subtopic provides guidance on one aspect of the acquisition method (as described in paragraph 805-10-05-4)—the recognition and measurement of either goodwill
+or a gain from a bargain purchase.
+**805-30-05-1** This Subtopic provides guidance on one aspect of the acquisition method (as described in paragraph 805-10-05-4)—the recognition and measurement of either goodwill
+**805-30-05-2** or a gain from a bargain purchase.
+The remaining aspects of the acquisition method are addressed in Subtopics 805-10 and 805-20. Subtopic 805-20 addresses the recognition and measurement of identifiable assets acquired, liabilities assumed, and any noncontrolling interest
+1. Identification of the acquirer
+2. Determination of the acquisition date
+3. Particular types of business combinations
+4. Measurement period
+5. Determination of what is part of a business combination.
+
+**805-30-05-2** The remaining aspects of the acquisition method are addressed in Subtopics 805-10 and 805-20. Subtopic 805-20 addresses the recognition and measurement of identifiable assets acquired, liabilities assumed, and any noncontrolling interest
+1. Identification of the acquirer
+2. Determination of the acquisition date
+3. Particular types of business combinations
+4. Measurement period
+5. Determination of what is part of a business combination.
+
+## 15 Scope and Scope Exceptions
+
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+
+### General
+
+**805-30-15-1** > Overall Guidance
+This Subtopic follows the same Scope and Scope Exceptions as outlined in the Overall Subtopic, see Section 805-10-15, with specific exceptions noted below.
+**805-30-15-1** This Subtopic follows the same Scope and Scope Exceptions as outlined in the Overall Subtopic, see Section 805-10-15, with specific exceptions noted below.
+**805-30-15-2** > Entities
+The guidance in this Subtopic does not apply to not-for-profit entities
+(NFPs). NFPs apply the guidance in Subtopic 958-805 for measuring goodwill acquired, a contribution received, and consideration transferred.
+**805-30-15-2** The guidance in this Subtopic does not apply to not-for-profit entities
+
+## 20 Glossary
+
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+
+##### Acquiree
+
+The business or businesses that the acquirer obtains control of in a business combination. This term also includes a nonprofit activity or business that a not-for-profit acquirer obtains control of in an acquisition by a not-for-profit entity.
+The business or businesses that the acquirer obtains control of in a business combination. This term also includes a nonprofit activity or business that a not-for-profit acquirer obtains control of in an acquisition by a not-for-profit entity.
+
+##### Acquirer
+
+The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:805-10-65-5The entity that obtains control of the acquiree.See paragraphs 805-10-25-4 through 25-5 for guidance on determining the acquirer.
+The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer.
+PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:805-10-65-5The entity that obtains control of the acquiree.See paragraphs 805-10-25-4 through 25-5
+
+##### Acquisition by a Not-for-Profit Entity
+
+for guidance on determining the acquirer.A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.
+A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.
+
+##### Acquisition Date
+
+The date on which the acquirer obtains control of the acquiree.
+The date on which the acquirer obtains control of the acquiree.
+
+##### Business
+
+Paragraphs 805-10-55-3A through 55-6 and 805-10-55-8 through 55-9 define what is considered a business.
+Paragraphs 805-10-55-3A through 55-6
+
+##### Business Combination
+
+and 805-10-55-8 through 55-9 define what is considered a business. A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
+A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
+
+##### Contingent Consideration
+
+Usually an obligation of the acquirer to transfer additional assets or equity interests to the former owners of an acquiree as part of the exchange for control of the acquiree if specified future events occur or conditions are met. However, contingent consideration also may give the acquirer the right to the return of previously transferred consideration if specified conditions are met.
+Usually an obligation of the acquirer to transfer additional assets or equity interests to the former owners of an acquiree as part of the exchange for control of the acquiree if specified future events occur or conditions are met. However, contingent consideration also may give the acquirer the right to the return of previously transferred consideration if specified conditions are met.
+
+##### Control
+
+The same as the meaning of controlling financial interest in paragraph 810-10-15-8.
+The same as the meaning of controlling financial interest in paragraph 810-10-15-8.
+
+##### Corporate Joint Venture
+
+A corporation owned and operated by a small group of entities (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a corporate joint venture frequently is to share risks and rewards in developing a new market, product or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A corporate joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a corporate joint venture. The ownership of a corporate joint venture seldom changes, and its stock is usually not traded publicly. A noncontrolling interest held by public ownership, however, does not preclude a corporation from being a corporate joint venture.
+A corporation owned and operated by a small group of entities (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a corporate joint venture frequently is to share risks and rewards in developing a new market, product or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A corporate joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a corporate joint venture. The ownership of a corporate joint venture seldom changes, and its stock is usually not traded publicly. A noncontrolling interest held by public ownership, however, does not preclude a corporation from being a corporate joint venture.
+
+##### Equity Interests
+
+Used broadly to mean ownership interests of investor-owned entities; owner, member, or participant interests of mutual entities; and owner or member interests in the net assets of not-for-profit entities.
+Used broadly to mean ownership interests of investor-owned entities; owner, member, or participant interests of mutual entities; and owner or member interests in the net assets of not-for-profit entities.
+
+##### Fair Value
+
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+
+##### Goodwill
+
+An asset representing the future economic benefits arising from other assets acquired in a business combination or an acquisition by a not-for-profit entity that are not individually identified and separately recognized. For ease of reference, this term also includes the immediate charge recognized by not-for-profit entities in accordance with paragraph 958-805-25-29. PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1An asset representing the future economic benefits arising from other assets acquired in a business combination, acquired in an acquisition by a not-for-profit entity, or recognized by a joint venture upon formation that are not individually identified and separately recognized. For ease of reference, this term also includes the immediate charge recognized by not-for-profit entities in accordance with paragraph 958-805-25-29.
+An asset representing the future economic benefits arising from other assets acquired in a business combination or an acquisition by a not-for-profit entity that are not individually identified and separately recognized. For ease of reference, this term also includes the immediate charge recognized by not-for-profit entities in accordance with paragraph 958-805-25-29.
+
+##### Identifiable
+
+1. It is separable, that is, capable of being separated or divided from the entity and sold, transferred, licensed, rented, or exchanged, either individually or together with a related contract, identifiable asset, or liability, regardless of whether the entity intends to do so.
+2. It arises from contractual or other legal rights, regardless of whether those rights are transferable or separable from the entity or from other rights and obligations.
+
+It is separable, that is, capable of being separated or divided from the entity and sold, transferred, licensed, rented, or exchanged, either individually or together with a related contract, identifiable asset, or liability, regardless of whether the entity intends to do so.
+2. It arises from contractual or other legal rights, regardless of whether those rights are transferable or separable from the entity or from other rights and obligations.
+
+##### Joint Venture
+
+An entity owned and operated by a small group of businesses (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a joint venture frequently is to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a joint venture. The ownership of a joint venture seldom changes, and its equity interests usually are not traded publicly. A minority public ownership, however, does not preclude an entity from being a joint venture. As distinguished from a corporate joint venture, a joint venture is not limited to corporate entities.
+An entity owned and operated by a small group of businesses (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a joint venture frequently is to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a joint venture. The ownership of a joint venture seldom changes, and its equity interests usually are not traded publicly. A minority public ownership, however, does not preclude an entity from being a joint venture. As distinguished from a corporate joint venture, a joint venture is not limited to corporate entities.
+
+##### Legal Entity
+
+Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts.
+Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts.
+
+##### Market Participants
+
+1. They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
+3. They are able to enter into a transaction for the asset or liability
+4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
+
+They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
+3. They are able to enter into a transaction for the asset or liability
+4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
+
+##### Mutual Entity
+
+An entity other than an investor-owned entity that provides dividends, lower costs, or other economic benefits directly and proportionately to its owners, members, or participants. Mutual insurance entities, credit unions, and farm and rural electric cooperatives are examples of mutual entities.
+An entity other than an investor-owned entity that provides dividends, lower costs, or other economic benefits directly and proportionately to its owners, members, or participants. Mutual insurance entities, credit unions, and farm and rural electric cooperatives are examples of mutual entities.
+
+##### Noncontrolling Interest
+
+The portion of equity (net assets) in a subsidiary not attributable, directly or indirectly, to a parent. A noncontrolling interest is sometimes called a minority interest.
+The portion of equity (net assets) in a subsidiary not attributable, directly or indirectly, to a parent. A noncontrolling interest is sometimes called a minority interest.
+
+##### Not-for-Profit Entity
+
+1. Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
+2. Operating purposes other than to provide goods or services at a profit
+3. Absence of ownership interests like those of business entities.
+
+1. All investor-owned entities
+2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
+
+Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
+2. Operating purposes other than to provide goods or services at a profit
+3. Absence of ownership interests like those of business entities.
+
+All investor-owned entities
+2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
+
+##### Orderly Transaction
+
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+
+##### Owners
+
+Used broadly to include holders of ownership interests (equity interests) of investor-owned entities, mutual entities, or not-for-profit entities. Owners include shareholders, partners, proprietors, or members or participants of mutual entities. Owners also include owner and member interests in the net assets of not-for-profit entities.
+Used broadly to include holders of ownership interests (equity interests) of investor-owned entities, mutual entities, or not-for-profit entities. Owners include shareholders, partners, proprietors, or members or participants of mutual entities. Owners also include owner and member interests in the net assets of not-for-profit entities.
+
+##### Private Company
+
+An entity other than a public business entity, a not-for-profit entity, or an employee benefit plan within the scope of Topics 960 through 965 on plan accounting.
+An entity other than a public business entity, a not-for-profit entity, or an employee benefit plan within the scope of Topics 960 through 965 on plan accounting.
+
+##### Public Business Entity
+
+1. It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing).
+2. It is required by the Securities Exchange Act of 1934 (the Act), as amended, or rules or regulations promulgated under the Act, to file or furnish financial statements with a regulatory agency other than the SEC.
+3. It is required to file or furnish financial statements with a foreign or domestic regulatory agency in preparation for the sale of or for purposes of issuing securities that are not subject to contractual restrictions on transfer.
+4. It has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market.
+5. It has one or more securities that are not subject to contractual restrictions on transfer, and it is required by law, contract, or regulation to prepare U.S. GAAP financial statements (including notes) and make them publicly available on a periodic basis (for example, interim or annual periods). An entity must meet both of these conditions to meet this criterion.
+
+An entity may meet the definition of a public business entity solely because its financial statements or financial information is included in another entity's filing with the SEC. In that case, the entity is only a public business entity for purposes of financial statements that are filed or furnished with the SEC.
+It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing).
+2. It is required by the Securities Exchange Act of 1934 (the Act), as amended, or rules or regulations promulgated under the Act, to file or furnish financial statements with a regulatory agency other than the SEC.
+3. It is required to file or furnish financial statements with a foreign or domestic regulatory agency in preparation for the sale of or for purposes of issuing securities that are not subject to contractual restrictions on transfer.
+4. It has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market.
+5. It has one or more securities that are not subject to contractual restrictions on transfer, and it is required by law, contract, or regulation to prepare U.S. GAAP financial statements (including notes) and make them publicly available on a periodic basis (for example, interim or annual periods). An entity must meet both of these conditions to meet this criterion.
+
+##### Related Parties
+
+1. Affiliates of the entity
+2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
+3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
+4. Principal owners of the entity and members of their immediate families
+5. Management of the entity and members of their immediate families
+6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
+7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
+
+Affiliates of the entity
+2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
+3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
+4. Principal owners of the entity and members of their immediate families
+5. Management of the entity and members of their immediate families
+6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
+7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
+
+##### Requisite Service Period
+
+The period or periods during which an employee is required to provide service in exchange for an award under a share-based payment arrangement. The service that an employee is required to render during that period is referred to as the requisite service. The requisite service period for an award that has only a service condition is presumed to be the vesting period, unless there is clear evidence to the contrary. If an award requires future service for vesting, the entity cannot define a prior period as the requisite service period. Requisite service periods may be explicit, implicit, or derived, depending on the terms of the share-based payment award.
+The period or periods during which an employee is required to provide service in exchange for an award under a share-based payment arrangement. The service that an employee is required to render during that period is referred to as the requisite service. The requisite service period for an award that has only a service condition is presumed to be the vesting period, unless there is clear evidence to the contrary. If an award requires future service for vesting, the entity cannot define a prior period as the requisite service period. Requisite service periods may be explicit, implicit, or derived, depending on the terms of the share-based payment award.
+
+##### Security
+
+1. It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
+2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
+3. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
+
+It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
+2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
+3. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
+
+##### Variable Interest Entity
+
+A legal entity subject to consolidation according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
+A legal entity subject to consolidation according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
+
+## 25 Recognition
+
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+
+### General
+
+**805-30-25-1** > Goodwill Recognition
+The acquirer
+shall recognize goodwill as of the acquisition date, measured as described in paragraph 805-30-30-1.
+The acquirer
+**805-30-25-2** shall recognize goodwill as of the acquisition date, measured as described in paragraph 805-30-30-1. > Gain from Bargain Purchase
+Occasionally, an acquirer will make a bargain purchase, which is a business combination
+in which the amount in paragraph 805-30-30-1(b) exceeds the aggregate of the amounts specified in (a) in that paragraph. If that excess remains after applying the requirements in paragraph 805-30-25-4, the acquirer shall recognize the resulting gain in earnings on the acquisition date. The gain shall be attributed to the acquirer. Example 1 (see paragraph 805-30-55-14) provides an illustration of this guidance.
+Occasionally, an acquirer will make a bargain purchase, which is a business combination
+**805-30-25-3** in which the amount in paragraph 805-30-30-1(b) exceeds the aggregate of the amounts specified in (a) in that paragraph. If that excess remains after applying the requirements in paragraph 805-30-25-4, the acquirer shall recognize the resulting gain in earnings on the acquisition date. The gain shall be attributed to the acquirer. Example 1 (see paragraph 805-30-55-14) provides an illustration of this guidance.
+A bargain purchase might happen, for example, in a business combination that is a forced sale in which the seller is acting under compulsion. However, the recognition or measurement exceptions for particular items identified in paragraphs 805-20-25-16, and 805-20-30-10 also may result in recognizing a gain (or change the amount of a recognized gain) on a bargain purchase.
+A bargain purchase might happen, for example, in a business combination that is a forced sale in which the seller is acting under compulsion. However, the recognition or measurement exceptions for particular items identified in paragraphs 805-20-25-16, and 805-20-30-10 also may result in recognizing a gain (or change the amount of a recognized gain) on a bargain purchase.
+Before recognizing a gain on a bargain purchase, the acquirer shall reassess whether it has correctly identified all of the assets acquired and all of the liabilities assumed and shall recognize any additional assets or liabilities that are identified in that review. See paragraphs 805-30-30-4 through 30-6
+for guidance on the review of measurement procedures in connection with a reassessment required by this paragraph.
+Before recognizing a gain on a bargain purchase, the acquirer shall reassess whether it has correctly identified all of the assets acquired and all of the liabilities assumed and shall recognize any additional assets or liabilities that are identified in that review. See paragraphs 805-30-30-4 through 30-6
+**805-30-25-5** for guidance on the review of measurement procedures in connection with a reassessment required by this paragraph. > Contingent Consideration
+The consideration the acquirer transfers in exchange for the acquiree
+includes any asset or liability resulting from a contingent consideration arrangement. The acquirer shall recognize the acquisition-date fair value of contingent consideration as part of the consideration transferred in exchange for the acquiree.
+The consideration the acquirer transfers in exchange for the acquiree
+**805-30-25-6** includes any asset or liability resulting from a contingent consideration arrangement. The acquirer shall recognize the acquisition-date fair value of contingent consideration as part of the consideration transferred in exchange for the acquiree.
+The acquirer shall classify an obligation to pay contingent consideration as a liability or as equity in accordance with Subtopics 480-10 and 815-40 or other applicable generally accepted accounting principles (GAAP). For example, Subtopic 480-10 provides guidance on whether to classify as a liability a contingent consideration arrangement that is, in substance, a put option written by the acquirer on the market price of the acquirer's shares issued in the business combination.
+The acquirer shall classify an obligation to pay contingent consideration as a liability or as equity in accordance with Subtopics 480-10 and 815-40 or other applicable generally accepted accounting principles (GAAP). For example, Subtopic 480-10 provides guidance on whether to classify as a liability a contingent consideration arrangement that is, in substance, a put option written by the acquirer on the market price of the acquirer's shares issued in the business combination.
+The acquirer shall classify as an asset a right to the return of previously transferred consideration if specified conditions are met.
+The acquirer shall classify as an asset a right to the return of previously transferred consideration if specified conditions are met.
+
+## 30 Initial Measurement
+
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+
+### General
+
+**805-30-30-1** > Measurement of Goodwill
+The acquirer
+1. The consideration transferred measured in accordance with this Section, which generally requires acquisition-date fair value (see paragraph 805-30-30-7)
+2. The fair value of any noncontrolling interest in the acquiree
+3. In a business combination achieved in stages, the acquisition-date fair value of the acquirer's previously held equity interest in the acquiree.
+
+4. The net of the acquisition-date amounts of the identifiable assets acquired and the liabilities assumed measured in accordance with this Topic.
+
+The acquirer
+1. The consideration transferred measured in accordance with this Section, which generally requires acquisition-date fair value (see paragraph 805-30-30-7)
+2. The fair value of any noncontrolling interest in the acquiree
+3. In a business combination achieved in stages, the acquisition-date fair value of the acquirer's previously held equity interest in the acquiree.
+
+4. The net of the acquisition-date amounts of the identifiable assets acquired and the liabilities assumed measured in accordance with this Topic.
+
+In a business combination in which the acquirer and the acquiree (or its former owners) exchange only equity interests, the acquisition-date fair value of the acquiree's equity interests may be more reliably measurable than the acquisition-date fair value of the acquirer's equity interests. If so, the acquirer shall determine the amount of goodwill by using the acquisition-date fair value of the acquiree's equity interests instead of the acquisition-date fair value of the equity interests transferred.
+In a business combination in which the acquirer and the acquiree (or its former owners) exchange only equity interests, the acquisition-date fair value of the acquiree's equity interests may be more reliably measurable than the acquisition-date fair value of the acquirer's equity interests. If so, the acquirer shall determine the amount of goodwill by using the acquisition-date fair value of the acquiree's equity interests instead of the acquisition-date fair value of the equity interests transferred.
+To determine the amount of goodwill in a business combination in which no consideration is transferred, the acquirer shall use the acquisition-date fair value of the acquirer's interest in the acquiree determined using a valuation technique in place of the acquisition-date fair value of the consideration transferred (see paragraph 805-30-30-1(a)(1)). Paragraphs 805-30-55-3 through 55-5
+provide additional guidance on applying the acquisition method to combinations of mutual entities, including measuring the acquisition-date fair value of the acquiree's equity interests using a valuation technique.
+To determine the amount of goodwill in a business combination in which no consideration is transferred, the acquirer shall use the acquisition-date fair value of the acquirer's interest in the acquiree determined using a valuation technique in place of the acquisition-date fair value of the consideration transferred (see paragraph 805-30-30-1(a)(1)). Paragraphs 805-30-55-3 through 55-5
+**805-30-30-4** provide additional guidance on applying the acquisition method to combinations of mutual entities, including measuring the acquisition-date fair value of the acquiree's equity interests using a valuation technique. > Required Reassessment of Measurement Procedures in a Bargain Purchase
+As explained in paragraph 805-30-25-2, an acquirer will occasionally make a bargain purchase, which is a business combination in which the amount in paragraph 805-30-30-1(b) exceeds the aggregate of the amounts specified in (a) in that paragraph.
+As explained in paragraph 805-30-25-2, an acquirer will occasionally make a bargain purchase, which is a business combination in which the amount in paragraph 805-30-30-1(b) exceeds the aggregate of the amounts specified in (a) in that paragraph.
+The identifiable assets acquired and liabilities assumed
+2. The noncontrolling interest in the acquiree, if any
+3. For a business combination achieved in stages, the acquirer's previously held equity interest in the acquiree
+4. The consideration transferred.
+
+The identifiable assets acquired and liabilities assumed
+2. The noncontrolling interest in the acquiree, if any
+3. For a business combination achieved in stages, the acquirer's previously held equity interest in the acquiree
+4. The consideration transferred.
+
+The objective of the review is to ensure that the measurements appropriately reflect consideration of all available information as of the acquisition date.
+The objective of the review is to ensure that the measurements appropriately reflect consideration of all available information as of the acquisition date.
+**805-30-30-7** > Consideration Transferred
+Cash
+2. Other assets
+3. A business or a subsidiary of the acquirer
+4. Contingent consideration (see paragraphs 805-30-25-5 through 25-7)
+5. Common or preferred equity instruments
+6. Options
+7. Warrants
+8. Member interests of mutual entities.
+
+Cash
+2. Other assets
+3. A business or a subsidiary of the acquirer
+4. Contingent consideration (see paragraphs 805-30-25-5 through 25-7)
+5. Common or preferred equity instruments
+6. Options
+7. Warrants
+8. Member interests of mutual entities.
+
+The consideration transferred may include assets or liabilities of the acquirer that have carrying amounts that differ from their fair values at the acquisition date (for example, nonmonetary assets or a business of the acquirer). If so, the acquirer shall remeasure the transferred assets or liabilities to their fair values as of the acquisition date and recognize the resulting gains or losses, if any, in earnings. However, sometimes the transferred assets or liabilities remain within the combined entity after the business combination (for example, because the assets or liabilities were transferred to the acquiree rather than to its former owners), and the acquirer therefore retains control of them. In that situation, the acquirer shall measure those assets and liabilities at their carrying amounts immediately before the acquisition date and shall not recognize a gain or loss in earnings on assets or liabilities it controls both before and after the business combination.
+The consideration transferred may include assets or liabilities of the acquirer that have carrying amounts that differ from their fair values at the acquisition date (for example, nonmonetary assets or a business of the acquirer). If so, the acquirer shall remeasure the transferred assets or liabilities to their fair values as of the acquisition date and recognize the resulting gains or losses, if any, in earnings. However, sometimes the transferred assets or liabilities remain within the combined entity after the business combination (for example, because the assets or liabilities were transferred to the acquiree rather than to its former owners), and the acquirer therefore retains control of them. In that situation, the acquirer shall measure those assets and liabilities at their carrying amounts immediately before the acquisition date and shall not recognize a gain or loss in earnings on assets or liabilities it controls both before and after the business combination.
+
+##### · > Acquirer Share-Based Payment Awards Exchanged for Awards Held by the Acquiree's Grantees
+
+The terms of the acquisition agreement
+2. The terms of the acquiree's awards
+3. Applicable laws or regulations.
+
+The terms of the acquisition agreement
+2. The terms of the acquiree's awards
+3. Applicable laws or regulations.
+
+In situations in which acquiree awards would expire as a consequence of a business combination and the acquirer replaces those awards even though it is not obligated to do so, all of the fair-value-based measure of the replacement awards shall be recognized as compensation cost in the postcombination financial statements. That is, none of the fair-value-based measure of those awards shall be included in measuring the consideration transferred in the business combination.
+In situations in which acquiree awards would expire as a consequence of a business combination and the acquirer replaces those awards even though it is not obligated to do so, all of the fair-value-based measure of the replacement awards shall be recognized as compensation cost in the postcombination financial statements. That is, none of the fair-value-based measure of those awards shall be included in measuring the consideration transferred in the business combination.
+To determine the portion of a replacement award that is part of the consideration transferred for the acquiree, the acquirer shall measure both the replacement awards granted by the acquirer and the acquiree awards as of the acquisition date in accordance with Topic 718. The portion of the fair-value-based measure of the replacement award that is part of the consideration transferred in exchange for the acquiree equals the portion of the acquiree award that is attributable to precombination vesting.
+To determine the portion of a replacement award that is part of the consideration transferred for the acquiree, the acquirer shall measure both the replacement awards granted by the acquirer and the acquiree awards as of the acquisition date in accordance with Topic 718. The portion of the fair-value-based measure of the replacement award that is part of the consideration transferred in exchange for the acquiree equals the portion of the acquiree award that is attributable to precombination vesting.
+The acquirer shall attribute a portion of a replacement award to postcombination vesting if it requires postcombination vesting, regardless of whether grantees had rendered all of the service or delivered all of the goods required in exchange for their acquiree awards before the acquisition date. The portion of a nonvested replacement award attributable to postcombination vesting equals the total fair-value-based measure of the replacement award less the amount attributed to precombination vesting. Therefore, the acquirer shall attribute any excess of the fair-value-based measure of the replacement award over the fair value of the acquiree award to postcombination vesting.
+The acquirer shall attribute a portion of a replacement award to postcombination vesting if it requires postcombination vesting, regardless of whether grantees had rendered all of the service or delivered all of the goods required in exchange for their acquiree awards before the acquisition date. The portion of a nonvested replacement award attributable to postcombination vesting equals the total fair-value-based measure of the replacement award less the amount attributed to precombination vesting. Therefore, the acquirer shall attribute any excess of the fair-value-based measure of the replacement award over the fair value of the acquiree award to postcombination vesting.
+Paragraphs 805-30-55-6 through 55-13
+, 805-740-25-10 through 25-11, 805-740-45-5 through 45-6, and Example 2 (see paragraph 805-30-55-17) provide additional guidance and illustrations on distinguishing between the portion of a replacement award that is attributable to precombination vesting, which the acquirer includes in the consideration transferred in the business combination, and the portion that is attributed to postcombination vesting, which the acquirer recognizes as compensation cost in its postcombination financial statements.
+Paragraphs 805-30-55-6 through 55-13
+
+## 35 Subsequent Measurement
+
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+
+### General
+
+**805-30-35-1** > Contingent Consideration
+Some changes in the fair value
+1. Contingent consideration classified as equity shall not be remeasured and its subsequent settlement shall be accounted for within equity.
+2. Contingent consideration classified as an asset or a liability shall be remeasured to fair value at each reporting date until the contingency is resolved. The changes in fair value shall be recognized in earnings unless the arrangement is a hedging instrument for which Topic 815 requires the changes to be initially recognized in other comprehensive income.
+
+Some changes in the fair value
+1. Contingent consideration classified as equity shall not be remeasured and its subsequent settlement shall be accounted for within equity.
+2. Contingent consideration classified as an asset or a liability shall be remeasured to fair value at each reporting date until the contingency is resolved. The changes in fair value shall be recognized in earnings unless the arrangement is a hedging instrument for which Topic 815 requires the changes to be initially recognized in other comprehensive income.
+
+Contingent consideration arrangements of an acquiree assumed by the acquirer in a business combination shall be measured subsequently in accordance with the guidance for contingent consideration arrangements in the preceding paragraph.
+Contingent consideration arrangements of an acquiree assumed by the acquirer in a business combination shall be measured subsequently in accordance with the guidance for contingent consideration arrangements in the preceding paragraph.
+**805-30-35-2** > Goodwill
+The subsequent measurement of goodwill
+is addressed in Subtopic 350-20.
+The subsequent measurement of goodwill
+**805-30-35-3** is addressed in Subtopic 350-20. > Replacement Share-Based Payment Awards
+Topic 718 provides guidance on subsequent measurement and accounting for the portion of replacement share-based payment awards issued by an acquirer that is attributable to future goods or services.
+Topic 718 provides guidance on subsequent measurement and accounting for the portion of replacement share-based payment awards issued by an acquirer that is attributable to future goods or services.
+
+## 50 Disclosure
+
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+
+### General
+
+**805-30-50-1** Related Proposed ASUs > Business Combinations Occurring during a Current Reporting Period or after the Reporting Date but before the Financial Statements Are Issued
+Paragraph 805-10-50-1 identifies one of the objectives of disclosures about a business combination
+1. A qualitative description of the factors that make up the goodwill recognized, such as expected synergies from combining operations of the acquiree and the acquirer, intangible assets that do not qualify for separate recognition, or other factors.
+1. Cash
+2. Other tangible or intangible assets, including a business or subsidiary of the acquirer
+3. Liabilities incurred, for example, a liability for contingent consideration
+4. Equity interests of the acquirer, including the number of instruments or interests issued or issuable and the method of determining the fair value of those instruments or interests.
+
+1. The amount recognized as of the acquisition date
+2. A description of the arrangement and the basis for determining the amount of the payment
+3. An estimate of the range of outcomes (undiscounted) or, if a range cannot be estimated, that fact and the reasons why a range cannot be estimated. If the maximum amount of the payment is unlimited, the acquirer shall disclose that fact.
+
+4. The total amount of goodwill that is expected to be deductible for tax purposes.
+5. If the acquirer is required to disclose segment information in accordance with Subtopic 280-10, the amount of goodwill by reportable segment. If the assignment of goodwill to reporting units required by paragraphs 350-20-35-41 through 35-44 has not been completed as of the date the financial statements are issued or are available to be issued (as discussed in Section 855-10-25), the acquirer shall disclose that fact.
+1. The amount of any gain recognized in accordance with paragraph 805-30-25-2 and the line item in the income statement in which the gain is recognized
+2. A description of the reasons why the transaction resulted in a gain.
+
+1. A qualitative description of the factors that make up the goodwill recognized, such as expected synergies from combining operations of the acquiree and the acquirer, intangible assets that do not qualify for separate recognition, or other factors.
+1. Cash
+2. Other tangible or intangible assets, including a business or subsidiary of the acquirer
+3. Liabilities incurred, for example, a liability for contingent consideration
+4. Equity interests of the acquirer, including the number of instruments or interests issued or issuable and the method of determining the fair value of those instruments or interests.
+
+1. The amount recognized as of the acquisition date
+2. A description of the arrangement and the basis for determining the amount of the payment
+3. An estimate of the range of outcomes (undiscounted) or, if a range cannot be estimated, that fact and the reasons why a range cannot be estimated. If the maximum amount of the payment is unlimited, the acquirer shall disclose that fact.
+
+4. The total amount of goodwill that is expected to be deductible for tax purposes.
+5. If the acquirer is required to disclose segment information in accordance with Subtopic 280-10, the amount of goodwill by reportable segment. If the assignment of goodwill to reporting units required by paragraphs 350-20-35-41 through 35-44 has not been completed as of the date the financial statements are issued or are available to be issued (as discussed in Section 855-10-25), the acquirer shall disclose that fact.
+1. The amount of any gain recognized in accordance with paragraph 805-30-25-2 and the line item in the income statement in which the gain is recognized
+2. A description of the reasons why the transaction resulted in a gain.
+
+2. See paragraphs 220-40-50-21 through 50-25 for additional disclosure requirements.
+
+1. A qualitative description of the factors that make up the goodwill recognized, such as expected synergies from combining operations of the acquiree and the acquirer, intangible assets that do not qualify for separate recognition, or other factors.
+1. Cash
+2. Other tangible or intangible assets, including a business or subsidiary of the acquirer
+3. Liabilities incurred, for example, a liability for contingent consideration
+4. Equity interests of the acquirer, including the number of instruments or interests issued or issuable and the method of determining the fair value of those instruments or interests.
+
+1. The amount recognized as of the acquisition date
+2. A description of the arrangement and the basis for determining the amount of the payment
+3. An estimate of the range of outcomes (undiscounted) or, if a range cannot be estimated, that fact and the reasons why a range cannot be estimated. If the maximum amount of the payment is unlimited, the acquirer shall disclose that fact.
+
+4. The total amount of goodwill that is expected to be deductible for tax purposes.
+5. If the acquirer is required to disclose segment information in accordance with Subtopic 280-10, the amount of goodwill by reportable segment. If the assignment of goodwill to reporting units required by paragraphs 350-20-35-41 through 35-44 has not been completed as of the date the financial statements are issued or are available to be issued (as discussed in Section 855-10-25), the acquirer shall disclose that fact.
+1. The amount of any gain recognized in accordance with paragraph 805-30-25-2 and the line item in the income statement in which the gain is recognized
+2. A description of the reasons why the transaction resulted in a gain.
+
+2. See paragraphs 220-40-50-21 through 50-25 for additional disclosure requirements.
+
+**805-30-50-1** Paragraph 805-10-50-1 identifies one of the objectives of disclosures about a business combination
+1. A qualitative description of the factors that make up the goodwill recognized, such as expected synergies from combining operations of the acquiree and the acquirer, intangible assets that do not qualify for separate recognition, or other factors.
+1. Cash
+2. Other tangible or intangible assets, including a business or subsidiary of the acquirer
+3. Liabilities incurred, for example, a liability for contingent consideration
+4. Equity interests of the acquirer, including the number of instruments or interests issued or issuable and the method of determining the fair value of those instruments or interests.
+
+1. The amount recognized as of the acquisition date
+2. A description of the arrangement and the basis for determining the amount of the payment
+3. An estimate of the range of outcomes (undiscounted) or, if a range cannot be estimated, that fact and the reasons why a range cannot be estimated. If the maximum amount of the payment is unlimited, the acquirer shall disclose that fact.
+
+4. The total amount of goodwill that is expected to be deductible for tax purposes.
+5. If the acquirer is required to disclose segment information in accordance with Subtopic 280-10, the amount of goodwill by reportable segment. If the assignment of goodwill to reporting units required by paragraphs 350-20-35-41 through 35-44 has not been completed as of the date the financial statements are issued or are available to be issued (as discussed in Section 855-10-25), the acquirer shall disclose that fact.
+1. The amount of any gain recognized in accordance with paragraph 805-30-25-2 and the line item in the income statement in which the gain is recognized
+2. A description of the reasons why the transaction resulted in a gain.
+
+1. A qualitative description of the factors that make up the goodwill recognized, such as expected synergies from combining operations of the acquiree and the acquirer, intangible assets that do not qualify for separate recognition, or other factors.
+1. Cash
+2. Other tangible or intangible assets, including a business or subsidiary of the acquirer
+3. Liabilities incurred, for example, a liability for contingent consideration
+4. Equity interests of the acquirer, including the number of instruments or interests issued or issuable and the method of determining the fair value of those instruments or interests.
+
+1. The amount recognized as of the acquisition date
+2. A description of the arrangement and the basis for determining the amount of the payment
+3. An estimate of the range of outcomes (undiscounted) or, if a range cannot be estimated, that fact and the reasons why a range cannot be estimated. If the maximum amount of the payment is unlimited, the acquirer shall disclose that fact.
+
+4. The total amount of goodwill that is expected to be deductible for tax purposes.
+5. If the acquirer is required to disclose segment information in accordance with Subtopic 280-10, the amount of goodwill by reportable segment. If the assignment of goodwill to reporting units required by paragraphs 350-20-35-41 through 35-44 has not been completed as of the date the financial statements are issued or are available to be issued (as discussed in Section 855-10-25), the acquirer shall disclose that fact.
+1. The amount of any gain recognized in accordance with paragraph 805-30-25-2 and the line item in the income statement in which the gain is recognized
+2. A description of the reasons why the transaction resulted in a gain.
+
+2. See paragraphs 220-40-50-21 through 50-25 for additional disclosure requirements.
+
+1. A qualitative description of the factors that make up the goodwill recognized, such as expected synergies from combining operations of the acquiree and the acquirer, intangible assets that do not qualify for separate recognition, or other factors.
+1. Cash
+2. Other tangible or intangible assets, including a business or subsidiary of the acquirer
+3. Liabilities incurred, for example, a liability for contingent consideration
+4. Equity interests of the acquirer, including the number of instruments or interests issued or issuable and the method of determining the fair value of those instruments or interests.
+
+1. The amount recognized as of the acquisition date
+2. A description of the arrangement and the basis for determining the amount of the payment
+3. An estimate of the range of outcomes (undiscounted) or, if a range cannot be estimated, that fact and the reasons why a range cannot be estimated. If the maximum amount of the payment is unlimited, the acquirer shall disclose that fact.
+
+4. The total amount of goodwill that is expected to be deductible for tax purposes.
+5. If the acquirer is required to disclose segment information in accordance with Subtopic 280-10, the amount of goodwill by reportable segment. If the assignment of goodwill to reporting units required by paragraphs 350-20-35-41 through 35-44 has not been completed as of the date the financial statements are issued or are available to be issued (as discussed in Section 855-10-25), the acquirer shall disclose that fact.
+1. The amount of any gain recognized in accordance with paragraph 805-30-25-2 and the line item in the income statement in which the gain is recognized
+2. A description of the reasons why the transaction resulted in a gain.
+
+2. See paragraphs 220-40-50-21 through 50-25 for additional disclosure requirements.
+
+**805-30-50-2** For individually immaterial business combinations occurring during the reporting period that are material collectively, the acquirer shall disclose the information required by paragraph 805-30-50-1 in the aggregate.
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For individually immaterial business combinations occurring during the reporting period that are material collectively, the acquirer shall disclose the information required by paragraph 805-30-50-1 in the aggregate in interim and annual reporting periods.
+**805-30-50-2** For individually immaterial business combinations occurring during the reporting period that are material collectively, the acquirer shall disclose the information required by paragraph 805-30-50-1 in the aggregate.
+**805-30-50-3** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For individually immaterial business combinations occurring during the reporting period that are material collectively, the acquirer shall disclose the information required by paragraph 805-30-50-1 in the aggregate in interim and annual reporting periods.
+If the acquisition date of a business combination is after the reporting date but before the financial statements are issued or are available to be issued (as discussed in Section 855-10-25), the acquirer shall disclose the information required by paragraph 805-30-50-1 unless the initial accounting for the business combination is incomplete at the time the financial statements are issued or are available to be issued. In that situation, the acquirer shall describe which disclosures could not be made and the reason why they could not be made.
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1If the acquisition date of a business combination is after the reporting date but before the financial statements are issued or are available to be issued (as discussed in Section 855-10-25), the acquirer shall disclose the information required by paragraph 805-30-50-1in interim and annual reporting periods unless the initial accounting for the business combination is incomplete at the time the financial statements are issued or are available to be issued. In that situation, the acquirer shall describe which disclosures could not be made and the reason why they could not be made.
+**805-30-50-3** If the acquisition date of a business combination is after the reporting date but before the financial statements are issued or are available to be issued (as discussed in Section 855-10-25), the acquirer shall disclose the information required by paragraph 805-30-50-1 unless the initial accounting for the business combination is incomplete at the time the financial statements are issued or are available to be issued. In that situation, the acquirer shall describe which disclosures could not be made and the reason why they could not be made.
+**805-30-50-4** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1If the acquisition date of a business combination is after the reporting date but before the financial statements are issued or are available to be issued (as discussed in Section 855-10-25), the acquirer shall disclose the information required by paragraph 805-30-50-1in interim and annual reporting periods unless the initial accounting for the business combination is incomplete at the time the financial statements are issued or are available to be issued. In that situation, the acquirer shall describe which disclosures could not be made and the reason why they could not be made. > The Financial Effects of Adjustments That Relate to Business Combinations That Occurred in the Current or Previous Reporting Periods
+For each reporting period after the acquisition date until the entity collects, sells, or otherwise loses the right to a contingent consideration asset, or until the entity settles a contingent consideration liability or the liability is cancelled or expires, all of the following:
+1. Any changes in the recognized amounts, including any differences arising upon settlement
+2. Any changes in the range of outcomes (undiscounted) and the reasons for those changes
+3. The disclosures required by Section 820-10-50.
+
+4. A reconciliation of the carrying amount of goodwill at the beginning and end of the reporting period as required by paragraph 350-20-50-1. A private company or not-for-profit entity that adopts the accounting alternative for amortizing goodwill in Subtopic 350-20 is not required to disclose the reconciliation.
+
+1. Any changes in the recognized amounts, including any differences arising upon settlement
+2. Any changes in the range of outcomes (undiscounted) and the reasons for those changes
+3. The disclosures required by Section 820-10-50.
+
+4. A reconciliation of the carrying amount of goodwill at the beginning and end of the reporting period as required by paragraph 350-20-50-1. A private company or not-for-profit entity that adopts the accounting alternative for amortizing goodwill in Subtopic 350-20 is not required to disclose the reconciliation.
+
+**805-30-50-4** For each reporting period after the acquisition date until the entity collects, sells, or otherwise loses the right to a contingent consideration asset, or until the entity settles a contingent consideration liability or the liability is cancelled or expires, all of the following:
+1. Any changes in the recognized amounts, including any differences arising upon settlement
+2. Any changes in the range of outcomes (undiscounted) and the reasons for those changes
+3. The disclosures required by Section 820-10-50.
+
+4. A reconciliation of the carrying amount of goodwill at the beginning and end of the reporting period as required by paragraph 350-20-50-1. A private company or not-for-profit entity that adopts the accounting alternative for amortizing goodwill in Subtopic 350-20 is not required to disclose the reconciliation.
+
+1. Any changes in the recognized amounts, including any differences arising upon settlement
+2. Any changes in the range of outcomes (undiscounted) and the reasons for those changes
+3. The disclosures required by Section 820-10-50.
+
+4. A reconciliation of the carrying amount of goodwill at the beginning and end of the reporting period as required by paragraph 350-20-50-1. A private company or not-for-profit entity that adopts the accounting alternative for amortizing goodwill in Subtopic 350-20 is not required to disclose the reconciliation.
+
+## 55 Implementation Guidance and Illustrations
+
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+
+### General
+
+This Section is an integral part of the requirements of this Subtopic. This Section provides additional guidance and illustrations that address the application of accounting requirements for business combinations
+to goodwill or gain from bargain purchase including consideration transferred.
+This Section is an integral part of the requirements of this Subtopic. This Section provides additional guidance and illustrations that address the application of accounting requirements for business combinations
+
+##### · > Measuring the Acquisition-Date Fair Value of the Acquirer's Interest in the Acquiree Using Valuation Techniques
+
+**805-30-55-2** to goodwill or gain from bargain purchase including consideration transferred. > Implementation Guidance
+In a business combination achieved without the transfer of consideration, the acquirer
+must substitute the acquisition-date fair value of its interest in the acquiree for the acquisition-date fair value of the consideration transferred to measure goodwill or a gain on a bargain purchase (see paragraphs 805-30-30-1 through 30-4). Subtopic 820-10 provides guidance on using valuation techniques to measure fair value.
+In a business combination achieved without the transfer of consideration, the acquirer
+
+##### · > Special Consideration in Applying the Acquisition Method to Combinations of Mutual Entities
+
+**805-30-55-3** must substitute the acquisition-date fair value of its interest in the acquiree for the acquisition-date fair value of the consideration transferred to measure goodwill or a gain on a bargain purchase (see paragraphs 805-30-30-1 through 30-4). Subtopic 820-10 provides guidance on using valuation techniques to measure fair value.
+When two mutual entities combine, the fair value of the equity or member interests in the acquiree (or the fair value of the acquiree) may be more reliably measurable than the fair value of the member interests transferred by the acquirer. In that situation, paragraph 805-30-30-2 through 30-3
+requires the acquirer to determine the amount of goodwill by using the acquisition-date fair value of the acquiree's equity interests instead of the acquisition-date fair value of the acquirer's equity interests transferred as consideration. In addition, the acquirer in a combination of mutual entities shall recognize the acquiree's net assets as a direct addition to capital or equity in its statement of financial position, not as an addition to retained earnings, which is consistent with the way in which other types of entities apply the acquisition method.
+When two mutual entities combine, the fair value of the equity or member interests in the acquiree (or the fair value of the acquiree) may be more reliably measurable than the fair value of the member interests transferred by the acquirer. In that situation, paragraph 805-30-30-2 through 30-3
+**805-30-55-4** requires the acquirer to determine the amount of goodwill by using the acquisition-date fair value of the acquiree's equity interests instead of the acquisition-date fair value of the acquirer's equity interests transferred as consideration. In addition, the acquirer in a combination of mutual entities shall recognize the acquiree's net assets as a direct addition to capital or equity in its statement of financial position, not as an addition to retained earnings, which is consistent with the way in which other types of entities apply the acquisition method.
+Although they are similar in many ways to other businesses, mutual entities have distinct characteristics that arise primarily because their members are both customers and owners. Members of mutual entities generally expect to receive benefits for their membership, often in the form of reduced fees charged for goods and services or patronage dividends. The portion of patronage dividends allocated to each member is often based on the amount of business the member did with the mutual entity during the year.
+Although they are similar in many ways to other businesses, mutual entities have distinct characteristics that arise primarily because their members are both customers and owners. Members of mutual entities generally expect to receive benefits for their membership, often in the form of reduced fees charged for goods and services or patronage dividends. The portion of patronage dividends allocated to each member is often based on the amount of business the member did with the mutual entity during the year.
+A fair value measurement of a mutual entity should include the assumptions that market participants would make about future member benefits as well as any other relevant assumptions market participants would make about the mutual entity. For example, an estimated cash flow model may be used to determine the fair value of a mutual entity. The cash flows used as inputs to the model should be based on the expected cash flows of the mutual entity, which are likely to reflect reductions for member benefits, such as reduced fees charged for goods and services.
+A fair value measurement of a mutual entity should include the assumptions that market participants would make about future member benefits as well as any other relevant assumptions market participants would make about the mutual entity. For example, an estimated cash flow model may be used to determine the fair value of a mutual entity. The cash flows used as inputs to the model should be based on the expected cash flows of the mutual entity, which are likely to reflect reductions for member benefits, such as reduced fees charged for goods and services.
+
+##### · > Acquirer Share-Based Payment Awards Exchanged for Awards Held by the Grantees of the Acquiree
+
+If the acquirer is obligated to replace the acquiree's share-based payment awards, paragraph 805-30-30-9 requires the acquirer to include either all or a portion of the fair-value-based measure of the replacement awards in the consideration transferred in the business combination. Paragraphs 805-30-55-7 through 55-13
+, 805-740-25-10 through 25-11, 805-740-45-5 through 45-6, and Example 2 (see paragraph 805-30-55-17) provide additional guidance on and illustrate how to determine the portion of an award to include in consideration transferred in a business combination and the portion to recognize as compensation cost in the acquirer's postcombination financial statements.
+If the acquirer is obligated to replace the acquiree's share-based payment awards, paragraph 805-30-30-9 requires the acquirer to include either all or a portion of the fair-value-based measure of the replacement awards in the consideration transferred in the business combination. Paragraphs 805-30-55-7 through 55-13
+**805-30-55-7** , 805-740-25-10 through 25-11, 805-740-45-5 through 45-6, and Example 2 (see paragraph 805-30-55-17) provide additional guidance on and illustrate how to determine the portion of an award to include in consideration transferred in a business combination and the portion to recognize as compensation cost in the acquirer's postcombination financial statements.
+To determine the portion of a replacement award that is part of the consideration exchanged for the acquiree and the portion that is compensation for postcombination vesting, the acquirer first measures both the replacement awards and the acquiree awards as of the acquisition date
+in accordance with the requirements of Topic 718. In most situations, those requirements result in use of the fair-value-based measurement method, but that Topic permits use of the calculated value method or the intrinsic value method in specified circumstances. This discussion focuses on the fair-value-based method, but the guidance in paragraphs 805-30-30-9 through 30-13 and the additional guidance cited in the preceding paragraph also apply in situations in which Topic 718 permits use of either the calculated value method or the intrinsic value method for both the acquiree awards and the replacement awards.
+To determine the portion of a replacement award that is part of the consideration exchanged for the acquiree and the portion that is compensation for postcombination vesting, the acquirer first measures both the replacement awards and the acquiree awards as of the acquisition date
+**805-30-55-8** in accordance with the requirements of Topic 718. In most situations, those requirements result in use of the fair-value-based measurement method, but that Topic permits use of the calculated value method or the intrinsic value method in specified circumstances. This discussion focuses on the fair-value-based method, but the guidance in paragraphs 805-30-30-9 through 30-13 and the additional guidance cited in the preceding paragraph also apply in situations in which Topic 718 permits use of either the calculated value method or the intrinsic value method for both the acquiree awards and the replacement awards.
+The portion of an employee replacement award attributable to precombination vesting is the fair-value-based measure of the acquiree award multiplied by the ratio of the precombination employee's service period to the greater of the total service period or the original service period of the acquiree award. (Example 2, Cases C and D [see paragraphs 805-30-55-21 through 55-24
+1. The part of the employee's requisite service period for the acquiree award that was completed before the acquisition date
+2. The postcombination employee's requisite service period, if any, for the replacement award.
+
+The portion of an employee replacement award attributable to precombination vesting is the fair-value-based measure of the acquiree award multiplied by the ratio of the precombination employee's service period to the greater of the total service period or the original service period of the acquiree award. (Example 2, Cases C and D [see paragraphs 805-30-55-21 through 55-24
+1. The part of the employee's requisite service period for the acquiree award that was completed before the acquisition date
+2. The postcombination employee's requisite service period, if any, for the replacement award.
+
+The employee's requisite service period includes explicit, implicit, and derived service periods during which employees are required to provide service in exchange for the award (consistent with the requirements of Topic 718).
+The employee's requisite service period includes explicit, implicit, and derived service periods during which employees are required to provide service in exchange for the award (consistent with the requirements of Topic 718).
+The percentage that would have been recognized calculated on the basis of the original vesting requirements of the nonemployee award
+2. The percentage that would have been recognized calculated on the basis of the effective vesting requirements. Effective vesting requirements are equal to the services or goods provided before the acquisition date plus any additional postcombination services or goods required by the replacement award.
+
+The percentage that would have been recognized calculated on the basis of the original vesting requirements of the nonemployee award
+2. The percentage that would have been recognized calculated on the basis of the effective vesting requirements. Effective vesting requirements are equal to the services or goods provided before the acquisition date plus any additional postcombination services or goods required by the replacement award.
+
+The portion of a nonvested replacement award (for employee and nonemployee) attributable to postcombination vesting, and therefore recognized as compensation cost in the postcombination financial statements, equals the total fair-value-based measure of the replacement award less the amount attributed to precombination vesting. Therefore, the acquirer attributes any excess of the fair-value-based measure of the replacement award over the fair value of the acquiree award to postcombination vesting and recognizes that excess as compensation cost in the postcombination financial statements.
+The portion of a nonvested replacement award (for employee and nonemployee) attributable to postcombination vesting, and therefore recognized as compensation cost in the postcombination financial statements, equals the total fair-value-based measure of the replacement award less the amount attributed to precombination vesting. Therefore, the acquirer attributes any excess of the fair-value-based measure of the replacement award over the fair value of the acquiree award to postcombination vesting and recognizes that excess as compensation cost in the postcombination financial statements.
+Regardless of the accounting policy elected in accordance with paragraph 718-10-35-1D or 718-10-35-3, the portion of a nonvested replacement award included in consideration transferred shall reflect the acquirer's estimate of the number of replacement awards for which the service is expected to be rendered or the goods are expected to be delivered (that is, an acquirer that has elected an accounting policy to recognize forfeitures as they occur in accordance with paragraph 718-10-35-1D or 718-10-35-3 should estimate the number of replacement awards for which the service is expected to be rendered or the goods are expected to be delivered when determining the portion of a nonvested replacement award included in consideration transferred). For example, if the fair-value-based measure of the portion of a replacement award attributed to precombination vesting is $100 and the acquirer expects that the service will be rendered for only 95 percent of the instruments awarded, the amount included in consideration transferred in the business combination is $95. Changes in the number of replacement awards for which the service is expected to be rendered or the goods are expected to be delivered are reflected in compensation cost for the periods in which the changes or forfeitures occur—not as adjustments to the consideration transferred in the business combination. If an acquirer's accounting policy is to account for forfeitures as they occur, the amount excluded from consideration transferred (because the service is not expected to be rendered or the goods are not expected to be delivered) should be attributed to the postcombination vesting and recognized in compensation cost over the employee's requisite service period or the nonemployee's vesting period. Recognition of compensation cost for nonemployees should consider the recognition guidance provided in paragraph 718-10-25-2C. That is, recognition of the fair value of the nonemployee share-based payment award should be recognized in the same manner as if the grantor had paid cash for the goods or services instead of paying with or using the share-based payment awards.
+Regardless of the accounting policy elected in accordance with paragraph 718-10-35-1D or 718-10-35-3, the portion of a nonvested replacement award included in consideration transferred shall reflect the acquirer's estimate of the number of replacement awards for which the service is expected to be rendered or the goods are expected to be delivered (that is, an acquirer that has elected an accounting policy to recognize forfeitures as they occur in accordance with paragraph 718-10-35-1D or 718-10-35-3 should estimate the number of replacement awards for which the service is expected to be rendered or the goods are expected to be delivered when determining the portion of a nonvested replacement award included in consideration transferred). For example, if the fair-value-based measure of the portion of a replacement award attributed to precombination vesting is $100 and the acquirer expects that the service will be rendered for only 95 percent of the instruments awarded, the amount included in consideration transferred in the business combination is $95. Changes in the number of replacement awards for which the service is expected to be rendered or the goods are expected to be delivered are reflected in compensation cost for the periods in which the changes or forfeitures occur—not as adjustments to the consideration transferred in the business combination. If an acquirer's accounting policy is to account for forfeitures as they occur, the amount excluded from consideration transferred (because the service is not expected to be rendered or the goods are not expected to be delivered) should be attributed to the postcombination vesting and recognized in compensation cost over the employee's requisite service period or the nonemployee's vesting period. Recognition of compensation cost for nonemployees should consider the recognition guidance provided in paragraph 718-10-25-2C. That is, recognition of the fair value of the nonemployee share-based payment award should be recognized in the same manner as if the grantor had paid cash for the goods or services instead of paying with or using the share-based payment awards.
+Similarly, the effects of other events, such as modifications or the ultimate outcome of awards with performance conditions, that occur after the acquisition date are accounted for in accordance with Topic 718 in determining compensation cost for the period in which an event occurs. If the replacement award for an employee award has a graded vesting schedule, the acquirer shall recognize the related compensation cost in accordance with its policy election for other awards with graded vesting in accordance with paragraph 718-10-35-8.
+Similarly, the effects of other events, such as modifications or the ultimate outcome of awards with performance conditions, that occur after the acquisition date are accounted for in accordance with Topic 718 in determining compensation cost for the period in which an event occurs. If the replacement award for an employee award has a graded vesting schedule, the acquirer shall recognize the related compensation cost in accordance with its policy election for other awards with graded vesting in accordance with paragraph 718-10-35-8.
+The same requirements for determining the portions of a replacement award attributable to precombination and postcombination vesting apply regardless of whether a replacement award is classified as a liability or an equity instrument in accordance with the provisions of paragraphs 718-10-25-6 through 25-19A. All changes in the fair-value-based measure of awards classified as liabilities after the acquisition date and the related income tax effects are recognized in the acquirer's postcombination financial statements in the period(s) in which the changes occur.
+The same requirements for determining the portions of a replacement award attributable to precombination and postcombination vesting apply regardless of whether a replacement award is classified as a liability or an equity instrument in accordance with the provisions of paragraphs 718-10-25-6 through 25-19A. All changes in the fair-value-based measure of awards classified as liabilities after the acquisition date and the related income tax effects are recognized in the acquirer's postcombination financial statements in the period(s) in which the changes occur.
+
+##### · > Example 1: Bargain Purchases
+
+**805-30-55-14** > Illustrations
+Paragraphs 805-30-25-2 through 25-4
+establish the required accounting for a bargain purchase. This Example provides additional guidance on bargain purchases and illustrates its application.
+Paragraphs 805-30-25-2 through 25-4
+**805-30-55-15** establish the required accounting for a bargain purchase. This Example provides additional guidance on bargain purchases and illustrates its application.
+On January 1, 20X5, the acquiring entity, or Acquirer, acquires 80 percent of the equity interests of the acquiree, or Target, a private entity, in exchange for cash of $150. Because the former owners of Target needed to dispose of their investments in Target by a specified date, they did not have sufficient time to market Target to multiple potential buyers. The management of Acquirer initially measures the separately recognizable identifiable assets acquired and the liabilities assumed as of the acquisition date in accordance with the requirements of the Business Combinations Topic. The identifiable assets are measured at $250, and the liabilities assumed are measured at $50. Acquirer engages an independent consultant who determines that the fair value of the 20 percent noncontrolling interest
+in Target is $42. The amount of Target's identifiable net assets ($200, calculated as $250 - $50) exceeds the fair value of the consideration transferred plus the fair value of the noncontrolling interest in Target. Therefore, Acquirer reviews the procedures it used to identify and measure the assets acquired and liabilities assumed and to measure the fair value of both the noncontrolling interest in Target and the consideration transferred. After that review, Acquirer decides that the procedures and resulting measures were appropriate. Acquirer measures the gain on its purchase of the 80 percent interest as follows.
+On January 1, 20X5, the acquiring entity, or Acquirer, acquires 80 percent of the equity interests of the acquiree, or Target, a private entity, in exchange for cash of $150. Because the former owners of Target needed to dispose of their investments in Target by a specified date, they did not have sufficient time to market Target to multiple potential buyers. The management of Acquirer initially measures the separately recognizable identifiable assets acquired and the liabilities assumed as of the acquisition date in accordance with the requirements of the Business Combinations Topic. The identifiable assets are measured at $250, and the liabilities assumed are measured at $50. Acquirer engages an independent consultant who determines that the fair value of the 20 percent noncontrolling interest
+in Target is $42. The amount of Target's identifiable net assets ($200, calculated as $250 - $50) exceeds the fair value of the consideration transferred plus the fair value of the noncontrolling interest in Target. Therefore, Acquirer reviews the procedures it used to identify and measure the assets acquired and liabilities assumed and to measure the fair value of both the noncontrolling interest in Target and the consideration transferred. After that review, Acquirer decides that the procedures and resulting measures were appropriate. Acquirer measures the gain on its purchase of the 80 percent interest as follows.
+Acquirer would record its acquisition of Target in its consolidated financial statements as follows.
+Acquirer would record its acquisition of Target in its consolidated financial statements as follows.
+
+##### · > Example 2: Acquirer Replacement of Employee Awards
+
+The following Cases illustrate the guidance referred to in paragraph 805-30-55-6 for replacement awards that the acquirer was obligated to issue. The Cases assume that all awards are classified as equity and that the awards have only an explicit service period. As discussed in paragraphs 805-30-55-8 through 55-9
+1. Have rendered the required service as of the acquisition date (Case A)
+2. Have not rendered all of the required service as of the acquisition date (Case D).
+
+1. Have rendered the required service as of the acquisition date (Case B)
+2. Have not rendered all of the required service as of the acquisition date (Case C).
+
+The following Cases illustrate the guidance referred to in paragraph 805-30-55-6 for replacement awards that the acquirer was obligated to issue. The Cases assume that all awards are classified as equity and that the awards have only an explicit service period. As discussed in paragraphs 805-30-55-8 through 55-9
+1. Have rendered the required service as of the acquisition date (Case A)
+2. Have not rendered all of the required service as of the acquisition date (Case D).
+
+1. Have rendered the required service as of the acquisition date (Case B)
+2. Have not rendered all of the required service as of the acquisition date (Case C).
+
+**805-30-55-18** · · > Case A: No Required Postcombination Vesting, All Requisite Service for Acquiree Awards Rendered as of Acquisition Date
+Acquirer issues replacement awards of $110 (fair-value-based measure) at the acquisition date for Target awards of $100 (fair-value-based measure) at the acquisition date. No postcombination vesting is required for the replacement awards, and Target's employees had rendered all of the required service for the acquiree awards as of the acquisition date.
+Acquirer issues replacement awards of $110 (fair-value-based measure) at the acquisition date for Target awards of $100 (fair-value-based measure) at the acquisition date. No postcombination vesting is required for the replacement awards, and Target's employees had rendered all of the required service for the acquiree awards as of the acquisition date.
+The amount attributable to precombination vesting is the fair-value-based measure of Target's awards ($100) at the acquisition date; that amount is included in the consideration transferred in the business combination. The amount attributable to postcombination vesting is $10, which is the difference between the total value of the replacement awards ($110) and the portion attributable to precombination vesting ($100). Because no postcombination vesting is required for the replacement awards, Acquirer immediately recognizes $10 as compensation cost in its postcombination financial statements.
+The amount attributable to precombination vesting is the fair-value-based measure of Target's awards ($100) at the acquisition date; that amount is included in the consideration transferred in the business combination. The amount attributable to postcombination vesting is $10, which is the difference between the total value of the replacement awards ($110) and the portion attributable to precombination vesting ($100). Because no postcombination vesting is required for the replacement awards, Acquirer immediately recognizes $10 as compensation cost in its postcombination financial statements.
+**805-30-55-20** · · > Case B: Postcombination Vesting Required, All Requisite Service for Acquiree Awards Rendered as of Acquisition Date
+Acquirer exchanges replacement awards that require one year of postcombination vesting for share-based payment awards of Target for which employees had completed the requisite service period before the business combination. The fair-value-based measure of both awards is $100 at the acquisition date. When originally granted, Target's awards had a requisite service period of four years. As of the acquisition date, the Target employees holding unexercised awards had rendered a total of seven years of service since the grant date. Even though Target employees had already rendered all of the requisite service, Acquirer attributes a portion of the replacement award to postcombination compensation cost in accordance with paragraphs 805-30-30-12 through 30-13
+because the replacement awards require one year of postcombination vesting. The total service period is five years—the requisite service period for the original acquiree award completed before the acquisition date (four years) plus the requisite service period for the replacement award (one year). The portion attributable to precombination vesting equals the fair-value-based measure of the acquiree award ($100) multiplied by the ratio of the precombination vesting period (4 years) to the total vesting period (5 years). Thus, $80 ($100 × 4 ÷ 5 years) is attributed to the precombination vesting period and therefore included in the consideration transferred in the business combination. The remaining $20 is attributed to the postcombination vesting period and therefore is recognized as compensation cost in Acquirer's postcombination financial statements in accordance with Topic 718.
+Acquirer exchanges replacement awards that require one year of postcombination vesting for share-based payment awards of Target for which employees had completed the requisite service period before the business combination. The fair-value-based measure of both awards is $100 at the acquisition date. When originally granted, Target's awards had a requisite service period of four years. As of the acquisition date, the Target employees holding unexercised awards had rendered a total of seven years of service since the grant date. Even though Target employees had already rendered all of the requisite service, Acquirer attributes a portion of the replacement award to postcombination compensation cost in accordance with paragraphs 805-30-30-12 through 30-13
+**805-30-55-21** because the replacement awards require one year of postcombination vesting. The total service period is five years—the requisite service period for the original acquiree award completed before the acquisition date (four years) plus the requisite service period for the replacement award (one year). The portion attributable to precombination vesting equals the fair-value-based measure of the acquiree award ($100) multiplied by the ratio of the precombination vesting period (4 years) to the total vesting period (5 years). Thus, $80 ($100 × 4 ÷ 5 years) is attributed to the precombination vesting period and therefore included in the consideration transferred in the business combination. The remaining $20 is attributed to the postcombination vesting period and therefore is recognized as compensation cost in Acquirer's postcombination financial statements in accordance with Topic 718. · · > Case C: Postcombination Vesting Required, All Requisite Service for Acquiree Awards Not Rendered as of Acquisition Date
+Acquirer exchanges replacement awards that require one year of postcombination vesting for share-based payment awards of Target for which employees had not yet rendered all of the required services as of the acquisition date. The fair-value-based measure of both awards is $100 at the acquisition date. When originally granted, the awards of Target had a requisite service period of four years. As of the acquisition date, the Target employees had rendered two years' service, and they would have been required to render two additional years of service after the acquisition date for their awards to vest. Accordingly, only a portion of Target's awards is attributable to precombination vesting.
+Acquirer exchanges replacement awards that require one year of postcombination vesting for share-based payment awards of Target for which employees had not yet rendered all of the required services as of the acquisition date. The fair-value-based measure of both awards is $100 at the acquisition date. When originally granted, the awards of Target had a requisite service period of four years. As of the acquisition date, the Target employees had rendered two years' service, and they would have been required to render two additional years of service after the acquisition date for their awards to vest. Accordingly, only a portion of Target's awards is attributable to precombination vesting.
+The replacement awards require only one year of postcombination vesting. Because employees have already rendered two years of service, the total requisite service period is three years. The portion attributable to precombination vesting equals the fair-value-based measure of the acquiree award ($100) multiplied by the ratio of the precombination vesting period (2 years) to the greater of the total service period (3 years) or the original service period of Target's award (4 years). Thus, $50 ($100 x 2 ÷ 4 years) is attributable to precombination vesting and therefore included in the consideration transferred for the acquiree. The remaining $50 is attributable to postcombination vesting and therefore recognized as compensation cost in Acquirer's postcombination financial statements in accordance with Topic 718.
+The replacement awards require only one year of postcombination vesting. Because employees have already rendered two years of service, the total requisite service period is three years. The portion attributable to precombination vesting equals the fair-value-based measure of the acquiree award ($100) multiplied by the ratio of the precombination vesting period (2 years) to the greater of the total service period (3 years) or the original service period of Target's award (4 years). Thus, $50 ($100 x 2 ÷ 4 years) is attributable to precombination vesting and therefore included in the consideration transferred for the acquiree. The remaining $50 is attributable to postcombination vesting and therefore recognized as compensation cost in Acquirer's postcombination financial statements in accordance with Topic 718.
+**805-30-55-23** · · > Case D: No Required Postcombination Vesting, All Requisite Service for Acquiree Awards Not Rendered as of Acquisition Date
+Assume the same facts as in Case C, except that Acquirer exchanges replacement awards that require no postcombination vesting for share-based payment awards of Target for which employees had not yet rendered all of the requisite service as of the acquisition date. The terms of the replaced Target awards did not eliminate any remaining requisite service period upon a change in control. (If the Target awards had included a provision that eliminated any remaining requisite service period upon a change in control, the guidance in Case A would apply.) The fair-value-based measure of both awards is $100. Because employees have already rendered two years of service and the replacement awards do not require any postcombination vesting, the total service period is two years.
+Assume the same facts as in Case C, except that Acquirer exchanges replacement awards that require no postcombination vesting for share-based payment awards of Target for which employees had not yet rendered all of the requisite service as of the acquisition date. The terms of the replaced Target awards did not eliminate any remaining requisite service period upon a change in control. (If the Target awards had included a provision that eliminated any remaining requisite service period upon a change in control, the guidance in Case A would apply.) The fair-value-based measure of both awards is $100. Because employees have already rendered two years of service and the replacement awards do not require any postcombination vesting, the total service period is two years.
+The portion of the fair-value-based measure of the replacement awards attributable to precombination vesting equals the fair-value-based measure of the acquiree award ($100) multiplied by the ratio of the precombination vesting period (2 years) to the greater of the total service period (2 years) or the original service period of Target's award (4 years). Thus, $50 ($100 x 2 ÷ 4 years) is attributable to precombination vesting and therefore included in the consideration transferred for the acquiree. The remaining $50 is attributable to postcombination vesting. Because no postcombination vesting is required to vest in the replacement award, Acquirer recognizes the entire $50 immediately as compensation cost in the postcombination financial statements.
+The portion of the fair-value-based measure of the replacement awards attributable to precombination vesting equals the fair-value-based measure of the acquiree award ($100) multiplied by the ratio of the precombination vesting period (2 years) to the greater of the total service period (2 years) or the original service period of Target's award (4 years). Thus, $50 ($100 x 2 ÷ 4 years) is attributable to precombination vesting and therefore included in the consideration transferred for the acquiree. The remaining $50 is attributable to postcombination vesting. Because no postcombination vesting is required to vest in the replacement award, Acquirer recognizes the entire $50 immediately as compensation cost in the postcombination financial statements.
+
+##### · > Example 3: Acquirer Replacement of Nonemployee Awards
+
+The following Cases illustrate the guidance referred to in paragraph 805-30-55-6 for replacement awards that the acquirer was obligated to issue and the attribution guidance for a nonemployee replacement award to precombination and postcombination vesting referenced in paragraph 805-30-55-9A.
+The following Cases illustrate the guidance referred to in paragraph 805-30-55-6 for replacement awards that the acquirer was obligated to issue and the attribution guidance for a nonemployee replacement award to precombination and postcombination vesting referenced in paragraph 805-30-55-9A.
+Awards that require no postcombination vesting that are exchanged for acquiree awards for which grantees:
+1. Have met the vesting condition as of the acquisition date (Case A)
+2. Have not met the vesting condition as of the acquisition date (Case D).
+
+1. Have met the vesting condition as of the acquisition date (Case B)
+2. Have not met the vesting condition as of the acquisition date (Case C).
+
+Awards that require no postcombination vesting that are exchanged for acquiree awards for which grantees:
+1. Have met the vesting condition as of the acquisition date (Case A)
+2. Have not met the vesting condition as of the acquisition date (Case D).
+
+1. Have met the vesting condition as of the acquisition date (Case B)
+2. Have not met the vesting condition as of the acquisition date (Case C).
+
+All awards are classified as equity.
+2. The only vesting condition included in the awards, if any, involves the delivery of engines.
+3. Target and Acquirer typically pay cash as each engine is delivered to their suppliers.
+
+All awards are classified as equity.
+2. The only vesting condition included in the awards, if any, involves the delivery of engines.
+3. Target and Acquirer typically pay cash as each engine is delivered to their suppliers.
+
+**805-30-55-28** · · > Case A: No Required Postcombination Vesting and the Vesting Condition for Acquiree Awards Has Been Met as of Acquisition Date
+Acquirer issues replacement awards of $110 (fair-value-based measure) at the acquisition date for Target awards of $100 (fair-value-based measure) at the acquisition date. No postcombination vesting is required for the replacement awards, and Target's grantee has delivered all the engines necessary for the acquiree awards as of the acquisition date.
+Acquirer issues replacement awards of $110 (fair-value-based measure) at the acquisition date for Target awards of $100 (fair-value-based measure) at the acquisition date. No postcombination vesting is required for the replacement awards, and Target's grantee has delivered all the engines necessary for the acquiree awards as of the acquisition date.
+The amount attributable to precombination vesting is the fair-value-based measure of Target's awards ($100) at the acquisition date; that amount is included in the consideration transferred in the business combination. The amount attributable to postcombination vesting is $10, which is the difference between the total value of the replacement awards ($110) and the portion attributable to precombination vesting ($100). Because no postcombination vesting is required for the replacement awards, Acquirer immediately recognizes $10 as compensation cost in its postcombination financial statements.
+The amount attributable to precombination vesting is the fair-value-based measure of Target's awards ($100) at the acquisition date; that amount is included in the consideration transferred in the business combination. The amount attributable to postcombination vesting is $10, which is the difference between the total value of the replacement awards ($110) and the portion attributable to precombination vesting ($100). Because no postcombination vesting is required for the replacement awards, Acquirer immediately recognizes $10 as compensation cost in its postcombination financial statements.
+**805-30-55-30** · · > Case B: Postcombination Vesting Required and the Vesting Condition for Acquiree Awards Has Been Met as of Acquisition Date
+Acquirer exchanges replacement awards that require the delivery of another 10 engines postcombination for share-based payment awards of Target for which the grantee had met the necessary vesting condition to deliver 40 engines before the business combination. The fair-value-based measure of both awards is $100 at the acquisition date. Even though the grantee already had met the vesting condition for the acquiree's award, Acquirer attributes a portion of the replacement award to postcombination compensation cost in accordance with paragraphs 805-30-30-12 through 30-13
+because the replacement awards require the delivery of an additional 10 engines.
+Acquirer exchanges replacement awards that require the delivery of another 10 engines postcombination for share-based payment awards of Target for which the grantee had met the necessary vesting condition to deliver 40 engines before the business combination. The fair-value-based measure of both awards is $100 at the acquisition date. Even though the grantee already had met the vesting condition for the acquiree's award, Acquirer attributes a portion of the replacement award to postcombination compensation cost in accordance with paragraphs 805-30-30-12 through 30-13
+**805-30-55-31** because the replacement awards require the delivery of an additional 10 engines.
+The portion attributable to precombination vesting equals the fair-value-based measure of the acquiree award ($100) multiplied by the percentage that would have been recognized for the award. The percentage that would have been recognized is the lower of the calculation on the basis of the original vesting requirements and the percentage that would have been recognized on the basis of the effective vesting requirements as described in paragraph 805-30-55-9A. The percentage that would have been recognized on the basis of the original vesting requirements equals 100 percent, which is calculated as 40 engines delivered divided by 40 engines required to be delivered. The percentage that would have been recognized on the basis of the effective vesting requirements equals 80 percent, which is calculated as 40 engines delivered divided by 50 engines (the sum of 40 engines delivered plus 10 engines required postcombination). Thus, $80 ($100 × 80%) is attributed to the precombination vesting period and therefore is included in the consideration transferred in the business combination. The remaining $20 is attributed to the postcombination vesting period and therefore is recognized as compensation cost in Acquirer's postcombination financial statements in accordance with Topic 718.
+The portion attributable to precombination vesting equals the fair-value-based measure of the acquiree award ($100) multiplied by the percentage that would have been recognized for the award. The percentage that would have been recognized is the lower of the calculation on the basis of the original vesting requirements and the percentage that would have been recognized on the basis of the effective vesting requirements as described in paragraph 805-30-55-9A. The percentage that would have been recognized on the basis of the original vesting requirements equals 100 percent, which is calculated as 40 engines delivered divided by 40 engines required to be delivered. The percentage that would have been recognized on the basis of the effective vesting requirements equals 80 percent, which is calculated as 40 engines delivered divided by 50 engines (the sum of 40 engines delivered plus 10 engines required postcombination). Thus, $80 ($100 × 80%) is attributed to the precombination vesting period and therefore is included in the consideration transferred in the business combination. The remaining $20 is attributed to the postcombination vesting period and therefore is recognized as compensation cost in Acquirer's postcombination financial statements in accordance with Topic 718.
+**805-30-55-32** · · > Case C: Postcombination Vesting Required and the Vesting Condition for Acquiree Awards Has Not Been Met as of Acquisition Date
+Acquirer exchanges replacement awards that require the delivery of 10 engines postcombination for share-based payment awards of Target for which the grantee had not met the necessary vesting condition to deliver 40 engines before the business combination. The fair-value-based measure of both awards is $100 at the acquisition date. As of the acquisition date, Target grantee has delivered 20 engines, and Target grantee would have been required to deliver an additional 20 engines after the acquisition date for its awards to vest. Accordingly, only a portion of Target's awards is attributable to precombination vesting.
+Acquirer exchanges replacement awards that require the delivery of 10 engines postcombination for share-based payment awards of Target for which the grantee had not met the necessary vesting condition to deliver 40 engines before the business combination. The fair-value-based measure of both awards is $100 at the acquisition date. As of the acquisition date, Target grantee has delivered 20 engines, and Target grantee would have been required to deliver an additional 20 engines after the acquisition date for its awards to vest. Accordingly, only a portion of Target's awards is attributable to precombination vesting.
+The portion attributable to precombination vesting equals the fair-value-based measure of the acquiree award ($100) multiplied by the percentage that would have been recognized on the award. The percentage that would have been recognized is the lower of the percentage that would have been recognized on the basis of the original vesting requirements and the percentage that would have been recognized on the basis of the effective vesting requirements as described in paragraph 805-30-55-9A. The percentage that would have been recognized on the basis of the original vesting requirements equals 50 percent, which is calculated as 20 engines delivered divided by 40 engines required to be delivered. The percentage that would have been recognized on the basis of the effective vesting requirements equals 66.67 percent, which is calculated as 20 engines delivered divided by 30 engines (the sum of 20 engines delivered plus 10 engines required postcombination). Thus, $50 ($100 × 50%) is attributed to precombination vesting and therefore is included in the consideration transferred in the business combination. The remaining $50 is attributed to the postcombination vesting and therefore is recognized as compensation cost in Acquirer's postcombination financial statements in accordance with Topic 718.
+The portion attributable to precombination vesting equals the fair-value-based measure of the acquiree award ($100) multiplied by the percentage that would have been recognized on the award. The percentage that would have been recognized is the lower of the percentage that would have been recognized on the basis of the original vesting requirements and the percentage that would have been recognized on the basis of the effective vesting requirements as described in paragraph 805-30-55-9A. The percentage that would have been recognized on the basis of the original vesting requirements equals 50 percent, which is calculated as 20 engines delivered divided by 40 engines required to be delivered. The percentage that would have been recognized on the basis of the effective vesting requirements equals 66.67 percent, which is calculated as 20 engines delivered divided by 30 engines (the sum of 20 engines delivered plus 10 engines required postcombination). Thus, $50 ($100 × 50%) is attributed to precombination vesting and therefore is included in the consideration transferred in the business combination. The remaining $50 is attributed to the postcombination vesting and therefore is recognized as compensation cost in Acquirer's postcombination financial statements in accordance with Topic 718.
+**805-30-55-34** · · > Case D: No Postcombination Vesting Required and the Vesting Condition for Acquiree Awards Has Not Been Met as of Acquisition Date
+Assume the same facts as in Case C, except that Acquirer exchanges replacement awards that require no postcombination vesting for share-based payment awards of Target for which the grantee had not met the necessary vesting condition to deliver 40 engines before the business combination. The terms of the replaced Target awards did not eliminate the vesting condition upon a change in control. (If the Target awards had included a provision that eliminated the vesting condition upon a change in control, the guidance in Case A [see paragraph 805-30-55-28] would apply.) The fair-value-based measure of both awards is $100.
+Assume the same facts as in Case C, except that Acquirer exchanges replacement awards that require no postcombination vesting for share-based payment awards of Target for which the grantee had not met the necessary vesting condition to deliver 40 engines before the business combination. The terms of the replaced Target awards did not eliminate the vesting condition upon a change in control. (If the Target awards had included a provision that eliminated the vesting condition upon a change in control, the guidance in Case A [see paragraph 805-30-55-28] would apply.) The fair-value-based measure of both awards is $100.
+The portion attributable to precombination vesting equals the fair-value-based measure of the acquiree award ($100) multiplied by the percentage that would have been recognized on the award. The percentage that would have been recognized is the lower of the percentage that would have been recognized on the basis of the original vesting requirements and the percentage that would have been recognized on the basis of the effective vesting requirements as described in paragraph 805-30-55-9A. The percentage that would have been recognized on the basis of the original vesting requirements equals 50 percent, which is calculated as 20 engines delivered divided by 40 engines required to be delivered. The percentage that would have been recognized on the basis of the effective vesting requirements equals 100 percent, which is calculated as 20 engines delivered divided by 20 engines (the sum of 20 engines delivered plus zero engines required postcombination). Thus, $50 ($100 × 50%) is attributed to the precombination vesting and is therefore included in the consideration transferred in the business combination. The remaining $50 is attributed to the postcombination vesting. Because no postcombination vesting is required to vest in the replacement award, Acquirer recognizes the entire $50 immediately as compensation cost in the postcombination financial statements.
+The portion attributable to precombination vesting equals the fair-value-based measure of the acquiree award ($100) multiplied by the percentage that would have been recognized on the award. The percentage that would have been recognized is the lower of the percentage that would have been recognized on the basis of the original vesting requirements and the percentage that would have been recognized on the basis of the effective vesting requirements as described in paragraph 805-30-55-9A. The percentage that would have been recognized on the basis of the original vesting requirements equals 50 percent, which is calculated as 20 engines delivered divided by 40 engines required to be delivered. The percentage that would have been recognized on the basis of the effective vesting requirements equals 100 percent, which is calculated as 20 engines delivered divided by 20 engines (the sum of 20 engines delivered plus zero engines required postcombination). Thus, $50 ($100 × 50%) is attributed to the precombination vesting and is therefore included in the consideration transferred in the business combination. The remaining $50 is attributed to the postcombination vesting. Because no postcombination vesting is required to vest in the replacement award, Acquirer recognizes the entire $50 immediately as compensation cost in the postcombination financial statements.
+
+## 00 Status
+
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+
+### General
+
+**805-40-00-1** The following table identifies the changes made to this Subtopic.
+
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Acquiree | Amended | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| Acquirer | Amended | Accounting Standards Update No. 2025-03 | 05/12/2025 |
+| Business | Amended | Accounting Standards Update No. 2017-01 | 01/05/2017 |
+| Business Combination | Amended | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| Goodwill | Amended | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Goodwill | Amended | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| Variable Interest Entity | Superseded | Accounting Standards Update No. 2025-03 | 05/12/2025 |
+| 805-40-55-19 | Amended | Accounting Standards Update No. 2010-08 | 02/02/2010 |
+
+****
+**805-40-00-1** The following table identifies the changes made to this Subtopic.
+
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Acquiree | Amended | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| Acquirer | Amended | Accounting Standards Update No. 2025-03 | 05/12/2025 |
+| Business | Amended | Accounting Standards Update No. 2017-01 | 01/05/2017 |
+| Business Combination | Amended | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| Goodwill | Amended | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Goodwill | Amended | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| Variable Interest Entity | Superseded | Accounting Standards Update No. 2025-03 | 05/12/2025 |
+| 805-40-55-19 | Amended | Accounting Standards Update No. 2010-08 | 02/02/2010 |
+
+## 05 Overview and Background
+
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+
+### General
+
+This Subtopic provides incremental guidance on the application of the acquisition method (as described in paragraph 805-10-05-4) to a business combination
+that is a reverse acquisition.
+This Subtopic provides incremental guidance on the application of the acquisition method (as described in paragraph 805-10-05-4) to a business combination
+**805-40-05-2** that is a reverse acquisition.
+As one example of a reverse acquisition, a private operating entity may want to become a public entity but not want to register its equity shares. To become a public entity, the private entity will arrange for a public entity to acquire its equity interests in exchange for the equity interests of the public entity. In this situation, the public entity is the legal acquirer because it issued its equity interests, and the private entity is the legal acquiree because its equity interests were acquired. However, application of the guidance in paragraphs 805-10-55-11 through 55-15
+1. The public entity as the acquiree for accounting purposes (the accounting acquiree)
+2. The private entity as the acquirer for accounting purposes (the accounting acquirer).
+
+As one example of a reverse acquisition, a private operating entity may want to become a public entity but not want to register its equity shares. To become a public entity, the private entity will arrange for a public entity to acquire its equity interests in exchange for the equity interests of the public entity. In this situation, the public entity is the legal acquirer because it issued its equity interests, and the private entity is the legal acquiree because its equity interests were acquired. However, application of the guidance in paragraphs 805-10-55-11 through 55-15
+1. The public entity as the acquiree for accounting purposes (the accounting acquiree)
+2. The private entity as the acquirer for accounting purposes (the accounting acquirer).
+
+## 15 Scope and Scope Exceptions
+
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+
+### General
+
+**805-40-15-1** > Overall Guidance
+This Subtopic follows the same Scope and Scope Exceptions as outlined in the Overall Subtopic, see Section 805-10-15, with specific transaction qualifications noted below.
+**805-40-15-1** This Subtopic follows the same Scope and Scope Exceptions as outlined in the Overall Subtopic, see Section 805-10-15, with specific transaction qualifications noted below.
+**805-40-15-2** > Transactions
+The guidance in this Subtopic applies to business combinations
+that are reverse acquisitions.
+**805-40-15-2** The guidance in this Subtopic applies to business combinations
+
+## 20 Glossary
+
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+
+##### Acquiree
+
+The business or businesses that the acquirer obtains control of in a business combination. This term also includes a nonprofit activity or business that a not-for-profit acquirer obtains control of in an acquisition by a not-for-profit entity.
+The business or businesses that the acquirer obtains control of in a business combination. This term also includes a nonprofit activity or business that a not-for-profit acquirer obtains control of in an acquisition by a not-for-profit entity.
+
+##### Acquirer
+
+The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:805-10-65-5The entity that obtains control of the acquiree.See paragraphs 805-10-25-4 through 25-5 for guidance on determining the acquirer.
+The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer.
+PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:805-10-65-5The entity that obtains control of the acquiree.See paragraphs 805-10-25-4 through 25-5
+
+##### Acquisition by a Not-for-Profit Entity
+
+for guidance on determining the acquirer.A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.
+A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.
+
+##### Acquisition Date
+
+The date on which the acquirer obtains control of the acquiree.
+The date on which the acquirer obtains control of the acquiree.
+
+##### Business
+
+Paragraphs 805-10-55-3A through 55-6 and 805-10-55-8 through 55-9 define what is considered a business.
+Paragraphs 805-10-55-3A through 55-6
+
+##### Business Combination
+
+and 805-10-55-8 through 55-9 define what is considered a business. A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
+A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
+
+##### Corporate Joint Venture
+
+A corporation owned and operated by a small group of entities (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a corporate joint venture frequently is to share risks and rewards in developing a new market, product or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A corporate joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a corporate joint venture. The ownership of a corporate joint venture seldom changes, and its stock is usually not traded publicly. A noncontrolling interest held by public ownership, however, does not preclude a corporation from being a corporate joint venture.
+A corporation owned and operated by a small group of entities (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a corporate joint venture frequently is to share risks and rewards in developing a new market, product or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A corporate joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a corporate joint venture. The ownership of a corporate joint venture seldom changes, and its stock is usually not traded publicly. A noncontrolling interest held by public ownership, however, does not preclude a corporation from being a corporate joint venture.
+
+##### Fair Value
+
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+
+##### Goodwill
+
+An asset representing the future economic benefits arising from other assets acquired in a business combination or an acquisition by a not-for-profit entity that are not individually identified and separately recognized. For ease of reference, this term also includes the immediate charge recognized by not-for-profit entities in accordance with paragraph 958-805-25-29. PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1An asset representing the future economic benefits arising from other assets acquired in a business combination, acquired in an acquisition by a not-for-profit entity, or recognized by a joint venture upon formation that are not individually identified and separately recognized. For ease of reference, this term also includes the immediate charge recognized by not-for-profit entities in accordance with paragraph 958-805-25-29.
+An asset representing the future economic benefits arising from other assets acquired in a business combination or an acquisition by a not-for-profit entity that are not individually identified and separately recognized. For ease of reference, this term also includes the immediate charge recognized by not-for-profit entities in accordance with paragraph 958-805-25-29.
+
+##### Joint Venture
+
+PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1An asset representing the future economic benefits arising from other assets acquired in a business combination, acquired in an acquisition by a not-for-profit entity, or recognized by a joint venture upon formation that are not individually identified and separately recognized. For ease of reference, this term also includes the immediate charge recognized by not-for-profit entities in accordance with paragraph 958-805-25-29. An entity owned and operated by a small group of businesses (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a joint venture frequently is to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a joint venture. The ownership of a joint venture seldom changes, and its equity interests usually are not traded publicly. A minority public ownership, however, does not preclude an entity from being a joint venture. As distinguished from a corporate joint venture, a joint venture is not limited to corporate entities.
+An entity owned and operated by a small group of businesses (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a joint venture frequently is to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a joint venture. The ownership of a joint venture seldom changes, and its equity interests usually are not traded publicly. A minority public ownership, however, does not preclude an entity from being a joint venture. As distinguished from a corporate joint venture, a joint venture is not limited to corporate entities.
+
+##### Legal Entity
+
+Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts.
+Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts.
+
+##### Market Participants
+
+1. They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
+3. They are able to enter into a transaction for the asset or liability
+4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
+
+They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
+3. They are able to enter into a transaction for the asset or liability
+4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
+
+##### Noncontrolling Interest
+
+The portion of equity (net assets) in a subsidiary not attributable, directly or indirectly, to a parent. A noncontrolling interest is sometimes called a minority interest.
+The portion of equity (net assets) in a subsidiary not attributable, directly or indirectly, to a parent. A noncontrolling interest is sometimes called a minority interest.
+
+##### Not-for-Profit Entity
+
+1. Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
+2. Operating purposes other than to provide goods or services at a profit
+3. Absence of ownership interests like those of business entities.
+
+1. All investor-owned entities
+2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
+
+Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
+2. Operating purposes other than to provide goods or services at a profit
+3. Absence of ownership interests like those of business entities.
+
+All investor-owned entities
+2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
+
+##### Orderly Transaction
+
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+
+##### Related Parties
+
+1. Affiliates of the entity
+2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
+3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
+4. Principal owners of the entity and members of their immediate families
+5. Management of the entity and members of their immediate families
+6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
+7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
+
+Affiliates of the entity
+2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
+3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
+4. Principal owners of the entity and members of their immediate families
+5. Management of the entity and members of their immediate families
+6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
+7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
+
+##### Reverse Acquisition
+
+An acquisition in which the entity that issues securities (the legal acquirer) is identified as the acquiree for accounting purposes based on the guidance in paragraphs 805-10-55-11 through 55-15. The entity whose equity interests are acquired (the legal acquiree) must be the acquirer for accounting purposes for the transaction to be considered a reverse acquisition.
+An acquisition in which the entity that issues securities (the legal acquirer) is identified as the acquiree for accounting purposes based on the guidance in paragraphs 805-10-55-11 through 55-15
+
+##### Variable Interest Entity
+
+. The entity whose equity interests are acquired (the legal acquiree) must be the acquirer for accounting purposes for the transaction to be considered a reverse acquisition. A legal entity subject to consolidation according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
+A legal entity subject to consolidation according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
+
+## 25 Recognition
+
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+
+### General
+
+**805-40-25-1** For a business combination
+transaction to be accounted for as a reverse acquisition, the accounting acquiree must meet the definition of a business. All of the recognition principles in Subtopics 805-10, 805-20, and 805-30, including the requirement to recognize goodwill, apply to a reverse acquisition.
+**805-40-25-1** For a business combination
+**805-40-25-2** transaction to be accounted for as a reverse acquisition, the accounting acquiree must meet the definition of a business. All of the recognition principles in Subtopics 805-10, 805-20, and 805-30, including the requirement to recognize goodwill, apply to a reverse acquisition. > Noncontrolling Interest
+In a reverse acquisition, some of the owners of the legal acquiree (the accounting acquirer) might not exchange their equity interests for equity interests of the legal parent (the accounting acquiree). Those owners are treated as a noncontrolling interest
+in the consolidated financial statements after the reverse acquisition. That is because the owners of the legal acquiree that do not exchange their equity interests for equity interests of the legal acquirer have an interest in only the results and net assets of the legal acquiree―not in the results and net assets of the combined entity. Conversely, even though the legal acquirer is the acquiree for accounting purposes, the owners of the legal acquirer have an interest in the results and net assets of the combined entity.
+**805-40-25-2** In a reverse acquisition, some of the owners of the legal acquiree (the accounting acquirer) might not exchange their equity interests for equity interests of the legal parent (the accounting acquiree). Those owners are treated as a noncontrolling interest
+
+## 30 Initial Measurement
+
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+
+### General
+
+**805-40-30-1** All of the measurement principles applicable to business combinations
+in Subtopics 805-10, 805-20, and 805-30 apply to a reverse acquisition.
+**805-40-30-1** All of the measurement principles applicable to business combinations
+**805-40-30-2** in Subtopics 805-10, 805-20, and 805-30 apply to a reverse acquisition. > Measuring the Consideration Transferred
+In a reverse acquisition, the accounting acquirer usually issues no consideration for the acquiree
+. Instead, the accounting acquiree usually issues its equity shares to the owners of the accounting acquirer. Accordingly, the acquisition-date fair value of the consideration transferred by the accounting acquirer for its interest in the accounting acquiree is based on the number of equity interests the legal subsidiary would have had to issue to give the owners of the legal parent the same percentage equity interest in the combined entity that results from the reverse acquisition. Example 1, Case A (see paragraph 805-40-55-8) illustrates that calculation. The fair value of the number of equity interests calculated in that way can be used as the fair value of consideration transferred in exchange for the acquiree.
+**805-40-30-2** In a reverse acquisition, the accounting acquirer usually issues no consideration for the acquiree
+**805-40-30-3** . Instead, the accounting acquiree usually issues its equity shares to the owners of the accounting acquirer. Accordingly, the acquisition-date fair value of the consideration transferred by the accounting acquirer for its interest in the accounting acquiree is based on the number of equity interests the legal subsidiary would have had to issue to give the owners of the legal parent the same percentage equity interest in the combined entity that results from the reverse acquisition. Example 1, Case A (see paragraph 805-40-55-8) illustrates that calculation. The fair value of the number of equity interests calculated in that way can be used as the fair value of consideration transferred in exchange for the acquiree. > Noncontrolling Interest
+The assets and liabilities of the legal acquiree are measured and recognized in the consolidated financial statements at their precombination carrying amounts (see paragraph 805-40-45-2(a)). Therefore, in a reverse acquisition the noncontrolling interest reflects the noncontrolling shareholders' proportionate interest in the precombination carrying amounts of the legal acquiree's net assets even though the noncontrolling interests in other acquisitions are measured at their fair values at the acquisition date.
+**805-40-30-3** The assets and liabilities of the legal acquiree are measured and recognized in the consolidated financial statements at their precombination carrying amounts (see paragraph 805-40-45-2(a)). Therefore, in a reverse acquisition the noncontrolling interest reflects the noncontrolling shareholders' proportionate interest in the precombination carrying amounts of the legal acquiree's net assets even though the noncontrolling interests in other acquisitions are measured at their fair values at the acquisition date.
+**805-40-30-4** > Consolidated Financial Statements Following a Reverse Acquisition
+Paragraph 805-40-45-1 provides guidance on required adjustments to the accounting acquirer's legal capital to reflect the legal capital of the legal parent (accounting acquiree) in the consolidated financial statements following a reverse acquisition.
+**805-40-30-4** Paragraph 805-40-45-1 provides guidance on required adjustments to the accounting acquirer's legal capital to reflect the legal capital of the legal parent (accounting acquiree) in the consolidated financial statements following a reverse acquisition.
+
+## 45 Other Presentation Matters
+
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+
+### General
+
+**805-40-45-1** > Preparation and Presentation of Consolidated Financial Statements
+Consolidated financial statements prepared following a reverse acquisition
+are issued under the name of the legal parent (accounting acquiree) but described in the notes as a continuation of the financial statements of the legal subsidiary (accounting acquirer), with one adjustment, which is to retroactively adjust the accounting acquirer's legal capital to reflect the legal capital of the accounting acquiree. That adjustment is required to reflect the capital of the legal parent (the accounting acquiree). Comparative information presented in those consolidated financial statements also is retroactively adjusted to reflect the legal capital of the legal parent (accounting acquiree).
+**805-40-45-1** Consolidated financial statements prepared following a reverse acquisition
+**805-40-45-2** are issued under the name of the legal parent (accounting acquiree) but described in the notes as a continuation of the financial statements of the legal subsidiary (accounting acquirer), with one adjustment, which is to retroactively adjust the accounting acquirer's legal capital to reflect the legal capital of the accounting acquiree. That adjustment is required to reflect the capital of the legal parent (the accounting acquiree). Comparative information presented in those consolidated financial statements also is retroactively adjusted to reflect the legal capital of the legal parent (accounting acquiree).
+The assets and liabilities of the legal subsidiary (the accounting acquirer) recognized and measured at their precombination carrying amounts.
+2. The assets and liabilities of the legal parent (the accounting acquiree) recognized and measured in accordance with the guidance in this Topic applicable to business combinations.
+3. The retained earnings and other equity balances of the legal subsidiary (accounting acquirer) before the business combination.
+4. The amount recognized as issued equity interests in the consolidated financial statements determined by adding the issued equity interest of the legal subsidiary (the accounting acquirer) outstanding immediately before the business combination to the fair value of the legal parent (accounting acquiree) determined in accordance with the guidance in this Topic applicable to business combinations. However, the equity structure (that is, the number and type of equity interests issued) reflects the equity structure of the legal parent (the accounting acquiree), including the equity interests the legal parent issued to effect the combination. Accordingly, the equity structure of the legal subsidiary (the accounting acquirer) is restated using the exchange ratio established in the acquisition agreement to reflect the number of shares of the legal parent (the accounting acquiree) issued in the reverse acquisition.
+5. The noncontrolling interest's proportionate share of the legal subsidiary's (accounting acquirer's) precombination carrying amounts of retained earnings and other equity interests as discussed in paragraphs 805-40-25-2 and 805-40-30-3 and illustrated in Example 1, Case B (see paragraph 805-40-55-18).
+
+**805-40-45-2** The assets and liabilities of the legal subsidiary (the accounting acquirer) recognized and measured at their precombination carrying amounts.
+2. The assets and liabilities of the legal parent (the accounting acquiree) recognized and measured in accordance with the guidance in this Topic applicable to business combinations.
+3. The retained earnings and other equity balances of the legal subsidiary (accounting acquirer) before the business combination.
+4. The amount recognized as issued equity interests in the consolidated financial statements determined by adding the issued equity interest of the legal subsidiary (the accounting acquirer) outstanding immediately before the business combination to the fair value of the legal parent (accounting acquiree) determined in accordance with the guidance in this Topic applicable to business combinations. However, the equity structure (that is, the number and type of equity interests issued) reflects the equity structure of the legal parent (the accounting acquiree), including the equity interests the legal parent issued to effect the combination. Accordingly, the equity structure of the legal subsidiary (the accounting acquirer) is restated using the exchange ratio established in the acquisition agreement to reflect the number of shares of the legal parent (the accounting acquiree) issued in the reverse acquisition.
+5. The noncontrolling interest's proportionate share of the legal subsidiary's (accounting acquirer's) precombination carrying amounts of retained earnings and other equity interests as discussed in paragraphs 805-40-25-2 and 805-40-30-3 and illustrated in Example 1, Case B (see paragraph 805-40-55-18).
+
+**805-40-45-3** > EPS
+As noted in (d) in the preceding paragraph, the equity structure in the consolidated financial statements following a reverse acquisition reflects the equity structure of the legal acquirer (the accounting acquiree), including the equity interests issued by the legal acquirer to effect the business combination.
+**805-40-45-3** As noted in (d) in the preceding paragraph, the equity structure in the consolidated financial statements following a reverse acquisition reflects the equity structure of the legal acquirer (the accounting acquiree), including the equity interests issued by the legal acquirer to effect the business combination.
+**805-40-45-4** The number of common shares outstanding from the beginning of that period to the acquisition date
+1. shall be computed on the basis of the weighted-average number of common shares of the legal acquiree (accounting acquirer) outstanding during the period multiplied by the exchange ratio established in the merger agreement.
+2. The number of common shares outstanding from the acquisition date to the end of that period shall be the actual number of common shares of the legal acquirer (the accounting acquiree) outstanding during that period.
+
+**805-40-45-4** The number of common shares outstanding from the beginning of that period to the acquisition date
+1. shall be computed on the basis of the weighted-average number of common shares of the legal acquiree (accounting acquirer) outstanding during the period multiplied by the exchange ratio established in the merger agreement.
+2. The number of common shares outstanding from the acquisition date to the end of that period shall be the actual number of common shares of the legal acquirer (the accounting acquiree) outstanding during that period.
+
+**805-40-45-5** The income of the legal acquiree attributable to common shareholders in each of those periods
+2. The legal acquiree's historical weighted-average number of common shares outstanding multiplied by the exchange ratio established in the acquisition agreement.
+
+**805-40-45-5** The income of the legal acquiree attributable to common shareholders in each of those periods
+2. The legal acquiree's historical weighted-average number of common shares outstanding multiplied by the exchange ratio established in the acquisition agreement.
+
+## 55 Implementation Guidance and Illustrations
+
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+
+### General
+
+This Section is an integral part of the requirements of this Subtopic. This Section provides illustrations that address the application of accounting requirements for business combinations
+to reverse acquisitions.
+This Section is an integral part of the requirements of this Subtopic. This Section provides illustrations that address the application of accounting requirements for business combinations
+
+##### · > Example 1: Reverse Acquisitions
+
+**805-40-55-2** to reverse acquisitions. > Illustrations
+A reverse acquisition if all the shares of the legal subsidiary are exchanged (Case A)
+2. A reverse acquisition if not all of the shares of the legal subsidiary are exchanged and a noncontrolling interest results (Case B).
+
+A reverse acquisition if all the shares of the legal subsidiary are exchanged (Case A)
+2. A reverse acquisition if not all of the shares of the legal subsidiary are exchanged and a noncontrolling interest results (Case B).
+
+In these Cases, Entity B, the legal subsidiary, acquires Entity A, the entity issuing equity instruments and therefore the legal parent, on September 30, 20X6. These Cases ignore the accounting for any income tax effects. Cases A and B share all of the following information and assumptions.
+In these Cases, Entity B, the legal subsidiary, acquires Entity A, the entity issuing equity instruments and therefore the legal parent, on September 30, 20X6. These Cases ignore the accounting for any income tax effects. Cases A and B share all of the following information and assumptions.
+The statements of financial position of Entity A and Entity B immediately before the business combination are as follows.
+The statements of financial position of Entity A and Entity B immediately before the business combination are as follows.
+On September 30, 20X6, Entity A issues 2.5 shares in exchange for each common share of Entity B. All of Entity B's shareholders exchange their shares in Entity B. Therefore, Entity A issues 150 common shares in exchange for all 60 common shares of Entity B.
+On September 30, 20X6, Entity A issues 2.5 shares in exchange for each common share of Entity B. All of Entity B's shareholders exchange their shares in Entity B. Therefore, Entity A issues 150 common shares in exchange for all 60 common shares of Entity B.
+The fair value
+of each common share of Entity B at September 30, 20X6, is $40. The quoted market price of Entity A's common shares at that date is $16.
+The fair value
+**805-40-55-7** of each common share of Entity B at September 30, 20X6, is $40. The quoted market price of Entity A's common shares at that date is $16.
+The fair values of Entity A's identifiable assets and liabilities at September 30, 20X6, are the same as their carrying amounts, except that the fair value of Entity A's noncurrent assets at September 30, 20X6, is $1,500.
+The fair values of Entity A's identifiable assets and liabilities at September 30, 20X6, are the same as their carrying amounts, except that the fair value of Entity A's noncurrent assets at September 30, 20X6, is $1,500.
+**805-40-55-8** · · > Case A: All the Shares of the Legal Subsidiary Are Exchanged
+This Case illustrates the accounting for a reverse acquisition if all of the shares of the legal subsidiary, the accounting acquirer, are exchanged in a business combination. The accounting illustrated in this Case includes the calculation of the fair value of the consideration transferred, the measurement of goodwill
+and the calculation of earnings per share (EPS).
+This Case illustrates the accounting for a reverse acquisition if all of the shares of the legal subsidiary, the accounting acquirer, are exchanged in a business combination. The accounting illustrated in this Case includes the calculation of the fair value of the consideration transferred, the measurement of goodwill
+**805-40-55-9** and the calculation of earnings per share (EPS).
+The calculation of the fair value of the consideration transferred follows.
+The calculation of the fair value of the consideration transferred follows.
+As a result of the issuance of 150 common shares by Entity A (legal parent, accounting acquiree), Entity B's shareholders own 60 percent of the issued shares of the combined entity, that is, 150 of 250 issued shares. The remaining 40 percent are owned by Entity A's shareholders. If the business combination had taken the form of Entity B issuing additional common shares to Entity A's shareholders in exchange for their common shares in Entity A, Entity B would have had to issue 40 shares for the ratio of ownership interest in the combined entity to be the same. Entity B's shareholders would then own 60 of the 100 issued shares of Entity B—60 percent of the combined entity. As a result, the fair value of the consideration effectively transferred by Entity B and the group's interest in Entity A is $1,600 (40 shares with a per-share fair value of $40). The fair value of the consideration effectively transferred should be based on the most reliable measure. In this Case, the quoted market price of Entity A's shares provides a more reliable basis for measuring the consideration effectively transferred than the estimated fair value of the shares in Entity B, and the consideration is measured using the market price of Entity A's shares―100 shares with a per-share fair value of $16.
+As a result of the issuance of 150 common shares by Entity A (legal parent, accounting acquiree), Entity B's shareholders own 60 percent of the issued shares of the combined entity, that is, 150 of 250 issued shares. The remaining 40 percent are owned by Entity A's shareholders. If the business combination had taken the form of Entity B issuing additional common shares to Entity A's shareholders in exchange for their common shares in Entity A, Entity B would have had to issue 40 shares for the ratio of ownership interest in the combined entity to be the same. Entity B's shareholders would then own 60 of the 100 issued shares of Entity B—60 percent of the combined entity. As a result, the fair value of the consideration effectively transferred by Entity B and the group's interest in Entity A is $1,600 (40 shares with a per-share fair value of $40). The fair value of the consideration effectively transferred should be based on the most reliable measure. In this Case, the quoted market price of Entity A's shares provides a more reliable basis for measuring the consideration effectively transferred than the estimated fair value of the shares in Entity B, and the consideration is measured using the market price of Entity A's shares―100 shares with a per-share fair value of $16.
+Goodwill is measured as follows.
+Goodwill is measured as follows.
+Goodwill is measured as the excess of the fair value of the consideration effectively transferred (the group's interest in Entity A) over the net amount of Entity A's recognized identifiable assets and liabilities, as follows.
+Goodwill is measured as the excess of the fair value of the consideration effectively transferred (the group's interest in Entity A) over the net amount of Entity A's recognized identifiable assets and liabilities, as follows.
+The consolidated statement of financial position immediately after the business combination is as follows.
+The consolidated statement of financial position immediately after the business combination is as follows.
+In accordance with paragraph 805-40-45-2(c) through (d), the amount recognized as issued equity interests in the consolidated financial statements ($2,200) is determined by adding the issued equity of the legal subsidiary immediately before the business combination ($600) and the fair value of the consideration effectively transferred, measured in accordance with paragraph 805-40-30-2 ($1,600). However, the equity structure appearing in the consolidated financial statements (that is, the number and type of equity interests issued) must reflect the equity structure of the legal parent, including the equity interests issued by the legal parent to effect the combination.
+In accordance with paragraph 805-40-45-2(c) through (d), the amount recognized as issued equity interests in the consolidated financial statements ($2,200) is determined by adding the issued equity of the legal subsidiary immediately before the business combination ($600) and the fair value of the consideration effectively transferred, measured in accordance with paragraph 805-40-30-2 ($1,600). However, the equity structure appearing in the consolidated financial statements (that is, the number and type of equity interests issued) must reflect the equity structure of the legal parent, including the equity interests issued by the legal parent to effect the combination.
+The calculation of EPS follows.
+The calculation of EPS follows.
+Entity B's earnings for the annual period ended December 31, 20X5, were $600, and the consolidated earnings for the annual period ended December 31, 20X6, are $800. There was no change in the number of common shares issued by Entity B during the annual period ended December 31, 20X5, and during the period from January 1, 20X6, to the date of the reverse acquisition on September 30, 20X6. EPS for the annual period ended December 31, 20X6, is calculated as follows.
+Entity B's earnings for the annual period ended December 31, 20X5, were $600, and the consolidated earnings for the annual period ended December 31, 20X6, are $800. There was no change in the number of common shares issued by Entity B during the annual period ended December 31, 20X5, and during the period from January 1, 20X6, to the date of the reverse acquisition on September 30, 20X6. EPS for the annual period ended December 31, 20X6, is calculated as follows.
+Restated EPS for the annual period ending December 31, 20X5, is $4.00 (calculated as the earnings of Entity B of 600 divided by the 150 common shares Entity A issued in the reverse acquisition).
+Restated EPS for the annual period ending December 31, 20X5, is $4.00 (calculated as the earnings of Entity B of 600 divided by the 150 common shares Entity A issued in the reverse acquisition).
+**805-40-55-18** · · > Case B: Not All the Shares of the Legal Subsidiary Are Exchanged
+This Case illustrates the accounting for a reverse acquisition if not all of the shares of the legal subsidiary, the accounting acquirer, are exchanged in a business combination and a noncontrolling interest results.
+This Case illustrates the accounting for a reverse acquisition if not all of the shares of the legal subsidiary, the accounting acquirer, are exchanged in a business combination and a noncontrolling interest results.
+Assume the same facts as in Case A except that only 56 of Entity B's 60 common shares are exchanged. Because Entity A issues 2.5 shares in exchange for each common share of Entity B, Entity A issues only 140 (rather than 150) shares. As a result, Entity B's shareholders own 58.3 percent of the issued shares of the combined entity (140 of 240 issued shares). The fair value of the consideration transferred for Entity A, the accounting acquiree, is calculated by assuming that the combination had been effected by Entity B's issuing additional common shares to the shareholders of Entity A in exchange for their common shares in Entity A. That is because Entity B is the accounting acquirer, and paragraphs 805-30-30-7 through 30-8
+require the acquirer to measure the consideration exchanged for the accounting acquiree.
+Assume the same facts as in Case A except that only 56 of Entity B's 60 common shares are exchanged. Because Entity A issues 2.5 shares in exchange for each common share of Entity B, Entity A issues only 140 (rather than 150) shares. As a result, Entity B's shareholders own 58.3 percent of the issued shares of the combined entity (140 of 240 issued shares). The fair value of the consideration transferred for Entity A, the accounting acquiree, is calculated by assuming that the combination had been effected by Entity B's issuing additional common shares to the shareholders of Entity A in exchange for their common shares in Entity A. That is because Entity B is the accounting acquirer, and paragraphs 805-30-30-7 through 30-8
+**805-40-55-20** require the acquirer to measure the consideration exchanged for the accounting acquiree.
+In calculating the number of shares that Entity B would have had to issue, the noncontrolling interest is ignored. The majority shareholders own 56 shares of Entity B. For that to represent a 58.3 percent equity interest, Entity B would have had to issue an additional 40 shares. The majority shareholders would then own 56 of the 96 issued shares of Entity B and, therefore, 58.3 percent of the combined entity. As a result, the fair value of the consideration transferred for Entity A, the accounting acquiree, is $1,600 (that is, 40 shares each with a fair value of $40). That is the same amount as when all 60 of Entity B's shareholders tender all 60 of its common shares for exchange. The recognized amount of the group's interest in Entity A, the accounting acquiree, does not change if some of Entity B's shareholders do not participate in the exchange.
+In calculating the number of shares that Entity B would have had to issue, the noncontrolling interest is ignored. The majority shareholders own 56 shares of Entity B. For that to represent a 58.3 percent equity interest, Entity B would have had to issue an additional 40 shares. The majority shareholders would then own 56 of the 96 issued shares of Entity B and, therefore, 58.3 percent of the combined entity. As a result, the fair value of the consideration transferred for Entity A, the accounting acquiree, is $1,600 (that is, 40 shares each with a fair value of $40). That is the same amount as when all 60 of Entity B's shareholders tender all 60 of its common shares for exchange. The recognized amount of the group's interest in Entity A, the accounting acquiree, does not change if some of Entity B's shareholders do not participate in the exchange.
+The noncontrolling interest is represented by the 4 shares of the total 60 shares of Entity B that are not exchanged for shares of Entity A. Therefore, the noncontrolling interest is 6.7 percent. The noncontrolling interest reflects the noncontrolling shareholders' proportionate interests in the precombination carrying amounts of the net assets of Entity B, the legal subsidiary. Therefore, the consolidated statement of financial position is adjusted to show a noncontrolling interest of 6.7 percent of the precombination carrying amounts of Entity B's net assets (that is, $134 or 6.7 percent of $2,000).
+The noncontrolling interest is represented by the 4 shares of the total 60 shares of Entity B that are not exchanged for shares of Entity A. Therefore, the noncontrolling interest is 6.7 percent. The noncontrolling interest reflects the noncontrolling shareholders' proportionate interests in the precombination carrying amounts of the net assets of Entity B, the legal subsidiary. Therefore, the consolidated statement of financial position is adjusted to show a noncontrolling interest of 6.7 percent of the precombination carrying amounts of Entity B's net assets (that is, $134 or 6.7 percent of $2,000).
+The consolidated statement of financial position at September 30, 20X6, reflecting the noncontrolling interest is as follows.
+The consolidated statement of financial position at September 30, 20X6, reflecting the noncontrolling interest is as follows.
+The noncontrolling interest of $134 has 2 components. The first component is the reclassification of the noncontrolling interest's share of the accounting acquirer's retained earnings immediately before the acquisition ($1,400 × 6.7% or $93.80). The second component represents the reclassification of the noncontrolling interest's share of the accounting acquirer's issued equity ($600 × 6.7% or $40.20).
+The noncontrolling interest of $134 has 2 components. The first component is the reclassification of the noncontrolling interest's share of the accounting acquirer's retained earnings immediately before the acquisition ($1,400 × 6.7% or $93.80). The second component represents the reclassification of the noncontrolling interest's share of the accounting acquirer's issued equity ($600 × 6.7% or $40.20).
+
+## 00 Status
+
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+
+### General
+
+**805-50-00-1** The following table identifies the changes made to this Subtopic.
+
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Acquiree | Amended | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| Acquirer | Amended | Accounting Standards Update No. 2025-03 | 05/12/2025 |
+| Business | Amended | Accounting Standards Update No. 2017-01 | 01/05/2017 |
+| Business Combination | Amended | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| Change in Accounting Principle | Added | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| Conduit Debt Securities | Added | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| Control (3rd def.) | Added | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| Corporate Joint Venture | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Dropdown | Amended | Accounting Standards Update No. 2015-06 | 04/30/2015 |
+| Equity Interests | Amended | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| Financial Statements Are Available to Be Issued | Added | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| Financial Statements Are Issued | Added | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| Goodwill | Amended | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Goodwill | Amended | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| In Substance Nonfinancial Asset | Added | Accounting Standards Update No. 2017-05 | 02/22/2017 |
+| Joint Venture | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Not-for-Profit Entity | Added | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| Primary Beneficiary | Added | Accounting Standards Update No. 2025-03 | 05/12/2025 |
+| Pushdown Accounting | Amended | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| Securities and Exchange Commission (SEC) Filer | Added | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-05-1 | Superseded | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-05-2 | Amended | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-05-6 | Amended | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-05-7 | Amended | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-05-8 | Superseded | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-05-9 | Added | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-15-4A | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| 805-50-15-6 | Amended | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| 805-50-15-6B | Added | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| 805-50-15-7 | Amended | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-15-8 | Superseded | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-15-9 | Superseded | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-15-10 | Added | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-15-11 | Added | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-25-1 | Amended | Maintenance Update 2021-09 | 08/20/2021 |
+| 805-50-25-1 | Amended | Accounting Standards Update No. 2017-05 | 02/22/2017 |
+| 805-50-25-3 | Superseded | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-25-4 through 25-9 | Added | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-25-5 | Amended | Accounting Standards Update No. 2025-03 | 05/12/2025 |
+| 805-50-30-1 through 30-3 | Amended | Accounting Standards Update No. 2010-08 | 02/02/2010 |
+| 805-50-30-1 | Amended | Accounting Standards Update No. 2017-05 | 02/22/2017 |
+| 805-50-30-2 | Amended | Accounting Standards Update No. 2017-05 | 02/22/2017 |
+| 805-50-30-10 through 30-12 | Added | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-35-2 | Added | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-50-5 | Added | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-50-6 | Added | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-55-1 | Added | Accounting Standards Update No. 2010-08 | 02/02/2010 |
+| 805-50-65-1 | Added | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+
+**805-50-00-1** The following table identifies the changes made to this Subtopic.
+
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Acquiree | Amended | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| Acquirer | Amended | Accounting Standards Update No. 2025-03 | 05/12/2025 |
+| Business | Amended | Accounting Standards Update No. 2017-01 | 01/05/2017 |
+| Business Combination | Amended | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| Change in Accounting Principle | Added | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| Conduit Debt Securities | Added | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| Control (3rd def.) | Added | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| Corporate Joint Venture | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Dropdown | Amended | Accounting Standards Update No. 2015-06 | 04/30/2015 |
+| Equity Interests | Amended | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| Financial Statements Are Available to Be Issued | Added | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| Financial Statements Are Issued | Added | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| Goodwill | Amended | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Goodwill | Amended | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| In Substance Nonfinancial Asset | Added | Accounting Standards Update No. 2017-05 | 02/22/2017 |
+| Joint Venture | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Not-for-Profit Entity | Added | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| Primary Beneficiary | Added | Accounting Standards Update No. 2025-03 | 05/12/2025 |
+| Pushdown Accounting | Amended | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| Securities and Exchange Commission (SEC) Filer | Added | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-05-1 | Superseded | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-05-2 | Amended | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-05-6 | Amended | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-05-7 | Amended | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-05-8 | Superseded | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-05-9 | Added | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-15-4A | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| 805-50-15-6 | Amended | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| 805-50-15-6B | Added | Accounting Standards Update No. 2010-07 | 01/28/2010 |
+| 805-50-15-7 | Amended | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-15-8 | Superseded | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-15-9 | Superseded | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-15-10 | Added | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-15-11 | Added | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-25-1 | Amended | Maintenance Update 2021-09 | 08/20/2021 |
+| 805-50-25-1 | Amended | Accounting Standards Update No. 2017-05 | 02/22/2017 |
+| 805-50-25-3 | Superseded | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-25-4 through 25-9 | Added | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-25-5 | Amended | Accounting Standards Update No. 2025-03 | 05/12/2025 |
+| 805-50-30-1 through 30-3 | Amended | Accounting Standards Update No. 2010-08 | 02/02/2010 |
+| 805-50-30-1 | Amended | Accounting Standards Update No. 2017-05 | 02/22/2017 |
+| 805-50-30-2 | Amended | Accounting Standards Update No. 2017-05 | 02/22/2017 |
+| 805-50-30-10 through 30-12 | Added | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-35-2 | Added | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-50-5 | Added | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-50-6 | Added | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+| 805-50-55-1 | Added | Accounting Standards Update No. 2010-08 | 02/02/2010 |
+| 805-50-65-1 | Added | Accounting Standards Update No. 2014-17 | 11/18/2014 |
+
+## 05 Overview and Background
+
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+
+### General
+
+**805-50-05-1** Paragraph superseded by Accounting Standards Update No. 2014-17.
+**805-50-05-1** Paragraph superseded by Accounting Standards Update No. 2014-17.
+**805-50-05-2** General
+2. Acquisition of Assets Rather than a Business
+3. Transactions Between Entities Under Common Control
+4. Formation of a Master Limited Partnership
+5. Pushdown Accounting.
+
+**805-50-05-2** General
+2. Acquisition of Assets Rather than a Business
+3. Transactions Between Entities Under Common Control
+4. Formation of a Master Limited Partnership
+5. Pushdown Accounting.
+
+### Acquisition of Assets Rather than a Business
+
+**805-50-05-3** The Acquisition of Assets Rather than a Business Subsections address a transaction in which the assets acquired and liabilities assumed do not constitute a business
+and require such a transaction to be accounted for as an asset acquisition. However, these Subsections do not provide guidance for the primary beneficiary of a variable interest entity (VIE) if the VIE does not constitute a business.
+**805-50-05-3** The Acquisition of Assets Rather than a Business Subsections address a transaction in which the assets acquired and liabilities assumed do not constitute a business
+
+### Transactions between Entities under Common Control
+
+**805-50-05-4** and require such a transaction to be accounted for as an asset acquisition. However, these Subsections do not provide guidance for the primary beneficiary of a variable interest entity (VIE) if the VIE does not constitute a business.
+As noted in paragraph 805-10-15-4(c), the guidance related to business combinations
+does not apply to combinations between entities or businesses under common control.
+**805-50-05-4** As noted in paragraph 805-10-15-4(c), the guidance related to business combinations
+**805-50-05-5** does not apply to combinations between entities or businesses under common control.
+Some transfers of net assets or exchanges of shares between entities under common control result in a change in the reporting entity. In practice, the method that many entities have used to account for those transactions is similar to the pooling-of-interests method. The Transactions Between Entities Under Common Control Subsections provide guidance on preparing financial statements and related disclosures for the entity that receives the net assets.
+**805-50-05-5** Some transfers of net assets or exchanges of shares between entities under common control result in a change in the reporting entity. In practice, the method that many entities have used to account for those transactions is similar to the pooling-of-interests method. The Transactions Between Entities Under Common Control Subsections provide guidance on preparing financial statements and related disclosures for the entity that receives the net assets.
+
+### Formation of a Master Limited Partnership
+
+**805-50-05-6** The Formation of a Master Limited Partnership Subsections provide guidance on when a new basis of accounting may be recorded for the assets and liabilities of a master limited partnership.
+**805-50-05-6** The Formation of a Master Limited Partnership Subsections provide guidance on when a new basis of accounting may be recorded for the assets and liabilities of a master limited partnership.
+**805-50-05-7** > Master Limited Partnership Transactions
+Master limited partnerships are partnerships in which interests are publicly traded. Most master limited partnerships are formed from assets in existing businesses. Typically, the general partner of the master limited partnership is affiliated with the existing business
+(that is, the master limited partnership is usually operated as an extension of or complementary to the business of the general partner). The purposes for forming a master limited partnership vary. They can be formed to realize the value of undervalued assets, to pass income and tax-deductible losses directly through to owners, to raise capital, to combine several existing partnerships, or as a vehicle to enable entities to sell, spin off, or liquidate existing operations. A master limited partnership may be created in a variety of ways. Whether a particular transaction is a business combination that should be accounted for using the acquisition method or a transaction between entities under common control can be determined only after a careful analysis of all facts and circumstances. The Formation of a Master Limited Partnership Subsections identify specific transactions involving master limited partnerships and provide guidance on whether a new basis of accounting is appropriate.
+**805-50-05-7** Master limited partnerships are partnerships in which interests are publicly traded. Most master limited partnerships are formed from assets in existing businesses. Typically, the general partner of the master limited partnership is affiliated with the existing business
+**805-50-05-8** (that is, the master limited partnership is usually operated as an extension of or complementary to the business of the general partner). The purposes for forming a master limited partnership vary. They can be formed to realize the value of undervalued assets, to pass income and tax-deductible losses directly through to owners, to raise capital, to combine several existing partnerships, or as a vehicle to enable entities to sell, spin off, or liquidate existing operations. A master limited partnership may be created in a variety of ways. Whether a particular transaction is a business combination that should be accounted for using the acquisition method or a transaction between entities under common control can be determined only after a careful analysis of all facts and circumstances. The Formation of a Master Limited Partnership Subsections identify specific transactions involving master limited partnerships and provide guidance on whether a new basis of accounting is appropriate.
+Paragraph superseded by Accounting Standards Update No. 2014-17.
+**805-50-05-8** Paragraph superseded by Accounting Standards Update No. 2014-17.
+
+### Pushdown Accounting
+
+**805-50-05-9** The guidance in the Pushdown Accounting Subsections addresses whether and at what threshold an acquiree
+that is a business or nonprofit activity can apply pushdown accounting in its separate financial statements.
+**805-50-05-9** The guidance in the Pushdown Accounting Subsections addresses whether and at what threshold an acquiree
+
+## 15 Scope and Scope Exceptions
+
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+
+### General
+
+**805-50-15-1** > Overall Guidance
+This Subtopic has its own discrete scope, which is separate and distinct from the pervasive scope for this Topic as outlined in Section 805-10-15.
+**805-50-15-1** This Subtopic has its own discrete scope, which is separate and distinct from the pervasive scope for this Topic as outlined in Section 805-10-15.
+
+### Acquisition of Assets Rather than a Business
+
+**805-50-15-2** > Entities
+The guidance in the Acquisition of Assets Rather than a Business Subsections applies to all entities.
+The guidance in the Acquisition of Assets Rather than a Business Subsections applies to all entities.
+**805-50-15-3** > Transactions
+The guidance in the Acquisition of Assets Rather than a Business Subsections applies to a transaction or event in which assets acquired and liabilities assumed do not constitute a business
+.
+The guidance in the Acquisition of Assets Rather than a Business Subsections applies to a transaction or event in which assets acquired and liabilities assumed do not constitute a business
+**805-50-15-4** .
+The guidance in the Acquisition of Assets Rather than a Business Subsections does not apply to the initial measurement and recognition by a primary beneficiary of the assets and liabilities of a variable interest entity (VIE) when the VIE does not constitute a business. Guidance for such a VIE is provided in Section 810-10-30.
+The guidance in the Acquisition of Assets Rather than a Business Subsections does not apply to the initial measurement and recognition by a primary beneficiary of the assets and liabilities of a variable interest entity (VIE) when the VIE does not constitute a business. Guidance for such a VIE is provided in Section 810-10-30.
+**805-50-15-4A** PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 The guidance in the Acquisition of Assets Rather than a Business Subsections does not apply to the initial measurement and recognition of assets and liabilities by a joint venture upon formation. Guidance for joint venture formations is provided in Subtopic 805-60.
+
+### Transactions between Entities under Common        Control
+
+**805-50-15-5** PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 The guidance in the Acquisition of Assets Rather than a Business Subsections does not apply to the initial measurement and recognition of assets and liabilities by a joint venture upon formation. Guidance for joint venture formations is provided in Subtopic 805-60. > Entities
+The guidance in the Transactions between Entities under Common Control Subsections applies to all entities.
+**805-50-15-5** The guidance in the Transactions between Entities under Common Control Subsections applies to all entities.
+**805-50-15-6** > Transactions
+The guidance in the Transactions between Entities under Common Control Subsections applies to combinations between entities or businesses
+1. An entity charters a newly formed entity and then transfers some or all of its net assets to that newly chartered entity.
+2. A parent transfers the net assets of a wholly owned subsidiary into the parent and liquidates the subsidiary. That transaction is a change in legal organization but not a change in the reporting entity.
+3. A parent transfers its controlling interest in several partially owned subsidiaries to a new wholly owned subsidiary. That also is a change in legal organization but not in the reporting entity.
+4. A parent exchanges its ownership interests or the net assets of a wholly owned subsidiary for additional shares issued by the parent's less-than-wholly-owned subsidiary, thereby increasing the parent's percentage of ownership in the less-than-wholly-owned subsidiary but leaving all of the existing noncontrolling interest outstanding.
+5. A parent's less-than-wholly-owned subsidiary issues its shares in exchange for shares of another subsidiary previously owned by the same parent, and the noncontrolling shareholders are not party to the exchange. That is not a business combination from the perspective of the parent.
+6. A limited liability company is formed by combining entities under common control.
+7. Two or more not-for-profit entities (NFPs) that are effectively controlled by the same board members transfer their net assets to a new entity, dissolve the former entities, and appoint the same board members to the newly combined entity.
+
+**805-50-15-6** The guidance in the Transactions between Entities under Common Control Subsections applies to combinations between entities or businesses
+1. An entity charters a newly formed entity and then transfers some or all of its net assets to that newly chartered entity.
+2. A parent transfers the net assets of a wholly owned subsidiary into the parent and liquidates the subsidiary. That transaction is a change in legal organization but not a change in the reporting entity.
+3. A parent transfers its controlling interest in several partially owned subsidiaries to a new wholly owned subsidiary. That also is a change in legal organization but not in the reporting entity.
+4. A parent exchanges its ownership interests or the net assets of a wholly owned subsidiary for additional shares issued by the parent's less-than-wholly-owned subsidiary, thereby increasing the parent's percentage of ownership in the less-than-wholly-owned subsidiary but leaving all of the existing noncontrolling interest outstanding.
+5. A parent's less-than-wholly-owned subsidiary issues its shares in exchange for shares of another subsidiary previously owned by the same parent, and the noncontrolling shareholders are not party to the exchange. That is not a business combination from the perspective of the parent.
+6. A limited liability company is formed by combining entities under common control.
+7. Two or more not-for-profit entities (NFPs) that are effectively controlled by the same board members transfer their net assets to a new entity, dissolve the former entities, and appoint the same board members to the newly combined entity.
+
+**805-50-15-6A** The guidance in the Transactions between Entities under Common Control Subsections does not apply to the initial measurement by a primary beneficiary of the assets, liabilities, and noncontrolling interests of a VIE if the primary beneficiary of a VIE and the VIE are under common control. Guidance for such a VIE is provided in Section 810-10-30.
+**805-50-15-6A** The guidance in the Transactions between Entities under Common Control Subsections does not apply to the initial measurement by a primary beneficiary of the assets, liabilities, and noncontrolling interests of a VIE if the primary beneficiary of a VIE and the VIE are under common control. Guidance for such a VIE is provided in Section 810-10-30.
+**805-50-15-6B** Mergers and acquisitions between or among two or more NFPs, all of which benefit a particular group of citizens, shall not be considered common control transactions solely because those entities benefit a particular group. The mission, operations, and historical sources of support of two or more NFPs may be closely linked to benefiting a particular group of citizens. However, that group neither owns nor controls the NFPs.
+**805-50-15-6B** Mergers and acquisitions between or among two or more NFPs, all of which benefit a particular group of citizens, shall not be considered common control transactions solely because those entities benefit a particular group. The mission, operations, and historical sources of support of two or more NFPs may be closely linked to benefiting a particular group of citizens. However, that group neither owns nor controls the NFPs.
+
+### Formation of a Master Limited Partnership
+
+**805-50-15-7** > Entities
+The guidance in the Formation of a Master Limited Partnership Subsections applies to a publicly traded master limited partnership formed from assets of existing businesses
+. Paragraph 805-50-05-7 explains that, typically, the general partner of the master limited partnership is affiliated with the existing business.
+**805-50-15-7** The guidance in the Formation of a Master Limited Partnership Subsections applies to a publicly traded master limited partnership formed from assets of existing businesses
+**805-50-15-8** . Paragraph 805-50-05-7 explains that, typically, the general partner of the master limited partnership is affiliated with the existing business.
+Paragraph superseded by Accounting Standards Update No. 2014-17.
+**805-50-15-8** Paragraph superseded by Accounting Standards Update No. 2014-17.
+**805-50-15-9** Paragraph superseded by Accounting Standards Update No. 2014-17.
+**805-50-15-9** Paragraph superseded by Accounting Standards Update No. 2014-17.
+
+### Pushdown Accounting
+
+**805-50-15-10** > Entities
+The guidance in the Pushdown Accounting Subsections applies to the separate financial statements of an acquiree
+and its subsidiaries.
+**805-50-15-10** The guidance in the Pushdown Accounting Subsections applies to the separate financial statements of an acquiree
+**805-50-15-11** and its subsidiaries.> Transactions
+The guidance in the Pushdown Accounting Subsections does not apply to transactions in paragraph 805-10-15-4.
+**805-50-15-11** The guidance in the Pushdown Accounting Subsections does not apply to transactions in paragraph 805-10-15-4.
+
+## 20 Glossary
+
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+
+##### Acquiree
+
+The business or businesses that the acquirer obtains control of in a business combination. This term also includes a nonprofit activity or business that a not-for-profit acquirer obtains control of in an acquisition by a not-for-profit entity.
+The business or businesses that the acquirer obtains control of in a business combination. This term also includes a nonprofit activity or business that a not-for-profit acquirer obtains control of in an acquisition by a not-for-profit entity.
+
+##### Acquirer
+
+The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:805-10-65-5The entity that obtains control of the acquiree.See paragraphs 805-10-25-4 through 25-5 for guidance on determining the acquirer.
+The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer.
+PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:805-10-65-5The entity that obtains control of the acquiree.See paragraphs 805-10-25-4 through 25-5
+
+##### Acquisition by a Not-for-Profit Entity
+
+for guidance on determining the acquirer.A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.
+A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.
+
+##### Acquisition Date
+
+The date on which the acquirer obtains control of the acquiree.
+The date on which the acquirer obtains control of the acquiree.
+
+##### Business
+
+Paragraphs 805-10-55-3A through 55-6 and 805-10-55-8 through 55-9 define what is considered a business.
+Paragraphs 805-10-55-3A through 55-6
+
+##### Business Combination
+
+and 805-10-55-8 through 55-9 define what is considered a business. A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
+A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
+
+##### Change in Accounting Principle
+
+A change from one generally accepted accounting principle to another generally accepted accounting principle when there are two or more generally accepted accounting principles that apply or when the accounting principle formerly used is no longer generally accepted. A change in the method of applying an accounting principle also is considered a change in accounting principle.
+A change from one generally accepted accounting principle to another generally accepted accounting principle when there are two or more generally accepted accounting principles that apply or when the accounting principle formerly used is no longer generally accepted. A change in the method of applying an accounting principle also is considered a change in accounting principle.
+
+##### Conduit Debt Securities
+
+Certain limited-obligation revenue bonds, certificates of participation, or similar debt instruments issued by a state or local governmental entity for the express purpose of providing financing for a specific third party (the conduit bond obligor) that is not a part of the state or local government's financial reporting entity. Although conduit debt securities bear the name of the governmental entity that issues them, the governmental entity often has no obligation for such debt beyond the resources provided by a lease or loan agreement with the third party on whose behalf the securities are issued. Further, the conduit bond obligor is responsible for any future financial reporting requirements.
+Certain limited-obligation revenue bonds, certificates of participation, or similar debt instruments issued by a state or local governmental entity for the express purpose of providing financing for a specific third party (the conduit bond obligor) that is not a part of the state or local government's financial reporting entity. Although conduit debt securities bear the name of the governmental entity that issues them, the governmental entity often has no obligation for such debt beyond the resources provided by a lease or loan agreement with the third party on whose behalf the securities are issued. Further, the conduit bond obligor is responsible for any future financial reporting requirements.
+
+##### Control
+
+The same as the meaning of controlling financial interest in paragraph 810-10-15-8.
+The same as the meaning of controlling financial interest in paragraph 810-10-15-8.
+
+##### Corporate Joint Venture
+
+A corporation owned and operated by a small group of entities (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a corporate joint venture frequently is to share risks and rewards in developing a new market, product or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A corporate joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a corporate joint venture. The ownership of a corporate joint venture seldom changes, and its stock is usually not traded publicly. A noncontrolling interest held by public ownership, however, does not preclude a corporation from being a corporate joint venture.
+A corporation owned and operated by a small group of entities (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a corporate joint venture frequently is to share risks and rewards in developing a new market, product or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A corporate joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a corporate joint venture. The ownership of a corporate joint venture seldom changes, and its stock is usually not traded publicly. A noncontrolling interest held by public ownership, however, does not preclude a corporation from being a corporate joint venture.
+
+##### Dropdown
+
+A transfer of certain net assets from a sponsor or general partner to a master limited partnership in exchange for consideration.
+A transfer of certain net assets from a sponsor or general partner to a master limited partnership in exchange for consideration.
+
+##### Equity Interests
+
+Used broadly to mean ownership interests of investor-owned entities; owner, member, or participant interests of mutual entities; and owner or member interests in the net assets of not-for-profit entities.
+Used broadly to mean ownership interests of investor-owned entities; owner, member, or participant interests of mutual entities; and owner or member interests in the net assets of not-for-profit entities.
+
+##### Fair Value
+
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+
+##### Financial Statements Are Available to Be Issued
+
+Financial statements are considered available to be issued when they are complete in a form and format that complies with GAAP and all approvals necessary for issuance have been obtained, for example, from management, the board of directors, and/or significant shareholders. The process involved in creating and distributing the financial statements will vary depending on an entity's management and corporate governance structure as well as statutory and regulatory requirements.
+Financial statements are considered available to be issued when they are complete in a form and format that complies with GAAP and all approvals necessary for issuance have been obtained, for example, from management, the board of directors, and/or significant shareholders. The process involved in creating and distributing the financial statements will vary depending on an entity's management and corporate governance structure as well as statutory and regulatory requirements.
+
+##### Financial Statements Are Issued
+
+Financial statements are considered issued when they are widely distributed to shareholders and other financial statement users for general use and reliance in a form and format that complies with GAAP. (U.S. Securities and Exchange Commission [SEC] registrants also are required to consider the guidance in paragraph 855-10-S99-2.)
+Financial statements are considered issued when they are widely distributed to shareholders and other financial statement users for general use and reliance in a form and format that complies with GAAP. (U.S. Securities and Exchange Commission [SEC] registrants also are required to consider the guidance in paragraph 855-10-S99-2.)
+
+##### Goodwill
+
+An asset representing the future economic benefits arising from other assets acquired in a business combination or an acquisition by a not-for-profit entity that are not individually identified and separately recognized. For ease of reference, this term also includes the immediate charge recognized by not-for-profit entities in accordance with paragraph 958-805-25-29. PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1An asset representing the future economic benefits arising from other assets acquired in a business combination, acquired in an acquisition by a not-for-profit entity, or recognized by a joint venture upon formation that are not individually identified and separately recognized. For ease of reference, this term also includes the immediate charge recognized by not-for-profit entities in accordance with paragraph 958-805-25-29.
+An asset representing the future economic benefits arising from other assets acquired in a business combination or an acquisition by a not-for-profit entity that are not individually identified and separately recognized. For ease of reference, this term also includes the immediate charge recognized by not-for-profit entities in accordance with paragraph 958-805-25-29.
+
+##### In Substance Nonfinancial Asset
+
+PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1An asset representing the future economic benefits arising from other assets acquired in a business combination, acquired in an acquisition by a not-for-profit entity, or recognized by a joint venture upon formation that are not individually identified and separately recognized. For ease of reference, this term also includes the immediate charge recognized by not-for-profit entities in accordance with paragraph 958-805-25-29. Paragraphs 610-20-15-5 through 15-8 define an in substance nonfinancial asset.
+Paragraphs 610-20-15-5 through 15-8
+
+##### Joint Venture
+
+define an in substance nonfinancial asset. An entity owned and operated by a small group of businesses (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a joint venture frequently is to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a joint venture. The ownership of a joint venture seldom changes, and its equity interests usually are not traded publicly. A minority public ownership, however, does not preclude an entity from being a joint venture. As distinguished from a corporate joint venture, a joint venture is not limited to corporate entities.
+An entity owned and operated by a small group of businesses (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a joint venture frequently is to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a joint venture. The ownership of a joint venture seldom changes, and its equity interests usually are not traded publicly. A minority public ownership, however, does not preclude an entity from being a joint venture. As distinguished from a corporate joint venture, a joint venture is not limited to corporate entities.
+
+##### Legal Entity
+
+Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts.
+Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts.
+
+##### Market Participants
+
+1. They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
+3. They are able to enter into a transaction for the asset or liability
+4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
+
+They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
+3. They are able to enter into a transaction for the asset or liability
+4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
+
+##### Noncontrolling Interest
+
+The portion of equity (net assets) in a subsidiary not attributable, directly or indirectly, to a parent. A noncontrolling interest is sometimes called a minority interest.
+The portion of equity (net assets) in a subsidiary not attributable, directly or indirectly, to a parent. A noncontrolling interest is sometimes called a minority interest.
+
+##### Nonprofit Activity
+
+An integrated set of activities and assets that is capable of being conducted and managed for the purpose of providing benefits, other than goods or services at a profit or profit equivalent, as a fulfillment of an entity's purpose or mission (for example, goods or services to beneficiaries, customers, or members). As with a not-for-profit entity, a nonprofit activity possesses characteristics that distinguish it from a business or a for-profit business entity.
+An integrated set of activities and assets that is capable of being conducted and managed for the purpose of providing benefits, other than goods or services at a profit or profit equivalent, as a fulfillment of an entity's purpose or mission (for example, goods or services to beneficiaries, customers, or members). As with a not-for-profit entity, a nonprofit activity possesses characteristics that distinguish it from a business or a for-profit business entity.
+
+##### Not-for-Profit Entity
+
+1. Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
+2. Operating purposes other than to provide goods or services at a profit
+3. Absence of ownership interests like those of business entities.
+
+1. All investor-owned entities
+2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
+
+Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
+2. Operating purposes other than to provide goods or services at a profit
+3. Absence of ownership interests like those of business entities.
+
+All investor-owned entities
+2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
+
+##### Orderly Transaction
+
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+
+##### Primary Beneficiary
+
+An entity that consolidates a variable interest entity (VIE). See paragraphs 810-10-25-38 through 25-38J for guidance on determining the primary beneficiary.
+An entity that consolidates a variable interest entity (VIE). See paragraphs 810-10-25-38 through 25-38J for guidance on determining the primary beneficiary.
+
+##### Pushdown Accounting
+
+Use of the acquirer's basis in the preparation of the acquiree's separate financial statements.
+Use of the acquirer's basis in the preparation of the acquiree's separate financial statements.
+
+##### Related Parties
+
+1. Affiliates of the entity
+2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
+3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
+4. Principal owners of the entity and members of their immediate families
+5. Management of the entity and members of their immediate families
+6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
+7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
+
+Affiliates of the entity
+2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
+3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
+4. Principal owners of the entity and members of their immediate families
+5. Management of the entity and members of their immediate families
+6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
+7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
+
+##### Reorganization
+
+A way to create a master limited partnership in which all of the assets of an entity are placed into a master limited partnership and that entity ceases to exist.
+A way to create a master limited partnership in which all of the assets of an entity are placed into a master limited partnership and that entity ceases to exist.
+
+##### Rollout
+
+A way to create a master limited partnership in which certain assets of a sponsor are placed into a limited partnership and units are distributed to the shareholders.
+A way to create a master limited partnership in which certain assets of a sponsor are placed into a limited partnership and units are distributed to the shareholders.
+
+##### Rollup
+
+A way to create a master limited partnership in which two or more legally separate limited partnerships are combined into one master limited partnership.
+A way to create a master limited partnership in which two or more legally separate limited partnerships are combined into one master limited partnership.
+
+##### Securities and Exchange Commission (SEC) Filer
+
+1. The Securities and Exchange Commission (SEC)
+2. With respect to an entity subject to Section 12(i) of the Securities Exchange Act of 1934, as amended, the appropriate agency under that Section.
+
+Financial statements for other entities that are not otherwise SEC filers whose financial statements are included in a submission by another SEC filer are not included within this definition.
+An entity that is required to file or furnish its financial statements with either of the following:
+1. The Securities and Exchange Commission (SEC)
+2. With respect to an entity subject to Section 12(i) of the Securities Exchange Act of 1934, as amended, the appropriate agency under that Section.
+
+Financial statements for other entities that are not otherwise SEC filers whose financial statements are included in a submission by another SEC filer are not included within this definition.
+
+##### Variable Interest Entity
+
+A legal entity subject to consolidation according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
+A legal entity subject to consolidation according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
+
+## 25 Recognition
+
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+
+### Acquisition of Assets Rather than a Business
+
+**805-50-25-1** > Acquisition Date Recognition of Consideration Exchanged
+Assets commonly are acquired in exchange transactions that trigger the initial recognition of the assets acquired and any liabilities assumed. If the consideration given in exchange for the assets (or net assets) acquired is in the form of assets surrendered (such as cash), the assets surrendered shall be derecognized at the date of acquisition. If the consideration given is in the form of liabilities incurred or equity interests
+issued, the liabilities incurred and equity interests issued shall be initially recognized at the date of acquisition. However, if the assets surrendered are nonfinancial assets or in substance nonfinancial assets within the scope of Subtopic 610-20 on gains and losses from the derecognition of nonfinancial assets, the assets surrendered shall be derecognized in accordance with the guidance in Subtopic 610-20 and the assets acquired shall be treated as noncash consideration in accordance with Subtopic 610-20.
+**805-50-25-1** Assets commonly are acquired in exchange transactions that trigger the initial recognition of the assets acquired and any liabilities assumed. If the consideration given in exchange for the assets (or net assets) acquired is in the form of assets surrendered (such as cash), the assets surrendered shall be derecognized at the date of acquisition. If the consideration given is in the form of liabilities incurred or equity interests
+
+### Transactions between Entities under Common        Control
+
+**805-50-25-2** issued, the liabilities incurred and equity interests issued shall be initially recognized at the date of acquisition. However, if the assets surrendered are nonfinancial assets or in substance nonfinancial assets within the scope of Subtopic 610-20 on gains and losses from the derecognition of nonfinancial assets, the assets surrendered shall be derecognized in accordance with the guidance in Subtopic 610-20 and the assets acquired shall be treated as noncash consideration in accordance with Subtopic 610-20.> Transfer Date Recognition
+When accounting for a transfer of assets or exchange of shares between entities under common control, the entity that receives the net assets or the equity interests
+shall initially recognize the assets and liabilities transferred at the date of transfer. See the Transactions between Entities under Common Control Subsection of Section 805-50-45 for guidance on the presentation of financial statements for the period of transfer and comparative financial statements for prior years.
+**805-50-25-2** When accounting for a transfer of assets or exchange of shares between entities under common control, the entity that receives the net assets or the equity interests
+
+### New Basis of Accounting (Pushdown)
+
+**805-50-25-3** shall initially recognize the assets and liabilities transferred at the date of transfer. See the Transactions between Entities under Common Control Subsection of Section 805-50-45 for guidance on the presentation of financial statements for the period of transfer and comparative financial statements for prior years.
+Paragraph superseded by Accounting Standards Update No. 2014-17.
+**805-50-25-3** Paragraph superseded by Accounting Standards Update No. 2014-17.
+
+### Pushdown Accounting
+
+**805-50-25-4** An acquiree
+1. By transferring cash or other assets
+2. By incurring liabilities
+3. By issuing equity interests
+4. By providing more than one type of consideration
+5. Without transferring consideration, including by contract alone as discussed in paragraph 805-10-25-11.
+
+**805-50-25-4** An acquiree
+1. By transferring cash or other assets
+2. By incurring liabilities
+3. By issuing equity interests
+4. By providing more than one type of consideration
+5. Without transferring consideration, including by contract alone as discussed in paragraph 805-10-25-11.
+
+**805-50-25-5** The guidance in the General Subsections of Subtopic 810-10 on consolidation, related to determining the existence of a controlling financial interest shall be used to identify the acquirer. If a business combination has occurred but applying that guidance does not clearly indicate which of the combining entities is the acquirer, the factors in paragraphs 805-10-55-11 through 55-15
+shall be considered in identifying the acquirer. However, if the acquiree is a variable interest entity (VIE), the primary beneficiary of the acquiree always is the acquirer. The determination of which party, if any, is the primary beneficiary of a VIE shall be made in accordance with the guidance in the Variable Interest Entities Subsections of Subtopic 810-10, not by applying the guidance in the General Subsections of that Subtopic relating to a controlling financial interest or the guidance in paragraphs 805-10-55-11 through 55-15.PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:805-10-65-5The guidance in the General Subsections of Subtopic 810-10 on consolidation, related to determining the existence of a controlling financial interest shall be used to identify the acquirer. If a business combination has occurred but applying that guidance does not clearly indicate which of the combining entities is the acquirer, the factors in paragraphs 805-10-55-11 through 55-15 shall be considered in identifying the acquirer. However, if the acquiree is a variable interest entity (VIE), the primary beneficiary of the acquiree is the acquirer unless the business combination is effected primarily by exchanging equity interests. The determination of which party, if any, is the primary beneficiary of a VIE shall be made in accordance with the guidance in the Variable Interest Entities Subsections of Subtopic 810-10, not by applying the guidance in the General Subsections of that Subtopic relating to a controlling financial interest or the guidance in paragraphs 805-10-55-11 through 55-15. For a business combination that is effected primarily by exchanging equity interests in which a VIE is acquired, the factors in paragraphs 805-10-55-12 through 55-15 shall be considered in determining which entity is the accounting acquirer.
+**805-50-25-5** The guidance in the General Subsections of Subtopic 810-10 on consolidation, related to determining the existence of a controlling financial interest shall be used to identify the acquirer. If a business combination has occurred but applying that guidance does not clearly indicate which of the combining entities is the acquirer, the factors in paragraphs 805-10-55-11 through 55-15
+**805-50-25-6** shall be considered in identifying the acquirer. However, if the acquiree is a variable interest entity (VIE), the primary beneficiary of the acquiree always is the acquirer. The determination of which party, if any, is the primary beneficiary of a VIE shall be made in accordance with the guidance in the Variable Interest Entities Subsections of Subtopic 810-10, not by applying the guidance in the General Subsections of that Subtopic relating to a controlling financial interest or the guidance in paragraphs 805-10-55-11 through 55-15.PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:805-10-65-5The guidance in the General Subsections of Subtopic 810-10 on consolidation, related to determining the existence of a controlling financial interest shall be used to identify the acquirer. If a business combination has occurred but applying that guidance does not clearly indicate which of the combining entities is the acquirer, the factors in paragraphs 805-10-55-11 through 55-15 shall be considered in identifying the acquirer. However, if the acquiree is a variable interest entity (VIE), the primary beneficiary of the acquiree is the acquirer unless the business combination is effected primarily by exchanging equity interests. The determination of which party, if any, is the primary beneficiary of a VIE shall be made in accordance with the guidance in the Variable Interest Entities Subsections of Subtopic 810-10, not by applying the guidance in the General Subsections of that Subtopic relating to a controlling financial interest or the guidance in paragraphs 805-10-55-11 through 55-15. For a business combination that is effected primarily by exchanging equity interests in which a VIE is acquired, the factors in paragraphs 805-10-55-12 through 55-15 shall be considered in determining which entity is the accounting acquirer.
+The option to apply pushdown accounting
+may be elected each time there is a change-in-control event in which an acquirer obtains control of the acquiree. An acquiree shall make an election to apply pushdown accounting before the financial statements are issued (for a Securities and Exchange Commission (SEC) filer and a conduit bond obligor for conduit debt securities that are traded in a public market) or the financial statements are available to be issued (for all other entities) for the reporting period in which the change-in-control event occurred. If the acquiree elects the option to apply pushdown accounting, it must apply the accounting as of the acquisition date.
+**805-50-25-6** The option to apply pushdown accounting
+**805-50-25-7** may be elected each time there is a change-in-control event in which an acquirer obtains control of the acquiree. An acquiree shall make an election to apply pushdown accounting before the financial statements are issued (for a Securities and Exchange Commission (SEC) filer and a conduit bond obligor for conduit debt securities that are traded in a public market) or the financial statements are available to be issued (for all other entities) for the reporting period in which the change-in-control event occurred. If the acquiree elects the option to apply pushdown accounting, it must apply the accounting as of the acquisition date.
+If the acquiree
+does not elect to apply pushdown accounting upon a change-in-control event, it can elect to apply pushdown accounting to its most recent change-in-control event in a subsequent reporting period as a change in accounting principle in accordance with Topic 250 on accounting changes and error corrections. Pushdown accounting shall be applied as of the acquisition date of the change-in-control event.
+**805-50-25-7** If the acquiree
+**805-50-25-8** does not elect to apply pushdown accounting upon a change-in-control event, it can elect to apply pushdown accounting to its most recent change-in-control event in a subsequent reporting period as a change in accounting principle in accordance with Topic 250 on accounting changes and error corrections. Pushdown accounting shall be applied as of the acquisition date of the change-in-control event.
+Any subsidiary of an acquiree
+also is eligible to make an election to apply pushdown accounting to its separate financial statements in accordance with the guidance in paragraphs 805-50-25-4 through 25-7 irrespective of whether the acquiree elects to apply pushdown accounting.
+**805-50-25-8** Any subsidiary of an acquiree
+**805-50-25-9** also is eligible to make an election to apply pushdown accounting to its separate financial statements in accordance with the guidance in paragraphs 805-50-25-4 through 25-7 irrespective of whether the acquiree elects to apply pushdown accounting.
+The decision to apply pushdown accounting to a specific change-in-control event if elected by an acquiree is irrevocable.
+**805-50-25-9** The decision to apply pushdown accounting to a specific change-in-control event if elected by an acquiree is irrevocable.
+
+## 30 Initial Measurement
+
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+
+### Acquisition of Assets Rather than a Business
+
+**805-50-30-1** > Determining Cost
+Paragraph 805-50-25-1 discusses exchange transactions that trigger the initial recognition of assets acquired and liabilities assumed. Assets are recognized based on their cost to the acquiring entity, which generally includes the transaction costs of the asset acquisition, and no gain or loss is recognized unless the fair value
+of noncash assets given as consideration differs from the assets' carrying amounts on the acquiring entity's books. For transactions involving nonmonetary consideration within the scope of Topic 845, an acquirer must first determine if any of the conditions in paragraph 845-10-30-3 apply. If the consideration given is nonfinancial assets or in substance nonfinancial assets within the scope of Subtopic 610-20 on gains and losses from the derecognition of nonfinancial assets, the assets acquired shall be treated as noncash consideration and any gain or loss shall be recognized in accordance with Subtopic 610-20.
+Paragraph 805-50-25-1 discusses exchange transactions that trigger the initial recognition of assets acquired and liabilities assumed. Assets are recognized based on their cost to the acquiring entity, which generally includes the transaction costs of the asset acquisition, and no gain or loss is recognized unless the fair value
+**805-50-30-2** of noncash assets given as consideration differs from the assets' carrying amounts on the acquiring entity's books. For transactions involving nonmonetary consideration within the scope of Topic 845, an acquirer must first determine if any of the conditions in paragraph 845-10-30-3 apply. If the consideration given is nonfinancial assets or in substance nonfinancial assets within the scope of Subtopic 610-20 on gains and losses from the derecognition of nonfinancial assets, the assets acquired shall be treated as noncash consideration and any gain or loss shall be recognized in accordance with Subtopic 610-20.
+Asset acquisitions in which the consideration given is cash are measured by the amount of cash paid, which generally includes the transaction costs of the asset acquisition. However, if the consideration given is not in the form of cash (that is, in the form of noncash assets, liabilities incurred, or equity interests
+issued) and no other generally accepted accounting principles (GAAP) apply (for example, Topic 845 on nonmonetary transactions or Subtopic 610-20), measurement is based on either the cost which shall be measured based on the fair value of the consideration given or the fair value of the assets (or net assets) acquired, whichever is more clearly evident and, thus, more reliably measurable. For transactions involving nonmonetary consideration within the scope of Topic 845, an acquirer must first determine if any of the conditions in paragraph 845-10-30-3 apply. If the consideration given is nonfinancial assets or in substance nonfinancial assets within the scope of Subtopic 610-20, the assets acquired shall be treated as noncash consideration and any gain or loss shall be recognized in accordance with Subtopic 610-20.
+Asset acquisitions in which the consideration given is cash are measured by the amount of cash paid, which generally includes the transaction costs of the asset acquisition. However, if the consideration given is not in the form of cash (that is, in the form of noncash assets, liabilities incurred, or equity interests
+**805-50-30-3** issued) and no other generally accepted accounting principles (GAAP) apply (for example, Topic 845 on nonmonetary transactions or Subtopic 610-20), measurement is based on either the cost which shall be measured based on the fair value of the consideration given or the fair value of the assets (or net assets) acquired, whichever is more clearly evident and, thus, more reliably measurable. For transactions involving nonmonetary consideration within the scope of Topic 845, an acquirer must first determine if any of the conditions in paragraph 845-10-30-3 apply. If the consideration given is nonfinancial assets or in substance nonfinancial assets within the scope of Subtopic 610-20, the assets acquired shall be treated as noncash consideration and any gain or loss shall be recognized in accordance with Subtopic 610-20. > Allocating Cost
+Acquiring assets in groups requires not only ascertaining the cost of the asset (or net asset) group but also allocating that cost to the individual assets (or individual assets and liabilities) that make up the group. The cost of such a group is determined using the concepts described in the preceding two paragraphs. The cost of a group of assets acquired in an asset acquisition shall be allocated to the individual assets acquired or liabilities assumed based on their relative fair values and shall not give rise to goodwill
+. The allocated cost of an asset that the entity does not intend to use or intends to use in a way that is not its highest and best use, such as a brand name, shall be determined based on its relative fair value. See paragraph 805-50-55-1 for an illustration of the relative fair value method to assets acquired outside a business combination.
+Acquiring assets in groups requires not only ascertaining the cost of the asset (or net asset) group but also allocating that cost to the individual assets (or individual assets and liabilities) that make up the group. The cost of such a group is determined using the concepts described in the preceding two paragraphs. The cost of a group of assets acquired in an asset acquisition shall be allocated to the individual assets acquired or liabilities assumed based on their relative fair values and shall not give rise to goodwill
+**805-50-30-4** . The allocated cost of an asset that the entity does not intend to use or intends to use in a way that is not its highest and best use, such as a brand name, shall be determined based on its relative fair value. See paragraph 805-50-55-1 for an illustration of the relative fair value method to assets acquired outside a business combination.
+See paragraphs 740-10-25-49 through 25-55
+for guidance on the accounting for acquired temporary differences in certain purchase transactions that are not accounted for as business combinations.
+See paragraphs 740-10-25-49 through 25-55
+
+### Transactions between Entities under Common        Control
+
+**805-50-30-5** for guidance on the accounting for acquired temporary differences in certain purchase transactions that are not accounted for as business combinations. > Transfer Date Measurement
+When accounting for a transfer of assets or exchange of shares between entities under common control, the entity that receives the net assets or the equity interests
+shall initially measure the recognized assets and liabilities transferred at their carrying amounts in the accounts of the transferring entity at the date of transfer. If the carrying amounts of the assets and liabilities transferred differ from the historical cost of the parent of the entities under common control, for example, because pushdown accounting had not been applied, then the financial statements of the receiving entity shall reflect the transferred assets and liabilities at the historical cost of the parent of the entities under common control.
+**805-50-30-5** When accounting for a transfer of assets or exchange of shares between entities under common control, the entity that receives the net assets or the equity interests
+**805-50-30-6** shall initially measure the recognized assets and liabilities transferred at their carrying amounts in the accounts of the transferring entity at the date of transfer. If the carrying amounts of the assets and liabilities transferred differ from the historical cost of the parent of the entities under common control, for example, because pushdown accounting had not been applied, then the financial statements of the receiving entity shall reflect the transferred assets and liabilities at the historical cost of the parent of the entities under common control.
+In some instances, the entity that receives the net assets or equity interests (the receiving entity) and the entity that transferred the net assets or equity interests (the transferring entity) may account for similar assets and liabilities using different accounting methods. In such circumstances, the carrying amounts of the assets and liabilities transferred may be adjusted to the basis of accounting used by the receiving entity if the change would be preferable. Any such change in accounting method shall be applied retrospectively, and financial statements presented for prior periods shall be adjusted unless it is impracticable to do so. Section 250-10-45 provides guidance if retrospective application is impracticable.
+**805-50-30-6** In some instances, the entity that receives the net assets or equity interests (the receiving entity) and the entity that transferred the net assets or equity interests (the transferring entity) may account for similar assets and liabilities using different accounting methods. In such circumstances, the carrying amounts of the assets and liabilities transferred may be adjusted to the basis of accounting used by the receiving entity if the change would be preferable. Any such change in accounting method shall be applied retrospectively, and financial statements presented for prior periods shall be adjusted unless it is impracticable to do so. Section 250-10-45 provides guidance if retrospective application is impracticable.
+
+### Formation of a Master Limited Partnership
+
+**805-50-30-7** A rollup
+1. in which the general partner of the new master limited partnership was also the general partner in some or all of the predecessor limited partnerships and no cash is involved in the transaction. Transaction costs in a rollup shall be charged to expense.
+2. A dropdown in which the sponsor receives 1 percent of the units in the master limited partnership as the general partner and 24 percent of the units as a limited partner, the remaining 75 percent of the units are sold to the public, and a two-thirds vote of the limited partners is required to replace the general partner.
+3. A rollout.
+4. A reorganization.
+
+**805-50-30-7** A rollup
+1. in which the general partner of the new master limited partnership was also the general partner in some or all of the predecessor limited partnerships and no cash is involved in the transaction. Transaction costs in a rollup shall be charged to expense.
+2. A dropdown in which the sponsor receives 1 percent of the units in the master limited partnership as the general partner and 24 percent of the units as a limited partner, the remaining 75 percent of the units are sold to the public, and a two-thirds vote of the limited partners is required to replace the general partner.
+3. A rollout.
+4. A reorganization.
+
+**805-50-30-8** In other situations, it is possible that a new basis of accounting would be appropriate.
+**805-50-30-8** In other situations, it is possible that a new basis of accounting would be appropriate.
+**805-50-30-9** The issuance of master limited partnership units to a general partner of a predecessor limited partnership who will not be the general partner of the new master limited partnership in settlement of management contracts or for other services that will not carry over to the new master limited partnership has characteristics of compensation rather than of equity and shall be accounted for accordingly by the new master limited partnership.
+**805-50-30-9** The issuance of master limited partnership units to a general partner of a predecessor limited partnership who will not be the general partner of the new master limited partnership in settlement of management contracts or for other services that will not carry over to the new master limited partnership has characteristics of compensation rather than of equity and shall be accounted for accordingly by the new master limited partnership.
+
+### Pushdown Accounting
+
+**805-50-30-10** If an acquiree
+elects the option in this Subtopic to apply pushdown accounting, the acquiree shall reflect in its separate financial statements the new basis of accounting established by the acquirer for the individual assets and liabilities of the acquiree by applying the guidance in other Subtopics of Topic 805. If the acquirer did not establish a new basis of accounting for the individual assets and liabilities of the acquiree because it was not required to apply Topic 805 (for example, if the acquirer was an individual or an investment company—see Topic 946 on investment companies), the acquiree shall reflect in its separate financial statements the new basis of accounting that would have been established by the acquirer had the acquirer applied the guidance in other Subtopics of Topic 805.
+**805-50-30-10** If an acquiree
+**805-50-30-11** elects the option in this Subtopic to apply pushdown accounting, the acquiree shall reflect in its separate financial statements the new basis of accounting established by the acquirer for the individual assets and liabilities of the acquiree by applying the guidance in other Subtopics of Topic 805. If the acquirer did not establish a new basis of accounting for the individual assets and liabilities of the acquiree because it was not required to apply Topic 805 (for example, if the acquirer was an individual or an investment company—see Topic 946 on investment companies), the acquiree shall reflect in its separate financial statements the new basis of accounting that would have been established by the acquirer had the acquirer applied the guidance in other Subtopics of Topic 805.
+An acquiree shall recognize goodwill that arises because of the application of pushdown accounting in its separate financial statements. However, bargain purchase gains recognized by the acquirer, if any, shall not be recognized in the acquiree's income statement. The acquiree shall recognize the bargain purchase gains recognized by the acquirer as an adjustment to additional paid-in capital (or net assets of a not-for-profit acquiree).
+**805-50-30-11** An acquiree shall recognize goodwill that arises because of the application of pushdown accounting in its separate financial statements. However, bargain purchase gains recognized by the acquirer, if any, shall not be recognized in the acquiree's income statement. The acquiree shall recognize the bargain purchase gains recognized by the acquirer as an adjustment to additional paid-in capital (or net assets of a not-for-profit acquiree).
+**805-50-30-12** An acquiree
+shall recognize in its separate financial statements any acquisition-related liability incurred by the acquirer only if the liability represents an obligation of the acquiree in accordance with other applicable Topics.
+**805-50-30-12** An acquiree
+
+## 35 Subsequent Measurement
+
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+
+### Acquisition of Assets Rather than a Business
+
+**805-50-35-1** > Accounting After Acquisition
+After the acquisition, the acquiring entity accounts for the asset or liability in accordance with the appropriate generally accepted accounting principles (GAAP). The basis for measuring the asset acquired or liability assumed has no effect on the subsequent accounting for the asset or liability.
+**805-50-35-1** After the acquisition, the acquiring entity accounts for the asset or liability in accordance with the appropriate generally accepted accounting principles (GAAP). The basis for measuring the asset acquired or liability assumed has no effect on the subsequent accounting for the asset or liability.
+
+### Pushdown Accounting
+
+**805-50-35-2** An acquiree
+shall follow the subsequent measurement guidance in other Subtopics of Topic 805 and other applicable Topics to subsequently measure and account for its assets, liabilities, and equity instruments, as applicable.
+**805-50-35-2** An acquiree
+
+## 45 Other Presentation Matters
+
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+
+### Transactions between Entities under Common Control
+
+**805-50-45-1** Paragraph 805-50-25-2 establishes that the assets and liabilities transferred between entities under common control are to be initially recognized by the receiving entity at the transfer date. This Subsection provides guidance on the presentation of financial statements for the period of transfer and comparative financial statements for prior years.
+**805-50-45-1** Paragraph 805-50-25-2 establishes that the assets and liabilities transferred between entities under common control are to be initially recognized by the receiving entity at the transfer date. This Subsection provides guidance on the presentation of financial statements for the period of transfer and comparative financial statements for prior years.
+**805-50-45-2** > Financial Statement Presentation in Period of Transfer
+The financial statements of the receiving entity shall report results of operations for the period in which the transfer occurs as though the transfer of net assets or exchange of equity interests
+had occurred at the beginning of the period. Results of operations for that period will thus comprise those of the previously separate entities combined from the beginning of the period to the date the transfer is completed and those of the combined operations from that date to the end of the period. By eliminating the effects of intra-entity transactions in determining the results of operations for the period before the combination, those results will be on substantially the same basis as the results of operations for the period after the date of combination. The effects of intra-entity transactions on current assets, current liabilities, revenue, and cost of sales for periods presented and on retained earnings at the beginning of the periods presented shall be eliminated to the extent possible.
+**805-50-45-2** The financial statements of the receiving entity shall report results of operations for the period in which the transfer occurs as though the transfer of net assets or exchange of equity interests
+**805-50-45-3** had occurred at the beginning of the period. Results of operations for that period will thus comprise those of the previously separate entities combined from the beginning of the period to the date the transfer is completed and those of the combined operations from that date to the end of the period. By eliminating the effects of intra-entity transactions in determining the results of operations for the period before the combination, those results will be on substantially the same basis as the results of operations for the period after the date of combination. The effects of intra-entity transactions on current assets, current liabilities, revenue, and cost of sales for periods presented and on retained earnings at the beginning of the periods presented shall be eliminated to the extent possible.
+The nature of and effects on earnings per share (EPS) of nonrecurring intra-entity transactions involving long-term assets and liabilities need not be eliminated. However, paragraph 805-50-50-2 requires disclosure.
+**805-50-45-3** The nature of and effects on earnings per share (EPS) of nonrecurring intra-entity transactions involving long-term assets and liabilities need not be eliminated. However, paragraph 805-50-50-2 requires disclosure.
+**805-50-45-4** Similarly, the receiving entity shall present the statement of financial position and other financial information as of the beginning of the period as though the assets and liabilities had been transferred at that date.
+**805-50-45-4** Similarly, the receiving entity shall present the statement of financial position and other financial information as of the beginning of the period as though the assets and liabilities had been transferred at that date.
+**805-50-45-5** > Comparative Financial Statement Presentation for Prior Years
+Financial statements and financial information presented for prior years also shall be retrospectively adjusted to furnish comparative information. All adjusted financial statements and financial summaries shall indicate clearly that financial data of previously separate entities are combined. However, the comparative information in prior years shall only be adjusted for periods during which the entities were under common control.
+**805-50-45-5** Financial statements and financial information presented for prior years also shall be retrospectively adjusted to furnish comparative information. All adjusted financial statements and financial summaries shall indicate clearly that financial data of previously separate entities are combined. However, the comparative information in prior years shall only be adjusted for periods during which the entities were under common control.
+
+## 50 Disclosure
+
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+
+### Transactions between Entities under Common Control
+
+Paragraphs 805-50-45-1 through 45-5
+provide guidance on financial statement presentation in the period of transfer and for periods before the transfer of assets and liabilities between entities under common control. This Subsection addresses incremental disclosures related to such a transaction.
+Paragraphs 805-50-45-1 through 45-5
+**805-50-50-2** provide guidance on financial statement presentation in the period of transfer and for periods before the transfer of assets and liabilities between entities under common control. This Subsection addresses incremental disclosures related to such a transaction.
+The nature of and effects on earnings per share (EPS) of nonrecurring intra-entity transactions involving long-term assets and liabilities is not required to be eliminated under the guidance in paragraph 805-50-45-3 but shall be disclosed.
+The nature of and effects on earnings per share (EPS) of nonrecurring intra-entity transactions involving long-term assets and liabilities is not required to be eliminated under the guidance in paragraph 805-50-45-3 but shall be disclosed.
+The notes to financial statements of the receiving entity shall disclose the following for the period in which the transfer of assets and liabilities or exchange of equity interests
+1. The name and brief description of the entity included in the reporting entity as a result of the net asset transfer or exchange of equity interests
+2. The method of accounting for the transfer of net assets or exchange of equity interests.
+
+The notes to financial statements of the receiving entity shall disclose the following for the period in which the transfer of assets and liabilities or exchange of equity interests
+1. The name and brief description of the entity included in the reporting entity as a result of the net asset transfer or exchange of equity interests
+2. The method of accounting for the transfer of net assets or exchange of equity interests.
+
+The receiving entity also shall consider whether additional disclosures are required in accordance with Section 850-10-50, which provides guidance on related party transactions and certain common control relationships.
+The receiving entity also shall consider whether additional disclosures are required in accordance with Section 850-10-50, which provides guidance on related party transactions and certain common control relationships.
+
+### Pushdown Accounting
+
+If an acquiree
+elects the option to apply pushdown accounting in its separate financial statements, it shall disclose information in the period in which the pushdown accounting was applied (or in the current reporting period if the acquiree recognizes adjustments that relate to pushdown accounting) that enables users of financial statements to evaluate the effect of pushdown accounting. To meet this disclosure objective, the acquiree shall consider the disclosure requirements in other Subtopics of Topic 805.
+If an acquiree
+**805-50-50-6** elects the option to apply pushdown accounting in its separate financial statements, it shall disclose information in the period in which the pushdown accounting was applied (or in the current reporting period if the acquiree recognizes adjustments that relate to pushdown accounting) that enables users of financial statements to evaluate the effect of pushdown accounting. To meet this disclosure objective, the acquiree shall consider the disclosure requirements in other Subtopics of Topic 805.
+Information to evaluate the effect of pushdown accounting
+1. The name and a description of the acquirer and a description of how the acquirer obtained control of the acquiree.
+2. The acquisition date.
+3. The acquisition-date fair value of the total consideration transferred by the acquirer.
+4. The amounts recognized by the acquiree as of the acquisition date for each major class of assets and liabilities as a result of applying pushdown accounting. If the initial accounting for pushdown accounting is incomplete for any amounts recognized by the acquiree, the reasons why the initial accounting is incomplete.
+5. A qualitative description of the factors that make up the goodwill recognized, such as expected synergies from combining operations of the acquiree and the acquirer, or intangible assets that do not qualify for separate recognition, or other factors. In a bargain purchase (see paragraphs 805-30-25-2 through 25-4), the amount of the bargain purchase recognized in additional paid-in capital (or net assets of a not-for-profit acquiree) and a description of the reasons why the transaction resulted in a gain.
+6. Information to evaluate the financial effects of adjustments recognized in the current reporting period that relate to pushdown accounting that occurred in the current or previous reporting periods (including those adjustments made as a result of the initial accounting for pushdown accounting being incomplete [see paragraphs 805-10-25-13 through 25-14]).
+
+The information in this paragraph is not an exhaustive list of disclosure requirements. The acquiree shall disclose whatever additional information is necessary to meet the disclosure objective set out in paragraph 805-50-50-5.
+Information to evaluate the effect of pushdown accounting
+1. The name and a description of the acquirer and a description of how the acquirer obtained control of the acquiree.
+2. The acquisition date.
+3. The acquisition-date fair value of the total consideration transferred by the acquirer.
+4. The amounts recognized by the acquiree as of the acquisition date for each major class of assets and liabilities as a result of applying pushdown accounting. If the initial accounting for pushdown accounting is incomplete for any amounts recognized by the acquiree, the reasons why the initial accounting is incomplete.
+5. A qualitative description of the factors that make up the goodwill recognized, such as expected synergies from combining operations of the acquiree and the acquirer, or intangible assets that do not qualify for separate recognition, or other factors. In a bargain purchase (see paragraphs 805-30-25-2 through 25-4), the amount of the bargain purchase recognized in additional paid-in capital (or net assets of a not-for-profit acquiree) and a description of the reasons why the transaction resulted in a gain.
+6. Information to evaluate the financial effects of adjustments recognized in the current reporting period that relate to pushdown accounting that occurred in the current or previous reporting periods (including those adjustments made as a result of the initial accounting for pushdown accounting being incomplete [see paragraphs 805-10-25-13 through 25-14]).
+
+## 55 Implementation Guidance and Illustrations
+
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+
+### General
+
+##### · > Example 1: Application of the Relative Fair Value Method
+
+**805-50-55-1** > Illustrations
+This Example illustrates the application of the relative fair value method when assets are acquired in a group outside a business combination as discussed in paragraph 805-50-30-3. On January 1, 20X9, Entity A purchased land, building, and equipment for $500,000 in cash. Transaction costs of $25,000 were incurred.
+To allocate the cost, the fair value of the individual assets is determined based on the guidance in Topic 820.
+This Example illustrates the application of the relative fair value method when assets are acquired in a group outside a business combination as discussed in paragraph 805-50-30-3. On January 1, 20X9, Entity A purchased land, building, and equipment for $500,000 in cash. Transaction costs of $25,000 were incurred.
+To allocate the cost, the fair value of the individual assets is determined based on the guidance in Topic 820.
+
+## 65 Transition and Open Effective Date Information
+
+General Note:The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
+
+### General
+
+**805-50-65-1** Paragraph superseded on 06/26/2015 after the end of the transition period stated in Accounting Standards Update No. 2014-17, *Business Combinations (Topic 805): Pushdown Accounting*.
+**805-50-65-1** Paragraph superseded on 06/26/2015 after the end of the transition period stated in Accounting Standards Update No. 2014-17, *Business Combinations (Topic 805): Pushdown Accounting*.
+
+## S00 Status
+
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+
+### General
+
+The following table identifies the changes made to this Subtopic.
+**** **** **** ****
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| 805-50-S25-1 | Superseded | Accounting Standards Update No. 2015-08 | 05/08/2015 |
+| 805-50-S30-1 | Superseded | Accounting Standards Update No. 2015-08 | 05/08/2015 |
+| 805-50-S30-2 | Superseded | Accounting Standards Update No. 2015-08 | 05/08/2015 |
+| 805-50-S50-1 | Superseded | Accounting Standards Update No. 2015-08 | 05/08/2015 |
+| 805-50-S55-1 | Superseded | Accounting Standards Update No. 2015-08 | 05/08/2015 |
+| 805-50-S99-1 through S99-3 | Superseded | Accounting Standards Update No. 2015-08 | 05/08/2015 |
+| 805-50-S99-1 | Amended | Accounting Standards Update No. 2012-03 | 08/27/2012 |
+| 805-50-S99-1 | Amended | Accounting Standards Update No. 2010-22 | 08/19/2010 |
+| 805-50-S99-2 | Amended | Accounting Standards Update No. 2010-04 | 01/15/2010 |
+
+The following table identifies the changes made to this Subtopic.
+**** **** **** ****
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| 805-50-S25-1 | Superseded | Accounting Standards Update No. 2015-08 | 05/08/2015 |
+| 805-50-S30-1 | Superseded | Accounting Standards Update No. 2015-08 | 05/08/2015 |
+| 805-50-S30-2 | Superseded | Accounting Standards Update No. 2015-08 | 05/08/2015 |
+| 805-50-S50-1 | Superseded | Accounting Standards Update No. 2015-08 | 05/08/2015 |
+| 805-50-S55-1 | Superseded | Accounting Standards Update No. 2015-08 | 05/08/2015 |
+| 805-50-S99-1 through S99-3 | Superseded | Accounting Standards Update No. 2015-08 | 05/08/2015 |
+| 805-50-S99-1 | Amended | Accounting Standards Update No. 2012-03 | 08/27/2012 |
+| 805-50-S99-1 | Amended | Accounting Standards Update No. 2010-22 | 08/19/2010 |
+| 805-50-S99-2 | Amended | Accounting Standards Update No. 2010-04 | 01/15/2010 |
+
+## S25 Recognition
+
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+
+### New Basis of Accounting (Pushdown)
+
+**805-50-S25-1** Paragraph superseded by Accounting Standards Update No. 2015-08.
+**805-50-S25-1** Paragraph superseded by Accounting Standards Update No. 2015-08.
+
+## S30 Initial Measurement
+
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+
+### Transactions between Entities under Common Control
+
+**805-50-S30-1** Paragraph superseded by Accounting Standards Update No. 2015-08.
+**805-50-S30-1** Paragraph superseded by Accounting Standards Update No. 2015-08.
+**805-50-S30-2** Paragraph superseded by Accounting Standards Update No. 2015-08.
+**805-50-S30-2** Paragraph superseded by Accounting Standards Update No. 2015-08.
+**805-50-S30-3** > Measurement of Certain Transfers Between Entities Under Common Control in the Separate Financial Statements of Each Entity
+See paragraph 805-50-S99-4, SEC Observer Comment: Measurement of Certain Transfers Between Entities Under Common Control in the Separate Financial Statements of Each Entity for SEC Staff views on carrying over historical cost to record, in the separate financial statements of each entity, certain transfers between companies under common control or between a parent and its subsidiary.
+**805-50-S30-3** See paragraph 805-50-S99-4, SEC Observer Comment: Measurement of Certain Transfers Between Entities Under Common Control in the Separate Financial Statements of Each Entity for SEC Staff views on carrying over historical cost to record, in the separate financial statements of each entity, certain transfers between companies under common control or between a parent and its subsidiary.
+
+## S50 Disclosure
+
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+**805-50-S50-1** Paragraph superseded by Accounting Standards Update No. 2015-08.
+**805-50-S50-1** Paragraph superseded by Accounting Standards Update No. 2015-08.
+
+## S55 Implementation Guidance and Illustrations
+
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+
+### General
+
+**805-50-S55-1** Paragraph superseded by Accounting Standards Update No. 2015-08.
+**805-50-S55-1** Paragraph superseded by Accounting Standards Update No. 2015-08.
+
+## S99 SEC Materials
+
+General Note:As more fully described in *About the Codification*, the Codification includes selected SEC and SEC Staff content for reference by public companies. The Codification does not replace or affect how the SEC or SEC Staff issues or updates SEC content. SEC Staff content does not constitute Commission-approved rules or interpretations of the SEC.
+
+### Transactions between Entities under Common Control
+
+**805-50-S99-1** > SEC Staff Guidance
+Paragraph superseded by Accounting Standards Update No. 2015-08.
+**805-50-S99-1** Paragraph superseded by Accounting Standards Update No. 2015-08.
+**805-50-S99-2** Paragraph superseded by Accounting Standards Update No. 2015-08.
+**805-50-S99-2** Paragraph superseded by Accounting Standards Update No. 2015-08.
+
+##### · > Comments Made by SEC Observer at EITF Meetings
+
+**805-50-S99-3** Paragraph superseded by Accounting Standards Update No. 2015-08.
+**805-50-S99-3** Paragraph superseded by Accounting Standards Update No. 2015-08.
+**805-50-S99-4** · · > SEC Observer Comment: Measurement of Certain Transfers Between Entities Under Common Control in the Separate Financial Statements of Each Entity
+The following is the text of the SEC Observer Comment: Measurement of Certain Transfers Between Entities Under Common Control in the Separate Financial Statements of Each Entity.The SEC staff's views on carrying over historical cost to record, in the separate financial statements of each entity, transfers between companies under common control or between a parent and its subsidiary are focused on transfers of net assets (as in a business combination) or long-lived assets. Those views would not normally apply to recurring transactions for which valuation is not in question (such as routine transfers of inventory) in the separate financial statements of each entity that is a party to the transaction.
+**805-50-S99-4** The following is the text of the SEC Observer Comment: Measurement of Certain Transfers Between Entities Under Common Control in the Separate Financial Statements of Each Entity.The SEC staff's views on carrying over historical cost to record, in the separate financial statements of each entity, transfers between companies under common control or between a parent and its subsidiary are focused on transfers of net assets (as in a business combination) or long-lived assets. Those views would not normally apply to recurring transactions for which valuation is not in question (such as routine transfers of inventory) in the separate financial statements of each entity that is a party to the transaction.
+
+## 00 Status
+
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+
+### General
+
+**805-60-00-1** The following table identifies the changes made to this Subtopic.
+
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Acquiree | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Acquirer | Amended | Accounting Standards Update No. 2025-03 | 05/12/2025 |
+| Acquirer | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Acquisition by a Not-for-Profit Entity | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Acquisition Date | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Business | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Business Combination | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Control (3rd def.) | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Corporate Joint Venture | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Equity Interests | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Fair Value (2nd def.) | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Financial Asset | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Formation Date | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Goodwill | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Identifiable | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Intangible Assets | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Joint Venture | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Legal Entity | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Market Participants | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Noncontrolling Interest | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Nonprofit Activity | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Not-for-Profit Entity | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Orderly Transaction | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Owners | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Private Company | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Public Business Entity | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Related Parties | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Security (2nd def.) | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Variable Interest Entity | Superseded | Accounting Standards Update No. 2025-03 | 05/12/2025 |
+| Variable Interest Entity | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| 805-60-05-1 | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| 805-60-05-2 | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| 805-60-15-1 through 15-4 | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| 805-60-25-1 through 25-15 | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| 805-60-30-1 through 30-7 | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| 805-60-35-1 | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| 805-60-35-2 | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| 805-60-45-1 | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| 805-60-50-1 through 50-3 | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| 805-60-55-1 through 55-14 | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| 805-60-65-1 | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+
+^^^^^^****
+**805-60-00-1** The following table identifies the changes made to this Subtopic.
+
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Acquiree | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Acquirer | Amended | Accounting Standards Update No. 2025-03 | 05/12/2025 |
+| Acquirer | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Acquisition by a Not-for-Profit Entity | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Acquisition Date | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Business | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Business Combination | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Control (3rd def.) | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Corporate Joint Venture | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Equity Interests | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Fair Value (2nd def.) | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Financial Asset | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Formation Date | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Goodwill | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Identifiable | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Intangible Assets | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Joint Venture | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Legal Entity | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Market Participants | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Noncontrolling Interest | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Nonprofit Activity | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Not-for-Profit Entity | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Orderly Transaction | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Owners | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Private Company | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Public Business Entity | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Related Parties | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Security (2nd def.) | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| Variable Interest Entity | Superseded | Accounting Standards Update No. 2025-03 | 05/12/2025 |
+| Variable Interest Entity | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| 805-60-05-1 | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| 805-60-05-2 | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| 805-60-15-1 through 15-4 | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| 805-60-25-1 through 25-15 | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| 805-60-30-1 through 30-7 | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| 805-60-35-1 | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| 805-60-35-2 | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| 805-60-45-1 | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| 805-60-50-1 through 50-3 | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| 805-60-55-1 through 55-14 | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+| 805-60-65-1 | Added | Accounting Standards Update No. 2023-05 | 08/23/2023 |
+
+## 05 Overview and Background
+
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+
+### General
+
+**805-60-05-1** PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1This Subtopic provides guidance on the accounting and reporting for the formation of a joint venture or a corporate joint venture (collectively, joint ventures) in a joint venture’s separate financial statements.
+1. Determining the formation date
+2. Recognizing and measuring the identifiable assets, the liabilities, and any noncontrolling interest in the net assets recognized by the joint venture
+3. Recognizing and measuring goodwill, if any, using the fair value of the joint venture as a whole immediately following formation.
+
+1. Determining the formation date
+2. Recognizing and measuring the identifiable assets, the liabilities, and any noncontrolling interest in the net assets recognized by the joint venture
+3. Recognizing and measuring goodwill, if any, using the fair value of the joint venture as a whole immediately following formation.
+
+## 15 Scope and Scope Exceptions
+
+**805-60-05-2** General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+
+### General
+
+**805-60-15-1** > Overall Guidance PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1This Subtopic has its own discrete scope, which is separate and distinct from the pervasive scope for this Topic as outlined in Section 805-10-15.
+**805-60-15-2** PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1This Subtopic has its own discrete scope, which is separate and distinct from the pervasive scope for this Topic as outlined in Section 805-10-15. > Entities PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1The guidance in this Subtopic applies to the financial statements of joint venture and corporate joint venture entities (collectively, joint ventures) as defined in Section 805-60-20.
+**805-60-15-3** PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1The guidance in this Subtopic applies to the financial statements of joint venture and corporate joint venture entities (collectively, joint ventures) as defined in Section 805-60-20. > Transactions PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1The guidance in this Subtopic applies to the formation of joint ventures.
+1. Transactions between a joint venture and its owners other than the formation of a joint venture
+2. Formations of entities determined to be not-for-profit entities in accordance with Topic 958
+3. Combinations between entities, businesses, or nonprofit activities under common control (see paragraph 805-50-15-6 for examples)
+4. Entities in the construction or extractive industries that may be proportionately consolidated by any of their investor-venturers in accordance with paragraph 810-10-45-14
+5. Collaborative arrangements within the scope of Topic 808, except for any part of the arrangement that is conducted in a separate legal entity that meets the definition of a joint venture.
+
+1. Transactions between a joint venture and its owners other than the formation of a joint venture
+2. Formations of entities determined to be not-for-profit entities in accordance with Topic 958
+3. Combinations between entities, businesses, or nonprofit activities under common control (see paragraph 805-50-15-6 for examples)
+4. Entities in the construction or extractive industries that may be proportionately consolidated by any of their investor-venturers in accordance with paragraph 810-10-45-14
+5. Collaborative arrangements within the scope of Topic 808, except for any part of the arrangement that is conducted in a separate legal entity that meets the definition of a joint venture.
+
+## 20 Glossary
+
+**805-60-15-4** General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+
+##### Acquiree
+
+The business or businesses that the acquirer obtains control of in a business combination. This term also includes a nonprofit activity or business that a not-for-profit acquirer obtains control of in an acquisition by a not-for-profit entity.
+The business or businesses that the acquirer obtains control of in a business combination. This term also includes a nonprofit activity or business that a not-for-profit acquirer obtains control of in an acquisition by a not-for-profit entity.
+
+##### Acquirer
+
+The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:805-10-65-5The entity that obtains control of the acquiree.See paragraphs 805-10-25-4 through 25-5 for guidance on determining the acquirer.
+The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer.
+PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:805-10-65-5The entity that obtains control of the acquiree.See paragraphs 805-10-25-4 through 25-5
+
+##### Acquisition by a Not-for-Profit Entity
+
+for guidance on determining the acquirer.A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.
+A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.
+
+##### Acquisition Date
+
+The date on which the acquirer obtains control of the acquiree.
+The date on which the acquirer obtains control of the acquiree.
+
+##### Business
+
+Paragraphs 805-10-55-3A through 55-6 and 805-10-55-8 through 55-9 define what is considered a business.
+Paragraphs 805-10-55-3A through 55-6
+
+##### Business Combination
+
+and 805-10-55-8 through 55-9 define what is considered a business. A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
+A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
+
+##### Control
+
+The same as the meaning of controlling financial interest in paragraph 810-10-15-8.
+The same as the meaning of controlling financial interest in paragraph 810-10-15-8.
+
+##### Corporate Joint Venture
+
+A corporation owned and operated by a small group of entities (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a corporate joint venture frequently is to share risks and rewards in developing a new market, product or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A corporate joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a corporate joint venture. The ownership of a corporate joint venture seldom changes, and its stock is usually not traded publicly. A noncontrolling interest held by public ownership, however, does not preclude a corporation from being a corporate joint venture.
+A corporation owned and operated by a small group of entities (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a corporate joint venture frequently is to share risks and rewards in developing a new market, product or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A corporate joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a corporate joint venture. The ownership of a corporate joint venture seldom changes, and its stock is usually not traded publicly. A noncontrolling interest held by public ownership, however, does not preclude a corporation from being a corporate joint venture.
+
+##### Equity Interests
+
+Used broadly to mean ownership interests of investor-owned entities; owner, member, or participant interests of mutual entities; and owner or member interests in the net assets of not-for-profit entities.
+Used broadly to mean ownership interests of investor-owned entities; owner, member, or participant interests of mutual entities; and owner or member interests in the net assets of not-for-profit entities.
+
+##### Fair Value
+
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+
+##### Financial Asset
+
+1. Receive cash or another financial instrument from a second entity
+2. Exchange other financial instruments on potentially favorable terms with the second entity.
+
+Receive cash or another financial instrument from a second entity
+2. Exchange other financial instruments on potentially favorable terms with the second entity.
+
+##### Formation Date
+
+PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1 The formation date of a joint venture is the date on which an entity initially meets the definition of a joint venture, which is not necessarily the legal entity formation date. The formation date is the measurement date for the formation transaction. If multiple arrangements are accounted for as a single transaction that establishes the formation of a joint venture, the formation date is the measurement date for all arrangements that form part of the single formation transaction.
+PENDING CONTENT
+
+##### Goodwill
+
+Transition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1 The formation date of a joint venture is the date on which an entity initially meets the definition of a joint venture, which is not necessarily the legal entity formation date. The formation date is the measurement date for the formation transaction. If multiple arrangements are accounted for as a single transaction that establishes the formation of a joint venture, the formation date is the measurement date for all arrangements that form part of the single formation transaction. An asset representing the future economic benefits arising from other assets acquired in a business combination or an acquisition by a not-for-profit entity that are not individually identified and separately recognized. For ease of reference, this term also includes the immediate charge recognized by not-for-profit entities in accordance with paragraph 958-805-25-29. PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1An asset representing the future economic benefits arising from other assets acquired in a business combination, acquired in an acquisition by a not-for-profit entity, or recognized by a joint venture upon formation that are not individually identified and separately recognized. For ease of reference, this term also includes the immediate charge recognized by not-for-profit entities in accordance with paragraph 958-805-25-29.
+An asset representing the future economic benefits arising from other assets acquired in a business combination or an acquisition by a not-for-profit entity that are not individually identified and separately recognized. For ease of reference, this term also includes the immediate charge recognized by not-for-profit entities in accordance with paragraph 958-805-25-29.
+
+##### Identifiable
+
+1. It is separable, that is, capable of being separated or divided from the entity and sold, transferred, licensed, rented, or exchanged, either individually or together with a related contract, identifiable asset, or liability, regardless of whether the entity intends to do so.
+2. It arises from contractual or other legal rights, regardless of whether those rights are transferable or separable from the entity or from other rights and obligations.
+
+It is separable, that is, capable of being separated or divided from the entity and sold, transferred, licensed, rented, or exchanged, either individually or together with a related contract, identifiable asset, or liability, regardless of whether the entity intends to do so.
+2. It arises from contractual or other legal rights, regardless of whether those rights are transferable or separable from the entity or from other rights and obligations.
+
+##### Intangible Assets
+
+Assets (not including financial assets) that lack physical substance. (The term intangible assets is used to refer to intangible assets other than goodwill.)
+Assets (not including financial assets) that lack physical substance. (The term intangible assets is used to refer to intangible assets other than goodwill.)
+
+##### Joint Venture
+
+An entity owned and operated by a small group of businesses (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a joint venture frequently is to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a joint venture. The ownership of a joint venture seldom changes, and its equity interests usually are not traded publicly. A minority public ownership, however, does not preclude an entity from being a joint venture. As distinguished from a corporate joint venture, a joint venture is not limited to corporate entities.
+An entity owned and operated by a small group of businesses (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a joint venture frequently is to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a joint venture. The ownership of a joint venture seldom changes, and its equity interests usually are not traded publicly. A minority public ownership, however, does not preclude an entity from being a joint venture. As distinguished from a corporate joint venture, a joint venture is not limited to corporate entities.
+
+##### Legal Entity
+
+Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts.
+Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts.
+
+##### Market Participants
+
+1. They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
+3. They are able to enter into a transaction for the asset or liability
+4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
+
+They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
+3. They are able to enter into a transaction for the asset or liability
+4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
+
+##### Noncontrolling Interest
+
+The portion of equity (net assets) in a subsidiary not attributable, directly or indirectly, to a parent. A noncontrolling interest is sometimes called a minority interest.
+The portion of equity (net assets) in a subsidiary not attributable, directly or indirectly, to a parent. A noncontrolling interest is sometimes called a minority interest.
+
+##### Nonprofit Activity
+
+An integrated set of activities and assets that is capable of being conducted and managed for the purpose of providing benefits, other than goods or services at a profit or profit equivalent, as a fulfillment of an entity's purpose or mission (for example, goods or services to beneficiaries, customers, or members). As with a not-for-profit entity, a nonprofit activity possesses characteristics that distinguish it from a business or a for-profit business entity.
+An integrated set of activities and assets that is capable of being conducted and managed for the purpose of providing benefits, other than goods or services at a profit or profit equivalent, as a fulfillment of an entity's purpose or mission (for example, goods or services to beneficiaries, customers, or members). As with a not-for-profit entity, a nonprofit activity possesses characteristics that distinguish it from a business or a for-profit business entity.
+
+##### Not-for-Profit Entity
+
+1. Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
+2. Operating purposes other than to provide goods or services at a profit
+3. Absence of ownership interests like those of business entities.
+
+1. All investor-owned entities
+2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
+
+Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
+2. Operating purposes other than to provide goods or services at a profit
+3. Absence of ownership interests like those of business entities.
+
+All investor-owned entities
+2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
+
+##### Orderly Transaction
+
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+
+##### Owners
+
+Used broadly to include holders of ownership interests (equity interests) of investor-owned entities, mutual entities, or not-for-profit entities. Owners include shareholders, partners, proprietors, or members or participants of mutual entities. Owners also include owner and member interests in the net assets of not-for-profit entities.
+Used broadly to include holders of ownership interests (equity interests) of investor-owned entities, mutual entities, or not-for-profit entities. Owners include shareholders, partners, proprietors, or members or participants of mutual entities. Owners also include owner and member interests in the net assets of not-for-profit entities.
+
+##### Private Company
+
+An entity other than a public business entity, a not-for-profit entity, or an employee benefit plan within the scope of Topics 960 through 965 on plan accounting.
+An entity other than a public business entity, a not-for-profit entity, or an employee benefit plan within the scope of Topics 960 through 965 on plan accounting.
+
+##### Public Business Entity
+
+1. It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing).
+2. It is required by the Securities Exchange Act of 1934 (the Act), as amended, or rules or regulations promulgated under the Act, to file or furnish financial statements with a regulatory agency other than the SEC.
+3. It is required to file or furnish financial statements with a foreign or domestic regulatory agency in preparation for the sale of or for purposes of issuing securities that are not subject to contractual restrictions on transfer.
+4. It has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market.
+5. It has one or more securities that are not subject to contractual restrictions on transfer, and it is required by law, contract, or regulation to prepare U.S. GAAP financial statements (including notes) and make them publicly available on a periodic basis (for example, interim or annual periods). An entity must meet both of these conditions to meet this criterion.
+
+An entity may meet the definition of a public business entity solely because its financial statements or financial information is included in another entity's filing with the SEC. In that case, the entity is only a public business entity for purposes of financial statements that are filed or furnished with the SEC.
+It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing).
+2. It is required by the Securities Exchange Act of 1934 (the Act), as amended, or rules or regulations promulgated under the Act, to file or furnish financial statements with a regulatory agency other than the SEC.
+3. It is required to file or furnish financial statements with a foreign or domestic regulatory agency in preparation for the sale of or for purposes of issuing securities that are not subject to contractual restrictions on transfer.
+4. It has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market.
+5. It has one or more securities that are not subject to contractual restrictions on transfer, and it is required by law, contract, or regulation to prepare U.S. GAAP financial statements (including notes) and make them publicly available on a periodic basis (for example, interim or annual periods). An entity must meet both of these conditions to meet this criterion.
+
+##### Related Parties
+
+1. Affiliates of the entity
+2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
+3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
+4. Principal owners of the entity and members of their immediate families
+5. Management of the entity and members of their immediate families
+6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
+7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
+
+Affiliates of the entity
+2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
+3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
+4. Principal owners of the entity and members of their immediate families
+5. Management of the entity and members of their immediate families
+6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
+7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
+
+##### Security
+
+1. It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
+2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
+3. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
+
+It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
+2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
+3. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
+
+##### Variable Interest Entity
+
+A legal entity subject to consolidation according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
+A legal entity subject to consolidation according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
+
+## 25 Recognition
+
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+
+### General
+
+**805-60-25-1** PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1An entity shall determine whether a transaction or an event is a joint venture formation by applying the definition of joint venture (or corporate joint venture) and the guidance in paragraph 805-60-25-3 on its formation date. If the transaction or event is not a joint venture formation, the reporting entity shall account for the transaction or event in accordance with other generally accepted accounting principles (GAAP).
+1. Determining the formation date
+2. Determining whether multiple arrangements should be accounted for as a single formation transaction
+3. Determining what is part of the joint venture formation
+1. New basis of accounting
+2. Private company accounting alternatives
+3. Goodwill
+4. Measurement period
+5. Transfers of financial assets.
+
+1. Determining the formation date
+2. Determining whether multiple arrangements should be accounted for as a single formation transaction
+3. Determining what is part of the joint venture formation
+1. New basis of accounting
+2. Private company accounting alternatives
+3. Goodwill
+4. Measurement period
+5. Transfers of financial assets.
+
+**805-60-25-3** > Determining the Formation Date PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1The joint venture formation date is the date on which an entity initially meets the definition of a joint venture, which is not necessarily the legal entity formation date. A joint venture’s formation date is the measurement date for the formation transaction. A joint venture shall determine a single formation date and account for its formation as of that date. A joint venture shall consider the pertinent facts and circumstances in identifying its formation date. All contributions received, or that are receivable, as of the formation date, including consideration of the guidance in paragraphs 805-60-25-4 through 25-5 on multiple arrangements that should be accounted for as a single formation transaction, constitute the joint venture formation transaction.
+1. The multiple arrangements are entered into at the same time or in contemplation of one another.
+2. The multiple arrangements form a single transaction designed to achieve an overall commercial effect.
+3. The occurrence of one arrangement is dependent on the occurrence of at least one other arrangement.
+4. One arrangement considered on its own is not economically justified, but the multiple arrangements are economically justified when considered together.
+
+1. The multiple arrangements are entered into at the same time or in contemplation of one another.
+2. The multiple arrangements form a single transaction designed to achieve an overall commercial effect.
+3. The occurrence of one arrangement is dependent on the occurrence of at least one other arrangement.
+4. One arrangement considered on its own is not economically justified, but the multiple arrangements are economically justified when considered together.
+
+**805-60-25-5** PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1If multiple arrangements are accounted for as a single transaction in accordance with paragraph 805-60-25-4, then the formation date shall be the measurement date for all arrangements that form part of the single formation transaction. A joint venture shall recognize identifiable assets and liabilities that are part of that single transaction when they satisfy the recognition criteria described in paragraph 805-60-25-2.
+**805-60-25-6** PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1If multiple arrangements are accounted for as a single transaction in accordance with paragraph 805-60-25-4, then the formation date shall be the measurement date for all arrangements that form part of the single formation transaction. A joint venture shall recognize identifiable assets and liabilities that are part of that single transaction when they satisfy the recognition criteria described in paragraph 805-60-25-2. > Determining What Is Part of the Joint Venture Formation PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1A joint venture and its owners (the venturers) may enter into an arrangement upon formation that is separate from the formation of the joint venture. For example, a joint venture may enter into an arrangement with a venturer to compensate the venturer or others (such as employees of the venturers) for future services. A joint venture shall apply the guidance in paragraphs 805-10-55-24 through 55-26 when determining whether a transaction involving payments to be made by the joint venture to the venturers or others is separate from or part of a joint venture formation. A joint venture shall identify any amounts that are separate from the formation of the joint venture and shall recognize the identifiable assets and liabilities that are determined to be part of the joint venture formation. Separate transactions shall be accounted for in accordance with other relevant GAAP.
+**805-60-25-7** PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1A joint venture and its owners (the venturers) may enter into an arrangement upon formation that is separate from the formation of the joint venture. For example, a joint venture may enter into an arrangement with a venturer to compensate the venturer or others (such as employees of the venturers) for future services. A joint venture shall apply the guidance in paragraphs 805-10-55-24 through 55-26 when determining whether a transaction involving payments to be made by the joint venture to the venturers or others is separate from or part of a joint venture formation. A joint venture shall identify any amounts that are separate from the formation of the joint venture and shall recognize the identifiable assets and liabilities that are determined to be part of the joint venture formation. Separate transactions shall be accounted for in accordance with other relevant GAAP. PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1A joint venture shall not apply by analogy the guidance in paragraphs 805-10-55-20 through 55-23 (for a transaction that in effect settles preexisting relationships between the acquirer and the acquiree) or paragraph 805-10-25-23 (for acquisition-related costs and transactions that reimburse the acquiree or its former owners for paying the acquirer’s acquisition-related costs).
+**805-60-25-8** PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1A joint venture shall not apply by analogy the guidance in paragraphs 805-10-55-20 through 55-23 (for a transaction that in effect settles preexisting relationships between the acquirer and the acquiree) or paragraph 805-10-25-23 (for acquisition-related costs and transactions that reimburse the acquiree or its former owners for paying the acquirer’s acquisition-related costs). PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1If, upon formation, a joint venture issues share-based payment awards to replace awards held by grantees of the contributed entities, then the joint venture shall apply the guidance in paragraphs 805-30-30-9 through 30-13 to allocate the fair-value-based measure of replacement share-based payment awards between preformation vesting and postformation compensation cost. Paragraphs 805-60-55-2 through 55-14 provide illustrations of the accounting for the issuance of replacement share-based payment awards in a joint venture formation.
+1. The joint venture shall be viewed as analogous to the acquirer in a business combination.
+2. The venturers shall be viewed as analogous to the selling shareholders.
+3. The recognized businesses and/or assets shall be viewed as analogous to an acquiree.
+
+1. The joint venture shall be viewed as analogous to the acquirer in a business combination.
+2. The venturers shall be viewed as analogous to the selling shareholders.
+3. The recognized businesses and/or assets shall be viewed as analogous to an acquiree.
+
+##### · > New Basis of Accounting
+
+**805-60-25-10** > Accounting for the Formation of a Joint Venture PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1At the formation date, a joint venture shall account for its formation by establishing a new basis of accounting for its identifiable assets and liabilities, and any noncontrolling interest, in accordance with Subtopic 805-20.
+**805-60-25-11** PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1At the formation date, a joint venture shall account for its formation by establishing a new basis of accounting for its identifiable assets and liabilities, and any noncontrolling interest, in accordance with Subtopic 805-20. PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1A joint venture shall account for its formation in accordance with this Subtopic regardless of whether the assets or group of assets recognized by the joint venture constitute a business in accordance with Subtopic 805-10.
+
+##### · > Private Company Accounting        Alternatives
+
+**805-60-25-12** PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1A joint venture shall account for its formation in accordance with this Subtopic regardless of whether the assets or group of assets recognized by the joint venture constitute a business in accordance with Subtopic 805-10. PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1A joint venture that is a private company may elect to apply the accounting alternative for the recognition of identifiable intangible assets described in paragraphs 805-20-25-30 through 25-33. In accordance with paragraph 805-20-15-4, a joint venture that elects to apply this accounting alternative must adopt the accounting alternative for amortizing goodwill in the Accounting Alternatives Subsections of Subtopic 350-20.
+
+##### · > Goodwill
+
+**805-60-25-13** PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1A joint venture that is a private company may elect to apply the accounting alternative for the recognition of identifiable intangible assets described in paragraphs 805-20-25-30 through 25-33. In accordance with paragraph 805-20-15-4, a joint venture that elects to apply this accounting alternative must adopt the accounting alternative for amortizing goodwill in the Accounting Alternatives Subsections of Subtopic 350-20. PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1In accounting for its formation, a joint venture shall recognize goodwill as of the formation date, when applicable. The presence of more than an insignificant amount of goodwill is expected to be unusual if, at formation, the assets or group of assets recognized by the joint venture do not constitute a business in accordance with Subtopic 805-10. Paragraph 805-60-30-2 describes how a joint venture should measure goodwill upon its formation.
+
+##### · > Measurement Period
+
+**805-60-25-14** PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1In accounting for its formation, a joint venture shall recognize goodwill as of the formation date, when applicable. The presence of more than an insignificant amount of goodwill is expected to be unusual if, at formation, the assets or group of assets recognized by the joint venture do not constitute a business in accordance with Subtopic 805-10. Paragraph 805-60-30-2 describes how a joint venture should measure goodwill upon its formation. PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1If the initial accounting for a joint venture formation is incomplete by the end of the reporting period in which the formation date occurs, the joint venture may apply the measurement period guidance in paragraphs 805-10-25-13 through 25-19 for the items for which the accounting is incomplete. Joint ventures that apply the measurement period guidance shall disclose the information described in paragraph 805-60-50-3.
+
+##### · > Transfers of Financial Assets
+
+**805-60-25-15** PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1If the initial accounting for a joint venture formation is incomplete by the end of the reporting period in which the formation date occurs, the joint venture may apply the measurement period guidance in paragraphs 805-10-25-13 through 25-19 for the items for which the accounting is incomplete. Joint ventures that apply the measurement period guidance shall disclose the information described in paragraph 805-60-50-3. PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1If a venturer transfers financial assets that are within the scope of Subtopic 860-10 to the joint venture upon formation, then the joint venture shall determine whether the transfer results in the recognition of the transferred financial assets by the joint venture by applying the guidance in Subtopic 860-10.
+
+## 30 Initial Measurement
+
+**805-60-25-15** General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+
+### General
+
+**805-60-30-1** > Identifiable Assets and Liabilities, and Any Noncontrolling Interest PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1A joint venture shall measure its identifiable assets and liabilities, and any noncontrolling interest, recognized at the formation date in accordance with Subtopic 805-20.
+1. The formation-date fair value of the joint venture as a whole. The formation-date fair value of the joint venture as a whole shall equal the fair value of 100 percent of the joint venture’s equity (net assets) immediately following formation (including any noncontrolling interest in the net assets recognized by the joint venture).
+2. The net of the formation-date amounts of the identifiable assets and liabilities recognized by the joint venture and measured in accordance with Subtopic 805-20.
+
+1. The formation-date fair value of the joint venture as a whole. The formation-date fair value of the joint venture as a whole shall equal the fair value of 100 percent of the joint venture’s equity (net assets) immediately following formation (including any noncontrolling interest in the net assets recognized by the joint venture).
+2. The net of the formation-date amounts of the identifiable assets and liabilities recognized by the joint venture and measured in accordance with Subtopic 805-20.
+
+**805-60-30-3** PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1Upon formation, a joint venture shall recognize the amount of its identifiable net assets recognized in excess of the fair value of the joint venture as a whole, if any, as an adjustment to additional paid-in capital (or other similar equity account, such as members’ equity).
+**805-60-30-4** PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1Upon formation, a joint venture shall recognize the amount of its identifiable net assets recognized in excess of the fair value of the joint venture as a whole, if any, as an adjustment to additional paid-in capital (or other similar equity account, such as members’ equity). > Instruments, Contracts, and Share-Based Payment Awards Classified as Equity PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1The amount of any separately recognized equity-classified instruments or contracts issued by a joint venture as part of the formation transaction, other than equity-classified replacement share-based payment awards (see paragraph 805-60-30-5), shall be accounted for as a reallocation of additional paid-in capital (or other similar equity account, such as members’ equity) and shall not affect the total amount of equity or goodwill recognized by the joint venture upon formation.
+**805-60-30-5** PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1The amount of any separately recognized equity-classified instruments or contracts issued by a joint venture as part of the formation transaction, other than equity-classified replacement share-based payment awards (see paragraph 805-60-30-5), shall be accounted for as a reallocation of additional paid-in capital (or other similar equity account, such as members’ equity) and shall not affect the total amount of equity or goodwill recognized by the joint venture upon formation. PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1A joint venture shall initially measure equity-classified replacement share-based payment awards at the fair-value-based measurement method described in Topic 718 on stock compensation. The fair-value-based amount allocated to preformation vesting (in accordance with paragraph 805-60-25-8) of any replacement share-based payments classified as equity shall be recognized as a reallocation of additional paid-in capital (or other similar equity account, such as members’ equity) and shall not affect the total amount of equity or goodwill recognized by the joint venture upon formation.
+**805-60-30-6** PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1A joint venture shall initially measure equity-classified replacement share-based payment awards at the fair-value-based measurement method described in Topic 718 on stock compensation. The fair-value-based amount allocated to preformation vesting (in accordance with paragraph 805-60-25-8) of any replacement share-based payments classified as equity shall be recognized as a reallocation of additional paid-in capital (or other similar equity account, such as members’ equity) and shall not affect the total amount of equity or goodwill recognized by the joint venture upon formation. > Liability-Classified and Asset-Classified Contingent Payments and Replacement Share-Based Payment Awards PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1A joint venture shall initially measure any contingent payment arrangements between the joint venture and its venturers that are classified as liabilities (or assets), other than replacement share-based payment awards, in accordance with paragraph 805-60-30-1. A joint venture shall not account for those arrangements generated as a result of the joint venture formation as contingent consideration or as an assumed contingent consideration arrangement.
+**805-60-30-7** PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1A joint venture shall initially measure any contingent payment arrangements between the joint venture and its venturers that are classified as liabilities (or assets), other than replacement share-based payment awards, in accordance with paragraph 805-60-30-1. A joint venture shall not account for those arrangements generated as a result of the joint venture formation as contingent consideration or as an assumed contingent consideration arrangement. PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1A joint venture shall initially measure liability-classified replacement share-based payment awards using the fair-value-based measurement method described in Topic 718 on stock compensation (consistent with the requirements in paragraphs 805-60-25-8 and 805-60-30-1).
+
+## 35 Subsequent Measurement
+
+**805-60-30-7** General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+
+### General
+
+**805-60-35-1** PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1A joint venture shall subsequently measure and account for the assets and liabilities recognized upon formation in accordance with the requirements for acquirers of a business in Sections 805-10-35, 805-20-35, and 805-30-35, and other generally accepted accounting principles (GAAP), as applicable.
+**805-60-35-2** PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1A joint venture shall subsequently measure and account for the assets and liabilities recognized upon formation in accordance with the requirements for acquirers of a business in Sections 805-10-35, 805-20-35, and 805-30-35, and other generally accepted accounting principles (GAAP), as applicable. PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1A joint venture that is a private company may elect to apply the accounting alternatives for the subsequent measurement of goodwill described in paragraphs 350-20-35-62 through 35-82.
+
+## 45 Other Presentation Matters
+
+**805-60-35-2** General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+
+### General
+
+**805-60-45-1** > Disclosure of Formation Date Balance Sheet PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1To satisfy the requirements in paragraph 805-60-50-2(e), a joint venture may, in lieu of disclosure in the notes to financial statements, present a statement of financial position as of the formation date that reflects the amounts recognized by the joint venture for each major class of assets and liabilities as a result of its formation.
+
+## 50 Disclosure
+
+**805-60-45-1** General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+
+### General
+
+**805-60-50-1** PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1A joint venture shall disclose information that enables users of its financial statements to understand the nature and financial effect of the joint venture formation in the period in which the formation date occurs.
+1. The formation date
+2. A description of the purpose for which the joint venture was formed (for example, to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities)
+3. The formation-date fair value of the joint venture as a whole
+4. A description of the assets and liabilities recognized by the joint venture at the formation date
+5. The amounts recognized by the joint venture for each major class of assets and liabilities as a result of accounting for its formation, either presented on the face of financial statements or disclosed in the notes to financial statements (see paragraph 805-60-45-1)
+6. A qualitative description of the factors that make up any goodwill recognized, such as expected synergies from combining operations of the contributed assets or businesses, intangible assets that do not qualify for separate recognition, or other factors.
+
+1. The formation date
+2. A description of the purpose for which the joint venture was formed (for example, to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities)
+3. The formation-date fair value of the joint venture as a whole
+4. A description of the assets and liabilities recognized by the joint venture at the formation date
+5. The amounts recognized by the joint venture for each major class of assets and liabilities as a result of accounting for its formation, either presented on the face of financial statements or disclosed in the notes to financial statements (see paragraph 805-60-45-1)
+6. A qualitative description of the factors that make up any goodwill recognized, such as expected synergies from combining operations of the contributed assets or businesses, intangible assets that do not qualify for separate recognition, or other factors.
+
+1. The reasons why the initial accounting is incomplete
+2. The assets, liabilities, noncontrolling interests, or the formation-date fair value of the joint venture as a whole for which the initial accounting is incomplete
+3. The nature and amount of any measurement period adjustments recognized during the reporting period, including separately the amount of adjustment to current-period income statement line items relating to the income effects that would have been recognized in previous periods if the adjustment to provisional amounts was recognized as of the formation date.
+
+1. The reasons why the initial accounting is incomplete
+2. The assets, liabilities, noncontrolling interests, or the formation-date fair value of the joint venture as a whole for which the initial accounting is incomplete
+3. The nature and amount of any measurement period adjustments recognized during the reporting period, including separately the amount of adjustment to current-period income statement line items relating to the income effects that would have been recognized in previous periods if the adjustment to provisional amounts was recognized as of the formation date.
+
+## 55 Implementation Guidance and Illustrations
+
+**805-60-50-3** General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+
+### General
+
+**805-60-55-1** PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 This Section is an integral part of the requirements of this Subtopic. This Section provides illustrations that address the general application of accounting requirements for joint venture formations.
+
+##### · > Example 1: Joint Venture Replacement        Share-Based Payment Employee Awards
+
+**805-60-55-2** PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 This Section is an integral part of the requirements of this Subtopic. This Section provides illustrations that address the general application of accounting requirements for joint venture formations. > Illustrations PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 On January 1, 20X0, a newly formed corporation with no assets or liabilities, New Venture, receives contributions of a controlling financial interest in Business A (90 percent voting interest) from Venturer 1 and Business B (100 percent voting interest) from Venturer 2 and, in exchange, issues 50 common shares to each Venturer 1 and Venturer 2. Assume that New Venture has no other classes of equity or any other equity instruments outstanding before receiving the contributions. It is determined that New Venture first met the definition of a joint venture on January 1, 20X0. New Venture determines January 1, 20X0, to be its formation date.
+**805-60-55-3** PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 On January 1, 20X0, a newly formed corporation with no assets or liabilities, New Venture, receives contributions of a controlling financial interest in Business A (90 percent voting interest) from Venturer 1 and Business B (100 percent voting interest) from Venturer 2 and, in exchange, issues 50 common shares to each Venturer 1 and Venturer 2. Assume that New Venture has no other classes of equity or any other equity instruments outstanding before receiving the contributions. It is determined that New Venture first met the definition of a joint venture on January 1, 20X0. New Venture determines January 1, 20X0, to be its formation date. PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 In accordance with paragraph 805-60-30-2, but before consideration of any liabilities for share-based payments, New Venture determines that the fair value of the joint venture as a whole is $100 million including a noncontrolling interest (10 percent voting interest) in Business A that is owned by an outside entity. It also determines, in accordance with paragraph 805-60-30-2, that the formation-date fair value of the identifiable assets is $120 million, the fair value of the liabilities is $40 million, and the fair value of the noncontrolling interest in Business A is $5 million.
+**805-60-55-4** PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 In accordance with paragraph 805-60-30-2, but before consideration of any liabilities for share-based payments, New Venture determines that the fair value of the joint venture as a whole is $100 million including a noncontrolling interest (10 percent voting interest) in Business A that is owned by an outside entity. It also determines, in accordance with paragraph 805-60-30-2, that the formation-date fair value of the identifiable assets is $120 million, the fair value of the liabilities is $40 million, and the fair value of the noncontrolling interest in Business A is $5 million. PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 Upon formation, New Venture exchanges replacement awards that require one year of postformation vesting for share-based payment awards of Business A for which employees had not yet rendered all of the required services as of the formation date. The fair-value-based measure of both awards (the original awards and the replacement awards) is $20 million at the formation date. When originally granted, the awards of the contributed business had a requisite service period of four years. As of the formation date, the contributed business’s employees had rendered two years’ service, and they would have been required to render two additional years of service after the formation date for their awards to vest. Accordingly, only a portion of the contributed business’s awards is attributable to preformation vesting.
+**805-60-55-5** PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 Upon formation, New Venture exchanges replacement awards that require one year of postformation vesting for share-based payment awards of Business A for which employees had not yet rendered all of the required services as of the formation date. The fair-value-based measure of both awards (the original awards and the replacement awards) is $20 million at the formation date. When originally granted, the awards of the contributed business had a requisite service period of four years. As of the formation date, the contributed business’s employees had rendered two years’ service, and they would have been required to render two additional years of service after the formation date for their awards to vest. Accordingly, only a portion of the contributed business’s awards is attributable to preformation vesting. PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 The replacement awards require only one year of postformation vesting. Because employees have already rendered two years of service, the total requisite service period is three years. For simplicity, assume that New Venture estimates that there will be no forfeitures of the replacement share-based payment awards. The portion attributable to preformation vesting equals the fair-value-based measure of the contributed business’s award ($20 million) multiplied by the ratio of the preformation vesting period (2 years) to the greater of the total service period (3 years) and the original service period of the contributed business’s award (4 years). Thus, $10 million ($20 million × 2 ÷ 4 years) is attributable to preformation vesting and, therefore, New Venture’s additional paid-in capital upon formation. The remaining $10 million is attributable to postformation vesting and therefore recognized as compensation cost in New Venture’s postformation financial statements in accordance with Topic 718 on stock compensation.
+**805-60-55-6** PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 The replacement awards require only one year of postformation vesting. Because employees have already rendered two years of service, the total requisite service period is three years. For simplicity, assume that New Venture estimates that there will be no forfeitures of the replacement share-based payment awards. The portion attributable to preformation vesting equals the fair-value-based measure of the contributed business’s award ($20 million) multiplied by the ratio of the preformation vesting period (2 years) to the greater of the total service period (3 years) and the original service period of the contributed business’s award (4 years). Thus, $10 million ($20 million × 2 ÷ 4 years) is attributable to preformation vesting and, therefore, New Venture’s additional paid-in capital upon formation. The remaining $10 million is attributable to postformation vesting and therefore recognized as compensation cost in New Venture’s postformation financial statements in accordance with Topic 718 on stock compensation. PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 New Venture applies the guidance in Topic 718 to determine whether the share-based payments should be classified as liabilities or equity.
+**805-60-55-7** PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 New Venture applies the guidance in Topic 718 to determine whether the share-based payments should be classified as liabilities or equity. · · > Case A: Joint Venture Replacement Share-Based Payment Employee Awards Are Liability Classified PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 If New Venture determines that the replacement share-based payment awards are classified as liabilities, then total liabilities will equal $50 million ($40 million + $10 million). For simplicity, when taking the share-based payment liabilities into account, the fair value of New Venture as a whole is $90 million ($100 million – $10 million).
+**805-60-55-8** PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 If New Venture determines that the replacement share-based payment awards are classified as liabilities, then total liabilities will equal $50 million ($40 million + $10 million). For simplicity, when taking the share-based payment liabilities into account, the fair value of New Venture as a whole is $90 million ($100 million – $10 million). PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 New Venture calculates goodwill as follows (in millions), consistent with the guidance in paragraph 805-60-30-2. The formation-date fair value of the joint venture as a whole is equal to the fair value of 100 percent of the joint venture’s equity (net assets) immediately following formation (including any noncontrolling interest in the net assets recognized by the joint venture).
+**805-60-55-8** PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 New Venture calculates goodwill as follows (in millions), consistent with the guidance in paragraph 805-60-30-2. The formation-date fair value of the joint venture as a whole is equal to the fair value of 100 percent of the joint venture’s equity (net assets) immediately following formation (including any noncontrolling interest in the net assets recognized by the joint venture).
+**805-60-55-9** PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 New Venture calculates additional paid-in capital as follows (in millions).
+**805-60-55-9** PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 New Venture calculates additional paid-in capital as follows (in millions).
+**805-60-55-10** PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 New Venture records the following entry at the formation date (in millions).
+**805-60-55-10** PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 New Venture records the following entry at the formation date (in millions).
+**805-60-55-11** · · > Case B: Joint Venture Replacement Share-Based Payment Employee Awards Are Equity Classified PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 If New Venture determines that the replacement share-based payment awards are classified as equity, then total liabilities will equal $40 million and the fair value of New Venture as a whole is $100 million.
+**805-60-55-12** PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 If New Venture determines that the replacement share-based payment awards are classified as equity, then total liabilities will equal $40 million and the fair value of New Venture as a whole is $100 million. PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 New Venture calculates goodwill as follows (in millions), consistent with the guidance in paragraph 805-60-30-2. The formation-date fair value of the joint venture as a whole is equal to the fair value of 100 percent of the joint venture’s equity (net assets) immediately following formation (including any noncontrolling interest in the net assets recognized by the joint venture).
+**805-60-55-12** PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 New Venture calculates goodwill as follows (in millions), consistent with the guidance in paragraph 805-60-30-2. The formation-date fair value of the joint venture as a whole is equal to the fair value of 100 percent of the joint venture’s equity (net assets) immediately following formation (including any noncontrolling interest in the net assets recognized by the joint venture).
+**805-60-55-13** PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 New Venture calculates additional paid-in capital, excluding additional paid-in capital attributable to share-based payments, as follows (in millions).
+**805-60-55-13** PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 New Venture calculates additional paid-in capital, excluding additional paid-in capital attributable to share-based payments, as follows (in millions).
+**805-60-55-14** PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 New Venture records the following entry at the formation date (in millions).
+**805-60-55-14** PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 New Venture records the following entry at the formation date (in millions).
+
+## 65 Transition and Open Effective Date Information
+
+General Note:The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
+
+### General
+
+**805-60-65-1** > Transition Related to Accounting Standards Update No. 2023-05, *Business Combinations—Joint Venture Formations (Subtopic 805-60): Recognition and Initial Measurement*
+Accounting Standards Update 2023-05
+1. All joint ventures with a formation date on or after January 1, 2025, shall apply the pending content that links to this paragraph. A joint venture with a formation date that occurs before the effective date need not apply the pending content that links to this paragraph to its formation transaction but has the option to apply the transition method described in (d) through (f).
+2. Early adoption of the pending content that links to this paragraph is permitted in any interim or annual period in which financial statements have not yet been issued (or made available for issuance). A joint venture that elects to early adopt may apply the pending content that links to this paragraph either prospectively or retrospectively.
+
+1. A joint venture with a formation date that occurs on or after the initial application date described in (e) shall apply the pending content that links to this paragraph prospectively to its formation transaction.
+1. Recognize the cumulative effect of initially applying the pending content that links to this paragraph as an adjustment to the opening balance of retained earnings (or other appropriate components of equity in the statement of financial position) at the initial application date.
+2. Apply any relevant guidance other than in this Subtopic (for example, for measuring identifiable assets, liabilities, and any noncontrolling interest in accordance with Subtopic 805-20) as it existed at the formation date. See (f) for guidance on the initial application date when applying the pending content that links to this paragraph retrospectively.
+
+3. The initial application date is the date that an entity first applies the pending content that links to this paragraph.
+4. If applying the pending content that links to this paragraph retrospectively in accordance with (d), the initial application date shall be the beginning of the earliest comparative period presented.
+
+1. An entity applying the pending content that links to this paragraph retrospectively in accordance with (d) shall provide the transition disclosures required by paragraphs 250-10-50-1 through 50-3 in the period that includes the initial application date.
+
+**805-60-65-1** Accounting Standards Update 2023-05
+The following represents the transition and effective date information related to Accounting Standards Update No. 2023-05, *Business Combinations—Joint Venture Formations (Subtopic 805-60): Recognition and Initial Measurement*:**Effective date and early adoption**
+1. All joint ventures with a formation date on or after January 1, 2025, shall apply the pending content that links to this paragraph. A joint venture with a formation date that occurs before the effective date need not apply the pending content that links to this paragraph to its formation transaction but has the option to apply the transition method described in (d) through (f).
+2. Early adoption of the pending content that links to this paragraph is permitted in any interim or annual period in which financial statements have not yet been issued (or made available for issuance). A joint venture that elects to early adopt may apply the pending content that links to this paragraph either prospectively or retrospectively.
+
+**Transition method and initial application date**
+1. A joint venture with a formation date that occurs on or after the initial application date described in (e) shall apply the pending content that links to this paragraph prospectively to its formation transaction.
+1. Recognize the cumulative effect of initially applying the pending content that links to this paragraph as an adjustment to the opening balance of retained earnings (or other appropriate components of equity in the statement of financial position) at the initial application date.
+2. Apply any relevant guidance other than in this Subtopic (for example, for measuring identifiable assets, liabilities, and any noncontrolling interest in accordance with Subtopic 805-20) as it existed at the formation date. See (f) for guidance on the initial application date when applying the pending content that links to this paragraph retrospectively.
+
+3. The initial application date is the date that an entity first applies the pending content that links to this paragraph.
+4. If applying the pending content that links to this paragraph retrospectively in accordance with (d), the initial application date shall be the beginning of the earliest comparative period presented.
+
+**Transition disclosures**
+1. An entity applying the pending content that links to this paragraph retrospectively in accordance with (d) shall provide the transition disclosures required by paragraphs 250-10-50-1 through 50-3 in the period that includes the initial application date.
