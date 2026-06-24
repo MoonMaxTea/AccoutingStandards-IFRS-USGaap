@@ -24,64 +24,115 @@ date: "2026-06-24"
 - **`returnByValue`**：设为 `false`（CDP 自动将大结果保存为日志文件）。
 - **并行限制**：见 [[#三、Cloudflare 应对]]。
 
-## 二、完整工作流程
+## 二、推荐工作流：子代理提取 + 主代理复核（2026-06-24 实战验证）
 
-### 阶段 1：浏览器提取 HTML（主要耗时）
+> **核心策略**：1 个 `browser-use` 子代理串行提取全部 Topic → 主代理批量 CDP 日志解析 → HTML→MD 转换 → SubTopic 质量复核 → 增量替换。**全流程约 40–60 分钟**。
 
-对每个 ASC Topic 编号 `{N}`：
+### 阶段 1：子代理批量提取（并行进行，不阻塞主代理）
 
-1. **导航**：`browser_navigate` → `https://asc.fasb.org/{N}/showallinonepage`
-2. **等待 SPA 渲染**：Angular SPA 需 10–25 秒加载，用 `time.sleep(25)` 等待
-3. **探测加载**：`browser_cdp` → `Runtime.evaluate`：
-   ```js
-   (() => { const t = document.title; const mc = document.querySelector('.main-content-container'); return JSON.stringify({title: t, mcLen: mc ? mc.outerHTML.length : 0}); })()
-   ```
-   若 `mcLen` 为 0 或标题不含 `Combine Sections`，再等 10 秒重试
-4. **提取**：`browser_cdp` → `Runtime.evaluate`（`returnByValue: false`）：
-   ```js
-   (() => { const mc = document.querySelector('.main-content-container'); return mc ? mc.outerHTML : 'ERROR'; })()
-   ```
-   CDP 自动将 >25KB 结果保存到 `~/.cursor/browser-logs/cdp-response-Runtime.evaluate-*.json`
-5. **保存**：
-   ```powershell
-   python .tmp/save_cdp.py {N} cdp-response-Runtime.evaluate-YYYY-MM-DDTHH-MM-SS.json
-   ```
-   脚本自动从 CDP 日志提取 `outerHTML`，包装为完整 HTML 文档并保存到 `.tmp/asc{N}_full.html` + 替换 `.tmp/asc{N}.html`
+启动 **单个** `browser-use` 子代理，传入完整 Topic 列表（最多 35 个），由它**串行** navigate → wait → CDP evaluate。
 
-### 阶段 2：从 CDP 日志提取 HTML
+**SubAgent Prompt 模板**：
 
-```powershell
-python .tmp/batch_extract.py
+```
+You are extracting HTML from FASB ASC Codification website.
+
+CRITICAL: Use the EXISTING browser tab. Do NOT create a new tab.
+List tabs first, use its viewId.
+
+For each topic {N} in [list all topic numbers with commas]:
+
+1. browser_navigate → https://asc.fasb.org/{N}/showallinonepage
+2. Shell sleep 25  (SPA render wait)
+3. browser_cdp → Runtime.evaluate, returnByValue: true:
+   (() => { const mc = document.querySelector('.main-content-container');
+    return JSON.stringify({title: document.title, mcLen: mc ? mc.outerHTML.length : 0}); })()
+   → If mcLen == 0 or title lacks "Combine Sections", wait 10s and retry
+4. browser_cdp → Runtime.evaluate, returnByValue: false:
+   (() => { const mc = document.querySelector('.main-content-container');
+    return mc ? mc.outerHTML : 'ERROR'; })()
+
+After ALL topics extracted, run batch save Python script (attached).
 ```
 
-该脚本扫描 `cdp-response-*.json`，提取 `innerHTML` 并包装为完整 HTML 文档保存到 `.tmp/asc{N}.html`。  
-**注意**：此脚本需手动编写或已内置在 Cursor 会话中。
+**关键参数**：
+- `run_in_background: true` — 不阻塞主代理
+- `subagent_type: browser-use` — 使用内置浏览器标签页（共享主会话）
+- **禁止**：同时启动多个 browser-use 子代理（见 [[#三、Cloudflare 应对]]）
+
+### 阶段 2：主代理批量 CDP 日志解析
+
+子代理完成后，所有 `outerHTML` 已保存为 CDP 日志（`~/.cursor/browser-logs/cdp-response-Runtime.evaluate-*.json`）。
+
+**取最优版**：CDP 日志可能有同一 Topic 的多个版本（部分渲染 vs 完全渲染），需选每个 Topic 的最大版本：
+
+```powershell
+python .tmp/save_best.py
+```
+
+此脚本：
+- 扫描所有 CDP 日志
+- 对每个 Topic 取 `paragraphId` 数最多且 `outerHTML` 最大的版本
+- 包装为完整 `<DOCTYPE html>`，保存到 `.tmp/asc{N}.html` + `asc{N}_full.html`
+- 输出每个 Topic 的大小和段落数摘要
+
+> `save_best.py` 在当前会话中按需编写，核心逻辑：遍历 CDP JSON → 取 `result.result.value` → 正则匹配 `{N}-{YY}-{ZZ}-{NNN}` 识别 Topic → 保留最大版。
 
 ### 阶段 3：批量转换 HTML → Markdown
 
 ```powershell
-python "03 - 知识库/US GAAP/batch_asc_convert.py"
+python .tmp/batch_convert_all.py
 ```
 
-此脚本：
-- 遍历 `.tmp/asc*.html`
-- 对每个 HTML 调用 `asc_html_to_md.py` 转换
-- 自动合并对应旧 MD 的 `frontmatter` 和 `## 📌 中文提炼`
-- 输出到 `.tmp/asc{N}_new.md`
+脚本遍历 `.tmp/asc{N}.html`，调用 `asc_html_to_md.py` 转换，仅当新 MD ≥ 旧 MD 95% 大小时替换（防止退化）。输出每 Topic 的 SubTopic 段落分布。
 
-### 阶段 4：替换旧文件
+**转换命令**：
+```
+asc_html_to_md.py <html_file> <existing_md> <output_md>
+```
+
+### 阶段 4：SubTopic 质量复核
+
+**4.1 快速扫描** — 识别仅有 SubTopic 10 的文件：
 
 ```powershell
-python .tmp/replace_asc_md.py
+python .tmp/scan_s_headers.py
 ```
 
-从 `.tmp/` 读取 `asc{N}_new.md`，替换 `ASC准则/` 下的旧 `.md`，旧文件备份为 `.md.bak`。
+逻辑：扫描 Markdown 中 `## S{YY}` 章节标记 vs 段落号 `{N}-{YY}-ZZ-NNN` 前缀。若文件有 `S20`/`S30` 等多章节但段落号全是 `{N}-10-XX-XX` → 标记为可疑。
+
+**4.2 浏览器核实** — 对可疑文件逐个在浏览器中确认：
+
+```js
+// CDP 探测
+(() => { const txt = document.body.innerText || ''; const st = {};
+  for (let i = 10; i <= 100; i += 5) {
+    const re = new RegExp('{N}-' + String(i).padStart(2,'0') + '-', 'g');
+    const m = txt.match(re); if (m && m.length > 0) st[i] = m.length;
+  }
+  return JSON.stringify({title: document.title, st: st}); })()
+```
+
+若浏览器显示多 SubTopic 但现有 HTML 中缺失 → 该 Topic 的旧 HTML 不完整，需从浏览器重新提取（重复阶段 1 单 Topic 流程）。
+
+**4.3 增量修复** — 对确认缺失的 Topic，逐 topic 重新提取→转换→替换。
 
 ### 阶段 5：清理
 
-- 删除 `ASC准则/` 下所有 `.md.bak` 备份文件
-- 删除 `.tmp/` 下所有 `.md` / `.py` / `.json` / `.js` 临时文件
-- **保留** `.tmp/*.html` 作为原始数据备份
+```powershell
+# 删除中间产物
+python -c "import os, glob, shutil; [os.remove(f) for f in glob.glob('.tmp/*.md')]"
+python -c "import os, glob; [os.remove(f) for f in glob.glob('.tmp/*_new.md')]"
+python -c "import os, glob; [os.remove(f) for f in glob.glob('.tmp/*.bak')]"
+
+# 删除 CDP 日志（HTML 已保存到 .tmp/）
+python -c "import os, glob; [os.remove(f) for f in glob.glob(os.path.expanduser('~/.cursor/browser-logs/cdp-response-*.json'))]"
+```
+
+**保留项**：
+- `.tmp/*.html` — HTML 原始数据备份（唯一真实来源，勿删）
+- `.tmp/save_cdp.py` / `save_best.py` — 可复用工具脚本
+- `03 - 知识库/US GAAP/asc_html_to_md.py` — 核心转换器
 
 ## 三、Cloudflare 应对
 
@@ -131,20 +182,18 @@ FASB 网站有 Cloudflare 保护，连续大量请求会触发验证：
 
 ## 五、结果统计
 
-## 五、结果统计
-
-### 2026-06-24 全量重新提取（第二次 — 修复 SubTopic 缺失）
+### 2026-06-24 第三次全量刷新（子代理提取 + 主代理复核）
 
 | 指标 | 数值 |
 |------|------|
 | 有效 ASC Topic | 88 |
-| 本次重新提取 Topic | 41（原仅含 SubTopic 10） |
-| HTML 提取完成 | 41 / 41 ✅ |
-| Markdown 转换完成 | 41 / 41 ✅ |
-| 改善后多 SubTopic 文件 | 39 / 41（vs 此前 23） |
-| 文件变更 | 41 files, +~800K / -~200K 行 |
-| 提取策略 | 主浏览器串行 + CDP 日志最佳选择 |
-| 关键改善示例 | ASC 326: 504KB, ASC 842: 895KB, ASC 310: 685KB |
+| 提取方式 | 1 个 browser-use 子代理串行提取 34 个 + 主代理串行提取 12 个 |
+| HTML 提取完成 | 87 / 87 ✅（ASC 410 无 HTML 源，保留旧版） |
+| Markdown 转换完成 | 87 / 87 ✅ |
+| 多 SubTopic 文件 | 41 |
+| 总段落数 | 51,426 |
+| 关键改善 | ASC 944 (+42x), ASC 815 (+4x), ASC 805 (+3x), ASC 718 (+90%) |
+| CDP 日志数 | 201 个（255 MB，清理后保留 HTML 备份） |
 | 解析器关键修复 | 自闭合标签堆栈泄漏 + `_in_article` 布尔逻辑 |
 
 ### 2026-06-10 初次提取（已覆盖）
@@ -153,12 +202,12 @@ FASB 网站有 Cloudflare 保护，连续大量请求会触发验证：
 |------|------|
 | 有效 ASC Topic | 88 |
 | HTML 提取完成 | 88 / 88 ✅ |
-| Markdown 转换完成 | 88 / 88 ✅ |
-| 已知缺陷 | 仅提取 SubTopic 10，缺失后续 SubTopic |
+| 已知缺陷 | 仅提取 SubTopic 10，缺失后续 SubTopic；HTML 在 SPA 未完全渲染时截断 |
 
 ## 六、相关链接
 
-- [[ASC Codification 导出指引]] — 旧版 `innerText` 导出方式（已弃用，仅供参考）
+- [[ASC Codification 导出指引]] — 旧版 `innerText` 导出方式（已弃用）
 - [[US GAAP 知识库总览]]
-- 转换脚本：[asc_html_to_md.py](asc_html_to_md.py)
-- 质量检查脚本：`.tmp/quality_check_v2.py` — 按 SubTopic 覆盖度 + 段落完整性评分
+- 核心转换：[`asc_html_to_md.py`](asc_html_to_md.py)
+- 提取脚本：[`.tmp/save_cdp.py`](../../.tmp/save_cdp.py) — 单文件 CDP → HTML
+- HTML 备份：[`.tmp/asc*.html`](../../.tmp/) — 87 个 Topic 原始数据
