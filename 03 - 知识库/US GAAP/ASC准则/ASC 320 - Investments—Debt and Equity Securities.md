@@ -13,7 +13,7 @@ subtopics: ["320-10"]
 
 ## 00 Status
 
-> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
 ### General
 
@@ -242,7 +242,7 @@ subtopics: ["320-10"]
 
 ## 05 Overview and Background
 
-> **General Note:** The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
 
 ### General
 
@@ -269,9 +269,9 @@ subtopics: ["320-10"]
 
 ## 15 Scope and Scope Exceptions
 
-> **General Note:** The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
 
-> **General Note:** General Note for Financial Instruments:Some of the items subject to the guidance in this Subtopic are financial instruments
+General Note for Financial Instruments:Some of the items subject to the guidance in this Subtopic are financial instruments
 
 ### General
 
@@ -328,9 +328,9 @@ For debt securities within its scope, Subtopic 310-20 provides incremental guida
 
 ## 20 Glossary
 
-> **General Note:** The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
 
-> **General Note:** General Note on Investments—Debt and Equity Securities:Upon the effective date of Accounting Standards Update No. 2016-01, the title of this Topic will change to Investments—Debt Securities
+General Note on Investments—Debt and Equity Securities:Upon the effective date of Accounting Standards Update No. 2016-01, the title of this Topic will change to Investments—Debt Securities
 
 ##### Amortized Cost Basis
 
@@ -534,9 +534,9 @@ Securities that are bought and held principally for the purpose of selling them 
 
 ## 25 Recognition
 
-> **General Note:** The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
 
-> **General Note:** General Note for Fair Value Option:Some of the items subject to the guidance in this Subtopic may qualify for application of the Fair Value Option Subsections of Subtopic 825-10. Those Subsections (see paragraph 825-10-05-5) address circumstances in which entities may choose, at specified election dates, to measure eligible items at fair value (the fair value option). See Section 825-10-15 for guidance on the scope of the Fair Value Option Subsections of the Financial Instruments Topic.
+General Note for Fair Value Option:Some of the items subject to the guidance in this Subtopic may qualify for application of the Fair Value Option Subsections of Subtopic 825-10. Those Subsections (see paragraph 825-10-05-5) address circumstances in which entities may choose, at specified election dates, to measure eligible items at fair value (the fair value option). See Section 825-10-15 for guidance on the scope of the Fair Value Option Subsections of the Financial Instruments Topic.
 
 ### General
 
@@ -688,7 +688,7 @@ If structured notes are acquired for the type of specified investment strategy d
 
 ## 30 Initial Measurement
 
-> **General Note:** The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
 
 ### General
 
@@ -703,7 +703,7 @@ If structured notes are acquired for the type of specified investment strategy d
 
 ## 35 Subsequent Measurement
 
-> **General Note:** The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
 
 ### General
 
@@ -926,7 +926,7 @@ This guidance does not address the issuer's accounting for structured note secur
 
 ## 40 Derecognition
 
-> **General Note:** The Derecognition Section provides guidance on determining whether and when an entity should remove an item from the financial statements. For example, the entity would derecognize an asset because it no longer has rights to the asset or it would derecognize a liability because it no longer has any obligation.
+General Note:The Derecognition Section provides guidance on determining whether and when an entity should remove an item from the financial statements. For example, the entity would derecognize an asset because it no longer has rights to the asset or it would derecognize a liability because it no longer has any obligation.
 
 ### General
 
@@ -945,7 +945,7 @@ are acquired for the type of specified investment strategy described in paragrap
 
 ## 45 Other Presentation Matters
 
-> **General Note:** The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
 
 ### General
 
@@ -1004,7 +1004,7 @@ This Subtopic does not require the presentation of individual amounts for the th
 
 ## 50 Disclosure
 
-> **General Note:** The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
 
 ### General
 
@@ -1013,8 +1013,10 @@ that is required to be presented in the financial statements.
 **320-10-50-1** This Section provides disclosure guidance on information about debt securities
 **320-10-50-1A** that is required to be presented in the financial statements.
 The disclosures in this Section are required for all interim and annual periods when complete sets of financial statements are provided by an entity. The disclosures in this Section are not required when an entity provides summarized interim financial information. The minimum disclosure requirements for summarized interim financial information issued by publicly traded entities are established in paragraph 270-10-50-1.
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1The disclosures in this Section are required for each interim and annual period.
 **320-10-50-1A** The disclosures in this Section are required for all interim and annual periods when complete sets of financial statements are provided by an entity. The disclosures in this Section are not required when an entity provides summarized interim financial information. The minimum disclosure requirements for summarized interim financial information issued by publicly traded entities are established in paragraph 270-10-50-1.
-**320-10-50-1B** (Shared) activity or business sector
+**320-10-50-1B** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1The disclosures in this Section are required for each interim and annual period.
+(Shared) activity or business sector
 2. Vintage
 3. Geographic concentration
 4. Credit quality
@@ -1034,6 +1036,13 @@ Amortized cost basis
 5. Total unrealized losses for securities with net losses in accumulated other comprehensive income
 6. Information about the contractual maturities of those securities as of the date of the most recent statement of financial position presented.
 
+1. Amortized cost basis
+2. Aggregate fair value
+3. Total allowance for credit losses
+4. Total unrealized gains for securities with net gains in accumulated other comprehensive income
+5. Total unrealized losses for securities with net losses in accumulated other comprehensive income
+6. Information about the contractual maturities of those securities as of the date of the most recent statement of financial position presented.
+
 **320-10-50-2** Amortized cost basis
 2. Aggregate fair value
 3. Total allowance for credit losses
@@ -1041,24 +1050,58 @@ Amortized cost basis
 5. Total unrealized losses for securities with net losses in accumulated other comprehensive income
 6. Information about the contractual maturities of those securities as of the date of the most recent statement of financial position presented.
 
-**320-10-50-2A** If for the purposes of identifying and measuring an impairment the applicable accrued interest is excluded from both the fair value and amortized cost basis of the available-for-sale debt security, an entity may, as a practical expedient, exclude the applicable accrued interest that is included in the amortized cost basis for the purposes of the disclosure requirements in paragraph 320-10-50-2. If an entity elects this practical expedient, it shall disclose the total amount of accrued interest, net of the allowance for credit losses (if any), excluded from the disclosed amortized cost basis.
-**320-10-50-2A** If for the purposes of identifying and measuring an impairment the applicable accrued interest is excluded from both the fair value and amortized cost basis of the available-for-sale debt security, an entity may, as a practical expedient, exclude the applicable accrued interest that is included in the amortized cost basis for the purposes of the disclosure requirements in paragraph 320-10-50-2. If an entity elects this practical expedient, it shall disclose the total amount of accrued interest, net of the allowance for credit losses (if any), excluded from the disclosed amortized cost basis.
-**320-10-50-3** Within 1 year
-2. After 1 year through 5 years
-3. After 5 years through 10 years
-4. After 10 years.
+1. Amortized cost basis
+2. Aggregate fair value
+3. Total allowance for credit losses
+4. Total unrealized gains for securities with net gains in accumulated other comprehensive income
+5. Total unrealized losses for securities with net losses in accumulated other comprehensive income
+6. Information about the contractual maturities of those securities as of the date of the most recent statement of financial position presented.
 
-**320-10-50-3** Securities not due at a single maturity date, such as mortgage-backed securities, may be disclosed separately rather than allocated over several maturity groupings; if allocated, the basis for allocation also shall be disclosed.
+**320-10-50-2A** If for the purposes of identifying and measuring an impairment the applicable accrued interest is excluded from both the fair value and amortized cost basis of the available-for-sale debt security, an entity may, as a practical expedient, exclude the applicable accrued interest that is included in the amortized cost basis for the purposes of the disclosure requirements in paragraph 320-10-50-2. If an entity elects this practical expedient, it shall disclose the total amount of accrued interest, net of the allowance for credit losses (if any), excluded from the disclosed amortized cost basis.
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1If for the purposes of identifying and measuring an impairment the applicable accrued interest is excluded from both the fair value and amortized cost basis of the available-for-sale debt security, an entity may, as a practical expedient, exclude the applicable accrued interest that is included in the amortized cost basis for the purposes of the disclosure requirements in paragraph 320-10-50-2. If an entity elects this practical expedient, it shall disclose the total amount of accrued interest, net of the allowance for credit losses (if any), excluded from the disclosed amortized cost basis in interim and annual reporting periods.
+**320-10-50-2A** If for the purposes of identifying and measuring an impairment the applicable accrued interest is excluded from both the fair value and amortized cost basis of the available-for-sale debt security, an entity may, as a practical expedient, exclude the applicable accrued interest that is included in the amortized cost basis for the purposes of the disclosure requirements in paragraph 320-10-50-2. If an entity elects this practical expedient, it shall disclose the total amount of accrued interest, net of the allowance for credit losses (if any), excluded from the disclosed amortized cost basis.
+**320-10-50-3** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1If for the purposes of identifying and measuring an impairment the applicable accrued interest is excluded from both the fair value and amortized cost basis of the available-for-sale debt security, an entity may, as a practical expedient, exclude the applicable accrued interest that is included in the amortized cost basis for the purposes of the disclosure requirements in paragraph 320-10-50-2. If an entity elects this practical expedient, it shall disclose the total amount of accrued interest, net of the allowance for credit losses (if any), excluded from the disclosed amortized cost basis in interim and annual reporting periods.
 Within 1 year
 2. After 1 year through 5 years
 3. After 5 years through 10 years
 4. After 10 years.
 
-**320-10-50-4** Securities not due at a single maturity date, such as mortgage-backed securities, may be disclosed separately rather than allocated over several maturity groupings; if allocated, the basis for allocation also shall be disclosed.
+1. Within 1 year
+2. After 1 year through 5 years
+3. After 5 years through 10 years
+4. After 10 years.
+
+Securities not due at a single maturity date, such as mortgage-backed securities, may be disclosed separately rather than allocated over several maturity groupings; if allocated, the basis for allocation also shall be disclosed in interim and annual reporting periods.
+**320-10-50-3** Within 1 year
+2. After 1 year through 5 years
+3. After 5 years through 10 years
+4. After 10 years.
+
+1. Within 1 year
+2. After 1 year through 5 years
+3. After 5 years through 10 years
+4. After 10 years.
+
+**320-10-50-4** Securities not due at a single maturity date, such as mortgage-backed securities, may be disclosed separately rather than allocated over several maturity groupings; if allocated, the basis for allocation also shall be disclosed in interim and annual reporting periods.
 Paragraph superseded by Accounting Standards Update No. 2016-01.
 **320-10-50-4** Paragraph superseded by Accounting Standards Update No. 2016-01.
 **320-10-50-5** > Securities Classified as Held to Maturity
 Amortized cost basis
+2. Subparagraph superseded by Accounting Standards Update No. 2019-04.
+3. Total allowance for credit losses
+4. Subparagraph superseded by Accounting Standards Update No. 2019-04.
+5. Subparagraph superseded by Accounting Standards Update No. 2019-04.
+6. Net carrying amount
+7. Subparagraph superseded by Accounting Standards Update No. 2016-13.
+8. Gross gains and losses in accumulated other comprehensive income for any derivatives that hedged the forecasted acquisition of the held-to-maturity securities
+1. Within one year
+2. After one year through five years
+3. After 5 years through 10 years
+4. After 10 years.
+
+4. Securities not due at a single maturity date, such as mortgage-backed securities, may be disclosed separately rather than allocated over several maturity groupings; if allocated, the basis for allocation also shall be disclosed.)
+
+1. Amortized cost basis
 2. Subparagraph superseded by Accounting Standards Update No. 2019-04.
 3. Total allowance for credit losses
 4. Subparagraph superseded by Accounting Standards Update No. 2019-04.
@@ -1088,12 +1131,35 @@ Amortized cost basis
 
 4. Securities not due at a single maturity date, such as mortgage-backed securities, may be disclosed separately rather than allocated over several maturity groupings; if allocated, the basis for allocation also shall be disclosed.)
 
+1. Amortized cost basis
+2. Subparagraph superseded by Accounting Standards Update No. 2019-04.
+3. Total allowance for credit losses
+4. Subparagraph superseded by Accounting Standards Update No. 2019-04.
+5. Subparagraph superseded by Accounting Standards Update No. 2019-04.
+6. Net carrying amount
+7. Subparagraph superseded by Accounting Standards Update No. 2016-13.
+8. Gross gains and losses in accumulated other comprehensive income for any derivatives that hedged the forecasted acquisition of the held-to-maturity securities
+1. Within one year
+2. After one year through five years
+3. After 5 years through 10 years
+4. After 10 years.
+
+4. Securities not due at a single maturity date, such as mortgage-backed securities, may be disclosed separately rather than allocated over several maturity groupings; if allocated, the basis for allocation also shall be disclosed.)
+
 **320-10-50-5A** A public business entity
 1. Aggregate fair value
 2. Gross unrecognized holding gains
 3. Gross unrecognized holding losses.
 
+1. Aggregate fair value
+2. Gross unrecognized holding gains
+3. Gross unrecognized holding losses.
+
 **320-10-50-5A** A public business entity
+1. Aggregate fair value
+2. Gross unrecognized holding gains
+3. Gross unrecognized holding losses.
+
 1. Aggregate fair value
 2. Gross unrecognized holding gains
 3. Gross unrecognized holding losses.
@@ -1103,16 +1169,28 @@ Amortized cost basis
 3. After 5 years through 10 years
 4. After 10 years.
 
-**320-10-50-5B** Securities not due at a single maturity date, such as mortgage-backed securities, may be disclosed separately rather than allocated over several maturity groupings; if allocated, the basis for allocation also shall be disclosed.
-Within 1 year
+1. Within 1 year
 2. After 1 year through 5 years
 3. After 5 years through 10 years
 4. After 10 years.
 
-**320-10-50-5C** Securities not due at a single maturity date, such as mortgage-backed securities, may be disclosed separately rather than allocated over several maturity groupings; if allocated, the basis for allocation also shall be disclosed.
+Securities not due at a single maturity date, such as mortgage-backed securities, may be disclosed separately rather than allocated over several maturity groupings; if allocated, the basis for allocation also shall be disclosed in interim and annual reporting periods.
+**320-10-50-5B** Within 1 year
+2. After 1 year through 5 years
+3. After 5 years through 10 years
+4. After 10 years.
+
+1. Within 1 year
+2. After 1 year through 5 years
+3. After 5 years through 10 years
+4. After 10 years.
+
+**320-10-50-5C** Securities not due at a single maturity date, such as mortgage-backed securities, may be disclosed separately rather than allocated over several maturity groupings; if allocated, the basis for allocation also shall be disclosed in interim and annual reporting periods.
 If for the purposes of identifying and measuring an impairment the applicable accrued interest is excluded from the amortized cost basis of held-to-maturity securities, an entity may, as a practical expedient, exclude the accrued interest receivable balance that is included in the amortized cost basis of the held-to-maturity securities for the purposes of the disclosure requirements in paragraph 320-10-50-5. If an entity applies this practical expedient, it shall disclose the total amount of accrued interest, net of the allowance for credit losses (if any), excluded from the disclosed amortized cost basis.
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1If for the purposes of identifying and measuring an impairment the applicable accrued interest is excluded from the amortized cost basis of held-to-maturity securities, an entity may, as a practical expedient, exclude the accrued interest receivable balance that is included in the amortized cost basis of the held-to-maturity securities for the purposes of the disclosure requirements in paragraph 320-10-50-5. If an entity applies this practical expedient, it shall disclose the total amount of accrued interest, net of the allowance for credit losses (if any), excluded from the disclosed amortized cost basis in interim and annual reporting periods.
 **320-10-50-5C** If for the purposes of identifying and measuring an impairment the applicable accrued interest is excluded from the amortized cost basis of held-to-maturity securities, an entity may, as a practical expedient, exclude the accrued interest receivable balance that is included in the amortized cost basis of the held-to-maturity securities for the purposes of the disclosure requirements in paragraph 320-10-50-5. If an entity applies this practical expedient, it shall disclose the total amount of accrued interest, net of the allowance for credit losses (if any), excluded from the disclosed amortized cost basis.
-**320-10-50-6** Paragraph superseded by Accounting Standards Update No. 2016-13.
+**320-10-50-6** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1If for the purposes of identifying and measuring an impairment the applicable accrued interest is excluded from the amortized cost basis of held-to-maturity securities, an entity may, as a practical expedient, exclude the accrued interest receivable balance that is included in the amortized cost basis of the held-to-maturity securities for the purposes of the disclosure requirements in paragraph 320-10-50-5. If an entity applies this practical expedient, it shall disclose the total amount of accrued interest, net of the allowance for credit losses (if any), excluded from the disclosed amortized cost basis in interim and annual reporting periods.
+Paragraph superseded by Accounting Standards Update No. 2016-13.
 **320-10-50-6** Paragraph superseded by Accounting Standards Update No. 2016-13.
 **320-10-50-7** Paragraph superseded by Accounting Standards Update No. 2016-13.
 **320-10-50-7** Paragraph superseded by Accounting Standards Update No. 2016-13.
@@ -1130,8 +1208,20 @@ The proceeds from sales of available-for-sale securities
 4. The amount of the net unrealized holding gain or loss on available-for-sale securities for the period that has been included in accumulated other comprehensive income and the amount of gains and losses reclassified out of accumulated other comprehensive income into earnings for the period
 5. The portion of trading gains and losses for the period that relates to trading securities still held at the reporting date.
 
+1. The proceeds from sales of available-for-sale securities and the gross realized gains and gross realized losses that have been included in earnings as a result of those sales
+2. The basis on which the cost of a security sold or the amount reclassified out of accumulated other comprehensive income into earnings was determined (that is, specific identification, average cost, or other method used)
+3. The gross gains and gross losses included in earnings from transfers of securities from the available-for-sale category into the trading category
+4. The amount of the net unrealized holding gain or loss on available-for-sale securities for the period that has been included in accumulated other comprehensive income and the amount of gains and losses reclassified out of accumulated other comprehensive income into earnings for the period
+5. The portion of trading gains and losses for the period that relates to trading securities still held at the reporting date.
+
 **320-10-50-9** The proceeds from sales of available-for-sale securities
 1. and the gross realized gains and gross realized losses that have been included in earnings as a result of those sales
+2. The basis on which the cost of a security sold or the amount reclassified out of accumulated other comprehensive income into earnings was determined (that is, specific identification, average cost, or other method used)
+3. The gross gains and gross losses included in earnings from transfers of securities from the available-for-sale category into the trading category
+4. The amount of the net unrealized holding gain or loss on available-for-sale securities for the period that has been included in accumulated other comprehensive income and the amount of gains and losses reclassified out of accumulated other comprehensive income into earnings for the period
+5. The portion of trading gains and losses for the period that relates to trading securities still held at the reporting date.
+
+1. The proceeds from sales of available-for-sale securities and the gross realized gains and gross realized losses that have been included in earnings as a result of those sales
 2. The basis on which the cost of a security sold or the amount reclassified out of accumulated other comprehensive income into earnings was determined (that is, specific identification, average cost, or other method used)
 3. The gross gains and gross losses included in earnings from transfers of securities from the available-for-sale category into the trading category
 4. The amount of the net unrealized holding gain or loss on available-for-sale securities for the period that has been included in accumulated other comprehensive income and the amount of gains and losses reclassified out of accumulated other comprehensive income into earnings for the period
@@ -1142,7 +1232,17 @@ The proceeds from sales of available-for-sale securities
 3. The related realized or unrealized gain or loss
 4. The circumstances leading to the decision to sell or transfer the security. (Such sales or transfers should be rare, except for sales and transfers due to the changes in circumstances identified in paragraph 320-10-25-6(a) through (f).)
 
+1. The net carrying amount of the sold or transferred security
+2. The net gain or loss in accumulated other comprehensive income for any derivative that hedged the forecasted acquisition of the held-to-maturity security
+3. The related realized or unrealized gain or loss
+4. The circumstances leading to the decision to sell or transfer the security. (Such sales or transfers should be rare, except for sales and transfers due to the changes in circumstances identified in paragraph 320-10-25-6(a) through (f).)
+
 **320-10-50-10** The net carrying amount of the sold or transferred security
+2. The net gain or loss in accumulated other comprehensive income for any derivative that hedged the forecasted acquisition of the held-to-maturity security
+3. The related realized or unrealized gain or loss
+4. The circumstances leading to the decision to sell or transfer the security. (Such sales or transfers should be rare, except for sales and transfers due to the changes in circumstances identified in paragraph 320-10-25-6(a) through (f).)
+
+1. The net carrying amount of the sold or transferred security
 2. The net gain or loss in accumulated other comprehensive income for any derivative that hedged the forecasted acquisition of the held-to-maturity security
 3. The related realized or unrealized gain or loss
 4. The circumstances leading to the decision to sell or transfer the security. (Such sales or transfers should be rare, except for sales and transfers due to the changes in circumstances identified in paragraph 320-10-25-6(a) through (f).)
@@ -1158,7 +1258,7 @@ The proceeds from sales of available-for-sale securities
 
 ## 55 Implementation Guidance and Illustrations
 
-> **General Note:** The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
 
 ### General
 
@@ -1318,8 +1418,8 @@ This Example illustrates the guidance in paragraphs 320-10-35-38 through 35-43
 **320-10-55-20** This Example illustrates the guidance in paragraphs 320-10-25-19 through 25-20
 . An entity purchases two separate structured notes with opposite interest rate characteristics. The terms of the bonds are described below.
 **320-10-55-20** This Example illustrates the guidance in paragraphs 320-10-25-19 through 25-20
-**320-10-55-21** . An entity purchases two separate structured notes with opposite interest rate characteristics. The terms of the bonds are described below.
-If accounted for as separate instruments, the entity could classify the bonds as available-for-sale. (Note that these securities would have to be accounted for as a unit rather than as separate instruments.) After the interest rates on the bonds reset, the entity will sell the bond that is in a loss position recognizing a loss in earnings of $475 million (assuming that the current interest rate is 8 percent). The bond that is in a gain position will have a $475 million unrealized gain in other comprehensive income that will be recognized in earnings as a yield adjustment over the remaining 10-year life of the instrument (assuming no further changes in value).
+. An entity purchases two separate structured notes with opposite interest rate characteristics. The terms of the bonds are described below.
+**320-10-55-21** If accounted for as separate instruments, the entity could classify the bonds as available-for-sale. (Note that these securities would have to be accounted for as a unit rather than as separate instruments.) After the interest rates on the bonds reset, the entity will sell the bond that is in a loss position recognizing a loss in earnings of $475 million (assuming that the current interest rate is 8 percent). The bond that is in a gain position will have a $475 million unrealized gain in other comprehensive income that will be recognized in earnings as a yield adjustment over the remaining 10-year life of the instrument (assuming no further changes in value).
 **320-10-55-21** If accounted for as separate instruments, the entity could classify the bonds as available-for-sale. (Note that these securities would have to be accounted for as a unit rather than as separate instruments.) After the interest rates on the bonds reset, the entity will sell the bond that is in a loss position recognizing a loss in earnings of $475 million (assuming that the current interest rate is 8 percent). The bond that is in a gain position will have a $475 million unrealized gain in other comprehensive income that will be recognized in earnings as a yield adjustment over the remaining 10-year life of the instrument (assuming no further changes in value).
 **320-10-55-21A** Paragraph superseded by Accounting Standards Update No. 2016-13.
 **320-10-55-21A** Paragraph superseded by Accounting Standards Update No. 2016-13.
@@ -1338,7 +1438,7 @@ at the date of transfer be amortized in a manner consistent with any premium or 
 
 ## 65 Transition and Open Effective Date Information
 
-> **General Note:** The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
+General Note:The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
 
 ### General
 
@@ -1347,7 +1447,7 @@ at the date of transfer be amortized in a manner consistent with any premium or 
 
 ## S00 Status
 
-> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
 ### General
 
@@ -1375,7 +1475,7 @@ at the date of transfer be amortized in a manner consistent with any premium or 
 
 ## S35 Subsequent Measurement
 
-> **General Note:** The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
 
 ### General
 
@@ -1385,7 +1485,7 @@ See paragraph 320-10-S99-2, SEC Staff Announcement: Adjustments in Assets and Li
 
 ## S50 Disclosure
 
-> **General Note:** The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
 
 ### General
 
@@ -1398,7 +1498,7 @@ See paragraph 210-10-S99-1, Regulation S-X Rule 5-02.12, for disclosure requirem
 
 ## S55 Implementation Guidance and Illustrations
 
-> **General Note:** The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
 
 ### General
 
@@ -1408,7 +1508,7 @@ Paragraph superseded by Accounting Standards Update No. 2018-04.
 
 ## S99 SEC Materials
 
-> **General Note:** As more fully described in *About the Codification*, the Codification includes selected SEC and SEC Staff content for reference by public companies. The Codification does not replace or affect how the SEC or SEC Staff issues or updates SEC content. SEC Staff content does not constitute Commission-approved rules or interpretations of the SEC.
+General Note:As more fully described in *About the Codification*, the Codification includes selected SEC and SEC Staff content for reference by public companies. The Codification does not replace or affect how the SEC or SEC Staff issues or updates SEC content. SEC Staff content does not constitute Commission-approved rules or interpretations of the SEC.
 
 ### General
 
@@ -1421,4 +1521,7 @@ Paragraph superseded by Accounting Standards Update No. 2018-04.
 The following is the text of SEC Staff Announcement: Adjustments in Assets and Liabilities for Holding Gains and Losses as Related to the Implementation of Subtopic 320-10.The SEC staff has been asked whether certain assets and liabilities, such as noncontrolling interests, certain life insurance policyholder liabilities, deferred acquisition costs, and intangible assets arising from insurance contracts acquired in business combinations, should be adjusted with a corresponding adjustment to other comprehensive income at the same time unrealized holding gains and losses from securities classified as available-for-sale are recognized in other comprehensive income. That is, should the carrying value of these assets and liabilities be adjusted to the amount that would have been reported had unrealized gains and losses been realized?
 Paragraph 740-20-45-11(b) addresses specifically the classification of the deferred tax effects of unrealized holding gains and losses reported in other comprehensive income. Paragraph 740-20-45-11(b) requires that the tax effects of those gains and losses be reported as charges or credits directly to other comprehensive income. That is, the recognition of unrealized holding gains and losses in equity may create temporary differences for which deferred taxes would be recognized, the effect of which would be reported in accumulated other comprehensive income along with the related unrealized holding gains and losses. Therefore, deferred tax assets and liabilities are required to be recognized for the temporary differences relating to unrealized holding gains and losses as though those gains and losses actually had been realized, except the corresponding charges or credits are reported in other comprehensive income rather than as charges or credits to income in the statement of income. By analogy to paragraph 740-20-45-11(b), the SEC staff believes that, in addition to adjusting deferred tax assets and liabilities, registrants should adjust other assets and liabilities that would have been adjusted if the unrealized holding gains and losses from securities classified as available-for-sale actually had been realized. That is, to the extent that unrealized holding gains or losses from securities classified as available-for-sale would result in adjustments of noncontrolling interest, policyholder liabilities, deferred acquisition costs that are amortized using the gross-profits method, or intangible assets arising from insurance contracts acquired in business combinations that are amortized using the gross-profits method had those gains or losses actually been realized, the SEC staff believes that those balance sheet amounts should be adjusted with corresponding credits or charges reported directly to other comprehensive income. As a practical matter, the staff, at this time, would not extend those adjustments to other accounts such as liabilities for compensation to employees. The adjustments to asset accounts should be accomplished by way of valuation allowances that would be adjusted at subsequent balance sheet dates. For example, certain policyholder liabilities should be adjusted to the extent that liabilities exist for insurance policies that, by contract, credit or charge the policyholders for either a portion or all of the realized gains or losses of specific securities classified as available-for-sale. Further, asset amounts that are amortized using the gross-profits method, such as deferred acquisition costs accounted for under paragraphs 944-30-35-4 and 944-30-35-11 and certain intangible assets arising from insurance contracts acquired in business combinations, should be adjusted to reflect the effects that would have been recognized had the unrealized holding gains and losses actually been realized. Further, capitalized acquisition costs associated with insurance contracts covered by paragraphs 944-30-35-1A through 35-3A and 944-30-35-17 should not be adjusted for an unrealized holding gain or loss unless a "premium deficiency" would have resulted had the gain or loss actually been realized. This announcement should not affect reported net income. It addresses only the adjustment of certain assets and liabilities and the reporting of unrealized holding gains and losses from securities classified as available for sale.
 **320-10-S99-2** The following is the text of SEC Staff Announcement: Adjustments in Assets and Liabilities for Holding Gains and Losses as Related to the Implementation of Subtopic 320-10.The SEC staff has been asked whether certain assets and liabilities, such as noncontrolling interests, certain life insurance policyholder liabilities, deferred acquisition costs, and intangible assets arising from insurance contracts acquired in business combinations, should be adjusted with a corresponding adjustment to other comprehensive income at the same time unrealized holding gains and losses from securities classified as available-for-sale are recognized in other comprehensive income. That is, should the carrying value of these assets and liabilities be adjusted to the amount that would have been reported had unrealized gains and losses been realized?
-Paragraph 740-20-45-11(b) addresses specifically the classification of the deferred tax effects of unrealized holding gains and losses reported in other comprehensive income. Paragraph 740-20-45-11(b) requires that the tax effects of those gains and losses be reported as charges or credits directly to other comprehensive income. That is, the recognition of unrealized holding gains and losses in equity may create temporary differences for which deferred taxes would be recognized, the effect of which would be reported in accumulated other comprehensive income along with the related unrealized holding gains and losses. Therefore, deferred tax assets and liabilities are required to be recognized for the temporary differences relating to unrealized holding gains and losses as though those gains and losses actually had been realized, except the corresponding charges or credits are reported in other comprehensive income rather than as charges or credits to income in the statement of income. By analogy to paragraph 740-20-45-11(b), the SEC staff believes that, in addition to adjusting deferred tax assets and liabilities, registrants should adjust other assets and liabilities that would have been adjusted if the unrealized holding gains and losses from securities classified as available-for-sale actually had been realized. That is, to the extent that unrealized holding gains or losses from securities classified as available-for-sale would result in adjustments of noncontrolling interest, policyholder liabilities, deferred acquisition costs that are amortized using the gross-profits method, or intangible assets arising from insurance contracts acquired in business combinations that are amortized using the gross-profits method had those gains or losses actually been realized, the SEC staff believes that those balance sheet amounts should be adjusted with corresponding credits or charges reported directly to other comprehensive income. As a practical matter, the staff, at this time, would not extend those adjustments to other accounts such as liabilities for compensation to employees. The adjustments to asset accounts should be accomplished by way of valuation allowances that would be adjusted at subsequent balance sheet dates. For example, certain policyholder liabilities should be adjusted to the extent that liabilities exist for insurance policies that, by contract, credit or charge the policyholders for either a portion or all of the realized gains or losses of specific securities classified as available-for-sale. Further, asset amounts that are amortized using the gross-profits method, such as deferred acquisition costs accounted for under paragraphs 944-30-35-4 and 944-30-35-11 and certain intangible assets arising from insurance contracts acquired in business combinations, should be adjusted to reflect the effects that would have been recognized had the unrealized holding gains and losses actually been realized. Further, capitalized acquisition costs associated with insurance contracts covered by paragraphs 944-30-35-1A through 35-3A and 944-30-35-17 should not be adjusted for an unrealized holding gain or loss unless a "premium deficiency" would have resulted had the gain or loss actually been realized. This announcement should not affect reported net income. It addresses only the adjustment of certain assets and liabilities and the reporting of unrealized holding gains and losses from securities classified as available for sale.
+Paragraph 740-20-45-11(b) addresses specifically the classification of the deferred tax effects of unrealized holding gains and losses reported in other comprehensive income. Paragraph 740-20-45-11(b) requires that the tax effects of those gains and losses be reported as charges or credits directly to other comprehensive income. That is, the recognition of unrealized holding gains and losses in equity may create temporary differences for which deferred taxes would be recognized, the effect of which would be reported in accumulated other comprehensive income along with the related unrealized holding gains and losses. Therefore, deferred tax assets and liabilities are required to be recognized for the temporary differences relating to unrealized holding gains and losses as though those gains and losses actually had been realized, except the corresponding charges or credits are reported in other comprehensive income rather than as charges or credits to income in the statement of income.
+By analogy to paragraph 740-20-45-11(b), the SEC staff believes that, in addition to adjusting deferred tax assets and liabilities, registrants should adjust other assets and liabilities that would have been adjusted if the unrealized holding gains and losses from securities classified as available-for-sale actually had been realized. That is, to the extent that unrealized holding gains or losses from securities classified as available-for-sale would result in adjustments of noncontrolling interest, policyholder liabilities, deferred acquisition costs that are amortized using the gross-profits method, or intangible assets arising from insurance contracts acquired in business combinations that are amortized using the gross-profits method had those gains or losses actually been realized, the SEC staff believes that those balance sheet amounts should be adjusted with corresponding credits or charges reported directly to other comprehensive income. As a practical matter, the staff, at this time, would not extend those adjustments to other accounts such as liabilities for compensation to employees. The adjustments to asset accounts should be accomplished by way of valuation allowances that would be adjusted at subsequent balance sheet dates.
+For example, certain policyholder liabilities should be adjusted to the extent that liabilities exist for insurance policies that, by contract, credit or charge the policyholders for either a portion or all of the realized gains or losses of specific securities classified as available-for-sale. Further, asset amounts that are amortized using the gross-profits method, such as deferred acquisition costs accounted for under paragraphs 944-30-35-4 and 944-30-35-11 and certain intangible assets arising from insurance contracts acquired in business combinations, should be adjusted to reflect the effects that would have been recognized had the unrealized holding gains and losses actually been realized. Further, capitalized acquisition costs associated with insurance contracts covered by paragraphs 944-30-35-1A through 35-3A and 944-30-35-17 should not be adjusted for an unrealized holding gain or loss unless a "premium deficiency" would have resulted had the gain or loss actually been realized.
+This announcement should not affect reported net income. It addresses only the adjustment of certain assets and liabilities and the reporting of unrealized holding gains and losses from securities classified as available for sale.

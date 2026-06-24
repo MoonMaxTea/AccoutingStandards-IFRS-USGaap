@@ -13,7 +13,7 @@ subtopics: ["922-10"]
 
 ## 00 Status
 
-> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
 ### General
 
@@ -35,7 +35,7 @@ subtopics: ["922-10"]
 
 ## 05 Overview and Background
 
-> **General Note:** The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
 
 ### General
 
@@ -59,9 +59,9 @@ subtopics: ["922-10"]
 
 ## 15 Scope and Scope Exceptions
 
-> **General Note:** The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
 
-> **General Note:** General Note for Financial Instruments:Some of the items subject to the guidance in this Subtopic are financial instruments
+General Note for Financial Instruments:Some of the items subject to the guidance in this Subtopic are financial instruments
 
 ### General
 

@@ -13,7 +13,7 @@ subtopics: ["855-10"]
 
 ## 00 Status
 
-> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
 ### General
 
@@ -64,7 +64,7 @@ subtopics: ["855-10"]
 
 ## 05 Overview and Background
 
-> **General Note:** The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
 
 ### General
 
@@ -83,11 +83,11 @@ Paragraph not used.
 
 ## 15 Scope and Scope Exceptions
 
-> **General Note:** The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
 
 ### General
 
-**855-10-15-1** > Overall Guidance
+**855-10-15-1** Related Proposed ASUs > Overall Guidance
 The Scope Section of the Overall Subtopic establishes the pervasive scope for the Subsequent Events Topic.
 **855-10-15-1** The Scope Section of the Overall Subtopic establishes the pervasive scope for the Subsequent Events Topic.
 **855-10-15-2** > Entities
@@ -110,7 +110,7 @@ Other Topics may address the accounting treatment of events or transactions that
 
 ## 20 Glossary
 
-> **General Note:** The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
 
 ##### Conduit Debt Securities
 
@@ -157,7 +157,7 @@ The first type consists of events or transactions that provide additional eviden
 
 ## 25 Recognition
 
-> **General Note:** The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
 
 ### General
 
@@ -194,7 +194,7 @@ An entity may need to reissue financial statements, for example, in reports file
 
 ## 45 Other Presentation Matters
 
-> **General Note:** The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
 
 ### General
 
@@ -204,7 +204,7 @@ As indicated in paragraph 855-10-50-3, in some situations, an entity also shall 
 
 ## 50 Disclosure
 
-> **General Note:** The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
 
 ### General
 
@@ -242,7 +242,7 @@ Unless the entity is an SEC filer, an entity shall disclose in the revised finan
 
 ## 55 Implementation Guidance and Illustrations
 
-> **General Note:** The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
 
 ### General
 
@@ -277,11 +277,11 @@ The following are examples of recognized subsequent events
 
 ## 60 Relationships
 
-> **General Note:** The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
+General Note:The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
 
 ### General
 
-**855-10-60-1** > Property, Plant, and Equipment
+**855-10-60-1** Related Proposed ASUs > Property, Plant, and Equipment
 For guidance on the classification of a long-lived asset to be sold when held-for-sale criteria are met after the balance sheet date but before the financial statements are issued
 or are available to be issued (as discussed in Section 855-10-25), see paragraph 360-10-45-13.
 **855-10-60-1** For guidance on the classification of a long-lived asset to be sold when held-for-sale criteria are met after the balance sheet date but before the financial statements are issued
@@ -295,7 +295,7 @@ For guidance on accounting and disclosure when an election to change an entity's
 
 ## 65 Transition and Open Effective Date Information
 
-> **General Note:** The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
+General Note:The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
 
 ### General
 
@@ -304,7 +304,7 @@ For guidance on accounting and disclosure when an election to change an entity's
 
 ## S00 Status
 
-> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
 ### General
 
@@ -324,7 +324,7 @@ For guidance on accounting and disclosure when an election to change an entity's
 
 ## S20 Glossary
 
-> **General Note:** The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
 
 ##### Issuance of Financial Statements
 
@@ -332,7 +332,7 @@ See paragraph 855-10-S99-2, SEC Staff Announcement: Issuance of Financial Statem
 
 ## S25 Recognition
 
-> **General Note:** The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
 
 ### General
 
@@ -346,7 +346,7 @@ See paragraph 855-10-S99-1, SAB Topic 1.B.3, for SEC Staff views on the recognit
 
 ## S50 Disclosure
 
-> **General Note:** The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
 
 ### General
 
@@ -356,7 +356,7 @@ See paragraph 855-10-S99-1, SAB Topic 1.B.3, for SEC Staff views on disclosure o
 
 ## S99 SEC Materials
 
-> **General Note:** As more fully described in *About the Codification*, the Codification includes selected SEC and SEC Staff content for reference by public companies. The Codification does not replace or affect how the SEC or SEC Staff issues or updates SEC content. SEC Staff content does not constitute Commission-approved rules or interpretations of the SEC.
+General Note:As more fully described in *About the Codification*, the Codification includes selected SEC and SEC Staff content for reference by public companies. The Codification does not replace or affect how the SEC or SEC Staff issues or updates SEC content. SEC Staff content does not constitute Commission-approved rules or interpretations of the SEC.
 
 ### General
 

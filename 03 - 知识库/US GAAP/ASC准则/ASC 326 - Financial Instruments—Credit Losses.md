@@ -14,7 +14,7 @@ key: true
 
 ## 00 Status
 
-> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
 ### General
 
@@ -105,7 +105,7 @@ key: true
 
 ## 05 Overview and Background
 
-> **General Note:** The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
 
 ### General
 
@@ -121,7 +121,7 @@ key: true
 
 ## 15 Scope and Scope Exceptions
 
-> **General Note:** The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
 
 ### General
 
@@ -131,7 +131,7 @@ The guidance in this Subtopic applies to all entities.
 
 ## 20 Glossary
 
-> **General Note:** The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
 
 ##### Amortized Cost Basis
 
@@ -259,7 +259,7 @@ A restructuring of a debt constitutes a troubled debt restructuring if the credi
 
 ## 65 Transition and Open Effective Date Information
 
-> **General Note:** The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
+General Note:The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
 
 ### General
 

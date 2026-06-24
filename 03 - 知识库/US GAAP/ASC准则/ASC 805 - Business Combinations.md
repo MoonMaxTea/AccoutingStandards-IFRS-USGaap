@@ -14,7 +14,7 @@ key: true
 
 ## 00 Status
 
-> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
 ### General
 
@@ -186,7 +186,7 @@ key: true
 
 ## 05 Overview and Background
 
-> **General Note:** The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
 
 ### General
 
@@ -198,6 +198,14 @@ The Business Combinations Topic provides guidance on the accounting and reportin
 5. Related Issues
 6. Income Taxes.
 
+1. Overall
+2. Identifiable Assets and Liabilities, and Any Noncontrolling Interest
+3. Goodwill or Gain from Bargain Purchase, Including Consideration Transferred
+4. Reverse Acquisitions
+5. Related Issues
+6. Income Taxes
+7. Joint Venture Formations.
+
 The Business Combinations Topic provides guidance on the accounting and reporting for transactions that represent business combinations
 1. Overall
 2. Identifiable Assets and Liabilities, and Any Noncontrolling Interest
@@ -205,6 +213,14 @@ The Business Combinations Topic provides guidance on the accounting and reportin
 4. Reverse Acquisitions
 5. Related Issues
 6. Income Taxes.
+
+1. Overall
+2. Identifiable Assets and Liabilities, and Any Noncontrolling Interest
+3. Goodwill or Gain from Bargain Purchase, Including Consideration Transferred
+4. Reverse Acquisitions
+5. Related Issues
+6. Income Taxes
+7. Joint Venture Formations.
 
 To accomplish the objective identified in paragraph 805-10-10-1, this Topic establishes principles and requirements for how the acquirer
 1. Recognizes and measures in its financial statements the identifiable assets acquired, the liabilities assumed, and any noncontrolling interest in the acquiree
@@ -243,7 +259,7 @@ Paragraphs presented in bold type in this Topic state the main principles. All p
 
 ## 10 Objectives
 
-> **General Note:** The Objectives Section provides the high-level objectives that the Subtopic is intended to accomplish or attain. The Section does not summarize or discuss the main principles of accounting and reporting requirements.
+General Note:The Objectives Section provides the high-level objectives that the Subtopic is intended to accomplish or attain. The Section does not summarize or discuss the main principles of accounting and reporting requirements.
 
 ### General
 
@@ -253,14 +269,15 @@ is to improve the relevance, representational faithfulness, and comparability of
 
 ## 15 Scope and Scope Exceptions
 
-> **General Note:** The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
 
 ### General
 
 **805-10-15-1** > Overall Guidance
 The Scope Section of the Overall Subtopic establishes the pervasive scope for all Subtopics of the Business Combinations Topic. Unless explicitly addressed within specific Subtopics, the following scope guidance applies to all Subtopics of the Business Combinations Topic, with the exception of Subtopic 805-50, which has its own discrete scope.
+PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 The Scope Section of the Overall Subtopic establishes the pervasive scope for all Subtopics of the Business Combinations Topic. Unless explicitly addressed within specific Subtopics, the following scope guidance applies to all Subtopics of the Business Combinations Topic, with the exception of Subtopic 805-50and Subtopic 805-60, each of which has its own discrete scope guidance.
 The Scope Section of the Overall Subtopic establishes the pervasive scope for all Subtopics of the Business Combinations Topic. Unless explicitly addressed within specific Subtopics, the following scope guidance applies to all Subtopics of the Business Combinations Topic, with the exception of Subtopic 805-50, which has its own discrete scope.
-**805-10-15-2** > Entities
+**805-10-15-2** PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 The Scope Section of the Overall Subtopic establishes the pervasive scope for all Subtopics of the Business Combinations Topic. Unless explicitly addressed within specific Subtopics, the following scope guidance applies to all Subtopics of the Business Combinations Topic, with the exception of Subtopic 805-50and Subtopic 805-60, each of which has its own discrete scope guidance. > Entities
 The guidance in the Business Combinations Topic applies to all entities, with specific qualifications and exceptions in paragraph 805-10-15-4.
 The guidance in the Business Combinations Topic applies to all entities, with specific qualifications and exceptions in paragraph 805-10-15-4.
 **805-10-15-3** > Transactions
@@ -275,7 +292,21 @@ The formation of a joint venture
 5. A transaction or other event in which an NFP obtains control of a not-for-profit entity but does not consolidate that entity, as described in paragraph 958-810-25-4. The Business Combinations Topic also does not apply if an NFP that obtained control in a transaction or other event in which consolidation was permitted but not required decides in a subsequent annual reporting period to begin consolidating a controlled entity that it initially chose not to consolidate.
 6. Financial assets and financial liabilities of a consolidated variable interest entity that is a collateralized financing entity within the scope of the guidance on collateralized financing entities in Subtopic 810-10.
 
+1. The formation of a joint venture or a corporate joint venture (except as described in Subtopic 805-60)
+2. The acquisition of an asset or a group of assets that does not constitute a business or a nonprofit activity
+3. A combination between entities, businesses, or nonprofit activities under common control (see paragraph 805-50-15-6 for examples)
+4. An acquisition by a not-for-profit entity for which the acquisition date is before December 15, 2009 or a merger of not-for-profit entities (NFPs)
+5. A transaction or other event in which an NFP obtains control of a not-for-profit entity but does not consolidate that entity, as described in paragraph 958-810-25-4. The Business Combinations Topic also does not apply if an NFP that obtained control in a transaction or other event in which consolidation was permitted but not required decides in a subsequent annual reporting period to begin consolidating a controlled entity that it initially chose not to consolidate.
+6. Financial assets and financial liabilities of a consolidated variable interest entity that is a collateralized financing entity within the scope of the guidance on collateralized financing entities in Subtopic 810-10.
+
 The formation of a joint venture
+2. The acquisition of an asset or a group of assets that does not constitute a business or a nonprofit activity
+3. A combination between entities, businesses, or nonprofit activities under common control (see paragraph 805-50-15-6 for examples)
+4. An acquisition by a not-for-profit entity for which the acquisition date is before December 15, 2009 or a merger of not-for-profit entities (NFPs)
+5. A transaction or other event in which an NFP obtains control of a not-for-profit entity but does not consolidate that entity, as described in paragraph 958-810-25-4. The Business Combinations Topic also does not apply if an NFP that obtained control in a transaction or other event in which consolidation was permitted but not required decides in a subsequent annual reporting period to begin consolidating a controlled entity that it initially chose not to consolidate.
+6. Financial assets and financial liabilities of a consolidated variable interest entity that is a collateralized financing entity within the scope of the guidance on collateralized financing entities in Subtopic 810-10.
+
+1. The formation of a joint venture or a corporate joint venture (except as described in Subtopic 805-60)
 2. The acquisition of an asset or a group of assets that does not constitute a business or a nonprofit activity
 3. A combination between entities, businesses, or nonprofit activities under common control (see paragraph 805-50-15-6 for examples)
 4. An acquisition by a not-for-profit entity for which the acquisition date is before December 15, 2009 or a merger of not-for-profit entities (NFPs)
@@ -284,21 +315,28 @@ The formation of a joint venture
 
 ## 20 Glossary
 
-> **General Note:** The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
 
 ##### Acquiree
 
 The business or businesses that the acquirer obtains control of in a business combination. This term also includes a nonprofit activity or business that a not-for-profit acquirer obtains control of in an acquisition by a not-for-profit entity.
+The business or businesses that the acquirer obtains control of in a business combination. This term also includes a nonprofit activity or business that a not-for-profit acquirer obtains control of in an acquisition by a not-for-profit entity.
 
 ##### Acquirer
 
+The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:805-10-65-5The entity that obtains control of the acquiree.See paragraphs 805-10-25-4 through 25-5 for guidance on determining the acquirer.
+The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer.
+PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:805-10-65-5The entity that obtains control of the acquiree.See paragraphs 805-10-25-4 through 25-5
+
 ##### Acquisition by a Not-for-Profit Entity
 
-The business or businesses that the acquirer obtains control of in a business combination. This term also includes a nonprofit activity or business that a not-for-profit acquirer obtains control of in an acquisition by a not-for-profit entity.The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer. The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer. A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.
+for guidance on determining the acquirer.A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.
+A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.
 
 ##### Acquisition Date
 
-A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.The date on which the acquirer obtains control of the acquiree.
+The date on which the acquirer obtains control of the acquiree.
+The date on which the acquirer obtains control of the acquiree.
 
 ##### Beneficial Interests
 
@@ -307,7 +345,7 @@ A transaction or other event in which a not-for-profit acquirer obtains control 
 3. Commercial paper obligations
 4. Residual interests, whether in the form of debt or equity.
 
-1. Senior and subordinated shares of interest, principal, or other cash inflows to be passed-through or paid-through
+Senior and subordinated shares of interest, principal, or other cash inflows to be passed-through or paid-through
 2. Premiums due to guarantors
 3. Commercial paper obligations
 4. Residual interests, whether in the form of debt or equity.
@@ -315,61 +353,74 @@ A transaction or other event in which a not-for-profit acquirer obtains control 
 ##### Business
 
 Paragraphs 805-10-55-3A through 55-6 and 805-10-55-8 through 55-9 define what is considered a business.
+Paragraphs 805-10-55-3A through 55-6
 
 ##### Business Combination
 
-Paragraphs 805-10-55-3A through 55-6 and 805-10-55-8 through 55-9 define what is considered a business. A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
+and 805-10-55-8 through 55-9 define what is considered a business. A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
+A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
 
 ##### Collateralized Financing Entity
 
-A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.A variable interest entity that holds financial assets, issues beneficial interests in those financial assets, and has no more than nominal equity. The beneficial interests have contractual recourse only to the related assets of the collateralized financing entity and are classified as financial liabilities. A collateralized financing entity may hold nonfinancial assets temporarily as a result of default by the debtor on the underlying debt instruments held as assets by the collateralized financing entity or in an effort to restructure the debt instruments held as assets by the collateralized financing entity. A collateralized financing entity also may hold other financial assets and financial liabilities that are incidental to the operations of the collateralized financing entity and have carrying values that approximate fair value (for example, cash, broker receivables, or broker payables).
+A variable interest entity that holds financial assets, issues beneficial interests in those financial assets, and has no more than nominal equity. The beneficial interests have contractual recourse only to the related assets of the collateralized financing entity and are classified as financial liabilities. A collateralized financing entity may hold nonfinancial assets temporarily as a result of default by the debtor on the underlying debt instruments held as assets by the collateralized financing entity or in an effort to restructure the debt instruments held as assets by the collateralized financing entity. A collateralized financing entity also may hold other financial assets and financial liabilities that are incidental to the operations of the collateralized financing entity and have carrying values that approximate fair value (for example, cash, broker receivables, or broker payables).
+A variable interest entity that holds financial assets, issues beneficial interests in those financial assets, and has no more than nominal equity. The beneficial interests have contractual recourse only to the related assets of the collateralized financing entity and are classified as financial liabilities. A collateralized financing entity may hold nonfinancial assets temporarily as a result of default by the debtor on the underlying debt instruments held as assets by the collateralized financing entity or in an effort to restructure the debt instruments held as assets by the collateralized financing entity. A collateralized financing entity also may hold other financial assets and financial liabilities that are incidental to the operations of the collateralized financing entity and have carrying values that approximate fair value (for example, cash, broker receivables, or broker payables).
 
 ##### Conduit Debt Securities
 
-A variable interest entity that holds financial assets, issues beneficial interests in those financial assets, and has no more than nominal equity. The beneficial interests have contractual recourse only to the related assets of the collateralized financing entity and are classified as financial liabilities. A collateralized financing entity may hold nonfinancial assets temporarily as a result of default by the debtor on the underlying debt instruments held as assets by the collateralized financing entity or in an effort to restructure the debt instruments held as assets by the collateralized financing entity. A collateralized financing entity also may hold other financial assets and financial liabilities that are incidental to the operations of the collateralized financing entity and have carrying values that approximate fair value (for example, cash, broker receivables, or broker payables).Certain limited-obligation revenue bonds, certificates of participation, or similar debt instruments issued by a state or local governmental entity for the express purpose of providing financing for a specific third party (the conduit bond obligor) that is not a part of the state or local government's financial reporting entity. Although conduit debt securities bear the name of the governmental entity that issues them, the governmental entity often has no obligation for such debt beyond the resources provided by a lease or loan agreement with the third party on whose behalf the securities are issued. Further, the conduit bond obligor is responsible for any future financial reporting requirements.
+Certain limited-obligation revenue bonds, certificates of participation, or similar debt instruments issued by a state or local governmental entity for the express purpose of providing financing for a specific third party (the conduit bond obligor) that is not a part of the state or local government's financial reporting entity. Although conduit debt securities bear the name of the governmental entity that issues them, the governmental entity often has no obligation for such debt beyond the resources provided by a lease or loan agreement with the third party on whose behalf the securities are issued. Further, the conduit bond obligor is responsible for any future financial reporting requirements.
+Certain limited-obligation revenue bonds, certificates of participation, or similar debt instruments issued by a state or local governmental entity for the express purpose of providing financing for a specific third party (the conduit bond obligor) that is not a part of the state or local government's financial reporting entity. Although conduit debt securities bear the name of the governmental entity that issues them, the governmental entity often has no obligation for such debt beyond the resources provided by a lease or loan agreement with the third party on whose behalf the securities are issued. Further, the conduit bond obligor is responsible for any future financial reporting requirements.
 
 ##### Contingent Consideration
 
-Certain limited-obligation revenue bonds, certificates of participation, or similar debt instruments issued by a state or local governmental entity for the express purpose of providing financing for a specific third party (the conduit bond obligor) that is not a part of the state or local government's financial reporting entity. Although conduit debt securities bear the name of the governmental entity that issues them, the governmental entity often has no obligation for such debt beyond the resources provided by a lease or loan agreement with the third party on whose behalf the securities are issued. Further, the conduit bond obligor is responsible for any future financial reporting requirements. Usually an obligation of the acquirer to transfer additional assets or equity interests to the former owners of an acquiree as part of the exchange for control of the acquiree if specified future events occur or conditions are met. However, contingent consideration also may give the acquirer the right to the return of previously transferred consideration if specified conditions are met.
+Usually an obligation of the acquirer to transfer additional assets or equity interests to the former owners of an acquiree as part of the exchange for control of the acquiree if specified future events occur or conditions are met. However, contingent consideration also may give the acquirer the right to the return of previously transferred consideration if specified conditions are met.
+Usually an obligation of the acquirer to transfer additional assets or equity interests to the former owners of an acquiree as part of the exchange for control of the acquiree if specified future events occur or conditions are met. However, contingent consideration also may give the acquirer the right to the return of previously transferred consideration if specified conditions are met.
 
 ##### Contract
 
-Usually an obligation of the acquirer to transfer additional assets or equity interests to the former owners of an acquiree as part of the exchange for control of the acquiree if specified future events occur or conditions are met. However, contingent consideration also may give the acquirer the right to the return of previously transferred consideration if specified conditions are met. An agreement between two or more parties that creates enforceable rights and obligations.
+An agreement between two or more parties that creates enforceable rights and obligations.
+An agreement between two or more parties that creates enforceable rights and obligations.
 
 ##### Control
 
-An agreement between two or more parties that creates enforceable rights and obligations. The direct or indirect ability to determine the direction of management and policies through ownership, contract, or otherwise.
+The direct or indirect ability to determine the direction of management and policies through ownership, contract, or otherwise.
+The direct or indirect ability to determine the direction of management and policies through ownership, contract, or otherwise.
 
 ##### Control
 
-The direct or indirect ability to determine the direction of management and policies through ownership, contract, or otherwise. The same as the meaning of controlling financial interest in paragraph 810-10-15-8.
+The same as the meaning of controlling financial interest in paragraph 810-10-15-8.
+The same as the meaning of controlling financial interest in paragraph 810-10-15-8.
 
 ##### Control of a Not-for-Profit Entity
 
-The same as the meaning of controlling financial interest in paragraph 810-10-15-8. See Control.
+See Control.
+See Control.
 
 ##### Corporate Joint Venture
 
-See Control.A corporation owned and operated by a small group of entities (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a corporate joint venture frequently is to share risks and rewards in developing a new market, product or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A corporate joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a corporate joint venture. The ownership of a corporate joint venture seldom changes, and its stock is usually not traded publicly. A noncontrolling interest held by public ownership, however, does not preclude a corporation from being a corporate joint venture.
+A corporation owned and operated by a small group of entities (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a corporate joint venture frequently is to share risks and rewards in developing a new market, product or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A corporate joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a corporate joint venture. The ownership of a corporate joint venture seldom changes, and its stock is usually not traded publicly. A noncontrolling interest held by public ownership, however, does not preclude a corporation from being a corporate joint venture.
+A corporation owned and operated by a small group of entities (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a corporate joint venture frequently is to share risks and rewards in developing a new market, product or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A corporate joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a corporate joint venture. The ownership of a corporate joint venture seldom changes, and its stock is usually not traded publicly. A noncontrolling interest held by public ownership, however, does not preclude a corporation from being a corporate joint venture.
 
 ##### Direct Financing                Lease
 
-A corporation owned and operated by a small group of entities (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a corporate joint venture frequently is to share risks and rewards in developing a new market, product or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A corporate joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a corporate joint venture. The ownership of a corporate joint venture seldom changes, and its stock is usually not traded publicly. A noncontrolling interest held by public ownership, however, does not preclude a corporation from being a corporate joint venture. From the perspective of a lessor, a lease that meets none of the criteria in paragraph 842-10-25-2 but meets the criteria in paragraph 842-10-25-3(b)and is not an operating lease in accordance with paragraph 842-10-25-3A.
+From the perspective of a lessor, a lease that meets none of the criteria in paragraph 842-10-25-2 but meets the criteria in paragraph 842-10-25-3(b)and is not an operating lease in accordance with paragraph 842-10-25-3A.
+From the perspective of a lessor, a lease that meets none of the criteria in paragraph 842-10-25-2 but meets the criteria in paragraph 842-10-25-3(b)and is not an operating lease in accordance with paragraph 842-10-25-3A.
 
 ##### Equity Interests
 
-From the perspective of a lessor, a lease that meets none of the criteria in paragraph 842-10-25-2 but meets the criteria in paragraph 842-10-25-3(b)and is not an operating lease in accordance with paragraph 842-10-25-3A.Used broadly to mean ownership interests of investor-owned entities; owner, member, or participant interests of mutual entities; and owner or member interests in the net assets of not-for-profit entities.
+Used broadly to mean ownership interests of investor-owned entities; owner, member, or participant interests of mutual entities; and owner or member interests in the net assets of not-for-profit entities.
+Used broadly to mean ownership interests of investor-owned entities; owner, member, or participant interests of mutual entities; and owner or member interests in the net assets of not-for-profit entities.
 
 ##### Fair Value
 
-Used broadly to mean ownership interests of investor-owned entities; owner, member, or participant interests of mutual entities; and owner or member interests in the net assets of not-for-profit entities.The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
 
 ##### Financial Asset
 
 1. Receive cash or another financial instrument from a second entity
 2. Exchange other financial instruments on potentially favorable terms with the second entity.
 
-1. Receive cash or another financial instrument from a second entity
+Receive cash or another financial instrument from a second entity
 2. Exchange other financial instruments on potentially favorable terms with the second entity.
 
 ##### Foreign Entity
@@ -377,47 +428,55 @@ Used broadly to mean ownership interests of investor-owned entities; owner, memb
 1. Prepared in a currency other than the reporting currency of the reporting entity
 2. Combined or consolidated with or accounted for on the equity basis in the financial statements of the reporting entity.
 
-1. Prepared in a currency other than the reporting currency of the reporting entity
+Prepared in a currency other than the reporting currency of the reporting entity
 2. Combined or consolidated with or accounted for on the equity basis in the financial statements of the reporting entity.
 
 ##### Goodwill
+
+An asset representing the future economic benefits arising from other assets acquired in a business combination or an acquisition by a not-for-profit entity that are not individually identified and separately recognized. For ease of reference, this term also includes the immediate charge recognized by not-for-profit entities in accordance with paragraph 958-805-25-29. PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1An asset representing the future economic benefits arising from other assets acquired in a business combination, acquired in an acquisition by a not-for-profit entity, or recognized by a joint venture upon formation that are not individually identified and separately recognized. For ease of reference, this term also includes the immediate charge recognized by not-for-profit entities in accordance with paragraph 958-805-25-29.
+An asset representing the future economic benefits arising from other assets acquired in a business combination or an acquisition by a not-for-profit entity that are not individually identified and separately recognized. For ease of reference, this term also includes the immediate charge recognized by not-for-profit entities in accordance with paragraph 958-805-25-29.
 
 ##### Identifiable
 
 1. It is separable, that is, capable of being separated or divided from the entity and sold, transferred, licensed, rented, or exchanged, either individually or together with a related contract, identifiable asset, or liability, regardless of whether the entity intends to do so.
 2. It arises from contractual or other legal rights, regardless of whether those rights are transferable or separable from the entity or from other rights and obligations.
 
-1. It is separable, that is, capable of being separated or divided from the entity and sold, transferred, licensed, rented, or exchanged, either individually or together with a related contract, identifiable asset, or liability, regardless of whether the entity intends to do so.
+It is separable, that is, capable of being separated or divided from the entity and sold, transferred, licensed, rented, or exchanged, either individually or together with a related contract, identifiable asset, or liability, regardless of whether the entity intends to do so.
 2. It arises from contractual or other legal rights, regardless of whether those rights are transferable or separable from the entity or from other rights and obligations.
 
 ##### Intangible Asset Class
 
 A group of intangible assets that are similar, either by their nature or by their use in the operations of an entity.
+A group of intangible assets that are similar, either by their nature or by their use in the operations of an entity.
 
 ##### Intangible Assets
 
-A group of intangible assets that are similar, either by their nature or by their use in the operations of an entity. Assets (not including financial assets) that lack physical substance. (The term intangible assets is used to refer to intangible assets other than goodwill.)
+Assets (not including financial assets) that lack physical substance. (The term intangible assets is used to refer to intangible assets other than goodwill.)
+Assets (not including financial assets) that lack physical substance. (The term intangible assets is used to refer to intangible assets other than goodwill.)
 
 ##### Joint Venture
 
-Assets (not including financial assets) that lack physical substance. (The term intangible assets is used to refer to intangible assets other than goodwill.) An entity owned and operated by a small group of businesses (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a joint venture frequently is to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a joint venture. The ownership of a joint venture seldom changes, and its equity interests usually are not traded publicly. A minority public ownership, however, does not preclude an entity from being a joint venture. As distinguished from a corporate joint venture, a joint venture is not limited to corporate entities.
+An entity owned and operated by a small group of businesses (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a joint venture frequently is to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a joint venture. The ownership of a joint venture seldom changes, and its equity interests usually are not traded publicly. A minority public ownership, however, does not preclude an entity from being a joint venture. As distinguished from a corporate joint venture, a joint venture is not limited to corporate entities.
+An entity owned and operated by a small group of businesses (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a joint venture frequently is to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a joint venture. The ownership of a joint venture seldom changes, and its equity interests usually are not traded publicly. A minority public ownership, however, does not preclude an entity from being a joint venture. As distinguished from a corporate joint venture, a joint venture is not limited to corporate entities.
 
 ##### Lease
 
-An entity owned and operated by a small group of businesses (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a joint venture frequently is to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a joint venture. The ownership of a joint venture seldom changes, and its equity interests usually are not traded publicly. A minority public ownership, however, does not preclude an entity from being a joint venture. As distinguished from a corporate joint venture, a joint venture is not limited to corporate entities. A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
+A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
+A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
 
 ##### Legal Entity
 
-A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration. Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts.
+Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts.
+Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts.
 
 ##### Lessee
 
-Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts.
 An entity that enters into a contract to obtain the right to use an underlying asset for a period of time in exchange for consideration.
 An entity that enters into a contract to obtain the right to use an underlying asset for a period of time in exchange for consideration.
 
 ##### Lessor
 
+An entity that enters into a contract to provide the right to use an underlying asset for a period of time in exchange for consideration.
 An entity that enters into a contract to provide the right to use an underlying asset for a period of time in exchange for consideration.
 
 ##### Market Participants
@@ -427,7 +486,7 @@ An entity that enters into a contract to provide the right to use an underlying 
 3. They are able to enter into a transaction for the asset or liability
 4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
 
-1. They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
 2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
 3. They are able to enter into a transaction for the asset or liability
 4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
@@ -435,18 +494,22 @@ An entity that enters into a contract to provide the right to use an underlying 
 ##### Merger of Not-for-Profit Entities
 
 A transaction or other event in which the governing bodies of two or more not-for-profit entities cede control of those entities to create a new not-for-profit entity.
+A transaction or other event in which the governing bodies of two or more not-for-profit entities cede control of those entities to create a new not-for-profit entity.
 
 ##### Noncontrolling Interest
 
-A transaction or other event in which the governing bodies of two or more not-for-profit entities cede control of those entities to create a new not-for-profit entity.The portion of equity (net assets) in a subsidiary not attributable, directly or indirectly, to a parent. A noncontrolling interest is sometimes called a minority interest.
+The portion of equity (net assets) in a subsidiary not attributable, directly or indirectly, to a parent. A noncontrolling interest is sometimes called a minority interest.
+The portion of equity (net assets) in a subsidiary not attributable, directly or indirectly, to a parent. A noncontrolling interest is sometimes called a minority interest.
 
 ##### Nonfinancial Asset
 
-The portion of equity (net assets) in a subsidiary not attributable, directly or indirectly, to a parent. A noncontrolling interest is sometimes called a minority interest.An asset that is not a financial asset. Nonfinancial assets include land, buildings, use of facilities or utilities, materials and supplies, intangible assets, or services.
+An asset that is not a financial asset. Nonfinancial assets include land, buildings, use of facilities or utilities, materials and supplies, intangible assets, or services.
+An asset that is not a financial asset. Nonfinancial assets include land, buildings, use of facilities or utilities, materials and supplies, intangible assets, or services.
 
 ##### Nonprofit Activity
 
-An asset that is not a financial asset. Nonfinancial assets include land, buildings, use of facilities or utilities, materials and supplies, intangible assets, or services. An integrated set of activities and assets that is capable of being conducted and managed for the purpose of providing benefits, other than goods or services at a profit or profit equivalent, as a fulfillment of an entity's purpose or mission (for example, goods or services to beneficiaries, customers, or members). As with a not-for-profit entity, a nonprofit activity possesses characteristics that distinguish it from a business or a for-profit business entity.
+An integrated set of activities and assets that is capable of being conducted and managed for the purpose of providing benefits, other than goods or services at a profit or profit equivalent, as a fulfillment of an entity's purpose or mission (for example, goods or services to beneficiaries, customers, or members). As with a not-for-profit entity, a nonprofit activity possesses characteristics that distinguish it from a business or a for-profit business entity.
+An integrated set of activities and assets that is capable of being conducted and managed for the purpose of providing benefits, other than goods or services at a profit or profit equivalent, as a fulfillment of an entity's purpose or mission (for example, goods or services to beneficiaries, customers, or members). As with a not-for-profit entity, a nonprofit activity possesses characteristics that distinguish it from a business or a for-profit business entity.
 
 ##### Not-for-Profit Entity
 
@@ -457,24 +520,27 @@ An asset that is not a financial asset. Nonfinancial assets include land, buildi
 1. All investor-owned entities
 2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
 
-1. Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
+Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
 2. Operating purposes other than to provide goods or services at a profit
 3. Absence of ownership interests like those of business entities.
 
-1. All investor-owned entities
+All investor-owned entities
 2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
 
 ##### Orderly Transaction
 
 A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
 
 ##### Owners
 
-A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale). Used broadly to include holders of ownership interests (equity interests) of investor-owned entities, mutual entities, or not-for-profit entities. Owners include shareholders, partners, proprietors, or members or participants of mutual entities. Owners also include owner and member interests in the net assets of not-for-profit entities.
+Used broadly to include holders of ownership interests (equity interests) of investor-owned entities, mutual entities, or not-for-profit entities. Owners include shareholders, partners, proprietors, or members or participants of mutual entities. Owners also include owner and member interests in the net assets of not-for-profit entities.
+Used broadly to include holders of ownership interests (equity interests) of investor-owned entities, mutual entities, or not-for-profit entities. Owners include shareholders, partners, proprietors, or members or participants of mutual entities. Owners also include owner and member interests in the net assets of not-for-profit entities.
 
 ##### Primary Beneficiary
 
-Used broadly to include holders of ownership interests (equity interests) of investor-owned entities, mutual entities, or not-for-profit entities. Owners include shareholders, partners, proprietors, or members or participants of mutual entities. Owners also include owner and member interests in the net assets of not-for-profit entities.An entity that consolidates a variable interest entity (VIE). See paragraphs 810-10-25-38 through 25-38J for guidance on determining the primary beneficiary.
+An entity that consolidates a variable interest entity (VIE). See paragraphs 810-10-25-38 through 25-38J for guidance on determining the primary beneficiary.
+An entity that consolidates a variable interest entity (VIE). See paragraphs 810-10-25-38 through 25-38J for guidance on determining the primary beneficiary.
 
 ##### Public Business Entity
 
@@ -485,7 +551,7 @@ Used broadly to include holders of ownership interests (equity interests) of inv
 5. It has one or more securities that are not subject to contractual restrictions on transfer, and it is required by law, contract, or regulation to prepare U.S. GAAP financial statements (including notes) and make them publicly available on a periodic basis (for example, interim or annual periods). An entity must meet both of these conditions to meet this criterion.
 
 An entity may meet the definition of a public business entity solely because its financial statements or financial information is included in another entity's filing with the SEC. In that case, the entity is only a public business entity for purposes of financial statements that are filed or furnished with the SEC.
-1. It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing).
+It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing).
 2. It is required by the Securities Exchange Act of 1934 (the Act), as amended, or rules or regulations promulgated under the Act, to file or furnish financial statements with a regulatory agency other than the SEC.
 3. It is required to file or furnish financial statements with a foreign or domestic regulatory agency in preparation for the sale of or for purposes of issuing securities that are not subject to contractual restrictions on transfer.
 4. It has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market.
@@ -497,7 +563,7 @@ An entity may meet the definition of a public business entity solely because its
 2. It is required to file financial statements with the Securities and Exchange Commission (SEC).
 3. It provides financial statements for the purpose of issuing any class of securities in a public market.
 
-1. It has issued debt or equity securities or is a conduit bond obligor for conduit debt securities that are traded in a public market (a domestic or foreign stock exchange or an over-the-counter market, including local or regional markets).
+It has issued debt or equity securities or is a conduit bond obligor for conduit debt securities that are traded in a public market (a domestic or foreign stock exchange or an over-the-counter market, including local or regional markets).
 2. It is required to file financial statements with the Securities and Exchange Commission (SEC).
 3. It provides financial statements for the purpose of issuing any class of securities in a public market.
 
@@ -511,7 +577,7 @@ An entity may meet the definition of a public business entity solely because its
 6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
 7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
 
-1. Affiliates of the entity
+Affiliates of the entity
 2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
 3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
 4. Principal owners of the entity and members of their immediate families
@@ -522,10 +588,12 @@ An entity may meet the definition of a public business entity solely because its
 ##### Reverse Acquisition
 
 An acquisition in which the entity that issues securities (the legal acquirer) is identified as the acquiree for accounting purposes based on the guidance in paragraphs 805-10-55-11 through 55-15. The entity whose equity interests are acquired (the legal acquiree) must be the acquirer for accounting purposes for the transaction to be considered a reverse acquisition.
+An acquisition in which the entity that issues securities (the legal acquirer) is identified as the acquiree for accounting purposes based on the guidance in paragraphs 805-10-55-11 through 55-15
 
 ##### Sales-Type                Lease
 
-An acquisition in which the entity that issues securities (the legal acquirer) is identified as the acquiree for accounting purposes based on the guidance in paragraphs 805-10-55-11 through 55-15. The entity whose equity interests are acquired (the legal acquiree) must be the acquirer for accounting purposes for the transaction to be considered a reverse acquisition. From the perspective of a lessor, a lease that meets one or more of the criteria in paragraph 842-10-25-2 and is not an operating lease in accordance with paragraph 842-10-25-3A.
+. The entity whose equity interests are acquired (the legal acquiree) must be the acquirer for accounting purposes for the transaction to be considered a reverse acquisition. From the perspective of a lessor, a lease that meets one or more of the criteria in paragraph 842-10-25-2 and is not an operating lease in accordance with paragraph 842-10-25-3A.
+From the perspective of a lessor, a lease that meets one or more of the criteria in paragraph 842-10-25-2 and is not an operating lease in accordance with paragraph 842-10-25-3A.
 
 ##### Security
 
@@ -533,7 +601,7 @@ An acquisition in which the entity that issues securities (the legal acquirer) i
 2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
 3. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
 
-1. It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
+It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
 2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
 3. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
 
@@ -545,10 +613,11 @@ An asset that is the subject of a lease for which a right to use that asset has 
 ##### Variable Interest Entity
 
 A legal entity subject to consolidation according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
+A legal entity subject to consolidation according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
 
 ## 25 Recognition
 
-> **General Note:** The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
 
 ### General
 
@@ -574,9 +643,9 @@ Identifying the acquirer
 For each business combination, one of the combining entities shall be identified as the acquirer.
 **805-10-25-4** For each business combination, one of the combining entities shall be identified as the acquirer.
 **805-10-25-5** The guidance in the General Subsections of Subtopic 810-10 related to determining the existence of a controlling financial interest shall be used to identify the acquirer—the entity that obtains control
-**805-10-25-5** of the acquiree. If a business combination has occurred but applying that guidance does not clearly indicate which of the combining entities is the acquirer, the factors in paragraphs 805-10-55-11 through 55-15 shall be considered in making that determination. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer. The determination of which party, if any, is the primary beneficiary of a VIE shall be made in accordance with the guidance in the Variable Interest Entities Subsections of Subtopic 810-10, not by applying either the guidance in the General Subsections of that Subtopic, relating to a controlling financial interest, or in paragraphs 805-10-55-11 through 55-15.
-The guidance in the General Subsections of Subtopic 810-10 related to determining the existence of a controlling financial interest shall be used to identify the acquirer—the entity that obtains control
-**805-10-25-6** of the acquiree. If a business combination has occurred but applying that guidance does not clearly indicate which of the combining entities is the acquirer, the factors in paragraphs 805-10-55-11 through 55-15 shall be considered in making that determination. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer. The determination of which party, if any, is the primary beneficiary of a VIE shall be made in accordance with the guidance in the Variable Interest Entities Subsections of Subtopic 810-10, not by applying either the guidance in the General Subsections of that Subtopic, relating to a controlling financial interest, or in paragraphs 805-10-55-11 through 55-15. > Identifying the Acquisition Date
+of the acquiree. If a business combination has occurred but applying that guidance does not clearly indicate which of the combining entities is the acquirer, the factors in paragraphs 805-10-55-11 through 55-15 shall be considered in making that determination. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer. The determination of which party, if any, is the primary beneficiary of a VIE shall be made in accordance with the guidance in the Variable Interest Entities Subsections of Subtopic 810-10, not by applying either the guidance in the General Subsections of that Subtopic, relating to a controlling financial interest, or in paragraphs 805-10-55-11 through 55-15. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:805-10-65-5The guidance in the General Subsections of Subtopic 810-10 related to determining the existence of a controlling financial interest shall be used to identify the acquirer—the entity that obtains control of the acquiree. If a business combination has occurred but applying that guidance does not clearly indicate which of the combining entities is the acquirer, the factors in paragraphs 805-10-55-11 through 55-15 shall be considered in making that determination. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity is the acquirer unless the business combination is effected primarily by exchanging equity interests.The determination of which party, if any, is the primary beneficiary of a VIE shall be made in accordance with the guidance in the Variable Interest Entities Subsections of Subtopic 810-10, not by applying either the guidance in the General Subsections of that Subtopic, relating to a controlling financial interest, or the guidance in paragraphs 805-10-55-11 through 55-15. For a business combination that is effected primarily by exchanging equity interests in which a VIE is acquired, the factors in paragraphs 805-10-55-12 through 55-15 shall be considered in determining which entity is the accounting acquirer.
+**805-10-25-5** The guidance in the General Subsections of Subtopic 810-10 related to determining the existence of a controlling financial interest shall be used to identify the acquirer—the entity that obtains control
+**805-10-25-6** of the acquiree. If a business combination has occurred but applying that guidance does not clearly indicate which of the combining entities is the acquirer, the factors in paragraphs 805-10-55-11 through 55-15 shall be considered in making that determination. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer. The determination of which party, if any, is the primary beneficiary of a VIE shall be made in accordance with the guidance in the Variable Interest Entities Subsections of Subtopic 810-10, not by applying either the guidance in the General Subsections of that Subtopic, relating to a controlling financial interest, or in paragraphs 805-10-55-11 through 55-15. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:805-10-65-5The guidance in the General Subsections of Subtopic 810-10 related to determining the existence of a controlling financial interest shall be used to identify the acquirer—the entity that obtains control of the acquiree. If a business combination has occurred but applying that guidance does not clearly indicate which of the combining entities is the acquirer, the factors in paragraphs 805-10-55-11 through 55-15 shall be considered in making that determination. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity is the acquirer unless the business combination is effected primarily by exchanging equity interests.The determination of which party, if any, is the primary beneficiary of a VIE shall be made in accordance with the guidance in the Variable Interest Entities Subsections of Subtopic 810-10, not by applying either the guidance in the General Subsections of that Subtopic, relating to a controlling financial interest, or the guidance in paragraphs 805-10-55-11 through 55-15. For a business combination that is effected primarily by exchanging equity interests in which a VIE is acquired, the factors in paragraphs 805-10-55-12 through 55-15 shall be considered in determining which entity is the accounting acquirer.> Identifying the Acquisition Date
 The acquirer shall identify the acquisition date, which is the date on which it obtains control of the acquiree.
 **805-10-25-6** The acquirer shall identify the acquisition date, which is the date on which it obtains control of the acquiree.
 **805-10-25-7** The date on which the acquirer obtains control of the acquiree generally is the date on which the acquirer legally transfers the consideration, acquires the assets, and assumes the liabilities of the acquiree—the closing date. However, the acquirer might obtain control on a date that is either earlier or later than the closing date. For example, the acquisition date precedes the closing date if a written agreement provides that the acquirer obtains control of the acquiree on a date before the closing date. An acquirer shall consider all pertinent facts and circumstances in identifying the acquisition date.
@@ -658,7 +727,7 @@ Acquisition-related costs are costs the acquirer incurs to effect a business com
 
 ## 30 Initial Measurement
 
-> **General Note:** The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
 
 ### General
 
@@ -676,7 +745,7 @@ can be identified, the sale of an asset to a third party shortly after the acqui
 
 ## 35 Subsequent Measurement
 
-> **General Note:** The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
 
 ### General
 
@@ -699,12 +768,15 @@ can be identified, the sale of an asset to a third party shortly after the acqui
 
 ## 50 Disclosure
 
-> **General Note:** The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
 
 ### General
 
-**805-10-50-1** > Business Combinations Occurring during a Current Reporting Period or after the Reporting Date but before the Financial Statements Are Issued
+**805-10-50-1** Related Proposed ASUs > Business Combinations Occurring during a Current Reporting Period or after the Reporting Date but before the Financial Statements Are Issued
 The acquirer
+1. During the current reporting period
+2. After the reporting date but before the financial statements are issued or are available to be issued (as discussed in Section 855-10-25).
+
 1. During the current reporting period
 2. After the reporting date but before the financial statements are issued or are available to be issued (as discussed in Section 855-10-25).
 
@@ -712,7 +784,32 @@ The acquirer
 1. During the current reporting period
 2. After the reporting date but before the financial statements are issued or are available to be issued (as discussed in Section 855-10-25).
 
+1. During the current reporting period
+2. After the reporting date but before the financial statements are issued or are available to be issued (as discussed in Section 855-10-25).
+
 **805-10-50-2** The name and a description of the acquiree
+2. The acquisition date
+3. The percentage of voting equity interests acquired
+4. The primary reasons for the business combination and a description of how the acquirer obtained control of the acquiree
+1. A description of each transaction
+2. How the acquirer accounted for each transaction
+3. The amounts recognized for each transaction and the line item in the financial statements in which each amount is recognized
+4. If the transaction is the effective settlement of a preexisting relationship, the method used to determine the settlement amount.
+
+5. The disclosure of separately recognized transactions required in (e) shall include the amount of acquisition-related costs, the amount recognized as an expense, and the line item or items in the income statement in which those expenses are recognized. The amount of any issuance costs not recognized as an expense and how they were recognized also shall be disclosed.
+1. The acquisition-date fair value of the equity interest in the acquiree held by the acquirer immediately before the acquisition date
+2. The amount of any gain or loss recognized as a result of remeasuring to fair value the equity interest in the acquiree held by the acquirer immediately before the business combination (see paragraph 805-10-25-10) and the line item in the income statement in which that gain or loss is recognized
+3. The valuation technique(s) used to measure the acquisition-date fair value of the equity interest in the acquiree held by the acquirer immediately before the business combination
+4. Information that enables users of the acquirer's financial statements to assess the inputs used to develop the fair value measurement of the equity interest in the acquiree held by the acquirer immediately before the business combination.
+
+1. The amounts of revenue and earnings of the acquiree since the acquisition date included in the consolidated income statement for the reporting period.
+2. If comparative financial statements are not presented, the revenue and earnings of the combined entity for the current reporting period as though the acquisition date for all business combinations that occurred during the year had been as of the beginning of the annual reporting period (supplemental pro forma information).
+3. If comparative financial statements are presented, the revenue and earnings of the combined entity as though the business combination(s) that occurred during the current year had occurred as of the beginning of the comparable prior annual reporting period (supplemental pro forma information). For example, for a calendar year-end entity, disclosures would be provided for a business combination that occurs in 20X2, as if it occurred on January 1, 20X1. Such disclosures would not be revised if 20X2 is presented for comparative purposes with the 20X3 financial statements (even if 20X2 is the earliest period presented).
+4. The nature and amount of any material, nonrecurring pro forma adjustments directly attributable to the business combination(s) included in the reported pro forma revenue and earnings (supplemental pro forma information).
+
+4. If disclosure of any of the information required by (h) is impracticable, the acquirer shall disclose that fact and explain why the disclosure is impracticable. In this context, the term *impracticable* has the same meaning as in paragraph 250-10-45-9.
+
+1. The name and a description of the acquiree
 2. The acquisition date
 3. The percentage of voting equity interests acquired
 4. The primary reasons for the business combination and a description of how the acquirer obtained control of the acquiree
@@ -756,25 +853,54 @@ The acquirer
 
 4. If disclosure of any of the information required by (h) is impracticable, the acquirer shall disclose that fact and explain why the disclosure is impracticable. In this context, the term *impracticable* has the same meaning as in paragraph 250-10-45-9.
 
+1. The name and a description of the acquiree
+2. The acquisition date
+3. The percentage of voting equity interests acquired
+4. The primary reasons for the business combination and a description of how the acquirer obtained control of the acquiree
+1. A description of each transaction
+2. How the acquirer accounted for each transaction
+3. The amounts recognized for each transaction and the line item in the financial statements in which each amount is recognized
+4. If the transaction is the effective settlement of a preexisting relationship, the method used to determine the settlement amount.
+
+5. The disclosure of separately recognized transactions required in (e) shall include the amount of acquisition-related costs, the amount recognized as an expense, and the line item or items in the income statement in which those expenses are recognized. The amount of any issuance costs not recognized as an expense and how they were recognized also shall be disclosed.
+1. The acquisition-date fair value of the equity interest in the acquiree held by the acquirer immediately before the acquisition date
+2. The amount of any gain or loss recognized as a result of remeasuring to fair value the equity interest in the acquiree held by the acquirer immediately before the business combination (see paragraph 805-10-25-10) and the line item in the income statement in which that gain or loss is recognized
+3. The valuation technique(s) used to measure the acquisition-date fair value of the equity interest in the acquiree held by the acquirer immediately before the business combination
+4. Information that enables users of the acquirer's financial statements to assess the inputs used to develop the fair value measurement of the equity interest in the acquiree held by the acquirer immediately before the business combination.
+
+1. The amounts of revenue and earnings of the acquiree since the acquisition date included in the consolidated income statement for the reporting period.
+2. If comparative financial statements are not presented, the revenue and earnings of the combined entity for the current reporting period as though the acquisition date for all business combinations that occurred during the year had been as of the beginning of the annual reporting period (supplemental pro forma information).
+3. If comparative financial statements are presented, the revenue and earnings of the combined entity as though the business combination(s) that occurred during the current year had occurred as of the beginning of the comparable prior annual reporting period (supplemental pro forma information). For example, for a calendar year-end entity, disclosures would be provided for a business combination that occurs in 20X2, as if it occurred on January 1, 20X1. Such disclosures would not be revised if 20X2 is presented for comparative purposes with the 20X3 financial statements (even if 20X2 is the earliest period presented).
+4. The nature and amount of any material, nonrecurring pro forma adjustments directly attributable to the business combination(s) included in the reported pro forma revenue and earnings (supplemental pro forma information).
+
+4. If disclosure of any of the information required by (h) is impracticable, the acquirer shall disclose that fact and explain why the disclosure is impracticable. In this context, the term *impracticable* has the same meaning as in paragraph 250-10-45-9.
+
 **805-10-50-3** For individually immaterial business combinations occurring during the reporting period that are material collectively, the acquirer shall disclose the information required by (e) through (h) in paragraph 805-10-50-2 in the aggregate.
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For individually immaterial business combinations occurring during the reporting period that are material collectively, the acquirer shall disclose the information required by (e) through (h) in paragraph 805-10-50-2 in the aggregate in interim and annual reporting periods.
 **805-10-50-3** For individually immaterial business combinations occurring during the reporting period that are material collectively, the acquirer shall disclose the information required by (e) through (h) in paragraph 805-10-50-2 in the aggregate.
+**805-10-50-4** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For individually immaterial business combinations occurring during the reporting period that are material collectively, the acquirer shall disclose the information required by (e) through (h) in paragraph 805-10-50-2 in the aggregate in interim and annual reporting periods.
+If the acquisition date of a business combination is after the reporting date but before the financial statements are issued or are available to be issued (as discussed in Section 855-10-25), the acquirer shall disclose the information required by paragraph 805-10-50-2 unless the initial accounting for the business combination is incomplete at the time the financial statements are issued or are available to be issued. In that situation, the acquirer shall describe which disclosures could not be made and the reason why they could not be made.
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1If the acquisition date of a business combination is after the reporting date but before the financial statements are issued or are available to be issued (as discussed in Section 855-10-25), the acquirer shall disclose the information required by paragraph 805-10-50-2in interim and annual reporting periods unless the initial accounting for the business combination is incomplete at the time the financial statements are issued or are available to be issued. In that situation, the acquirer shall describe which disclosures could not be made and the reason why they could not be made.
 **805-10-50-4** If the acquisition date of a business combination is after the reporting date but before the financial statements are issued or are available to be issued (as discussed in Section 855-10-25), the acquirer shall disclose the information required by paragraph 805-10-50-2 unless the initial accounting for the business combination is incomplete at the time the financial statements are issued or are available to be issued. In that situation, the acquirer shall describe which disclosures could not be made and the reason why they could not be made.
-**805-10-50-4** If the acquisition date of a business combination is after the reporting date but before the financial statements are issued or are available to be issued (as discussed in Section 855-10-25), the acquirer shall disclose the information required by paragraph 805-10-50-2 unless the initial accounting for the business combination is incomplete at the time the financial statements are issued or are available to be issued. In that situation, the acquirer shall describe which disclosures could not be made and the reason why they could not be made.
-**805-10-50-5** > The Financial Effects of Adjustments That Relate to Business Combinations That Occurred in the Current or Previous Reporting Periods
+**805-10-50-5** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1If the acquisition date of a business combination is after the reporting date but before the financial statements are issued or are available to be issued (as discussed in Section 855-10-25), the acquirer shall disclose the information required by paragraph 805-10-50-2in interim and annual reporting periods unless the initial accounting for the business combination is incomplete at the time the financial statements are issued or are available to be issued. In that situation, the acquirer shall describe which disclosures could not be made and the reason why they could not be made. > The Financial Effects of Adjustments That Relate to Business Combinations That Occurred in the Current or Previous Reporting Periods
 The acquirer shall disclose information that enables users of its financial statements to evaluate the financial effects of adjustments recognized in the current reporting period that relate to business combinations that occurred in the current or previous reporting periods.
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1The acquirer shall disclose information in interim and annual reporting periods that enables users of its financial statements to evaluate the financial effects of adjustments recognized in the current reporting period that relate to business combinations that occurred in the current or previous reporting periods.
 **805-10-50-5** The acquirer shall disclose information that enables users of its financial statements to evaluate the financial effects of adjustments recognized in the current reporting period that relate to business combinations that occurred in the current or previous reporting periods.
-**805-10-50-6** Paragraph superseded by Accounting Standards Update No. 2015-10.
+**805-10-50-6** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1The acquirer shall disclose information in interim and annual reporting periods that enables users of its financial statements to evaluate the financial effects of adjustments recognized in the current reporting period that relate to business combinations that occurred in the current or previous reporting periods.
+Paragraph superseded by Accounting Standards Update No. 2015-10.
 **805-10-50-6** Paragraph superseded by Accounting Standards Update No. 2015-10.
 **805-10-50-7** > Other Disclosures
 If the specific disclosures required by this Subtopic and other generally accepted accounting principles (GAAP) do not meet the objectives set out in paragraphs 805-10-50-1 and 805-10-50-5, the acquirer shall disclose whatever additional information is necessary to meet those objectives.
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1If the specific disclosures required by this Subtopic and other generally accepted accounting principles (GAAP) do not meet the objectives set out in paragraphs 805-10-50-1 and 805-10-50-5, the acquirer shall disclose whatever additional information is necessary to meet those objectives in interim and annual reporting periods.
 **805-10-50-7** If the specific disclosures required by this Subtopic and other generally accepted accounting principles (GAAP) do not meet the objectives set out in paragraphs 805-10-50-1 and 805-10-50-5, the acquirer shall disclose whatever additional information is necessary to meet those objectives.
-**805-10-50-8** Example 5 (see paragraph 805-10-55-37 through 55-50
+**805-10-50-8** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1If the specific disclosures required by this Subtopic and other generally accepted accounting principles (GAAP) do not meet the objectives set out in paragraphs 805-10-50-1 and 805-10-50-5, the acquirer shall disclose whatever additional information is necessary to meet those objectives in interim and annual reporting periods.
+Example 5 (see paragraph 805-10-55-37 through 55-50
 ) illustrates the disclosure requirements applicable to business combinations.
 **805-10-50-8** Example 5 (see paragraph 805-10-55-37 through 55-50
 
 ## 55 Implementation Guidance and Illustrations
 
-> **General Note:** The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
 
 ### General
 
@@ -896,9 +1022,9 @@ When evaluating whether a set meets the criteria in paragraphs 805-10-55-5D thro
 
 **805-10-55-10** , the presence of more than an insignificant amount of goodwill may be an indicator that the acquired process is substantive and, therefore, the acquired set is a business. However, a business need not have goodwill.
 Paragraph 805-10-25-5 provides that the guidance in the General Subsections of Subtopic 810-10 related to determining the existence of a controlling financial interest should be used to identify the acquirer in a business combination, except when a variable interest entity (VIE) is acquired. If a business combination has occurred but applying that guidance does not clearly indicate which of the combining entities is the acquirer, paragraph 805-10-25-5 requires the factors in paragraphs 805-10-55-11 through 55-15
-**805-10-55-10** to be considered in making that determination.
-Paragraph 805-10-25-5 provides that the guidance in the General Subsections of Subtopic 810-10 related to determining the existence of a controlling financial interest should be used to identify the acquirer in a business combination, except when a variable interest entity (VIE) is acquired. If a business combination has occurred but applying that guidance does not clearly indicate which of the combining entities is the acquirer, paragraph 805-10-25-5 requires the factors in paragraphs 805-10-55-11 through 55-15
-**805-10-55-11** to be considered in making that determination.
+to be considered in making that determination. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:805-10-65-5 Paragraph 805-10-25-5 provides that the guidance in the General Subsections of Subtopic 810-10 related to determining the existence of a controlling financial interest should be used to identify the acquirer in a business combination, except when a variable interest entity (VIE) is acquired. If a business combination has occurred but applying that guidance does not clearly indicate which of the combining entities is the acquirer, paragraph 805-10-25-5 requires the factors in paragraphs 805-10-55-11 through 55-15 to be considered in making that determination.For a business combination that is effected primarily by exchanging equity interests in which a VIE is acquired, the factors in paragraphs 805-10-55-12 through 55-15 shall be considered in determining which entity is the accounting acquirer. For a business combination that is not effected primarily by exchanging equity interests in which a VIE is acquired, the primary beneficiary of that entity is the accounting acquirer.
+**805-10-55-10** Paragraph 805-10-25-5 provides that the guidance in the General Subsections of Subtopic 810-10 related to determining the existence of a controlling financial interest should be used to identify the acquirer in a business combination, except when a variable interest entity (VIE) is acquired. If a business combination has occurred but applying that guidance does not clearly indicate which of the combining entities is the acquirer, paragraph 805-10-25-5 requires the factors in paragraphs 805-10-55-11 through 55-15
+**805-10-55-11** to be considered in making that determination. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:805-10-65-5 Paragraph 805-10-25-5 provides that the guidance in the General Subsections of Subtopic 810-10 related to determining the existence of a controlling financial interest should be used to identify the acquirer in a business combination, except when a variable interest entity (VIE) is acquired. If a business combination has occurred but applying that guidance does not clearly indicate which of the combining entities is the acquirer, paragraph 805-10-25-5 requires the factors in paragraphs 805-10-55-11 through 55-15 to be considered in making that determination.For a business combination that is effected primarily by exchanging equity interests in which a VIE is acquired, the factors in paragraphs 805-10-55-12 through 55-15 shall be considered in determining which entity is the accounting acquirer. For a business combination that is not effected primarily by exchanging equity interests in which a VIE is acquired, the primary beneficiary of that entity is the accounting acquirer.
 In a business combination effected primarily by transferring cash or other assets or by incurring liabilities, the acquirer usually is the entity that transfers the cash or other assets or incurs the liabilities.
 **805-10-55-11** In a business combination effected primarily by transferring cash or other assets or by incurring liabilities, the acquirer usually is the entity that transfers the cash or other assets or incurs the liabilities.
 **805-10-55-12** In a business combination effected primarily by exchanging equity interests, the acquirer usually is the entity that issues its equity interests. However, in some business combinations, commonly called reverse acquisitions
@@ -1057,15 +1183,17 @@ In this Example, Target entered into the employment agreement before the negotia
 **805-10-55-41** Paragraphs 805-10-50-2, 805-20-50-1, and 805-30-50-1The following table summarizes the consideration paid for Target and the amounts of the assets acquired and liabilities assumed recognized at the acquisition date, as well as the fair value at the acquisition date of the noncontrolling interest
 in Target. At June 30, 20X2
 **805-10-55-41** Paragraphs 805-10-50-2, 805-20-50-1, and 805-30-50-1The following table summarizes the consideration paid for Target and the amounts of the assets acquired and liabilities assumed recognized at the acquisition date, as well as the fair value at the acquisition date of the noncontrolling interest
-**805-10-55-42** in Target. At June 30, 20X2
-Paragraph 805-30-50-1(b)(4)The fair value of the 100,000 common shares issued as part of the consideration paid for Target ($4,000) was determined on the basis of the closing market price of Acquirer's common shares on the acquisition date.
+in Target.
+At June 30, 20X2
+**805-10-55-42** Paragraph 805-30-50-1(b)(4)The fair value of the 100,000 common shares issued as part of the consideration paid for Target ($4,000) was determined on the basis of the closing market price of Acquirer's common shares on the acquisition date.
 **805-10-55-42** Paragraph 805-30-50-1(b)(4)The fair value of the 100,000 common shares issued as part of the consideration paid for Target ($4,000) was determined on the basis of the closing market price of Acquirer's common shares on the acquisition date.
 **805-10-55-43** Paragraph 805-30-50-1(b)(3) and 805-30-50-1(c), and paragraph 805-30-50-4(a)The contingent consideration arrangement requires Acquirer to pay the former owners of Target 5 percent of the revenues of an unconsolidated equity investment, referred to as Investee, owned by Target, in excess of $7,500 for 20X3, up to a maximum amount of $2,500 (undiscounted). The potential undiscounted amount of all future payments that Acquirer could be required to make under the contingent consideration arrangement is between $0 and $2,500. The fair value of the contingent consideration arrangement of $1,000 was estimated by applying the income approach. That measure is based on significant inputs that are not observable in the market, which Section 820-10-35 refers to as Level 3 inputs. Key assumptions include a discount rate range of 20 percent to 25 percent and a probability-adjusted level of revenues in Investee between $10,000 and $20,000. As of December 31, 20X2, the amount recognized for the contingent consideration arrangement, the range of outcomes, and the assumptions used to develop the estimates had not changed.
 **805-10-55-43** Paragraph 805-30-50-1(b)(3) and 805-30-50-1(c), and paragraph 805-30-50-4(a)The contingent consideration arrangement requires Acquirer to pay the former owners of Target 5 percent of the revenues of an unconsolidated equity investment, referred to as Investee, owned by Target, in excess of $7,500 for 20X3, up to a maximum amount of $2,500 (undiscounted). The potential undiscounted amount of all future payments that Acquirer could be required to make under the contingent consideration arrangement is between $0 and $2,500. The fair value of the contingent consideration arrangement of $1,000 was estimated by applying the income approach. That measure is based on significant inputs that are not observable in the market, which Section 820-10-35 refers to as Level 3 inputs. Key assumptions include a discount rate range of 20 percent to 25 percent and a probability-adjusted level of revenues in Investee between $10,000 and $20,000. As of December 31, 20X2, the amount recognized for the contingent consideration arrangement, the range of outcomes, and the assumptions used to develop the estimates had not changed.
 **805-10-55-44** Paragraph 805-20-50-1(b)The fair value of the financial assets acquired includes receivables under sales-type leases
 or direct financing leases of data networking equipment with a fair value of $2,000. The gross amount due under the contracts is $3,100, of which $450 is expected to be uncollectible.
 **805-10-55-44** Paragraph 805-20-50-1(b)The fair value of the financial assets acquired includes receivables under sales-type leases
-**805-10-55-45** or direct financing leases of data networking equipment with a fair value of $2,000. The gross amount due under the contracts is $3,100, of which $450 is expected to be uncollectible.
+or direct financing leases
+**805-10-55-45** of data networking equipment with a fair value of $2,000. The gross amount due under the contracts is $3,100, of which $450 is expected to be uncollectible.
 Paragraph 805-20-50-4AThe fair value of the acquired identifiable intangible assets of $3,300 is provisional pending receipt of the final valuations for those assets.
 **805-10-55-45** Paragraph 805-20-50-4AThe fair value of the acquired identifiable intangible assets of $3,300 is provisional pending receipt of the final valuations for those assets.
 **805-10-55-46** Paragraph 805-20-50-1(d)A liability of $1,000 has been recognized at fair value for expected warranty claims on products sold by Target during the last 3 years. Acquirer expects that the majority of this expenditure will be incurred in 20X3 and that all will be incurred by the end of 20X4.
@@ -1214,7 +1342,7 @@ The set has outputs through the continuation of revenues (interest income). Cons
 
 ## 65 Transition and Open Effective Date Information
 
-> **General Note:** The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
+General Note:The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
 
 ### General
 
@@ -1251,16 +1379,19 @@ The following represents the transition and effective date information related t
 
 **805-10-65-5** Accounting Standards Update 2025-03
 The following represents the transition and effective date information related to Accounting Standards Update No. 2025-03, *Business Combinations (Topic 805) and Consolidation (Topic 810): Determining the Accounting Acquirer in the Acquisition of a Variable Interest Entity*:
-1. All entities shall apply the pending content that links to this paragraph for annual reporting periods beginning after December 15, 2026, and interim reporting periods within those annual reporting periods.
+**Effective date and early adoption**
+All entities shall apply the pending content that links to this paragraph for annual reporting periods beginning after December 15, 2026, and interim reporting periods within those annual reporting periods.
 2. Early adoption of the pending content that links to this paragraph is permitted in an interim or annual reporting period in which financial statements have not yet been issued (or made available for issuance). If an entity adopts the pending content that links to this paragraph in an interim reporting period, it shall adopt the pending content as of the beginning of that interim reporting period or the beginning of the annual reporting period that includes that interim reporting period.
 
+**Transition method**
 1. An entity shall apply the pending content that links to this paragraph on a prospective basis to all business combinations that have an acquisition date that occurs on or after the date of initial application of the pending content.
 
+**Transition disclosures**
 1. An entity applying the pending content that links to this paragraph shall disclose in both the interim reporting period (if applicable) and the annual reporting period of the change the nature of and reason for the change in accounting principle.
 
 ## S00 Status
 
-> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
 ### General
 
@@ -1314,7 +1445,7 @@ The following represents the transition and effective date information related t
 
 ## S25 Recognition
 
-> **General Note:** The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
 
 ### General
 
@@ -1323,7 +1454,7 @@ The following represents the transition and effective date information related t
 
 ## S30 Initial Measurement
 
-> **General Note:** The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
 
 ### General
 
@@ -1339,7 +1470,7 @@ See paragraph 805-10-S99-8, SEC Observer Comment: Accounting by a Joint Venture 
 
 ## S50 Disclosure
 
-> **General Note:** The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
 
 ### General
 
@@ -1353,7 +1484,7 @@ See paragraph 270-10-S99-1, Regulation S-X Rule 10-1, for rules pertaining to su
 
 ## S55 Implementation Guidance and Illustrations
 
-> **General Note:** The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
 
 ### General
 
@@ -1371,7 +1502,7 @@ See paragraph 805-10-S99-2, SAB Topic 2.A.8, for SEC Staff views on the accounti
 
 ## S99 SEC Materials
 
-> **General Note:** As more fully described in *About the Codification*, the Codification includes selected SEC and SEC Staff content for reference by public companies. The Codification does not replace or affect how the SEC or SEC Staff issues or updates SEC content. SEC Staff content does not constitute Commission-approved rules or interpretations of the SEC.
+General Note:As more fully described in *About the Codification*, the Codification includes selected SEC and SEC Staff content for reference by public companies. The Codification does not replace or affect how the SEC or SEC Staff issues or updates SEC content. SEC Staff content does not constitute Commission-approved rules or interpretations of the SEC.
 
 ### General
 
@@ -1384,8 +1515,9 @@ See paragraph 805-10-S99-2, SAB Topic 2.A.8, for SEC Staff views on the accounti
 The following is the text of SAB Topic 2.A.8, Business Combinations Prior to an Initial Public Offering.Facts: Two or more businesses combine in a single combination just prior to or contemporaneously with an initial public offering.
 Question: Does the guidance in SAB Topic 5.G apply to business combinations entered into just prior to or contemporaneously with an initial public offering? Interpretive Response: No. The guidance in SAB Topic 5.G is intended to address the transfer, just prior to or contemporaneously with an initial public offering, of nonmonetary assets in exchange for a company's stock. The guidance in SAB Topic 5.G is not intended to modify the requirements of FASB ASC Topic 805. Accordingly, the staff believes that the combination of two or more businesses should be accounted for in accordance with FASB ASC Topic 805.
 **805-10-S99-2** The following is the text of SAB Topic 2.A.8, Business Combinations Prior to an Initial Public Offering.Facts: Two or more businesses combine in a single combination just prior to or contemporaneously with an initial public offering.
-**805-10-S99-3** Question: Does the guidance in SAB Topic 5.G apply to business combinations entered into just prior to or contemporaneously with an initial public offering? Interpretive Response: No. The guidance in SAB Topic 5.G is intended to address the transfer, just prior to or contemporaneously with an initial public offering, of nonmonetary assets in exchange for a company's stock. The guidance in SAB Topic 5.G is not intended to modify the requirements of FASB ASC Topic 805. Accordingly, the staff believes that the combination of two or more businesses should be accounted for in accordance with FASB ASC Topic 805.
-Paragraph not used.
+Question: Does the guidance in SAB Topic 5.G apply to business combinations entered into just prior to or contemporaneously with an initial public offering?
+Interpretive Response: No. The guidance in SAB Topic 5.G is intended to address the transfer, just prior to or contemporaneously with an initial public offering, of nonmonetary assets in exchange for a company's stock. The guidance in SAB Topic 5.G is not intended to modify the requirements of FASB ASC Topic 805. Accordingly, the staff believes that the combination of two or more businesses should be accounted for in accordance with FASB ASC Topic 805.
+**805-10-S99-3** Paragraph not used.
 **805-10-S99-3** Paragraph not used.
 **805-10-S99-4** Paragraph not used.
 **805-10-S99-4** Paragraph not used.

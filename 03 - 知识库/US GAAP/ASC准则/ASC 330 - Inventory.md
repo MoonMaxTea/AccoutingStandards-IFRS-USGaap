@@ -13,7 +13,7 @@ subtopics: ["330-10"]
 
 ## 00 Status
 
-> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
 ### General
 
@@ -90,7 +90,7 @@ subtopics: ["330-10"]
 
 ## 05 Overview and Background
 
-> **General Note:** The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
 
 ### General
 
@@ -105,7 +105,7 @@ An inventory has financial significance because revenues may be obtained from it
 
 ## 10 Objectives
 
-> **General Note:** The Objectives Section provides the high-level objectives that the Subtopic is intended to accomplish or attain. The Section does not summarize or discuss the main principles of accounting and reporting requirements.
+General Note:The Objectives Section provides the high-level objectives that the Subtopic is intended to accomplish or attain. The Section does not summarize or discuss the main principles of accounting and reporting requirements.
 
 ### General
 
@@ -114,7 +114,7 @@ An inventory has financial significance because revenues may be obtained from it
 
 ## 15 Scope and Scope Exceptions
 
-> **General Note:** The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
 
 ### General
 
@@ -133,7 +133,7 @@ The guidance in the Inventory Topic applies to all entities, with the following 
 
 ## 20 Glossary
 
-> **General Note:** The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
 
 ##### Customer
 
@@ -224,11 +224,11 @@ A service provider or product seller, such as a manufacturer, distributor, or re
 
 ## 30 Initial Measurement
 
-> **General Note:** The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
 
 ### General
 
-**330-10-30-1** > Cost Basis
+**330-10-30-1** Related Proposed ASUs > Cost Basis
 The primary basis of accounting for inventories is cost, which has been defined generally as the price paid or consideration given to acquire an asset. As applied to inventories, cost means in principle the sum of the applicable expenditures and charges directly or indirectly incurred in bringing an article to its existing condition and location. It is understood to mean acquisition and production cost, and its determination involves many considerations.
 The primary basis of accounting for inventories is cost, which has been defined generally as the price paid or consideration given to acquire an asset. As applied to inventories, cost means in principle the sum of the applicable expenditures and charges directly or indirectly incurred in bringing an article to its existing condition and location. It is understood to mean acquisition and production cost, and its determination involves many considerations.
 Although principles for the determination of inventory
@@ -287,7 +287,7 @@ See paragraph 912-20-25-1 for the accounting for indirect contract costs by gove
 
 ## 35 Subsequent Measurement
 
-> **General Note:** The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
 
 ### General
 
@@ -385,7 +385,7 @@ See paragraph 270-10-45-6 for a discussion of practices used in determining cost
 
 ## 45 Other Presentation Matters
 
-> **General Note:** The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
 
 ### General
 
@@ -399,11 +399,11 @@ Paragraph superseded by Accounting Standards Update No. 2014-09.
 
 ## 50 Disclosure
 
-> **General Note:** The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
 
 ### General
 
-**330-10-50-1** > Basis for Stating Inventories
+**330-10-50-1** Related Proposed ASUs > Basis for Stating Inventories
 The basis of stating inventories shall be consistently applied and shall be disclosed in the financial statements; whenever a significant change is made therein, there shall be disclosure of the nature of the change and, if material, the effect on income. A change of such basis may have an important effect upon the interpretation of the financial statements both before and after that change, and hence, in the event of a change, a full disclosure of its nature and of its effect, if material, upon income shall be made. See paragraph 210-10-50-1.
 **330-10-50-1** The basis of stating inventories shall be consistently applied and shall be disclosed in the financial statements; whenever a significant change is made therein, there shall be disclosure of the nature of the change and, if material, the effect on income. A change of such basis may have an important effect upon the interpretation of the financial statements both before and after that change, and hence, in the event of a change, a full disclosure of its nature and of its effect, if material, upon income shall be made. See paragraph 210-10-50-1.
 **330-10-50-2** > Losses from the Subsequent Measurement of Inventory
@@ -418,18 +418,20 @@ Where such inventories are stated at sales prices, the use of such basis shall b
 **330-10-50-4** Where such inventories are stated at sales prices, the use of such basis shall be fully disclosed in the financial statements.
 **330-10-50-5** > Losses on Firm Purchase Commitments
 The amounts of net losses on firm purchase commitments accrued under paragraph 330-10-35-17 shall be disclosed separately in the income statement.
+PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:220-40-65-1The amounts of net losses on firm purchase commitments accrued under paragraph 330-10-35-17 shall be disclosed separately in the income statement. See paragraphs 220-40-50-21 through 50-25 for additional disclosure requirements.
 **330-10-50-5** The amounts of net losses on firm purchase commitments accrued under paragraph 330-10-35-17 shall be disclosed separately in the income statement.
-**330-10-50-6** > Disclosure of Significant Estimates
+**330-10-50-6** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:220-40-65-1The amounts of net losses on firm purchase commitments accrued under paragraph 330-10-35-17 shall be disclosed separately in the income statement. See paragraphs 220-40-50-21 through 50-25 for additional disclosure requirements.> Disclosure of Significant Estimates
 See Example 1 (paragraph 330-10-55-8) for an illustration of the disclosure of significant estimates applicable to inventories as required by Section 275-10-50.
 **330-10-50-6** See Example 1 (paragraph 330-10-55-8) for an illustration of the disclosure of significant estimates applicable to inventories as required by Section 275-10-50.
 
 ## 55 Implementation Guidance and Illustrations
 
-> **General Note:** The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
 
 ### General
 
-**330-10-55-1** This Section, which is an integral part of the requirements of this Topic, provides general guidance to be used in accounting for inventory
+**330-10-55-1** Related Proposed ASUs
+This Section, which is an integral part of the requirements of this Topic, provides general guidance to be used in accounting for inventory
 . Certain assumptions have been made to simplify the computations and focus on the issue at hand in each illustration.
 **330-10-55-1** This Section, which is an integral part of the requirements of this Topic, provides general guidance to be used in accounting for inventory
 
@@ -480,16 +482,17 @@ This Example illustrates the guidance in paragraph 330-10-50-6 regarding the dis
 
 ## 65 Transition and Open Effective Date Information
 
-> **General Note:** The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
+General Note:The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
 
 ### General
 
-**330-10-65-1** Paragraph superseded on 06/20/2018 after the end of the transition period stated in Accounting Standards Update No. 2015-11, *Inventory (Topic 330): Simplifying the Measurement of Inventory*.
+**330-10-65-1** Related Proposed ASUs
+Paragraph superseded on 06/20/2018 after the end of the transition period stated in Accounting Standards Update No. 2015-11, *Inventory (Topic 330): Simplifying the Measurement of Inventory*.
 **330-10-65-1** Paragraph superseded on 06/20/2018 after the end of the transition period stated in Accounting Standards Update No. 2015-11, *Inventory (Topic 330): Simplifying the Measurement of Inventory*.
 
 ## S00 Status
 
-> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
 ### General
 
@@ -513,7 +516,7 @@ This Example illustrates the guidance in paragraph 330-10-50-6 regarding the dis
 
 ## S35 Subsequent Measurement
 
-> **General Note:** The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
 
 ### General
 
@@ -526,7 +529,7 @@ See paragraph 420-10-S99-3, SEC Observer Comment: Classification of Inventory Ma
 
 ## S45 Other Presentation Matters
 
-> **General Note:** The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
 
 ### General
 
@@ -536,7 +539,7 @@ See paragraph 210-10-S99-1, Regulation S-X Rule 5-02.6, for requirements for inv
 
 ## S50 Disclosure
 
-> **General Note:** The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
 
 ### General
 
@@ -549,7 +552,7 @@ See paragraph 330-10-S99-3, SAB Topic 11.F, for SEC Staff views on disclosure of
 
 ## S55 Implementation Guidance and Illustrations
 
-> **General Note:** The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
 
 ### General
 
@@ -559,7 +562,7 @@ See paragraph 330-10-S99-1, SAB Topic 5.L, for SEC Staff views on appropriate la
 
 ## S99 SEC Materials
 
-> **General Note:** As more fully described in *About the Codification*, the Codification includes selected SEC and SEC Staff content for reference by public companies. The Codification does not replace or affect how the SEC or SEC Staff issues or updates SEC content. SEC Staff content does not constitute Commission-approved rules or interpretations of the SEC.
+General Note:As more fully described in *About the Codification*, the Codification includes selected SEC and SEC Staff content for reference by public companies. The Codification does not replace or affect how the SEC or SEC Staff issues or updates SEC content. SEC Staff content does not constitute Commission-approved rules or interpretations of the SEC.
 
 ### General
 
@@ -569,12 +572,29 @@ See paragraph 330-10-S99-1, SAB Topic 5.L, for SEC Staff views on appropriate la
 The following is the text of SAB Topic 5.L, LIFO Inventory Practices.Facts: On November 30, 1984, AcSEC and its Task Force on LIFO Inventory Problems (task force) issued a paper, "Identification and Discussion of Certain Financial Accounting and Reporting Issues Concerning LIFO Inventories." This paper identifies and discusses certain financial accounting and reporting issues related to the last-in, first-out (LIFO) inventory method for which authoritative accounting literature presently provides no definitive guidance. For some issues, the task force's advisory conclusions recommend changes in current practice to narrow the diversity which the task force believes exists. For other issues, the task force's advisory conclusions recommend that current practice should be continued for financial reporting purposes and that additional accounting guidance is unnecessary. Except as otherwise noted in the paper, AcSEC generally supports the task force's advisory conclusions. As stated in the issues paper, "Issues papers of the AICPA's accounting standards division are developed primarily to identify financial accounting and reporting issues the division believes need to be addressed or clarified by the Financial Accounting Standards Board." On February 6, 1985, the FASB decided not to add to its agenda a narrow project on the subject of LIFO inventory practices.
 Question 1: What is the SEC staff's position on the issues paper? Interpretive Response: In the absence of existing authoritative literature on LIFO accounting, the staff believes that registrants and their independent accountants should look to the paper for guidance in determining what constitutes acceptable LIFO accounting practice. FN11 In this connection, the staff considers the paper to be an accumulation of existing acceptable LIFO accounting practices which does not establish any new standards and does not diverge from GAAP. FN11 In ASR 293 (July 2, 1981) see Financial Reporting Codification 205, the Commission expressed its concerns about the inappropriate use of Internal Revenue Service (IRS) LIFO practices for financial statement preparation. Because the IRS amended its regulations concerning the LIFO conformity rule on January 13, 1981, allowing companies to apply LIFO differently for financial reporting purposes than for tax purposes, the Commission strongly encouraged registrants and their independent accountants to examine their financial reporting LIFO practices. In that release, the Commission acknowledged the "task force which has been established by AcSEC to accumulate information about [LIFO] application problems" and noted that "This type of effort, in addition to self-examination [of LIFO practices] by individual registrants, is appropriate..." The staff also believes that the advisory conclusions recommended in the issues paper are generally consistent with conclusions previously expressed by the Commission, such as: 1. Pooling-paragraph 4-6 of the paper discusses LIFO inventory pooling and concludes "establishing separate pools with the principal objective of facilitating inventory liquidations is unacceptable." In Accounting and Auditing Enforcement Release 35, August 13, 1984, the Commission stated that it believes that the Company improperly realigned its LIFO pools in such a way as to maximize the likelihood and magnitude of LIFO liquidations and thus, overstated net income. 2. New Items-paragraph 4-27 of the paper discusses determination of the cost of new items and concludes "if the double extension or an index technique is used, the objective of LIFO is achieved by reconstructing the base year cost of new items added to existing pools." In ASR 293, the Commission stated that when the effects of inflation on the cost of new products are measured by making a comparison with current cost as the base-year cost, rather than a reconstructed base-year cost, income is improperly increased. Question 2: If a registrant utilizes a LIFO practice other than one recommended by an advisory conclusion in the issues paper, must the registrant change its practice to one specified in the paper? Interpretive Response: Now that the issues paper is available, the staff believes that a registrant and its independent accountants should re-examine previously adopted LIFO practices and compare them to the recommendations in the paper. In the event that the registrant and its independent accountants conclude that the registrant's LIFO practices are preferable in the circumstances, they should be prepared to justify their position in the event that a question is raised by the staff. Question 3: If a registrant elects to change its LIFO practices to be consistent with the guidance in the issues paper and discloses such changes in accordance with FASB ASC Topic 250, Accounting Changes and Error Corrections, will the registrant be requested by the staff to explain its past practices and its justification for those practices? Interpretive Response: The staff does not expect to routinely raise questions about changes in LIFO practices which are made to make a company's accounting consistent with the recommendations in the issues paper.
 **330-10-S99-1** The following is the text of SAB Topic 5.L, LIFO Inventory Practices.Facts: On November 30, 1984, AcSEC and its Task Force on LIFO Inventory Problems (task force) issued a paper, "Identification and Discussion of Certain Financial Accounting and Reporting Issues Concerning LIFO Inventories." This paper identifies and discusses certain financial accounting and reporting issues related to the last-in, first-out (LIFO) inventory method for which authoritative accounting literature presently provides no definitive guidance. For some issues, the task force's advisory conclusions recommend changes in current practice to narrow the diversity which the task force believes exists. For other issues, the task force's advisory conclusions recommend that current practice should be continued for financial reporting purposes and that additional accounting guidance is unnecessary. Except as otherwise noted in the paper, AcSEC generally supports the task force's advisory conclusions. As stated in the issues paper, "Issues papers of the AICPA's accounting standards division are developed primarily to identify financial accounting and reporting issues the division believes need to be addressed or clarified by the Financial Accounting Standards Board." On February 6, 1985, the FASB decided not to add to its agenda a narrow project on the subject of LIFO inventory practices.
-**330-10-S99-2** Question 1: What is the SEC staff's position on the issues paper? Interpretive Response: In the absence of existing authoritative literature on LIFO accounting, the staff believes that registrants and their independent accountants should look to the paper for guidance in determining what constitutes acceptable LIFO accounting practice. FN11 In this connection, the staff considers the paper to be an accumulation of existing acceptable LIFO accounting practices which does not establish any new standards and does not diverge from GAAP. FN11 In ASR 293 (July 2, 1981) see Financial Reporting Codification 205, the Commission expressed its concerns about the inappropriate use of Internal Revenue Service (IRS) LIFO practices for financial statement preparation. Because the IRS amended its regulations concerning the LIFO conformity rule on January 13, 1981, allowing companies to apply LIFO differently for financial reporting purposes than for tax purposes, the Commission strongly encouraged registrants and their independent accountants to examine their financial reporting LIFO practices. In that release, the Commission acknowledged the "task force which has been established by AcSEC to accumulate information about [LIFO] application problems" and noted that "This type of effort, in addition to self-examination [of LIFO practices] by individual registrants, is appropriate..." The staff also believes that the advisory conclusions recommended in the issues paper are generally consistent with conclusions previously expressed by the Commission, such as: 1. Pooling-paragraph 4-6 of the paper discusses LIFO inventory pooling and concludes "establishing separate pools with the principal objective of facilitating inventory liquidations is unacceptable." In Accounting and Auditing Enforcement Release 35, August 13, 1984, the Commission stated that it believes that the Company improperly realigned its LIFO pools in such a way as to maximize the likelihood and magnitude of LIFO liquidations and thus, overstated net income. 2. New Items-paragraph 4-27 of the paper discusses determination of the cost of new items and concludes "if the double extension or an index technique is used, the objective of LIFO is achieved by reconstructing the base year cost of new items added to existing pools." In ASR 293, the Commission stated that when the effects of inflation on the cost of new products are measured by making a comparison with current cost as the base-year cost, rather than a reconstructed base-year cost, income is improperly increased. Question 2: If a registrant utilizes a LIFO practice other than one recommended by an advisory conclusion in the issues paper, must the registrant change its practice to one specified in the paper? Interpretive Response: Now that the issues paper is available, the staff believes that a registrant and its independent accountants should re-examine previously adopted LIFO practices and compare them to the recommendations in the paper. In the event that the registrant and its independent accountants conclude that the registrant's LIFO practices are preferable in the circumstances, they should be prepared to justify their position in the event that a question is raised by the staff. Question 3: If a registrant elects to change its LIFO practices to be consistent with the guidance in the issues paper and discloses such changes in accordance with FASB ASC Topic 250, Accounting Changes and Error Corrections, will the registrant be requested by the staff to explain its past practices and its justification for those practices? Interpretive Response: The staff does not expect to routinely raise questions about changes in LIFO practices which are made to make a company's accounting consistent with the recommendations in the issues paper. · · > SAB Topic 5.BB, Inventory Valuation Allowance
+Question 1: What is the SEC staff's position on the issues paper?
+Interpretive Response: In the absence of existing authoritative literature on LIFO accounting, the staff believes that registrants and their independent accountants should look to the paper for guidance in determining what constitutes acceptable LIFO accounting practice. FN11 In this connection, the staff considers the paper to be an accumulation of existing acceptable LIFO accounting practices which does not establish any new standards and does not diverge from GAAP.
+FN11 In ASR 293 (July 2, 1981) see Financial Reporting Codification 205, the Commission expressed its concerns about the inappropriate use of Internal Revenue Service (IRS) LIFO practices for financial statement preparation. Because the IRS amended its regulations concerning the LIFO conformity rule on January 13, 1981, allowing companies to apply LIFO differently for financial reporting purposes than for tax purposes, the Commission strongly encouraged registrants and their independent accountants to examine their financial reporting LIFO practices. In that release, the Commission acknowledged the "task force which has been established by AcSEC to accumulate information about [LIFO] application problems" and noted that "This type of effort, in addition to self-examination [of LIFO practices] by individual registrants, is appropriate..."
+The staff also believes that the advisory conclusions recommended in the issues paper are generally consistent with conclusions previously expressed by the Commission, such as:
+1. Pooling-paragraph 4-6 of the paper discusses LIFO inventory pooling and concludes "establishing separate pools with the principal objective of facilitating inventory liquidations is unacceptable." In Accounting and Auditing Enforcement Release 35, August 13, 1984, the Commission stated that it believes that the Company improperly realigned its LIFO pools in such a way as to maximize the likelihood and magnitude of LIFO liquidations and thus, overstated net income.
+2. New Items-paragraph 4-27 of the paper discusses determination of the cost of new items and concludes "if the double extension or an index technique is used, the objective of LIFO is achieved by reconstructing the base year cost of new items added to existing pools." In ASR 293, the Commission stated that when the effects of inflation on the cost of new products are measured by making a comparison with current cost as the base-year cost, rather than a reconstructed base-year cost, income is improperly increased.
+Question 2: If a registrant utilizes a LIFO practice other than one recommended by an advisory conclusion in the issues paper, must the registrant change its practice to one specified in the paper?
+Interpretive Response: Now that the issues paper is available, the staff believes that a registrant and its independent accountants should re-examine previously adopted LIFO practices and compare them to the recommendations in the paper. In the event that the registrant and its independent accountants conclude that the registrant's LIFO practices are preferable in the circumstances, they should be prepared to justify their position in the event that a question is raised by the staff.
+Question 3: If a registrant elects to change its LIFO practices to be consistent with the guidance in the issues paper and discloses such changes in accordance with FASB ASC Topic 250, Accounting Changes and Error Corrections, will the registrant be requested by the staff to explain its past practices and its justification for those practices?
+Interpretive Response: The staff does not expect to routinely raise questions about changes in LIFO practices which are made to make a company's accounting consistent with the recommendations in the issues paper.
+**330-10-S99-2** · · > SAB Topic 5.BB, Inventory Valuation Allowance
 The following is the text of SAB Topic 5.BB, Inventory Valuation Allowance.Facts: FASB ASC paragraph 330-10-35-1 (Inventory Topic), specifies that: "[a] departure from the cost basis of pricing the inventory is required when the utility of the goods is no longer as great as its cost. Where there is evidence that the utility of goods, in their disposal in the ordinary course of business, will be less than cost, whether due to physical deterioration, obsolescence, changes in price levels, or other causes, the difference shall be recognized as a loss of the current period. This is generally accomplished by stating such goods at a lower level commonly designated as market."
 FASB ASC paragraph 330-10-35-14 indicates that "[i]n the case of goods which have been written down below cost at the close of a fiscal year, such reduced amount is to be considered the cost for subsequent accounting purposes."Lastly, the FASB ASC Master Glossary provides "inventory obsolescence" as one of the items subject to a change in accounting estimate. Question: Does the write-down of inventory to the lower of cost or market, as required by FASB ASC Topic 330, create a new cost basis for the inventory or may a subsequent change in facts and circumstances allow for restoration of inventory value, not to exceed original historical cost? Interpretive Response: Based on FASB ASC paragraph 330-10-35-14, the staff believes that a write-down of inventory to the lower of cost or market at the close of a fiscal period creates a new cost basis that subsequently cannot be marked up based on changes in underlying facts and circumstances. FN59 FN59 See also disclosure requirement for inventory balances in Rule 5-02(6) of Regulation S-X.
 **330-10-S99-2** The following is the text of SAB Topic 5.BB, Inventory Valuation Allowance.Facts: FASB ASC paragraph 330-10-35-1 (Inventory Topic), specifies that: "[a] departure from the cost basis of pricing the inventory is required when the utility of the goods is no longer as great as its cost. Where there is evidence that the utility of goods, in their disposal in the ordinary course of business, will be less than cost, whether due to physical deterioration, obsolescence, changes in price levels, or other causes, the difference shall be recognized as a loss of the current period. This is generally accomplished by stating such goods at a lower level commonly designated as market."
-**330-10-S99-3** FASB ASC paragraph 330-10-35-14 indicates that "[i]n the case of goods which have been written down below cost at the close of a fiscal year, such reduced amount is to be considered the cost for subsequent accounting purposes."Lastly, the FASB ASC Master Glossary provides "inventory obsolescence" as one of the items subject to a change in accounting estimate. Question: Does the write-down of inventory to the lower of cost or market, as required by FASB ASC Topic 330, create a new cost basis for the inventory or may a subsequent change in facts and circumstances allow for restoration of inventory value, not to exceed original historical cost? Interpretive Response: Based on FASB ASC paragraph 330-10-35-14, the staff believes that a write-down of inventory to the lower of cost or market at the close of a fiscal period creates a new cost basis that subsequently cannot be marked up based on changes in underlying facts and circumstances. FN59 FN59 See also disclosure requirement for inventory balances in Rule 5-02(6) of Regulation S-X. · · > SAB Topic 11.F, LIFO Liquidations
+FASB ASC paragraph 330-10-35-14 indicates that "[i]n the case of goods which have been written down below cost at the close of a fiscal year, such reduced amount is to be considered the cost for subsequent accounting purposes."
+Lastly, the FASB ASC Master Glossary provides "inventory obsolescence" as one of the items subject to a change in accounting estimate.
+Question: Does the write-down of inventory to the lower of cost or market, as required by FASB ASC Topic 330, create a new cost basis for the inventory or may a subsequent change in facts and circumstances allow for restoration of inventory value, not to exceed original historical cost?
+Interpretive Response: Based on FASB ASC paragraph 330-10-35-14, the staff believes that a write-down of inventory to the lower of cost or market at the close of a fiscal period creates a new cost basis that subsequently cannot be marked up based on changes in underlying facts and circumstances. FN59
+FN59 See also disclosure requirement for inventory balances in Rule 5-02(6) of Regulation S-X.
+**330-10-S99-3** · · > SAB Topic 11.F, LIFO Liquidations
 The following is the text of SAB Topic 11.F, LIFO Liquidations.Facts: Registrant on LIFO basis of accounting liquidates a substantial portion of its LIFO inventory and as a result includes a material amount of income in its income statement which would not have been recorded had the inventory liquidation not taken place.
 Question: Is disclosure required of the amount of income realized as a result of the inventory liquidation? Interpretive Response: Yes. Such disclosure would be required in order to make the financial statements not misleading. Disclosure may be made either in a footnote or parenthetically on the face of the income statement.
 **330-10-S99-3** The following is the text of SAB Topic 11.F, LIFO Liquidations.Facts: Registrant on LIFO basis of accounting liquidates a substantial portion of its LIFO inventory and as a result includes a material amount of income in its income statement which would not have been recorded had the inventory liquidation not taken place.
-Question: Is disclosure required of the amount of income realized as a result of the inventory liquidation? Interpretive Response: Yes. Such disclosure would be required in order to make the financial statements not misleading. Disclosure may be made either in a footnote or parenthetically on the face of the income statement.
+Question: Is disclosure required of the amount of income realized as a result of the inventory liquidation?
+Interpretive Response: Yes. Such disclosure would be required in order to make the financial statements not misleading. Disclosure may be made either in a footnote or parenthetically on the face of the income statement.
+About Help Contact Us Copyright Terms and Conditions FASB.org Assets 330 Inventory Print keyboard_arrow_upDisplaykeyboard_arrow_up

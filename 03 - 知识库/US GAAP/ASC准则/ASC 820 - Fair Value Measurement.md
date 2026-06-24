@@ -14,7 +14,7 @@ key: true
 
 ## 00 Status
 
-> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
 ### General
 
@@ -627,7 +627,7 @@ key: true
 
 ## 05 Overview and Background
 
-> **General Note:** The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
 
 ### General
 
@@ -656,11 +656,11 @@ When a price for an identical asset or liability is not observable, a reporting 
 
 ## 15 Scope and Scope Exceptions
 
-> **General Note:** The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
 
 ### General
 
-**820-10-15-1** > Overall Guidance
+**820-10-15-1** Related Proposed ASUs > Overall Guidance
 The Scope Section of the Overall Subtopic establishes the scope for the Fair Value Measurement Topic. Except as noted below, this Topic applies when another Topic requires or permits fair value
 measurements or disclosures about fair value measurements (and measurements, such as fair value less costs to sell, based on fair value or disclosures about those measurements).
 The Scope Section of the Overall Subtopic establishes the scope for the Fair Value Measurement Topic. Except as noted below, this Topic applies when another Topic requires or permits fair value
@@ -738,7 +738,7 @@ The definition of *readily determinable fair value* indicates that an equity sec
 
 ## 20 Glossary
 
-> **General Note:** The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
 
 ##### Acquiree
 
@@ -747,17 +747,25 @@ The business or businesses that the acquirer obtains control of in a business co
 
 ##### Acquirer
 
+The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:805-10-65-5The entity that obtains control of the acquiree.See paragraphs 805-10-25-4 through 25-5 for guidance on determining the acquirer.
+The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer.
+PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:805-10-65-5The entity that obtains control of the acquiree.See paragraphs 805-10-25-4 through 25-5
+
 ##### Acquisition by a Not-for-Profit Entity
 
-The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer. The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer. A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.
+for guidance on determining the acquirer.A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.
+A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.
 
 ##### Active Market
 
-A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.A market in which transactions for the asset or liability take place with sufficient frequency and volume to provide pricing information on an ongoing basis.
+A market in which transactions for the asset or liability take place with sufficient frequency and volume to provide pricing information on an ongoing basis.
+A market in which transactions for the asset or liability take place with sufficient frequency and volume to provide pricing information on an ongoing basis.
 
 ##### Benchmark Interest Rate
 
-A market in which transactions for the asset or liability take place with sufficient frequency and volume to provide pricing information on an ongoing basis. A widely recognized and quoted rate in an active financial market that is broadly indicative of the overall level of interest rates attributable to high-credit-quality obligors in that market. It is a rate that is widely used in a given financial market as an underlying basis for determining the interest rates of individual financial instruments and commonly referenced in interest-rate-related transactions. In theory, the benchmark interest rate should be a risk-free rate (that is, has no risk of default). In some markets, government borrowing rates may serve as a benchmark. In other markets, the benchmark interest rate may be an interbank offered rate.
+A widely recognized and quoted rate in an active financial market that is broadly indicative of the overall level of interest rates attributable to high-credit-quality obligors in that market. It is a rate that is widely used in a given financial market as an underlying basis for determining the interest rates of individual financial instruments and commonly referenced in interest-rate-related transactions. In theory, the benchmark interest rate should be a risk-free rate (that is, has no risk of default). In some markets, government borrowing rates may serve as a benchmark. In other markets, the benchmark interest rate may be an interbank offered rate.
+A widely recognized and quoted rate in an active financial market that is broadly indicative of the overall level of interest rates attributable to high-credit-quality obligors in that market. It is a rate that is widely used in a given financial market as an underlying basis for determining the interest rates of individual financial instruments and commonly referenced in interest-rate-related transactions.
+In theory, the benchmark interest rate should be a risk-free rate (that is, has no risk of default). In some markets, government borrowing rates may serve as a benchmark. In other markets, the benchmark interest rate may be an interbank offered rate.
 
 ##### Beneficial Interests
 
@@ -766,7 +774,7 @@ A market in which transactions for the asset or liability take place with suffic
 3. Commercial paper obligations
 4. Residual interests, whether in the form of debt or equity.
 
-1. Senior and subordinated shares of interest, principal, or other cash inflows to be passed-through or paid-through
+Senior and subordinated shares of interest, principal, or other cash inflows to be passed-through or paid-through
 2. Premiums due to guarantors
 3. Commercial paper obligations
 4. Residual interests, whether in the form of debt or equity.
@@ -774,30 +782,37 @@ A market in which transactions for the asset or liability take place with suffic
 ##### Brokered Market
 
 A market in which brokers attempt to match buyers with sellers but do not stand ready to trade for their own account. In other words, brokers do not use their own capital to hold an inventory of the items for which they make a market. The broker knows the prices bid and asked by the respective parties, but each party is typically unaware of another party's price requirements. Prices of completed transactions are sometimes available. Brokered markets include electronic communication networks, in which buy and sell orders are matched, and commercial and residential real estate markets.
+A market in which brokers attempt to match buyers with sellers but do not stand ready to trade for their own account. In other words, brokers do not use their own capital to hold an inventory of the items for which they make a market. The broker knows the prices bid and asked by the respective parties, but each party is typically unaware of another party's price requirements. Prices of completed transactions are sometimes available. Brokered markets include electronic communication networks, in which buy and sell orders are matched, and commercial and residential real estate markets.
 
 ##### Business
 
-A market in which brokers attempt to match buyers with sellers but do not stand ready to trade for their own account. In other words, brokers do not use their own capital to hold an inventory of the items for which they make a market. The broker knows the prices bid and asked by the respective parties, but each party is typically unaware of another party's price requirements. Prices of completed transactions are sometimes available. Brokered markets include electronic communication networks, in which buy and sell orders are matched, and commercial and residential real estate markets. Paragraphs 805-10-55-3A through 55-6 and 805-10-55-8 through 55-9 define what is considered a business.
+Paragraphs 805-10-55-3A through 55-6 and 805-10-55-8 through 55-9 define what is considered a business.
+Paragraphs 805-10-55-3A through 55-6
 
 ##### Business Combination
 
-Paragraphs 805-10-55-3A through 55-6 and 805-10-55-8 through 55-9 define what is considered a business. A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
+and 805-10-55-8 through 55-9 define what is considered a business. A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
+A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
 
 ##### Collateralized Financing Entity
 
-A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.A variable interest entity that holds financial assets, issues beneficial interests in those financial assets, and has no more than nominal equity. The beneficial interests have contractual recourse only to the related assets of the collateralized financing entity and are classified as financial liabilities. A collateralized financing entity may hold nonfinancial assets temporarily as a result of default by the debtor on the underlying debt instruments held as assets by the collateralized financing entity or in an effort to restructure the debt instruments held as assets by the collateralized financing entity. A collateralized financing entity also may hold other financial assets and financial liabilities that are incidental to the operations of the collateralized financing entity and have carrying values that approximate fair value (for example, cash, broker receivables, or broker payables).
+A variable interest entity that holds financial assets, issues beneficial interests in those financial assets, and has no more than nominal equity. The beneficial interests have contractual recourse only to the related assets of the collateralized financing entity and are classified as financial liabilities. A collateralized financing entity may hold nonfinancial assets temporarily as a result of default by the debtor on the underlying debt instruments held as assets by the collateralized financing entity or in an effort to restructure the debt instruments held as assets by the collateralized financing entity. A collateralized financing entity also may hold other financial assets and financial liabilities that are incidental to the operations of the collateralized financing entity and have carrying values that approximate fair value (for example, cash, broker receivables, or broker payables).
+A variable interest entity that holds financial assets, issues beneficial interests in those financial assets, and has no more than nominal equity. The beneficial interests have contractual recourse only to the related assets of the collateralized financing entity and are classified as financial liabilities. A collateralized financing entity may hold nonfinancial assets temporarily as a result of default by the debtor on the underlying debt instruments held as assets by the collateralized financing entity or in an effort to restructure the debt instruments held as assets by the collateralized financing entity. A collateralized financing entity also may hold other financial assets and financial liabilities that are incidental to the operations of the collateralized financing entity and have carrying values that approximate fair value (for example, cash, broker receivables, or broker payables).
 
 ##### Conduit Debt Securities
 
-A variable interest entity that holds financial assets, issues beneficial interests in those financial assets, and has no more than nominal equity. The beneficial interests have contractual recourse only to the related assets of the collateralized financing entity and are classified as financial liabilities. A collateralized financing entity may hold nonfinancial assets temporarily as a result of default by the debtor on the underlying debt instruments held as assets by the collateralized financing entity or in an effort to restructure the debt instruments held as assets by the collateralized financing entity. A collateralized financing entity also may hold other financial assets and financial liabilities that are incidental to the operations of the collateralized financing entity and have carrying values that approximate fair value (for example, cash, broker receivables, or broker payables).Certain limited-obligation revenue bonds, certificates of participation, or similar debt instruments issued by a state or local governmental entity for the express purpose of providing financing for a specific third party (the conduit bond obligor) that is not a part of the state or local government's financial reporting entity. Although conduit debt securities bear the name of the governmental entity that issues them, the governmental entity often has no obligation for such debt beyond the resources provided by a lease or loan agreement with the third party on whose behalf the securities are issued. Further, the conduit bond obligor is responsible for any future financial reporting requirements.
+Certain limited-obligation revenue bonds, certificates of participation, or similar debt instruments issued by a state or local governmental entity for the express purpose of providing financing for a specific third party (the conduit bond obligor) that is not a part of the state or local government's financial reporting entity. Although conduit debt securities bear the name of the governmental entity that issues them, the governmental entity often has no obligation for such debt beyond the resources provided by a lease or loan agreement with the third party on whose behalf the securities are issued. Further, the conduit bond obligor is responsible for any future financial reporting requirements.
+Certain limited-obligation revenue bonds, certificates of participation, or similar debt instruments issued by a state or local governmental entity for the express purpose of providing financing for a specific third party (the conduit bond obligor) that is not a part of the state or local government's financial reporting entity. Although conduit debt securities bear the name of the governmental entity that issues them, the governmental entity often has no obligation for such debt beyond the resources provided by a lease or loan agreement with the third party on whose behalf the securities are issued. Further, the conduit bond obligor is responsible for any future financial reporting requirements.
 
 ##### Contract
 
-Certain limited-obligation revenue bonds, certificates of participation, or similar debt instruments issued by a state or local governmental entity for the express purpose of providing financing for a specific third party (the conduit bond obligor) that is not a part of the state or local government's financial reporting entity. Although conduit debt securities bear the name of the governmental entity that issues them, the governmental entity often has no obligation for such debt beyond the resources provided by a lease or loan agreement with the third party on whose behalf the securities are issued. Further, the conduit bond obligor is responsible for any future financial reporting requirements. An agreement between two or more parties that creates enforceable rights and obligations.
+An agreement between two or more parties that creates enforceable rights and obligations.
+An agreement between two or more parties that creates enforceable rights and obligations.
 
 ##### Cost Approach
 
-An agreement between two or more parties that creates enforceable rights and obligations. A valuation approach that reflects the amount that would be required currently to replace the service capacity of an asset (often referred to as current replacement cost).
+A valuation approach that reflects the amount that would be required currently to replace the service capacity of an asset (often referred to as current replacement cost).
+A valuation approach that reflects the amount that would be required currently to replace the service capacity of an asset (often referred to as current replacement cost).
 
 ##### Credit Risk
 
@@ -808,32 +823,37 @@ An agreement between two or more parties that creates enforceable rights and obl
 2. Changes in the obligor's creditworthiness
 3. Changes in the spread over the contractually specified interest rate or the benchmark interest rate with respect to the related financial asset's or liability's credit sector at inception of the hedge.
 
-1. Changes in the obligor's creditworthiness
+Changes in the obligor's creditworthiness
 2. Changes in the spread over the benchmark interest ratewith respect to the hedged item's credit sector at inception of the hedge.
 
-1. Default
+Default
 2. Changes in the obligor's creditworthiness
 3. Changes in the spread over the contractually specified interest rate or the benchmark interest rate with respect to the related financial asset's or liability's credit sector at inception of the hedge.
 
 ##### Currency Risk
 
 The risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in foreign exchange rates.
+The risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in foreign exchange rates.
 
 ##### Customer
 
-The risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in foreign exchange rates.A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.
+A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.
+A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.
 
 ##### Dealer Market
 
-A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.A market in which dealers stand ready to trade (either buy or sell for their own account), thereby providing liquidity by using their capital to hold an inventory of the items for which they make a market. Typically, bid and ask prices (representing the price at which the dealer is willing to buy and the price at which the dealer is willing to sell, respectively) are more readily available than closing prices. Over-the-counter markets (for which prices are publicly reported by the National Association of Securities Dealers Automated Quotations systems or by OTC Markets Group Inc.) are dealer markets. For example, the market for U.S. Treasury securities is a dealer market. Dealer markets also exist for some other assets and liabilities, including other financial instruments, commodities, and physical assets (for example, used equipment).
+A market in which dealers stand ready to trade (either buy or sell for their own account), thereby providing liquidity by using their capital to hold an inventory of the items for which they make a market. Typically, bid and ask prices (representing the price at which the dealer is willing to buy and the price at which the dealer is willing to sell, respectively) are more readily available than closing prices. Over-the-counter markets (for which prices are publicly reported by the National Association of Securities Dealers Automated Quotations systems or by OTC Markets Group Inc.) are dealer markets. For example, the market for U.S. Treasury securities is a dealer market. Dealer markets also exist for some other assets and liabilities, including other financial instruments, commodities, and physical assets (for example, used equipment).
+A market in which dealers stand ready to trade (either buy or sell for their own account), thereby providing liquidity by using their capital to hold an inventory of the items for which they make a market. Typically, bid and ask prices (representing the price at which the dealer is willing to buy and the price at which the dealer is willing to sell, respectively) are more readily available than closing prices. Over-the-counter markets (for which prices are publicly reported by the National Association of Securities Dealers Automated Quotations systems or by OTC Markets Group Inc.) are dealer markets. For example, the market for U.S. Treasury securities is a dealer market. Dealer markets also exist for some other assets and liabilities, including other financial instruments, commodities, and physical assets (for example, used equipment).
 
 ##### Discount Rate Adjustment Technique
 
-A market in which dealers stand ready to trade (either buy or sell for their own account), thereby providing liquidity by using their capital to hold an inventory of the items for which they make a market. Typically, bid and ask prices (representing the price at which the dealer is willing to buy and the price at which the dealer is willing to sell, respectively) are more readily available than closing prices. Over-the-counter markets (for which prices are publicly reported by the National Association of Securities Dealers Automated Quotations systems or by OTC Markets Group Inc.) are dealer markets. For example, the market for U.S. Treasury securities is a dealer market. Dealer markets also exist for some other assets and liabilities, including other financial instruments, commodities, and physical assets (for example, used equipment). A present value technique that uses a risk-adjusted discount rate and contractual, promised, or most likely cash flows.
+A present value technique that uses a risk-adjusted discount rate and contractual, promised, or most likely cash flows.
+A present value technique that uses a risk-adjusted discount rate and contractual, promised, or most likely cash flows.
 
 ##### Entry Price
 
-A present value technique that uses a risk-adjusted discount rate and contractual, promised, or most likely cash flows. The price paid to acquire an asset or received to assume a liability in an exchange transaction.
+The price paid to acquire an asset or received to assume a liability in an exchange transaction.
+The price paid to acquire an asset or received to assume a liability in an exchange transaction.
 
 ##### Equity Security
 
@@ -841,32 +861,36 @@ A present value technique that uses a risk-adjusted discount rate and contractua
 2. Cash-settled options on equity securities or options on equity-based indexes (because those instruments do not represent ownership interests in an entity)
 3. Convertible debt or preferred stock that by its terms either must be redeemed by the issuing entity or is redeemable at the option of the investor.
 
-1. Written equity options (because they represent obligations of the writer, not investments)
+Written equity options (because they represent obligations of the writer, not investments)
 2. Cash-settled options on equity securities or options on equity-based indexes (because those instruments do not represent ownership interests in an entity)
 3. Convertible debt or preferred stock that by its terms either must be redeemed by the issuing entity or is redeemable at the option of the investor.
 
 ##### Exchange Market
 
 A market in which closing prices are both readily available and generally representative of fair value. An example of such a market is the New York Stock Exchange.
+A market in which closing prices are both readily available and generally representative of fair value. An example of such a market is the New York Stock Exchange.
 
 ##### Exit Price
 
-A market in which closing prices are both readily available and generally representative of fair value. An example of such a market is the New York Stock Exchange. The price that would be received to sell an asset or paid to transfer a liability.
+The price that would be received to sell an asset or paid to transfer a liability.
+The price that would be received to sell an asset or paid to transfer a liability.
 
 ##### Expected Cash Flow
 
-The price that would be received to sell an asset or paid to transfer a liability. The probability-weighted average (that is, mean of the distribution) of possible future cash flows.
+The probability-weighted average (that is, mean of the distribution) of possible future cash flows.
+The probability-weighted average (that is, mean of the distribution) of possible future cash flows.
 
 ##### Fair Value
 
-The probability-weighted average (that is, mean of the distribution) of possible future cash flows.The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
 
 ##### Financial Asset
 
 1. Receive cash or another financial instrument from a second entity
 2. Exchange other financial instruments on potentially favorable terms with the second entity.
 
-1. Receive cash or another financial instrument from a second entity
+Receive cash or another financial instrument from a second entity
 2. Exchange other financial instruments on potentially favorable terms with the second entity.
 
 ##### Financial Instrument
@@ -883,21 +907,45 @@ The probability-weighted average (that is, mean of the distribution) of possible
 1. To receive cash or another financial instrument from the first entity
 2. To exchange other financial instruments on potentially favorable terms with the first entity.
 
+The use of the term financial instrument in this definition is recursive (because the term financial instrument is included in it), though it is not circular. The definition requires a chain of contractual obligations that ends with the delivery of cash or an ownership interest in an entity. Any number of obligations to deliver financial instruments can be links in a chain that qualifies a particular contract as a financial instrument. Contractual rights and contractual obligations encompass both those that are conditioned on the occurrence of a specified event and those that are not. Some contractual rights (contractual obligations) that are financial instruments may not be recognized in financial statements—that is, they may be off-balance-sheet—because they fail to meet some other criterion for recognition. For some financial instruments, the right is held by or the obligation is due from (or the obligation is owed to or by) a group of entities rather than a single entity.
+Imposes on one entity a contractual obligation either:
+1. To deliver cash or another financial instrument to a second entity
+2. To exchange other financial instruments on potentially unfavorable terms with the second entity.
+
+1. To receive cash or another financial instrument from the first entity
+2. To exchange other financial instruments on potentially favorable terms with the first entity.
+
+The use of the term financial instrument in this definition is recursive (because the term financial instrument is included in it), though it is not circular. The definition requires a chain of contractual obligations that ends with the delivery of cash or an ownership interest in an entity. Any number of obligations to deliver financial instruments can be links in a chain that qualifies a particular contract as a financial instrument.
+Contractual rights and contractual obligations encompass both those that are conditioned on the occurrence of a specified event and those that are not. All contractual rights (contractual obligations) that are financial instruments meet the definition of asset (liability) set forth in FASB Concepts Statement No. 6, Elements of Financial Statements, although some may not be recognized as assets (liabilities) in financial statements—that is, they may be off-balance-sheet—because they fail to meet some other criterion for recognition.
+For some financial instruments, the right is held by or the obligation is due from (or the obligation is owed to or by) a group of entities rather than a single entity.
+Imposes on one entity a contractual obligation either:
+1. To deliver cash or another financial instrument to a second entity
+2. To exchange other financial instruments on potentially unfavorable terms with the second entity.
+
+1. To receive cash or another financial instrument from the first entity
+2. To exchange other financial instruments on potentially favorable terms with the first entity.
+
+The use of the term financial instrument in this definition is recursive (because the term financial instrument is included in it), though it is not circular. The definition requires a chain of contractual obligations that ends with the delivery of cash or an ownership interest in an entity. Any number of obligations to deliver financial instruments can be links in a chain that qualifies a particular contract as a financial instrument.
+Contractual rights and contractual obligations encompass both those that are conditioned on the occurrence of a specified event and those that are not. Some contractual rights (contractual obligations) that are financial instruments may not be recognized in financial statements—that is, they may be off-balance-sheet—because they fail to meet some other criterion for recognition.
+For some financial instruments, the right is held by or the obligation is due from (or the obligation is owed to or by) a group of entities rather than a single entity.
+
 ##### Financial Liability
 
 1. Deliver cash or another financial instrument to a second entity
 2. Exchange other financial instruments on potentially unfavorable terms with the second entity.
 
-1. Deliver cash or another financial instrument to a second entity
+Deliver cash or another financial instrument to a second entity
 2. Exchange other financial instruments on potentially unfavorable terms with the second entity.
 
 ##### Highest and Best Use
 
 The use of a nonfinancial asset by market participants that would maximize the value of the asset or the group of assets and liabilities (for example, a business) within which the asset would be used.
+The use of a nonfinancial asset by market participants that would maximize the value of the asset or the group of assets and liabilities (for example, a business) within which the asset would be used.
 
 ##### Income Approach
 
-The use of a nonfinancial asset by market participants that would maximize the value of the asset or the group of assets and liabilities (for example, a business) within which the asset would be used. Valuation approaches that convert future amounts (for example, cash flows or income and expenses) to a single current (that is, discounted) amount. The fair value measurement is determined on the basis of the value indicated by current market expectations about those future amounts.
+Valuation approaches that convert future amounts (for example, cash flows or income and expenses) to a single current (that is, discounted) amount. The fair value measurement is determined on the basis of the value indicated by current market expectations about those future amounts.
+Valuation approaches that convert future amounts (for example, cash flows or income and expenses) to a single current (that is, discounted) amount. The fair value measurement is determined on the basis of the value indicated by current market expectations about those future amounts.
 
 ##### Inputs
 
@@ -905,40 +953,51 @@ The use of a nonfinancial asset by market participants that would maximize the v
 2. The risk inherent in the inputs to the valuation technique.
 
 Inputs may be observable or unobservable.
-1. The risk inherent in a particular valuation technique used to measure fair value (such as a pricing model)
+The risk inherent in a particular valuation technique used to measure fair value (such as a pricing model)
 2. The risk inherent in the inputs to the valuation technique.
+
+Inputs may be observable or unobservable.
 
 ##### Interest Rate Risk
 
-Inputs may be observable or unobservable. For recognized variable-rate financial instruments and forecasted issuances or purchases of variable-rate financial instruments, interest rate risk is the risk of changes in the hedged item's cash flows attributable to changes in the contractually specified interest rate in the agreement. For recognized fixed-rate financial instruments, interest rate risk is the risk of changes in the hedged item's fair value attributable to changes in the designated benchmark interest rate. For forecasted issuances or purchases of fixed-rate financial instruments, interest rate risk is the risk of changes in the hedged item's cash flows attributable to changes in the designated benchmark interest rate.
+For recognized variable-rate financial instruments and forecasted issuances or purchases of variable-rate financial instruments, interest rate risk is the risk of changes in the hedged item's cash flows attributable to changes in the contractually specified interest rate in the agreement. For recognized fixed-rate financial instruments, interest rate risk is the risk of changes in the hedged item's fair value attributable to changes in the designated benchmark interest rate. For forecasted issuances or purchases of fixed-rate financial instruments, interest rate risk is the risk of changes in the hedged item's cash flows attributable to changes in the designated benchmark interest rate.
+For recognized variable-rate financial instruments and forecasted issuances or purchases of variable-rate financial instruments, interest rate risk is the risk of changes in the hedged item's cash flows attributable to changes in the contractually specified interest rate in the agreement.
+For recognized fixed-rate financial instruments, interest rate risk is the risk of changes in the hedged item's fair value attributable to changes in the designated benchmark interest rate. For forecasted issuances or purchases of fixed-rate financial instruments, interest rate risk is the risk of changes in the hedged item's cash flows attributable to changes in the designated benchmark interest rate.
 
 ##### Legal Entity
 
-For recognized variable-rate financial instruments and forecasted issuances or purchases of variable-rate financial instruments, interest rate risk is the risk of changes in the hedged item's cash flows attributable to changes in the contractually specified interest rate in the agreement. For recognized fixed-rate financial instruments, interest rate risk is the risk of changes in the hedged item's fair value attributable to changes in the designated benchmark interest rate. For forecasted issuances or purchases of fixed-rate financial instruments, interest rate risk is the risk of changes in the hedged item's cash flows attributable to changes in the designated benchmark interest rate.Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts.
+Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts.
+Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts.
 
 ##### Level 1 Inputs
 
-Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts. Quoted prices (unadjusted) in active markets for identical assets or liabilities that the reporting entity can access at the measurement date.
+Quoted prices (unadjusted) in active markets for identical assets or liabilities that the reporting entity can access at the measurement date.
+Quoted prices (unadjusted) in active markets for identical assets or liabilities that the reporting entity can access at the measurement date.
 
 ##### Level 2 Inputs
 
-Quoted prices (unadjusted) in active markets for identical assets or liabilities that the reporting entity can access at the measurement date. Inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly or indirectly.
+Inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly or indirectly.
+Inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly or indirectly.
 
 ##### Level 3 Inputs
 
-Inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly or indirectly. Unobservable inputs for the asset or liability.
+Unobservable inputs for the asset or liability.
+Unobservable inputs for the asset or liability.
 
 ##### Liability Issued with an Inseparable Third-Party Credit Enhancement
 
-Unobservable inputs for the asset or liability. A liability that is issued with a credit enhancement obtained from a third party, such as debt that is issued with a financial guarantee from a third party that guarantees the issuer's payment obligation.
+A liability that is issued with a credit enhancement obtained from a third party, such as debt that is issued with a financial guarantee from a third party that guarantees the issuer's payment obligation.
+A liability that is issued with a credit enhancement obtained from a third party, such as debt that is issued with a financial guarantee from a third party that guarantees the issuer's payment obligation.
 
 ##### Management
 
-A liability that is issued with a credit enhancement obtained from a third party, such as debt that is issued with a financial guarantee from a third party that guarantees the issuer's payment obligation.Persons who are responsible for achieving the objectives of the entity and who have the authority to establish policies and make decisions by which those objectives are to be pursued. Management normally includes members of the board of directors, the chief executive officer, chief operating officer, vice presidents in charge of principal business functions (such as sales, administration, or finance), and other persons who perform similar policy making functions. Persons without formal titles also may be members of management.
+Persons who are responsible for achieving the objectives of the entity and who have the authority to establish policies and make decisions by which those objectives are to be pursued. Management normally includes members of the board of directors, the chief executive officer, chief operating officer, vice presidents in charge of principal business functions (such as sales, administration, or finance), and other persons who perform similar policy making functions. Persons without formal titles also may be members of management.
+Persons who are responsible for achieving the objectives of the entity and who have the authority to establish policies and make decisions by which those objectives are to be pursued. Management normally includes members of the board of directors, the chief executive officer, chief operating officer, vice presidents in charge of principal business functions (such as sales, administration, or finance), and other persons who perform similar policy making functions. Persons without formal titles also may be members of management.
 
 ##### Market Approach
 
-Persons who are responsible for achieving the objectives of the entity and who have the authority to establish policies and make decisions by which those objectives are to be pursued. Management normally includes members of the board of directors, the chief executive officer, chief operating officer, vice presidents in charge of principal business functions (such as sales, administration, or finance), and other persons who perform similar policy making functions. Persons without formal titles also may be members of management. A valuation approach that uses prices and other relevant information generated by market transactions involving identical or comparable (that is, similar) assets, liabilities, or a group of assets and liabilities, such as a business.
+A valuation approach that uses prices and other relevant information generated by market transactions involving identical or comparable (that is, similar) assets, liabilities, or a group of assets and liabilities, such as a business.
+A valuation approach that uses prices and other relevant information generated by market transactions involving identical or comparable (that is, similar) assets, liabilities, or a group of assets and liabilities, such as a business.
 
 ##### Market Participants
 
@@ -947,7 +1006,7 @@ Persons who are responsible for achieving the objectives of the entity and who h
 3. They are able to enter into a transaction for the asset or liability
 4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
 
-1. They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
 2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
 3. They are able to enter into a transaction for the asset or liability
 4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
@@ -958,29 +1017,34 @@ Persons who are responsible for achieving the objectives of the entity and who h
 2. Currency risk
 3. Other price risk.
 
-1. Interest rate risk
+Interest rate risk
 2. Currency risk
 3. Other price risk.
 
 ##### Market-Corroborated Inputs
 
 Inputs that are derived principally from or corroborated by observable market data by correlation or other means.
+Inputs that are derived principally from or corroborated by observable market data by correlation or other means.
 
 ##### Most Advantageous Market
 
-Inputs that are derived principally from or corroborated by observable market data by correlation or other means. The market that maximizes the amount that would be received to sell the asset or minimizes the amount that would be paid to transfer the liability, after taking into account transaction costs and transportation costs.
+The market that maximizes the amount that would be received to sell the asset or minimizes the amount that would be paid to transfer the liability, after taking into account transaction costs and transportation costs.
+The market that maximizes the amount that would be received to sell the asset or minimizes the amount that would be paid to transfer the liability, after taking into account transaction costs and transportation costs.
 
 ##### Net Asset Value per Share
 
-The market that maximizes the amount that would be received to sell the asset or minimizes the amount that would be paid to transfer the liability, after taking into account transaction costs and transportation costs.Net asset value per share is the amount of net assets attributable to each share of capital stock (other than senior equity securities, that is, preferred stock) outstanding at the close of the period. It excludes the effects of assuming conversion of outstanding convertible securities, whether or not their conversion would have a diluting effect.
+Net asset value per share is the amount of net assets attributable to each share of capital stock (other than senior equity securities, that is, preferred stock) outstanding at the close of the period. It excludes the effects of assuming conversion of outstanding convertible securities, whether or not their conversion would have a diluting effect.
+Net asset value per share is the amount of net assets attributable to each share of capital stock (other than senior equity securities, that is, preferred stock) outstanding at the close of the period. It excludes the effects of assuming conversion of outstanding convertible securities, whether or not their conversion would have a diluting effect.
 
 ##### Nonfinancial Asset
 
-Net asset value per share is the amount of net assets attributable to each share of capital stock (other than senior equity securities, that is, preferred stock) outstanding at the close of the period. It excludes the effects of assuming conversion of outstanding convertible securities, whether or not their conversion would have a diluting effect. An asset that is not a financial asset. Nonfinancial assets include land, buildings, use of facilities or utilities, materials and supplies, intangible assets, or services.
+An asset that is not a financial asset. Nonfinancial assets include land, buildings, use of facilities or utilities, materials and supplies, intangible assets, or services.
+An asset that is not a financial asset. Nonfinancial assets include land, buildings, use of facilities or utilities, materials and supplies, intangible assets, or services.
 
 ##### Nonperformance Risk
 
-An asset that is not a financial asset. Nonfinancial assets include land, buildings, use of facilities or utilities, materials and supplies, intangible assets, or services. The risk that an entity will not fulfill an obligation. Nonperformance risk includes, but may not be limited to, the reporting entity's own credit risk.
+The risk that an entity will not fulfill an obligation. Nonperformance risk includes, but may not be limited to, the reporting entity's own credit risk.
+The risk that an entity will not fulfill an obligation. Nonperformance risk includes, but may not be limited to, the reporting entity's own credit risk.
 
 ##### Nonpublic Entity
 
@@ -990,7 +1054,7 @@ An asset that is not a financial asset. Nonfinancial assets include land, buildi
 4. It is required to file or furnish financial statements with the Securities and Exchange Commission.
 5. It is controlled by an entity covered by criteria (a) through (d).
 
-1. Its debt or equity securities trade in a public market either on a stock exchange (domestic or foreign) or in an over-the-counter market, including securities quoted only locally or regionally.
+Its debt or equity securities trade in a public market either on a stock exchange (domestic or foreign) or in an over-the-counter market, including securities quoted only locally or regionally.
 2. It is a conduit bond obligor for conduit debt securities that are traded in a public market (a domestic or foreign stock exchange or an over-the-counter market, including local or regional markets).
 3. It files with a regulatory agency in preparation for the sale of any class of debt or equity securities in a public market.
 4. It is required to file or furnish financial statements with the Securities and Exchange Commission.
@@ -1005,36 +1069,42 @@ An asset that is not a financial asset. Nonfinancial assets include land, buildi
 1. All investor-owned entities
 2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
 
-1. Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
+Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
 2. Operating purposes other than to provide goods or services at a profit
 3. Absence of ownership interests like those of business entities.
 
-1. All investor-owned entities
+All investor-owned entities
 2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
 
 ##### Observable Inputs
 
 Inputs that are developed using market data, such as publicly available information about actual events or transactions, and that reflect the assumptions that market participants would use when pricing the asset or liability.
+Inputs that are developed using market data, such as publicly available information about actual events or transactions, and that reflect the assumptions that market participants would use when pricing the asset or liability.
 
 ##### Orderly Transaction
 
-Inputs that are developed using market data, such as publicly available information about actual events or transactions, and that reflect the assumptions that market participants would use when pricing the asset or liability.A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
 
 ##### Other Price Risk
 
-A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale). The risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in market prices (other than those arising from interest rate risk or currency risk), whether those changes are caused by factors specific to the individual financial instrument or its issuer or by factors affecting all similar financial instruments traded in the market.
+The risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in market prices (other than those arising from interest rate risk or currency risk), whether those changes are caused by factors specific to the individual financial instrument or its issuer or by factors affecting all similar financial instruments traded in the market.
+The risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in market prices (other than those arising from interest rate risk or currency risk), whether those changes are caused by factors specific to the individual financial instrument or its issuer or by factors affecting all similar financial instruments traded in the market.
 
 ##### Present Value
 
-The risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in market prices (other than those arising from interest rate risk or currency risk), whether those changes are caused by factors specific to the individual financial instrument or its issuer or by factors affecting all similar financial instruments traded in the market.A tool used to link future amounts (cash flows or values) to a present amount using a discount rate (an application of the income approach). Present value techniques differ in how they adjust for risk and in the type of cash flows they use. See Discount Rate Adjustment Technique.
+A tool used to link future amounts (cash flows or values) to a present amount using a discount rate (an application of the income approach). Present value techniques differ in how they adjust for risk and in the type of cash flows they use. See Discount Rate Adjustment Technique.
+A tool used to link future amounts (cash flows or values) to a present amount using a discount rate (an application of the income approach). Present value techniques differ in how they adjust for risk and in the type of cash flows they use. See Discount Rate Adjustment Technique.
 
 ##### Principal Market
 
-A tool used to link future amounts (cash flows or values) to a present amount using a discount rate (an application of the income approach). Present value techniques differ in how they adjust for risk and in the type of cash flows they use. See Discount Rate Adjustment Technique.The market with the greatest volume and level of activity for the asset or liability.
+The market with the greatest volume and level of activity for the asset or liability.
+The market with the greatest volume and level of activity for the asset or liability.
 
 ##### Principal-to-Principal Market
 
-The market with the greatest volume and level of activity for the asset or liability.A market in which transactions, both originations and resales, are negotiated independently with no intermediary. Little information about those transactions may be made available publicly.
+A market in which transactions, both originations and resales, are negotiated independently with no intermediary. Little information about those transactions may be made available publicly.
+A market in which transactions, both originations and resales, are negotiated independently with no intermediary. Little information about those transactions may be made available publicly.
 
 ##### Public Business Entity
 
@@ -1045,7 +1115,7 @@ The market with the greatest volume and level of activity for the asset or liabi
 5. It has one or more securities that are not subject to contractual restrictions on transfer, and it is required by law, contract, or regulation to prepare U.S. GAAP financial statements (including notes) and make them publicly available on a periodic basis (for example, interim or annual periods). An entity must meet both of these conditions to meet this criterion.
 
 An entity may meet the definition of a public business entity solely because its financial statements or financial information is included in another entity's filing with the SEC. In that case, the entity is only a public business entity for purposes of financial statements that are filed or furnished with the SEC.
-1. It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing).
+It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing).
 2. It is required by the Securities Exchange Act of 1934 (the Act), as amended, or rules or regulations promulgated under the Act, to file or furnish financial statements with a regulatory agency other than the SEC.
 3. It is required to file or furnish financial statements with a foreign or domestic regulatory agency in preparation for the sale of or for purposes of issuing securities that are not subject to contractual restrictions on transfer.
 4. It has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market.
@@ -1057,7 +1127,7 @@ An entity may meet the definition of a public business entity solely because its
 2. The fair value of an equity security traded only in a foreign market is readily determinable if that foreign market is of a breadth and scope comparable to one of the U.S. markets referred to above.
 3. The fair value of an equity security that is an investment in a mutual fund or in a structure similar to a mutual fund (that is, a limited partnership or a venture capital entity) is readily determinable if the fair value per share (unit) is determined and published and is the basis for current transactions.
 
-1. The fair value of an equity security is readily determinable if sales prices or bid-and-asked quotations are currently available on a securities exchange registered with the U.S. Securities and Exchange Commission (SEC) or in the over-the-counter market, provided that those prices or quotations for the over-the-counter market are publicly reported by the National Association of Securities Dealers Automated Quotations systems or by OTC Markets Group Inc. Restricted stock meets that definition if the restriction terminates within one year.
+The fair value of an equity security is readily determinable if sales prices or bid-and-asked quotations are currently available on a securities exchange registered with the U.S. Securities and Exchange Commission (SEC) or in the over-the-counter market, provided that those prices or quotations for the over-the-counter market are publicly reported by the National Association of Securities Dealers Automated Quotations systems or by OTC Markets Group Inc. Restricted stock meets that definition if the restriction terminates within one year.
 2. The fair value of an equity security traded only in a foreign market is readily determinable if that foreign market is of a breadth and scope comparable to one of the U.S. markets referred to above.
 3. The fair value of an equity security that is an investment in a mutual fund or in a structure similar to a mutual fund (that is, a limited partnership or a venture capital entity) is readily determinable if the fair value per share (unit) is determined and published and is the basis for current transactions.
 
@@ -1071,7 +1141,7 @@ An entity may meet the definition of a public business entity solely because its
 6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
 7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
 
-1. Affiliates of the entity
+Affiliates of the entity
 2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
 3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
 4. Principal owners of the entity and members of their immediate families
@@ -1082,10 +1152,12 @@ An entity may meet the definition of a public business entity solely because its
 ##### Revenue
 
 Inflows or other enhancements of assets of an entity or settlements of its liabilities (or a combination of both) from delivering or producing goods, rendering services, or other activities that constitute the entity's ongoing major or central operations.
+Inflows or other enhancements of assets of an entity or settlements of its liabilities (or a combination of both) from delivering or producing goods, rendering services, or other activities that constitute the entity's ongoing major or central operations.
 
 ##### Risk Premium
 
-Inflows or other enhancements of assets of an entity or settlements of its liabilities (or a combination of both) from delivering or producing goods, rendering services, or other activities that constitute the entity's ongoing major or central operations.Compensation sought by risk-averse market participants for bearing the uncertainty inherent in the cash flows of an asset or a liability. Also referred to as a risk adjustment.
+Compensation sought by risk-averse market participants for bearing the uncertainty inherent in the cash flows of an asset or a liability. Also referred to as a risk adjustment.
+Compensation sought by risk-averse market participants for bearing the uncertainty inherent in the cash flows of an asset or a liability. Also referred to as a risk adjustment.
 
 ##### Security
 
@@ -1093,49 +1165,56 @@ Inflows or other enhancements of assets of an entity or settlements of its liabi
 2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
 3. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
 
-1. It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
+It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
 2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
 3. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
 
 ##### Standalone Selling Price
 
 The price at which an entity would sell a promised good or service separately to a customer.
+The price at which an entity would sell a promised good or service separately to a customer.
 
 ##### Systematic Risk
 
-The price at which an entity would sell a promised good or service separately to a customer. The common risk shared by an asset or a liability with the other items in a diversified portfolio. Portfolio theory holds that in a market in equilibrium, market participants will be compensated only for bearing the systematic risk inherent in the cash flows. (In markets that are inefficient or out of equilibrium, other forms of return or compensation might be available.) Also referred to as nondiversifiable risk.
+The common risk shared by an asset or a liability with the other items in a diversified portfolio. Portfolio theory holds that in a market in equilibrium, market participants will be compensated only for bearing the systematic risk inherent in the cash flows. (In markets that are inefficient or out of equilibrium, other forms of return or compensation might be available.) Also referred to as nondiversifiable risk.
+The common risk shared by an asset or a liability with the other items in a diversified portfolio. Portfolio theory holds that in a market in equilibrium, market participants will be compensated only for bearing the systematic risk inherent in the cash flows. (In markets that are inefficient or out of equilibrium, other forms of return or compensation might be available.) Also referred to as nondiversifiable risk.
 
 ##### Transaction Costs
 
 1. They result directly from and are essential to that transaction.
 2. They would not have been incurred by the entity had the decision to sell the asset or transfer the liability not been made (similar to costs to sell, as defined in paragraph 360-10-35-38).
 
-1. They result directly from and are essential to that transaction.
+They result directly from and are essential to that transaction.
 2. They would not have been incurred by the entity had the decision to sell the asset or transfer the liability not been made (similar to costs to sell, as defined in paragraph 360-10-35-38).
 
 ##### Transportation Costs
 
 The costs that would be incurred to transport an asset from its current location to its principal (or most advantageous) market.
+The costs that would be incurred to transport an asset from its current location to its principal (or most advantageous) market.
 
 ##### Unit of Account
 
-The costs that would be incurred to transport an asset from its current location to its principal (or most advantageous) market.The level at which an asset or a liability is aggregated or disaggregated in a Topic for recognition purposes.
+The level at which an asset or a liability is aggregated or disaggregated in a Topic for recognition purposes.
+The level at which an asset or a liability is aggregated or disaggregated in a Topic for recognition purposes.
 
 ##### Unobservable Inputs
 
-The level at which an asset or a liability is aggregated or disaggregated in a Topic for recognition purposes. Inputs for which market data are not available and that are developed using the best information available about the assumptions that market participants would use when pricing the asset or liability.
+Inputs for which market data are not available and that are developed using the best information available about the assumptions that market participants would use when pricing the asset or liability.
+Inputs for which market data are not available and that are developed using the best information available about the assumptions that market participants would use when pricing the asset or liability.
 
 ##### Unsystematic Risk
 
-Inputs for which market data are not available and that are developed using the best information available about the assumptions that market participants would use when pricing the asset or liability.The risk specific to a particular asset or liability. Also referred to as diversifiable risk.
+The risk specific to a particular asset or liability. Also referred to as diversifiable risk.
+The risk specific to a particular asset or liability. Also referred to as diversifiable risk.
 
 ##### Variable Interest Entity
 
-The risk specific to a particular asset or liability. Also referred to as diversifiable risk. A legal entity subject to consolidation according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
+A legal entity subject to consolidation according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
+A legal entity subject to consolidation according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
 
 ## 25 Recognition
 
-> **General Note:** The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
 
 ### General
 
@@ -1146,7 +1225,7 @@ The risk specific to a particular asset or liability. Also referred to as divers
 
 ## 30 Initial Measurement
 
-> **General Note:** The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
 
 ### General
 
@@ -1189,11 +1268,12 @@ Subparagraph superseded by Accounting Standards Update No. 2011-04.
 
 ## 35 Subsequent Measurement
 
-> **General Note:** The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
 
 ### General
 
-**820-10-35-1** The fair value measurement framework, which applies at both initial and subsequent measurement if fair value
+**820-10-35-1** Related Proposed ASUs
+The fair value measurement framework, which applies at both initial and subsequent measurement if fair value
 1. Definition of fair value
 2. Valuation techniques
 3. Inputs to valuation techniques
@@ -1290,8 +1370,10 @@ A fair value measurement assumes that the asset or liability is exchanged in an 
 **820-10-35-6A** The reporting entity must have access to the principal (or most advantageous) market at the measurement date. Because different entities (and businesses within those entities) with different activities may have access to different markets, the principal (or most advantageous) market for the same asset or liability might be different for different entities (and businesses within those entities). Therefore, the principal (or most advantageous) market (and thus, market participants) shall be considered from the perspective of the reporting entity, thereby allowing for differences between and among entities with different activities.
 **820-10-35-6A** The reporting entity must have access to the principal (or most advantageous) market at the measurement date. Because different entities (and businesses within those entities) with different activities may have access to different markets, the principal (or most advantageous) market for the same asset or liability might be different for different entities (and businesses within those entities). Therefore, the principal (or most advantageous) market (and thus, market participants) shall be considered from the perspective of the reporting entity, thereby allowing for differences between and among entities with different activities.
 **820-10-35-6B** Although a reporting entity must be able to access the market, the reporting entity does not need to be able to sell the particular asset or transfer the particular liability on the measurement date to be able to measure fair value on the basis of the price in that market.
+PENDING CONTENTTransition date: December 16, 2023; December 16, 2024Transition guidance:820-10-65-13Although a reporting entity must be able to access the market, the reporting entity does not need to be able to sell the particular asset or transfer the particular liability on the measurement date to be able to measure fair value on the basis of the price in that market. For example, an equity security that an entity cannot sell on the measurement date because of a contractual sale restriction shall be measured at fair value on the basis of the price in the principal (or most advantageous) market. A contractual sale restriction does not change the market in which that equity security would be sold (see paragraphs 820-10-55-52 through 55-52A).
 **820-10-35-6B** Although a reporting entity must be able to access the market, the reporting entity does not need to be able to sell the particular asset or transfer the particular liability on the measurement date to be able to measure fair value on the basis of the price in that market.
-**820-10-35-6C** Even when there is no observable market to provide pricing information about the sale of an asset or the transfer of a liability at the measurement date, a fair value measurement shall assume that a transaction takes place at that date, considered from the perspective of a market participant that holds the asset or owes the liability. That assumed transaction establishes a basis for estimating the price to sell the asset or to transfer the liability.
+**820-10-35-6C** PENDING CONTENTTransition date: December 16, 2023; December 16, 2024Transition guidance:820-10-65-13Although a reporting entity must be able to access the market, the reporting entity does not need to be able to sell the particular asset or transfer the particular liability on the measurement date to be able to measure fair value on the basis of the price in that market. For example, an equity security that an entity cannot sell on the measurement date because of a contractual sale restriction shall be measured at fair value on the basis of the price in the principal (or most advantageous) market. A contractual sale restriction does not change the market in which that equity security would be sold (see paragraphs 820-10-55-52 through 55-52A).
+Even when there is no observable market to provide pricing information about the sale of an asset or the transfer of a liability at the measurement date, a fair value measurement shall assume that a transaction takes place at that date, considered from the perspective of a market participant that holds the asset or owes the liability. That assumed transaction establishes a basis for estimating the price to sell the asset or to transfer the liability.
 **820-10-35-6C** Even when there is no observable market to provide pricing information about the sale of an asset or the transfer of a liability at the measurement date, a fair value measurement shall assume that a transaction takes place at that date, considered from the perspective of a market participant that holds the asset or owes the liability. That assumed transaction establishes a basis for estimating the price to sell the asset or to transfer the liability.
 **820-10-35-7** Paragraph superseded by Accounting Standards Update No. 2011-04.
 **820-10-35-7** Paragraph superseded by Accounting Standards Update No. 2011-04.
@@ -1412,7 +1494,13 @@ Subparagraph superseded by Accounting Standards Update No. 2011-04.
 **820-10-35-16D** The quoted price for the asset relates to a similar (but not identical) liability or equity instrument held by another party as an asset. For example, the liability or equity instrument may have a particular characteristic (for example, the credit quality of the issuer) that is different from that reflected in the fair value of the similar liability or equity instrument held as an asset.
 2. The unit of account for the asset is not the same as for the liability or equity instrument. For example, for liabilities, in some cases the price for an asset reflects a combined price for a package comprising both the amounts due from the issuer and a third-party credit enhancement. If the unit of account for the liability is not for the combined package, the objective is to measure the fair value of the issuer's liability, not the fair value of the combined package. Thus, in such cases, the reporting entity would adjust the observed price for the asset to exclude the effect of the third-party credit enhancement. See paragraph 820-10-35-18A for further guidance.
 
+1. The quoted price for the asset relates to a similar (but not identical) liability or equity instrument held by another party as an asset. For example, the liability or equity instrument may have a particular characteristic (for example, the credit quality of the issuer) that is different from that reflected in the fair value of the similar liability or equity instrument held as an asset.
+2. The unit of account for the asset is not the same as for the liability or equity instrument. For example, for liabilities, in some cases the price for an asset reflects a combined price for a package comprising both the amounts due from the issuer and a third-party credit enhancement. If the unit of account for the liability is not for the combined package, the objective is to measure the fair value of the issuer's liability, not the fair value of the combined package. Thus, in such cases, the reporting entity would adjust the observed price for the asset to exclude the effect of the third-party credit enhancement. See paragraph 820-10-35-18A for further guidance.
+
 **820-10-35-16D** The quoted price for the asset relates to a similar (but not identical) liability or equity instrument held by another party as an asset. For example, the liability or equity instrument may have a particular characteristic (for example, the credit quality of the issuer) that is different from that reflected in the fair value of the similar liability or equity instrument held as an asset.
+2. The unit of account for the asset is not the same as for the liability or equity instrument. For example, for liabilities, in some cases the price for an asset reflects a combined price for a package comprising both the amounts due from the issuer and a third-party credit enhancement. If the unit of account for the liability is not for the combined package, the objective is to measure the fair value of the issuer's liability, not the fair value of the combined package. Thus, in such cases, the reporting entity would adjust the observed price for the asset to exclude the effect of the third-party credit enhancement. See paragraph 820-10-35-18A for further guidance.
+
+1. The quoted price for the asset relates to a similar (but not identical) liability or equity instrument held by another party as an asset. For example, the liability or equity instrument may have a particular characteristic (for example, the credit quality of the issuer) that is different from that reflected in the fair value of the similar liability or equity instrument held as an asset.
 2. The unit of account for the asset is not the same as for the liability or equity instrument. For example, for liabilities, in some cases the price for an asset reflects a combined price for a package comprising both the amounts due from the issuer and a third-party credit enhancement. If the unit of account for the liability is not for the combined package, the objective is to measure the fair value of the issuer's liability, not the fair value of the combined package. Thus, in such cases, the reporting entity would adjust the observed price for the asset to exclude the effect of the third-party credit enhancement. See paragraph 820-10-35-18A for further guidance.
 
 **820-10-35-16E** Paragraphs 820-10-35-16E through 35-16G superseded by Accounting Standards Update No. 2011-04.
@@ -1545,12 +1633,12 @@ Valuation techniques used to measure fair value shall maximize the use of releva
 **820-10-35-36A** Examples of markets in which inputs might be observable for some assets and liabilities (for example, financial instruments) include exchange markets
 **820-10-35-36B** , dealer markets, brokered markets, and principal-to-principal markets.
 A reporting entity shall select inputs that are consistent with the characteristics of the asset or liability that market participants would take into account in a transaction for the asset or liability (see paragraphs 820-10-35-2B through 35-2C
-**820-10-35-36B** ). In some cases, those characteristics result in the application of an adjustment, such as a premium or discount (for example, a control premium or noncontrolling interest discount). However, a fair value measurement shall not incorporate a premium or discount that is inconsistent with the unit of account in the Topic that requires or permits the fair value measurement. Premiums or discounts that reflect size as a characteristic of the reporting entity's holding (specifically, a blockage factor that adjusts the quoted price of an asset or a liability because the market's normal daily trading volume is not sufficient to absorb the quantity held by the entity, as described in paragraph 820-10-35-44) rather than as a characteristic of the asset or liability (for example, a control premium when measuring the fair value of a controlling interest) are not permitted in a fair value measurement. In all cases, if there is a quoted price in an active market (that is, a Level 1 input) for an asset or a liability, a reporting entity shall use that quoted price without adjustment when measuring fair value, except as specified in paragraph 820-10-35-41C.
-A reporting entity shall select inputs that are consistent with the characteristics of the asset or liability that market participants would take into account in a transaction for the asset or liability (see paragraphs 820-10-35-2B through 35-2C
+). In some cases, those characteristics result in the application of an adjustment, such as a premium or discount (for example, a control premium or noncontrolling interest discount). However, a fair value measurement shall not incorporate a premium or discount that is inconsistent with the unit of account in the Topic that requires or permits the fair value measurement. Premiums or discounts that reflect size as a characteristic of the reporting entity's holding (specifically, a blockage factor that adjusts the quoted price of an asset or a liability because the market's normal daily trading volume is not sufficient to absorb the quantity held by the entity, as described in paragraph 820-10-35-44) rather than as a characteristic of the asset or liability (for example, a control premium when measuring the fair value of a controlling interest) are not permitted in a fair value measurement. In all cases, if there is a quoted price in an active market (that is, a Level 1 input) for an asset or a liability, a reporting entity shall use that quoted price without adjustment when measuring fair value, except as specified in paragraph 820-10-35-41C.PENDING CONTENTTransition date: December 16, 2023; December 16, 2024Transition guidance:820-10-65-13A reporting entity shall select inputs that are consistent with the characteristics of the asset or liability that market participants would take into account in a transaction for the asset or liability (see paragraphs 820-10-35-2B through 35-2C). In some cases, those characteristics result in the application of an adjustment, such as a premium or discount (for example, a control premium or noncontrolling interest discount). However, a fair value measurement shall not incorporate a premium or discount that is inconsistent with the unit of account in the Topic that requires or permits the fair value measurement. Premiums or discounts that reflect size as a characteristic of the reporting entity's holding (specifically, a blockage factor that adjusts the quoted price of an asset or a liability because the market's normal daily trading volume is not sufficient to absorb the quantity held by the entity, as described in paragraph 820-10-35-44) rather than as a characteristic of the asset or liability (for example, a control premium when measuring the fair value of a controlling interest) are not permitted in a fair value measurement. Similarly, a discount applied to the price of an equity security because of a contractual sale restriction is inconsistent with the unit of account being the equity security. A contractual sale restriction is a characteristic of the reporting entity holding the equity security rather than a characteristic of the asset and, therefore, is not considered in measuring the fair value of an equity security (see paragraphs 820-10-55-52 through 55-52A). A contractual sale restriction prohibiting the sale of an equity security is a characteristic of the reporting entity holding the equity security and shall not be separately recognized as its own unit of account. In all cases, if there is a quoted price in an active market (that is, a Level 1 input) for an asset or a liability, a reporting entity shall use that quoted price without adjustment when measuring fair value, except as specified in paragraph 820-10-35-41C.
+**820-10-35-36B** A reporting entity shall select inputs that are consistent with the characteristics of the asset or liability that market participants would take into account in a transaction for the asset or liability (see paragraphs 820-10-35-2B through 35-2C
 
 ##### · > Inputs Based on Bid and Ask                Prices
 
-**820-10-35-36C** ). In some cases, those characteristics result in the application of an adjustment, such as a premium or discount (for example, a control premium or noncontrolling interest discount). However, a fair value measurement shall not incorporate a premium or discount that is inconsistent with the unit of account in the Topic that requires or permits the fair value measurement. Premiums or discounts that reflect size as a characteristic of the reporting entity's holding (specifically, a blockage factor that adjusts the quoted price of an asset or a liability because the market's normal daily trading volume is not sufficient to absorb the quantity held by the entity, as described in paragraph 820-10-35-44) rather than as a characteristic of the asset or liability (for example, a control premium when measuring the fair value of a controlling interest) are not permitted in a fair value measurement. In all cases, if there is a quoted price in an active market (that is, a Level 1 input) for an asset or a liability, a reporting entity shall use that quoted price without adjustment when measuring fair value, except as specified in paragraph 820-10-35-41C.
+**820-10-35-36C** ). In some cases, those characteristics result in the application of an adjustment, such as a premium or discount (for example, a control premium or noncontrolling interest discount). However, a fair value measurement shall not incorporate a premium or discount that is inconsistent with the unit of account in the Topic that requires or permits the fair value measurement. Premiums or discounts that reflect size as a characteristic of the reporting entity's holding (specifically, a blockage factor that adjusts the quoted price of an asset or a liability because the market's normal daily trading volume is not sufficient to absorb the quantity held by the entity, as described in paragraph 820-10-35-44) rather than as a characteristic of the asset or liability (for example, a control premium when measuring the fair value of a controlling interest) are not permitted in a fair value measurement. In all cases, if there is a quoted price in an active market (that is, a Level 1 input) for an asset or a liability, a reporting entity shall use that quoted price without adjustment when measuring fair value, except as specified in paragraph 820-10-35-41C.PENDING CONTENTTransition date: December 16, 2023; December 16, 2024Transition guidance:820-10-65-13A reporting entity shall select inputs that are consistent with the characteristics of the asset or liability that market participants would take into account in a transaction for the asset or liability (see paragraphs 820-10-35-2B through 35-2C). In some cases, those characteristics result in the application of an adjustment, such as a premium or discount (for example, a control premium or noncontrolling interest discount). However, a fair value measurement shall not incorporate a premium or discount that is inconsistent with the unit of account in the Topic that requires or permits the fair value measurement. Premiums or discounts that reflect size as a characteristic of the reporting entity's holding (specifically, a blockage factor that adjusts the quoted price of an asset or a liability because the market's normal daily trading volume is not sufficient to absorb the quantity held by the entity, as described in paragraph 820-10-35-44) rather than as a characteristic of the asset or liability (for example, a control premium when measuring the fair value of a controlling interest) are not permitted in a fair value measurement. Similarly, a discount applied to the price of an equity security because of a contractual sale restriction is inconsistent with the unit of account being the equity security. A contractual sale restriction is a characteristic of the reporting entity holding the equity security rather than a characteristic of the asset and, therefore, is not considered in measuring the fair value of an equity security (see paragraphs 820-10-55-52 through 55-52A). A contractual sale restriction prohibiting the sale of an equity security is a characteristic of the reporting entity holding the equity security and shall not be separately recognized as its own unit of account. In all cases, if there is a quoted price in an active market (that is, a Level 1 input) for an asset or a liability, a reporting entity shall use that quoted price without adjustment when measuring fair value, except as specified in paragraph 820-10-35-41C.
 If an asset or a liability measured at fair value has a bid price and an ask price (for example, an input from a dealer market), the price within the bid-ask spread that is most representative of fair value in the circumstances shall be used to measure fair value regardless of where the input is categorized within the fair value hierarchy (that is, Level 1, 2, or 3). The use of bid prices for asset positions and ask prices for liability positions is permitted but is not required.
 **820-10-35-36C** If an asset or a liability measured at fair value has a bid price and an ask price (for example, an input from a dealer market), the price within the bid-ask spread that is most representative of fair value in the circumstances shall be used to measure fair value regardless of where the input is categorized within the fair value hierarchy (that is, Level 1, 2, or 3). The use of bid prices for asset positions and ask prices for liability positions is permitted but is not required.
 **820-10-35-36D** This Topic does not preclude the use of mid-market pricing or other pricing conventions that are used by market participants as a practical expedient for fair value measurements within a bid-ask spread. For example, paragraphs 820-10-35-25 through 35-26
@@ -1768,7 +1856,7 @@ If the net asset value per share of the investment obtained from the investee is
 
 ## 50 Disclosure
 
-> **General Note:** The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
 
 ### General
 
@@ -1829,7 +1917,59 @@ A reporting entity shall disclose the following information for each class of as
 7. For recurring fair value measurements categorized within Level 3 of the fair value hierarchy, a narrative description of the uncertainty of the fair value measurement from the use of significant unobservable inputs if those inputs reasonably could have been different at the reporting date. For example, how a change in those significant unobservable inputs to a different amount might result in a significantly higher or lower fair value measurement at the reporting date. If there are interrelationships between those inputs and other unobservable inputs used in the fair value measurement, a reporting entity shall also provide a description of those interrelationships and of how they might magnify or mitigate the effect of changes in the unobservable inputs on the fair value measurement. To comply with that disclosure requirement, the narrative description of the uncertainty of the fair value measurement that would result from using unobservable inputs shall include the unobservable inputs disclosed when complying with paragraph 820-10-50-2(bbb).
 8. For recurring and nonrecurring fair value measurements, if the highest and best use of a nonfinancial asset differs from its current use, a reporting entity shall disclose that fact and why the nonfinancial asset is being used in a manner that differs from its highest and best use.
 
+1. For recurring fair value measurements, the fair value measurement at the end of the reporting period, and for nonrecurring fair value measurements, the fair value measurement at the relevant measurement date and the reasons for the measurement. Recurring fair value measurements of assets or liabilities are those that other Topics require or permit in the statement of financial position at the end of each reporting period. Nonrecurring fair value measurements of assets or liabilities are those that other Topics require or permit in the statement of financial position in particular circumstances (for example, when a reporting entity measures a long-lived asset or disposal group classified as held for sale at fair value less costs to sell in accordance with Topic 360 because the asset's fair value less costs to sell is lower than its carrying amount). For nonrecurring measurements estimated at a date during the reporting period other than the end of the reporting period, a reporting entity shall clearly indicate that the fair value information presented is not as of the period's end as well as the date or period that the measurement was taken.
+1. Subparagraph superseded by Accounting Standards Update No. 2011-04.
+2. Subparagraph superseded by Accounting Standards Update No. 2011-04.
+3. Subparagraph superseded by Accounting Standards Update No. 2011-04.
+
+1. Subparagraph superseded by Accounting Standards Update No. 2011-04.
+2. Subparagraph superseded by Accounting Standards Update No. 2011-04.
+3. Subparagraph superseded by Accounting Standards Update No. 2011-04.
+
+1. For recurring and nonrecurring fair value measurements categorized within Level 2 and Level 3 of the fair value hierarchy, a description of the valuation technique(s) and the inputs used in the fair value measurement. If there has been a change in either or both a valuation approach and a valuation technique (for example, changing from matrix pricing to the binomial model or the use of an additional valuation technique), the reporting entity shall disclose that change and the reason(s) for making it.
+1. In complying with (bbb)(2), a reporting entity shall provide the range and weighted average of significant unobservable inputs used to develop Level 3 fair value measurements. A reporting entity shall disclose how it calculated the weighted average (for example, weighted by relative fair value). For certain unobservable inputs, a reporting entity may disclose other quantitative information, such as the median or arithmetic average, in lieu of the weighted average, if such information would be a more reasonable and rational method to reflect the distribution of unobservable inputs used to develop the Level 3 fair value measurement. An entity does not need to disclose its reason for omitting the weighted average in these cases.
+2. A nonpublic entity is not required to provide the information described in (bbb)(2)(i), but is required to provide quantitative information about the significant unobservable inputs used in the fair value measurement in accordance with (bbb)(2).
+
+1. Total gains or losses for the period recognized in earnings (or changes in net assets), and the line item(s) in the statement of income (or activities) in which those gains or losses are recognized
+2. Total gains or losses for the period recognized in other comprehensive income, and the line item(s) in other comprehensive income in which those gains or losses are recognized
+3. Purchases, sales, issues, and settlements (each of those types of changes disclosed separately)
+1. Subparagraph superseded by Accounting Standards Update No. 2011-04.
+2. Subparagraph superseded by Accounting Standards Update No. 2011-04.
+3. Subparagraph superseded by Accounting Standards Update No. 2011-04.
+
+4. For recurring fair value measurements categorized within Level 3 of the fair value hierarchy, the amount of the total gains or losses for the period in (c)(1) included in earnings (or changes in net assets) and in (c)(1a) included in other comprehensive income that is attributable to the change in unrealized gains or losses relating to those assets and liabilities held at the end of the reporting period, and the line item(s) in the statement(s) of comprehensive income (or activities) in which those unrealized gains or losses are recognized.
+5. Subparagraph superseded by Accounting Standards Update No. 2011-04.
+6. Subparagraph superseded by Accounting Standards Update No. 2018-13.
+7. For recurring fair value measurements categorized within Level 3 of the fair value hierarchy, a narrative description of the uncertainty of the fair value measurement from the use of significant unobservable inputs if those inputs reasonably could have been different at the reporting date. For example, how a change in those significant unobservable inputs to a different amount might result in a significantly higher or lower fair value measurement at the reporting date. If there are interrelationships between those inputs and other unobservable inputs used in the fair value measurement, a reporting entity shall also provide a description of those interrelationships and of how they might magnify or mitigate the effect of changes in the unobservable inputs on the fair value measurement. To comply with that disclosure requirement, the narrative description of the uncertainty of the fair value measurement that would result from using unobservable inputs shall include the unobservable inputs disclosed when complying with paragraph 820-10-50-2(bbb).
+8. For recurring and nonrecurring fair value measurements, if the highest and best use of a nonfinancial asset differs from its current use, a reporting entity shall disclose that fact and why the nonfinancial asset is being used in a manner that differs from its highest and best use.
+
 **820-10-50-2** A reporting entity shall disclose the following information for each class of assets and liabilities (see paragraph 820-10-50-2B for information on determining appropriate classes of assets and liabilities) measured at fair value (including measurements based on fair value within the scope of this Topic) in the statement of financial position after initial recognition. These disclosure requirements shall not apply to an investment within the scope of paragraphs 820-10-15-4 through 15-5
+1. For recurring fair value measurements, the fair value measurement at the end of the reporting period, and for nonrecurring fair value measurements, the fair value measurement at the relevant measurement date and the reasons for the measurement. Recurring fair value measurements of assets or liabilities are those that other Topics require or permit in the statement of financial position at the end of each reporting period. Nonrecurring fair value measurements of assets or liabilities are those that other Topics require or permit in the statement of financial position in particular circumstances (for example, when a reporting entity measures a long-lived asset or disposal group classified as held for sale at fair value less costs to sell in accordance with Topic 360 because the asset's fair value less costs to sell is lower than its carrying amount). For nonrecurring measurements estimated at a date during the reporting period other than the end of the reporting period, a reporting entity shall clearly indicate that the fair value information presented is not as of the period's end as well as the date or period that the measurement was taken.
+1. Subparagraph superseded by Accounting Standards Update No. 2011-04.
+2. Subparagraph superseded by Accounting Standards Update No. 2011-04.
+3. Subparagraph superseded by Accounting Standards Update No. 2011-04.
+
+1. Subparagraph superseded by Accounting Standards Update No. 2011-04.
+2. Subparagraph superseded by Accounting Standards Update No. 2011-04.
+3. Subparagraph superseded by Accounting Standards Update No. 2011-04.
+
+1. For recurring and nonrecurring fair value measurements categorized within Level 2 and Level 3 of the fair value hierarchy, a description of the valuation technique(s) and the inputs used in the fair value measurement. If there has been a change in either or both a valuation approach and a valuation technique (for example, changing from matrix pricing to the binomial model or the use of an additional valuation technique), the reporting entity shall disclose that change and the reason(s) for making it.
+1. In complying with (bbb)(2), a reporting entity shall provide the range and weighted average of significant unobservable inputs used to develop Level 3 fair value measurements. A reporting entity shall disclose how it calculated the weighted average (for example, weighted by relative fair value). For certain unobservable inputs, a reporting entity may disclose other quantitative information, such as the median or arithmetic average, in lieu of the weighted average, if such information would be a more reasonable and rational method to reflect the distribution of unobservable inputs used to develop the Level 3 fair value measurement. An entity does not need to disclose its reason for omitting the weighted average in these cases.
+2. A nonpublic entity is not required to provide the information described in (bbb)(2)(i), but is required to provide quantitative information about the significant unobservable inputs used in the fair value measurement in accordance with (bbb)(2).
+
+1. Total gains or losses for the period recognized in earnings (or changes in net assets), and the line item(s) in the statement of income (or activities) in which those gains or losses are recognized
+2. Total gains or losses for the period recognized in other comprehensive income, and the line item(s) in other comprehensive income in which those gains or losses are recognized
+3. Purchases, sales, issues, and settlements (each of those types of changes disclosed separately)
+1. Subparagraph superseded by Accounting Standards Update No. 2011-04.
+2. Subparagraph superseded by Accounting Standards Update No. 2011-04.
+3. Subparagraph superseded by Accounting Standards Update No. 2011-04.
+
+4. For recurring fair value measurements categorized within Level 3 of the fair value hierarchy, the amount of the total gains or losses for the period in (c)(1) included in earnings (or changes in net assets) and in (c)(1a) included in other comprehensive income that is attributable to the change in unrealized gains or losses relating to those assets and liabilities held at the end of the reporting period, and the line item(s) in the statement(s) of comprehensive income (or activities) in which those unrealized gains or losses are recognized.
+5. Subparagraph superseded by Accounting Standards Update No. 2011-04.
+6. Subparagraph superseded by Accounting Standards Update No. 2018-13.
+7. For recurring fair value measurements categorized within Level 3 of the fair value hierarchy, a narrative description of the uncertainty of the fair value measurement from the use of significant unobservable inputs if those inputs reasonably could have been different at the reporting date. For example, how a change in those significant unobservable inputs to a different amount might result in a significantly higher or lower fair value measurement at the reporting date. If there are interrelationships between those inputs and other unobservable inputs used in the fair value measurement, a reporting entity shall also provide a description of those interrelationships and of how they might magnify or mitigate the effect of changes in the unobservable inputs on the fair value measurement. To comply with that disclosure requirement, the narrative description of the uncertainty of the fair value measurement that would result from using unobservable inputs shall include the unobservable inputs disclosed when complying with paragraph 820-10-50-2(bbb).
+8. For recurring and nonrecurring fair value measurements, if the highest and best use of a nonfinancial asset differs from its current use, a reporting entity shall disclose that fact and why the nonfinancial asset is being used in a manner that differs from its highest and best use.
+
 1. For recurring fair value measurements, the fair value measurement at the end of the reporting period, and for nonrecurring fair value measurements, the fair value measurement at the relevant measurement date and the reasons for the measurement. Recurring fair value measurements of assets or liabilities are those that other Topics require or permit in the statement of financial position at the end of each reporting period. Nonrecurring fair value measurements of assets or liabilities are those that other Topics require or permit in the statement of financial position in particular circumstances (for example, when a reporting entity measures a long-lived asset or disposal group classified as held for sale at fair value less costs to sell in accordance with Topic 360 because the asset's fair value less costs to sell is lower than its carrying amount). For nonrecurring measurements estimated at a date during the reporting period other than the end of the reporting period, a reporting entity shall clearly indicate that the fair value information presented is not as of the period's end as well as the date or period that the measurement was taken.
 1. Subparagraph superseded by Accounting Standards Update No. 2011-04.
 2. Subparagraph superseded by Accounting Standards Update No. 2011-04.
@@ -1885,7 +2025,13 @@ is not required to disclose the information required by paragraph 820-10-50-2(bb
 Purchases and issues (each of those types of changes disclosed separately)
 2. The amounts of any transfers into or out of Level 3 of the fair value hierarchy and the reasons for those transfers. Transfers into Level 3 shall be disclosed and discussed separately from transfers out of Level 3. See paragraph 820-10-50-2C for additional guidance.
 
+1. Purchases and issues (each of those types of changes disclosed separately)
+2. The amounts of any transfers into or out of Level 3 of the fair value hierarchy and the reasons for those transfers. Transfers into Level 3 shall be disclosed and discussed separately from transfers out of Level 3. See paragraph 820-10-50-2C for additional guidance.
+
 **820-10-50-2G** Purchases and issues (each of those types of changes disclosed separately)
+2. The amounts of any transfers into or out of Level 3 of the fair value hierarchy and the reasons for those transfers. Transfers into Level 3 shall be disclosed and discussed separately from transfers out of Level 3. See paragraph 820-10-50-2C for additional guidance.
+
+1. Purchases and issues (each of those types of changes disclosed separately)
 2. The amounts of any transfers into or out of Level 3 of the fair value hierarchy and the reasons for those transfers. Transfers into Level 3 shall be disclosed and discussed separately from transfers out of Level 3. See paragraph 820-10-50-2C for additional guidance.
 
 **820-10-50-2H** See paragraph 958-605-50-1A(d) through (e), which provides disclosures for a not-for-profit entity
@@ -1895,20 +2041,37 @@ Purchases and issues (each of those types of changes disclosed separately)
 The fair value disclosures required by paragraph 820-10-50-2(a) through (b) on a gross basis (which is consistent with the requirement of paragraph 815-10-50-4B(a))
 2. The reconciliation disclosure required by paragraph 820-10-50-2(c) through (d) on either a gross or a net basis.
 
+1. The fair value disclosures required by paragraph 820-10-50-2(a) through (b) on a gross basis (which is consistent with the requirement of paragraph 815-10-50-4B(a))
+2. The reconciliation disclosure required by paragraph 820-10-50-2(c) through (d) on either a gross or a net basis.
+
 **820-10-50-3** The fair value disclosures required by paragraph 820-10-50-2(a) through (b) on a gross basis (which is consistent with the requirement of paragraph 815-10-50-4B(a))
+2. The reconciliation disclosure required by paragraph 820-10-50-2(c) through (d) on either a gross or a net basis.
+
+1. The fair value disclosures required by paragraph 820-10-50-2(a) through (b) on a gross basis (which is consistent with the requirement of paragraph 815-10-50-4B(a))
 2. The reconciliation disclosure required by paragraph 820-10-50-2(c) through (d) on either a gross or a net basis.
 
 **820-10-50-4** Paragraph superseded by Accounting Standards Update No. 2011-04.
 **820-10-50-4** Paragraph superseded by Accounting Standards Update No. 2011-04.
 **820-10-50-4A** > Liability Issued with an Inseparable Third-Party Credit Enhancement
 For a liability measured at fair value and issued with an inseparable third-party credit enhancement, an issuer shall disclose the existence of that credit enhancement.
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For a liability measured at fair value and issued with an inseparable third-party credit enhancement, an issuer shall disclose the existence of that credit enhancement in interim and annual reporting periods.
 **820-10-50-4A** For a liability measured at fair value and issued with an inseparable third-party credit enhancement, an issuer shall disclose the existence of that credit enhancement.
-**820-10-50-5** Paragraph superseded by Accounting Standards Update No. 2011-04.
+**820-10-50-5** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For a liability measured at fair value and issued with an inseparable third-party credit enhancement, an issuer shall disclose the existence of that credit enhancement in interim and annual reporting periods.
+Paragraph superseded by Accounting Standards Update No. 2011-04.
 **820-10-50-5** Paragraph superseded by Accounting Standards Update No. 2011-04.
 **820-10-50-6** Paragraph superseded by Accounting Standards Update No. 2011-04.
 **820-10-50-6** Paragraph superseded by Accounting Standards Update No. 2011-04.
 **820-10-50-6A** > Fair Value Measurements of Investments in Certain Entities That Calculate Net Asset Value per Share (or Its Equivalent)
 For investments that are within the scope of paragraphs 820-10-15-4 through 15-5
+1. The fair value measurement (as determined by applying paragraphs 820-10-35-59 through 35-62) of the investments in the class at the reporting date and a description of the significant investment strategies of the investee(s) in the class.
+2. For each class of investment that includes investments that can never be redeemed with the investees, but the reporting entity receives distributions through the liquidation of the underlying assets of the investees, the period of time over which the underlying assets are expected to be liquidated by the investees if the investee has communicated the timing to the reporting entity or announced the timing publicly. If the timing is unknown, the reporting entity shall disclose that fact.
+3. The amount of the reporting entity's unfunded commitments related to investments in the class.
+4. A general description of the terms and conditions upon which the investor may redeem investments in the class (for example, quarterly redemption with 60 days' notice).
+5. The circumstances in which an otherwise redeemable investment in the class (or a portion thereof) might not be redeemable (for example, investments subject to a lockup or gate). Also, for those otherwise redeemable investments that are restricted from redemption as of the reporting entity's measurement date, the reporting entity shall disclose when the restriction from redemption might lapse if the investee has communicated that timing to the reporting entity or announced the timing publicly. If the timing is unknown, the reporting entity shall disclose that fact and how long the restriction has been in effect.
+6. Any other significant restriction on the ability to sell investments in the class at the measurement date.
+7. Subparagraph superseded by Accounting Standards Update No. 2015-07.
+8. If a group of investments would otherwise meet the criteria in paragraph 820-10-35-62 but the individual investments to be sold have not been identified (for example, if a reporting entity decides to sell 20 percent of its investments in private equity funds but the individual investments to be sold have not been identified), so the investments continue to qualify for the practical expedient in paragraph 820-10-35-59, the reporting entity shall disclose its plans to sell and any remaining actions required to complete the sale(s).
+
 1. The fair value measurement (as determined by applying paragraphs 820-10-35-59 through 35-62) of the investments in the class at the reporting date and a description of the significant investment strategies of the investee(s) in the class.
 2. For each class of investment that includes investments that can never be redeemed with the investees, but the reporting entity receives distributions through the liquidation of the underlying assets of the investees, the period of time over which the underlying assets are expected to be liquidated by the investees if the investee has communicated the timing to the reporting entity or announced the timing publicly. If the timing is unknown, the reporting entity shall disclose that fact.
 3. The amount of the reporting entity's unfunded commitments related to investments in the class.
@@ -1928,13 +2091,43 @@ For investments that are within the scope of paragraphs 820-10-15-4 through 15-5
 7. Subparagraph superseded by Accounting Standards Update No. 2015-07.
 8. If a group of investments would otherwise meet the criteria in paragraph 820-10-35-62 but the individual investments to be sold have not been identified (for example, if a reporting entity decides to sell 20 percent of its investments in private equity funds but the individual investments to be sold have not been identified), so the investments continue to qualify for the practical expedient in paragraph 820-10-35-59, the reporting entity shall disclose its plans to sell and any remaining actions required to complete the sale(s).
 
-**820-10-50-7** > Equity Securities Subject to Contractual Sale Restrictions> Changes in Valuation Techniques or Their Application
+1. The fair value measurement (as determined by applying paragraphs 820-10-35-59 through 35-62) of the investments in the class at the reporting date and a description of the significant investment strategies of the investee(s) in the class.
+2. For each class of investment that includes investments that can never be redeemed with the investees, but the reporting entity receives distributions through the liquidation of the underlying assets of the investees, the period of time over which the underlying assets are expected to be liquidated by the investees if the investee has communicated the timing to the reporting entity or announced the timing publicly. If the timing is unknown, the reporting entity shall disclose that fact.
+3. The amount of the reporting entity's unfunded commitments related to investments in the class.
+4. A general description of the terms and conditions upon which the investor may redeem investments in the class (for example, quarterly redemption with 60 days' notice).
+5. The circumstances in which an otherwise redeemable investment in the class (or a portion thereof) might not be redeemable (for example, investments subject to a lockup or gate). Also, for those otherwise redeemable investments that are restricted from redemption as of the reporting entity's measurement date, the reporting entity shall disclose when the restriction from redemption might lapse if the investee has communicated that timing to the reporting entity or announced the timing publicly. If the timing is unknown, the reporting entity shall disclose that fact and how long the restriction has been in effect.
+6. Any other significant restriction on the ability to sell investments in the class at the measurement date.
+7. Subparagraph superseded by Accounting Standards Update No. 2015-07.
+8. If a group of investments would otherwise meet the criteria in paragraph 820-10-35-62 but the individual investments to be sold have not been identified (for example, if a reporting entity decides to sell 20 percent of its investments in private equity funds but the individual investments to be sold have not been identified), so the investments continue to qualify for the practical expedient in paragraph 820-10-35-59, the reporting entity shall disclose its plans to sell and any remaining actions required to complete the sale(s).
+
+1. The fair value of equity securities subject to contractual sale restrictions
+2. The nature and remaining duration of the restriction(s)
+3. Circumstances that could cause a lapse in the restriction(s).
+
+1. The fair value of equity securities subject to contractual sale restrictions
+2. The nature and remaining duration of the restriction(s)
+3. Circumstances that could cause a lapse in the restriction(s).
+
+**820-10-50-6B** If an entity has multiple investments in equity securities subject to contractual sale restrictions, the entity shall consider the guidance in paragraph 820-10-50-1D when disclosing the information required in (a) through (c). Equity securities restricted from sale because they are pledged as collateral and included in other disclosures required by other Topics shall not be included in the information required in (a) through (c).
+1. The fair value of equity securities subject to contractual sale restrictions
+2. The nature and remaining duration of the restriction(s)
+3. Circumstances that could cause a lapse in the restriction(s).
+
+**820-10-50-6B** If an entity has multiple investments in equity securities subject to contractual sale restrictions, the entity shall consider the guidance in paragraph 820-10-50-1D when disclosing the information required in (a) through (c). Equity securities restricted from sale because they are pledged as collateral and included in other disclosures required by other Topics shall not be included in the information required in (a) through (c).
+1. The fair value of equity securities subject to contractual sale restrictions
+2. The nature and remaining duration of the restriction(s)
+3. Circumstances that could cause a lapse in the restriction(s).
+
+If an entity has multiple investments in equity securities subject to contractual sale restrictions, the entity shall consider the guidance in paragraph 820-10-50-1D when disclosing the information required in (a) through (c). Equity securities restricted from sale because they are pledged as collateral and included in other disclosures required by other Topics shall not be included in the information required in (a) through (c).
+**820-10-50-7** > Changes in Valuation Techniques or Their Application
 As discussed in paragraph 250-10-50-5, the disclosures required by Topic 250 for a change in accounting estimate are not required for revisions resulting from a change in a valuation technique or its application.
 **820-10-50-7** As discussed in paragraph 250-10-50-5, the disclosures required by Topic 250 for a change in accounting estimate are not required for revisions resulting from a change in a valuation technique or its application.
 **820-10-50-8** > Tabular Format Required
 A reporting entity shall present the quantitative disclosures required by this Topic in a tabular format.
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For interim and annual reporting periods, a reporting entity shall present the quantitative disclosures required by this Topic in a tabular format.
 **820-10-50-8** A reporting entity shall present the quantitative disclosures required by this Topic in a tabular format.
-**820-10-50-8A** Paragraph not used.
+**820-10-50-8A** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For interim and annual reporting periods, a reporting entity shall present the quantitative disclosures required by this Topic in a tabular format.
+Paragraph not used.
 **820-10-50-8A** Paragraph not used.
 **820-10-50-9** Paragraph superseded by Accounting Standards Update No. 2011-04.
 **820-10-50-9** Paragraph superseded by Accounting Standards Update No. 2011-04.
@@ -1944,7 +2137,7 @@ A reporting entity shall present the quantitative disclosures required by this T
 
 ## 55 Implementation Guidance and Illustrations
 
-> **General Note:** The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
 
 ### General
 
@@ -2285,7 +2478,13 @@ Paragraph superseded by Accounting Standards Update No. 2011-04.
 Subparagraph superseded by Accounting Standards Update No. 2011-04.
 2. Subparagraph superseded by Accounting Standards Update No. 2011-04.
 
+1. Subparagraph superseded by Accounting Standards Update No. 2011-04.
+2. Subparagraph superseded by Accounting Standards Update No. 2011-04.
+
 Subparagraph superseded by Accounting Standards Update No. 2011-04.
+2. Subparagraph superseded by Accounting Standards Update No. 2011-04.
+
+1. Subparagraph superseded by Accounting Standards Update No. 2011-04.
 2. Subparagraph superseded by Accounting Standards Update No. 2011-04.
 
 **820-10-55-52** · · > Case A: Restriction on the Sale of an Equity Instrument· · · > Restriction Taken into Account
@@ -2294,15 +2493,33 @@ A reporting entity holds an equity instrument (a financial asset
 2. The extent to which buyers are limited by the restriction (for example, there might be a large number of qualifying investors)
 3. Qualitative and quantitative factors specific to both the instrument and the issuer.
 
+| Editor's Note: The content of paragraph 820-10-55-52 will change upon transition, together with a change in the heading noted below. |
+| --- |
+| > > > Case A: Restriction on the Sale of an Equity Security |
+
+1. The nature and remaining duration of the restriction
+2. The extent to which buyers are limited by the restriction (for example, there might be a large number of qualifying investors)
+3. Qualitative and quantitative factors specific to both the instrument and the issuer.
+
 A reporting entity holds an equity instrument (a financial asset
 1. The nature and duration of the restriction
 2. The extent to which buyers are limited by the restriction (for example, there might be a large number of qualifying investors)
 3. Qualitative and quantitative factors specific to both the instrument and the issuer.
 
-**820-10-55-53** · · · > Restriction Not Taken into Account
+| Editor's Note: The content of paragraph 820-10-55-52 will change upon transition, together with a change in the heading noted below. |
+| --- |
+| > > > Case A: Restriction on the Sale of an Equity Security |
+
+1. The nature and remaining duration of the restriction
+2. The extent to which buyers are limited by the restriction (for example, there might be a large number of qualifying investors)
+3. Qualitative and quantitative factors specific to both the instrument and the issuer.
+
+**820-10-55-52A** · · · > Restriction Not Taken into Account PENDING CONTENTTransition date: December 16, 2023; December 16, 2024Transition guidance:820-10-65-13A reporting entity holds Class A shares of Company X that are eligible for sale on a national securities exchange or an over-the-counter market. Separately, the reporting entity enters into a contractual arrangement in which it agrees that it will not sell the Class A shares for a certain time period. That arrangement may be referred to as a lock-up agreement or a market standoff agreement or may be the result of a provision within a separate agreement between certain shareholders (that is, separate from the legal documents that establish the rights and obligations of all holders of a particular class of stock). In that instance, the restriction is not included in the unit of account and therefore is not a characteristic of the asset. The equity security subject to the contractual sale restriction is identical to an equity security that is not subject to a contractual sale restriction. Therefore, consistent with the guidance in paragraphs 820-10-35-6B and 820-10-35-36B, the fair value of the equity security subject to the contractual sale restriction should be measured on the basis of the market price of the same equity security without the contractual sale restriction and should not be adjusted to reflect the reporting entity’s inability to sell the equity security on the measurement date.
+**820-10-55-53** PENDING CONTENTTransition date: December 16, 2023; December 16, 2024Transition guidance:820-10-65-13A reporting entity holds Class A shares of Company X that are eligible for sale on a national securities exchange or an over-the-counter market. Separately, the reporting entity enters into a contractual arrangement in which it agrees that it will not sell the Class A shares for a certain time period. That arrangement may be referred to as a lock-up agreement or a market standoff agreement or may be the result of a provision within a separate agreement between certain shareholders (that is, separate from the legal documents that establish the rights and obligations of all holders of a particular class of stock). In that instance, the restriction is not included in the unit of account and therefore is not a characteristic of the asset. The equity security subject to the contractual sale restriction is identical to an equity security that is not subject to a contractual sale restriction. Therefore, consistent with the guidance in paragraphs 820-10-35-6B and 820-10-35-36B, the fair value of the equity security subject to the contractual sale restriction should be measured on the basis of the market price of the same equity security without the contractual sale restriction and should not be adjusted to reflect the reporting entity’s inability to sell the equity security on the measurement date.
 As discussed in paragraph 820-10-15-5, this Topic applies for equity securities with restrictions that expire within one year that are measured at fair value in accordance with Subtopics 320-10 and 958-320.
+PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:105-10-65-10As discussed in paragraph 820-10-15-5, this Topic applies to equity securities with restrictions that expire within one year that are measured at fair value in accordance with Subtopics 321-10 and 958-321.
 As discussed in paragraph 820-10-15-5, this Topic applies for equity securities with restrictions that expire within one year that are measured at fair value in accordance with Subtopics 320-10 and 958-320.
-**820-10-55-54** · · > Case B: Restrictions on the Use of an Asset
+**820-10-55-54** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:105-10-65-10As discussed in paragraph 820-10-15-5, this Topic applies to equity securities with restrictions that expire within one year that are measured at fair value in accordance with Subtopics 321-10 and 958-321. · · > Case B: Restrictions on the Use of an Asset
 Donor restriction on use of land. Because in this situation the donor restriction on the use of the land is specific to the association, the restriction would not be transferred to market participants. Therefore, the fair value of the land would be the higher of its fair value used as a playground (that is, the fair value of the asset would be maximized through its use by market participants in combination with other assets or with other assets and liabilities) and its fair value as a site for residential development (that is, the fair value of the asset would be maximized through its use by market participants on a standalone basis), regardless of the restriction on the use of the land by the association.
 2. Easement for utility lines. Because the easement for utility lines is specific to (that is, a characteristic of) the land, it would be transferred to market participants with the land. Therefore, the fair value measurement of the land would take into account the effect of the easement, regardless of whether the highest and best use is as a playground or as a site for residential development.
 
@@ -2442,7 +2659,17 @@ This Example illustrates the use of judgment when measuring the fair value of a 
 3. The underlying collateral for the residential mortgage-backed security is unguaranteed nonconforming residential mortgage loans that were issued in the second half of 20X6.
 4. At March 31, 20X9 (the measurement date), the junior tranche is now A-rated. This tranche of the residential mortgage-backed security was previously traded through a brokered market. However, trading volume in that market was infrequent, with only a few transactions taking place per month from January 1, 20X8, to June 30, 20X8, and little, if any, trading activity during the nine months before March 31, 20X9.
 
+1. Entity A invests in a junior AAA-rated tranche of a residential mortgage-backed security on January 1, 20X8 (the issue date of the security).
+2. The junior tranche is the third most senior of a total of seven tranches.
+3. The underlying collateral for the residential mortgage-backed security is unguaranteed nonconforming residential mortgage loans that were issued in the second half of 20X6.
+4. At March 31, 20X9 (the measurement date), the junior tranche is now A-rated. This tranche of the residential mortgage-backed security was previously traded through a brokered market. However, trading volume in that market was infrequent, with only a few transactions taking place per month from January 1, 20X8, to June 30, 20X8, and little, if any, trading activity during the nine months before March 31, 20X9.
+
 This Example illustrates the use of judgment when measuring the fair value of a financial asset when there has been a significant decrease in the volume or level of activity for the asset when compared with normal market activity for the asset (or similar assets). (See paragraphs 820-10-35-54C through 35-54H
+1. Entity A invests in a junior AAA-rated tranche of a residential mortgage-backed security on January 1, 20X8 (the issue date of the security).
+2. The junior tranche is the third most senior of a total of seven tranches.
+3. The underlying collateral for the residential mortgage-backed security is unguaranteed nonconforming residential mortgage loans that were issued in the second half of 20X6.
+4. At March 31, 20X9 (the measurement date), the junior tranche is now A-rated. This tranche of the residential mortgage-backed security was previously traded through a brokered market. However, trading volume in that market was infrequent, with only a few transactions taking place per month from January 1, 20X8, to June 30, 20X8, and little, if any, trading activity during the nine months before March 31, 20X9.
+
 1. Entity A invests in a junior AAA-rated tranche of a residential mortgage-backed security on January 1, 20X8 (the issue date of the security).
 2. The junior tranche is the third most senior of a total of seven tranches.
 3. The underlying collateral for the residential mortgage-backed security is unguaranteed nonconforming residential mortgage loans that were issued in the second half of 20X6.
@@ -2570,6 +2797,7 @@ For investments that are within the scope of paragraphs 820-10-15-4 through 15-5
 6. Footnote superseded by Accounting Standards Update No. 2015-07.
 
 For investments that are within the scope of paragraphs 820-10-15-4 through 15-5
+and that are measured at fair value using net asset value per share as a practical expedient, this Topic requires a reporting entity to disclose information that helps users to understand the nature, characteristics, and risks of the investments by class and whether the investments, if sold, are probable of being sold at amounts different from net asset value per share (or its equivalent, such as member units or an ownership interest in partners' capital to which a proportionate share of net assets is attributed) (see paragraph 820-10-50-6A). That information may be presented as follows. (The classes presented below are provided as examples only and are not intended to be treated as a template. The classes disclosed should be tailored to the nature, characteristics, and risks of the reporting entity's investments.)
 1. This class includes investments in hedge funds that invest both long and short primarily in U.S. common stocks. Management of the hedge funds has the ability to shift investments from value to growth strategies, from small to large capitalization stocks, and from a net long position to a net short position. The fair values of the investments in this class have been estimated using the net asset value per share of the investments. Investments representing approximately 22 percent of the value of the investments in this class cannot be redeemed because the investments include restrictions that do not allow for redemption in the first 12 to 18 months after acquisition. The remaining restriction period for these investments ranged from three to seven months at December 31, 20X3.
 2. This class includes investments in hedge funds that invest in approximately 60 percent equities and 40 percent bonds to profit from economic, political, and government driven events. A majority of the investments are targeted at economic policy decisions. The fair values of the investments in this class have been estimated using the net asset value per share of the investments.
 3. This class includes investments in hedge funds that hold approximately 80 percent of the funds' investments in non-U.S. common stocks in the healthcare, energy, information technology, utilities, and telecommunications sectors and approximately 20 percent of the funds' investments in diversified currencies. The fair values of the investments in this class have been estimated using the net asset value per share of the investments. For one investment, valued at $8.75 million, a gate has been imposed by the hedge fund manager and no redemptions are currently permitted. This redemption restriction has been in place for six months and the time at which the redemption restriction might lapse is unknown.
@@ -2579,7 +2807,7 @@ For investments that are within the scope of paragraphs 820-10-15-4 through 15-5
 
 ## 60 Relationships
 
-> **General Note:** The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
+General Note:The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
 
 ### General
 
@@ -2590,7 +2818,7 @@ For guidance on fair value
 
 ## 65 Transition and Open Effective Date Information
 
-> **General Note:** The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
+General Note:The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
 
 ### General
 

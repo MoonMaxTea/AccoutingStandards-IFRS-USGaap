@@ -14,7 +14,7 @@ key: true
 
 ## 00 Status
 
-> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
 ### General
 
@@ -347,11 +347,12 @@ key: true
 
 ## 05 Overview and Background
 
-> **General Note:** The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
 
 ### General
 
-**815-10-05-1** Overall
+**815-10-05-1** Related Proposed ASUs
+Overall
 2. Embedded Derivatives
 3. Hedging—General
 4. Fair Value Hedges
@@ -450,12 +451,13 @@ A benefit-responsive guaranteed investment contract contains provisions that mir
 
 ### Certain Contracts on Debt and Equity Securities
 
-**815-10-05-16** The Certain Contracts on Debt and Equity Securities Subsections provide guidance on certain contracts on debt and equity securities.
+**815-10-05-16** Related Proposed ASUs
+The Certain Contracts on Debt and Equity Securities Subsections provide guidance on certain contracts on debt and equity securities.
 **815-10-05-16** The Certain Contracts on Debt and Equity Securities Subsections provide guidance on certain contracts on debt and equity securities.
 
 ## 10 Objectives
 
-> **General Note:** The Objectives Section provides the high-level objectives that the Subtopic is intended to accomplish or attain. The Section does not summarize or discuss the main principles of accounting and reporting requirements.
+General Note:The Objectives Section provides the high-level objectives that the Subtopic is intended to accomplish or attain. The Section does not summarize or discuss the main principles of accounting and reporting requirements.
 
 ### General
 
@@ -473,13 +475,13 @@ A benefit-responsive guaranteed investment contract contains provisions that mir
 
 ## 15 Scope and Scope Exceptions
 
-> **General Note:** The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
 
-> **General Note:** General Note for Financial Instruments:Some of the items subject to the guidance in this Subtopic are financial instruments
+General Note for Financial Instruments:Some of the items subject to the guidance in this Subtopic are financial instruments
 
 ### General
 
-**815-10-15-1** . For guidance on matters related broadly to all financial instruments, (including the fair value option, accounting for registration payment arrangements, and broad financial instrument disclosure requirements), see Topic 825. See Section 825-10-15 for guidance on the scope of the Financial Instruments Topic.> Entities
+**815-10-15-1** . For guidance on matters related broadly to all financial instruments, (including the fair value option, accounting for registration payment arrangements, and broad financial instrument disclosure requirements), see Topic 825. See Section 825-10-15 for guidance on the scope of the Financial Instruments Topic.Related Proposed ASUs > Entities
 This Subtopic applies to all entities. Some entities, such as not-for-profit entities (NFPs) and defined benefit pension plans, do not report earnings as a separate caption in a statement of financial performance. The application of this Subtopic to those entities is set forth in paragraphs 815-10-35-3, 815-20-15-1, 815-25-35-19, and 815-30-15-3.
 **815-10-15-1** This Subtopic applies to all entities. Some entities, such as not-for-profit entities (NFPs) and defined benefit pension plans, do not report earnings as a separate caption in a statement of financial performance. The application of this Subtopic to those entities is set forth in paragraphs 815-10-35-3, 815-20-15-1, 815-25-35-19, and 815-30-15-3.
 **815-10-15-2** > Instruments
@@ -535,9 +537,19 @@ The transactions were entered into contemporaneously and in contemplation of one
 ##### · > Instruments Within Scope
 
 **815-10-15-10** The guidance in the General Subsections of this Subtopic applies to all derivative instruments, as that term is defined in paragraph 815-10-15-83, unless explicitly excluded by this Subsection (see paragraphs 815-10-15-13 through 15-82
-**815-10-15-10** ). The General Subsections of this Subtopic also identify incremental guidance that applies specifically to forward commitment dollar rolls.
-The guidance in the General Subsections of this Subtopic applies to all derivative instruments, as that term is defined in paragraph 815-10-15-83, unless explicitly excluded by this Subsection (see paragraphs 815-10-15-13 through 15-82
-**815-10-15-11** ). The General Subsections of this Subtopic also identify incremental guidance that applies specifically to forward commitment dollar rolls.· · > Interests in Securitized Financial Assets
+
+| Editor's Note: The content of paragraph 815-10-15-10 will change upon transition, together with a change in the heading noted below. |
+| --- |
+| •> Instruments within Scope |
+
+). The General Subsections of this Subtopic also identify incremental guidance that applies specifically to forward commitment dollar rolls.PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8The guidance in the General Subsections of this Subtopic applies to all derivative instruments, as that term is defined in paragraph 815-10-15-83, unless explicitly excluded by this Subsection (see paragraphs 815-10-15-13 through 15-60 and 815-10-15-62 through 15-82). The General Subsections of this Subtopic also identify incremental guidance that applies specifically to forward commitment dollar rolls.
+**815-10-15-10** The guidance in the General Subsections of this Subtopic applies to all derivative instruments, as that term is defined in paragraph 815-10-15-83, unless explicitly excluded by this Subsection (see paragraphs 815-10-15-13 through 15-82
+
+| Editor's Note: The content of paragraph 815-10-15-10 will change upon transition, together with a change in the heading noted below. |
+| --- |
+| •> Instruments within Scope |
+
+**815-10-15-11** ). The General Subsections of this Subtopic also identify incremental guidance that applies specifically to forward commitment dollar rolls.PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8The guidance in the General Subsections of this Subtopic applies to all derivative instruments, as that term is defined in paragraph 815-10-15-83, unless explicitly excluded by this Subsection (see paragraphs 815-10-15-13 through 15-60 and 815-10-15-62 through 15-82). The General Subsections of this Subtopic also identify incremental guidance that applies specifically to forward commitment dollar rolls.· · > Interests in Securitized Financial Assets
 The holder of an interest in securitized financial assets (other than those identified in paragraphs 815-10-15-72 through 15-73
 ) shall determine whether the interest is a freestanding derivative instrument or contains an embedded derivative that under Section 815-15-25 would be required to be separated from the host contract and accounted for separately.
 **815-10-15-11** The holder of an interest in securitized financial assets (other than those identified in paragraphs 815-10-15-72 through 15-73
@@ -564,10 +576,42 @@ A forward commitment dollar roll that does not meet the definition of a derivati
 14. Registration payment arrangements
 15. Certain fixed-odds wagering contracts.
 
+1. Regular-way security trades
+2. Normal purchases and normal sales
+3. Certain insurance contracts and market risk benefits
+4. Certain financial guarantee contracts
+5. Certain contracts that are not traded on an exchange
+6. Derivative instruments that impede sales accounting
+7. Investments in life insurance
+8. Certain investment contracts
+9. Certain loan commitments
+10. Certain interest-only strips and principal-only strips
+11. Certain contracts involving an entity's own equity
+12. Leases
+13. Residual value guarantees
+14. Registration payment arrangements
+15. Certain fixed-odds wagering contracts.
+
 **815-10-15-13** Notwithstanding the conditions in paragraphs 815-10-15-83 through 15-139
 1. Regular-way security trades
 2. Normal purchases and normal sales
 3. Certain insurance contracts
+4. Certain financial guarantee contracts
+5. Certain contracts that are not traded on an exchange
+6. Derivative instruments that impede sales accounting
+7. Investments in life insurance
+8. Certain investment contracts
+9. Certain loan commitments
+10. Certain interest-only strips and principal-only strips
+11. Certain contracts involving an entity's own equity
+12. Leases
+13. Residual value guarantees
+14. Registration payment arrangements
+15. Certain fixed-odds wagering contracts.
+
+1. Regular-way security trades
+2. Normal purchases and normal sales
+3. Certain insurance contracts and market risk benefits
 4. Certain financial guarantee contracts
 5. Certain contracts that are not traded on an exchange
 6. Derivative instruments that impede sales accounting
@@ -839,6 +883,19 @@ A climatic or geological variable or other physical variable. Climatic, geologic
 3. The fair value of a nonfinancial liability of one of the parties to the contract provided that the liability does not require delivery of an asset that is readily convertible to cash.
 4. Specified volumes of sales or service revenues of one of the parties to the contract. (This scope exception applies to contracts with settlements based on the volume of items sold or services rendered, for example, royalty agreements. This scope exception does not apply to contracts based on changes in sales or revenues due to changes in market prices.)
 
+1. A climatic or geological variable or other physical variable. Climatic, geological, and other physical variables include things like the number of inches of rainfall or snow in a particular area and the severity of an earthquake as measured by the Richter scale. (See Example 13 [paragraph 815-10-55-135].)
+1. The nonfinancial assets are unique.
+2. The nonfinancial asset related to the underlying is owned by the party that would not benefit under the contract from an increase in the fair value of the nonfinancial asset. (If the contract is a call option, the scope exception applies only if that nonfinancial asset is owned by the party that would not benefit under the contract from an increase in the fair value of the nonfinancial asset above the option's strike price.)
+
+3. The fair value of a nonfinancial liability of one of the parties to the contract provided that the liability does not require delivery of an asset that is readily convertible to cash.
+4. Specified volumes of sales or service revenues of one of the parties to the contract. (This scope exception applies to contracts with settlements based on the volume of items sold or services rendered, for example, royalty agreements. This scope exception does not apply to contracts based on changes in sales or revenues due to changes in market prices.)
+1. Underlyings that are based on a market rate, market price, or market index (including those in paragraph 815-10-15-88(a) through (f)). (See Example 14A—Case F [paragraph 815-10-55-143K] and Case I [paragraphs 815-10-55-143P through 55-143Q] that illustrate the application of this exclusion to the scope exception.)
+2. Underlyings that are based on the price or performance (including default) of a financial asset or financial liability of one of the parties to the contract. For example, the scope exception does not apply to underlyings based on (i) a rate of return or a default rate on a pool of loans held by one of the parties to the contract or (ii) the occurrence or nonoccurrence of an event of default or other credit event by a borrower (or reference entity) on a loan held by one of the parties to the contract. (See Example 14A—Case J [paragraphs 815-10-55-143R through 55-143S] that illustrates the application of this exclusion to the scope exception.)
+3. Contracts involving an entity’s own equity that are subject to paragraph 815-10-15-74(a) and Subtopic 815-40.
+4. Call options and put options on debt instruments that are subject to paragraphs 815-15-25-41 through 25-43.
+
+4. Solely for purposes of applying the scope exception in (e), the term *party to the contract* includes the parent, subsidiaries, or other entities consolidated by the parent for both consolidated financial statements and the standalone financial statements of individual entities within the consolidated group.
+
 **815-10-15-59** A climatic or geological variable or other physical variable. Climatic, geological, and other physical variables include things like the number of inches of rainfall or snow in a particular area and the severity of an earthquake as measured by the Richter scale. (See Example 13 [paragraph 815-10-55-135].)
 1. The nonfinancial assets are unique.
 2. The nonfinancial asset related to the underlying is owned by the party that would not benefit under the contract from an increase in the fair value of the nonfinancial asset. (If the contract is a call option, the scope exception applies only if that nonfinancial asset is owned by the party that would not benefit under the contract from an increase in the fair value of the nonfinancial asset above the option's strike price.)
@@ -846,11 +903,26 @@ A climatic or geological variable or other physical variable. Climatic, geologic
 3. The fair value of a nonfinancial liability of one of the parties to the contract provided that the liability does not require delivery of an asset that is readily convertible to cash.
 4. Specified volumes of sales or service revenues of one of the parties to the contract. (This scope exception applies to contracts with settlements based on the volume of items sold or services rendered, for example, royalty agreements. This scope exception does not apply to contracts based on changes in sales or revenues due to changes in market prices.)
 
+1. A climatic or geological variable or other physical variable. Climatic, geological, and other physical variables include things like the number of inches of rainfall or snow in a particular area and the severity of an earthquake as measured by the Richter scale. (See Example 13 [paragraph 815-10-55-135].)
+1. The nonfinancial assets are unique.
+2. The nonfinancial asset related to the underlying is owned by the party that would not benefit under the contract from an increase in the fair value of the nonfinancial asset. (If the contract is a call option, the scope exception applies only if that nonfinancial asset is owned by the party that would not benefit under the contract from an increase in the fair value of the nonfinancial asset above the option's strike price.)
+
+3. The fair value of a nonfinancial liability of one of the parties to the contract provided that the liability does not require delivery of an asset that is readily convertible to cash.
+4. Specified volumes of sales or service revenues of one of the parties to the contract. (This scope exception applies to contracts with settlements based on the volume of items sold or services rendered, for example, royalty agreements. This scope exception does not apply to contracts based on changes in sales or revenues due to changes in market prices.)
+1. Underlyings that are based on a market rate, market price, or market index (including those in paragraph 815-10-15-88(a) through (f)). (See Example 14A—Case F [paragraph 815-10-55-143K] and Case I [paragraphs 815-10-55-143P through 55-143Q] that illustrate the application of this exclusion to the scope exception.)
+2. Underlyings that are based on the price or performance (including default) of a financial asset or financial liability of one of the parties to the contract. For example, the scope exception does not apply to underlyings based on (i) a rate of return or a default rate on a pool of loans held by one of the parties to the contract or (ii) the occurrence or nonoccurrence of an event of default or other credit event by a borrower (or reference entity) on a loan held by one of the parties to the contract. (See Example 14A—Case J [paragraphs 815-10-55-143R through 55-143S] that illustrates the application of this exclusion to the scope exception.)
+3. Contracts involving an entity’s own equity that are subject to paragraph 815-10-15-74(a) and Subtopic 815-40.
+4. Call options and put options on debt instruments that are subject to paragraphs 815-15-25-41 through 25-43.
+
+4. Solely for purposes of applying the scope exception in (e), the term *party to the contract* includes the parent, subsidiaries, or other entities consolidated by the parent for both consolidated financial statements and the standalone financial statements of individual entities within the consolidated group.
+
 **815-10-15-60** If a contract has more than one underlying and some, but not all, of them qualify for one of the scope exceptions in paragraph 815-10-15-59, the application of this Subtopic to that contract depends on its predominant characteristics. That is, the contract is subject to the requirements of this Subtopic if all of its underlyings, considered in combination, behave in a manner that is highly correlated with the behavior of any of the component variables that do not qualify for a scope exception.
 **815-10-15-60** If a contract has more than one underlying and some, but not all, of them qualify for one of the scope exceptions in paragraph 815-10-15-59, the application of this Subtopic to that contract depends on its predominant characteristics. That is, the contract is subject to the requirements of this Subtopic if all of its underlyings, considered in combination, behave in a manner that is highly correlated with the behavior of any of the component variables that do not qualify for a scope exception.
 **815-10-15-61** A contract based on any variable that is not specifically excluded by paragraph 815-10-15-59 is subject to the requirements of this Subtopic if it has the other two characteristics (initial net investment and net settlement) identified in this Subsection.
+PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8Paragraph superseded by Accounting Standards Update 2025-07.
 **815-10-15-61** A contract based on any variable that is not specifically excluded by paragraph 815-10-15-59 is subject to the requirements of this Subtopic if it has the other two characteristics (initial net investment and net settlement) identified in this Subsection.
-**815-10-15-62** Example 14 (see paragraph 815-10-55-142) illustrates the application of paragraph 815-10-15-59(b).
+**815-10-15-62** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8Paragraph superseded by Accounting Standards Update 2025-07.
+Example 14 (see paragraph 815-10-55-142) illustrates the application of paragraph 815-10-15-59(b).
 **815-10-15-62** Example 14 (see paragraph 815-10-55-142) illustrates the application of paragraph 815-10-15-59(b).
 **815-10-15-63** · · > Derivative Instruments That Impede Sale Accounting
 A derivative instrument (whether freestanding or embedded in another contract) whose existence serves as an impediment to recognizing a related contract as a sale by one party or a purchase by the counterparty is not subject to this Subtopic. An example is the existence of a call option enabling a transferor to repurchase transferred assets that is an impediment to sales accounting under Topic 860. Such a call option on transferred financial assets that are not readily obtainable would prevent accounting for that transfer as a sale. The consequence is that to recognize the call option would be to count the same thing twice. The holder of the option already recognizes in its financial statements the assets that it has the option to purchase.
@@ -900,6 +972,28 @@ Notwithstanding the conditions of paragraphs 815-10-15-13 through 15-139
 
 4. Forward contracts that require settlement by the reporting entity's delivery of cash in exchange for the acquisition of a fixed number of its equity shares (forward purchase contracts for the reporting entity's shares that require physical settlement) that are accounted for under paragraphs 480-10-30-3 through 30-5, 480-10-35-3, and 480-10-45-3.
 
+1. Indexed to its own stock (see Section 815-40-15)
+2. Classified in stockholders' equity in its statement of financial position (see Section 815-40-25).
+
+3. Contracts issued by the entity that are subject to Topic 718. If any such contract ceases to be subject to Topic 718 in accordance with paragraphs 718-10-35-9 through 35-14, the terms of that contract shall then be analyzed to determine whether the contract is subject to this Subtopic. An award that ceases to be subject to Topic 718 in accordance with those paragraphs shall be analyzed to determine whether it is subject to this Subtopic.
+1. A contract between an acquirer and a seller to enter into a business combination
+2. A contract to enter into an acquisition by a not-for-profit entity
+3. A contract between one or more NFPs to enter into a merger of not-for-profit entities
+4. In a joint venture’s separate financial statements, a contract between a joint venture and its venturers related to the formation of the joint venture accounted for in accordance with Subtopic 805-60.
+
+5. Forward contracts that require settlement by the reporting entity's delivery of cash in exchange for the acquisition of a fixed number of its equity shares (forward purchase contracts for the reporting entity's shares that require physical settlement) that are accounted for under paragraphs 480-10-30-3 through 30-5, 480-10-35-3, and 480-10-45-3.
+
+1. Indexed to its own stock (see Section 815-40-15)
+2. Classified in stockholders' equity in its statement of financial position (see Section 815-40-25).
+
+3. Contracts issued by the entity that are subject to Topic 718. If any such contract ceases to be subject to Topic 718 in accordance with paragraphs 718-10-35-9 through 35-14, the terms of that contract shall then be analyzed to determine whether the contract is subject to this Subtopic. An award that ceases to be subject to Topic 718 in accordance with those paragraphs shall be analyzed to determine whether it is subject to this Subtopic.
+1. A contract between an acquirer and a seller to enter into a business combination
+2. A contract to enter into an acquisition by a not-for-profit entity
+3. A contract between one or more NFPs to enter into a merger of not-for-profit entities
+4. In a joint venture’s separate financial statements, a contract between a joint venture and its venturers related to the formation of the joint venture accounted for in accordance with Subtopic 805-60.
+
+5. Forward contracts that require settlement by the reporting entity's delivery of cash in exchange for the acquisition of a fixed number of its equity shares (forward purchase contracts for the reporting entity's shares that require physical settlement) that are accounted for under paragraphs 480-10-30-3 through 30-5, 480-10-35-3, and 480-10-45-3.
+
 **815-10-15-74** Notwithstanding the conditions of paragraphs 815-10-15-13 through 15-139
 1. Indexed to its own stock (see Section 815-40-15)
 2. Classified in stockholders' equity in its statement of financial position (see Section 815-40-25).
@@ -911,11 +1005,39 @@ Notwithstanding the conditions of paragraphs 815-10-15-13 through 15-139
 
 4. Forward contracts that require settlement by the reporting entity's delivery of cash in exchange for the acquisition of a fixed number of its equity shares (forward purchase contracts for the reporting entity's shares that require physical settlement) that are accounted for under paragraphs 480-10-30-3 through 30-5, 480-10-35-3, and 480-10-45-3.
 
-**815-10-15-75** The counterparty in those contracts. For example, the scope exception in (b) in the preceding paragraph related to share-based compensation arrangements does not apply to equity instruments (including stock options) received by nonemployees as compensation for goods and services.
-2. A contract that an entity either can or must settle by issuing its own equity instruments but that is indexed in part or in full to something other than its own stock. That contract can be a derivative instrument for the issuer under paragraphs 815-10-15-13 through 15-139, in which case it would be accounted for as a liability or an asset in accordance with the requirements of this Subtopic. For example, a forward contract that is indexed to both an entity's own stock and currency exchange rates does not qualify for the exception in (a) in the preceding paragraph with respect to that entity's accounting because the forward contract is indexed in part to something other than that entity's own stock (namely, currency exchange rates).
+1. Indexed to its own stock (see Section 815-40-15)
+2. Classified in stockholders' equity in its statement of financial position (see Section 815-40-25).
+
+3. Contracts issued by the entity that are subject to Topic 718. If any such contract ceases to be subject to Topic 718 in accordance with paragraphs 718-10-35-9 through 35-14, the terms of that contract shall then be analyzed to determine whether the contract is subject to this Subtopic. An award that ceases to be subject to Topic 718 in accordance with those paragraphs shall be analyzed to determine whether it is subject to this Subtopic.
+1. A contract between an acquirer and a seller to enter into a business combination
+2. A contract to enter into an acquisition by a not-for-profit entity
+3. A contract between one or more NFPs to enter into a merger of not-for-profit entities
+4. In a joint venture’s separate financial statements, a contract between a joint venture and its venturers related to the formation of the joint venture accounted for in accordance with Subtopic 805-60.
+
+5. Forward contracts that require settlement by the reporting entity's delivery of cash in exchange for the acquisition of a fixed number of its equity shares (forward purchase contracts for the reporting entity's shares that require physical settlement) that are accounted for under paragraphs 480-10-30-3 through 30-5, 480-10-35-3, and 480-10-45-3.
+
+1. Indexed to its own stock (see Section 815-40-15)
+2. Classified in stockholders' equity in its statement of financial position (see Section 815-40-25).
+
+3. Contracts issued by the entity that are subject to Topic 718. If any such contract ceases to be subject to Topic 718 in accordance with paragraphs 718-10-35-9 through 35-14, the terms of that contract shall then be analyzed to determine whether the contract is subject to this Subtopic. An award that ceases to be subject to Topic 718 in accordance with those paragraphs shall be analyzed to determine whether it is subject to this Subtopic.
+1. A contract between an acquirer and a seller to enter into a business combination
+2. A contract to enter into an acquisition by a not-for-profit entity
+3. A contract between one or more NFPs to enter into a merger of not-for-profit entities
+4. In a joint venture’s separate financial statements, a contract between a joint venture and its venturers related to the formation of the joint venture accounted for in accordance with Subtopic 805-60.
+
+5. Forward contracts that require settlement by the reporting entity's delivery of cash in exchange for the acquisition of a fixed number of its equity shares (forward purchase contracts for the reporting entity's shares that require physical settlement) that are accounted for under paragraphs 480-10-30-3 through 30-5, 480-10-35-3, and 480-10-45-3.
 
 **815-10-15-75** The counterparty in those contracts. For example, the scope exception in (b) in the preceding paragraph related to share-based compensation arrangements does not apply to equity instruments (including stock options) received by nonemployees as compensation for goods and services.
 2. A contract that an entity either can or must settle by issuing its own equity instruments but that is indexed in part or in full to something other than its own stock. That contract can be a derivative instrument for the issuer under paragraphs 815-10-15-13 through 15-139, in which case it would be accounted for as a liability or an asset in accordance with the requirements of this Subtopic. For example, a forward contract that is indexed to both an entity's own stock and currency exchange rates does not qualify for the exception in (a) in the preceding paragraph with respect to that entity's accounting because the forward contract is indexed in part to something other than that entity's own stock (namely, currency exchange rates).
+
+1. The counterparty in those contracts. For example, the scope exception in (b) in paragraph 815-10-15-74related to share-based compensation arrangements does not apply to equity instruments (including stock options) received by nonemployees as compensation for goods and services.
+2. A contract that an entity either can or must settle by issuing its own equity instruments but that is indexed in part or in full to something other than its own stock. That contract can be a derivative instrument for the issuer under paragraphs 815-10-15-13 through 15-60 and 815-10-15-62 through 15-139, in which case it would be accounted for as a liability or an asset in accordance with the requirements of this Subtopic. For example, a forward contract that is indexed to both an entity's own stock and currency exchange rates does not qualify for the exception in (a) in paragraph 815-10-15-74with respect to that entity's accounting because the forward contract is indexed in part to something other than that entity's own stock (namely, currency exchange rates).
+
+**815-10-15-75** The counterparty in those contracts. For example, the scope exception in (b) in the preceding paragraph related to share-based compensation arrangements does not apply to equity instruments (including stock options) received by nonemployees as compensation for goods and services.
+2. A contract that an entity either can or must settle by issuing its own equity instruments but that is indexed in part or in full to something other than its own stock. That contract can be a derivative instrument for the issuer under paragraphs 815-10-15-13 through 15-139, in which case it would be accounted for as a liability or an asset in accordance with the requirements of this Subtopic. For example, a forward contract that is indexed to both an entity's own stock and currency exchange rates does not qualify for the exception in (a) in the preceding paragraph with respect to that entity's accounting because the forward contract is indexed in part to something other than that entity's own stock (namely, currency exchange rates).
+
+1. The counterparty in those contracts. For example, the scope exception in (b) in paragraph 815-10-15-74related to share-based compensation arrangements does not apply to equity instruments (including stock options) received by nonemployees as compensation for goods and services.
+2. A contract that an entity either can or must settle by issuing its own equity instruments but that is indexed in part or in full to something other than its own stock. That contract can be a derivative instrument for the issuer under paragraphs 815-10-15-13 through 15-60 and 815-10-15-62 through 15-139, in which case it would be accounted for as a liability or an asset in accordance with the requirements of this Subtopic. For example, a forward contract that is indexed to both an entity's own stock and currency exchange rates does not qualify for the exception in (a) in paragraph 815-10-15-74with respect to that entity's accounting because the forward contract is indexed in part to something other than that entity's own stock (namely, currency exchange rates).
 
 **815-10-15-75A** For purposes of evaluating whether a financial instrument meets the scope exception in paragraph 815-10-15-74(a)(1), a down round feature
 shall be excluded from the consideration of whether the instrument is indexed to the entity's own stock.
@@ -941,7 +1063,8 @@ Registration payment arrangements within the scope of Subtopic 825-20 are not su
 **815-10-15-82A** · · > Certain Fixed-Odds Wagering Contracts
 Fixed-odds wagering contracts for an entity operating as a casino and for the casino operations of other entities are within the scope of Topic 606 on revenue from contracts with customers. See paragraph 924-815-15-1.
 **815-10-15-82A** Fixed-odds wagering contracts for an entity operating as a casino and for the casino operations of other entities are within the scope of Topic 606 on revenue from contracts with customers. See paragraph 924-815-15-1.
-**815-10-15-83** · · > Environmental Credits and Environmental Credit Obligations> Definition of Derivative Instrument
+**815-10-15-82B** · · > Environmental Credits and Environmental Credit ObligationsPENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:818-10-65-1Environmental credits and environmental credit obligations shall be accounted for in accordance with Topic 818 and are not subject to this Subtopic.
+**815-10-15-83** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:818-10-65-1Environmental credits and environmental credit obligations shall be accounted for in accordance with Topic 818 and are not subject to this Subtopic. > Definition of Derivative Instrument
 Underlying, notional amount, payment provision
 1. One or more underlyings
 2. One or more notional amounts or payment provisions or both.
@@ -1042,12 +1165,12 @@ A commodity futures contract generally requires no net investment, while purchas
 **815-10-15-97** A contract that requires an initial net investment in the contract that is in excess of the amount determined by applying the effective notional amount to the underlying is not a derivative instrument in its entirety. Example 16, Case A (see paragraph 815-10-55-150) illustrates such a contract.
 **815-10-15-97** A contract that requires an initial net investment in the contract that is in excess of the amount determined by applying the effective notional amount to the underlying is not a derivative instrument in its entirety. Example 16, Case A (see paragraph 815-10-55-150) illustrates such a contract.
 **815-10-15-98** The phrase *initial net investment* is stated from the perspective of only one party to the contract, but it determines the application of this Subtopic for both parties. Even though a contract may be a derivative instrument as described in paragraphs 815-10-15-13 through 15-139
-**815-10-15-98** for both parties, the scope exceptions in paragraphs 815-10-15-74 through 15-75 apply only to the issuer of the contract and will result in different reporting by the two parties. The normal purchases and sales scope exception (beginning in paragraph 815-10-15-22) also may apply to one of the parties but not the other.
-The phrase *initial net investment* is stated from the perspective of only one party to the contract, but it determines the application of this Subtopic for both parties. Even though a contract may be a derivative instrument as described in paragraphs 815-10-15-13 through 15-139
+for both parties, the scope exceptions in paragraphs 815-10-15-74 through 15-75 apply only to the issuer of the contract and will result in different reporting by the two parties. The normal purchases and sales scope exception (beginning in paragraph 815-10-15-22) also may apply to one of the parties but not the other. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8The phrase *initial net investment* is stated from the perspective of only one party to the contract, but it determines the application of this Subtopic for both parties. Even though a contract may be a derivative instrument as described in paragraphs 815-10-15-13 through 15-60 and 815-10-15-62 through 15-139 for both parties, the scope exceptions in paragraphs 815-10-15-74 through 15-75 apply only to the issuer of the contract and will result in different reporting by the two parties. The normal purchases and sales scope exception (beginning in paragraph 815-10-15-22) also may apply to one of the parties but not the other.
+**815-10-15-98** The phrase *initial net investment* is stated from the perspective of only one party to the contract, but it determines the application of this Subtopic for both parties. Even though a contract may be a derivative instrument as described in paragraphs 815-10-15-13 through 15-139
 
 ##### · > Net Settlement
 
-**815-10-15-99** for both parties, the scope exceptions in paragraphs 815-10-15-74 through 15-75 apply only to the issuer of the contract and will result in different reporting by the two parties. The normal purchases and sales scope exception (beginning in paragraph 815-10-15-22) also may apply to one of the parties but not the other.
+**815-10-15-99** for both parties, the scope exceptions in paragraphs 815-10-15-74 through 15-75 apply only to the issuer of the contract and will result in different reporting by the two parties. The normal purchases and sales scope exception (beginning in paragraph 815-10-15-22) also may apply to one of the parties but not the other. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8The phrase *initial net investment* is stated from the perspective of only one party to the contract, but it determines the application of this Subtopic for both parties. Even though a contract may be a derivative instrument as described in paragraphs 815-10-15-13 through 15-60 and 815-10-15-62 through 15-139 for both parties, the scope exceptions in paragraphs 815-10-15-74 through 15-75 apply only to the issuer of the contract and will result in different reporting by the two parties. The normal purchases and sales scope exception (beginning in paragraph 815-10-15-22) also may apply to one of the parties but not the other.
 Net settlement under contract terms
 2. Net settlement through a market mechanism
 3. Net settlement by delivery of derivative instrument or asset readily convertible to cash.
@@ -1246,7 +1369,7 @@ The evaluation of whether items to be delivered under a contract are readily con
 
 ### Certain Contracts on Debt and Equity Securities
 
-**815-10-15-140** ) illustrate this guidance.> Overall Guidance
+**815-10-15-140** ) illustrate this guidance.Related Proposed ASUs > Overall Guidance
 The guidance in the Certain Contracts on Debt and Equity Securities Subsections applies to all entities, with specific instrument qualifications noted below.
 The guidance in the Certain Contracts on Debt and Equity Securities Subsections applies to all entities, with specific instrument qualifications noted below.
 **815-10-15-141** > Instruments
@@ -1271,29 +1394,39 @@ The guidance in the Certain Contracts on Debt and Equity Securities Subsections 
 
 ## 20 Glossary
 
-> **General Note:** The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
 
 ##### Acquiree
 
 The business or businesses that the acquirer obtains control of in a business combination. This term also includes a nonprofit activity or business that a not-for-profit acquirer obtains control of in an acquisition by a not-for-profit entity.
+The business or businesses that the acquirer obtains control of in a business combination. This term also includes a nonprofit activity or business that a not-for-profit acquirer obtains control of in an acquisition by a not-for-profit entity.
 
 ##### Acquirer
 
+The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:805-10-65-5The entity that obtains control of the acquiree.See paragraphs 805-10-25-4 through 25-5 for guidance on determining the acquirer.
+The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer.
+PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:805-10-65-5The entity that obtains control of the acquiree.See paragraphs 805-10-25-4 through 25-5
+
 ##### Acquisition by a Not-for-Profit Entity
 
-The business or businesses that the acquirer obtains control of in a business combination. This term also includes a nonprofit activity or business that a not-for-profit acquirer obtains control of in an acquisition by a not-for-profit entity.The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer. The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer. A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.
+for guidance on determining the acquirer.A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.
+A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.
 
 ##### All-in-One Hedge
 
-A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.In an all-in-one hedge, a derivative instrument that will involve gross settlement is designated as the hedging instrument in a cash flow hedge of the variability of the consideration to be paid or received in the forecasted transaction that will occur upon gross settlement of the derivative instrument itself.
+In an all-in-one hedge, a derivative instrument that will involve gross settlement is designated as the hedging instrument in a cash flow hedge of the variability of the consideration to be paid or received in the forecasted transaction that will occur upon gross settlement of the derivative instrument itself.
+In an all-in-one hedge, a derivative instrument that will involve gross settlement is designated as the hedging instrument in a cash flow hedge of the variability of the consideration to be paid or received in the forecasted transaction that will occur upon gross settlement of the derivative instrument itself.
 
 ##### Asymmetrical Default Provision
 
-In an all-in-one hedge, a derivative instrument that will involve gross settlement is designated as the hedging instrument in a cash flow hedge of the variability of the consideration to be paid or received in the forecasted transaction that will occur upon gross settlement of the derivative instrument itself. A nonperformance penalty provision that requires the defaulting party to compensate the nondefaulting party for any loss incurred but does not allow the defaulting party to receive the effect of favorable price changes.
+A nonperformance penalty provision that requires the defaulting party to compensate the nondefaulting party for any loss incurred but does not allow the defaulting party to receive the effect of favorable price changes.
+A nonperformance penalty provision that requires the defaulting party to compensate the nondefaulting party for any loss incurred but does not allow the defaulting party to receive the effect of favorable price changes.
 
 ##### Benchmark Interest Rate
 
-A nonperformance penalty provision that requires the defaulting party to compensate the nondefaulting party for any loss incurred but does not allow the defaulting party to receive the effect of favorable price changes. A widely recognized and quoted rate in an active financial market that is broadly indicative of the overall level of interest rates attributable to high-credit-quality obligors in that market. It is a rate that is widely used in a given financial market as an underlying basis for determining the interest rates of individual financial instruments and commonly referenced in interest-rate-related transactions. In theory, the benchmark interest rate should be a risk-free rate (that is, has no risk of default). In some markets, government borrowing rates may serve as a benchmark. In other markets, the benchmark interest rate may be an interbank offered rate.
+A widely recognized and quoted rate in an active financial market that is broadly indicative of the overall level of interest rates attributable to high-credit-quality obligors in that market. It is a rate that is widely used in a given financial market as an underlying basis for determining the interest rates of individual financial instruments and commonly referenced in interest-rate-related transactions. In theory, the benchmark interest rate should be a risk-free rate (that is, has no risk of default). In some markets, government borrowing rates may serve as a benchmark. In other markets, the benchmark interest rate may be an interbank offered rate.
+A widely recognized and quoted rate in an active financial market that is broadly indicative of the overall level of interest rates attributable to high-credit-quality obligors in that market. It is a rate that is widely used in a given financial market as an underlying basis for determining the interest rates of individual financial instruments and commonly referenced in interest-rate-related transactions.
+In theory, the benchmark interest rate should be a risk-free rate (that is, has no risk of default). In some markets, government borrowing rates may serve as a benchmark. In other markets, the benchmark interest rate may be an interbank offered rate.
 
 ##### Beneficial Interests
 
@@ -1302,7 +1435,7 @@ A nonperformance penalty provision that requires the defaulting party to compens
 3. Commercial paper obligations
 4. Residual interests, whether in the form of debt or equity.
 
-1. Senior and subordinated shares of interest, principal, or other cash inflows to be passed-through or paid-through
+Senior and subordinated shares of interest, principal, or other cash inflows to be passed-through or paid-through
 2. Premiums due to guarantors
 3. Commercial paper obligations
 4. Residual interests, whether in the form of debt or equity.
@@ -1310,42 +1443,50 @@ A nonperformance penalty provision that requires the defaulting party to compens
 ##### Bid-Ask Spread
 
 A bid-ask spread is the difference between the highest price a buyer will pay to acquire an instrument and the lowest price at which any investor will sell an instrument.
+A bid-ask spread is the difference between the highest price a buyer will pay to acquire an instrument and the lowest price at which any investor will sell an instrument.
 
 ##### Business
 
-A bid-ask spread is the difference between the highest price a buyer will pay to acquire an instrument and the lowest price at which any investor will sell an instrument. Paragraphs 805-10-55-3A through 55-6 and 805-10-55-8 through 55-9 define what is considered a business.
+Paragraphs 805-10-55-3A through 55-6 and 805-10-55-8 through 55-9 define what is considered a business.
+Paragraphs 805-10-55-3A through 55-6
 
 ##### Business Combination
 
-Paragraphs 805-10-55-3A through 55-6 and 805-10-55-8 through 55-9 define what is considered a business. A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
+and 805-10-55-8 through 55-9 define what is considered a business. A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
+A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
 
 ##### Capacity Contract
 
-A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.An agreement by an owner of capacity to sell the right to that capacity to another party so that it can satisfy its obligations. For example, in the electric industry, capacity (sometimes referred to as installed capacity) is the capability to deliver electric power to the electric transmission system of an operating control area.
+An agreement by an owner of capacity to sell the right to that capacity to another party so that it can satisfy its obligations. For example, in the electric industry, capacity (sometimes referred to as installed capacity) is the capability to deliver electric power to the electric transmission system of an operating control area.
+An agreement by an owner of capacity to sell the right to that capacity to another party so that it can satisfy its obligations. For example, in the electric industry, capacity (sometimes referred to as installed capacity) is the capability to deliver electric power to the electric transmission system of an operating control area.
 
 ##### Cash Flow Hedge
 
-An agreement by an owner of capacity to sell the right to that capacity to another party so that it can satisfy its obligations. For example, in the electric industry, capacity (sometimes referred to as installed capacity) is the capability to deliver electric power to the electric transmission system of an operating control area. A hedge of the exposure to variability in the cash flows of a recognized asset or liability, or of a forecasted transaction, that is attributable to a particular risk.
+A hedge of the exposure to variability in the cash flows of a recognized asset or liability, or of a forecasted transaction, that is attributable to a particular risk.
+A hedge of the exposure to variability in the cash flows of a recognized asset or liability, or of a forecasted transaction, that is attributable to a particular risk.
 
 ##### Cashless Exercise
 
-A hedge of the exposure to variability in the cash flows of a recognized asset or liability, or of a forecasted transaction, that is attributable to a particular risk. See Net Share Settlement.
+See Net Share Settlement.
+See Net Share Settlement.
 
 ##### Comprehensive Income
 
 1. All components of net income
 2. All components of other comprehensive income.
 
-1. All components of net income
+All components of net income
 2. All components of other comprehensive income.
 
 ##### Control Area
 
 A control area requires entities that serve load within the control area to demonstrate ownership or contractual rights to capacity sufficient to serve that load at time of peak demand and to provide a reserve margin to protect the integrity of the system against potential generating unit outages in the control area. A control area is a portion of the electric grid that schedules, dispatches, and controls generating resources to serve area load (ultimate users of electricity) and coordinates scheduling of the flow of electric power over the transmission system to neighboring control areas.
+A control area requires entities that serve load within the control area to demonstrate ownership or contractual rights to capacity sufficient to serve that load at time of peak demand and to provide a reserve margin to protect the integrity of the system against potential generating unit outages in the control area. A control area is a portion of the electric grid that schedules, dispatches, and controls generating resources to serve area load (ultimate users of electricity) and coordinates scheduling of the flow of electric power over the transmission system to neighboring control areas.
 
 ##### Corporate Joint Venture
 
-A control area requires entities that serve load within the control area to demonstrate ownership or contractual rights to capacity sufficient to serve that load at time of peak demand and to provide a reserve margin to protect the integrity of the system against potential generating unit outages in the control area. A control area is a portion of the electric grid that schedules, dispatches, and controls generating resources to serve area load (ultimate users of electricity) and coordinates scheduling of the flow of electric power over the transmission system to neighboring control areas. A corporation owned and operated by a small group of entities (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a corporate joint venture frequently is to share risks and rewards in developing a new market, product or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A corporate joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a corporate joint venture. The ownership of a corporate joint venture seldom changes, and its stock is usually not traded publicly. A noncontrolling interest held by public ownership, however, does not preclude a corporation from being a corporate joint venture.
+A corporation owned and operated by a small group of entities (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a corporate joint venture frequently is to share risks and rewards in developing a new market, product or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A corporate joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a corporate joint venture. The ownership of a corporate joint venture seldom changes, and its stock is usually not traded publicly. A noncontrolling interest held by public ownership, however, does not preclude a corporation from being a corporate joint venture.
+A corporation owned and operated by a small group of entities (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a corporate joint venture frequently is to share risks and rewards in developing a new market, product or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A corporate joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a corporate joint venture. The ownership of a corporate joint venture seldom changes, and its stock is usually not traded publicly. A noncontrolling interest held by public ownership, however, does not preclude a corporation from being a corporate joint venture.
 
 ##### Credit Derivative
 
@@ -1355,10 +1496,13 @@ A control area requires entities that serve load within the control area to demo
 3. It exposes the seller to potential loss from credit-risk-related events specified in the contract.
 
 Examples of credit derivatives include, but are not limited to, credit default swaps, credit spread options, and credit index products.
+A derivative instrument that has both of the following characteristics:
 1. The credit risk of a specified entity (or a group of entities)
 2. An index based on the credit risk of a group of entities.
 
 3. It exposes the seller to potential loss from credit-risk-related events specified in the contract.
+
+Examples of credit derivatives include, but are not limited to, credit default swaps, credit spread options, and credit index products.
 
 ##### Credit Risk
 
@@ -1369,63 +1513,87 @@ Examples of credit derivatives include, but are not limited to, credit default s
 2. Changes in the obligor's creditworthiness
 3. Changes in the spread over the contractually specified interest rate or the benchmark interest rate with respect to the related financial asset's or liability's credit sector at inception of the hedge.
 
-1. Changes in the obligor's creditworthiness
+Changes in the obligor's creditworthiness
 2. Changes in the spread over the benchmark interest ratewith respect to the hedged item's credit sector at inception of the hedge.
 
-1. Default
+Default
 2. Changes in the obligor's creditworthiness
 3. Changes in the spread over the contractually specified interest rate or the benchmark interest rate with respect to the related financial asset's or liability's credit sector at inception of the hedge.
 
 ##### Derivative Instrument
 
 Paragraphs 815-10-15-83 through 15-139 define the term *derivative instrument*.
+Paragraphs 815-10-15-83 through 15-139
 
 ##### Down Round Feature
 
-Paragraphs 815-10-15-83 through 15-139 define the term *derivative instrument*. A feature in a financial instrument that reduces the strike price of an issued financial instrument if the issuer sells shares of its stock for an amount less than the currently stated strike price of the issued financial instrument or issues an equity-linked financial instrument with a strike price below the currently stated strike price of the issued financial instrument. A down round feature may reduce the strike price of a financial instrument to the current issuance price, or the reduction may be limited by a floor or on the basis of a formula that results in a price that is at a discount to the original exercise price but above the new issuance price of the shares, or may reduce the strike price to below the current issuance price. A standard antidilution provision is not considered a down round feature.
+define the term *derivative instrument*. A feature in a financial instrument that reduces the strike price of an issued financial instrument if the issuer sells shares of its stock for an amount less than the currently stated strike price of the issued financial instrument or issues an equity-linked financial instrument with a strike price below the currently stated strike price of the issued financial instrument. A down round feature may reduce the strike price of a financial instrument to the current issuance price, or the reduction may be limited by a floor or on the basis of a formula that results in a price that is at a discount to the original exercise price but above the new issuance price of the shares, or may reduce the strike price to below the current issuance price. A standard antidilution provision is not considered a down round feature.
+A feature in a financial instrument that reduces the strike price of an issued financial instrument if the issuer sells shares of its stock for an amount less than the currently stated strike price of the issued financial instrument or issues an equity-linked financial instrument with a strike price below the currently stated strike price of the issued financial instrument.
+A down round feature may reduce the strike price of a financial instrument to the current issuance price, or the reduction may be limited by a floor or on the basis of a formula that results in a price that is at a discount to the original exercise price but above the new issuance price of the shares, or may reduce the strike price to below the current issuance price. A standard antidilution provision is not considered a down round feature.
 
 ##### Effective Notional Amount
 
-A feature in a financial instrument that reduces the strike price of an issued financial instrument if the issuer sells shares of its stock for an amount less than the currently stated strike price of the issued financial instrument or issues an equity-linked financial instrument with a strike price below the currently stated strike price of the issued financial instrument. A down round feature may reduce the strike price of a financial instrument to the current issuance price, or the reduction may be limited by a floor or on the basis of a formula that results in a price that is at a discount to the original exercise price but above the new issuance price of the shares, or may reduce the strike price to below the current issuance price. A standard antidilution provision is not considered a down round feature.The effective notional amount is the stated notional amount adjusted for any leverage factor.
+The effective notional amount is the stated notional amount adjusted for any leverage factor.
+The effective notional amount is the stated notional amount adjusted for any leverage factor.
 
 ##### Embedded Credit Derivative
 
-The effective notional amount is the stated notional amount adjusted for any leverage factor.An embedded derivative that is also a credit derivative.
+An embedded derivative that is also a credit derivative.
+An embedded derivative that is also a credit derivative.
 
 ##### Embedded Derivative
 
-An embedded derivative that is also a credit derivative.Implicit or explicit terms that affect some or all of the cash flows or the value of other exchanges required by a contract in a manner similar to a derivative instrument.
+Implicit or explicit terms that affect some or all of the cash flows or the value of other exchanges required by a contract in a manner similar to a derivative instrument.
+Implicit or explicit terms that affect some or all of the cash flows or the value of other exchanges required by a contract in a manner similar to a derivative instrument.
 
 ##### Environmental Credit
 
+1. Lacks physical substance and is not a financial asset.
+2. Is represented to prevent, control, reduce, or remove emissions or other pollution.
+3. Is, or previously was, separately transferable in an exchange transaction. If an item is no longer separately transferable in an exchange transaction, an entity must be able to use that item to satisfy an environmental credit obligation to meet this criterion.
+4. Is not an income tax credit that may be used to settle an entity’s income tax liability, regardless of whether the entity has a tax liability or intends to use the credit for that purpose.
+
+An environmental credit that meets the above criteria may exist in a variety of forms, including (but not limited to) credits, certificates, allowances, and offsets.
+1. Lacks physical substance and is not a financial asset.
+2. Is represented to prevent, control, reduce, or remove emissions or other pollution.
+3. Is, or previously was, separately transferable in an exchange transaction. If an item is no longer separately transferable in an exchange transaction, an entity must be able to use that item to satisfy an environmental credit obligation to meet this criterion.
+4. Is not an income tax credit that may be used to settle an entity’s income tax liability, regardless of whether the entity has a tax liability or intends to use the credit for that purpose.
+
 ##### Environmental Credit Obligation
+
+An environmental credit that meets the above criteria may exist in a variety of forms, including (but not limited to) credits, certificates, allowances, and offsets.PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:818-10-65-1A regulatory compliance obligation arising from existing or enacted laws, statutes, or ordinances represented to prevent, control, reduce, or remove emissions or other pollution that may be settled with environmental credits. Obligations within the scope of Subtopic 410-30 are not environmental credit obligations.
 
 ##### Equity Restructuring
 
-Implicit or explicit terms that affect some or all of the cash flows or the value of other exchanges required by a contract in a manner similar to a derivative instrument. A nonreciprocal transaction between an entity and its shareholders that causes the per-share fair value of the shares underlying an option or similar award to change, such as a stock dividend, stock split, spinoff, rights offering, or recapitalization through a large, nonrecurring cash dividend.
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:818-10-65-1A regulatory compliance obligation arising from existing or enacted laws, statutes, or ordinances represented to prevent, control, reduce, or remove emissions or other pollution that may be settled with environmental credits. Obligations within the scope of Subtopic 410-30 are not environmental credit obligations.A nonreciprocal transaction between an entity and its shareholders that causes the per-share fair value of the shares underlying an option or similar award to change, such as a stock dividend, stock split, spinoff, rights offering, or recapitalization through a large, nonrecurring cash dividend.
+A nonreciprocal transaction between an entity and its shareholders that causes the per-share fair value of the shares underlying an option or similar award to change, such as a stock dividend, stock split, spinoff, rights offering, or recapitalization through a large, nonrecurring cash dividend.
 
 ##### Exchange
 
-A nonreciprocal transaction between an entity and its shareholders that causes the per-share fair value of the shares underlying an option or similar award to change, such as a stock dividend, stock split, spinoff, rights offering, or recapitalization through a large, nonrecurring cash dividend. An exchange (or exchange transaction) is a reciprocal transfer between two entities that results in one of the entities acquiring assets or services or satisfying liabilities by surrendering other assets or services or incurring other obligations.
+An exchange (or exchange transaction) is a reciprocal transfer between two entities that results in one of the entities acquiring assets or services or satisfying liabilities by surrendering other assets or services or incurring other obligations.
+An exchange (or exchange transaction) is a reciprocal transfer between two entities that results in one of the entities acquiring assets or services or satisfying liabilities by surrendering other assets or services or incurring other obligations.
 
 ##### Face Amount
 
-An exchange (or exchange transaction) is a reciprocal transfer between two entities that results in one of the entities acquiring assets or services or satisfying liabilities by surrendering other assets or services or incurring other obligations.See Notional Amount.
+See Notional Amount.
+See Notional Amount.
 
 ##### Fair Value
 
-See Notional Amount.The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
 
 ##### Fair Value Hedge
 
-The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. A hedge of the exposure to changes in the fair value of a recognized asset or liability, or of an unrecognized firm commitment, that are attributable to a particular risk.
+A hedge of the exposure to changes in the fair value of a recognized asset or liability, or of an unrecognized firm commitment, that are attributable to a particular risk.
+A hedge of the exposure to changes in the fair value of a recognized asset or liability, or of an unrecognized firm commitment, that are attributable to a particular risk.
 
 ##### Financial Asset
 
 1. Receive cash or another financial instrument from a second entity
 2. Exchange other financial instruments on potentially favorable terms with the second entity.
 
-1. Receive cash or another financial instrument from a second entity
+Receive cash or another financial instrument from a second entity
 2. Exchange other financial instruments on potentially favorable terms with the second entity.
 
 ##### Financial Instrument
@@ -1442,36 +1610,62 @@ The price that would be received to sell an asset or paid to transfer a liabilit
 1. To receive cash or another financial instrument from the first entity
 2. To exchange other financial instruments on potentially favorable terms with the first entity.
 
+The use of the term financial instrument in this definition is recursive (because the term financial instrument is included in it), though it is not circular. The definition requires a chain of contractual obligations that ends with the delivery of cash or an ownership interest in an entity. Any number of obligations to deliver financial instruments can be links in a chain that qualifies a particular contract as a financial instrument. Contractual rights and contractual obligations encompass both those that are conditioned on the occurrence of a specified event and those that are not. Some contractual rights (contractual obligations) that are financial instruments may not be recognized in financial statements—that is, they may be off-balance-sheet—because they fail to meet some other criterion for recognition. For some financial instruments, the right is held by or the obligation is due from (or the obligation is owed to or by) a group of entities rather than a single entity.
+Imposes on one entity a contractual obligation either:
+1. To deliver cash or another financial instrument to a second entity
+2. To exchange other financial instruments on potentially unfavorable terms with the second entity.
+
+1. To receive cash or another financial instrument from the first entity
+2. To exchange other financial instruments on potentially favorable terms with the first entity.
+
+The use of the term financial instrument in this definition is recursive (because the term financial instrument is included in it), though it is not circular. The definition requires a chain of contractual obligations that ends with the delivery of cash or an ownership interest in an entity. Any number of obligations to deliver financial instruments can be links in a chain that qualifies a particular contract as a financial instrument.
+Contractual rights and contractual obligations encompass both those that are conditioned on the occurrence of a specified event and those that are not. All contractual rights (contractual obligations) that are financial instruments meet the definition of asset (liability) set forth in FASB Concepts Statement No. 6, Elements of Financial Statements, although some may not be recognized as assets (liabilities) in financial statements—that is, they may be off-balance-sheet—because they fail to meet some other criterion for recognition.
+For some financial instruments, the right is held by or the obligation is due from (or the obligation is owed to or by) a group of entities rather than a single entity.
+Imposes on one entity a contractual obligation either:
+1. To deliver cash or another financial instrument to a second entity
+2. To exchange other financial instruments on potentially unfavorable terms with the second entity.
+
+1. To receive cash or another financial instrument from the first entity
+2. To exchange other financial instruments on potentially favorable terms with the first entity.
+
+The use of the term financial instrument in this definition is recursive (because the term financial instrument is included in it), though it is not circular. The definition requires a chain of contractual obligations that ends with the delivery of cash or an ownership interest in an entity. Any number of obligations to deliver financial instruments can be links in a chain that qualifies a particular contract as a financial instrument.
+Contractual rights and contractual obligations encompass both those that are conditioned on the occurrence of a specified event and those that are not. Some contractual rights (contractual obligations) that are financial instruments may not be recognized in financial statements—that is, they may be off-balance-sheet—because they fail to meet some other criterion for recognition.
+For some financial instruments, the right is held by or the obligation is due from (or the obligation is owed to or by) a group of entities rather than a single entity.
+
 ##### Financial Statements Are Available to Be Issued
 
-The use of the term financial instrument in this definition is recursive (because the term financial instrument is included in it), though it is not circular. The definition requires a chain of contractual obligations that ends with the delivery of cash or an ownership interest in an entity. Any number of obligations to deliver financial instruments can be links in a chain that qualifies a particular contract as a financial instrument. Contractual rights and contractual obligations encompass both those that are conditioned on the occurrence of a specified event and those that are not. All contractual rights (contractual obligations) that are financial instruments meet the definition of asset (liability) set forth in FASB Concepts Statement No. 6, Elements of Financial Statements, although some may not be recognized as assets (liabilities) in financial statements—that is, they may be off-balance-sheet—because they fail to meet some other criterion for recognition. For some financial instruments, the right is held by or the obligation is due from (or the obligation is owed to or by) a group of entities rather than a single entity. Financial statements are considered available to be issued when they are complete in a form and format that complies with GAAP and all approvals necessary for issuance have been obtained, for example, from management, the board of directors, and/or significant shareholders. The process involved in creating and distributing the financial statements will vary depending on an entity's management and corporate governance structure as well as statutory and regulatory requirements.
+Financial statements are considered available to be issued when they are complete in a form and format that complies with GAAP and all approvals necessary for issuance have been obtained, for example, from management, the board of directors, and/or significant shareholders. The process involved in creating and distributing the financial statements will vary depending on an entity's management and corporate governance structure as well as statutory and regulatory requirements.
+Financial statements are considered available to be issued when they are complete in a form and format that complies with GAAP and all approvals necessary for issuance have been obtained, for example, from management, the board of directors, and/or significant shareholders. The process involved in creating and distributing the financial statements will vary depending on an entity's management and corporate governance structure as well as statutory and regulatory requirements.
 
 ##### Firm Commitment
 
 1. The agreement specifies all significant terms, including the quantity to be exchanged, the fixed price, and the timing of the transaction. The fixed price may be expressed as a specified amount of an entity's functional currency or of a foreign currency. It may also be expressed as a specified interest rate or specified effective yield. The binding provisions of an agreement are regarded to include those legal rights and obligations codified in the laws to which such an agreement is subject. A price that varies with the market price of the item that is the subject of the firm commitment cannot qualify as a fixed price. For example, a price that is specified in terms of ounces of gold would not be a fixed price if the market price of the item to be purchased or sold under the firm commitment varied with the price of gold.
 2. The agreement includes a disincentive for nonperformance that is sufficiently large to make performance probable. In the legal jurisdiction that governs the agreement, the existence of statutory rights to pursue remedies for default equivalent to the damages suffered by the nondefaulting party, in and of itself, represents a sufficiently large disincentive for nonperformance to make performance probable for purposes of applying the definition of a firm commitment.
 
-1. The agreement specifies all significant terms, including the quantity to be exchanged, the fixed price, and the timing of the transaction. The fixed price may be expressed as a specified amount of an entity's functional currency or of a foreign currency. It may also be expressed as a specified interest rate or specified effective yield. The binding provisions of an agreement are regarded to include those legal rights and obligations codified in the laws to which such an agreement is subject. A price that varies with the market price of the item that is the subject of the firm commitment cannot qualify as a fixed price. For example, a price that is specified in terms of ounces of gold would not be a fixed price if the market price of the item to be purchased or sold under the firm commitment varied with the price of gold.
+The agreement specifies all significant terms, including the quantity to be exchanged, the fixed price, and the timing of the transaction. The fixed price may be expressed as a specified amount of an entity's functional currency or of a foreign currency. It may also be expressed as a specified interest rate or specified effective yield. The binding provisions of an agreement are regarded to include those legal rights and obligations codified in the laws to which such an agreement is subject. A price that varies with the market price of the item that is the subject of the firm commitment cannot qualify as a fixed price. For example, a price that is specified in terms of ounces of gold would not be a fixed price if the market price of the item to be purchased or sold under the firm commitment varied with the price of gold.
 2. The agreement includes a disincentive for nonperformance that is sufficiently large to make performance probable. In the legal jurisdiction that governs the agreement, the existence of statutory rights to pursue remedies for default equivalent to the damages suffered by the nondefaulting party, in and of itself, represents a sufficiently large disincentive for nonperformance to make performance probable for purposes of applying the definition of a firm commitment.
 
 ##### Forecasted Transaction
 
 A transaction that is expected to occur for which there is no firm commitment. Because no transaction or event has yet occurred and the transaction or event when it occurs will be at the prevailing market price, a forecasted transaction does not give an entity any present rights to future benefits or a present obligation for future sacrifices.
+A transaction that is expected to occur for which there is no firm commitment. Because no transaction or event has yet occurred and the transaction or event when it occurs will be at the prevailing market price, a forecasted transaction does not give an entity any present rights to future benefits or a present obligation for future sacrifices.
 
 ##### Foreign Exchange Risk
 
-A transaction that is expected to occur for which there is no firm commitment. Because no transaction or event has yet occurred and the transaction or event when it occurs will be at the prevailing market price, a forecasted transaction does not give an entity any present rights to future benefits or a present obligation for future sacrifices. The risk of changes in a hedged item's fair value or functional-currency-equivalent cash flows attributable to changes in the related foreign currency exchange rates.
+The risk of changes in a hedged item's fair value or functional-currency-equivalent cash flows attributable to changes in the related foreign currency exchange rates.
+The risk of changes in a hedged item's fair value or functional-currency-equivalent cash flows attributable to changes in the related foreign currency exchange rates.
 
 ##### Forward Commitment Dollar Roll
 
-The risk of changes in a hedged item's fair value or functional-currency-equivalent cash flows attributable to changes in the related foreign currency exchange rates. See Government National Mortgage Association Rolls.
+See Government National Mortgage Association Rolls.
+See Government National Mortgage Association Rolls.
 
 ##### Freestanding Contract
 
 1. Separate and apart from any of the entity's other financial instruments or equity transactions
 2. In conjunction with some other transaction and is legally detachable and separately exercisable.
 
-1. Separate and apart from any of the entity's other financial instruments or equity transactions
+Separate and apart from any of the entity's other financial instruments or equity transactions
 2. In conjunction with some other transaction and is legally detachable and separately exercisable.
 
 ##### Fully Benefit-Responsive Investment Contract
@@ -1496,7 +1690,7 @@ The risk of changes in a hedged item's fair value or functional-currency-equival
 8. The plan itself must allow participants reasonable access to their funds.
 
 If access to funds is substantially restricted by plan provisions, investment contracts held by those plans may not be considered to be fully benefit-responsive. For example, if plan participants are allowed access at contract value to all or a portion of their account balances only upon termination of their participation in the plan, it would not be considered reasonable access and, therefore, investment contracts held by that plan would generally not be deemed to be fully benefit-responsive. However, in plans with a single investment fund that allow reasonable access to assets by inactive participants, restrictions on access to assets by active participants consistent with the objective of the plan (for example, retirement or health and welfare benefits) will not affect the benefit responsiveness of the investment contracts held by those single-fund plans. Also, if a plan limits participants' access to their account balances to certain specified times during the plan year (for example, semiannually or quarterly) to control the administrative costs of the plan, that limitation generally would not affect the benefit responsiveness of the investment contracts held by that plan. In addition, administrative provisions that place short-term restrictions (for example, three or six months) on transfers to competing fixed-rate investment options to limit arbitrage among those investment options (equity wash provisions) would not affect a contract's benefit responsiveness.
-1. The investment contract is effected directly between the plan and the issuer and prohibits the plan from assigning or selling the contract or its proceeds to another party without the consent of the issuer.
+The investment contract is effected directly between the plan and the issuer and prohibits the plan from assigning or selling the contract or its proceeds to another party without the consent of the issuer.
 1. The repayment of principal and interest credited to participants in the plan is a financial obligation of the issuer of the investment contract.
 2. Prospective interest crediting rate adjustments are provided to participants in the plan on a designated pool of investments held by the plan or the contract issuer, whereby a financially responsible third party, through a contract generally referred to as a wrapper, must provide assurance that the adjustments to the interest crediting rate will not result in a future interest crediting rate that is less than zero.
 
@@ -1515,6 +1709,8 @@ If access to funds is substantially restricted by plan provisions, investment co
 
 8. The plan itself must allow participants reasonable access to their funds.
 
+If access to funds is substantially restricted by plan provisions, investment contracts held by those plans may not be considered to be fully benefit-responsive. For example, if plan participants are allowed access at contract value to all or a portion of their account balances only upon termination of their participation in the plan, it would not be considered reasonable access and, therefore, investment contracts held by that plan would generally not be deemed to be fully benefit-responsive. However, in plans with a single investment fund that allow reasonable access to assets by inactive participants, restrictions on access to assets by active participants consistent with the objective of the plan (for example, retirement or health and welfare benefits) will not affect the benefit responsiveness of the investment contracts held by those single-fund plans. Also, if a plan limits participants' access to their account balances to certain specified times during the plan year (for example, semiannually or quarterly) to control the administrative costs of the plan, that limitation generally would not affect the benefit responsiveness of the investment contracts held by that plan. In addition, administrative provisions that place short-term restrictions (for example, three or six months) on transfers to competing fixed-rate investment options to limit arbitrage among those investment options (equity wash provisions) would not affect a contract's benefit responsiveness.
+
 ##### Government National Mortgage Association Rolls
 
 1. Type 1. Reverse repurchase agreements for which the exact same security is received at the end of the repurchase period (vanilla repo)
@@ -1522,7 +1718,7 @@ If access to funds is substantially restricted by plan provisions, investment co
 3. Type 3. Fixed coupon dollar reverse repurchase agreements that are rolled at their maturities, that is, renewed in lieu of taking delivery of an underlying security (GNMA roll)
 4. Type 4. Forward commitment dollar rolls (also referred to as to-be-announced GNMA forward contracts or to-be-announced GNMA rolls), for which the underlying security does not yet exist.
 
-1. Type 1. Reverse repurchase agreements for which the exact same security is received at the end of the repurchase period (vanilla repo)
+Type 1. Reverse repurchase agreements for which the exact same security is received at the end of the repurchase period (vanilla repo)
 2. Type 2. Fixed coupon dollar reverse repurchase agreements (dollar repo)
 3. Type 3. Fixed coupon dollar reverse repurchase agreements that are rolled at their maturities, that is, renewed in lieu of taking delivery of an underlying security (GNMA roll)
 4. Type 4. Forward commitment dollar rolls (also referred to as to-be-announced GNMA forward contracts or to-be-announced GNMA rolls), for which the underlying security does not yet exist.
@@ -1535,44 +1731,57 @@ The hedged item designated in a portfolio layer method hedging relationship, rep
 ##### Hybrid Instrument
 
 A contract that embodies both an embedded derivative and a host contract.
+A contract that embodies both an embedded derivative and a host contract.
 
 ##### Income Taxes
 
-A contract that embodies both an embedded derivative and a host contract. Domestic and foreign federal (national), state, and local (including franchise) taxes based on income.
+Domestic and foreign federal (national), state, and local (including franchise) taxes based on income.
+Domestic and foreign federal (national), state, and local (including franchise) taxes based on income.
 
 ##### Interest Rate Risk
 
-Domestic and foreign federal (national), state, and local (including franchise) taxes based on income. For recognized variable-rate financial instruments and forecasted issuances or purchases of variable-rate financial instruments, interest rate risk is the risk of changes in the hedged item's cash flows attributable to changes in the contractually specified interest rate in the agreement. For recognized fixed-rate financial instruments, interest rate risk is the risk of changes in the hedged item's fair value attributable to changes in the designated benchmark interest rate. For forecasted issuances or purchases of fixed-rate financial instruments, interest rate risk is the risk of changes in the hedged item's cash flows attributable to changes in the designated benchmark interest rate.
+For recognized variable-rate financial instruments and forecasted issuances or purchases of variable-rate financial instruments, interest rate risk is the risk of changes in the hedged item's cash flows attributable to changes in the contractually specified interest rate in the agreement. For recognized fixed-rate financial instruments, interest rate risk is the risk of changes in the hedged item's fair value attributable to changes in the designated benchmark interest rate. For forecasted issuances or purchases of fixed-rate financial instruments, interest rate risk is the risk of changes in the hedged item's cash flows attributable to changes in the designated benchmark interest rate.
+For recognized variable-rate financial instruments and forecasted issuances or purchases of variable-rate financial instruments, interest rate risk is the risk of changes in the hedged item's cash flows attributable to changes in the contractually specified interest rate in the agreement.
+For recognized fixed-rate financial instruments, interest rate risk is the risk of changes in the hedged item's fair value attributable to changes in the designated benchmark interest rate. For forecasted issuances or purchases of fixed-rate financial instruments, interest rate risk is the risk of changes in the hedged item's cash flows attributable to changes in the designated benchmark interest rate.
 
 ##### Internal Derivative
 
-For recognized variable-rate financial instruments and forecasted issuances or purchases of variable-rate financial instruments, interest rate risk is the risk of changes in the hedged item's cash flows attributable to changes in the contractually specified interest rate in the agreement. For recognized fixed-rate financial instruments, interest rate risk is the risk of changes in the hedged item's fair value attributable to changes in the designated benchmark interest rate. For forecasted issuances or purchases of fixed-rate financial instruments, interest rate risk is the risk of changes in the hedged item's cash flows attributable to changes in the designated benchmark interest rate.A foreign currency derivative instrument that has been entered into with another member of a consolidated group (such as a treasury center).
+A foreign currency derivative instrument that has been entered into with another member of a consolidated group (such as a treasury center).
+A foreign currency derivative instrument that has been entered into with another member of a consolidated group (such as a treasury center).
 
 ##### Joint Venture
 
-A foreign currency derivative instrument that has been entered into with another member of a consolidated group (such as a treasury center).An entity owned and operated by a small group of businesses (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a joint venture frequently is to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a joint venture. The ownership of a joint venture seldom changes, and its equity interests usually are not traded publicly. A minority public ownership, however, does not preclude an entity from being a joint venture. As distinguished from a corporate joint venture, a joint venture is not limited to corporate entities.
+An entity owned and operated by a small group of businesses (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a joint venture frequently is to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a joint venture. The ownership of a joint venture seldom changes, and its equity interests usually are not traded publicly. A minority public ownership, however, does not preclude an entity from being a joint venture. As distinguished from a corporate joint venture, a joint venture is not limited to corporate entities.
+An entity owned and operated by a small group of businesses (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a joint venture frequently is to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a joint venture. The ownership of a joint venture seldom changes, and its equity interests usually are not traded publicly. A minority public ownership, however, does not preclude an entity from being a joint venture. As distinguished from a corporate joint venture, a joint venture is not limited to corporate entities.
 
 ##### Legal Entity
 
-An entity owned and operated by a small group of businesses (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a joint venture frequently is to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a joint venture. The ownership of a joint venture seldom changes, and its equity interests usually are not traded publicly. A minority public ownership, however, does not preclude an entity from being a joint venture. As distinguished from a corporate joint venture, a joint venture is not limited to corporate entities. Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts.
+Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts.
+Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts.
 
 ##### Loan Commitment
 
 1. Revolving (in which the amount of the overall commitment is reestablished upon repayment of previously drawn amounts)
 2. Nonrevolving (in which the amount of the overall commitment is not reestablished upon repayment of previously drawn amounts).
 
-1. Revolving (in which the amount of the overall commitment is reestablished upon repayment of previously drawn amounts)
+Revolving (in which the amount of the overall commitment is reestablished upon repayment of previously drawn amounts)
 2. Nonrevolving (in which the amount of the overall commitment is not reestablished upon repayment of previously drawn amounts).
 
 ##### London Interbank Offered Rate (LIBOR) Swap Rate
 
 The fixed rate on a single-currency, constant-notional interest rate swap that has its variable-rate leg referenced to the London Interbank Offered Rate (LIBOR) with no additional spread over LIBOR on that variable-rate leg. That fixed rate is the derived rate that would result in the swap having a zero fair value at inception because the present value of fixed cash flows, based on that rate, equate to the present value of the variable cash flows.
+The fixed rate on a single-currency, constant-notional interest rate swap that has its variable-rate leg referenced to the London Interbank Offered Rate (LIBOR) with no additional spread over LIBOR on that variable-rate leg. That fixed rate is the derived rate that would result in the swap having a zero fair value at inception because the present value of fixed cash flows, based on that rate, equate to the present value of the variable cash flows.
 
 ##### London Interbank Offered Rate Swap        Rate
 
+The fixed rate on a single-currency, constant-notional interest rate swap that has its variable-rate leg referenced to the London Interbank Offered Rate (LIBOR) with no additional spread over LIBOR on that variable-rate leg. That fixed rate is the derived rate that would result in the swap having a zero fair value at inception because the present value of fixed cash flows, based on that rate, equate to the present value of the variable cash flows. PENDING CONTENTTransition date: December 16, 2018; December 16, 2020Transition guidance:815-20-65-4Glossary term superseded by Accounting Standards Update No. 2018-16.
+The fixed rate on a single-currency, constant-notional interest rate swap that has its variable-rate leg referenced to the London Interbank Offered Rate (LIBOR) with no additional spread over LIBOR on that variable-rate leg. That fixed rate is the derived rate that would result in the swap having a zero fair value at inception because the present value of fixed cash flows, based on that rate, equate to the present value of the variable cash flows.
+PENDING CONTENTTransition date: December 16, 2018; December 16, 2020Transition guidance:815-20-65-4Glossary term superseded by Accounting Standards Update No. 2018-16.
+
 ##### Mandatorily Redeemable Financial Instrument
 
-The fixed rate on a single-currency, constant-notional interest rate swap that has its variable-rate leg referenced to the London Interbank Offered Rate (LIBOR) with no additional spread over LIBOR on that variable-rate leg. That fixed rate is the derived rate that would result in the swap having a zero fair value at inception because the present value of fixed cash flows, based on that rate, equate to the present value of the variable cash flows. The fixed rate on a single-currency, constant-notional interest rate swap that has its variable-rate leg referenced to the London Interbank Offered Rate (LIBOR) with no additional spread over LIBOR on that variable-rate leg. That fixed rate is the derived rate that would result in the swap having a zero fair value at inception because the present value of fixed cash flows, based on that rate, equate to the present value of the variable cash flows. The fixed rate on a single-currency, constant-notional interest rate swap that has its variable-rate leg referenced to the London Interbank Offered Rate (LIBOR) with no additional spread over LIBOR on that variable-rate leg. That fixed rate is the derived rate that would result in the swap having a zero fair value at inception because the present value of fixed cash flows, based on that rate, equate to the present value of the variable cash flows. Any of various financial instruments issued in the form of shares that embody an unconditional obligation requiring the issuer to redeem the instrument by transferring its assets at a specified or determinable date (or dates) or upon an event that is certain to occur.
+Any of various financial instruments issued in the form of shares that embody an unconditional obligation requiring the issuer to redeem the instrument by transferring its assets at a specified or determinable date (or dates) or upon an event that is certain to occur.
+Any of various financial instruments issued in the form of shares that embody an unconditional obligation requiring the issuer to redeem the instrument by transferring its assets at a specified or determinable date (or dates) or upon an event that is certain to occur.
 
 ##### Market Participants
 
@@ -1581,32 +1790,40 @@ The fixed rate on a single-currency, constant-notional interest rate swap that h
 3. They are able to enter into a transaction for the asset or liability
 4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
 
-1. They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
 2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
 3. They are able to enter into a transaction for the asset or liability
 4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
 
 ##### Market Risk Benefit
 
+PENDING CONTENTTransition date: December 16, 2022; December 16, 2024Transition guidance:944-40-65-2 A contract or contract feature in a long-duration contract issued by an insurance entity that both protects the contract holder from other-than-nominal capital market risk and exposes the insurance entity to other-than-nominal capital market risk.
+PENDING CONTENTTransition date: December 16, 2022; December 16, 2024Transition guidance:944-40-65-2 A contract or contract feature in a long-duration contract issued by an insurance entity that both protects the contract holder from other-than-nominal capital market risk and exposes the insurance entity to other-than-nominal capital market risk.
+
 ##### Merger of Not-for-Profit Entities
 
+A transaction or other event in which the governing bodies of two or more not-for-profit entities cede control of those entities to create a new not-for-profit entity.
 A transaction or other event in which the governing bodies of two or more not-for-profit entities cede control of those entities to create a new not-for-profit entity.
 
 ##### Net Income
 
-A transaction or other event in which the governing bodies of two or more not-for-profit entities cede control of those entities to create a new not-for-profit entity.A measure of financial performance resulting from the aggregation of revenues, expenses, gains, and losses that are not items of other comprehensive income. A variety of other terms such as net earnings or earnings may be used to describe net income.
+A measure of financial performance resulting from the aggregation of revenues, expenses, gains, and losses that are not items of other comprehensive income. A variety of other terms such as net earnings or earnings may be used to describe net income.
+A measure of financial performance resulting from the aggregation of revenues, expenses, gains, and losses that are not items of other comprehensive income. A variety of other terms such as net earnings or earnings may be used to describe net income.
 
 ##### Net Share Settlement
 
-A measure of financial performance resulting from the aggregation of revenues, expenses, gains, and losses that are not items of other comprehensive income. A variety of other terms such as net earnings or earnings may be used to describe net income. The party with a loss delivers to the party with a gain shares with a current fair value equal to the gain.
+The party with a loss delivers to the party with a gain shares with a current fair value equal to the gain.
+The party with a loss delivers to the party with a gain shares with a current fair value equal to the gain.
 
 ##### Nonperformance Risk
 
-The party with a loss delivers to the party with a gain shares with a current fair value equal to the gain. The risk that an entity will not fulfill an obligation. Nonperformance risk includes, but may not be limited to, the reporting entity's own credit risk.
+The risk that an entity will not fulfill an obligation. Nonperformance risk includes, but may not be limited to, the reporting entity's own credit risk.
+The risk that an entity will not fulfill an obligation. Nonperformance risk includes, but may not be limited to, the reporting entity's own credit risk.
 
 ##### Nonreciprocal Transfer
 
-The risk that an entity will not fulfill an obligation. Nonperformance risk includes, but may not be limited to, the reporting entity's own credit risk. Nonreciprocal transfer is a transfer of assets or services in one direction, either from an entity to its owners (whether or not in exchange for their ownership interests) or to another entity, or from owners or another entity to the entity. An entity's reacquisition of its outstanding stock is an example of a nonreciprocal transfer.
+Nonreciprocal transfer is a transfer of assets or services in one direction, either from an entity to its owners (whether or not in exchange for their ownership interests) or to another entity, or from owners or another entity to the entity. An entity's reacquisition of its outstanding stock is an example of a nonreciprocal transfer.
+Nonreciprocal transfer is a transfer of assets or services in one direction, either from an entity to its owners (whether or not in exchange for their ownership interests) or to another entity, or from owners or another entity to the entity. An entity's reacquisition of its outstanding stock is an example of a nonreciprocal transfer.
 
 ##### Not-for-Profit Entity
 
@@ -1617,32 +1834,37 @@ The risk that an entity will not fulfill an obligation. Nonperformance risk incl
 1. All investor-owned entities
 2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
 
-1. Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
+Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
 2. Operating purposes other than to provide goods or services at a profit
 3. Absence of ownership interests like those of business entities.
 
-1. All investor-owned entities
+All investor-owned entities
 2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
 
 ##### Notional Amount
 
 A number of currency units, shares, bushels, pounds, or other units specified in a derivative instrument. Sometimes other names are used. For example, the notional amount is called a face amount in some contracts.
+A number of currency units, shares, bushels, pounds, or other units specified in a derivative instrument. Sometimes other names are used. For example, the notional amount is called a face amount in some contracts.
 
 ##### Orderly Transaction
 
-A number of currency units, shares, bushels, pounds, or other units specified in a derivative instrument. Sometimes other names are used. For example, the notional amount is called a face amount in some contracts.A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
 
 ##### Other Comprehensive Income
 
-A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale). Revenues, expenses, gains, and losses that under generally accepted accounting principles (GAAP) are included in comprehensive income but excluded from net income.
+Revenues, expenses, gains, and losses that under generally accepted accounting principles (GAAP) are included in comprehensive income but excluded from net income.
+Revenues, expenses, gains, and losses that under generally accepted accounting principles (GAAP) are included in comprehensive income but excluded from net income.
 
 ##### Payment Provision
 
-Revenues, expenses, gains, and losses that under generally accepted accounting principles (GAAP) are included in comprehensive income but excluded from net income. A payment provision specifies a fixed or determinable settlement to be made if the underlying behaves in a specified manner.
+A payment provision specifies a fixed or determinable settlement to be made if the underlying behaves in a specified manner.
+A payment provision specifies a fixed or determinable settlement to be made if the underlying behaves in a specified manner.
 
 ##### Prepaid Interest Rate Swap
 
-A payment provision specifies a fixed or determinable settlement to be made if the underlying behaves in a specified manner.A prepaid interest rate swap contract obligates one party to make periodic payments to another party that are based on a variable interest rate applied to an effective notional amount. It is characterized as an at-the-money interest rate swap for which the fixed leg has been fully prepaid, with the result that the party that receives the variable-leg-based payments has no obligation whatsoever to make any future payments under the swap. Under that characterization, the fair value of the fixed leg and the fair value of the variable leg are equal and offsetting because the at-the-money interest rate swap has an overall fair value of zero.
+A prepaid interest rate swap contract obligates one party to make periodic payments to another party that are based on a variable interest rate applied to an effective notional amount. It is characterized as an at-the-money interest rate swap for which the fixed leg has been fully prepaid, with the result that the party that receives the variable-leg-based payments has no obligation whatsoever to make any future payments under the swap. Under that characterization, the fair value of the fixed leg and the fair value of the variable leg are equal and offsetting because the at-the-money interest rate swap has an overall fair value of zero.
+A prepaid interest rate swap contract obligates one party to make periodic payments to another party that are based on a variable interest rate applied to an effective notional amount. It is characterized as an at-the-money interest rate swap for which the fixed leg has been fully prepaid, with the result that the party that receives the variable-leg-based payments has no obligation whatsoever to make any future payments under the swap. Under that characterization, the fair value of the fixed leg and the fair value of the variable leg are equal and offsetting because the at-the-money interest rate swap has an overall fair value of zero.
 
 ##### Readily Convertible to        Cash
 
@@ -1650,6 +1872,12 @@ A payment provision specifies a fixed or determinable settlement to be made if t
 2. Quoted prices available in an active market that can rapidly absorb the quantity held by the entity without significantly affecting the price.
 
 1. Interchangeable (fungible) units
+2. Quoted prices available in an active market that can rapidly absorb the quantity held by the entity without significantly affecting the price.
+
+Interchangeable (fungible) units
+2. Quoted prices available in an active market that can rapidly absorb the quantity held by the entity without significantly affecting the price.
+
+Interchangeable (fungible) units
 2. Quoted prices available in an active market that can rapidly absorb the quantity held by the entity without significantly affecting the price.
 
 ##### Registration Payment Arrangement
@@ -1667,6 +1895,7 @@ A payment provision specifies a fixed or determinable settlement to be made if t
 ##### Regular-Way Security Trades
 
 Regular-way security trades are contracts that provide for delivery of a security within the period of time (after the trade date) generally established by regulations or conventions in the marketplace or exchange in which the transaction is being executed.
+Regular-way security trades are contracts that provide for delivery of a security within the period of time (after the trade date) generally established by regulations or conventions in the marketplace or exchange in which the transaction is being executed.
 
 ##### Related Parties
 
@@ -1678,7 +1907,7 @@ Regular-way security trades are contracts that provide for delivery of a securit
 6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
 7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
 
-1. Affiliates of the entity
+Affiliates of the entity
 2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
 3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
 4. Principal owners of the entity and members of their immediate families
@@ -1689,46 +1918,59 @@ Regular-way security trades are contracts that provide for delivery of a securit
 ##### Spot Rate
 
 The exchange rate for immediate delivery of currencies exchanged.
+The exchange rate for immediate delivery of currencies exchanged.
 
 ##### Standard Antidilution Provisions
 
-The exchange rate for immediate delivery of currencies exchanged. Standard antidilution provisions are those that result in adjustments to the conversion ratio in the event of an equity restructuring transaction that are designed to maintain the value of the conversion option.
+Standard antidilution provisions are those that result in adjustments to the conversion ratio in the event of an equity restructuring transaction that are designed to maintain the value of the conversion option.
+Standard antidilution provisions are those that result in adjustments to the conversion ratio in the event of an equity restructuring transaction that are designed to maintain the value of the conversion option.
 
 ##### Synthetic Instrument Accounting
 
-Standard antidilution provisions are those that result in adjustments to the conversion ratio in the event of an equity restructuring transaction that are designed to maintain the value of the conversion option.Synthetic instrument accounting views two or more distinct financial instruments (generally a cash instrument and a derivative instrument) as having synthetically created another single cash instrument. The objective of synthetic instrument accounting is to present those multiple instruments in the financial statements as if they were the single instrument that the entity sought to create. Paragraph 815-10-25-4 states that synthetic instrument accounting is prohibited.
+Synthetic instrument accounting views two or more distinct financial instruments (generally a cash instrument and a derivative instrument) as having synthetically created another single cash instrument. The objective of synthetic instrument accounting is to present those multiple instruments in the financial statements as if they were the single instrument that the entity sought to create. Paragraph 815-10-25-4 states that synthetic instrument accounting is prohibited.
+Synthetic instrument accounting views two or more distinct financial instruments (generally a cash instrument and a derivative instrument) as having synthetically created another single cash instrument. The objective of synthetic instrument accounting is to present those multiple instruments in the financial statements as if they were the single instrument that the entity sought to create. Paragraph 815-10-25-4 states that synthetic instrument accounting is prohibited.
 
 ##### Take-or-Pay Contract
 
-Synthetic instrument accounting views two or more distinct financial instruments (generally a cash instrument and a derivative instrument) as having synthetically created another single cash instrument. The objective of synthetic instrument accounting is to present those multiple instruments in the financial statements as if they were the single instrument that the entity sought to create. Paragraph 815-10-25-4 states that synthetic instrument accounting is prohibited.Under a take-or-pay contract, an entity agrees to pay a specified price for a specified quantity of a product whether or not it takes delivery.
+Under a take-or-pay contract, an entity agrees to pay a specified price for a specified quantity of a product whether or not it takes delivery.
+Under a take-or-pay contract, an entity agrees to pay a specified price for a specified quantity of a product whether or not it takes delivery.
 
 ##### Trading
 
-Under a take-or-pay contract, an entity agrees to pay a specified price for a specified quantity of a product whether or not it takes delivery.An activity involving securities sold in the near term and held for only a short period of time. The term trading contemplates a holding period generally measured in hours and days rather than months or years. See paragraph 948-310-40-1 for clarification of the term trading for a mortgage banking entity.
+An activity involving securities sold in the near term and held for only a short period of time. The term trading contemplates a holding period generally measured in hours and days rather than months or years. See paragraph 948-310-40-1 for clarification of the term trading for a mortgage banking entity.
+An activity involving securities sold in the near term and held for only a short period of time. The term trading contemplates a holding period generally measured in hours and days rather than months or years. See paragraph 948-310-40-1 for clarification of the term trading for a mortgage banking entity.
 
 ##### Trading Purposes
 
-An activity involving securities sold in the near term and held for only a short period of time. The term trading contemplates a holding period generally measured in hours and days rather than months or years. See paragraph 948-310-40-1 for clarification of the term trading for a mortgage banking entity. The determination of what constitutes trading purposes is based on the intent of the issuer or holder and shall be consistent with the definition of trading in paragraph 320-10-25-1(a).
+The determination of what constitutes trading purposes is based on the intent of the issuer or holder and shall be consistent with the definition of trading in paragraph 320-10-25-1(a).
+The determination of what constitutes trading purposes is based on the intent of the issuer or holder and shall be consistent with the definition of trading in paragraph 320-10-25-1(a).
 
 ##### Transaction
 
+An external event involving transfer of something of value (future economic benefit) between two (or more) entities. (See FASB Concepts Statement No. 6, Elements of Financial Statements.)PENDING CONTENTTransition date: December 16, 2024; December 16, 2025Transition guidance:105-10-65-9An external event involving transfer of something of value (future economic benefit) between two (or more) entities.
+An external event involving transfer of something of value (future economic benefit) between two (or more) entities. (See FASB Concepts Statement No. 6, Elements of Financial Statements.)
+PENDING CONTENTTransition date: December 16, 2024; December 16, 2025Transition guidance:105-10-65-9An external event involving transfer of something of value (future economic benefit) between two (or more) entities.
+
 ##### Unconditional Purchase Obligation
 
-The determination of what constitutes trading purposes is based on the intent of the issuer or holder and shall be consistent with the definition of trading in paragraph 320-10-25-1(a). An external event involving transfer of something of value (future economic benefit) between two (or more) entities. (See FASB Concepts Statement No. 6, Elements of Financial Statements.)An external event involving transfer of something of value (future economic benefit) between two (or more) entities. (See FASB Concepts Statement No. 6, Elements of Financial Statements.)An obligation to transfer funds in the future for fixed or minimum amounts or quantities of goods or services at fixed or minimum prices (for example, as in take-or-pay contracts or throughput contracts).
+An obligation to transfer funds in the future for fixed or minimum amounts or quantities of goods or services at fixed or minimum prices (for example, as in take-or-pay contracts or throughput contracts).
+An obligation to transfer funds in the future for fixed or minimum amounts or quantities of goods or services at fixed or minimum prices (for example, as in take-or-pay contracts or throughput contracts).
 
 ##### Underlying
 
-An obligation to transfer funds in the future for fixed or minimum amounts or quantities of goods or services at fixed or minimum prices (for example, as in take-or-pay contracts or throughput contracts). A specified interest rate, security price, commodity price, foreign exchange rate, index of prices or rates, or other variable (including the occurrence or nonoccurrence of a specified event such as a scheduled payment under a contract). An underlying may be a price or rate of an asset or liability but is not the asset or liability itself. An underlying is a variable that, along with either a notional amount or a payment provision, determines the settlement of a derivative instrument.
+A specified interest rate, security price, commodity price, foreign exchange rate, index of prices or rates, or other variable (including the occurrence or nonoccurrence of a specified event such as a scheduled payment under a contract). An underlying may be a price or rate of an asset or liability but is not the asset or liability itself. An underlying is a variable that, along with either a notional amount or a payment provision, determines the settlement of a derivative instrument.
+A specified interest rate, security price, commodity price, foreign exchange rate, index of prices or rates, or other variable (including the occurrence or nonoccurrence of a specified event such as a scheduled payment under a contract). An underlying may be a price or rate of an asset or liability but is not the asset or liability itself. An underlying is a variable that, along with either a notional amount or a payment provision, determines the settlement of a derivative instrument.
 
 ##### Variable Interest Entity
 
-A specified interest rate, security price, commodity price, foreign exchange rate, index of prices or rates, or other variable (including the occurrence or nonoccurrence of a specified event such as a scheduled payment under a contract). An underlying may be a price or rate of an asset or liability but is not the asset or liability itself. An underlying is a variable that, along with either a notional amount or a payment provision, determines the settlement of a derivative instrument. A legal entity subject to consolidation according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
+A legal entity subject to consolidation according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
+A legal entity subject to consolidation according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
 
 ## 25 Recognition
 
-> **General Note:** The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
 
-> **General Note:** General Note for Fair Value Option:Some of the items subject to the guidance in this Subtopic may qualify for application of the Fair Value Option Subsections of Subtopic 825-10. Those Subsections (see paragraph 825-10-05-5) address circumstances in which entities may choose, at specified election dates, to measure eligible items at fair value (the fair value option). See Section 825-10-15 for guidance on the scope of the Fair Value Option Subsections of the Financial Instruments Topic.
+General Note for Fair Value Option:Some of the items subject to the guidance in this Subtopic may qualify for application of the Fair Value Option Subsections of Subtopic 825-10. Those Subsections (see paragraph 825-10-05-5) address circumstances in which entities may choose, at specified election dates, to measure eligible items at fair value (the fair value option). See Section 825-10-15 for guidance on the scope of the Fair Value Option Subsections of the Financial Instruments Topic.
 
 ### General
 
@@ -1749,10 +1991,24 @@ Unit of accounting for recognition purposes
 3. Forward commitment dollar rolls
 4. Derivative financial instruments subject to a registration payment arrangement.
 
+1. Unit of accounting for recognition purposes
+2. Subparagraph not used.
+3. Forward commitment dollar rolls
+4. Derivative financial instruments subject to a registration payment arrangement
+5. Share-based noncash consideration from a customer for the transfer of goods or services under Topic 606
+6. Share-based noncash consideration from a counterparty for the transfer of nonfinancial assets or in substance nonfinancial assets under Subtopic 610-20.
+
 **815-10-25-5** Unit of accounting for recognition purposes
 2. Subparagraph not used.
 3. Forward commitment dollar rolls
 4. Derivative financial instruments subject to a registration payment arrangement.
+
+1. Unit of accounting for recognition purposes
+2. Subparagraph not used.
+3. Forward commitment dollar rolls
+4. Derivative financial instruments subject to a registration payment arrangement
+5. Share-based noncash consideration from a customer for the transfer of goods or services under Topic 606
+6. Share-based noncash consideration from a counterparty for the transfer of nonfinancial assets or in substance nonfinancial assets under Subtopic 610-20.
 
 **815-10-25-5A** > Unit of Accounting for Recognition Purposes
 Viewing two freestanding derivative instruments as a unit. Whether two or more contracts that are derivative instruments within the scope application of this Subtopic should be viewed as a unit for recognition and other purposes—including for hedge accounting purposes—is addressed beginning in paragraph 815-10-25-6.
@@ -1851,10 +2107,12 @@ Forward commitment dollar rolls that are not otherwise subject to this Subtopic'
 Paragraphs 825-20-25-2 and 825-20-30-2 require that a financial instrument
 subject to a registration payment arrangement be recognized and measured in accordance with other applicable GAAP (for example, this Subtopic) without regard to the contingent obligation to transfer consideration pursuant to the registration payment arrangement. That is, those paragraphs require that an entity recognize and measure a registration payment arrangement as a separate unit of account from the financial instrument(s) subject to that arrangement.
 **815-10-25-16** Paragraphs 825-20-25-2 and 825-20-30-2 require that a financial instrument
+**815-10-25-16A** subject to a registration payment arrangement be recognized and measured in accordance with other applicable GAAP (for example, this Subtopic) without regard to the contingent obligation to transfer consideration pursuant to the registration payment arrangement. That is, those paragraphs require that an entity recognize and measure a registration payment arrangement as a separate unit of account from the financial instrument(s) subject to that arrangement. > Share-Based Noncash Consideration from a Customer for the Transfer of Goods or Services under Topic 606PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:606-10-65-3An entity shall not apply the guidance in this Topic to share-based noncash consideration from a customer for the transfer of goods or services unless and until the entity’s right to receive or retain the share-based noncash consideration is unconditional under Topic 606 in accordance with paragraph 606-10-15-3A.
+**815-10-25-16B** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:606-10-65-3An entity shall not apply the guidance in this Topic to share-based noncash consideration from a customer for the transfer of goods or services unless and until the entity’s right to receive or retain the share-based noncash consideration is unconditional under Topic 606 in accordance with paragraph 606-10-15-3A.> Share-Based Noncash Consideration from a Counterparty for the Transfer of Nonfinancial Assets or In Substance Nonfinancial Assets under Subtopic 610-20PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:606-10-65-3An entity shall not apply the guidance in this Topic to share-based noncash consideration from a counterparty for the transfer of nonfinancial assets or in substance nonfinancial assets unless and until the entity’s right to receive or retain the share-based noncash consideration is unconditional under Subtopic 610-20 in accordance with paragraph 610-20-15-3A.
 
 ### Certain Contracts on Debt and Equity Securities
 
-**815-10-25-17** subject to a registration payment arrangement be recognized and measured in accordance with other applicable GAAP (for example, this Subtopic) without regard to the contingent obligation to transfer consideration pursuant to the registration payment arrangement. That is, those paragraphs require that an entity recognize and measure a registration payment arrangement as a separate unit of account from the financial instrument(s) subject to that arrangement. > Share-Based Noncash Consideration from a Customer for the Transfer of Goods or Services under Topic 606> Share-Based Noncash Consideration from a Counterparty for the Transfer of Nonfinancial Assets or In Substance Nonfinancial Assets under Subtopic 610-20
+**815-10-25-17** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:606-10-65-3An entity shall not apply the guidance in this Topic to share-based noncash consideration from a counterparty for the transfer of nonfinancial assets or in substance nonfinancial assets unless and until the entity’s right to receive or retain the share-based noncash consideration is unconditional under Subtopic 610-20 in accordance with paragraph 610-20-15-3A.
 Forward contracts and purchased options on debt securities within the scope of this Subsection (see the Certain Contracts on Debt and Equity Securities Subsection of Section 815-10-15) shall, at inception, be designated as held to maturity, available for sale, or trading
 in a manner consistent with the accounting prescribed by Topic 320 for debt securities. Such forward and option contracts are not eligible to be hedging instruments.
 **815-10-25-17** Forward contracts and purchased options on debt securities within the scope of this Subsection (see the Certain Contracts on Debt and Equity Securities Subsection of Section 815-10-15) shall, at inception, be designated as held to maturity, available for sale, or trading
@@ -1864,7 +2122,7 @@ Forward contracts and purchased options on equity securities within the scope of
 
 ## 30 Initial Measurement
 
-> **General Note:** The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
 
 ### General
 
@@ -1894,7 +2152,7 @@ Forward contracts and purchased options on equity securities within the scope of
 
 ## 35 Subsequent Measurement
 
-> **General Note:** The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
 
 ### General
 
@@ -1961,7 +2219,7 @@ Held to maturity:
 
 ## 40 Derecognition
 
-> **General Note:** The Derecognition Section provides guidance on determining whether and when an entity should remove an item from the financial statements. For example, the entity would derecognize an asset because it no longer has rights to the asset or it would derecognize a liability because it no longer has any obligation.
+General Note:The Derecognition Section provides guidance on determining whether and when an entity should remove an item from the financial statements. For example, the entity would derecognize an asset because it no longer has rights to the asset or it would derecognize a liability because it no longer has any obligation.
 
 ### General
 
@@ -1976,7 +2234,7 @@ Transfers of assets that are derivative instruments and subject to the requireme
 
 ## 45 Other Presentation Matters
 
-> **General Note:** The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
 
 ### General
 
@@ -2038,11 +2296,18 @@ In contrast, if the contractual terms of a derivative instrument have been struc
 
 ## 50 Disclosure
 
-> **General Note:** The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
 
 ### General
 
-**815-10-50-1** An entity with derivative instruments
+**815-10-50-1** Related Proposed ASUs
+An entity with derivative instruments
+1. How and why an entity uses derivative instruments (or such nonderivative instruments)
+2. How derivative instruments (or such nonderivative instruments) and related hedged items are accounted for under Topic 815
+1. An entity's financial position
+2. An entity's financial performance
+3. An entity's cash flows.
+
 1. How and why an entity uses derivative instruments (or such nonderivative instruments)
 2. How derivative instruments (or such nonderivative instruments) and related hedged items are accounted for under Topic 815
 1. An entity's financial position
@@ -2050,6 +2315,12 @@ In contrast, if the contractual terms of a derivative instrument have been struc
 3. An entity's cash flows.
 
 **815-10-50-1** An entity with derivative instruments
+1. How and why an entity uses derivative instruments (or such nonderivative instruments)
+2. How derivative instruments (or such nonderivative instruments) and related hedged items are accounted for under Topic 815
+1. An entity's financial position
+2. An entity's financial performance
+3. An entity's cash flows.
+
 1. How and why an entity uses derivative instruments (or such nonderivative instruments)
 2. How derivative instruments (or such nonderivative instruments) and related hedged items are accounted for under Topic 815
 1. An entity's financial position
@@ -2067,8 +2338,18 @@ In contrast, if the contractual terms of a derivative instrument have been struc
 4. Information that would enable users of its financial statements to understand the volume of its activity in those instruments.
 
 **815-10-50-1B** For item (d) in paragraph 815-10-50-1A, an entity shall select the format and the specifics of disclosures relating to its volume of such activity that are most relevant and practicable for its individual facts and circumstances. Information about the instruments in items (a) through (c) in paragraph 815-10-50-1A shall be disclosed in the context of each instrument's primary underlying risk exposure (for example, interest rate, credit, foreign exchange rate, interest rate and foreign exchange rate, or overall price). Further, those instruments shall be distinguished between those used for risk management purposes and those used for other purposes. Derivative instruments (and nonderivative instruments that are designated and qualify as hedging instruments pursuant to paragraphs 815-20-25-58 and 815-20-25-66) used for risk management purposes include those designated as hedging instruments under Subtopic 815-20 as well as those used as economic hedges and for other purposes related to the entity's risk exposures.
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For item (d) in paragraph 815-10-50-1A, an entity shall select the format and the specifics of disclosures relating to its volume of such activity that are most relevant and practicable for its individual facts and circumstances. Information about the instruments in items (a) through (c) in paragraph 815-10-50-1A shall be disclosed in the context of each instrument's primary underlying risk exposure (for example, interest rate, credit, foreign exchange rate, interest rate and foreign exchange rate, or overall price) in interim and annual reporting periods. Further, those instruments shall be distinguished between those used for risk management purposes and those used for other purposes. Derivative instruments (and nonderivative instruments that are designated and qualify as hedging instruments pursuant to paragraphs 815-20-25-58 and 815-20-25-66) used for risk management purposes include those designated as hedging instruments under Subtopic 815-20 as well as those used as economic hedges and for other purposes related to the entity's risk exposures.
 **815-10-50-1B** For item (d) in paragraph 815-10-50-1A, an entity shall select the format and the specifics of disclosures relating to its volume of such activity that are most relevant and practicable for its individual facts and circumstances. Information about the instruments in items (a) through (c) in paragraph 815-10-50-1A shall be disclosed in the context of each instrument's primary underlying risk exposure (for example, interest rate, credit, foreign exchange rate, interest rate and foreign exchange rate, or overall price). Further, those instruments shall be distinguished between those used for risk management purposes and those used for other purposes. Derivative instruments (and nonderivative instruments that are designated and qualify as hedging instruments pursuant to paragraphs 815-20-25-58 and 815-20-25-66) used for risk management purposes include those designated as hedging instruments under Subtopic 815-20 as well as those used as economic hedges and for other purposes related to the entity's risk exposures.
-**815-10-50-2** Derivative instruments (and nonderivative instruments as noted in items (1)(i) and (1)(iii) of this paragraph) used for risk management purposes, distinguished between each of the following:
+**815-10-50-2** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For item (d) in paragraph 815-10-50-1A, an entity shall select the format and the specifics of disclosures relating to its volume of such activity that are most relevant and practicable for its individual facts and circumstances. Information about the instruments in items (a) through (c) in paragraph 815-10-50-1A shall be disclosed in the context of each instrument's primary underlying risk exposure (for example, interest rate, credit, foreign exchange rate, interest rate and foreign exchange rate, or overall price) in interim and annual reporting periods. Further, those instruments shall be distinguished between those used for risk management purposes and those used for other purposes. Derivative instruments (and nonderivative instruments that are designated and qualify as hedging instruments pursuant to paragraphs 815-20-25-58 and 815-20-25-66) used for risk management purposes include those designated as hedging instruments under Subtopic 815-20 as well as those used as economic hedges and for other purposes related to the entity's risk exposures.
+Derivative instruments (and nonderivative instruments as noted in items (1)(i) and (1)(iii) of this paragraph) used for risk management purposes, distinguished between each of the following:
+1. Derivative instruments (and nonderivative instruments) designated as fair value hedging instruments
+2. Derivative instruments designated as cash flow hedging instruments
+3. Derivative instruments (and nonderivative instruments) designated as hedging instruments for hedges of the foreign currency exposure of a net investment in a foreign operation.
+
+4. Derivative instruments used as economic hedges and for other purposes related to the entity's risk exposures.
+
+5. Derivative instruments used for other purposes.
+
 1. Derivative instruments (and nonderivative instruments) designated as fair value hedging instruments
 2. Derivative instruments designated as cash flow hedging instruments
 3. Derivative instruments (and nonderivative instruments) designated as hedging instruments for hedges of the foreign currency exposure of a net investment in a foreign operation.
@@ -2078,6 +2359,14 @@ In contrast, if the contractual terms of a derivative instrument have been struc
 5. Derivative instruments used for other purposes.
 
 **815-10-50-2** Derivative instruments (and nonderivative instruments as noted in items (1)(i) and (1)(iii) of this paragraph) used for risk management purposes, distinguished between each of the following:
+1. Derivative instruments (and nonderivative instruments) designated as fair value hedging instruments
+2. Derivative instruments designated as cash flow hedging instruments
+3. Derivative instruments (and nonderivative instruments) designated as hedging instruments for hedges of the foreign currency exposure of a net investment in a foreign operation.
+
+4. Derivative instruments used as economic hedges and for other purposes related to the entity's risk exposures.
+
+5. Derivative instruments used for other purposes.
+
 1. Derivative instruments (and nonderivative instruments) designated as fair value hedging instruments
 2. Derivative instruments designated as cash flow hedging instruments
 3. Derivative instruments (and nonderivative instruments) designated as hedging instruments for hedges of the foreign currency exposure of a net investment in a foreign operation.
@@ -2087,33 +2376,40 @@ In contrast, if the contractual terms of a derivative instrument have been struc
 5. Derivative instruments used for other purposes.
 
 **815-10-50-3** If the simplified hedge accounting approach (see paragraphs 815-20-25-133 through 25-138
-**815-10-50-3** ) is applied in accounting for a qualifying receive-variable, pay-fixed interest rate swap, the settlement value of that swap may be used in place of fair value when disclosing the information required by this Section or in providing other fair value disclosures, such as those required under Topic 820 on fair value. For the purposes of complying with these disclosure requirements, amounts disclosed at settlement value will be subject to all of the same disclosure requirements as amounts disclosed at fair value. Any amounts disclosed at settlement value shall be clearly stated as such and disclosed separately from amounts disclosed at fair value.
-If the simplified hedge accounting approach (see paragraphs 815-20-25-133 through 25-138
-**815-10-50-4** ) is applied in accounting for a qualifying receive-variable, pay-fixed interest rate swap, the settlement value of that swap may be used in place of fair value when disclosing the information required by this Section or in providing other fair value disclosures, such as those required under Topic 820 on fair value. For the purposes of complying with these disclosure requirements, amounts disclosed at settlement value will be subject to all of the same disclosure requirements as amounts disclosed at fair value. Any amounts disclosed at settlement value shall be clearly stated as such and disclosed separately from amounts disclosed at fair value.
+) is applied in accounting for a qualifying receive-variable, pay-fixed interest rate swap, the settlement value of that swap may be used in place of fair value when disclosing the information required by this Section or in providing other fair value disclosures, such as those required under Topic 820 on fair value. For the purposes of complying with these disclosure requirements, amounts disclosed at settlement value will be subject to all of the same disclosure requirements as amounts disclosed at fair value. Any amounts disclosed at settlement value shall be clearly stated as such and disclosed separately from amounts disclosed at fair value. PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1If the simplified hedge accounting approach (see paragraphs 815-20-25-133 through 25-138) is applied in accounting for a qualifying receive-variable, pay-fixed interest rate swap, the settlement value of that swap may be used in place of fair value when disclosing the information required by this Section or in providing other fair value disclosures, such as those required under Topic 820 on fair value. For the purposes of complying with these disclosure requirements, amounts disclosed at settlement value will be subject to all of the same disclosure requirements as amounts disclosed at fair value. Any amounts disclosed at settlement value shall be clearly stated as such and disclosed separately from amounts disclosed at fair value in interim and annual reporting periods.
+**815-10-50-3** If the simplified hedge accounting approach (see paragraphs 815-20-25-133 through 25-138
+**815-10-50-4** ) is applied in accounting for a qualifying receive-variable, pay-fixed interest rate swap, the settlement value of that swap may be used in place of fair value when disclosing the information required by this Section or in providing other fair value disclosures, such as those required under Topic 820 on fair value. For the purposes of complying with these disclosure requirements, amounts disclosed at settlement value will be subject to all of the same disclosure requirements as amounts disclosed at fair value. Any amounts disclosed at settlement value shall be clearly stated as such and disclosed separately from amounts disclosed at fair value. PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1If the simplified hedge accounting approach (see paragraphs 815-20-25-133 through 25-138) is applied in accounting for a qualifying receive-variable, pay-fixed interest rate swap, the settlement value of that swap may be used in place of fair value when disclosing the information required by this Section or in providing other fair value disclosures, such as those required under Topic 820 on fair value. For the purposes of complying with these disclosure requirements, amounts disclosed at settlement value will be subject to all of the same disclosure requirements as amounts disclosed at fair value. Any amounts disclosed at settlement value shall be clearly stated as such and disclosed separately from amounts disclosed at fair value in interim and annual reporting periods.
 For derivative instruments not designated as hedging instruments under Subtopic 815-20, the description shall indicate the purpose of the derivative activity.
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For derivative instruments not designated as hedging instruments under Subtopic 815-20, the description shall indicate the purpose of the derivative activity in interim and annual reporting periods.
 **815-10-50-4** For derivative instruments not designated as hedging instruments under Subtopic 815-20, the description shall indicate the purpose of the derivative activity.
-**815-10-50-4A** > Overall Quantitative Disclosures
+**815-10-50-4A** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For derivative instruments not designated as hedging instruments under Subtopic 815-20, the description shall indicate the purpose of the derivative activity in interim and annual reporting periods.> Overall Quantitative Disclosures
 The location and fair value amounts of derivative instruments (and such nonderivative instruments) reported in the statement of financial position
 1. The statement of financial performance
 2. The statement of financial position (for example, gains and losses initially recognized in other comprehensive income).
 
 3. The total amount of each income and expense line item presented in the statement of financial performance in which the results of fair value or cash flow hedges are recorded.
 
+1. The location and fair value amounts of derivative instruments (and such nonderivative instruments) reported in the statement of financial position
+1. The statement of financial performance
+2. The statement of financial position (for example, gains and losses initially recognized in other comprehensive income).
+
+3. The total amount of each income and expense line item presented in the statement of financial performance in which the results of fair value or cash flow hedges are recorded.
+
+See paragraphs 220-40-50-21 through 50-25 for additional disclosure requirements.
 **815-10-50-4A** The location and fair value amounts of derivative instruments (and such nonderivative instruments) reported in the statement of financial position
 1. The statement of financial performance
 2. The statement of financial position (for example, gains and losses initially recognized in other comprehensive income).
 
 3. The total amount of each income and expense line item presented in the statement of financial performance in which the results of fair value or cash flow hedges are recorded.
 
-**815-10-50-4B** The fair value of derivative instruments (and nonderivative instruments that are designated and qualify as hedging instruments pursuant to paragraphs 815-20-25-58 and 815-20-25-66) shall be presented on a gross basis, even when those instruments are subject to master netting arrangements and qualify for net presentation in the statement of financial position in accordance with Subtopic 210-20 or paragraphs 815-10-45-5 through 45-7
-1. , as applicable.
-2. Cash collateral payables and receivables associated with those instruments shall not be added to or netted against the fair value amounts.
-1. Those instruments designated and qualifying as hedging instruments under Subtopic 815-20, presented separately by type of contract (for example, interest rate contracts, foreign exchange contracts, equity contracts, commodity contracts, credit contracts, other contracts, and so forth)
-2. Those instruments not designated as hedging instruments, presented separately by type of contract.
+1. The location and fair value amounts of derivative instruments (and such nonderivative instruments) reported in the statement of financial position
+1. The statement of financial performance
+2. The statement of financial position (for example, gains and losses initially recognized in other comprehensive income).
 
-3. The disclosure shall identify the line item(s) in the statement of financial position in which the fair value amounts for these categories of derivative instruments are included.
+3. The total amount of each income and expense line item presented in the statement of financial performance in which the results of fair value or cash flow hedges are recorded.
 
-**815-10-50-4B** Amounts required to be reported for nonderivative instruments that are designated and qualify as hedging instruments pursuant to paragraphs 815-20-25-58 and 815-20-25-66 shall be the carrying value of the nonderivative hedging instrument, which includes the adjustment for the foreign currency transaction gain or loss on that instrument.
+See paragraphs 220-40-50-21 through 50-25
+**815-10-50-4B** for additional disclosure requirements.
 The fair value of derivative instruments (and nonderivative instruments that are designated and qualify as hedging instruments pursuant to paragraphs 815-20-25-58 and 815-20-25-66) shall be presented on a gross basis, even when those instruments are subject to master netting arrangements and qualify for net presentation in the statement of financial position in accordance with Subtopic 210-20 or paragraphs 815-10-45-5 through 45-7
 1. , as applicable.
 2. Cash collateral payables and receivables associated with those instruments shall not be added to or netted against the fair value amounts.
@@ -2122,8 +2418,42 @@ The fair value of derivative instruments (and nonderivative instruments that are
 
 3. The disclosure shall identify the line item(s) in the statement of financial position in which the fair value amounts for these categories of derivative instruments are included.
 
+1. The fair value of derivative instruments (and nonderivative instruments that are designated and qualify as hedging instruments pursuant to paragraphs 815-20-25-58 and 815-20-25-66) shall be presented on a gross basis, even when those instruments are subject to master netting arrangements and qualify for net presentation in the statement of financial position in accordance with Subtopic 210-20 or paragraphs 815-10-45-5 through 45-7, as applicable.
+2. Cash collateral payables and receivables associated with those instruments shall not be added to or netted against the fair value amounts.
+1. Those instruments designated and qualifying as hedging instruments under Subtopic 815-20, presented separately by type of contract (for example, interest rate contracts, foreign exchange contracts, equity contracts, commodity contracts, credit contracts, other contracts, and so forth)
+2. Those instruments not designated as hedging instruments, presented separately by type of contract.
+
+3. The disclosure shall identify the line item(s) in the statement of financial position in which the fair value amounts for these categories of derivative instruments are included.
+
+Amounts required to be reported for nonderivative instruments that are designated and qualify as hedging instruments pursuant to paragraphs 815-20-25-58 and 815-20-25-66 shall be the carrying value of the nonderivative hedging instrument, which includes the adjustment for the foreign currency transaction gain or loss on that instrument.
+**815-10-50-4B** The fair value of derivative instruments (and nonderivative instruments that are designated and qualify as hedging instruments pursuant to paragraphs 815-20-25-58 and 815-20-25-66) shall be presented on a gross basis, even when those instruments are subject to master netting arrangements and qualify for net presentation in the statement of financial position in accordance with Subtopic 210-20 or paragraphs 815-10-45-5 through 45-7
+1. , as applicable.
+2. Cash collateral payables and receivables associated with those instruments shall not be added to or netted against the fair value amounts.
+1. Those instruments designated and qualifying as hedging instruments under Subtopic 815-20, presented separately by type of contract (for example, interest rate contracts, foreign exchange contracts, equity contracts, commodity contracts, credit contracts, other contracts, and so forth)
+2. Those instruments not designated as hedging instruments, presented separately by type of contract.
+
+3. The disclosure shall identify the line item(s) in the statement of financial position in which the fair value amounts for these categories of derivative instruments are included.
+
+1. The fair value of derivative instruments (and nonderivative instruments that are designated and qualify as hedging instruments pursuant to paragraphs 815-20-25-58 and 815-20-25-66) shall be presented on a gross basis, even when those instruments are subject to master netting arrangements and qualify for net presentation in the statement of financial position in accordance with Subtopic 210-20 or paragraphs 815-10-45-5 through 45-7, as applicable.
+2. Cash collateral payables and receivables associated with those instruments shall not be added to or netted against the fair value amounts.
+1. Those instruments designated and qualifying as hedging instruments under Subtopic 815-20, presented separately by type of contract (for example, interest rate contracts, foreign exchange contracts, equity contracts, commodity contracts, credit contracts, other contracts, and so forth)
+2. Those instruments not designated as hedging instruments, presented separately by type of contract.
+
+3. The disclosure shall identify the line item(s) in the statement of financial position in which the fair value amounts for these categories of derivative instruments are included.
+
 **815-10-50-4C** Amounts required to be reported for nonderivative instruments that are designated and qualify as hedging instruments pursuant to paragraphs 815-20-25-58 and 815-20-25-66 shall be the carrying value of the nonderivative hedging instrument, which includes the adjustment for the foreign currency transaction gain or loss on that instrument.
 For qualifying fair value and cash flow hedges
+1. Derivative instruments (and nonderivative instruments) designated and qualifying as hedging instruments in fair value hedges and related hedged items designated and qualifying in fair value hedges.
+2. The gains and losses on derivative instruments designated and qualifying in cash flow hedges included in the assessment of effectiveness that were recognized in other comprehensive income during the current period.
+3. Amounts excluded from the assessment of effectiveness that were recognized in other comprehensive income during the period for which an amortization approach is applied in accordance with paragraph 815-20-25-83A.
+4. The gains and losses on derivative instruments designated and qualifying in cash flow hedges that are included in the assessment of effectiveness and recorded in accumulated other comprehensive income during the term of the hedging relationship and reclassified into earnings during the current period.
+1. Subparagraph superseded by Accounting Standards Update No. 2017-12.
+2. Subparagraph superseded by Accounting Standards Update No. 2017-12.
+
+3. Subparagraph superseded by Accounting Standards Update No. 2017-12.
+4. The gains and losses reclassified into earnings as a result of the discontinuance of cash flow hedges because it is probable that the original forecasted transactions will not occur by the end of the originally specified time period or within the additional period of time discussed in paragraphs 815-30-40-4 through 40-5.
+5. The amount of net gain or loss recognized in earnings when a hedged firm commitment no longer qualifies as a fair value hedge.
+
 1. Derivative instruments (and nonderivative instruments) designated and qualifying as hedging instruments in fair value hedges and related hedged items designated and qualifying in fair value hedges.
 2. The gains and losses on derivative instruments designated and qualifying in cash flow hedges included in the assessment of effectiveness that were recognized in other comprehensive income during the current period.
 3. Amounts excluded from the assessment of effectiveness that were recognized in other comprehensive income during the period for which an amortization approach is applied in accordance with paragraph 815-20-25-83A.
@@ -2147,13 +2477,34 @@ For qualifying fair value and cash flow hedges
 4. The gains and losses reclassified into earnings as a result of the discontinuance of cash flow hedges because it is probable that the original forecasted transactions will not occur by the end of the originally specified time period or within the additional period of time discussed in paragraphs 815-30-40-4 through 40-5.
 5. The amount of net gain or loss recognized in earnings when a hedged firm commitment no longer qualifies as a fair value hedge.
 
+1. Derivative instruments (and nonderivative instruments) designated and qualifying as hedging instruments in fair value hedges and related hedged items designated and qualifying in fair value hedges.
+2. The gains and losses on derivative instruments designated and qualifying in cash flow hedges included in the assessment of effectiveness that were recognized in other comprehensive income during the current period.
+3. Amounts excluded from the assessment of effectiveness that were recognized in other comprehensive income during the period for which an amortization approach is applied in accordance with paragraph 815-20-25-83A.
+4. The gains and losses on derivative instruments designated and qualifying in cash flow hedges that are included in the assessment of effectiveness and recorded in accumulated other comprehensive income during the term of the hedging relationship and reclassified into earnings during the current period.
+1. Subparagraph superseded by Accounting Standards Update No. 2017-12.
+2. Subparagraph superseded by Accounting Standards Update No. 2017-12.
+
+3. Subparagraph superseded by Accounting Standards Update No. 2017-12.
+4. The gains and losses reclassified into earnings as a result of the discontinuance of cash flow hedges because it is probable that the original forecasted transactions will not occur by the end of the originally specified time period or within the additional period of time discussed in paragraphs 815-30-40-4 through 40-5.
+5. The amount of net gain or loss recognized in earnings when a hedged firm commitment no longer qualifies as a fair value hedge.
+
 **815-10-50-4CC** An entity shall present separately by type of contract (as discussed in paragraph 815-10-50-4D) the gains and losses disclosed in accordance with paragraph 815-10-50-4A(b) for derivative instruments not designated or qualifying as hedging instruments under Topic 815 (see paragraph 815-10-50-4F).
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For interim and annual reporting periods, an entity shall present separately by type of contract (as discussed in paragraph 815-10-50-4D) the gains and losses disclosed in accordance with paragraph 815-10-50-4A(b) for derivative instruments not designated or qualifying as hedging instruments under Topic 815 (see paragraph 815-10-50-4F).
 **815-10-50-4CC** An entity shall present separately by type of contract (as discussed in paragraph 815-10-50-4D) the gains and losses disclosed in accordance with paragraph 815-10-50-4A(b) for derivative instruments not designated or qualifying as hedging instruments under Topic 815 (see paragraph 815-10-50-4F).
-**815-10-50-4CCC** The gains and losses on derivative instruments (and nonderivative instruments) designated and qualifying in net investment hedges that were recognized in the cumulative translation adjustment section of other comprehensive income during the current period
+**815-10-50-4CCC** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For interim and annual reporting periods, an entity shall present separately by type of contract (as discussed in paragraph 815-10-50-4D) the gains and losses disclosed in accordance with paragraph 815-10-50-4A(b) for derivative instruments not designated or qualifying as hedging instruments under Topic 815 (see paragraph 815-10-50-4F).
+The gains and losses on derivative instruments (and nonderivative instruments) designated and qualifying in net investment hedges that were recognized in the cumulative translation adjustment section of other comprehensive income during the current period
+2. The gains and losses on derivative instruments (and nonderivative instruments) designated and qualifying in net investment hedges recorded in the cumulative translation adjustment section of accumulated other comprehensive income during the term of the hedging relationship and reclassified into earnings during the current period
+3. The portion of gains and losses on derivative instruments (and nonderivative instruments) designated and qualifying in net investment hedges representing the amount, if any, excluded from the assessment of hedge effectiveness.
+
+1. The gains and losses on derivative instruments (and nonderivative instruments) designated and qualifying in net investment hedges that were recognized in the cumulative translation adjustment section of other comprehensive income during the current period
 2. The gains and losses on derivative instruments (and nonderivative instruments) designated and qualifying in net investment hedges recorded in the cumulative translation adjustment section of accumulated other comprehensive income during the term of the hedging relationship and reclassified into earnings during the current period
 3. The portion of gains and losses on derivative instruments (and nonderivative instruments) designated and qualifying in net investment hedges representing the amount, if any, excluded from the assessment of hedge effectiveness.
 
 **815-10-50-4CCC** The gains and losses on derivative instruments (and nonderivative instruments) designated and qualifying in net investment hedges that were recognized in the cumulative translation adjustment section of other comprehensive income during the current period
+2. The gains and losses on derivative instruments (and nonderivative instruments) designated and qualifying in net investment hedges recorded in the cumulative translation adjustment section of accumulated other comprehensive income during the term of the hedging relationship and reclassified into earnings during the current period
+3. The portion of gains and losses on derivative instruments (and nonderivative instruments) designated and qualifying in net investment hedges representing the amount, if any, excluded from the assessment of hedge effectiveness.
+
+1. The gains and losses on derivative instruments (and nonderivative instruments) designated and qualifying in net investment hedges that were recognized in the cumulative translation adjustment section of other comprehensive income during the current period
 2. The gains and losses on derivative instruments (and nonderivative instruments) designated and qualifying in net investment hedges recorded in the cumulative translation adjustment section of accumulated other comprehensive income during the term of the hedging relationship and reclassified into earnings during the current period
 3. The portion of gains and losses on derivative instruments (and nonderivative instruments) designated and qualifying in net investment hedges representing the amount, if any, excluded from the assessment of hedge effectiveness.
 
@@ -2167,7 +2518,25 @@ For qualifying fair value and cash flow hedges
 
 7. Identify the line item(s) in the statement of financial performance in which the gains and losses for these categories of derivative instruments (and nonderivative instruments that are designated and qualify as hedging instruments pursuant to paragraphs 815-20-25-58 and 815-20-25-66) are included.
 
+1. Interest rate contracts
+2. Foreign exchange contracts
+3. Equity contracts
+4. Commodity contracts
+5. Credit contracts
+6. Other contracts.
+
+7. Identify the line item(s) in the statement of financial performance in which the gains and losses for these categories of derivative instruments (and nonderivative instruments that are designated and qualify as hedging instruments pursuant to paragraphs 815-20-25-58 and 815-20-25-66) are included.
+
 **815-10-50-4D** Be presented separately by type of contract, for example:
+1. Interest rate contracts
+2. Foreign exchange contracts
+3. Equity contracts
+4. Commodity contracts
+5. Credit contracts
+6. Other contracts.
+
+7. Identify the line item(s) in the statement of financial performance in which the gains and losses for these categories of derivative instruments (and nonderivative instruments that are designated and qualify as hedging instruments pursuant to paragraphs 815-20-25-58 and 815-20-25-66) are included.
+
 1. Interest rate contracts
 2. Foreign exchange contracts
 3. Equity contracts
@@ -2178,16 +2547,26 @@ For qualifying fair value and cash flow hedges
 7. Identify the line item(s) in the statement of financial performance in which the gains and losses for these categories of derivative instruments (and nonderivative instruments that are designated and qualify as hedging instruments pursuant to paragraphs 815-20-25-58 and 815-20-25-66) are included.
 
 **815-10-50-4E** The quantitative disclosures required by paragraphs 815-10-50-4A through 50-4CCC shall be presented in tabular format.If a proportion of a derivative instrument is designated and qualifying as a hedging instrument and a proportion is not designated and qualifying as a hedging instrument, an entity shall allocate the related amounts to the appropriate categories within the disclosure tables. Example 21 (see paragraph 815-10-55-182) illustrates the disclosures described in paragraphs 815-10-50-4A through 50-4E
-**815-10-50-4E** .
-The quantitative disclosures required by paragraphs 815-10-50-4A through 50-4CCC shall be presented in tabular format.If a proportion of a derivative instrument is designated and qualifying as a hedging instrument and a proportion is not designated and qualifying as a hedging instrument, an entity shall allocate the related amounts to the appropriate categories within the disclosure tables. Example 21 (see paragraph 815-10-55-182) illustrates the disclosures described in paragraphs 815-10-50-4A through 50-4E
-**815-10-50-4EE** .
+.PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For interim and annual reporting periods, the quantitative disclosures required by paragraphs 815-10-50-4A through 50-4CCC shall be presented in tabular format.If a proportion of a derivative instrument is designated and qualifying as a hedging instrument and a proportion is not designated and qualifying as a hedging instrument, an entity shall allocate the related amounts to the appropriate categories within the disclosure tables. Example 21 (see paragraph 815-10-55-182) illustrates the disclosures described in paragraphs 815-10-50-4A through 50-4E.
+**815-10-50-4E** The quantitative disclosures required by paragraphs 815-10-50-4A through 50-4CCC shall be presented in tabular format.If a proportion of a derivative instrument is designated and qualifying as a hedging instrument and a proportion is not designated and qualifying as a hedging instrument, an entity shall allocate the related amounts to the appropriate categories within the disclosure tables. Example 21 (see paragraph 815-10-55-182) illustrates the disclosures described in paragraphs 815-10-50-4A through 50-4E
+**815-10-50-4EE** .PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For interim and annual reporting periods, the quantitative disclosures required by paragraphs 815-10-50-4A through 50-4CCC shall be presented in tabular format.If a proportion of a derivative instrument is designated and qualifying as a hedging instrument and a proportion is not designated and qualifying as a hedging instrument, an entity shall allocate the related amounts to the appropriate categories within the disclosure tables. Example 21 (see paragraph 815-10-55-182) illustrates the disclosures described in paragraphs 815-10-50-4A through 50-4E.
 The carrying amount of hedged assets and liabilities recognized in the statement of financial position. For an available-for-sale debt security, the amount disclosed is the amortized cost basis.
 2. The cumulative amount of fair value hedging adjustments to hedged assets and liabilities included in the carrying amount of the hedged assets and liabilities recognized in the statement of financial position.
 3. The line item in the statement of financial position that includes the hedged assets and liabilities.
 4. The cumulative amount of fair value hedging adjustments remaining for any hedged assets and liabilities for which hedge accounting has been discontinued.
 
-**815-10-50-4EE** The disclosures required by (b) and (d) shall exclude cumulative basis adjustments related to foreign exchange risk.
-The carrying amount of hedged assets and liabilities recognized in the statement of financial position. For an available-for-sale debt security, the amount disclosed is the amortized cost basis.
+1. The carrying amount of hedged assets and liabilities recognized in the statement of financial position. For an available-for-sale debt security, the amount disclosed is the amortized cost basis.
+2. The cumulative amount of fair value hedging adjustments to hedged assets and liabilities included in the carrying amount of the hedged assets and liabilities recognized in the statement of financial position.
+3. The line item in the statement of financial position that includes the hedged assets and liabilities.
+4. The cumulative amount of fair value hedging adjustments remaining for any hedged assets and liabilities for which hedge accounting has been discontinued.
+
+The disclosures required by (b) and (d) shall exclude cumulative basis adjustments related to foreign exchange risk.
+**815-10-50-4EE** The carrying amount of hedged assets and liabilities recognized in the statement of financial position. For an available-for-sale debt security, the amount disclosed is the amortized cost basis.
+2. The cumulative amount of fair value hedging adjustments to hedged assets and liabilities included in the carrying amount of the hedged assets and liabilities recognized in the statement of financial position.
+3. The line item in the statement of financial position that includes the hedged assets and liabilities.
+4. The cumulative amount of fair value hedging adjustments remaining for any hedged assets and liabilities for which hedge accounting has been discontinued.
+
+1. The carrying amount of hedged assets and liabilities recognized in the statement of financial position. For an available-for-sale debt security, the amount disclosed is the amortized cost basis.
 2. The cumulative amount of fair value hedging adjustments to hedged assets and liabilities included in the carrying amount of the hedged assets and liabilities recognized in the statement of financial position.
 3. The line item in the statement of financial position that includes the hedged assets and liabilities.
 4. The cumulative amount of fair value hedging adjustments remaining for any hedged assets and liabilities for which hedge accounting has been discontinued.
@@ -2197,8 +2576,16 @@ The amortized cost basis of the closed portfolio(s) of financial assets or the b
 2. The amount that represents the hedged item(s) (that is, the hedged layer or layers)
 3. The basis adjustment associated with the hedged item(s) (that is, the hedged layer or layers).
 
-**815-10-50-4EEE** Example 20 (see paragraph 815-10-55-181) illustrates these disclosures.
-The amortized cost basis of the closed portfolio(s) of financial assets or the beneficial interest(s)
+1. The amortized cost basis of the closed portfolio(s) of financial assets or the beneficial interest(s)
+2. The amount that represents the hedged item(s) (that is, the hedged layer or layers)
+3. The basis adjustment associated with the hedged item(s) (that is, the hedged layer or layers).
+
+Example 20 (see paragraph 815-10-55-181) illustrates these disclosures.
+**815-10-50-4EEE** The amortized cost basis of the closed portfolio(s) of financial assets or the beneficial interest(s)
+2. The amount that represents the hedged item(s) (that is, the hedged layer or layers)
+3. The basis adjustment associated with the hedged item(s) (that is, the hedged layer or layers).
+
+1. The amortized cost basis of the closed portfolio(s) of financial assets or the beneficial interest(s)
 2. The amount that represents the hedged item(s) (that is, the hedged layer or layers)
 3. The basis adjustment associated with the hedged item(s) (that is, the hedged layer or layers).
 
@@ -2218,8 +2605,26 @@ If an entity elects to record changes in the fair value of amounts excluded from
 6. The line items in the statement of financial performance in which trading activities gains and losses are included
 7. A description of the nature of its trading activities and related risks, and how the entity manages those risks.
 
-**815-10-50-4F** If the disclosure option in this paragraph is elected, the entity shall include a footnote in the required tables referencing the use of alternative disclosures for trading activities. Example 21 (see paragraph 815-10-55-182) illustrates a footnote referencing the use of alternative disclosures for trading activities. Example 22 (see paragraph 815-10-55-184) illustrates the disclosure of the information required in items (a) and (b).
-The gains and losses on its trading activities (including both derivative instruments and nonderivative instruments) recognized in the statement of financial performance, separately by major types of items, for example:
+1. Fixed income/interest rates
+2. Foreign exchange
+3. Equity
+4. Commodity
+5. Credit.
+
+6. The line items in the statement of financial performance in which trading activities gains and losses are included
+7. A description of the nature of its trading activities and related risks, and how the entity manages those risks.
+
+If the disclosure option in this paragraph is elected, the entity shall include a footnote in the required tables referencing the use of alternative disclosures for trading activities. Example 21 (see paragraph 815-10-55-182) illustrates a footnote referencing the use of alternative disclosures for trading activities. Example 22 (see paragraph 815-10-55-184) illustrates the disclosure of the information required in items (a) and (b).
+**815-10-50-4F** The gains and losses on its trading activities (including both derivative instruments and nonderivative instruments) recognized in the statement of financial performance, separately by major types of items, for example:
+1. Fixed income/interest rates
+2. Foreign exchange
+3. Equity
+4. Commodity
+5. Credit.
+
+6. The line items in the statement of financial performance in which trading activities gains and losses are included
+7. A description of the nature of its trading activities and related risks, and how the entity manages those risks.
+
 1. Fixed income/interest rates
 2. Foreign exchange
 3. Equity
@@ -2233,8 +2638,9 @@ The gains and losses on its trading activities (including both derivative instru
 
 **815-10-50-4G** If the disclosure option in this paragraph is elected, the entity shall include a footnote in the required tables referencing the use of alternative disclosures for trading activities. Example 21 (see paragraph 815-10-55-182) illustrates a footnote referencing the use of alternative disclosures for trading activities. Example 22 (see paragraph 815-10-55-184) illustrates the disclosure of the information required in items (a) and (b).
 For purposes of the disclosure requirements beginning in paragraph 815-10-50-4A, not-for-profit entities within the scope of Topic 954 should present a similarly formatted table. Those entities shall refer to amounts within their performance indicator, instead of in income, and amounts outside their performance indicator, instead of in other comprehensive income. Not-for-profit entities not within the scope of Topic 954 shall disclose the gain or loss recognized in changes in net assets using a similar format. All not-for-profit entities also would indicate which class or classes of net assets (without donor restrictions or with donor restrictions) are affected.
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For purposes of the disclosure requirements beginning in paragraph 815-10-50-4A, not-for-profit entities within the scope of Topic 954 should present a similarly formatted table. Those entities shall refer to amounts within their performance indicator, instead of in income, and amounts outside their performance indicator, instead of in other comprehensive income. Not-for-profit entities not within the scope of Topic 954 shall disclose the gain or loss recognized in changes in net assets using a similar format. All not-for-profit entities also would indicate which class or classes of net assets (without donor restrictions or with donor restrictions) are affected. The disclosures in this paragraph are required in interim and annual reporting periods.
 **815-10-50-4G** For purposes of the disclosure requirements beginning in paragraph 815-10-50-4A, not-for-profit entities within the scope of Topic 954 should present a similarly formatted table. Those entities shall refer to amounts within their performance indicator, instead of in income, and amounts outside their performance indicator, instead of in other comprehensive income. Not-for-profit entities not within the scope of Topic 954 shall disclose the gain or loss recognized in changes in net assets using a similar format. All not-for-profit entities also would indicate which class or classes of net assets (without donor restrictions or with donor restrictions) are affected.
-**815-10-50-4H** > Credit-Risk-Related Contingent Features
+**815-10-50-4H** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For purposes of the disclosure requirements beginning in paragraph 815-10-50-4A, not-for-profit entities within the scope of Topic 954 should present a similarly formatted table. Those entities shall refer to amounts within their performance indicator, instead of in income, and amounts outside their performance indicator, instead of in other comprehensive income. Not-for-profit entities not within the scope of Topic 954 shall disclose the gain or loss recognized in changes in net assets using a similar format. All not-for-profit entities also would indicate which class or classes of net assets (without donor restrictions or with donor restrictions) are affected. The disclosures in this paragraph are required in interim and annual reporting periods.> Credit-Risk-Related Contingent Features
 The existence and nature of credit-risk-related contingent features
 2. The circumstances in which credit-risk-related contingent features could be triggered in derivative instruments (or such nonderivative instruments) that are in a net liability position at the end of the reporting period
 3. The aggregate fair value amounts of derivative instruments (or such nonderivative instruments) that contain credit-risk-related contingent features that are in a net liability position at the end of the reporting period
@@ -2276,8 +2682,38 @@ A guarantor in a guarantee type contract
 6. The nature of any assets held either as collateral or by third parties that, upon the occurrence of any specified triggering event or condition under the credit derivative, the seller can obtain and liquidate to recover all or a portion of the amounts paid under the credit derivative
 7. If estimable, the approximate extent to which the proceeds from liquidation of assets held either as collateral or by third parties would be expected to cover the maximum potential amount of future payments under the credit derivative. In its estimate of potential recoveries, the seller of credit protection shall consider the effect of any purchased credit protection with identical underlying(s).
 
-**815-10-50-4K** However, the disclosures required by this paragraph do not apply to an embedded derivative feature related to the transfer of credit risk that is only in the form of subordination of one financial instrument to another, as described in paragraph 815-15-15-9.
-A seller of credit derivatives
+1. The approximate term of the credit derivative
+2. The reason(s) for entering into the credit derivative
+3. The events or circumstances that would require the seller to perform under the credit derivative
+4. The current status (that is, as of the date of the statement of financial position) of the payment/performance risk of the credit derivative, which could be based on either recently issued external credit ratings or current internal groupings used by the seller to manage its risk
+5. If the entity uses internal groupings for purposes of item (a)(4), how those groupings are determined and used for managing risk.
+
+1. The maximum potential amount of future payments (undiscounted) that the seller could be required to make under the credit derivative, which shall not be reduced by the effect of any amounts that may possibly be recovered under recourse or collateralization provisions in the credit derivative (which are addressed in items (c) through (f))
+2. The fact that the terms of the credit derivative provide for no limitation to the maximum potential future payments under the contract, if applicable
+3. If the seller is unable to develop an estimate of the maximum potential amount of future payments under the credit derivative, the reasons why it cannot estimate the maximum potential amount.
+
+4. The fair value of the credit derivative as of the date of the statement of financial position
+5. The nature of any recourse provisions that would enable the seller to recover from third parties any of the amounts paid under the credit derivative
+6. The nature of any assets held either as collateral or by third parties that, upon the occurrence of any specified triggering event or condition under the credit derivative, the seller can obtain and liquidate to recover all or a portion of the amounts paid under the credit derivative
+7. If estimable, the approximate extent to which the proceeds from liquidation of assets held either as collateral or by third parties would be expected to cover the maximum potential amount of future payments under the credit derivative. In its estimate of potential recoveries, the seller of credit protection shall consider the effect of any purchased credit protection with identical underlying(s).
+
+However, the disclosures required by this paragraph do not apply to an embedded derivative feature related to the transfer of credit risk that is only in the form of subordination of one financial instrument to another, as described in paragraph 815-15-15-9.
+**815-10-50-4K** A seller of credit derivatives
+1. The approximate term of the credit derivative
+2. The reason(s) for entering into the credit derivative
+3. The events or circumstances that would require the seller to perform under the credit derivative
+4. The current status (that is, as of the date of the statement of financial position) of the payment/performance risk of the credit derivative, which could be based on either recently issued external credit ratings or current internal groupings used by the seller to manage its risk
+5. If the entity uses internal groupings for purposes of item (a)(4), how those groupings are determined and used for managing risk.
+
+1. The maximum potential amount of future payments (undiscounted) that the seller could be required to make under the credit derivative, which shall not be reduced by the effect of any amounts that may possibly be recovered under recourse or collateralization provisions in the credit derivative (which are addressed in items (c) through (f))
+2. The fact that the terms of the credit derivative provide for no limitation to the maximum potential future payments under the contract, if applicable
+3. If the seller is unable to develop an estimate of the maximum potential amount of future payments under the credit derivative, the reasons why it cannot estimate the maximum potential amount.
+
+4. The fair value of the credit derivative as of the date of the statement of financial position
+5. The nature of any recourse provisions that would enable the seller to recover from third parties any of the amounts paid under the credit derivative
+6. The nature of any assets held either as collateral or by third parties that, upon the occurrence of any specified triggering event or condition under the credit derivative, the seller can obtain and liquidate to recover all or a portion of the amounts paid under the credit derivative
+7. If estimable, the approximate extent to which the proceeds from liquidation of assets held either as collateral or by third parties would be expected to cover the maximum potential amount of future payments under the credit derivative. In its estimate of potential recoveries, the seller of credit protection shall consider the effect of any purchased credit protection with identical underlying(s).
+
 1. The approximate term of the credit derivative
 2. The reason(s) for entering into the credit derivative
 3. The events or circumstances that would require the seller to perform under the credit derivative
@@ -2295,8 +2731,9 @@ A seller of credit derivatives
 
 **815-10-50-4L** However, the disclosures required by this paragraph do not apply to an embedded derivative feature related to the transfer of credit risk that is only in the form of subordination of one financial instrument to another, as described in paragraph 815-15-15-9.
 One way to present the information required by paragraph 815-10-50-4K for groups of similar credit derivatives would be first to segregate the disclosures by major types of contracts (for example, single-name credit default swaps, traded indexes, other portfolio products, and swaptions) and then, for each major type, provide additional subgroups for major types of referenced (or underlying) asset classes (for example, corporate debt, sovereign debt, and structured finance). With respect to hybrid instruments that have embedded credit derivatives, the seller of the embedded credit derivative shall disclose the information required by paragraph 815-10-50-4K for the entire hybrid instrument, not just the embedded credit derivatives.
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1One way to present the information required by paragraph 815-10-50-4K for groups of similar credit derivatives would be first to segregate the disclosures by major types of contracts (for example, single-name credit default swaps, traded indexes, other portfolio products, and swaptions) and then, for each major type, provide additional subgroups for major types of referenced (or underlying) asset classes (for example, corporate debt, sovereign debt, and structured finance). With respect to hybrid instruments that have embedded credit derivatives, the seller of the embedded credit derivative shall disclose the information required by paragraph 815-10-50-4K for the entire hybrid instrument, not just the embedded credit derivatives. The disclosures in this paragraph are required in interim and annual reporting periods.
 **815-10-50-4L** One way to present the information required by paragraph 815-10-50-4K for groups of similar credit derivatives would be first to segregate the disclosures by major types of contracts (for example, single-name credit default swaps, traded indexes, other portfolio products, and swaptions) and then, for each major type, provide additional subgroups for major types of referenced (or underlying) asset classes (for example, corporate debt, sovereign debt, and structured finance). With respect to hybrid instruments that have embedded credit derivatives, the seller of the embedded credit derivative shall disclose the information required by paragraph 815-10-50-4K for the entire hybrid instrument, not just the embedded credit derivatives.
-**815-10-50-5** > Qualitative Disclosures
+**815-10-50-5** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1One way to present the information required by paragraph 815-10-50-4K for groups of similar credit derivatives would be first to segregate the disclosures by major types of contracts (for example, single-name credit default swaps, traded indexes, other portfolio products, and swaptions) and then, for each major type, provide additional subgroups for major types of referenced (or underlying) asset classes (for example, corporate debt, sovereign debt, and structured finance). With respect to hybrid instruments that have embedded credit derivatives, the seller of the embedded credit derivative shall disclose the information required by paragraph 815-10-50-4K for the entire hybrid instrument, not just the embedded credit derivatives. The disclosures in this paragraph are required in interim and annual reporting periods. > Qualitative Disclosures
 Interest rate risk
 2. Foreign exchange risk
 3. Commodity price risk
@@ -2319,7 +2756,13 @@ For existing hedging relationships designated under the portfolio layer method, 
 **815-10-50-5C** The amount of the hedge basis adjustment recognized in current-period interest income because of the breach
 2. The circumstances that led to the breach.
 
+1. The amount of the hedge basis adjustment recognized in current-period interest income because of the breach
+2. The circumstances that led to the breach.
+
 **815-10-50-5C** The amount of the hedge basis adjustment recognized in current-period interest income because of the breach
+2. The circumstances that led to the breach.
+
+1. The amount of the hedge basis adjustment recognized in current-period interest income because of the breach
 2. The circumstances that led to the breach.
 
 **815-10-50-6** > Unconditional Purchase Obligations
@@ -2341,7 +2784,15 @@ A reporting entity's accounting policy to offset or not offset in accordance wit
 2. A reporting entity shall separately disclose amounts recognized for the right to reclaim cash collateral or the obligation to return cash collateral under master netting arrangements that have not been offset against net derivative instrument positions.
 3. A reporting entity that has made an accounting policy decision to not offset fair value amounts shall separately disclose the amounts recognized for the right to reclaim cash collateral or the obligation to return cash collateral under master netting arrangements.
 
+1. A reporting entity that has made an accounting policy decision to offset fair value amounts shall separately disclose amounts recognized for the right to reclaim cash collateral or the obligation to return cash collateral that have been offset against net derivative positions in accordance with paragraph 815-10-45-5.
+2. A reporting entity shall separately disclose amounts recognized for the right to reclaim cash collateral or the obligation to return cash collateral under master netting arrangements that have not been offset against net derivative instrument positions.
+3. A reporting entity that has made an accounting policy decision to not offset fair value amounts shall separately disclose the amounts recognized for the right to reclaim cash collateral or the obligation to return cash collateral under master netting arrangements.
+
 **815-10-50-8** A reporting entity that has made an accounting policy decision to offset fair value amounts shall separately disclose amounts recognized for the right to reclaim cash collateral or the obligation to return cash collateral that have been offset against net derivative positions in accordance with paragraph 815-10-45-5.
+2. A reporting entity shall separately disclose amounts recognized for the right to reclaim cash collateral or the obligation to return cash collateral under master netting arrangements that have not been offset against net derivative instrument positions.
+3. A reporting entity that has made an accounting policy decision to not offset fair value amounts shall separately disclose the amounts recognized for the right to reclaim cash collateral or the obligation to return cash collateral under master netting arrangements.
+
+1. A reporting entity that has made an accounting policy decision to offset fair value amounts shall separately disclose amounts recognized for the right to reclaim cash collateral or the obligation to return cash collateral that have been offset against net derivative positions in accordance with paragraph 815-10-45-5.
 2. A reporting entity shall separately disclose amounts recognized for the right to reclaim cash collateral or the obligation to return cash collateral under master netting arrangements that have not been offset against net derivative instrument positions.
 3. A reporting entity that has made an accounting policy decision to not offset fair value amounts shall separately disclose the amounts recognized for the right to reclaim cash collateral or the obligation to return cash collateral under master netting arrangements.
 
@@ -2350,20 +2801,21 @@ For guidance on disclosures of information about derivative instrument transacti
 **815-10-50-8A** For guidance on disclosures of information about derivative instrument transactions entered into in connection with the issuance of the convertible securities, see paragraph 470-20-50-1I for convertible debt instruments and paragraph 505-10-50-18 for convertible preferred stock.
 **815-10-50-8B** The disclosure guidance on convertible debt instruments in Section 470-20-50 and on convertible preferred stock in Section 505-10-50 also shall be considered after considering the disclosure guidance in this Section for a conversion option accounted for as a derivative instrument.
 **815-10-50-8B** The disclosure guidance on convertible debt instruments in Section 470-20-50 and on convertible preferred stock in Section 505-10-50 also shall be considered after considering the disclosure guidance in this Section for a conversion option accounted for as a derivative instrument.
+**815-10-50-8C** > Accounting Policy for Statement of Cash FlowsPENDING CONTENTTransition date: June 30, 2027; June 30, 2027Transition guidance:105-10-65-7See paragraph 230-10-50-9 for disclosure requirements related to where cash flows associated with derivative instruments and their related gains and losses are presented in the statement of cash flows.
 
 ### Certain Contracts on Debt and Equity Securities
 
-**815-10-50-9** > Accounting Policy for Statement of Cash Flows
+**815-10-50-9** PENDING CONTENTTransition date: June 30, 2027; June 30, 2027Transition guidance:105-10-65-7See paragraph 230-10-50-9 for disclosure requirements related to where cash flows associated with derivative instruments and their related gains and losses are presented in the statement of cash flows. Related Proposed ASUs
 An entity shall disclose its accounting policy for the premium paid (time value) to acquire an option that is classified as held to maturity or available for sale.
 **815-10-50-9** An entity shall disclose its accounting policy for the premium paid (time value) to acquire an option that is classified as held to maturity or available for sale.
 
 ## 55 Implementation Guidance and Illustrations
 
-> **General Note:** The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
 
 ### General
 
-**815-10-55-1** > Implementation Guidance
+**815-10-55-1** Related Proposed ASUs > Implementation Guidance
 Determining whether a contract is within the scope of this Subtopic
 2. Unit of accounting—a transferable option is considered freestanding, not embedded
 3. Definition of derivative instrument
@@ -2385,12 +2837,24 @@ Determining whether a contract is within the scope of this Subtopic
 ##### · > Determining Whether a Contract Is                within the Scope of this Subtopic
 
 **815-10-55-2** The following diagram depicts the process for determining whether a freestanding contract
-**815-10-55-2** is within the scope of this Subtopic. The diagram is a visual supplement to the written standards Sections. It shall not be interpreted to alter any requirements of this Subtopic nor shall it be considered a substitute for the requirements. The relevant paragraphs are identified in the parenthetical note after the question.
-The following diagram depicts the process for determining whether a freestanding contract
+
+| Editor's Note: The content of paragraph 815-10-55-2 will change upon transition, together with a change in the heading noted below. |
+| --- |
+| • > Determining Whether a Contract Is within the Scope of This Subtopic |
+
+is within the scope of this Subtopic. The diagram is a visual supplement to the written standards Sections. It shall not be interpreted to alter any requirements of this Subtopic nor shall it be considered a substitute for the requirements. The relevant paragraphs are identified in the parenthetical note after the question. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8The following diagram depicts the process for determining whether a freestanding contract is within the scope of this Subtopic. The diagram is a visual supplement to the written standards Sections. It shall not be interpreted to alter any requirements of this Subtopic or be considered a substitute for the requirements. The relevant paragraphs are identified in the parenthetical note after the question.
+**815-10-55-2** The following diagram depicts the process for determining whether a freestanding contract
+is within the scope of this Subtopic. The diagram is a visual supplement to the written standards Sections. It shall not be interpreted to alter any requirements of this Subtopic nor shall it be considered a substitute for the requirements. The relevant paragraphs are identified in the parenthetical note after the question.
+
+| Editor's Note: The content of paragraph 815-10-55-2 will change upon transition, together with a change in the heading noted below. |
+| --- |
+| • > Determining Whether a Contract Is within the Scope of This Subtopic |
+
+PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8The following diagram depicts the process for determining whether a freestanding contract is within the scope of this Subtopic. The diagram is a visual supplement to the written standards Sections. It shall not be interpreted to alter any requirements of this Subtopic or be considered a substitute for the requirements. The relevant paragraphs are identified in the parenthetical note after the question.
 
 ##### · > Unit of Accounting
 
-**815-10-55-3** is within the scope of this Subtopic. The diagram is a visual supplement to the written standards Sections. It shall not be interpreted to alter any requirements of this Subtopic nor shall it be considered a substitute for the requirements. The relevant paragraphs are identified in the parenthetical note after the question. · · > A Transferable Option Is Considered Freestanding, Not Embedded
+**815-10-55-3** · · > A Transferable Option Is Considered Freestanding, Not Embedded
 Certain structured transactions involving the issuance of a bond incorporate transferable options to call or put the bond. As such, those options are potentially exercisable by a party other than the debtor or the investor. For example, certain put bond structures involving three separate parties—the debtor, the investor, and an investment bank—may incorporate options that are ultimately held by the investment bank, giving that party the right to call the bond from the investor. For example, a call option that is transferable either by the debtor to a third party and thus is potentially exercisable by a party other than the debtor or by the original investor based on the legal agreements governing the debt issuance can result in the investor having different counterparties for the option and the original debt instrument. Accordingly, even if incorporated into the terms of the original debt agreement, such an option may not be considered an embedded derivative
 by either the debtor or the investor because it can be separated from the bond and effectively sold to a third party.
 **815-10-55-3** Certain structured transactions involving the issuance of a bond incorporate transferable options to call or put the bond. As such, those options are potentially exercisable by a party other than the debtor or the investor. For example, certain put bond structures involving three separate parties—the debtor, the investor, and an investment bank—may incorporate options that are ultimately held by the investment bank, giving that party the right to call the bond from the investor. For example, a call option that is transferable either by the debtor to a third party and thus is potentially exercisable by a party other than the debtor or by the original investor based on the legal agreements governing the debt issuance can result in the investor having different counterparties for the option and the original debt instrument. Accordingly, even if incorporated into the terms of the original debt agreement, such an option may not be considered an embedded derivative
@@ -2536,7 +3000,8 @@ An entity shall not bifurcate the forward contract component and the option comp
 The following table lists characteristics of an option that is a capacity contract
 and a traditional option. The characteristics listed may be relevant to the application of paragraph 815-10-15-45(a)(2). Other characteristics not listed may also be relevant.
 **815-10-55-31** The following table lists characteristics of an option that is a capacity contract
-**815-10-55-32** and a traditional option. The characteristics listed may be relevant to the application of paragraph 815-10-15-45(a)(2). Other characteristics not listed may also be relevant. · · > Dual-Trigger Financial Guarantee Contracts
+and a traditional option. The characteristics listed may be relevant to the application of paragraph 815-10-15-45(a)(2). Other characteristics not listed may also be relevant.
+**815-10-55-32** · · > Dual-Trigger Financial Guarantee Contracts
 Entity ABC extends credit to consumers through credit cards and personal loans of various sorts. Entity ABC is exposed to credit losses from its managed asset portfolio, including owned and securitized receivables. Entity ABC would like to purchase an insurance policy to protect itself against high levels of consumer default.
 **815-10-55-32** Entity ABC extends credit to consumers through credit cards and personal loans of various sorts. Entity ABC is exposed to credit losses from its managed asset portfolio, including owned and securitized receivables. Entity ABC would like to purchase an insurance policy to protect itself against high levels of consumer default.
 **815-10-55-33** Entity ABC's actual credit losses
@@ -2610,6 +3075,14 @@ If a transferor transfers financial assets but retains a call option on those as
 6. Short sales (sales of borrowed securities)
 7. Take-or-pay contracts.
 
+1. Subparagraph superseded by Accounting Standards Update No. 2025-07.
+2. Credit derivatives
+3. Equity options issued to employees and nonemployees
+4. Subparagraph superseded by Accounting Standards Update No. 2018-07.
+5. Repurchase agreements and wash sales
+6. Short sales (sales of borrowed securities)
+7. Take-or-pay contracts.
+
 **815-10-55-43** Contract with payment provision
 2. Credit derivatives
 3. Equity options issued to employees and nonemployees
@@ -2618,11 +3091,29 @@ If a transferor transfers financial assets but retains a call option on those as
 6. Short sales (sales of borrowed securities)
 7. Take-or-pay contracts.
 
+1. Subparagraph superseded by Accounting Standards Update No. 2025-07.
+2. Credit derivatives
+3. Equity options issued to employees and nonemployees
+4. Subparagraph superseded by Accounting Standards Update No. 2018-07.
+5. Repurchase agreements and wash sales
+6. Short sales (sales of borrowed securities)
+7. Take-or-pay contracts.
+
 **815-10-55-44** · · > Contract with Payment Provision
 If the contract contains a payment provision
-**815-10-55-44** that requires the issuer to pay to the holder a specified dollar amount based on a financial variable, the contract is subject to the requirements of this Subtopic.
-If the contract contains a payment provision
-**815-10-55-45** that requires the issuer to pay to the holder a specified dollar amount based on a financial variable, the contract is subject to the requirements of this Subtopic. · · > Credit Derivatives
+
+| Editor's Note: Paragraph 815-10-55-44 will be will be superseded upon transition, together with its heading. |
+| --- |
+| • • > Contract with Payment Provision |
+
+that requires the issuer to pay to the holder a specified dollar amount based on a financial variable, the contract is subject to the requirements of this Subtopic. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8Paragraph superseded by Accounting Standards Update No. 2025-07.
+**815-10-55-44** If the contract contains a payment provision
+
+| Editor's Note: Paragraph 815-10-55-44 will be will be superseded upon transition, together with its heading. |
+| --- |
+| • • > Contract with Payment Provision |
+
+**815-10-55-45** that requires the issuer to pay to the holder a specified dollar amount based on a financial variable, the contract is subject to the requirements of this Subtopic. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8Paragraph superseded by Accounting Standards Update No. 2025-07.· · > Credit Derivatives
 Many different types of contracts are indexed to the creditworthiness of a specified entity or group of entities, but not all of them are derivative instruments. Credit-indexed contracts that have certain characteristics described in paragraph 815-10-15-58 are guarantees and are not subject to the requirements of this Subtopic. Credit-indexed contracts (often referred to as credit derivatives) that do not have the characteristics necessary to qualify for the exception in that paragraph are subject to the requirements of this Subtopic. One example of the latter is a credit-indexed contract that requires a payment due to changes in the creditworthiness of a specified entity even if neither party incurs a loss due to the change (other than a loss caused by the payment under the credit-indexed contract).
 **815-10-55-45** Many different types of contracts are indexed to the creditworthiness of a specified entity or group of entities, but not all of them are derivative instruments. Credit-indexed contracts that have certain characteristics described in paragraph 815-10-15-58 are guarantees and are not subject to the requirements of this Subtopic. Credit-indexed contracts (often referred to as credit derivatives) that do not have the characteristics necessary to qualify for the exception in that paragraph are subject to the requirements of this Subtopic. One example of the latter is a credit-indexed contract that requires a payment due to changes in the creditworthiness of a specified entity even if neither party incurs a loss due to the change (other than a loss caused by the payment under the credit-indexed contract).
 **815-10-55-46** · · > Equity Options Issued to Employees and Nonemployees
@@ -2980,16 +3471,45 @@ Entity C enters into a forward contract to purchase on a specified date a specif
 2. Contract containing only a physical variable (Case B)
 3. Contract containing only a financial variable (Case C).
 
+| Editor's Note: The heading that precedes paragraph 815-10-55-135 will be amended upon transition as shown below. The content of the paragraph will not change. |
+| --- |
+| •> Example 13: Certain Contracts That Are Not Traded on an Exchange—Distinguishing between Physical and Financial Variables |
+
+1. Contract containing both a physical variable and a financial variable (Case A)
+2. Contract containing only a physical variable (Case B)
+3. Contract containing only a financial variable (Case C).
+
 **815-10-55-135** Contract containing both a physical variable and a financial variable (Case A)
+2. Contract containing only a physical variable (Case B)
+3. Contract containing only a financial variable (Case C).
+
+| Editor's Note: The heading that precedes paragraph 815-10-55-135 will be amended upon transition as shown below. The content of the paragraph will not change. |
+| --- |
+| •> Example 13: Certain Contracts That Are Not Traded on an Exchange—Distinguishing between Physical and Financial Variables |
+
+1. Contract containing both a physical variable and a financial variable (Case A)
 2. Contract containing only a physical variable (Case B)
 3. Contract containing only a financial variable (Case C).
 
 **815-10-55-136** · · > Case A: Contract Containing Both a Physical Variable and a Financial Variable
 A contract's payment provision specifies that the issuer will pay to the holder $10,000,000 if aggregate property damage from all hurricanes in the state of Florida exceeds $50,000,000 during the year 2001.
+
+| Editor's Note: The content of paragraph 815-10-55-136 will change upon transition, together with a change in the heading noted below. |
+| --- |
+| ••> Case A: Contract Containing both a Physical Variable and a Financial Variable |
+
+PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8A contract's payment provision specifies that the issuer will pay to the holder $10,000,000 if aggregate property damage from all hurricanes in the state of Florida exceeds $50,000,000 during the year 2001.
 **815-10-55-136** A contract's payment provision specifies that the issuer will pay to the holder $10,000,000 if aggregate property damage from all hurricanes in the state of Florida exceeds $50,000,000 during the year 2001.
+
+| Editor's Note: The content of paragraph 815-10-55-136 will change upon transition, together with a change in the heading noted below. |
+| --- |
+| ••> Case A: Contract Containing both a Physical Variable and a Financial Variable |
+
+**815-10-55-137** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8A contract's payment provision specifies that the issuer will pay to the holder $10,000,000 if aggregate property damage from all hurricanes in the state of Florida exceeds $50,000,000 during the year 2001.
+In this Case, the payment under the contract occurs if aggregate property damage from all hurricanes in the state of Florida exceeds $50,000,000 during the year 2001. The contract contains 2 underlyings—a physical variable (that is, the occurrence of at least 1 hurricane) and a financial variable (that is, aggregate property damage exceeding a specified or determinable dollar limit of $50,000,000). Because of the presence of the financial variable as an underlying, the derivative instrument does not qualify for the scope exclusion in paragraph 815-10-15-59(a).
+PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8If the contract contains a payment provision that requires the issuer to pay to the holder a specified dollar amount based on a financial variable, the contract is subject to the requirements of this Subtopic. In this Case, the payment under the contract occurs if aggregate property damage from all hurricanes in the state of Florida exceeds $50,000,000 during the year 2001. The contract contains 2 underlyings—a physical variable (that is, the occurrence of at least 1 hurricane) and a financial variable (that is, aggregate property damage exceeding a specified or determinable dollar limit of $50,000,000). Because of the presence of the financial variable as an underlying, the derivative instrument does not qualify for the scope exclusion in paragraph 815-10-15-59(a).
 **815-10-55-137** In this Case, the payment under the contract occurs if aggregate property damage from all hurricanes in the state of Florida exceeds $50,000,000 during the year 2001. The contract contains 2 underlyings—a physical variable (that is, the occurrence of at least 1 hurricane) and a financial variable (that is, aggregate property damage exceeding a specified or determinable dollar limit of $50,000,000). Because of the presence of the financial variable as an underlying, the derivative instrument does not qualify for the scope exclusion in paragraph 815-10-15-59(a).
-**815-10-55-137** In this Case, the payment under the contract occurs if aggregate property damage from all hurricanes in the state of Florida exceeds $50,000,000 during the year 2001. The contract contains 2 underlyings—a physical variable (that is, the occurrence of at least 1 hurricane) and a financial variable (that is, aggregate property damage exceeding a specified or determinable dollar limit of $50,000,000). Because of the presence of the financial variable as an underlying, the derivative instrument does not qualify for the scope exclusion in paragraph 815-10-15-59(a).
-**815-10-55-138** · · > Case B: Contract Containing Only a Physical Variable
+**815-10-55-138** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8If the contract contains a payment provision that requires the issuer to pay to the holder a specified dollar amount based on a financial variable, the contract is subject to the requirements of this Subtopic. In this Case, the payment under the contract occurs if aggregate property damage from all hurricanes in the state of Florida exceeds $50,000,000 during the year 2001. The contract contains 2 underlyings—a physical variable (that is, the occurrence of at least 1 hurricane) and a financial variable (that is, aggregate property damage exceeding a specified or determinable dollar limit of $50,000,000). Because of the presence of the financial variable as an underlying, the derivative instrument does not qualify for the scope exclusion in paragraph 815-10-15-59(a). · · > Case B: Contract Containing Only a Physical Variable
 A contract specifies that the issuer pays the holder $10,000,000 in the event that a hurricane occurs in Florida in 2001.
 **815-10-55-138** A contract specifies that the issuer pays the holder $10,000,000 in the event that a hurricane occurs in Florida in 2001.
 **815-10-55-139** If a contract contains a payment provision that requires the issuer to pay to the holder a specified dollar amount that is linked solely to a climatic or other physical variable (for example, wind velocity or flood-water level), paragraph 815-10-15-59(a) provides that the contract is not subject to the requirements of this Subtopic.
@@ -3013,9 +3533,50 @@ Consequently, neither Entity A nor Entity B qualifies for the scope exception in
 
 ##### · > Example 14A: Certain Contracts That Are Not Traded on an Exchange—Underlyings Based on Operations or Activities Specific to One of the Parties to the Contract
 
+1. Research and Development Funding Arrangement—Underlyings based on the occurrence of regulatory approval and achieving an earnings target (Case A)
+2. Monetization Transaction—Underlyings based on the occurrence of regulatory approval and achieving a sales target (Case B)
+3. Sustainability-Linked Bond—Underlying based on the failure to meet a greenhouse gas emissions reduction target (Case C)
+4. Litigation Funding Arrangement between Litigant and Funder—Underlying based on the occurrence of a successful litigation outcome (Case D)
+5. Litigation Funding Arrangement between Law Firm and Funder—Underlying based on the occurrence of a successful litigation outcome (Case E)
+6. Commodities-Based Arrangement—Underlying based on a market price of gold (Case F)
+7. Variable Payment Arrangement—Underlying based on the occurrence of regulatory approval (Case G)
+8. Earnout Arrangement—Underlying based on earnings activity (Case H)
+9. Variable Payment Arrangement—Underlying based on stock price differential (Case I)
+10. Credit Default Swap Arrangement—Underlying based on the occurrence of a credit event by the reference entity (Case J).
+
+1. Research and Development Funding Arrangement—Underlyings based on the occurrence of regulatory approval and achieving an earnings target (Case A)
+2. Monetization Transaction—Underlyings based on the occurrence of regulatory approval and achieving a sales target (Case B)
+3. Sustainability-Linked Bond—Underlying based on the failure to meet a greenhouse gas emissions reduction target (Case C)
+4. Litigation Funding Arrangement between Litigant and Funder—Underlying based on the occurrence of a successful litigation outcome (Case D)
+5. Litigation Funding Arrangement between Law Firm and Funder—Underlying based on the occurrence of a successful litigation outcome (Case E)
+6. Commodities-Based Arrangement—Underlying based on a market price of gold (Case F)
+7. Variable Payment Arrangement—Underlying based on the occurrence of regulatory approval (Case G)
+8. Earnout Arrangement—Underlying based on earnings activity (Case H)
+9. Variable Payment Arrangement—Underlying based on stock price differential (Case I)
+10. Credit Default Swap Arrangement—Underlying based on the occurrence of a credit event by the reference entity (Case J).
+
+**815-10-55-143B** · · > Case A: Research and Development Funding Arrangement—Underlyings Based on the Occurrence of Regulatory Approval and Achieving an Earnings TargetPENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8Entity A and Entity B enter into a research and development funding arrangement. Under the arrangement, Entity B provides funding of $50 million so that Entity A may develop and commercialize a drug compound. The arrangement has no clawback feature. Upon regulatory approval of the drug, Entity A pays $20 million to Entity B. Once the drug is commercialized, Entity A pays an additional $80 million to Entity B when gross profit related to the drug exceeds $500 million.
+**815-10-55-143C** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8Entity A and Entity B enter into a research and development funding arrangement. Under the arrangement, Entity B provides funding of $50 million so that Entity A may develop and commercialize a drug compound. The arrangement has no clawback feature. Upon regulatory approval of the drug, Entity A pays $20 million to Entity B. Once the drug is commercialized, Entity A pays an additional $80 million to Entity B when gross profit related to the drug exceeds $500 million.PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8The arrangement contains 2 underlyings: the occurrence of regulatory approval and an earnings measure (gross profit related to the drug exceeding $500 million). Because the occurrence of regulatory approval and gross profit relate to the drug that Entity A is developing, both of the underlyings are based on the operations or activities of Entity A. Whether the occurrence of regulatory approval is within the control of Entity A does not impact the conclusion that the underlying qualifies for the scope exception. Neither underlying is based on a market rate, market price, market index, or the price or performance (including default) of a financial asset or financial liability of one of the parties to the contract as described in paragraph 815-10-15-59(e)(1) and (e)(2). Also, the exclusions related to contracts involving an entity’s own equity or call options and put options on debt instruments as described in paragraph 815-10-15-59(e)(3) and (e)(4) do not apply. Therefore, those two underlyings each qualify for the scope exception in paragraph 815-10-15-59(e).
+**815-10-55-143D** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8The arrangement contains 2 underlyings: the occurrence of regulatory approval and an earnings measure (gross profit related to the drug exceeding $500 million). Because the occurrence of regulatory approval and gross profit relate to the drug that Entity A is developing, both of the underlyings are based on the operations or activities of Entity A. Whether the occurrence of regulatory approval is within the control of Entity A does not impact the conclusion that the underlying qualifies for the scope exception. Neither underlying is based on a market rate, market price, market index, or the price or performance (including default) of a financial asset or financial liability of one of the parties to the contract as described in paragraph 815-10-15-59(e)(1) and (e)(2). Also, the exclusions related to contracts involving an entity’s own equity or call options and put options on debt instruments as described in paragraph 815-10-15-59(e)(3) and (e)(4) do not apply. Therefore, those two underlyings each qualify for the scope exception in paragraph 815-10-15-59(e).· · > Case B: Monetization Transaction—Underlyings Based on the Occurrence of Regulatory Approval and Achieving a Sales Target PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8Entity A licenses its intellectual property to a third party to develop and commercialize a drug compound. While Entity A is not involved in the development and commercialization activities of the drug compound, the third party has agreed to pay Entity A (a) $20 million upon regulatory approval of the drug and (b) future royalties based on sales of the drug once the drug is commercialized. Entity A separately enters into an arrangement with Entity B. Under this arrangement, Entity B pays $50 million to Entity A in exchange for the right to receive a portion of both the (a) $20 million payment upon regulatory approval of the drug and (b) future royalties based on sales of the drug. Entity B is involved in the arrangement solely for investment purposes and is not involved in the development and commercialization of the drug.
+**815-10-55-143E** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8Entity A licenses its intellectual property to a third party to develop and commercialize a drug compound. While Entity A is not involved in the development and commercialization activities of the drug compound, the third party has agreed to pay Entity A (a) $20 million upon regulatory approval of the drug and (b) future royalties based on sales of the drug once the drug is commercialized. Entity A separately enters into an arrangement with Entity B. Under this arrangement, Entity B pays $50 million to Entity A in exchange for the right to receive a portion of both the (a) $20 million payment upon regulatory approval of the drug and (b) future royalties based on sales of the drug. Entity B is involved in the arrangement solely for investment purposes and is not involved in the development and commercialization of the drug.PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8The evaluation of the scope exception in this Example focuses on the arrangement between Entity A and Entity B. That arrangement contains two underlyings: the occurrence of regulatory approval and sales of the drug. Both of the underlyings are based on the operations or activities of Entity A because in this arrangement Entity A licenses the intellectual property and receives licensing income for both the regulatory approval payment and the royalties from sales of the drug. Whether the occurrence of regulatory approval is within the control of Entity A does not impact the conclusion that the underlying qualifies for the scope exception. Neither underlying is based on a market rate, market price, market index, or the price or performance (including default) of a financial asset or financial liability of one of the parties to the contract as described in paragraph 815-10-15-59(e)(1) and (e)(2). Also, the exclusions related to contracts involving an entity’s own equity or call options and put options on debt instruments as described in paragraph 815-10-15-59(e)(3) and (e)(4) do not apply. Therefore, those two underlyings each qualify for the scope exception in paragraph 815-10-15-59(e).
+**815-10-55-143F** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8The evaluation of the scope exception in this Example focuses on the arrangement between Entity A and Entity B. That arrangement contains two underlyings: the occurrence of regulatory approval and sales of the drug. Both of the underlyings are based on the operations or activities of Entity A because in this arrangement Entity A licenses the intellectual property and receives licensing income for both the regulatory approval payment and the royalties from sales of the drug. Whether the occurrence of regulatory approval is within the control of Entity A does not impact the conclusion that the underlying qualifies for the scope exception. Neither underlying is based on a market rate, market price, market index, or the price or performance (including default) of a financial asset or financial liability of one of the parties to the contract as described in paragraph 815-10-15-59(e)(1) and (e)(2). Also, the exclusions related to contracts involving an entity’s own equity or call options and put options on debt instruments as described in paragraph 815-10-15-59(e)(3) and (e)(4) do not apply. Therefore, those two underlyings each qualify for the scope exception in paragraph 815-10-15-59(e). · · > Case C: Sustainability-Linked Bond—Underlying Based on the Failure to Meet a Greenhouse Gas Emissions Reduction TargetPENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8On July 1, 20X1, Entity A issues a five-year fixed-rate bond. If Entity A’s parent entity, Parent Company, fails to meet a specified greenhouse gas emissions reduction target that includes both direct and indirect greenhouse gas emissions (including upstream and downstream emissions) at the consolidated group level by June 30, 20X3, the fixed interest rate on Entity A’s bond increases by 0.25 percent for the remaining term. Entity A and Parent Company are committed to meeting the target and taking actions to reduce greenhouse gas emissions. The bond is a hybrid instrument that contains an embedded feature that is required to be evaluated for bifurcation. The embedded feature contains one underlying: the failure to meet a greenhouse gas emissions reduction target at the consolidated group level. Because Entity A is a subsidiary of Parent Company, the failure to meet the greenhouse gas emissions reduction target at the consolidated level is considered an activity specific to one of the parties to the contract for the purposes of both Entity A’s standalone financial statements and Parent Company’s consolidated financial statements. The underlying is not based on a market rate, market price, market index, or the price or performance (including default) of a financial asset or financial liability of one of the parties to the contract as described in paragraph 815-10-15-59(e)(1) and (e)(2). Also, the exclusions related to contracts involving an entity’s own equity or call options and put options on debt instruments as described in paragraph 815-10-15-59(e)(3) and (e)(4) do not apply. Therefore, the underlying qualifies for the scope exception in paragraph 815-10-15-59(e).
+**815-10-55-143G** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8On July 1, 20X1, Entity A issues a five-year fixed-rate bond. If Entity A’s parent entity, Parent Company, fails to meet a specified greenhouse gas emissions reduction target that includes both direct and indirect greenhouse gas emissions (including upstream and downstream emissions) at the consolidated group level by June 30, 20X3, the fixed interest rate on Entity A’s bond increases by 0.25 percent for the remaining term. Entity A and Parent Company are committed to meeting the target and taking actions to reduce greenhouse gas emissions. The bond is a hybrid instrument that contains an embedded feature that is required to be evaluated for bifurcation. The embedded feature contains one underlying: the failure to meet a greenhouse gas emissions reduction target at the consolidated group level. Because Entity A is a subsidiary of Parent Company, the failure to meet the greenhouse gas emissions reduction target at the consolidated level is considered an activity specific to one of the parties to the contract for the purposes of both Entity A’s standalone financial statements and Parent Company’s consolidated financial statements. The underlying is not based on a market rate, market price, market index, or the price or performance (including default) of a financial asset or financial liability of one of the parties to the contract as described in paragraph 815-10-15-59(e)(1) and (e)(2). Also, the exclusions related to contracts involving an entity’s own equity or call options and put options on debt instruments as described in paragraph 815-10-15-59(e)(3) and (e)(4) do not apply. Therefore, the underlying qualifies for the scope exception in paragraph 815-10-15-59(e). · · > Case D: Litigation Funding Arrangement between Litigant and Funder—Underlying Based on the Occurrence of a Successful Litigation OutcomePENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8Entity A, a litigant seeking to recover patent infringement damages, enters into a funding arrangement with Entity B. Under the arrangement, Entity B provides $1 million to fund Entity A’s litigation. The arrangement has no clawback feature. Upon a successful litigation outcome, Entity A will pay Entity B 50 percent of the settlement amount that it receives from the resolution of the litigation.
+**815-10-55-143H** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8Entity A, a litigant seeking to recover patent infringement damages, enters into a funding arrangement with Entity B. Under the arrangement, Entity B provides $1 million to fund Entity A’s litigation. The arrangement has no clawback feature. Upon a successful litigation outcome, Entity A will pay Entity B 50 percent of the settlement amount that it receives from the resolution of the litigation. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8The arrangement between Entity A and Entity B contains one underlying: the occurrence of a successful litigation outcome. The settlement amount (and the percentage of this amount) received from the resolution of the litigation is a payment provision. Because Entity A is engaged in the legal proceeding, the underlying is based on the operations or activities of Entity A. The underlying is not based on a market rate, market price, market index, or the price or performance (including default) of a financial asset or financial liability of one of the parties to the contract as described in paragraph 815-10-15-59(e)(1) and (e)(2). Also, the exclusions related to contracts involving an entity’s own equity or call options and put options on debt instruments as described in paragraph 815-10-15-59(e)(3) and (e)(4) do not apply. Therefore, the underlying qualifies for the scope exception in paragraph 815-10-15-59(e).
+**815-10-55-143I** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8The arrangement between Entity A and Entity B contains one underlying: the occurrence of a successful litigation outcome. The settlement amount (and the percentage of this amount) received from the resolution of the litigation is a payment provision. Because Entity A is engaged in the legal proceeding, the underlying is based on the operations or activities of Entity A. The underlying is not based on a market rate, market price, market index, or the price or performance (including default) of a financial asset or financial liability of one of the parties to the contract as described in paragraph 815-10-15-59(e)(1) and (e)(2). Also, the exclusions related to contracts involving an entity’s own equity or call options and put options on debt instruments as described in paragraph 815-10-15-59(e)(3) and (e)(4) do not apply. Therefore, the underlying qualifies for the scope exception in paragraph 815-10-15-59(e).· · > Case E: Litigation Funding Arrangement between Law Firm and Funder—Underlying Based on the Occurrence of a Successful Litigation OutcomePENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8Entity C, a law firm, has been engaged to represent a litigant whereby legal fees are calculated as 30 percent of the final judgment (the settlement amount). Entity C separately enters into a funding arrangement with Entity B. Under the arrangement, Entity B provides funding of $1 million so that Entity C may hire additional staff to perform research related to the litigant’s legal proceeding. The arrangement has no clawback feature. Upon a successful litigation outcome, Entity C will pay Entity B 50 percent of the legal fees received from the litigant.
+**815-10-55-143J** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8Entity C, a law firm, has been engaged to represent a litigant whereby legal fees are calculated as 30 percent of the final judgment (the settlement amount). Entity C separately enters into a funding arrangement with Entity B. Under the arrangement, Entity B provides funding of $1 million so that Entity C may hire additional staff to perform research related to the litigant’s legal proceeding. The arrangement has no clawback feature. Upon a successful litigation outcome, Entity C will pay Entity B 50 percent of the legal fees received from the litigant. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8The evaluation of the scope exception in this Example focuses on the arrangement between Entity C and Entity B. That arrangement contains one underlying: the occurrence of a successful litigation outcome related to the litigant that Entity C is representing. The settlement amount (and the percentage of this amount) received by the litigant is a payment provision. Because Entity C is engaged to represent the litigant in the legal proceeding, the underlying is based on the operations or activities of Entity C. The underlying is not based on a market rate, market price, market index, or the price or performance (including default) of a financial asset or financial liability of one of the parties to the contract as described in paragraph 815-10-15-59(e)(1) and (e)(2). Also, the exclusions related to contracts involving an entity’s own equity or call options and put options on debt instruments as described in paragraph 815-10-15-59(e)(3) and (e)(4) do not apply. Therefore, the underlying qualifies for the scope exception in paragraph 815-10-15-59(e).
+**815-10-55-143K** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8The evaluation of the scope exception in this Example focuses on the arrangement between Entity C and Entity B. That arrangement contains one underlying: the occurrence of a successful litigation outcome related to the litigant that Entity C is representing. The settlement amount (and the percentage of this amount) received by the litigant is a payment provision. Because Entity C is engaged to represent the litigant in the legal proceeding, the underlying is based on the operations or activities of Entity C. The underlying is not based on a market rate, market price, market index, or the price or performance (including default) of a financial asset or financial liability of one of the parties to the contract as described in paragraph 815-10-15-59(e)(1) and (e)(2). Also, the exclusions related to contracts involving an entity’s own equity or call options and put options on debt instruments as described in paragraph 815-10-15-59(e)(3) and (e)(4) do not apply. Therefore, the underlying qualifies for the scope exception in paragraph 815-10-15-59(e).· · > Case F: Commodities-Based Arrangement—Underlying Based on a Market Price of GoldPENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8Entity A buys and sells gold as part of its operations. Entity A enters into a contract with Entity B whereby Entity A receives an upfront payment in exchange for a specified percentage of a price increase in the market price of gold. The arrangement contains one underlying: the market price of gold. The underlying is based on a market price as described in paragraph 815-10-15-59(e)(1). Therefore, the underlying does not qualify for the scope exception in paragraph 815-10-15-59(e).
+**815-10-55-143L** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8Entity A buys and sells gold as part of its operations. Entity A enters into a contract with Entity B whereby Entity A receives an upfront payment in exchange for a specified percentage of a price increase in the market price of gold. The arrangement contains one underlying: the market price of gold. The underlying is based on a market price as described in paragraph 815-10-15-59(e)(1). Therefore, the underlying does not qualify for the scope exception in paragraph 815-10-15-59(e).· · > Case G: Variable Payment Arrangement—Underlying Based on the Occurrence of Regulatory ApprovalPENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8Entity A, a pharmaceutical company, acquires Entity B, a biotechnology start-up company that does not meet the definition of a business. As part of the transaction, Entity A and the sellers of Entity B enter into a variable payment arrangement whereby Entity A will pay the sellers of Entity B an additional $2 million upon regulatory approval of a drug compound that Entity B is developing.
+**815-10-55-143M** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8Entity A, a pharmaceutical company, acquires Entity B, a biotechnology start-up company that does not meet the definition of a business. As part of the transaction, Entity A and the sellers of Entity B enter into a variable payment arrangement whereby Entity A will pay the sellers of Entity B an additional $2 million upon regulatory approval of a drug compound that Entity B is developing.PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8The arrangement contains one underlying: the occurrence of regulatory approval. The occurrence of regulatory approval relates to the drug that Entity B is developing as part of its operations. The underlying is not based on a market rate, market price, market index, or the price or performance (including default) of a financial asset or financial liability of one of the parties to the contract as described in paragraph 815-10-15-59(e)(1) and (e)(2). Also, the exclusions related to contracts involving an entity’s own equity or call options and put options on debt instruments as described in paragraph 815-10-15-59(e)(3) and (e)(4) do not apply. Therefore, the underlying qualifies for the scope exception in paragraph 815-10-15-59(e).
+**815-10-55-143N** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8The arrangement contains one underlying: the occurrence of regulatory approval. The occurrence of regulatory approval relates to the drug that Entity B is developing as part of its operations. The underlying is not based on a market rate, market price, market index, or the price or performance (including default) of a financial asset or financial liability of one of the parties to the contract as described in paragraph 815-10-15-59(e)(1) and (e)(2). Also, the exclusions related to contracts involving an entity’s own equity or call options and put options on debt instruments as described in paragraph 815-10-15-59(e)(3) and (e)(4) do not apply. Therefore, the underlying qualifies for the scope exception in paragraph 815-10-15-59(e).· · > Case H: Earnout Arrangement—Underlying Based on Earnings ActivityPENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8Entity A acquires a patent from Entity B. As part of the transaction, Entity A and Entity B enter into an earnout arrangement whereby Entity A will pay Entity B $3 for each $1 that earnings before interest, taxes, depreciation, and amortization (EBITDA) associated with the manufacturing and sale of products that rely on that patent is in excess of $1 million on the 1-year anniversary of the purchase date. If EBITDA associated with the manufacturing and sale of products using the patent does not exceed $1 million, Entity A does not owe Entity B any amounts under the earnout arrangement.
+**815-10-55-143O** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8Entity A acquires a patent from Entity B. As part of the transaction, Entity A and Entity B enter into an earnout arrangement whereby Entity A will pay Entity B $3 for each $1 that earnings before interest, taxes, depreciation, and amortization (EBITDA) associated with the manufacturing and sale of products that rely on that patent is in excess of $1 million on the 1-year anniversary of the purchase date. If EBITDA associated with the manufacturing and sale of products using the patent does not exceed $1 million, Entity A does not owe Entity B any amounts under the earnout arrangement.PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8The arrangement contains one underlying: an earnings measure (EBITDA) related to the manufacturing and sale of products that rely on the patent acquired by Entity A. The underlying is not based on a market rate, market price, market index, or the price or performance (including default) of a financial asset or financial liability of one of the parties to the contract as described in paragraph 815-10-15-59(e)(1) and (e)(2). Also, the exclusions related to contracts involving an entity’s own equity or call options and put options on debt instruments as described in paragraph 815-10-15-59(e)(3) and (e)(4) do not apply. Therefore, the underlying qualifies for the scope exception in paragraph 815-10-15-59(e).
+**815-10-55-143P** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8The arrangement contains one underlying: an earnings measure (EBITDA) related to the manufacturing and sale of products that rely on the patent acquired by Entity A. The underlying is not based on a market rate, market price, market index, or the price or performance (including default) of a financial asset or financial liability of one of the parties to the contract as described in paragraph 815-10-15-59(e)(1) and (e)(2). Also, the exclusions related to contracts involving an entity’s own equity or call options and put options on debt instruments as described in paragraph 815-10-15-59(e)(3) and (e)(4) do not apply. Therefore, the underlying qualifies for the scope exception in paragraph 815-10-15-59(e). · · > Case I: Variable Payment Arrangement—Underlying Based on Stock Price DifferentialPENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8Entity A acquires Entity B (which does not meet the definition of a business) in exchange for two million shares of Entity A’s common stock. As part of the acquisition agreement, Entity A agrees to pay cash to the sellers of Entity B if the quoted market price of Entity A’s common stock is less than $100 on the 1-year anniversary of the acquisition date. Specifically, if the quoted market price of Entity A’s common stock is less than $100 on the 1-year anniversary of the acquisition date, the total amount paid in cash to the sellers of Entity B is equal to $100 minus Entity A’s common stock price on the 1-year anniversary of the acquisition date multiplied by 2 million shares.
+**815-10-55-143Q** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8Entity A acquires Entity B (which does not meet the definition of a business) in exchange for two million shares of Entity A’s common stock. As part of the acquisition agreement, Entity A agrees to pay cash to the sellers of Entity B if the quoted market price of Entity A’s common stock is less than $100 on the 1-year anniversary of the acquisition date. Specifically, if the quoted market price of Entity A’s common stock is less than $100 on the 1-year anniversary of the acquisition date, the total amount paid in cash to the sellers of Entity B is equal to $100 minus Entity A’s common stock price on the 1-year anniversary of the acquisition date multiplied by 2 million shares.PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8The arrangement contains 1 underlying: the common stock price differential ($100 less Entity A’s common stock price at the 1-year anniversary of the acquisition date). The underlying is based on a market price as described in paragraph 815-10-15-59(e)(1). Therefore, the underlying does not qualify for the scope exception in paragraph 815-10-15-59(e).
+**815-10-55-143R** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8The arrangement contains 1 underlying: the common stock price differential ($100 less Entity A’s common stock price at the 1-year anniversary of the acquisition date). The underlying is based on a market price as described in paragraph 815-10-15-59(e)(1). Therefore, the underlying does not qualify for the scope exception in paragraph 815-10-15-59(e). · · > Case J: Credit Default Swap Arrangement—Underlying Based on the Occurrence of a Credit Event by the Reference Entity PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8Entity A holds a debt instrument issued by Entity C. Entity A separately enters into a credit default swap arrangement with Entity B to obtain credit protection on its debt investment in Entity C (the reference entity). As part of that arrangement, Entity A makes periodic premium payments to Entity B, and, in exchange, Entity B agrees to make a cash payment to Entity A if the reference entity defaults on the debt instrument.
+**815-10-55-143S** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8Entity A holds a debt instrument issued by Entity C. Entity A separately enters into a credit default swap arrangement with Entity B to obtain credit protection on its debt investment in Entity C (the reference entity). As part of that arrangement, Entity A makes periodic premium payments to Entity B, and, in exchange, Entity B agrees to make a cash payment to Entity A if the reference entity defaults on the debt instrument. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8The arrangement contains one underlying: the occurrence of an event of default by the reference entity. While the underlying is not based on a market rate, market price, or market index as described in paragraph 815-10-15-59(e)(1), the underlying is based on the price or performance (including default) of a financial asset of one of the parties to the contract (the debt instrument held by Entity A) as described in paragraph 815-10-15-59(e)(2). Therefore, the underlying does not qualify for the scope exception in paragraph 815-10-15-59(e).
+
 ##### · > Example 15: Contracts Involving an                Entity's Own Equity—Derivative Instrument Indexed to Both the Issuer's Equity Price                and a Foreign Currency Exchange Rate
 
-**815-10-55-144** Consequently, neither Entity A nor Entity B qualifies for the scope exception in paragraph 815-10-15-59(b). · · > Case A: Research and Development Funding Arrangement—Underlyings Based on the Occurrence of Regulatory Approval and Achieving an Earnings Target· · > Case B: Monetization Transaction—Underlyings Based on the Occurrence of Regulatory Approval and Achieving a Sales Target · · > Case C: Sustainability-Linked Bond—Underlying Based on the Failure to Meet a Greenhouse Gas Emissions Reduction Target· · > Case D: Litigation Funding Arrangement between Litigant and Funder—Underlying Based on the Occurrence of a Successful Litigation Outcome· · > Case E: Litigation Funding Arrangement between Law Firm and Funder—Underlying Based on the Occurrence of a Successful Litigation Outcome· · > Case F: Commodities-Based Arrangement—Underlying Based on a Market Price of Gold· · > Case G: Variable Payment Arrangement—Underlying Based on the Occurrence of Regulatory Approval· · > Case H: Earnout Arrangement—Underlying Based on Earnings Activity· · > Case I: Variable Payment Arrangement—Underlying Based on Stock Price Differential· · > Case J: Credit Default Swap Arrangement—Underlying Based on the Occurrence of a Credit Event by the Reference Entity
+**815-10-55-144** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:815-10-65-8The arrangement contains one underlying: the occurrence of an event of default by the reference entity. While the underlying is not based on a market rate, market price, or market index as described in paragraph 815-10-15-59(e)(1), the underlying is based on the price or performance (including default) of a financial asset of one of the parties to the contract (the debt instrument held by Entity A) as described in paragraph 815-10-15-59(e)(2). Therefore, the underlying does not qualify for the scope exception in paragraph 815-10-15-59(e).
 This Example illustrates the application of paragraph 815-10-15-74(a). Assume that Entity A, whose functional currency is the U.S. dollar (USD), and the Counterparty enter into a one-year forward contract that is indexed to Entity A's common share price translated into euros (EUR) at spot rates
 and that will be settled in net shares of Entity A. If the value of Entity A's common stock in EUR appreciates, then Entity A will receive from the Counterparty a number of shares of Entity A stock equal to the appreciation. If the value of Entity A's stock in EUR depreciates, then Entity A will pay Counterparty a number of shares of Entity A stock equal to the depreciation. Thus, the forward contract is indexed both to Entity A's common stock and the USD/EUR currency exchange rates.
 **815-10-55-144** This Example illustrates the application of paragraph 815-10-15-74(a). Assume that Entity A, whose functional currency is the U.S. dollar (USD), and the Counterparty enter into a one-year forward contract that is indexed to Entity A's common share price translated into euros (EUR) at spot rates
@@ -3023,8 +3584,8 @@ and that will be settled in net shares of Entity A. If the value of Entity A's c
 Assume further that Entity A's common stock price at inception is USD 100 per share, and the forward exchange rate of USD to EUR is 1:1.2. The strike price of the forward contract is then set at EUR 120. One year later, the share price of Entity A rises to USD 150, and the spot exchange rate of USD to EUR is 1:1. Then, the share price of Entity A translated is EUR 150. At settlement, Entity A will receive from the Counterparty 20 shares of its own common stock according to the following calculation: (EUR 150 - EUR 120) × 100 shares = EUR 3,000
 EUR 3,000 ÷ EUR 150 per share = 20 shares
 **815-10-55-145** Assume further that Entity A's common stock price at inception is USD 100 per share, and the forward exchange rate of USD to EUR is 1:1.2. The strike price of the forward contract is then set at EUR 120. One year later, the share price of Entity A rises to USD 150, and the spot exchange rate of USD to EUR is 1:1. Then, the share price of Entity A translated is EUR 150. At settlement, Entity A will receive from the Counterparty 20 shares of its own common stock according to the following calculation: (EUR 150 - EUR 120) × 100 shares = EUR 3,000
-**815-10-55-146** EUR 3,000 ÷ EUR 150 per share = 20 shares
-A forward contract that is indexed to both an entity's own stock and currency exchange rates should be accounted for as a derivative instrument in its entirety by both parties to the contract if the contract in its entirety meets the definition of a derivative instrument in paragraphs 815-10-15-83 through 15-139
+EUR 3,000 ÷ EUR 150 per share = 20 shares
+**815-10-55-146** A forward contract that is indexed to both an entity's own stock and currency exchange rates should be accounted for as a derivative instrument in its entirety by both parties to the contract if the contract in its entirety meets the definition of a derivative instrument in paragraphs 815-10-15-83 through 15-139
 .
 **815-10-55-146** A forward contract that is indexed to both an entity's own stock and currency exchange rates should be accounted for as a derivative instrument in its entirety by both parties to the contract if the contract in its entirety meets the definition of a derivative instrument in paragraphs 815-10-15-83 through 15-139
 **815-10-55-147** .
@@ -3159,15 +3720,22 @@ Entity C loans $100 to Entity B. The loan has a 5-year bullet maturity and an 8 
 **815-10-55-181** This Example illustrates the disclosure of objectives and strategies for using derivative instruments by underlying risk, including volume of activity (see paragraph 815-10-50-1A(d)). It also illustrates the hedge basis adjustment disclosures in paragraphs 815-10-50-4EE through 50-4EEE.The Entity is exposed to certain risks relating to its ongoing business operations. The primary risks managed by using derivative instruments are commodity price risk and interest rate risk. Forward contracts on various commodities are entered into to manage the price risk associated with forecasted purchases of materials used in the Entity's manufacturing process. Interest rate swaps are entered into to manage interest rate risk associated with fixed-rate loans issued by the Entity's financing subsidiary.
 FASB ASC 815-10 requires that an entity recognize all derivative instruments as either assets or liabilities at fair value in the statement of financial position. In accordance with that Subtopic, the Entity designates commodity forward contracts as cash flow hedges of forecasted purchases of commodities and interest rate swaps as fair value hedges of fixed-rate receivables. *Cash flow hedges*For derivative instruments that are designated and qualify as a cash flow hedge, the gain or loss on the derivative instrument is reported as a component of other comprehensive income and reclassified into earnings in the same period or periods during which the hedged transaction affects earnings and is presented in the same income statement line item as the earnings effect of the hedged item. Gains and losses on the derivative instrument representing hedge components excluded from the assessment of effectiveness are recognized currently in earnings and are presented in the same line of the income statement expected for the hedged item.As of December 31, 20X2, the Entity had the following outstanding commodity forward contracts that were entered into to hedge forecasted purchases:*Fair value hedges*For derivative instruments that are designated and qualify as a fair value hedge, the gain or loss on the derivative instrument as well as the offsetting loss or gain on the hedged item attributable to the hedged risk are recognized in current earnings. The Entity includes the gain or loss on the hedged items (that is, fixed-rate receivables) in the same line item—interest income—as the offsetting loss or gain on the related interest rate swaps.As of December 31, 20X2, and 20X1, the following amounts were recorded on the balance sheet related to cumulative basis adjustments for fair value hedges. As of December 31, 20X2, and 20X1, the total notional amount of the Entity's pay-fixed/receive-variable interest rate swaps was $79 and $82, respectively.
 **815-10-55-181** This Example illustrates the disclosure of objectives and strategies for using derivative instruments by underlying risk, including volume of activity (see paragraph 815-10-50-1A(d)). It also illustrates the hedge basis adjustment disclosures in paragraphs 815-10-50-4EE through 50-4EEE.The Entity is exposed to certain risks relating to its ongoing business operations. The primary risks managed by using derivative instruments are commodity price risk and interest rate risk. Forward contracts on various commodities are entered into to manage the price risk associated with forecasted purchases of materials used in the Entity's manufacturing process. Interest rate swaps are entered into to manage interest rate risk associated with fixed-rate loans issued by the Entity's financing subsidiary.
+FASB ASC 815-10 requires that an entity recognize all derivative instruments as either assets or liabilities at fair value in the statement of financial position. In accordance with that Subtopic, the Entity designates commodity forward contracts as cash flow hedges of forecasted purchases of commodities and interest rate swaps as fair value hedges of fixed-rate receivables.
+*Cash flow hedges*
+For derivative instruments that are designated and qualify as a cash flow hedge, the gain or loss on the derivative instrument is reported as a component of other comprehensive income and reclassified into earnings in the same period or periods during which the hedged transaction affects earnings and is presented in the same income statement line item as the earnings effect of the hedged item. Gains and losses on the derivative instrument representing hedge components excluded from the assessment of effectiveness are recognized currently in earnings and are presented in the same line of the income statement expected for the hedged item.
+As of December 31, 20X2, the Entity had the following outstanding commodity forward contracts that were entered into to hedge forecasted purchases:
+*Fair value hedges*
+For derivative instruments that are designated and qualify as a fair value hedge, the gain or loss on the derivative instrument as well as the offsetting loss or gain on the hedged item attributable to the hedged risk are recognized in current earnings. The Entity includes the gain or loss on the hedged items (that is, fixed-rate receivables) in the same line item—interest income—as the offsetting loss or gain on the related interest rate swaps.
+As of December 31, 20X2, and 20X1, the following amounts were recorded on the balance sheet related to cumulative basis adjustments for fair value hedges.
+As of December 31, 20X2, and 20X1, the total notional amount of the Entity's pay-fixed/receive-variable interest rate swaps was $79 and $82, respectively.
 
 ##### · > Example 21: Tabular Disclosures of                Derivative Instruments
 
-**815-10-55-182** FASB ASC 815-10 requires that an entity recognize all derivative instruments as either assets or liabilities at fair value in the statement of financial position. In accordance with that Subtopic, the Entity designates commodity forward contracts as cash flow hedges of forecasted purchases of commodities and interest rate swaps as fair value hedges of fixed-rate receivables. *Cash flow hedges*For derivative instruments that are designated and qualify as a cash flow hedge, the gain or loss on the derivative instrument is reported as a component of other comprehensive income and reclassified into earnings in the same period or periods during which the hedged transaction affects earnings and is presented in the same income statement line item as the earnings effect of the hedged item. Gains and losses on the derivative instrument representing hedge components excluded from the assessment of effectiveness are recognized currently in earnings and are presented in the same line of the income statement expected for the hedged item.As of December 31, 20X2, the Entity had the following outstanding commodity forward contracts that were entered into to hedge forecasted purchases:*Fair value hedges*For derivative instruments that are designated and qualify as a fair value hedge, the gain or loss on the derivative instrument as well as the offsetting loss or gain on the hedged item attributable to the hedged risk are recognized in current earnings. The Entity includes the gain or loss on the hedged items (that is, fixed-rate receivables) in the same line item—interest income—as the offsetting loss or gain on the related interest rate swaps.As of December 31, 20X2, and 20X1, the following amounts were recorded on the balance sheet related to cumulative basis adjustments for fair value hedges. As of December 31, 20X2, and 20X1, the total notional amount of the Entity's pay-fixed/receive-variable interest rate swaps was $79 and $82, respectively.
-This Example illustrates the disclosure in tabular format of fair value amounts of derivative instruments and gains and losses on derivative instruments as required by paragraphs 815-10-50-4A through 50-4E
+**815-10-55-182** This Example illustrates the disclosure in tabular format of fair value amounts of derivative instruments and gains and losses on derivative instruments as required by paragraphs 815-10-50-4A through 50-4E
 :
 **815-10-55-182** This Example illustrates the disclosure in tabular format of fair value amounts of derivative instruments and gains and losses on derivative instruments as required by paragraphs 815-10-50-4A through 50-4E
-**815-10-55-183** :
-The illustrative disclosure tables in the preceding paragraph provide quantitative information about derivative instruments. However, in many instances, the use of derivative instruments in an entity's risk management strategies represents only a portion of the instruments used for that purpose. As permitted in paragraph 815-10-50-4F, an entity can elect to disclose information about certain derivatives included in an entity's trading activities in separate disclosures outside the required tabular format. That paragraph states that, if that disclosure option is elected, the entity shall include a footnote in the required tables referencing the use of alternative disclosures for trading activities.
+:
+**815-10-55-183** The illustrative disclosure tables in the preceding paragraph provide quantitative information about derivative instruments. However, in many instances, the use of derivative instruments in an entity's risk management strategies represents only a portion of the instruments used for that purpose. As permitted in paragraph 815-10-50-4F, an entity can elect to disclose information about certain derivatives included in an entity's trading activities in separate disclosures outside the required tabular format. That paragraph states that, if that disclosure option is elected, the entity shall include a footnote in the required tables referencing the use of alternative disclosures for trading activities.
 **815-10-55-183** The illustrative disclosure tables in the preceding paragraph provide quantitative information about derivative instruments. However, in many instances, the use of derivative instruments in an entity's risk management strategies represents only a portion of the instruments used for that purpose. As permitted in paragraph 815-10-50-4F, an entity can elect to disclose information about certain derivatives included in an entity's trading activities in separate disclosures outside the required tabular format. That paragraph states that, if that disclosure option is elected, the entity shall include a footnote in the required tables referencing the use of alternative disclosures for trading activities.
 
 ##### · > Example 22: Tabular Disclosures of                Trading Derivatives
@@ -3180,10 +3748,11 @@ The illustrative disclosure tables in the preceding paragraph provide quantitati
 **815-10-55-185** This Example illustrates the disclosure of credit-risk-related contingent features in derivative instruments as required by paragraph 815-10-50-4H. *Contingent Features*
 Certain of the Entity's derivative instruments contain provisions that require the Entity's debt to maintain an investment grade credit rating from each of the major credit rating agencies. If the Entity's debt were to fall below investment grade, it would be in violation of these provisions, and the counterparties to the derivative instruments could request immediate payment or demand immediate and ongoing full overnight collateralization on derivative instruments in net liability positions. The aggregate fair value of all derivative instruments with credit-risk-related contingent features that are in a liability position on December 31, 2009, is $XX million for which the Entity has posted collateral of $X million in the normal course of business. If the credit-risk-related contingent features underlying these agreements were triggered on December 31, 2009, the Entity would be required to post an additional $XX million of collateral to its counterparties.
 **815-10-55-185** This Example illustrates the disclosure of credit-risk-related contingent features in derivative instruments as required by paragraph 815-10-50-4H. *Contingent Features*
+Certain of the Entity's derivative instruments contain provisions that require the Entity's debt to maintain an investment grade credit rating from each of the major credit rating agencies. If the Entity's debt were to fall below investment grade, it would be in violation of these provisions, and the counterparties to the derivative instruments could request immediate payment or demand immediate and ongoing full overnight collateralization on derivative instruments in net liability positions. The aggregate fair value of all derivative instruments with credit-risk-related contingent features that are in a liability position on December 31, 2009, is $XX million for which the Entity has posted collateral of $X million in the normal course of business. If the credit-risk-related contingent features underlying these agreements were triggered on December 31, 2009, the Entity would be required to post an additional $XX million of collateral to its counterparties.
 
 ## 60 Relationships
 
-> **General Note:** The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
+General Note:The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
 
 ### General
 
@@ -3202,11 +3771,12 @@ For an illustration of situations in which the price in a transaction
 
 ## 65 Transition and Open Effective Date Information
 
-> **General Note:** The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
+General Note:The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
 
 ### General
 
-**815-10-65-1** Paragraph superseded on 04/13/2010 after the end of the transition period stated in FASB Statement No. 161, *Disclosures about Derivative Instruments and Hedging Activities—an amendment of FASB Statement No. 133*.
+**815-10-65-1** Related Proposed ASUs
+Paragraph superseded on 04/13/2010 after the end of the transition period stated in FASB Statement No. 161, *Disclosures about Derivative Instruments and Hedging Activities—an amendment of FASB Statement No. 133*.
 **815-10-65-1** Paragraph superseded on 04/13/2010 after the end of the transition period stated in FASB Statement No. 161, *Disclosures about Derivative Instruments and Hedging Activities—an amendment of FASB Statement No. 133*.
 **815-10-65-2** Paragraph superseded on 03/23/2010 after the end of the transition period stated in FASB Staff Position No. FAS 133-1 and FIN 45-4, *Disclosures about Credit Derivatives and Certain Guarantees: An Amendment of FASB Statement No. 133 and FASB Interpretation No. 45; and Clarification of the Effective Date of FASB Statement No. 161*.
 **815-10-65-2** Paragraph superseded on 03/23/2010 after the end of the transition period stated in FASB Staff Position No. FAS 133-1 and FIN 45-4, *Disclosures about Credit Derivatives and Certain Guarantees: An Amendment of FASB Statement No. 133 and FASB Interpretation No. 45; and Clarification of the Effective Date of FASB Statement No. 161*.
@@ -3255,21 +3825,23 @@ The following represents the transition and effective date information related t
 
 **815-10-65-8** Accounting Standards Update 2025-07
 The following represents the transition and effective date information related to Accounting Standards Update No. 2025-07, *Derivatives and Hedging (Topic 815) and Revenue from Contracts with Customers (Topic 606): Derivatives Scope Refinements and Scope Clarification for Share-Based Noncash Consideration from a Customer in a Revenue Contract*:**Effective date and early adoption**
-1. All entities shall apply the pending content that links to this paragraph for annual reporting periods beginning after December 15, 2026, and interim reporting periods within those annual reporting periods.
+All entities shall apply the pending content that links to this paragraph for annual reporting periods beginning after December 15, 2026, and interim reporting periods within those annual reporting periods.
 2. Early adoption of the pending content that links to this paragraph is permitted in both interim and annual reporting periods in which financial statements have not yet been issued or made available for issuance. If an entity early adopts the pending content that links to this paragraph in an interim reporting period, it shall apply the pending content as of the beginning of the annual reporting period that includes that interim reporting period. If an entity early adopts the pending content that links to this paragraph, it also shall early adopt the pending content that links to paragraph 606-10-65-3 simultaneously.
 
+**Transition method**
 1. Prospectively to new contracts entered into on or after the date of adoption.
 2. On a modified retrospective basis through a cumulative-effect adjustment to the opening balance of retained earnings (or other appropriate components of equity or net assets in the statement of financial position) as of the beginning of the annual reporting period of adoption for contracts existing as of the beginning of the annual reporting period of adoption.
 
 3. If an entity applies the transition method in (c)(2) and the entity had contracts or embedded features that were accounted for as derivatives but are no longer accounted for as derivatives as a result of applying the pending content that links to this paragraph, the entity has an option as of the beginning of the annual reporting period for which the pending content is adopted to elect to apply the fair value option on an instrument-by-instrument basis and measure the contract in its entirety at fair value with changes in fair value recognized in earnings if that instrument is within the scope of paragraph 825-10-15-4. For financial liabilities, an entity shall present separately in accumulated other comprehensive income the portion of the total change in the fair value of the liability that results from a change in the instrument-specific credit risk. If an entity had previously elected the fair value option for contracts that contained embedded derivatives that otherwise would have been bifurcated but are no longer required to be bifurcated as a result of applying the pending content that links to this paragraph upon adoption, the entity has an option on an instrument-by-instrument basis to revoke the fair value option as of the beginning of the annual reporting period for which the pending content is adopted and measure the contract in accordance with other generally accepted accounting principles. For those instruments for which the entity elects or revokes its election of the fair value option, the effects of initially complying with the pending content that links to this paragraph shall be reported as a cumulative-effect adjustment directly to the opening balance of retained earnings (or other appropriate components of equity or net assets in the statement of financial position) as of the beginning of the annual reporting period in which the pending content is adopted.
 
+**Transition disclosures**
 1. An entity that applies the transition method in (c)(1) shall disclose the nature of and reason for the change in accounting principle in both the interim reporting period and the annual reporting period in which the entity adopts the pending content that links to this paragraph.
 1. The nature of and reason for the change in accounting principle
 2. The cumulative effect of the change on retained earnings or other components of equity or net assets in the statement of financial position as of the beginning of the annual reporting period of adoption and a description of the financial statement line items affected by the adjustment.
 
 ## S00 Status
 
-> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
 ### General
 
@@ -3299,7 +3871,7 @@ The following represents the transition and effective date information related t
 
 ## S30 Initial Measurement
 
-> **General Note:** The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
 
 ### General
 
@@ -3312,7 +3884,7 @@ See paragraph 815-10-S99-4, SEC Observer Comment: Accounting for Written Options
 
 ## S35 Subsequent Measurement
 
-> **General Note:** The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
 
 ### General
 
@@ -3322,7 +3894,7 @@ See paragraph 815-10-S99-4, SEC Observer Comment: Accounting for Written Options
 
 ## S45 Other Presentation Matters
 
-> **General Note:** The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
 
 ### General
 
@@ -3331,7 +3903,7 @@ See paragraph 815-10-S99-4, SEC Observer Comment: Accounting for Written Options
 
 ## S50 Disclosure
 
-> **General Note:** The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
 
 ### General
 
@@ -3341,7 +3913,7 @@ See paragraph 235-10-S99-1, Regulation S-X Rule 4-08(n), for disclosure requirem
 
 ## S55 Implementation Guidance and Illustrations
 
-> **General Note:** The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
 
 ### General
 
@@ -3350,7 +3922,7 @@ See paragraph 235-10-S99-1, Regulation S-X Rule 4-08(n), for disclosure requirem
 
 ## S99 SEC Materials
 
-> **General Note:** As more fully described in *About the Codification*, the Codification includes selected SEC and SEC Staff content for reference by public companies. The Codification does not replace or affect how the SEC or SEC Staff issues or updates SEC content. SEC Staff content does not constitute Commission-approved rules or interpretations of the SEC.
+General Note:As more fully described in *About the Codification*, the Codification includes selected SEC and SEC Staff content for reference by public companies. The Codification does not replace or affect how the SEC or SEC Staff issues or updates SEC content. SEC Staff content does not constitute Commission-approved rules or interpretations of the SEC.
 
 ### General
 
@@ -3360,8 +3932,14 @@ See paragraph 235-10-S99-1, Regulation S-X Rule 4-08(n), for disclosure requirem
 The following is the text of SAB Topic 5.DD, Written Loan Commitments Recorded at Fair Value through Earnings.Facts: Bank A enters into a loan commitment with a customer to originate a mortgage loan at a specified rate. As part of this written loan commitment, Bank A expects to receive future net cash flows related to servicing rights from servicing fees (included in the loan's interest rate or otherwise), late charges, and other ancillary sources, or from selling the servicing rights to a third party. If Bank A intends to sell the mortgage loan after it is funded, pursuant to FASB ASC paragraph 815-10-15-83 (Derivatives and Hedging Topic), the written loan commitment is accounted for as a derivative instrument and recorded at fair value through earnings (referred to hereafter as a "derivative loan commitment"). If Bank A does not intend to sell the mortgage loan after it is funded, the written loan commitment is not accounted for as a derivative under FASB ASC Subtopic 815-10, Derivatives and Hedging—Overall. However, FASB ASC subparagraph 825-10-15-4(c) (Financial Instruments Topic), permits Bank A to record the written loan commitment at fair value through earnings (referred to hereafter as a "written loan commitment"). Pursuant to FASB ASC Subtopic 825-10, Financial Instruments—Overall, the fair value measurement for a written loan commitment would include the expected net future cash flows related to the associated servicing of the loan.
 Question 1: In measuring the fair value of a derivative loan commitment accounted for under FASB ASC Subtopic 815-10, should Bank A include the expected net future cash flows related to the associated servicing of the loan? Interpretive Response: Yes. The staff believes that, consistent with FASB ASC Subtopic 860-50, Transfers and Servicing—Servicing Assets and Liabilities, FN60, and FASB ASC Subtopic 825-10, the expected net future cash flows related to the associated servicing of the loan should be included in the fair value measurement of a derivative loan commitment. The expected net future cash flows related to the associated servicing of the loan that are included in the fair value measurement of a derivative loan commitment or a written loan commitment should be determined in the same manner that the fair value of a recognized servicing asset or liability is measured under FASB ASC Subtopic 860-50. However, as discussed in FASB ASC paragraph 860-50-25-1, a separate and distinct servicing asset or liability is not recognized for accounting purposes until the servicing rights have been contractually separated from the underlying loan by sale or securitization of the loan with servicing retained. FN60 FASB ASC Subtopic 860-50 permits an entity to subsequently measure recognized servicing assets and servicing liabilities (which are nonfinancial instruments) at fair value through earnings. The views in Question 1 apply to all loan commitments that are accounted for at fair value through earnings. However, for purposes of electing fair value accounting pursuant to FASB ASC Subtopic 825-10, the views in Question 1 are not intended to be applied by analogy to any other instrument that contains a nonfinancial element. Question 2: In measuring the fair value of a derivative loan commitment accounted for under FASB ASC Subtopic 815-10 or a written loan commitment accounted for under FASB ASC Subtopic 825-10, should Bank A include the expected net future cash flows related to internally-developed intangible assets? Interpretive Response: No. The staff does not believe that internally-developed intangible assets (such as customer relationship intangible assets) should be recorded as part of the fair value of a derivative loan commitment or a written loan commitment. Such nonfinancial elements of value should not be considered a component of the related instrument. Recognition of such assets would only be appropriate in a third-party transaction. For example, in the purchase of a portfolio of derivative loan commitments in a business combination, a customer relationship intangible asset is recorded separately from the fair value of such loan commitments. Similarly, when an entity purchases a credit card portfolio, FASB ASC paragraph 310-10-25-7 (Receivables Topic) requires an allocation of the purchase price to a separately recorded cardholder relationship intangible asset. The view in Question 2 applies to all loan commitments that are accounted for at fair value through earnings.
 **815-10-S99-1** The following is the text of SAB Topic 5.DD, Written Loan Commitments Recorded at Fair Value through Earnings.Facts: Bank A enters into a loan commitment with a customer to originate a mortgage loan at a specified rate. As part of this written loan commitment, Bank A expects to receive future net cash flows related to servicing rights from servicing fees (included in the loan's interest rate or otherwise), late charges, and other ancillary sources, or from selling the servicing rights to a third party. If Bank A intends to sell the mortgage loan after it is funded, pursuant to FASB ASC paragraph 815-10-15-83 (Derivatives and Hedging Topic), the written loan commitment is accounted for as a derivative instrument and recorded at fair value through earnings (referred to hereafter as a "derivative loan commitment"). If Bank A does not intend to sell the mortgage loan after it is funded, the written loan commitment is not accounted for as a derivative under FASB ASC Subtopic 815-10, Derivatives and Hedging—Overall. However, FASB ASC subparagraph 825-10-15-4(c) (Financial Instruments Topic), permits Bank A to record the written loan commitment at fair value through earnings (referred to hereafter as a "written loan commitment"). Pursuant to FASB ASC Subtopic 825-10, Financial Instruments—Overall, the fair value measurement for a written loan commitment would include the expected net future cash flows related to the associated servicing of the loan.
-**815-10-S99-2** Question 1: In measuring the fair value of a derivative loan commitment accounted for under FASB ASC Subtopic 815-10, should Bank A include the expected net future cash flows related to the associated servicing of the loan? Interpretive Response: Yes. The staff believes that, consistent with FASB ASC Subtopic 860-50, Transfers and Servicing—Servicing Assets and Liabilities, FN60, and FASB ASC Subtopic 825-10, the expected net future cash flows related to the associated servicing of the loan should be included in the fair value measurement of a derivative loan commitment. The expected net future cash flows related to the associated servicing of the loan that are included in the fair value measurement of a derivative loan commitment or a written loan commitment should be determined in the same manner that the fair value of a recognized servicing asset or liability is measured under FASB ASC Subtopic 860-50. However, as discussed in FASB ASC paragraph 860-50-25-1, a separate and distinct servicing asset or liability is not recognized for accounting purposes until the servicing rights have been contractually separated from the underlying loan by sale or securitization of the loan with servicing retained. FN60 FASB ASC Subtopic 860-50 permits an entity to subsequently measure recognized servicing assets and servicing liabilities (which are nonfinancial instruments) at fair value through earnings. The views in Question 1 apply to all loan commitments that are accounted for at fair value through earnings. However, for purposes of electing fair value accounting pursuant to FASB ASC Subtopic 825-10, the views in Question 1 are not intended to be applied by analogy to any other instrument that contains a nonfinancial element. Question 2: In measuring the fair value of a derivative loan commitment accounted for under FASB ASC Subtopic 815-10 or a written loan commitment accounted for under FASB ASC Subtopic 825-10, should Bank A include the expected net future cash flows related to internally-developed intangible assets? Interpretive Response: No. The staff does not believe that internally-developed intangible assets (such as customer relationship intangible assets) should be recorded as part of the fair value of a derivative loan commitment or a written loan commitment. Such nonfinancial elements of value should not be considered a component of the related instrument. Recognition of such assets would only be appropriate in a third-party transaction. For example, in the purchase of a portfolio of derivative loan commitments in a business combination, a customer relationship intangible asset is recorded separately from the fair value of such loan commitments. Similarly, when an entity purchases a credit card portfolio, FASB ASC paragraph 310-10-25-7 (Receivables Topic) requires an allocation of the purchase price to a separately recorded cardholder relationship intangible asset. The view in Question 2 applies to all loan commitments that are accounted for at fair value through earnings.
-Paragraph superseded by Accounting Standards Update No. 2010-04.
+Question 1: In measuring the fair value of a derivative loan commitment accounted for under FASB ASC Subtopic 815-10, should Bank A include the expected net future cash flows related to the associated servicing of the loan?
+Interpretive Response: Yes. The staff believes that, consistent with FASB ASC Subtopic 860-50, Transfers and Servicing—Servicing Assets and Liabilities, FN60, and FASB ASC Subtopic 825-10, the expected net future cash flows related to the associated servicing of the loan should be included in the fair value measurement of a derivative loan commitment. The expected net future cash flows related to the associated servicing of the loan that are included in the fair value measurement of a derivative loan commitment or a written loan commitment should be determined in the same manner that the fair value of a recognized servicing asset or liability is measured under FASB ASC Subtopic 860-50. However, as discussed in FASB ASC paragraph 860-50-25-1, a separate and distinct servicing asset or liability is not recognized for accounting purposes until the servicing rights have been contractually separated from the underlying loan by sale or securitization of the loan with servicing retained.
+FN60 FASB ASC Subtopic 860-50 permits an entity to subsequently measure recognized servicing assets and servicing liabilities (which are nonfinancial instruments) at fair value through earnings.
+The views in Question 1 apply to all loan commitments that are accounted for at fair value through earnings. However, for purposes of electing fair value accounting pursuant to FASB ASC Subtopic 825-10, the views in Question 1 are not intended to be applied by analogy to any other instrument that contains a nonfinancial element.
+Question 2: In measuring the fair value of a derivative loan commitment accounted for under FASB ASC Subtopic 815-10 or a written loan commitment accounted for under FASB ASC Subtopic 825-10, should Bank A include the expected net future cash flows related to internally-developed intangible assets?
+Interpretive Response: No. The staff does not believe that internally-developed intangible assets (such as customer relationship intangible assets) should be recorded as part of the fair value of a derivative loan commitment or a written loan commitment. Such nonfinancial elements of value should not be considered a component of the related instrument. Recognition of such assets would only be appropriate in a third-party transaction. For example, in the purchase of a portfolio of derivative loan commitments in a business combination, a customer relationship intangible asset is recorded separately from the fair value of such loan commitments. Similarly, when an entity purchases a credit card portfolio, FASB ASC paragraph 310-10-25-7 (Receivables Topic) requires an allocation of the purchase price to a separately recorded cardholder relationship intangible asset.
+The view in Question 2 applies to all loan commitments that are accounted for at fair value through earnings.
+**815-10-S99-2** Paragraph superseded by Accounting Standards Update No. 2010-04.
 **815-10-S99-2** Paragraph superseded by Accounting Standards Update No. 2010-04.
 **815-10-S99-3** Paragraph superseded by Accounting Standards Update No. 2016-11.
 **815-10-S99-3** Paragraph superseded by Accounting Standards Update No. 2016-11.

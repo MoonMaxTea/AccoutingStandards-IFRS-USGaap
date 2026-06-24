@@ -13,7 +13,7 @@ subtopics: ["440-10"]
 
 ## 00 Status
 
-> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
 ### General
 
@@ -71,7 +71,7 @@ The following table identifies the changes made to this Subtopic.
 
 ## 05 Overview and Background
 
-> **General Note:** The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
 
 ### General
 
@@ -94,9 +94,9 @@ and throughput contracts.
 
 ## 15 Scope and Scope Exceptions
 
-> **General Note:** The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
 
-> **General Note:** General Note for Financial Instruments:Some of the items subject to the guidance in this Subtopic are financial instruments
+General Note for Financial Instruments:Some of the items subject to the guidance in this Subtopic are financial instruments
 
 ### General
 
@@ -122,7 +122,7 @@ Product financing arrangements, that are within the scope of Section 470-40-15. 
 
 ## 20 Glossary
 
-> **General Note:** The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
 
 ##### Contract
 
@@ -176,9 +176,9 @@ An asset that is the subject of a lease for which a right to use that asset has 
 
 ## 25 Recognition
 
-> **General Note:** The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
 
-> **General Note:** General Note for Fair Value Option:Some of the items subject to the guidance in this Subtopic may qualify for application of the Fair Value Option Subsections of Subtopic 825-10. Those Subsections (see paragraph 825-10-05-5) address circumstances in which entities may choose, at specified election dates, to measure eligible items at fair value (the fair value option). See Section 825-10-15 for guidance on the scope of the Fair Value Option Subsections of the Financial Instruments Topic.
+General Note for Fair Value Option:Some of the items subject to the guidance in this Subtopic may qualify for application of the Fair Value Option Subsections of Subtopic 825-10. Those Subsections (see paragraph 825-10-05-5) address circumstances in which entities may choose, at specified election dates, to measure eligible items at fair value (the fair value option). See Section 825-10-15 for guidance on the scope of the Fair Value Option Subsections of the Financial Instruments Topic.
 
 ### Unconditional Purchase Obligations
 
@@ -196,7 +196,7 @@ Pursuant to paragraphs 330-10-35-17 through 35-18
 
 ## 50 Disclosure
 
-> **General Note:** The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
 
 ### General
 
@@ -210,9 +210,29 @@ Unused letters of credit
 3. An obligation to maintain working capital
 4. An obligation to restrict dividends.
 
+1. Unused letters of credit
+2. Leases (see Section 842-20-50)
+3. Assets mortgaged, pledged , or otherwise subject to lien; the approximate amounts of those assets; and the related obligations collateralized
+4. Pension plans (see Section 715-20-50)
+5. The existence of cumulative preferred stock dividends in arrears
+1. A commitment for plant acquisition
+2. An obligation to reduce debts
+3. An obligation to maintain working capital
+4. An obligation to restrict dividends.
+
 Unused letters of credit
 2. Leases (see Section 842-20-50)
 3. Assets pledged as security for loans
+4. Pension plans (see Section 715-20-50)
+5. The existence of cumulative preferred stock dividends in arrears
+1. A commitment for plant acquisition
+2. An obligation to reduce debts
+3. An obligation to maintain working capital
+4. An obligation to restrict dividends.
+
+1. Unused letters of credit
+2. Leases (see Section 842-20-50)
+3. Assets mortgaged, pledged , or otherwise subject to lien; the approximate amounts of those assets; and the related obligations collateralized
 4. Pension plans (see Section 715-20-50)
 5. The existence of cumulative preferred stock dividends in arrears
 1. A commitment for plant acquisition
@@ -267,7 +287,7 @@ Paragraph 815-10-50-6 explains that, if an unconditional purchase obligation is 
 
 ## 55 Implementation Guidance and Illustrations
 
-> **General Note:** The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
 
 ### Unconditional Purchase Obligations
 
@@ -292,10 +312,11 @@ Entity A's unconditional obligation to pay a specified percentage of the plant's
 Entity A's disclosure might be as follows. To secure access to facilities to process chemical X, the entity has signed a processing agreement with a chemical supplier allowing the entity to submit 100,000 tons for processing annually for 20 years. Under the terms of the agreement, the entity may be required to advance funds against future processing charges if the chemical supplier is unable to meet its financial obligations. The aggregate amount of required payments at December 31, 19X1, is as follows (in thousands).
 In addition, the entity is required to pay a proportional share of the variable operating expenses of the plant. The entity's total processing charges under the agreement in each of the past 3 years have been $12 million.
 Entity A's disclosure might be as follows. To secure access to facilities to process chemical X, the entity has signed a processing agreement with a chemical supplier allowing the entity to submit 100,000 tons for processing annually for 20 years. Under the terms of the agreement, the entity may be required to advance funds against future processing charges if the chemical supplier is unable to meet its financial obligations. The aggregate amount of required payments at December 31, 19X1, is as follows (in thousands).
+In addition, the entity is required to pay a proportional share of the variable operating expenses of the plant. The entity's total processing charges under the agreement in each of the past 3 years have been $12 million.
 
 ## 60 Relationships
 
-> **General Note:** The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
+General Note:The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
 
 ### General
 
@@ -354,3 +375,4 @@ Paragraph superseded by Accounting Standards Update No. 2014-09.
 Paragraph superseded by Accounting Standards Update No. 2014-09.
 Paragraph superseded by Accounting Standards Update No. 2014-09.
 Paragraph superseded by Accounting Standards Update No. 2014-09.
+About Help Contact Us Copyright Terms and Conditions FASB.org Liabilities 440 Commitments Print keyboard_arrow_upDisplaykeyboard_arrow_up

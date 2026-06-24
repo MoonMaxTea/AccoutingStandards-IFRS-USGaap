@@ -14,7 +14,7 @@ key: true
 
 ## 00 Status
 
-> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
 ### General
 
@@ -273,7 +273,7 @@ key: true
 
 ## 05 Overview and Background
 
-> **General Note:** The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
 
 ### General
 
@@ -296,7 +296,7 @@ The Subtopics listed in paragraph 842-10-05-1 establish the requirements of fina
 
 ## 10 Objectives
 
-> **General Note:** The Objectives Section provides the high-level objectives that the Subtopic is intended to accomplish or attain. The Section does not summarize or discuss the main principles of accounting and reporting requirements.
+General Note:The Objectives Section provides the high-level objectives that the Subtopic is intended to accomplish or attain. The Section does not summarize or discuss the main principles of accounting and reporting requirements.
 
 ### General
 
@@ -310,11 +310,12 @@ The objective of this Topic is to establish the principles that lessees
 
 ## 15 Scope and Scope Exceptions
 
-> **General Note:** The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
 
 ### General
 
-**842-10-15-1** An entity shall apply this Topic to all leases
+**842-10-15-1** Related Proposed ASUs
+An entity shall apply this Topic to all leases
 1. Leases of intangible assets (see Topic 350, Intangibles—Goodwill and Other).
 2. Leases to explore for or use minerals, oil, natural gas, and similar nonregenerative resources (see Topics 930, Extractive Activities—Mining, and 932, Extractive Activities—Oil and Gas). This includes the intangible right to explore for those natural resources and rights to use the land in which those natural resources are contained (that is, unless those rights of use include more than the right to explore for natural resources), but not equipment used to explore for the natural resources.
 3. Leases of biological assets, including timber (see Topic 905, Agriculture).
@@ -576,7 +577,7 @@ that are within the scope of this Topic are not derivative instruments subject t
 
 ## 20 Glossary
 
-> **General Note:** The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
 
 ##### Acquiree
 
@@ -585,50 +586,59 @@ The business or businesses that the acquirer obtains control of in a business co
 
 ##### Acquirer
 
+The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:805-10-65-5The entity that obtains control of the acquiree.See paragraphs 805-10-25-4 through 25-5 for guidance on determining the acquirer.
+The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer.
+PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:805-10-65-5The entity that obtains control of the acquiree.See paragraphs 805-10-25-4 through 25-5
+
 ##### Acquisition by a Not-for-Profit Entity
 
-The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer. The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer. A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.
+for guidance on determining the acquirer.A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.
+A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.
 
 ##### Advance Refunding
 
-A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.A transaction involving the issuance of new debt to replace existing debt with the proceeds from the new debt placed in trust or otherwise restricted to retire the existing debt at a determinable future date or dates.
+A transaction involving the issuance of new debt to replace existing debt with the proceeds from the new debt placed in trust or otherwise restricted to retire the existing debt at a determinable future date or dates.
+A transaction involving the issuance of new debt to replace existing debt with the proceeds from the new debt placed in trust or otherwise restricted to retire the existing debt at a determinable future date or dates.
 
 ##### Business
 
-A transaction involving the issuance of new debt to replace existing debt with the proceeds from the new debt placed in trust or otherwise restricted to retire the existing debt at a determinable future date or dates. Paragraphs 805-10-55-3A through 55-6 and 805-10-55-8 through 55-9 define what is considered a business.
+Paragraphs 805-10-55-3A through 55-6 and 805-10-55-8 through 55-9 define what is considered a business.
+Paragraphs 805-10-55-3A through 55-6
 
 ##### Business Combination
 
-Paragraphs 805-10-55-3A through 55-6 and 805-10-55-8 through 55-9 define what is considered a business. A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
+and 805-10-55-8 through 55-9 define what is considered a business. A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
+A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
 
 ##### Commencement Date of the Lease        (Commencement Date)
 
-A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
 The date on which a lessor makes an underlying asset available for use by a lessee. See paragraphs 842-10-55-19 through 55-21
 for implementation guidance on the commencement date.
 The date on which a lessor makes an underlying asset available for use by a lessee. See paragraphs 842-10-55-19 through 55-21
+for implementation guidance on the commencement date.
 
 ##### Consideration in the                                Contract
 
-for implementation guidance on the commencement date.
 See paragraph 842-10-15-35 for what constitutes the consideration in the contract for lessees and paragraph 842-10-15-39 for what constitutes consideration in the contract for lessors.
 See paragraph 842-10-15-35 for what constitutes the consideration in the contract for lessees and paragraph 842-10-15-39 for what constitutes consideration in the contract for lessors.
 
 ##### Contract
 
 An agreement between two or more parties that creates enforceable rights and obligations.
+An agreement between two or more parties that creates enforceable rights and obligations.
 
 ##### Corporate Joint Venture
 
-An agreement between two or more parties that creates enforceable rights and obligations. A corporation owned and operated by a small group of entities (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a corporate joint venture frequently is to share risks and rewards in developing a new market, product or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A corporate joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a corporate joint venture. The ownership of a corporate joint venture seldom changes, and its stock is usually not traded publicly. A noncontrolling interest held by public ownership, however, does not preclude a corporation from being a corporate joint venture.
+A corporation owned and operated by a small group of entities (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a corporate joint venture frequently is to share risks and rewards in developing a new market, product or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A corporate joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a corporate joint venture. The ownership of a corporate joint venture seldom changes, and its stock is usually not traded publicly. A noncontrolling interest held by public ownership, however, does not preclude a corporation from being a corporate joint venture.
+A corporation owned and operated by a small group of entities (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a corporate joint venture frequently is to share risks and rewards in developing a new market, product or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A corporate joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a corporate joint venture. The ownership of a corporate joint venture seldom changes, and its stock is usually not traded publicly. A noncontrolling interest held by public ownership, however, does not preclude a corporation from being a corporate joint venture.
 
 ##### Direct Financing                Lease
 
-A corporation owned and operated by a small group of entities (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a corporate joint venture frequently is to share risks and rewards in developing a new market, product or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A corporate joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a corporate joint venture. The ownership of a corporate joint venture seldom changes, and its stock is usually not traded publicly. A noncontrolling interest held by public ownership, however, does not preclude a corporation from being a corporate joint venture. From the perspective of a lessor, a lease that meets none of the criteria in paragraph 842-10-25-2 but meets the criteria in paragraph 842-10-25-3(b)and is not an operating lease in accordance with paragraph 842-10-25-3A.
+From the perspective of a lessor, a lease that meets none of the criteria in paragraph 842-10-25-2 but meets the criteria in paragraph 842-10-25-3(b)and is not an operating lease in accordance with paragraph 842-10-25-3A.
+From the perspective of a lessor, a lease that meets none of the criteria in paragraph 842-10-25-2 but meets the criteria in paragraph 842-10-25-3(b)and is not an operating lease in accordance with paragraph 842-10-25-3A.
 
 ##### Direct Financing        Leases
 
-From the perspective of a lessor, a lease that meets none of the criteria in paragraph 842-10-25-2 but meets the criteria in paragraph 842-10-25-3(b)and is not an operating lease in accordance with paragraph 842-10-25-3A.
 Glossary term superseded by Accounting Standards Update No. 2016-02.
 Glossary term superseded by Accounting Standards Update No. 2016-02.
 
@@ -637,10 +647,10 @@ Glossary term superseded by Accounting Standards Update No. 2016-02.
 For a lessee, the discount rate for the lease is the rate implicit in the lease unless that rate cannot be readily determined. In that case, the lessee is required to use its incremental borrowing rate.
 For a lessor, the discount rate for the lease is the rate implicit in the lease.
 For a lessee, the discount rate for the lease is the rate implicit in the lease unless that rate cannot be readily determined. In that case, the lessee is required to use its incremental borrowing rate.
+For a lessor, the discount rate for the lease is the rate implicit in the lease.
 
 ##### Economic Life
 
-For a lessor, the discount rate for the lease is the rate implicit in the lease.
 Either the period over which an asset is expected to be economically usable by one or more users or the number of production or similar units expected to be obtained from an asset by one or more users.
 Either the period over which an asset is expected to be economically usable by one or more users or the number of production or similar units expected to be obtained from an asset by one or more users.
 
@@ -652,20 +662,20 @@ The date that a lease modification is approved by both the lessee and the lessor
 ##### Fair Value
 
 The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
 
 ##### Finance Lease
 
-The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
 From the perspective of a lessee, a lease that meets one or more of the criteria in paragraph 842-10-25-2.
 From the perspective of a lessee, a lease that meets one or more of the criteria in paragraph 842-10-25-2.
 
 ##### Fiscal Funding Clause
 
 A provision by which the lease is cancelable if the legislature or other funding authority does not appropriate the funds necessary for the governmental unit to fulfill its obligations under the lease agreement.
+A provision by which the lease is cancelable if the legislature or other funding authority does not appropriate the funds necessary for the governmental unit to fulfill its obligations under the lease agreement.
 
 ##### Incremental Borrowing        Rate
 
-A provision by which the lease is cancelable if the legislature or other funding authority does not appropriate the funds necessary for the governmental unit to fulfill its obligations under the lease agreement.
 The rate of interest that a lessee would have to pay to borrow on a collateralized basis over a similar term an amount equal to the lease payments in a similar economic environment.
 The rate of interest that a lessee would have to pay to borrow on a collateralized basis over a similar term an amount equal to the lease payments in a similar economic environment.
 
@@ -681,21 +691,24 @@ Incremental costs of a lease that would not have been incurred if the lease had 
 3. To be currently consumed in the production of goods or services to be available for sale.
 
 The term inventory embraces goods awaiting sale (the merchandise of a trading concern and the finished goods of a manufacturer), goods in the course of production (work in process), and goods to be consumed directly or indirectly in production (raw materials and supplies). This definition of inventories excludes long-term assets subject to depreciation accounting, or goods which, when put into use, will be so classified. The fact that a depreciable asset is retired from regular use and held for sale does not indicate that the item should be classified as part of the inventory. Raw materials and supplies purchased for production may be used or consumed for the construction of long-term assets or other purposes not related to production, but the fact that inventory items representing a small portion of the total may not be absorbed ultimately in the production process does not require separate classification. By trade practice, operating materials and supplies of certain types of entities such as oil producers are usually treated as inventory.
-1. Held for sale in the ordinary course of business
+Held for sale in the ordinary course of business
 2. In process of production for such sale
 3. To be currently consumed in the production of goods or services to be available for sale.
 
+The term inventory embraces goods awaiting sale (the merchandise of a trading concern and the finished goods of a manufacturer), goods in the course of production (work in process), and goods to be consumed directly or indirectly in production (raw materials and supplies). This definition of inventories excludes long-term assets subject to depreciation accounting, or goods which, when put into use, will be so classified. The fact that a depreciable asset is retired from regular use and held for sale does not indicate that the item should be classified as part of the inventory. Raw materials and supplies purchased for production may be used or consumed for the construction of long-term assets or other purposes not related to production, but the fact that inventory items representing a small portion of the total may not be absorbed ultimately in the production process does not require separate classification. By trade practice, operating materials and supplies of certain types of entities such as oil producers are usually treated as inventory.
+
 ##### Joint Venture
 
-The term inventory embraces goods awaiting sale (the merchandise of a trading concern and the finished goods of a manufacturer), goods in the course of production (work in process), and goods to be consumed directly or indirectly in production (raw materials and supplies). This definition of inventories excludes long-term assets subject to depreciation accounting, or goods which, when put into use, will be so classified. The fact that a depreciable asset is retired from regular use and held for sale does not indicate that the item should be classified as part of the inventory. Raw materials and supplies purchased for production may be used or consumed for the construction of long-term assets or other purposes not related to production, but the fact that inventory items representing a small portion of the total may not be absorbed ultimately in the production process does not require separate classification. By trade practice, operating materials and supplies of certain types of entities such as oil producers are usually treated as inventory. An entity owned and operated by a small group of businesses (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a joint venture frequently is to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a joint venture. The ownership of a joint venture seldom changes, and its equity interests usually are not traded publicly. A minority public ownership, however, does not preclude an entity from being a joint venture. As distinguished from a corporate joint venture, a joint venture is not limited to corporate entities.
+An entity owned and operated by a small group of businesses (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a joint venture frequently is to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a joint venture. The ownership of a joint venture seldom changes, and its equity interests usually are not traded publicly. A minority public ownership, however, does not preclude an entity from being a joint venture. As distinguished from a corporate joint venture, a joint venture is not limited to corporate entities.
+An entity owned and operated by a small group of businesses (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a joint venture frequently is to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a joint venture. The ownership of a joint venture seldom changes, and its equity interests usually are not traded publicly. A minority public ownership, however, does not preclude an entity from being a joint venture. As distinguished from a corporate joint venture, a joint venture is not limited to corporate entities.
 
 ##### Lease
 
-An entity owned and operated by a small group of businesses (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a joint venture frequently is to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a joint venture. The ownership of a joint venture seldom changes, and its equity interests usually are not traded publicly. A minority public ownership, however, does not preclude an entity from being a joint venture. As distinguished from a corporate joint venture, a joint venture is not limited to corporate entities. A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
+A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
+A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
 
 ##### Lease Liability
 
-A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
 A lessee's obligation to make the lease payments arising from a lease, measured on a discounted basis.
 A lessee's obligation to make the lease payments arising from a lease, measured on a discounted basis.
 
@@ -721,26 +734,26 @@ Periods covered by an option to extend the lease if the lessee is reasonably cer
 3. Periods covered by an option to extend (or not to terminate) the lease in which exercise of the option is controlled by the lessor.
 
 Periods covered by an option to extend the lease if the lessee is reasonably certain to exercise that option
-2. Periods covered by an option to terminate the lease if the lessee is reasonably certain not to exercise that option
+Periods covered by an option to terminate the lease if the lessee is reasonably certain not to exercise that option
 3. Periods covered by an option to extend (or not to terminate) the lease in which exercise of the option is controlled by the lessor.
 
 ##### Legal Entity
 
 Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts.
+Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts.
 
 ##### Lessee
 
-Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts.
 An entity that enters into a contract to obtain the right to use an underlying asset for a period of time in exchange for consideration.
 An entity that enters into a contract to obtain the right to use an underlying asset for a period of time in exchange for consideration.
 
 ##### Lessor
 
 An entity that enters into a contract to provide the right to use an underlying asset for a period of time in exchange for consideration.
+An entity that enters into a contract to provide the right to use an underlying asset for a period of time in exchange for consideration.
 
 ##### Leveraged                Lease
 
-An entity that enters into a contract to provide the right to use an underlying asset for a period of time in exchange for consideration.
 From the perspective of a lessor, a lease that was classified as a leveraged lease in accordance with the leases guidance in effect before the effective date and for which the commencement date is before the effective date.
 From the perspective of a lessor, a lease that was classified as a leveraged lease in accordance with the leases guidance in effect before the effective date and for which the commencement date is before the effective date.
 
@@ -751,7 +764,7 @@ From the perspective of a lessor, a lease that was classified as a leveraged lea
 3. They are able to enter into a transaction for the asset or liability
 4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
 
-1. They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
 2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
 3. They are able to enter into a transaction for the asset or liability
 4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
@@ -761,6 +774,7 @@ From the perspective of a lessor, a lease that was classified as a leveraged lea
 For a sales-type lease, the sum of the lease receivable and the unguaranteed residual asset.
 For a direct financing lease, the sum of the lease receivable and the unguaranteed residual asset, net of any deferred selling profit.
 For a sales-type lease, the sum of the lease receivable and the unguaranteed residual asset.
+For a direct financing lease, the sum of the lease receivable and the unguaranteed residual asset, net of any deferred selling profit.
 
 ##### Not-for-Profit Entity
 
@@ -771,11 +785,11 @@ For a sales-type lease, the sum of the lease receivable and the unguaranteed res
 1. All investor-owned entities
 2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
 
-1. Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
+Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
 2. Operating purposes other than to provide goods or services at a profit
 3. Absence of ownership interests like those of business entities.
 
-1. All investor-owned entities
+All investor-owned entities
 2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
 
 ##### Operating                Lease
@@ -783,14 +797,15 @@ For a sales-type lease, the sum of the lease receivable and the unguaranteed res
 From the perspective of a lessee, any lease other than a finance lease.
 From the perspective of a lessor, any lease other than a sales-type lease or a direct financing lease.
 From the perspective of a lessee, any lease other than a finance lease.
+From the perspective of a lessor, any lease other than a sales-type lease or a direct financing lease.
 
 ##### Orderly Transaction
 
-From the perspective of a lessor, any lease other than a sales-type lease or a direct financing lease. A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
 
 ##### Penalty
 
-A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
 Disburse cash
 2. Incur or assume a liability
 3. Perform services
@@ -802,7 +817,7 @@ Disburse cash
 6. The ability or willingness of the lessee to bear the cost associated with relocation or replacement of the underlying asset at market rental rates or to tolerate other parties using the underlying asset.
 
 Disburse cash
-2. Incur or assume a liability
+Incur or assume a liability
 3. Perform services
 1. The uniqueness of purpose or location of the underlying asset
 2. The availability of a comparable replacement asset
@@ -819,6 +834,7 @@ The total period of time that an asset is used to fulfill a contract with a cust
 ##### Probable
 
 The future event or events are likely to occur.
+The future event or events are likely to occur.
 
 ##### Public Business Entity
 
@@ -829,7 +845,7 @@ The future event or events are likely to occur.
 5. It has one or more securities that are not subject to contractual restrictions on transfer, and it is required by law, contract, or regulation to prepare U.S. GAAP financial statements (including notes) and make them publicly available on a periodic basis (for example, interim or annual periods). An entity must meet both of these conditions to meet this criterion.
 
 An entity may meet the definition of a public business entity solely because its financial statements or financial information is included in another entity's filing with the SEC. In that case, the entity is only a public business entity for purposes of financial statements that are filed or furnished with the SEC.
-1. It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing).
+It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing).
 2. It is required by the Securities Exchange Act of 1934 (the Act), as amended, or rules or regulations promulgated under the Act, to file or furnish financial statements with a regulatory agency other than the SEC.
 3. It is required to file or furnish financial statements with a foreign or domestic regulatory agency in preparation for the sale of or for purposes of issuing securities that are not subject to contractual restrictions on transfer.
 4. It has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market.
@@ -851,7 +867,7 @@ The rate of interest that, at a given date, causes the aggregate present value o
 6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
 7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
 
-1. Affiliates of the entity
+Affiliates of the entity
 2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
 3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
 4. Principal owners of the entity and members of their immediate families
@@ -862,10 +878,10 @@ The rate of interest that, at a given date, causes the aggregate present value o
 ##### Remote
 
 The chance of the future event or events occurring is slight.
+The chance of the future event or events occurring is slight.
 
 ##### Residual Value                Guarantee
 
-The chance of the future event or events occurring is slight.
 A guarantee made to a lessor that the value of an underlying asset returned to the lessor at the end of a lease will be at least a specified amount.
 A guarantee made to a lessor that the value of an underlying asset returned to the lessor at the end of a lease will be at least a specified amount.
 
@@ -877,6 +893,7 @@ An asset that represents a lessee's right to use an underlying asset for the lea
 ##### Sales-Type                Lease
 
 From the perspective of a lessor, a lease that meets one or more of the criteria in paragraph 842-10-25-2 and is not an operating lease in accordance with paragraph 842-10-25-3A.
+From the perspective of a lessor, a lease that meets one or more of the criteria in paragraph 842-10-25-2 and is not an operating lease in accordance with paragraph 842-10-25-3A.
 
 ##### Security
 
@@ -884,7 +901,7 @@ From the perspective of a lessor, a lease that meets one or more of the criteria
 2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
 3. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
 
-1. It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
+It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
 2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
 3. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
 
@@ -895,7 +912,7 @@ The fair value of the underlying asset or the sum of (1) the lease receivable an
 3. Any deferred initial direct costs of the lessor.
 
 The fair value of the underlying asset or the sum of (1) the lease receivable and (2) any lease payments prepaid by the lessee, if lower; minus
-2. The carrying amount of the underlying asset net of any unguaranteed residual asset; minus
+The carrying amount of the underlying asset net of any unguaranteed residual asset; minus
 3. Any deferred initial direct costs of the lessor.
 
 ##### Short-Term Lease
@@ -926,24 +943,25 @@ The amount that a lessor expects to derive from the underlying asset following t
 ##### Variable Interest Entity
 
 A legal entity subject to consolidation according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
+A legal entity subject to consolidation according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
 
 ##### Variable Lease        Payments
 
-A legal entity subject to consolidation according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
 Payments made by a lessee to a lessor for the right to use an underlying asset that vary because of changes in facts or circumstances occurring after the commencement date, other than the passage of time.
 Payments made by a lessee to a lessor for the right to use an underlying asset that vary because of changes in facts or circumstances occurring after the commencement date, other than the passage of time.
 
 ##### Warranty
 
 A guarantee for which the underlying is related to the performance (regarding function, not price) of nonfinancial assets that are owned by the guaranteed party. The obligation may be incurred in connection with the sale of goods or services; if so, it may require further performance by the seller after the sale has taken place.
+A guarantee for which the underlying is related to the performance (regarding function, not price) of nonfinancial assets that are owned by the guaranteed party. The obligation may be incurred in connection with the sale of goods or services; if so, it may require further performance by the seller after the sale has taken place.
 
 ## 25 Recognition
 
-> **General Note:** The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
 
 ### General
 
-**842-10-25-1** > Lease Classification
+**842-10-25-1** Related Proposed ASUs > Lease Classification
 An entity shall classify each separate lease
 component at the commencement date. An entity shall not reassess the lease classification after the commencement date unless the contract is modified and the modification is not accounted for as a separate contract in accordance with paragraph 842-10-25-8. In addition, a lessee also shall reassess the lease classification after the commencement date if there is a change in the lease term or the assessment of whether the lessee is reasonably certain to exercise an option to purchase the underlying asset. When an entity (that is, a lessee or lessor) is required to reassess lease classification, the entity shall reassess classification of the lease on the basis of the facts and circumstances (and the modified terms and conditions, if applicable) as of the date the reassessment is required (for example, on the basis of the fair value and the remaining economic life of the underlying asset as of the date there is a change in the lease term or in the assessment of a lessee option to purchase the underlying asset or as of the effective date of a modification not accounted for as a separate contract in accordance with paragraph 842-10-25-8).
 **842-10-25-1** An entity shall classify each separate lease
@@ -1074,7 +1092,7 @@ An entity shall combine two or more contracts
 
 ## 30 Initial Measurement
 
-> **General Note:** The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
 
 ### General
 
@@ -1154,11 +1172,11 @@ Initial direct costs
 
 ## 35 Subsequent Measurement
 
-> **General Note:** The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
 
 ### General
 
-**842-10-35-1** > Lease Term and Purchase Options
+**842-10-35-1** Related Proposed ASUs > Lease Term and Purchase Options
 A lessee
 1. There is a significant event or a significant change in circumstances that is within the control of the lessee that directly affects whether the lessee is reasonably certain to exercise or not to exercise an option to extend or terminate the lease or to purchase the underlying asset.
 2. There is an event that is written into the contract that obliges the lessee to exercise (or not to exercise) an option to extend or terminate the lease.
@@ -1201,21 +1219,21 @@ A lessor
 
 ## 55 Implementation Guidance and Illustrations
 
-> **General Note:** The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
 
 ### General
 
 ##### · > Identifying a Lease
 
-**842-10-55-1** > Implementation Guidance
+**842-10-55-1** Related Proposed ASUs > Implementation Guidance
 The following flowchart depicts the decision process to follow in identifying whether a contract
 is or contains a lease. The flowchart does not include all of the guidance on identifying a lease in this Subtopic and is not intended as a substitute for the guidance on identifying a lease in this Subtopic.
 **842-10-55-1** The following flowchart depicts the decision process to follow in identifying whether a contract
+is or contains a lease. The flowchart does not include all of the guidance on identifying a lease in this Subtopic and is not intended as a substitute for the guidance on identifying a lease in this Subtopic.
 
 ##### · > Lease Classification
 
-**842-10-55-2** is or contains a lease. The flowchart does not include all of the guidance on identifying a lease in this Subtopic and is not intended as a substitute for the guidance on identifying a lease in this Subtopic.
-When determining lease
+**842-10-55-2** When determining lease
 1. Seventy-five percent or more of the remaining economic life of the underlying asset is a major part of the remaining economic life of that underlying asset.
 2. A commencement date that falls at or near the end of the economic life of the underlying asset refers to a commencement date that falls within the last 25 percent of the total economic life of the underlying asset.
 3. Ninety percent or more of the fair value of the underlying asset amounts to substantially all the fair value of the underlying asset.
@@ -1253,9 +1271,9 @@ Residual value guarantees of a portfolio of underlying assets preclude a lessor 
 **842-10-55-10** Residual value guarantees of a portfolio of underlying assets preclude a lessor from determining the amount of the guaranteed residual value of any individual underlying asset within the portfolio. Consequently, no such amounts should be considered when evaluating the lease classification criteria in paragraphs 842-10-25-2(d) and 842-10-25-3(b)(1).
 **842-10-55-11** · · > Lease of an Acquiree
 In a business combination
-**842-10-55-11** or an acquisition by a not-for-profit entity, the acquiring entity should retain the previous lease classification in accordance with this Subtopic unless there is a lease modification and that modification is not accounted for as a separate contract in accordance with paragraph 842-10-25-8.
-In a business combination
-**842-10-55-12** or an acquisition by a not-for-profit entity, the acquiring entity should retain the previous lease classification in accordance with this Subtopic unless there is a lease modification and that modification is not accounted for as a separate contract in accordance with paragraph 842-10-25-8. · · > Lease of a Related Party
+or an acquisition by a not-for-profit entity, the acquiring entity should retain the previous lease classification in accordance with this Subtopic unless there is a lease modification and that modification is not accounted for as a separate contract in accordance with paragraph 842-10-25-8. PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1In a business combination or an acquisition by a not-for-profit entity, the acquiring entity should retain the previous lease classification in accordance with this Subtopic unless there is a lease modification and that modification is not accounted for as a separate contract in accordance with paragraph 842-10-25-8. A joint venture formation accounted for in accordance with Subtopic 805-60 should apply the guidance in this paragraph applicable to the acquiring entity in a business combination. The joint venture should be viewed as analogous to the acquiring entity in a business combination, and any recognized businesses and/or assets should be viewed as analogous to an acquiree.
+**842-10-55-11** In a business combination
+**842-10-55-12** or an acquisition by a not-for-profit entity, the acquiring entity should retain the previous lease classification in accordance with this Subtopic unless there is a lease modification and that modification is not accounted for as a separate contract in accordance with paragraph 842-10-25-8. PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1In a business combination or an acquisition by a not-for-profit entity, the acquiring entity should retain the previous lease classification in accordance with this Subtopic unless there is a lease modification and that modification is not accounted for as a separate contract in accordance with paragraph 842-10-25-8. A joint venture formation accounted for in accordance with Subtopic 805-60 should apply the guidance in this paragraph applicable to the acquiring entity in a business combination. The joint venture should be viewed as analogous to the acquiring entity in a business combination, and any recognized businesses and/or assets should be viewed as analogous to an acquiree.· · > Lease of a Related Party
 Except for leases
 between entities under common control accounted for in accordance with the practical expedient in paragraph 842-10-15-3A, leases between related parties should be classified in accordance with the lease classification criteria applicable to all other leases on the basis of the legally enforceable terms and conditions of the lease. Additionally, except for leases between entities under common control accounted for in accordance with paragraph 842-10-15-3A, the classification and accounting for the leases should be the same as for leases between unrelated parties in the separate financial statements of the related parties.
 **842-10-55-12** Except for leases
@@ -1737,8 +1755,8 @@ Lessee would account for the potential variable payments consistent with Case A.
 **842-10-55-155** In contrast to Case A, Lessor concludes that the variable payments relate specifically to an outcome from Lessor's performance of its maintenance services. Therefore, Lessor evaluates the variable payments in accordance with the variable consideration guidance in paragraphs 606-10-32-5 through 32-13
 . If Lessor estimates, using the most likely amount method, that it will be entitled to receive the $21,000 in variable payments and that it is probable that including that amount in the transaction price for the maintenance services would not result in a significant revenue reversal when the uncertainty of the performance bonus is resolved, the $21,000 would be included in the consideration in the contract. Because allocating the $21,000 entirely to the maintenance services would not result in an allocation that is consistent with the allocation objective in paragraph 606-10-32-28 (that is, it would result in allocating $61,909 to the maintenance services and the remainder to the equipment lease, which would not reasonably depict the consideration to which Lessor expects to be entitled for each component), the entire consideration in the contract of $321,000 is allocated on a relative standalone price basis as follows.
 **842-10-55-155** In contrast to Case A, Lessor concludes that the variable payments relate specifically to an outcome from Lessor's performance of its maintenance services. Therefore, Lessor evaluates the variable payments in accordance with the variable consideration guidance in paragraphs 606-10-32-5 through 32-13
-**842-10-55-156** . If Lessor estimates, using the most likely amount method, that it will be entitled to receive the $21,000 in variable payments and that it is probable that including that amount in the transaction price for the maintenance services would not result in a significant revenue reversal when the uncertainty of the performance bonus is resolved, the $21,000 would be included in the consideration in the contract. Because allocating the $21,000 entirely to the maintenance services would not result in an allocation that is consistent with the allocation objective in paragraph 606-10-32-28 (that is, it would result in allocating $61,909 to the maintenance services and the remainder to the equipment lease, which would not reasonably depict the consideration to which Lessor expects to be entitled for each component), the entire consideration in the contract of $321,000 is allocated on a relative standalone price basis as follows.
-The $277,227 allocated to the equipment lease is the lease payment in accounting for the lease in accordance with Subtopic 842-30. Lessor will recognize the consideration in the contract allocated to the maintenance services in accordance with the guidance on the satisfaction of performance obligations in paragraphs 606-10-25-23 through 25-37
+. If Lessor estimates, using the most likely amount method, that it will be entitled to receive the $21,000 in variable payments and that it is probable that including that amount in the transaction price for the maintenance services would not result in a significant revenue reversal when the uncertainty of the performance bonus is resolved, the $21,000 would be included in the consideration in the contract. Because allocating the $21,000 entirely to the maintenance services would not result in an allocation that is consistent with the allocation objective in paragraph 606-10-32-28 (that is, it would result in allocating $61,909 to the maintenance services and the remainder to the equipment lease, which would not reasonably depict the consideration to which Lessor expects to be entitled for each component), the entire consideration in the contract of $321,000 is allocated on a relative standalone price basis as follows.
+**842-10-55-156** The $277,227 allocated to the equipment lease is the lease payment in accounting for the lease in accordance with Subtopic 842-30. Lessor will recognize the consideration in the contract allocated to the maintenance services in accordance with the guidance on the satisfaction of performance obligations in paragraphs 606-10-25-23 through 25-37
 . If the consideration in the contract changes (for example, because Lessor no longer estimates that it will receive the full $21,000 in potential variable payments), Lessor will allocate the change in the transaction price on the same basis as was initially done.
 **842-10-55-156** The $277,227 allocated to the equipment lease is the lease payment in accounting for the lease in accordance with Subtopic 842-30. Lessor will recognize the consideration in the contract allocated to the maintenance services in accordance with the guidance on the satisfaction of performance obligations in paragraphs 606-10-25-23 through 25-37
 **842-10-55-157** . If the consideration in the contract changes (for example, because Lessor no longer estimates that it will receive the full $21,000 in potential variable payments), Lessor will allocate the change in the transaction price on the same basis as was initially done.· · · > Case C—Allocating Variable Payments Entirely to a Nonlease Component
@@ -2027,11 +2045,11 @@ The effective date of the guidance in this Topic for Lessee is January 1, 20X4. 
 
 ## 65 Transition and Open Effective Date Information
 
-> **General Note:** The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
+General Note:The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
 
 ### General
 
-**842-10-65-1** > Transition Related to Accounting Standards Updates No. 2016-02, *Leases (Topic 842)*, No. 2018-01, *Leases (Topic 842): Land Easement Practical Expedient for Transition to Topic 842,* No. 2018-10, *Codification Improvements to Topic 842, Leases,* No. 2018-11, *Leases (Topic 842): Targeted Improvements,* No. 2018-20, *Leases (Topic 842): Narrow-Scope Improvements for Lessors,* No. 2019-01, *Leases (Topic 842): Codification Improvements*, No. 2019-10, *Financial Instruments—Credit Losses (Topic 326), Derivatives and Hedging (Topic 815), Leases (Topic 842): Effective Dates*, No. 2020-05, *Revenue from Contracts with Customers (Topic 606) and Leases (Topic 842): Effective Dates for Certain Entities*, No. 2021-05, *Leases (Topic 842): Lessors—Certain Leases with Variable Lease Payments*, No. 2021-09, *Leases (Topic 842): Discount Rate for Lessees That Are Not Public Business Entities*, and No. 2023-01, *Leases (Topic 842): Common Control Arrangements*
+**842-10-65-1** Related Proposed ASUs > Transition Related to Accounting Standards Updates No. 2016-02, *Leases (Topic 842)*, No. 2018-01, *Leases (Topic 842): Land Easement Practical Expedient for Transition to Topic 842,* No. 2018-10, *Codification Improvements to Topic 842, Leases,* No. 2018-11, *Leases (Topic 842): Targeted Improvements,* No. 2018-20, *Leases (Topic 842): Narrow-Scope Improvements for Lessors,* No. 2019-01, *Leases (Topic 842): Codification Improvements*, No. 2019-10, *Financial Instruments—Credit Losses (Topic 326), Derivatives and Hedging (Topic 815), Leases (Topic 842): Effective Dates*, No. 2020-05, *Revenue from Contracts with Customers (Topic 606) and Leases (Topic 842): Effective Dates for Certain Entities*, No. 2021-05, *Leases (Topic 842): Lessors—Certain Leases with Variable Lease Payments*, No. 2021-09, *Leases (Topic 842): Discount Rate for Lessees That Are Not Public Business Entities*, and No. 2023-01, *Leases (Topic 842): Common Control Arrangements*
 A public business entity
 1. , a not-for-profit entity that has issued or is a conduit bond obligor for securities that are traded, listed, or quoted on an exchange or an over-the-counter market (with an exception for those entities that have not yet issued their financial statements or made financial statements available for issuance as described in the following sentence), and an employee benefit plan that files or furnishes financial statements with or to the U.S. Securities and Exchange Commission shall apply the pending content that links to this paragraph for financial statements issued for fiscal years beginning after December 15, 2018, and interim periods within those fiscal years. A not-for-profit entity that has issued or is a conduit bond obligor for securities that are traded, listed, or quoted on an exchange or an over-the-counter market that has not yet issued financial statements or made financial statements available for issuance as of June 3, 2020 shall apply the pending content that links to this paragraph for fiscal years beginning after December 15, 2019, and interim periods within those fiscal years. Earlier application is permitted.
 2. All other entities shall apply the pending content that links to this paragraph for financial statements issued for fiscal years beginning after December 15, 2021, and interim periods within fiscal years beginning after December 15, 2022. Earlier application is permitted.
@@ -2137,6 +2155,8 @@ A public business entity
 3. An entity shall adjust equity and, if the entity elects the transition method in (c)(1), the other comparative amounts disclosed for each prior period presented in the financial statements, as if the pending content that links to this paragraph had always been applied, subject to the requirements in (e) through (gg).
 4. If a lessee elects not to apply the recognition and measurement requirements in the pending content that links to this paragraph to short-term leases, the lessee shall not apply the approach described in (k) through (t) to short-term leases.
 
+See Examples 28 through 29 (paragraphs 842-10-55-243 through 55-254
+) for illustrations of the transition requirements for an entity that applies the pending content that links to this paragraph in accordance with (c)(1).**Practical expedients**
 1. An entity need not reassess whether any expired or existing contracts are or contain leases.
 2. An entity need not reassess the lease classification for any expired or existing leases (for example, all existing leases that were classified as operating leases in accordance with Topic 840 will be classified as operating leases, and all existing leases that were classified as capital leases in accordance with Topic 840 will be classified as finance leases).
 3. An entity need not reassess initial direct costs for any existing leases.
@@ -2144,14 +2164,18 @@ A public business entity
 4. An entity also may elect a practical expedient, which must be applied consistently by an entity to all of its leases (including those for which the entity is a lessee or a lessor) to use hindsight in determining the lease term (that is, when considering lessee options to extend or terminate the lease and to purchase the underlying asset) and in assessing impairment of the entity's right-of-use assets. This practical expedient may be elected separately or in conjunction with either one or both of the practical expedients in (f) and (gg).
 5. An entity also may elect a practical expedient to not assess whether existing or expired land easements that were not previously accounted for as leases under Topic 840 are or contain a lease under this Topic. For purposes of (gg), a land easement (also commonly referred to as a right of way) refers to a right to use, access, or cross another entity's land for a specified purpose. This practical expedient shall be applied consistently by an entity to all its existing and expired land easements that were not previously accounted for as leases under Topic 840. This practical expedient may be elected separately or in conjunction with either one or both of the practical expedients in (f) and (g). An entity that elects this practical expedient for existing or expired land easements shall apply the pending content that links to this paragraph to land easements entered into (or modified) on or after the date that the entity first applies the pending content that links to this paragraph as described in (a) and (b). An entity that previously accounted for existing or expired land easements as leases under Topic 840 shall not be eligible for this practical expedient for those land easements.
 
+**Amounts previously recognized in respect of business combinations**
 1. Derecognize that asset and liability (except for those arising from leases that are classified as operating leases in accordance with Topic 842 for which the entity is a lessor).
 2. Adjust the carrying amount of the right-of-use asset by a corresponding amount if the entity is a lessee.
 3. Make a corresponding adjustment to equity if assets or liabilities arise from leases that are classified as sales-type leases or direct financing leases in accordance with Topic 842 for which the entity is a lessor. Also see (w).
 
+**Disclosure**
 2. **Note:** See paragraph 250-10-S99-6 on disclosure of the impact that recently issued accounting standards will have on the financial statements of a registrant.
 3. If an entity uses one or more of the practical expedients in (f), (g), and (gg), it shall disclose that fact.
 4. An entity electing the transition method in (c)(2) shall provide the required Topic 840 disclosures for all periods that continue to be in accordance with Topic 840.
 
+**Lessees**
+**Leases previously classified as operating leases under Topic 840**
 1. A lessee shall initially recognize a right-of-use asset and a lease liability at the application date as determined in (c).
 1. The remaining minimum rental payments (as defined under Topic 840).
 2. Any amounts probable of being owed by the lessee under a residual value guarantee.
@@ -2164,6 +2188,7 @@ A public business entity
 5. If a lessee does not elect the practical expedients described in (f), any unamortized initial direct costs that do not meet the definition of initial direct costs in this Topic shall be written off as an adjustment to equity unless the entity elects the transition method in (c)(1) and the costs were incurred after the beginning of the earliest period presented, in which case those costs shall be written off as an adjustment to earnings in the period the costs were incurred.
 6. If a modification to the contractual terms and conditions occurs on or after the effective date, and the modification does not result in a separate contract in accordance with paragraph 842-10-25-8, or the lessee is required to remeasure the lease liability for any reason (see paragraphs 842-20-35-4 through 35-5), the lessee shall follow the requirements in this Topic from the effective date of the modification or the remeasurement date.
 
+**Leases previously classified as capital leases under Topic 840**
 1. Recognize a right-of-use asset and a lease liability at the carrying amount of the lease asset and the capital lease obligation in accordance with Topic 840 at the application date as determined in (c).
 2. Include any unamortized initial direct costs that meet the definition of initial direct costs in this Topic in the measurement of the right-of-use asset established in (r)(1).
 3. If a lessee does not elect the practical expedients described in (f), write off any unamortized initial direct costs that do not meet the definition of initial direct costs in this Topic and that are not included in the measurement of the capital lease asset under Topic 840 as an adjustment to equity unless the entity elects the transition method in (c)(1) and the costs were incurred after the beginning of the earliest period presented, in which case those costs shall be written off as an adjustment to earnings in the period the costs were incurred.
@@ -2179,6 +2204,7 @@ A public business entity
 
 6. If a modification to the contractual terms and conditions occurs on or after the effective date, and the modification does not result in a separate contract in accordance with paragraph 842-10-25-8, or the lessee is required to remeasure the lease liability in accordance with paragraph 842-20-35-4, the lessee shall subsequently account for the lease in accordance with the requirements in this Topic beginning on the effective date of the modification or the remeasurement date.
 
+**Build-to-suit lease arrangements**
 1. If an entity elects the transition method in (c)(1), the entity shall derecognize those assets and liabilities at the later of the beginning of the earliest comparative period presented in the financial statements and the date that the lessee is determined to be the accounting owner of the asset in accordance with Topic 840.
 2. If an entity elects the transition method in (c)(2), the entity shall derecognize those assets and liabilities at the beginning of the reporting period in which the entity first applies the pending content that links to this paragraph.
 3. Any difference in (i) or (ii) shall be recorded as an adjustment to equity at the date that those assets and liabilities were derecognized in accordance with (u)(1)(i) or (ii).
@@ -2186,6 +2212,8 @@ A public business entity
 
 5. If the construction period of the build-to-suit lease concluded before the beginning of the earliest comparative period presented in the financial statements (if the entity elects the transition method in (c)(1)) or if it concluded before the beginning of the reporting period in which the entity first applies the pending content that links to this paragraph (if the entity elects the transition method in (c)(2)), and the transaction qualified as a sale and leaseback transaction in accordance with Subtopic 840-40 before that date, the entity shall follow the general lessee transition requirements for the lease.
 
+**Lessors**
+**Leases previously classified as operating leases under Topic 840**
 1. Continue to recognize the carrying amount of the underlying asset and any lease assets or liabilities at the application date as determined in (c) as the same amounts recognized by the lessor immediately before that date in accordance with Topic 840.
 2. Account for previously recognized securitized receivables as secured borrowings in accordance with other Topics.
 3. If a lessor does not elect the practical expedients described in (f), write off any unamortized initial direct costs that do not meet the definition of initial direct costs in this Topic as an adjustment to equity unless the entity elects the transition method in (c)(1) and the costs were incurred after the beginning of the earliest period presented, in which case those costs shall be written off as an adjustment to earnings in the period the costs were incurred.
@@ -2197,6 +2225,7 @@ A public business entity
 
 3. Account for the lease in accordance with this Topic after the application date as determined in (c).
 
+**Leases previously classified as direct financing or sales-type leases under Topic 840**
 1. Continue to recognize a net investment in the lease at the application date as determined in (c) at the carrying amount of the net investment at that date. This would include any unamortized initial direct costs capitalized as part of the lessor's net investment in the lease in accordance with Topic 840.
 2. If an entity elects the transition method in (c)(1), before the effective date, a lessor shall account for the lease in accordance with Topic 840.
 3. Regardless of the transition method selected in (c), beginning on the effective date, a lessor shall account for the lease in accordance with the recognition, subsequent measurement, presentation, and disclosure guidance in Subtopic 842-30.
@@ -2209,8 +2238,10 @@ A public business entity
 
 3. Subsequently account for the operating lease in accordance with this Topic and the underlying asset in accordance with other Topics.
 
+**Leases previously classified as leveraged leases under Topic 840**
 1. A lessor shall apply the pending content that links to this paragraph to a leveraged lease that meets the criteria in (z) that is acquired in a business combination or an acquisition by a not-for-profit entity on or after the effective date.
 
+**Sale and leaseback transactions before the effective date**
 1. If a previous sale and leaseback transaction was accounted for as a sale and a leaseback in accordance with Topic 840, an entity shall not reassess the transaction to determine whether the transfer of the asset would have been a sale in accordance with paragraphs 842-40-25-1 through 25-3.
 1. If an entity elects the transition method in (c)(1), the entity shall reassess whether a sale would have occurred at any point on or after the beginning of the earliest period presented in the financial statements in accordance with paragraphs 842-40-25-1 through 25-3. The sale and leaseback transaction shall be accounted for on a modified retrospective basis from the date a sale is determined to have occurred.
 2. If an entity elects the transition method in (c)(2), the entity shall reassess whether a sale would have occurred at the beginning of the reporting period in which the entity first applies the pending content that links to this paragraph in accordance with paragraphs 842-40-25-1 through 25-3 and recognize the sale as an adjustment to equity. The entity shall then account for the leaseback in accordance with the guidance in Subtopic 842-20 after the beginning of the reporting period in which the entity first applies the pending content that links to this paragraph.
@@ -2241,7 +2272,7 @@ A public business entity
 
 ## S00 Status
 
-> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
 ### General
 
@@ -2263,7 +2294,7 @@ A public business entity
 
 ## S20 Glossary
 
-> **General Note:** The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
 
 ##### Not-for-Profit Entity
 
@@ -2274,11 +2305,11 @@ A public business entity
 1. All investor-owned entities
 2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
 
-1. Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
+Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
 2. Operating purposes other than to provide goods or services at a profit
 3. Absence of ownership interests like those of business entities.
 
-1. All investor-owned entities
+All investor-owned entities
 2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
 
 ##### Public Business Entity
@@ -2290,7 +2321,7 @@ A public business entity
 5. It has one or more securities that are not subject to contractual restrictions on transfer, and it is required by law, contract, or regulation to prepare U.S. GAAP financial statements (including notes) and make them publicly available on a periodic basis (for example, interim or annual periods). An entity must meet both of these conditions to meet this criterion.
 
 An entity may meet the definition of a public business entity solely because its financial statements or financial information is included in another entity's filing with the SEC. In that case, the entity is only a public business entity for purposes of financial statements that are filed or furnished with the SEC.
-1. It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing).
+It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing).
 2. It is required by the Securities Exchange Act of 1934 (the Act), as amended, or rules or regulations promulgated under the Act, to file or furnish financial statements with a regulatory agency other than the SEC.
 3. It is required to file or furnish financial statements with a foreign or domestic regulatory agency in preparation for the sale of or for purposes of issuing securities that are not subject to contractual restrictions on transfer.
 4. It has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market.
@@ -2302,13 +2333,13 @@ An entity may meet the definition of a public business entity solely because its
 2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
 3. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
 
-1. It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
+It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
 2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
 3. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
 
 ## S65 Transition and Open Effective Date Information
 
-> **General Note:** The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
+General Note:The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
 
 ### General
 
@@ -2320,6 +2351,16 @@ An entity may meet the definition of a public business entity solely because its
 
 An entity may meet the definition of a public business entity solely because its financial statements or financial information is included in another entity's filing with the SEC. In that case, the entity is only a public business entity for purposes of financial statements that are filed or furnished with the SEC.FN 2 Early adoption of ASC Topic 606 is permitted for public business entities and certain other specified entities only as of annual reporting periods beginning after December 15, 2016, including interim reporting periods within that reporting period.FN 3 Early adoption of ASC Topic 842 is permitted for public business entities and certain other specified entities, as well as for all other entities.
 **842-10-S65-1** **Note:** At the December 2019 AICPA National Conference on Current SEC and PCAOB Developments, the SEC staff announced that it would not object to a public business entity that otherwise would not meet the definition of a public business entity except for a requirement to include or the inclusion of its financial statements or financial information in another entity's filing with the SEC adopting Topic 842, Leases, for fiscal years beginning after December 15, 2020, and interim periods within fiscal years beginning after December 15, 2021. Those dates are consistent with the effective dates for Topic 842 as amended in Accounting Standards Update No. 2019-10, *Financial Instruments—Credit Losses (Topic 326), Derivatives and Hedging (Topic 815), and Leases (Topic 842): Effective Dates.* The following is the text of SEC Staff Announcement: Transition Related to Accounting Standards Updates No. 2014-09 and 2016-02. FASB Accounting Standards Updates No. 2014-09, *Revenue from Contracts with Customers (Topic 606)*, issued in May 2014 and codified in ASC Topic 606, Revenue from Contracts with Customers, and No. 2016-02, *Leases (Topic 842)*, issued in February 2016 and codified in ASC Topic 842, Leases, provide effective dates that differ for (1) public business entities
+and certain other specified entities and (2) all other entities. The SEC staff has received inquiries from stakeholders regarding the application of the effective dates of ASC Topic 606 and ASC Topic 842 for a public business entity^FN1^ that otherwise would not meet the definition of a public business entity except for a requirement to include or the inclusion of its financial statements or financial information in another entity's filing with the SEC.
+The transition provisions in ASC Topic 606 require that a public business entity and certain other specified entities adopt ASC Topic 606 for annual reporting periods beginning after December 15, 2017, including interim reporting periods within that reporting period. ^FN2^ All other entities are required to adopt ASC Topic 606 for annual reporting periods beginning after December 15, 2018, and interim reporting periods within annual reporting periods beginning after December 15, 2019.
+The transition provisions in ASC Topic 842 require that a public business entity and certain other specified entities adopt ASC Topic 842 for fiscal years beginning after December 15, 2018, and interim periods within those fiscal years. ^FN3^ All other entities are required to adopt ASC Topic 842 for fiscal years beginning after December 15, 2019, and interim periods within fiscal years beginning after December 15, 2020.
+In response to the stakeholder inquiries outlined above, the SEC staff would not object to a public business entity that otherwise would not meet the definition of a public business entity except for a requirement to include or the inclusion of its financial statements or financial information in another entity's filing with the SEC adopting (1) ASC Topic 606 for annual reporting periods beginning after December 15, 2018, and interim reporting periods within annual reporting periods beginning after December 15, 2019, and (2) ASC Topic 842 for fiscal years beginning after December 15, 2019, and interim periods within fiscal years beginning after December 15, 2020.
+A public business entity that otherwise would not meet the definition of a public business entity except for a requirement to include or the inclusion of its financial statements or financial information in another entity's filing with the SEC may still elect to adopt ASC Topic 606 and ASC Topic 842 according to the public business entity effective dates outlined above.
+This announcement is applicable only to public business entities that otherwise would not meet the definition of a public business entity except for a requirement to include or the inclusion of its financial statements or financial information in another entity's filing with the SEC. This announcement is not applicable to other public business entities.
+FN 1 The definition of *Public Business Entity* in the FASB's ASC Master Glossary states, in part, the following:
+A public business entity is a business entity meeting any one of the criteria below . . .
 1. It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing) . . .
 
-An entity may meet the definition of a public business entity solely because its financial statements or financial information is included in another entity's filing with the SEC. In that case, the entity is only a public business entity for purposes of financial statements that are filed or furnished with the SEC.FN 2 Early adoption of ASC Topic 606 is permitted for public business entities and certain other specified entities only as of annual reporting periods beginning after December 15, 2016, including interim reporting periods within that reporting period.FN 3 Early adoption of ASC Topic 842 is permitted for public business entities and certain other specified entities, as well as for all other entities.
+An entity may meet the definition of a public business entity solely because its financial statements or financial information is included in another entity's filing with the SEC. In that case, the entity is only a public business entity for purposes of financial statements that are filed or furnished with the SEC.
+FN 2 Early adoption of ASC Topic 606 is permitted for public business entities and certain other specified entities only as of annual reporting periods beginning after December 15, 2016, including interim reporting periods within that reporting period.
+FN 3 Early adoption of ASC Topic 842 is permitted for public business entities and certain other specified entities, as well as for all other entities.

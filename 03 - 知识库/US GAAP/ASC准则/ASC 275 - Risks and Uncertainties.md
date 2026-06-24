@@ -13,7 +13,7 @@ subtopics: ["275-10"]
 
 ## 00 Status
 
-> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
 ### General
 
@@ -89,7 +89,7 @@ subtopics: ["275-10"]
 
 ## 05 Overview and Background
 
-> **General Note:** The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
 
 ### General
 
@@ -126,7 +126,7 @@ This Subtopic provides guidance on disclosure of current vulnerability due to ce
 
 ## 10 Objectives
 
-> **General Note:** The Objectives Section provides the high-level objectives that the Subtopic is intended to accomplish or attain. The Section does not summarize or discuss the main principles of accounting and reporting requirements.
+General Note:The Objectives Section provides the high-level objectives that the Subtopic is intended to accomplish or attain. The Section does not summarize or discuss the main principles of accounting and reporting requirements.
 
 ### General
 
@@ -135,7 +135,7 @@ This Subtopic provides guidance on disclosure of current vulnerability due to ce
 
 ## 15 Scope and Scope Exceptions
 
-> **General Note:** The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
 
 ### General
 
@@ -147,8 +147,10 @@ The guidance in the Risks and Uncertainties Topic applies to all entities.
 **275-10-15-2** The guidance in the Risks and Uncertainties Topic applies to all entities.
 **275-10-15-3** > Other Considerations
 The guidance in the Risks and Uncertainties Topic applies to financial statements prepared in conformity with generally accepted accounting principles (GAAP) and applies to all entities that issue such statements. While the guidance in this Topic applies to complete interim financial statements, it does not apply to condensed or summarized interim financial statements. If comparative financial statements are presented, the disclosure requirements apply only to the financial statements for the most recent fiscal period presented.
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1The guidance in the Risks and Uncertainties Topic applies to financial statements prepared in conformity with generally accepted accounting principles (GAAP) and applies to all entities that issue such statements. While the guidance in this Topic applies to complete interim financial statements, it does not apply to condensed statements. If comparative financial statements are presented, the disclosure requirements apply only to the financial statements for the most recent fiscal period presented.
 **275-10-15-3** The guidance in the Risks and Uncertainties Topic applies to financial statements prepared in conformity with generally accepted accounting principles (GAAP) and applies to all entities that issue such statements. While the guidance in this Topic applies to complete interim financial statements, it does not apply to condensed or summarized interim financial statements. If comparative financial statements are presented, the disclosure requirements apply only to the financial statements for the most recent fiscal period presented.
-**275-10-15-4** Management or key personnel
+**275-10-15-4** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1The guidance in the Risks and Uncertainties Topic applies to financial statements prepared in conformity with generally accepted accounting principles (GAAP) and applies to all entities that issue such statements. While the guidance in this Topic applies to complete interim financial statements, it does not apply to condensed statements. If comparative financial statements are presented, the disclosure requirements apply only to the financial statements for the most recent fiscal period presented.
+Management or key personnel
 2. Proposed changes in government regulations
 3. Proposed changes in accounting principles
 4. Deficiencies in the internal control structure
@@ -169,21 +171,26 @@ The guidance in the Risks and Uncertainties Topic applies to financial statement
 
 ## 20 Glossary
 
-> **General Note:** The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
 
 ##### Contract
 
 An agreement between two or more parties that creates enforceable rights and obligations.
+An agreement between two or more parties that creates enforceable rights and obligations.
 
 ##### Customer
 
-An agreement between two or more parties that creates enforceable rights and obligations. A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.
+A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.
+A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.
 
 ##### Fair Value
 
-A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
 
 ##### Condensed                                Statements
+
+PENDING CONTENT Transition date: December 16, 2027; December 16, 2028Transition guidance: 270-10-65-1 Financial statements that are presented at a level that is more aggregated than the annual financial statements or have limited notes subject to the disclosure requirements in Topic 270 or both. (U.S. Securities and Exchange Commission [SEC] registrants are required to consider the guidance in paragraph 270-10-S45-2. See Regulation S-X Rule 10-01 [17 CFR 210.10-01] and Regulation S-X Rule 8-03 [17 CFR 210.8-03].)
 
 ##### Market Participants
 
@@ -192,7 +199,7 @@ A party that has contracted with an entity to obtain goods or services that are 
 3. They are able to enter into a transaction for the asset or liability
 4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
 
-1. They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
 2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
 3. They are able to enter into a transaction for the asset or liability
 4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
@@ -200,25 +207,29 @@ A party that has contracted with an entity to obtain goods or services that are 
 ##### Near Term
 
 A period of time not to exceed one year from the date of the financial statements.
+A period of time not to exceed one year from the date of the financial statements.
 
 ##### Net Realizable Value
 
-A period of time not to exceed one year from the date of the financial statements. Estimated selling prices in the ordinary course of business, less reasonably predictable costs of completion, disposal, and transportation.
+Estimated selling prices in the ordinary course of business, less reasonably predictable costs of completion, disposal, and transportation.
+Estimated selling prices in the ordinary course of business, less reasonably predictable costs of completion, disposal, and transportation.
 
 ##### Orderly Transaction
 
-Estimated selling prices in the ordinary course of business, less reasonably predictable costs of completion, disposal, and transportation. A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
 
 ##### Performance Obligation
 
 1. A good or service (or a bundle of goods or services) that is distinct
 2. A series of distinct goods or services that are substantially the same and that have the same pattern of transfer to the customer.
 
-1. A good or service (or a bundle of goods or services) that is distinct
+A good or service (or a bundle of goods or services) that is distinct
 2. A series of distinct goods or services that are substantially the same and that have the same pattern of transfer to the customer.
 
 ##### Reasonably Possible
 
+The chance of the future event or events occurring is more than remote but less than likely.
 The chance of the future event or events occurring is more than remote but less than likely.
 
 ##### Related Parties
@@ -231,7 +242,7 @@ The chance of the future event or events occurring is more than remote but less 
 6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
 7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
 
-1. Affiliates of the entity
+Affiliates of the entity
 2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
 3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
 4. Principal owners of the entity and members of their immediate families
@@ -242,21 +253,25 @@ The chance of the future event or events occurring is more than remote but less 
 ##### Revenue
 
 Inflows or other enhancements of assets of an entity or settlements of its liabilities (or a combination of both) from delivering or producing goods, rendering services, or other activities that constitute the entity's ongoing major or central operations.
+Inflows or other enhancements of assets of an entity or settlements of its liabilities (or a combination of both) from delivering or producing goods, rendering services, or other activities that constitute the entity's ongoing major or central operations.
 
 ##### Severe Impact
 
-Inflows or other enhancements of assets of an entity or settlements of its liabilities (or a combination of both) from delivering or producing goods, rendering services, or other activities that constitute the entity's ongoing major or central operations.(Used in reference to current vulnerability due to certain concentrations.) A significant financially disruptive effect on the normal functioning of an entity. Severe impact is a higher threshold than material. Matters that are important enough to influence a user's decisions are deemed to be material, yet they may not be so significant as to disrupt the normal functioning of the entity. Some events are material to an investor because they might affect the price of an entity's capital stock or its debt securities, but they would not necessarily have a severe impact on (disrupt) the entity itself. The concept of severe impact, however, includes matters that are less than catastrophic. Matters that are catastrophic include, for example, those that would result in bankruptcy.
+(Used in reference to current vulnerability due to certain concentrations.) A significant financially disruptive effect on the normal functioning of an entity. Severe impact is a higher threshold than material. Matters that are important enough to influence a user's decisions are deemed to be material, yet they may not be so significant as to disrupt the normal functioning of the entity. Some events are material to an investor because they might affect the price of an entity's capital stock or its debt securities, but they would not necessarily have a severe impact on (disrupt) the entity itself. The concept of severe impact, however, includes matters that are less than catastrophic. Matters that are catastrophic include, for example, those that would result in bankruptcy.
+(Used in reference to current vulnerability due to certain concentrations.) A significant financially disruptive effect on the normal functioning of an entity. Severe impact is a higher threshold than material. Matters that are important enough to influence a user's decisions are deemed to be material, yet they may not be so significant as to disrupt the normal functioning of the entity. Some events are material to an investor because they might affect the price of an entity's capital stock or its debt securities, but they would not necessarily have a severe impact on (disrupt) the entity itself. The concept of severe impact, however, includes matters that are less than catastrophic. Matters that are catastrophic include, for example, those that would result in bankruptcy.
 
 ##### Transaction Price
 
-(Used in reference to current vulnerability due to certain concentrations.) A significant financially disruptive effect on the normal functioning of an entity. Severe impact is a higher threshold than material. Matters that are important enough to influence a user's decisions are deemed to be material, yet they may not be so significant as to disrupt the normal functioning of the entity. Some events are material to an investor because they might affect the price of an entity's capital stock or its debt securities, but they would not necessarily have a severe impact on (disrupt) the entity itself. The concept of severe impact, however, includes matters that are less than catastrophic. Matters that are catastrophic include, for example, those that would result in bankruptcy. The amount of consideration to which an entity expects to be entitled in exchange for transferring promised goods or services to a customer, excluding amounts collected on behalf of third parties.
+The amount of consideration to which an entity expects to be entitled in exchange for transferring promised goods or services to a customer, excluding amounts collected on behalf of third parties.
+The amount of consideration to which an entity expects to be entitled in exchange for transferring promised goods or services to a customer, excluding amounts collected on behalf of third parties.
 
 ## 50 Disclosure
 
-> **General Note:** The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
 
 ### General
 
+**275-10-50-1** Related Proposed ASUs
 Nature of operations , including the activities in which the entity is currently engaged if principal operations have not commenced
 2. Use of estimates in the preparation of financial statements
 3. Certain significant estimates
@@ -390,7 +405,7 @@ An assessment of whether a disclosure is required should not be found to be in e
 
 ## 55 Implementation Guidance and Illustrations
 
-> **General Note:** The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
 
 ### General
 
@@ -415,8 +430,9 @@ The kinds of disclosures required by this Subtopic are illustrated in this Secti
 **275-10-55-3A** This Example illustrates one way to comply with the disclosures required by paragraph 275-10-50-2. NewCompany, Inc. (Company) is a business that has not commenced planned principal operations. The Company is designed to develop and manufacture specialized environmental test equipment for measuring air quality. The Company's first product is a rapid-result test kit to identify certain airborne contaminants in high-risk environments. The Company's activities since inception have consisted principally of acquiring technology patents, raising capital, and performing research and development activities. The following illustrates disclosure required by this Subtopic of the nature of activities for an entity that has not commenced principal operations.NewCompany, Inc. (Company) is a business whose planned principal operations are the design, engineering, and manufacturing of air quality test equipment. The Company is currently conducting research and development activities to operationalize certain patented technology that the Company owns so it can manufacture rapid-result test kits for certain airborne contaminants in high-risk environments.
 During the last year, the Company secured a research facility in Norwalk, Connecticut, which houses all of its employees and research and development activities. The Company also is in the process of raising additional equity capital to support the completion of its development activities to begin manufacturing the test kits as soon as possible. The Company's activities are subject to significant risks and uncertainties, including failing to secure additional funding to operationalize the Company's current technology before another company develops similar technology and test kits.
 **275-10-55-3A** This Example illustrates one way to comply with the disclosures required by paragraph 275-10-50-2. NewCompany, Inc. (Company) is a business that has not commenced planned principal operations. The Company is designed to develop and manufacture specialized environmental test equipment for measuring air quality. The Company's first product is a rapid-result test kit to identify certain airborne contaminants in high-risk environments. The Company's activities since inception have consisted principally of acquiring technology patents, raising capital, and performing research and development activities. The following illustrates disclosure required by this Subtopic of the nature of activities for an entity that has not commenced principal operations.NewCompany, Inc. (Company) is a business whose planned principal operations are the design, engineering, and manufacturing of air quality test equipment. The Company is currently conducting research and development activities to operationalize certain patented technology that the Company owns so it can manufacture rapid-result test kits for certain airborne contaminants in high-risk environments.
-**275-10-55-3B** During the last year, the Company secured a research facility in Norwalk, Connecticut, which houses all of its employees and research and development activities. The Company also is in the process of raising additional equity capital to support the completion of its development activities to begin manufacturing the test kits as soon as possible. The Company's activities are subject to significant risks and uncertainties, including failing to secure additional funding to operationalize the Company's current technology before another company develops similar technology and test kits.
-Information necessary for financial statement users not familiar with the activities of the Company to identify and consider the broad risks and uncertainties associated with businesses that have activities that are similar to those in which the Company is engaged. From the disclosures provided, financial statement users that have a general knowledge of business matters should be able to assess both of the following:
+During the last year, the Company secured a research facility in Norwalk, Connecticut, which houses all of its employees and research and development activities. The Company also is in the process of raising additional equity capital to support the completion of its development activities to begin manufacturing the test kits as soon as possible.
+The Company's activities are subject to significant risks and uncertainties, including failing to secure additional funding to operationalize the Company's current technology before another company develops similar technology and test kits.
+**275-10-55-3B** Information necessary for financial statement users not familiar with the activities of the Company to identify and consider the broad risks and uncertainties associated with businesses that have activities that are similar to those in which the Company is engaged. From the disclosures provided, financial statement users that have a general knowledge of business matters should be able to assess both of the following:
 1. That the Company's activities are subject to different and varied risks, including the risk that the entity may be affected by the rapidly changing and intensely competitive technology market
 2. That the Company is dependent on additional capital resources for the continuation and expansion of its business activities.
 
@@ -490,7 +506,7 @@ This Example illustrates the disclosures required by paragraph 275-10-50-16. Min
 
 ## 60 Relationships
 
-> **General Note:** The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
+General Note:The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
 
 ### General
 
@@ -498,8 +514,9 @@ This Example illustrates the disclosures required by paragraph 275-10-50-16. Min
 **275-10-60-1** Paragraph superseded by Maintenance Update 2018-02.
 **275-10-60-2** > Interim Reporting
 See paragraph 270-10-50-6 for guidance on disclosure of contingencies in summarized interim financial information of publicly traded entities.
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1See paragraph 270-10-50-69 for guidance on disclosure of contingencies in interim financial statements and notes in accordance with generally accepted accounting principles.
 **275-10-60-2** See paragraph 270-10-50-6 for guidance on disclosure of contingencies in summarized interim financial information of publicly traded entities.
-**275-10-60-3** > Inventory
+**275-10-60-3** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1See paragraph 270-10-50-69 for guidance on disclosure of contingencies in interim financial statements and notes in accordance with generally accepted accounting principles.> Inventory
 See Example 1 (paragraph 330-10-55-8) for an illustration of the kinds of disclosures required for risks and uncertainties related to inventory.
 **275-10-60-3** See Example 1 (paragraph 330-10-55-8) for an illustration of the kinds of disclosures required for risks and uncertainties related to inventory.
 **275-10-60-3A** > Property, Plant, and Equipment

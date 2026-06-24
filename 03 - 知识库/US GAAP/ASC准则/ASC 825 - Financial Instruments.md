@@ -14,7 +14,7 @@ key: true
 
 ## 00 Status
 
-> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
 ### General
 
@@ -205,7 +205,7 @@ key: true
 
 ## 05 Overview and Background
 
-> **General Note:** The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
 
 ### General
 
@@ -279,7 +279,7 @@ The Codification contains various Topics, and in some cases individual Subtopics
 
 ## 10 Objectives
 
-> **General Note:** The Objectives Section provides the high-level objectives that the Subtopic is intended to accomplish or attain. The Section does not summarize or discuss the main principles of accounting and reporting requirements.
+General Note:The Objectives Section provides the high-level objectives that the Subtopic is intended to accomplish or attain. The Section does not summarize or discuss the main principles of accounting and reporting requirements.
 
 ### Fair Value Option
 
@@ -288,11 +288,11 @@ The Codification contains various Topics, and in some cases individual Subtopics
 
 ## 15 Scope and Scope Exceptions
 
-> **General Note:** The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
 
 ### General
 
-**825-10-15-1** > Overall Guidance
+**825-10-15-1** Related Proposed ASUs > Overall Guidance
 The General Subsection of this Section establishes the pervasive scope for this Subtopic, with specific exceptions noted in the other Subsections of this Section.
 **825-10-15-1** The General Subsection of this Section establishes the pervasive scope for this Subtopic, with specific exceptions noted in the other Subsections of this Section.
 **825-10-15-2** > Entities
@@ -301,7 +301,7 @@ The guidance in this Subtopic applies to all entities.
 
 ### Fair Value Option
 
-**825-10-15-3** > Overall Guidance
+**825-10-15-3** Related Proposed ASUs > Overall Guidance
 The Fair Value Option Subsections follow the same Scope and Scope Exceptions as outlined in the General Subsection of this Subtopic, with specific qualifications and exceptions noted below.
 **825-10-15-3** The Fair Value Option Subsections follow the same Scope and Scope Exceptions as outlined in the General Subsection of this Subtopic, with specific qualifications and exceptions noted below.
 **825-10-15-4** > Instruments
@@ -336,12 +336,28 @@ All entities may elect the fair value
 5. Deposit liabilities, withdrawable on demand, of banks, savings and loan associations, credit unions, and other similar depository institutions.
 6. Financial instruments that are, in whole or in part, classified by the issuer as a component of shareholders' equity (including temporary equity).
 
+1. An investment in a subsidiary that the entity is required to consolidate.
+2. An interest in a variable interest entity (VIE) that the entity is required to consolidate.
+3. Employers' and plans' obligations (or assets representing net overfunded positions) for pension benefits, other postretirement benefits (including health care and life insurance benefits), postemployment benefits, employee stock option and stock purchase plans, and other forms of deferred compensation arrangements, as defined in Topics 420; 710; 712; 715; 718; and 960.
+4. Financial assets and financial liabilities recognized under leases as defined in Subtopic 842-10. (This exception does not apply to a guarantee of a third-party lease obligation or a contingent obligation arising from a cancelled lease.)
+5. Deposit liabilities, withdrawable on demand, of banks, savings and loan associations, credit unions, and other similar depository institutions.
+6. Financial instruments that are, in whole or in part, classified by the issuer as a component of shareholders' equity (including temporary equity).
+7. Environmental credit obligation liabilities that can be settled in cash that are accounted for in accordance with Topic 818.
+
 **825-10-15-5** An investment in a subsidiary that the entity is required to consolidate.
 2. An interest in a variable interest entity (VIE) that the entity is required to consolidate.
 3. Employers' and plans' obligations (or assets representing net overfunded positions) for pension benefits, other postretirement benefits (including health care and life insurance benefits), postemployment benefits, employee stock option and stock purchase plans, and other forms of deferred compensation arrangements, as defined in Topics 420; 710; 712; 715; 718; and 960.
 4. Financial assets and financial liabilities recognized under leases as defined in Subtopic 842-10. (This exception does not apply to a guarantee of a third-party lease obligation or a contingent obligation arising from a cancelled lease.)
 5. Deposit liabilities, withdrawable on demand, of banks, savings and loan associations, credit unions, and other similar depository institutions.
 6. Financial instruments that are, in whole or in part, classified by the issuer as a component of shareholders' equity (including temporary equity).
+
+1. An investment in a subsidiary that the entity is required to consolidate.
+2. An interest in a variable interest entity (VIE) that the entity is required to consolidate.
+3. Employers' and plans' obligations (or assets representing net overfunded positions) for pension benefits, other postretirement benefits (including health care and life insurance benefits), postemployment benefits, employee stock option and stock purchase plans, and other forms of deferred compensation arrangements, as defined in Topics 420; 710; 712; 715; 718; and 960.
+4. Financial assets and financial liabilities recognized under leases as defined in Subtopic 842-10. (This exception does not apply to a guarantee of a third-party lease obligation or a contingent obligation arising from a cancelled lease.)
+5. Deposit liabilities, withdrawable on demand, of banks, savings and loan associations, credit unions, and other similar depository institutions.
+6. Financial instruments that are, in whole or in part, classified by the issuer as a component of shareholders' equity (including temporary equity).
+7. Environmental credit obligation liabilities that can be settled in cash that are accounted for in accordance with Topic 818.
 
 ##### · > Interaction with Other                Topics
 
@@ -361,33 +377,58 @@ Do not affect any existing accounting literature that requires certain assets an
 3. Paragraph 954-825-45-1 explains that health care entities subject to Topic 954 shall report unrealized gains and losses on items for which the fair value option has been elected within the performance indicator or as a part of discontinued operations, as appropriate. Unlike other NFPs, health care entities subject to that Topic present performance indicators analogous to income from continuing operations. Consistent with the provisions of Subtopic 958-10, NFPs may present such gains and losses either within or outside of other intermediate measures of operations unless such gains or losses are part of discontinued operations. This includes intermediate measures of operations presented by NFPs other than health care entities and any additional intermediate measures of operations presented within the performance indicator by not-for-profit health care entities.
 4. The disclosure requirements in paragraph 825-10-50-30 shall apply not only with respect to the effect on performance indicators or other intermediate measures of operations, if presented, but also with respect to the effect on the change in each of the net asset classes (without donor restrictions or with donor restrictions), as applicable.
 
+1. References to an income statement shall be replaced with references to a statement of activities, statement of changes in net assets, or statement of operations.
+2. References to earnings shall be replaced with references to changes in net assets, except as indicated in (c).
+3. Paragraph 954-825-45-1 explains that health care entities subject to Topic 954 shall report unrealized gains and losses on items for which the fair value option has been elected within the performance indicator or as a part of discontinued operations, as appropriate. Unlike other NFPs, health care entities subject to that Topic present performance indicators analogous to income from continuing operations. Consistent with the provisions of paragraphs 958-220-45-9 through 45-12, NFPs may present such gains and losses either within or outside of other intermediate measures of operations unless such gains or losses are part of discontinued operations. This includes intermediate measures of operations presented by NFPs other than health care entities and any additional intermediate measures of operations presented within the performance indicator by not-for-profit health care entities.
+4. The disclosure requirements in paragraph 825-10-50-30 shall apply not only with respect to the effect on performance indicators or other intermediate measures of operations, if presented, but also with respect to the effect on the change in each of the net asset classes (without donor restrictions or with donor restrictions), as applicable.
+
 **825-10-15-7** References to an income statement shall be replaced with references to a statement of activities, statement of changes in net assets, or statement of operations.
 2. References to earnings shall be replaced with references to changes in net assets, except as indicated in (c).
 3. Paragraph 954-825-45-1 explains that health care entities subject to Topic 954 shall report unrealized gains and losses on items for which the fair value option has been elected within the performance indicator or as a part of discontinued operations, as appropriate. Unlike other NFPs, health care entities subject to that Topic present performance indicators analogous to income from continuing operations. Consistent with the provisions of Subtopic 958-10, NFPs may present such gains and losses either within or outside of other intermediate measures of operations unless such gains or losses are part of discontinued operations. This includes intermediate measures of operations presented by NFPs other than health care entities and any additional intermediate measures of operations presented within the performance indicator by not-for-profit health care entities.
 4. The disclosure requirements in paragraph 825-10-50-30 shall apply not only with respect to the effect on performance indicators or other intermediate measures of operations, if presented, but also with respect to the effect on the change in each of the net asset classes (without donor restrictions or with donor restrictions), as applicable.
 
+1. References to an income statement shall be replaced with references to a statement of activities, statement of changes in net assets, or statement of operations.
+2. References to earnings shall be replaced with references to changes in net assets, except as indicated in (c).
+3. Paragraph 954-825-45-1 explains that health care entities subject to Topic 954 shall report unrealized gains and losses on items for which the fair value option has been elected within the performance indicator or as a part of discontinued operations, as appropriate. Unlike other NFPs, health care entities subject to that Topic present performance indicators analogous to income from continuing operations. Consistent with the provisions of paragraphs 958-220-45-9 through 45-12, NFPs may present such gains and losses either within or outside of other intermediate measures of operations unless such gains or losses are part of discontinued operations. This includes intermediate measures of operations presented by NFPs other than health care entities and any additional intermediate measures of operations presented within the performance indicator by not-for-profit health care entities.
+4. The disclosure requirements in paragraph 825-10-50-30 shall apply not only with respect to the effect on performance indicators or other intermediate measures of operations, if presented, but also with respect to the effect on the change in each of the net asset classes (without donor restrictions or with donor restrictions), as applicable.
+
 ## 20 Glossary
 
-> **General Note:** The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
 
 ##### Environmental Credit
 
+1. Lacks physical substance and is not a financial asset.
+2. Is represented to prevent, control, reduce, or remove emissions or other pollution.
+3. Is, or previously was, separately transferable in an exchange transaction. If an item is no longer separately transferable in an exchange transaction, an entity must be able to use that item to satisfy an environmental credit obligation to meet this criterion.
+4. Is not an income tax credit that may be used to settle an entity’s income tax liability, regardless of whether the entity has a tax liability or intends to use the credit for that purpose.
+
+An environmental credit that meets the above criteria may exist in a variety of forms, including (but not limited to) credits, certificates, allowances, and offsets.
+1. Lacks physical substance and is not a financial asset.
+2. Is represented to prevent, control, reduce, or remove emissions or other pollution.
+3. Is, or previously was, separately transferable in an exchange transaction. If an item is no longer separately transferable in an exchange transaction, an entity must be able to use that item to satisfy an environmental credit obligation to meet this criterion.
+4. Is not an income tax credit that may be used to settle an entity’s income tax liability, regardless of whether the entity has a tax liability or intends to use the credit for that purpose.
+
 ##### Environmental Credit Obligation
+
+An environmental credit that meets the above criteria may exist in a variety of forms, including (but not limited to) credits, certificates, allowances, and offsets.PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:818-10-65-1A regulatory compliance obligation arising from existing or enacted laws, statutes, or ordinances represented to prevent, control, reduce, or remove emissions or other pollution that may be settled with environmental credits. Obligations within the scope of Subtopic 410-30 are not environmental credit obligations.
 
 ##### Exchange
 
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:818-10-65-1A regulatory compliance obligation arising from existing or enacted laws, statutes, or ordinances represented to prevent, control, reduce, or remove emissions or other pollution that may be settled with environmental credits. Obligations within the scope of Subtopic 410-30 are not environmental credit obligations.An exchange (or exchange transaction) is a reciprocal transfer between two entities that results in one of the entities acquiring assets or services or satisfying liabilities by surrendering other assets or services or incurring other obligations.
 An exchange (or exchange transaction) is a reciprocal transfer between two entities that results in one of the entities acquiring assets or services or satisfying liabilities by surrendering other assets or services or incurring other obligations.
 
 ##### Fair Value
 
-An exchange (or exchange transaction) is a reciprocal transfer between two entities that results in one of the entities acquiring assets or services or satisfying liabilities by surrendering other assets or services or incurring other obligations.The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
 
 ##### Financial Asset
 
 1. Receive cash or another financial instrument from a second entity
 2. Exchange other financial instruments on potentially favorable terms with the second entity.
 
-1. Receive cash or another financial instrument from a second entity
+Receive cash or another financial instrument from a second entity
 2. Exchange other financial instruments on potentially favorable terms with the second entity.
 
 ##### Financial Instrument
@@ -404,12 +445,34 @@ An exchange (or exchange transaction) is a reciprocal transfer between two entit
 1. To receive cash or another financial instrument from the first entity
 2. To exchange other financial instruments on potentially favorable terms with the first entity.
 
+The use of the term financial instrument in this definition is recursive (because the term financial instrument is included in it), though it is not circular. The definition requires a chain of contractual obligations that ends with the delivery of cash or an ownership interest in an entity. Any number of obligations to deliver financial instruments can be links in a chain that qualifies a particular contract as a financial instrument. Contractual rights and contractual obligations encompass both those that are conditioned on the occurrence of a specified event and those that are not. Some contractual rights (contractual obligations) that are financial instruments may not be recognized in financial statements—that is, they may be off-balance-sheet—because they fail to meet some other criterion for recognition. For some financial instruments, the right is held by or the obligation is due from (or the obligation is owed to or by) a group of entities rather than a single entity.
+Imposes on one entity a contractual obligation either:
+1. To deliver cash or another financial instrument to a second entity
+2. To exchange other financial instruments on potentially unfavorable terms with the second entity.
+
+1. To receive cash or another financial instrument from the first entity
+2. To exchange other financial instruments on potentially favorable terms with the first entity.
+
+The use of the term financial instrument in this definition is recursive (because the term financial instrument is included in it), though it is not circular. The definition requires a chain of contractual obligations that ends with the delivery of cash or an ownership interest in an entity. Any number of obligations to deliver financial instruments can be links in a chain that qualifies a particular contract as a financial instrument.
+Contractual rights and contractual obligations encompass both those that are conditioned on the occurrence of a specified event and those that are not. All contractual rights (contractual obligations) that are financial instruments meet the definition of asset (liability) set forth in FASB Concepts Statement No. 6, Elements of Financial Statements, although some may not be recognized as assets (liabilities) in financial statements—that is, they may be off-balance-sheet—because they fail to meet some other criterion for recognition.
+For some financial instruments, the right is held by or the obligation is due from (or the obligation is owed to or by) a group of entities rather than a single entity.
+Imposes on one entity a contractual obligation either:
+1. To deliver cash or another financial instrument to a second entity
+2. To exchange other financial instruments on potentially unfavorable terms with the second entity.
+
+1. To receive cash or another financial instrument from the first entity
+2. To exchange other financial instruments on potentially favorable terms with the first entity.
+
+The use of the term financial instrument in this definition is recursive (because the term financial instrument is included in it), though it is not circular. The definition requires a chain of contractual obligations that ends with the delivery of cash or an ownership interest in an entity. Any number of obligations to deliver financial instruments can be links in a chain that qualifies a particular contract as a financial instrument.
+Contractual rights and contractual obligations encompass both those that are conditioned on the occurrence of a specified event and those that are not. Some contractual rights (contractual obligations) that are financial instruments may not be recognized in financial statements—that is, they may be off-balance-sheet—because they fail to meet some other criterion for recognition.
+For some financial instruments, the right is held by or the obligation is due from (or the obligation is owed to or by) a group of entities rather than a single entity.
+
 ##### Financial Liability
 
 1. Deliver cash or another financial instrument to a second entity
 2. Exchange other financial instruments on potentially unfavorable terms with the second entity.
 
-1. Deliver cash or another financial instrument to a second entity
+Deliver cash or another financial instrument to a second entity
 2. Exchange other financial instruments on potentially unfavorable terms with the second entity.
 
 ##### Firm Commitment
@@ -417,7 +480,7 @@ An exchange (or exchange transaction) is a reciprocal transfer between two entit
 1. The agreement specifies all significant terms, including the quantity to be exchanged, the fixed price, and the timing of the transaction. The fixed price may be expressed as a specified amount of an entity's functional currency or of a foreign currency. It may also be expressed as a specified interest rate or specified effective yield. The binding provisions of an agreement are regarded to include those legal rights and obligations codified in the laws to which such an agreement is subject. A price that varies with the market price of the item that is the subject of the firm commitment cannot qualify as a fixed price. For example, a price that is specified in terms of ounces of gold would not be a fixed price if the market price of the item to be purchased or sold under the firm commitment varied with the price of gold.
 2. The agreement includes a disincentive for nonperformance that is sufficiently large to make performance probable. In the legal jurisdiction that governs the agreement, the existence of statutory rights to pursue remedies for default equivalent to the damages suffered by the nondefaulting party, in and of itself, represents a sufficiently large disincentive for nonperformance to make performance probable for purposes of applying the definition of a firm commitment.
 
-1. The agreement specifies all significant terms, including the quantity to be exchanged, the fixed price, and the timing of the transaction. The fixed price may be expressed as a specified amount of an entity's functional currency or of a foreign currency. It may also be expressed as a specified interest rate or specified effective yield. The binding provisions of an agreement are regarded to include those legal rights and obligations codified in the laws to which such an agreement is subject. A price that varies with the market price of the item that is the subject of the firm commitment cannot qualify as a fixed price. For example, a price that is specified in terms of ounces of gold would not be a fixed price if the market price of the item to be purchased or sold under the firm commitment varied with the price of gold.
+The agreement specifies all significant terms, including the quantity to be exchanged, the fixed price, and the timing of the transaction. The fixed price may be expressed as a specified amount of an entity's functional currency or of a foreign currency. It may also be expressed as a specified interest rate or specified effective yield. The binding provisions of an agreement are regarded to include those legal rights and obligations codified in the laws to which such an agreement is subject. A price that varies with the market price of the item that is the subject of the firm commitment cannot qualify as a fixed price. For example, a price that is specified in terms of ounces of gold would not be a fixed price if the market price of the item to be purchased or sold under the firm commitment varied with the price of gold.
 2. The agreement includes a disincentive for nonperformance that is sufficiently large to make performance probable. In the legal jurisdiction that governs the agreement, the existence of statutory rights to pursue remedies for default equivalent to the damages suffered by the nondefaulting party, in and of itself, represents a sufficiently large disincentive for nonperformance to make performance probable for purposes of applying the definition of a firm commitment.
 
 ##### Fully Benefit-Responsive Investment Contract
@@ -442,7 +505,7 @@ An exchange (or exchange transaction) is a reciprocal transfer between two entit
 8. The plan itself must allow participants reasonable access to their funds.
 
 If access to funds is substantially restricted by plan provisions, investment contracts held by those plans may not be considered to be fully benefit-responsive. For example, if plan participants are allowed access at contract value to all or a portion of their account balances only upon termination of their participation in the plan, it would not be considered reasonable access and, therefore, investment contracts held by that plan would generally not be deemed to be fully benefit-responsive. However, in plans with a single investment fund that allow reasonable access to assets by inactive participants, restrictions on access to assets by active participants consistent with the objective of the plan (for example, retirement or health and welfare benefits) will not affect the benefit responsiveness of the investment contracts held by those single-fund plans. Also, if a plan limits participants' access to their account balances to certain specified times during the plan year (for example, semiannually or quarterly) to control the administrative costs of the plan, that limitation generally would not affect the benefit responsiveness of the investment contracts held by that plan. In addition, administrative provisions that place short-term restrictions (for example, three or six months) on transfers to competing fixed-rate investment options to limit arbitrage among those investment options (equity wash provisions) would not affect a contract's benefit responsiveness.
-1. The investment contract is effected directly between the plan and the issuer and prohibits the plan from assigning or selling the contract or its proceeds to another party without the consent of the issuer.
+The investment contract is effected directly between the plan and the issuer and prohibits the plan from assigning or selling the contract or its proceeds to another party without the consent of the issuer.
 1. The repayment of principal and interest credited to participants in the plan is a financial obligation of the issuer of the investment contract.
 2. Prospective interest crediting rate adjustments are provided to participants in the plan on a designated pool of investments held by the plan or the contract issuer, whereby a financially responsible third party, through a contract generally referred to as a wrapper, must provide assurance that the adjustments to the interest crediting rate will not result in a future interest crediting rate that is less than zero.
 
@@ -461,13 +524,17 @@ If access to funds is substantially restricted by plan provisions, investment co
 
 8. The plan itself must allow participants reasonable access to their funds.
 
+If access to funds is substantially restricted by plan provisions, investment contracts held by those plans may not be considered to be fully benefit-responsive. For example, if plan participants are allowed access at contract value to all or a portion of their account balances only upon termination of their participation in the plan, it would not be considered reasonable access and, therefore, investment contracts held by that plan would generally not be deemed to be fully benefit-responsive. However, in plans with a single investment fund that allow reasonable access to assets by inactive participants, restrictions on access to assets by active participants consistent with the objective of the plan (for example, retirement or health and welfare benefits) will not affect the benefit responsiveness of the investment contracts held by those single-fund plans. Also, if a plan limits participants' access to their account balances to certain specified times during the plan year (for example, semiannually or quarterly) to control the administrative costs of the plan, that limitation generally would not affect the benefit responsiveness of the investment contracts held by that plan. In addition, administrative provisions that place short-term restrictions (for example, three or six months) on transfers to competing fixed-rate investment options to limit arbitrage among those investment options (equity wash provisions) would not affect a contract's benefit responsiveness.
+
 ##### Income Taxes
 
-If access to funds is substantially restricted by plan provisions, investment contracts held by those plans may not be considered to be fully benefit-responsive. For example, if plan participants are allowed access at contract value to all or a portion of their account balances only upon termination of their participation in the plan, it would not be considered reasonable access and, therefore, investment contracts held by that plan would generally not be deemed to be fully benefit-responsive. However, in plans with a single investment fund that allow reasonable access to assets by inactive participants, restrictions on access to assets by active participants consistent with the objective of the plan (for example, retirement or health and welfare benefits) will not affect the benefit responsiveness of the investment contracts held by those single-fund plans. Also, if a plan limits participants' access to their account balances to certain specified times during the plan year (for example, semiannually or quarterly) to control the administrative costs of the plan, that limitation generally would not affect the benefit responsiveness of the investment contracts held by that plan. In addition, administrative provisions that place short-term restrictions (for example, three or six months) on transfers to competing fixed-rate investment options to limit arbitrage among those investment options (equity wash provisions) would not affect a contract's benefit responsiveness. Domestic and foreign federal (national), state, and local (including franchise) taxes based on income.
+Domestic and foreign federal (national), state, and local (including franchise) taxes based on income.
+Domestic and foreign federal (national), state, and local (including franchise) taxes based on income.
 
 ##### Liability Issued with an Inseparable Third-Party Credit Enhancement
 
-Domestic and foreign federal (national), state, and local (including franchise) taxes based on income. A liability that is issued with a credit enhancement obtained from a third party, such as debt that is issued with a financial guarantee from a third party that guarantees the issuer's payment obligation.
+A liability that is issued with a credit enhancement obtained from a third party, such as debt that is issued with a financial guarantee from a third party that guarantees the issuer's payment obligation.
+A liability that is issued with a credit enhancement obtained from a third party, such as debt that is issued with a financial guarantee from a third party that guarantees the issuer's payment obligation.
 
 ##### Market Participants
 
@@ -476,13 +543,14 @@ Domestic and foreign federal (national), state, and local (including franchise) 
 3. They are able to enter into a transaction for the asset or liability
 4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
 
-1. They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
 2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
 3. They are able to enter into a transaction for the asset or liability
 4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
 
 ##### Nonreciprocal Transfer
 
+Nonreciprocal transfer is a transfer of assets or services in one direction, either from an entity to its owners (whether or not in exchange for their ownership interests) or to another entity, or from owners or another entity to the entity. An entity's reacquisition of its outstanding stock is an example of a nonreciprocal transfer.
 Nonreciprocal transfer is a transfer of assets or services in one direction, either from an entity to its owners (whether or not in exchange for their ownership interests) or to another entity, or from owners or another entity to the entity. An entity's reacquisition of its outstanding stock is an example of a nonreciprocal transfer.
 
 ##### Not-for-Profit Entity
@@ -494,15 +562,16 @@ Nonreciprocal transfer is a transfer of assets or services in one direction, eit
 1. All investor-owned entities
 2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
 
-1. Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
+Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
 2. Operating purposes other than to provide goods or services at a profit
 3. Absence of ownership interests like those of business entities.
 
-1. All investor-owned entities
+All investor-owned entities
 2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
 
 ##### Orderly Transaction
 
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
 A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
 
 ##### Public Business Entity
@@ -514,7 +583,7 @@ A transaction that assumes exposure to the market for a period before the measur
 5. It has one or more securities that are not subject to contractual restrictions on transfer, and it is required by law, contract, or regulation to prepare U.S. GAAP financial statements (including notes) and make them publicly available on a periodic basis (for example, interim or annual periods). An entity must meet both of these conditions to meet this criterion.
 
 An entity may meet the definition of a public business entity solely because its financial statements or financial information is included in another entity's filing with the SEC. In that case, the entity is only a public business entity for purposes of financial statements that are filed or furnished with the SEC.
-1. It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing).
+It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing).
 2. It is required by the Securities Exchange Act of 1934 (the Act), as amended, or rules or regulations promulgated under the Act, to file or furnish financial statements with a regulatory agency other than the SEC.
 3. It is required to file or furnish financial statements with a foreign or domestic regulatory agency in preparation for the sale of or for purposes of issuing securities that are not subject to contractual restrictions on transfer.
 4. It has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market.
@@ -535,10 +604,12 @@ An entity may meet the definition of a public business entity solely because its
 ##### Reinsurance
 
 A transaction in which a reinsurer (assuming entity), for a consideration (premium), assumes all or part of a risk undertaken originally by another insurer (ceding entity). For indemnity reinsurance, the legal rights of the insured are not affected by the reinsurance transaction and the insurance entity issuing the insurance contract remains liable to the insured for payment of policy benefits. Assumption or novation reinsurance contracts that are legal replacements of one insurer by another extinguish the ceding entity's liability to the policyholder.
+A transaction in which a reinsurer (assuming entity), for a consideration (premium), assumes all or part of a risk undertaken originally by another insurer (ceding entity). For indemnity reinsurance, the legal rights of the insured are not affected by the reinsurance transaction and the insurance entity issuing the insurance contract remains liable to the insured for payment of policy benefits. Assumption or novation reinsurance contracts that are legal replacements of one insurer by another extinguish the ceding entity's liability to the policyholder.
 
 ##### Reinsurance Recoverable
 
-A transaction in which a reinsurer (assuming entity), for a consideration (premium), assumes all or part of a risk undertaken originally by another insurer (ceding entity). For indemnity reinsurance, the legal rights of the insured are not affected by the reinsurance transaction and the insurance entity issuing the insurance contract remains liable to the insured for payment of policy benefits. Assumption or novation reinsurance contracts that are legal replacements of one insurer by another extinguish the ceding entity's liability to the policyholder. All amounts recoverable from reinsurers for paid and unpaid claims and claim settlement expenses, including estimated amounts receivable for unsettled claims, claims incurred but not reported, or policy benefits.
+All amounts recoverable from reinsurers for paid and unpaid claims and claim settlement expenses, including estimated amounts receivable for unsettled claims, claims incurred but not reported, or policy benefits.
+All amounts recoverable from reinsurers for paid and unpaid claims and claim settlement expenses, including estimated amounts receivable for unsettled claims, claims incurred but not reported, or policy benefits.
 
 ##### Related Parties
 
@@ -550,7 +621,7 @@ A transaction in which a reinsurer (assuming entity), for a consideration (premi
 6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
 7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
 
-1. Affiliates of the entity
+Affiliates of the entity
 2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
 3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
 4. Principal owners of the entity and members of their immediate families
@@ -564,17 +635,17 @@ A transaction in which a reinsurer (assuming entity), for a consideration (premi
 2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
 3. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
 
-1. It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
+It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
 2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
 3. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
 
 ## 25 Recognition
 
-> **General Note:** The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
 
 ### Fair Value Option
 
-**825-10-25-1** > Overall Guidance
+**825-10-25-1** Related Proposed ASUs > Overall Guidance
 This Subtopic permits all entities to choose, at specified election dates, to measure eligible items at fair value
 (the fair value option).
 **825-10-25-1** This Subtopic permits all entities to choose, at specified election dates, to measure eligible items at fair value
@@ -602,6 +673,14 @@ Upfront costs and fees related to items for which the fair value option is elect
 
 3. An event that requires an eligible item to be measured at fair value at the time of the event but does not require fair value measurement at each reporting date after that, excluding the recognition of impairment under lower-of-cost-or-market accounting or accounting for securities in accordance with either Topic 321 on investments—equity securities or Topic 326 on measurement of credit losses.
 
+1. The entity first recognizes the eligible item.
+2. The entity enters into an eligible firm commitment.
+3. Financial assets that have been reported at fair value with unrealized gains and losses included in earnings because of specialized accounting principles cease to qualify for that specialized accounting (for example, a transfer of assets from a subsidiary subject to Subtopic 946-10 to another entity within the consolidated reporting entity not subject to that Subtopic).
+1. Subparagraph superseded by Accounting Standards Update No. 2016-01.
+2. Subparagraph superseded by Accounting Standards Update No. 2016-01.
+
+3. An event that requires an eligible item to be measured at fair value at the time of the event but does not require fair value measurement at each reporting date after that, excluding the recognition of impairment under lower-of-cost-or-market accounting, the recognition of other-than-temporary impairment for equity method investments in accordance with Topic 323 on investments—equity method and joint ventures, or accounting for securities in accordance with either Topic 321 on investments—equity securities or Topic 326 on measurement of credit losses.
+
 **825-10-25-4** The entity first recognizes the eligible item.
 2. The entity enters into an eligible firm commitment.
 3. Financial assets that have been reported at fair value with unrealized gains and losses included in earnings because of specialized accounting principles cease to qualify for that specialized accounting (for example, a transfer of assets from a subsidiary subject to Subtopic 946-10 to another entity within the consolidated reporting entity not subject to that Subtopic).
@@ -609,6 +688,14 @@ Upfront costs and fees related to items for which the fair value option is elect
 2. Subparagraph superseded by Accounting Standards Update No. 2016-01.
 
 3. An event that requires an eligible item to be measured at fair value at the time of the event but does not require fair value measurement at each reporting date after that, excluding the recognition of impairment under lower-of-cost-or-market accounting or accounting for securities in accordance with either Topic 321 on investments—equity securities or Topic 326 on measurement of credit losses.
+
+1. The entity first recognizes the eligible item.
+2. The entity enters into an eligible firm commitment.
+3. Financial assets that have been reported at fair value with unrealized gains and losses included in earnings because of specialized accounting principles cease to qualify for that specialized accounting (for example, a transfer of assets from a subsidiary subject to Subtopic 946-10 to another entity within the consolidated reporting entity not subject to that Subtopic).
+1. Subparagraph superseded by Accounting Standards Update No. 2016-01.
+2. Subparagraph superseded by Accounting Standards Update No. 2016-01.
+
+3. An event that requires an eligible item to be measured at fair value at the time of the event but does not require fair value measurement at each reporting date after that, excluding the recognition of impairment under lower-of-cost-or-market accounting, the recognition of other-than-temporary impairment for equity method investments in accordance with Topic 323 on investments—equity method and joint ventures, or accounting for securities in accordance with either Topic 321 on investments—equity securities or Topic 326 on measurement of credit losses.
 
 **825-10-25-5** Business combinations, as defined in Subtopic 805-10
 2. Consolidation or deconsolidation of a subsidiary or VIE
@@ -657,9 +744,9 @@ An investor in an equity security may elect the fair value option for its entire
 
 ## 35 Subsequent Measurement
 
-> **General Note:** The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
 
-> **General Note:** Note on Subsection Fair Value Option:Following the effective date of Accounting Standards Update No. 2016-01, the Subsection below, Fair Value Option, has been superseded.
+Note on Subsection Fair Value Option:Following the effective date of Accounting Standards Update No. 2016-01, the Subsection below, Fair Value Option, has been superseded.
 
 ### General
 
@@ -677,7 +764,7 @@ An investor in an equity security may elect the fair value option for its entire
 
 ## 45 Other Presentation Matters
 
-> **General Note:** The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
 
 ### General
 
@@ -726,11 +813,12 @@ The guidance in paragraph 825-10-45-5 does not apply to financial liabilities of
 
 ## 50 Disclosure
 
-> **General Note:** The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
 
 ### General
 
-**825-10-50-1** Fair value
+**825-10-50-1** Related Proposed ASUs
+Fair value
 1. of financial instruments
 2. Concentrations of credit risk of all financial instruments
 3. Market risk of all financial instruments.
@@ -807,8 +895,18 @@ Subparagraph superseded by Accounting Standards Update No. 2016-01.
 3. Subparagraph superseded by Accounting Standards Update No. 2016-01.
 4. Subparagraph superseded by Accounting Standards Update No. 2016-01.
 
-**825-10-50-10** For financial instruments recognized at fair value in the statement of financial position, the disclosure requirements of Topic 820 also apply.
-Subparagraph superseded by Accounting Standards Update No. 2016-01.
+1. Subparagraph superseded by Accounting Standards Update No. 2016-01.
+2. Subparagraph superseded by Accounting Standards Update No. 2016-01.
+3. Subparagraph superseded by Accounting Standards Update No. 2016-01.
+4. Subparagraph superseded by Accounting Standards Update No. 2016-01.
+
+For financial instruments recognized at fair value in the statement of financial position, the disclosure requirements of Topic 820 also apply.
+**825-10-50-10** Subparagraph superseded by Accounting Standards Update No. 2016-01.
+2. Subparagraph superseded by Accounting Standards Update No. 2016-01.
+3. Subparagraph superseded by Accounting Standards Update No. 2016-01.
+4. Subparagraph superseded by Accounting Standards Update No. 2016-01.
+
+1. Subparagraph superseded by Accounting Standards Update No. 2016-01.
 2. Subparagraph superseded by Accounting Standards Update No. 2016-01.
 3. Subparagraph superseded by Accounting Standards Update No. 2016-01.
 4. Subparagraph superseded by Accounting Standards Update No. 2016-01.
@@ -817,14 +915,22 @@ Subparagraph superseded by Accounting Standards Update No. 2016-01.
 Whether the fair value and carrying amount represent assets or liabilities
 2. How the carrying amounts relate to what is reported in the statement of financial position.
 
+1. Whether the fair value and carrying amount represent assets or liabilities
+2. How the carrying amounts relate to what is reported in the statement of financial position.
+
 **825-10-50-11** Whether the fair value and carrying amount represent assets or liabilities
+2. How the carrying amounts relate to what is reported in the statement of financial position.
+
+1. Whether the fair value and carrying amount represent assets or liabilities
 2. How the carrying amounts relate to what is reported in the statement of financial position.
 
 **825-10-50-11A** See paragraph 470-20-50-1D for additional guidance on disclosures about fair value of convertible debt instruments.
 **825-10-50-11A** See paragraph 470-20-50-1D for additional guidance on disclosures about fair value of convertible debt instruments.
 **825-10-50-12** If the fair value of financial instruments is disclosed in more than a single note, one of the notes shall include a summary table. The summary table shall contain the fair value and related carrying amounts and cross-references to the location(s) of the remaining disclosures required by this Section.
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1If the fair value of financial instruments is disclosed in more than a single note, one of the notes shall include a summary table in interim and annual reporting periods. The summary table shall contain the fair value and related carrying amounts and cross-references to the location(s) of the remaining disclosures required by this Section.
 **825-10-50-12** If the fair value of financial instruments is disclosed in more than a single note, one of the notes shall include a summary table. The summary table shall contain the fair value and related carrying amounts and cross-references to the location(s) of the remaining disclosures required by this Section.
-**825-10-50-13** This Subtopic does not prohibit an entity from disclosing separately the estimated fair value of any of its nonfinancial intangible and tangible assets and nonfinancial liabilities.
+**825-10-50-13** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1If the fair value of financial instruments is disclosed in more than a single note, one of the notes shall include a summary table in interim and annual reporting periods. The summary table shall contain the fair value and related carrying amounts and cross-references to the location(s) of the remaining disclosures required by this Section.
+This Subtopic does not prohibit an entity from disclosing separately the estimated fair value of any of its nonfinancial intangible and tangible assets and nonfinancial liabilities.
 **825-10-50-13** This Subtopic does not prohibit an entity from disclosing separately the estimated fair value of any of its nonfinancial intangible and tangible assets and nonfinancial liabilities.
 **825-10-50-14** Paragraph superseded by Accounting Standards Update No. 2016-01.
 **825-10-50-14** Paragraph superseded by Accounting Standards Update No. 2016-01.
@@ -846,8 +952,20 @@ Whether the fair value and carrying amount represent assets or liabilities
 **825-10-50-19** Paragraph superseded by Accounting Standards Update No. 2016-01.
 **825-10-50-20** > Concentrations of Credit Risk of All Financial Instruments
 Except as indicated in paragraph 825-10-50-22, an entity shall disclose all significant concentrations of credit risk arising from all financial instruments, whether from an individual counterparty or groups of counterparties. Throughout paragraphs 825-10-50-20 through 50-21, the term *financial instruments* includes derivative instruments accounted for under Topic 815. Group concentrations of credit risk exist if a number of counterparties are engaged in similar activities and have similar economic characteristics that would cause their ability to meet contractual obligations to be similarly affected by changes in economic or other conditions.
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For interim and annual reporting periods, except as indicated in paragraph 825-10-50-22, an entity shall disclose all significant concentrations of credit risk arising from all financial instruments, whether from an individual counterparty or groups of counterparties. Throughout paragraphs 825-10-50-20 through 50-21, the term *financial instruments* includes derivative instruments accounted for under Topic 815. Group concentrations of credit risk exist if a number of counterparties are engaged in similar activities and have similar economic characteristics that would cause their ability to meet contractual obligations to be similarly affected by changes in economic or other conditions.
 **825-10-50-20** Except as indicated in paragraph 825-10-50-22, an entity shall disclose all significant concentrations of credit risk arising from all financial instruments, whether from an individual counterparty or groups of counterparties. Throughout paragraphs 825-10-50-20 through 50-21, the term *financial instruments* includes derivative instruments accounted for under Topic 815. Group concentrations of credit risk exist if a number of counterparties are engaged in similar activities and have similar economic characteristics that would cause their ability to meet contractual obligations to be similarly affected by changes in economic or other conditions.
-**825-10-50-21** Information about the (shared) activity, region, or economic characteristic that identifies the concentration
+**825-10-50-21** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For interim and annual reporting periods, except as indicated in paragraph 825-10-50-22, an entity shall disclose all significant concentrations of credit risk arising from all financial instruments, whether from an individual counterparty or groups of counterparties. Throughout paragraphs 825-10-50-20 through 50-21, the term *financial instruments* includes derivative instruments accounted for under Topic 815. Group concentrations of credit risk exist if a number of counterparties are engaged in similar activities and have similar economic characteristics that would cause their ability to meet contractual obligations to be similarly affected by changes in economic or other conditions.
+Information about the (shared) activity, region, or economic characteristic that identifies the concentration
+2. The maximum amount of loss due to credit risk that, based on the gross fair value of the financial instrument, the entity would incur if parties to the financial instruments that make up the concentration failed completely to perform according to the terms of the contracts and the collateral or other security, if any, for the amount due proved to be of no value to the entity
+1. The entity's policy of requiring collateral or other security to support financial instruments subject to credit risk
+2. Information about the entity's access to that collateral or other security
+3. The nature and a brief description of the collateral or other security supporting those financial instruments.
+
+1. The entity's policy of entering into master netting arrangements to mitigate the credit risk of financial instruments
+2. Information about the arrangements for which the entity is a party
+3. A brief description of the terms of those arrangements, including the extent to which they would reduce the entity's maximum amount of loss due to credit risk.
+
+1. Information about the (shared) activity, region, or economic characteristic that identifies the concentration
 2. The maximum amount of loss due to credit risk that, based on the gross fair value of the financial instrument, the entity would incur if parties to the financial instruments that make up the concentration failed completely to perform according to the terms of the contracts and the collateral or other security, if any, for the amount due proved to be of no value to the entity
 1. The entity's policy of requiring collateral or other security to support financial instruments subject to credit risk
 2. Information about the entity's access to that collateral or other security
@@ -858,6 +976,16 @@ Except as indicated in paragraph 825-10-50-22, an entity shall disclose all sign
 3. A brief description of the terms of those arrangements, including the extent to which they would reduce the entity's maximum amount of loss due to credit risk.
 
 **825-10-50-21** Information about the (shared) activity, region, or economic characteristic that identifies the concentration
+2. The maximum amount of loss due to credit risk that, based on the gross fair value of the financial instrument, the entity would incur if parties to the financial instruments that make up the concentration failed completely to perform according to the terms of the contracts and the collateral or other security, if any, for the amount due proved to be of no value to the entity
+1. The entity's policy of requiring collateral or other security to support financial instruments subject to credit risk
+2. Information about the entity's access to that collateral or other security
+3. The nature and a brief description of the collateral or other security supporting those financial instruments.
+
+1. The entity's policy of entering into master netting arrangements to mitigate the credit risk of financial instruments
+2. Information about the arrangements for which the entity is a party
+3. A brief description of the terms of those arrangements, including the extent to which they would reduce the entity's maximum amount of loss due to credit risk.
+
+1. Information about the (shared) activity, region, or economic characteristic that identifies the concentration
 2. The maximum amount of loss due to credit risk that, based on the gross fair value of the financial instrument, the entity would incur if parties to the financial instruments that make up the concentration failed completely to perform according to the terms of the contracts and the collateral or other security, if any, for the amount due proved to be of no value to the entity
 1. The entity's policy of requiring collateral or other security to support financial instruments subject to credit risk
 2. Information about the entity's access to that collateral or other security
@@ -892,7 +1020,7 @@ This list is not exhaustive, and an entity is encouraged to develop other ways o
 
 ### Fair Value Option
 
-**825-10-50-23A** This list is not exhaustive, and an entity is encouraged to develop other ways of reporting quantitative information. > Applicability of This Subsection
+**825-10-50-23A** This list is not exhaustive, and an entity is encouraged to develop other ways of reporting quantitative information. Related Proposed ASUs > Applicability of This Subsection
 This guidance discusses the applicability of the disclosure requirements in this Subsection to all entities that have elected the fair value option.
 **825-10-50-23A** This guidance discusses the applicability of the disclosure requirements in this Subsection to all entities that have elected the fair value option.
 **825-10-50-24** The principal objectives of the disclosures required by paragraphs 825-10-50-28 through 50-32
@@ -941,7 +1069,39 @@ Management's reasons for electing a fair value option for each eligible item or 
 
 4. For investments that would have been accounted for under the equity method if the entity had not chosen to apply the fair value option, the information required by paragraph 323-10-50-3 (excluding the disclosures in paragraph 323-10-50-3(a)(3); (b); and (d)).
 
+1. Management's reasons for electing a fair value option for each eligible item or group of similar eligible items
+1. A description of those similar items and the reasons for partial election
+2. Information to enable users to understand how the group of similar items relates to individual line items on the statement of financial position.
+
+1. Information to enable users to understand how each line item in the statement of financial position relates to major classes of assets and liabilities presented in accordance with the fair value disclosure requirements of Topic 820. (Paragraph 825-10-50-11 also requires an entity to relate carrying amounts that are disclosed in accordance with that paragraph to what is reported in the statement of financial position.)
+2. The aggregate carrying amount of items included in each line item in the statement of financial position that are not eligible for the fair value option, if any.
+
+1. Loans and long-term receivables (other than securities subject to Topic 320) that have contractual principal amounts and for which the fair value option has been elected
+2. Long-term debt instruments that have contractual principal amounts and for which the fair value option has been elected.
+
+1. The aggregate fair value of loans that are 90 days or more past due
+2. If the entity's policy is to recognize interest income separately from other changes in fair value, the aggregate fair value of loans in nonaccrual status
+3. The difference between the aggregate fair value and the aggregate unpaid principal balance for loans that are 90 days or more past due, in nonaccrual status, or both.
+
+4. For investments that would have been accounted for under the equity method if the entity had not chosen to apply the fair value option, the information required by paragraph 323-10-50-3 (excluding the disclosures in paragraph 323-10-50-3(a)(3); (b); and (d)).
+
 **825-10-50-28** Management's reasons for electing a fair value option for each eligible item or group of similar eligible items
+1. A description of those similar items and the reasons for partial election
+2. Information to enable users to understand how the group of similar items relates to individual line items on the statement of financial position.
+
+1. Information to enable users to understand how each line item in the statement of financial position relates to major classes of assets and liabilities presented in accordance with the fair value disclosure requirements of Topic 820. (Paragraph 825-10-50-11 also requires an entity to relate carrying amounts that are disclosed in accordance with that paragraph to what is reported in the statement of financial position.)
+2. The aggregate carrying amount of items included in each line item in the statement of financial position that are not eligible for the fair value option, if any.
+
+1. Loans and long-term receivables (other than securities subject to Topic 320) that have contractual principal amounts and for which the fair value option has been elected
+2. Long-term debt instruments that have contractual principal amounts and for which the fair value option has been elected.
+
+1. The aggregate fair value of loans that are 90 days or more past due
+2. If the entity's policy is to recognize interest income separately from other changes in fair value, the aggregate fair value of loans in nonaccrual status
+3. The difference between the aggregate fair value and the aggregate unpaid principal balance for loans that are 90 days or more past due, in nonaccrual status, or both.
+
+4. For investments that would have been accounted for under the equity method if the entity had not chosen to apply the fair value option, the information required by paragraph 323-10-50-3 (excluding the disclosures in paragraph 323-10-50-3(a)(3); (b); and (d)).
+
+1. Management's reasons for electing a fair value option for each eligible item or group of similar eligible items
 1. A description of those similar items and the reasons for partial election
 2. Information to enable users to understand how the group of similar items relates to individual line items on the statement of financial position.
 
@@ -975,7 +1135,27 @@ For each line item in the statement of financial position, the amounts of gains 
 3. How the gains and losses attributable to changes in instrument-specific credit risk were determined.
 4. If a liability is settled during the period, the amount, if any, recognized in other comprehensive income that was recognized in net income at settlement.
 
+1. For each line item in the statement of financial position, the amounts of gains and losses from fair value changes included in earnings during the period and in which line in the income statement those gains and losses are reported. This Subtopic does not preclude an entity from meeting this requirement by disclosing amounts of gains and losses that include amounts of gains and losses for other items measured at fair value, such as items required to be measured at fair value.
+2. A description of how interest and dividends are measured and where they are reported in the income statement. This Subtopic does not address the methods used for recognizing and measuring the amount of dividend income, interest income, and interest expense for items for which the fair value option has been elected.
+1. The estimated amount of gains or losses included in earnings during the period attributable to changes in instrument-specific credit risk
+2. How the gains or losses attributable to changes in instrument-specific credit risk were determined.
+
+1. The amount of change, during the period and cumulatively, of the fair value of the liability that is attributable to changes in the instrument-specific credit risk
+2. Subparagraph superseded by Accounting Standards Update No. 2016-01.
+3. How the gains and losses attributable to changes in instrument-specific credit risk were determined.
+4. If a liability is settled during the period, the amount, if any, recognized in other comprehensive income that was recognized in net income at settlement.
+
 **825-10-50-30** For each line item in the statement of financial position, the amounts of gains and losses from fair value changes included in earnings during the period and in which line in the income statement those gains and losses are reported. This Subtopic does not preclude an entity from meeting this requirement by disclosing amounts of gains and losses that include amounts of gains and losses for other items measured at fair value, such as items required to be measured at fair value.
+2. A description of how interest and dividends are measured and where they are reported in the income statement. This Subtopic does not address the methods used for recognizing and measuring the amount of dividend income, interest income, and interest expense for items for which the fair value option has been elected.
+1. The estimated amount of gains or losses included in earnings during the period attributable to changes in instrument-specific credit risk
+2. How the gains or losses attributable to changes in instrument-specific credit risk were determined.
+
+1. The amount of change, during the period and cumulatively, of the fair value of the liability that is attributable to changes in the instrument-specific credit risk
+2. Subparagraph superseded by Accounting Standards Update No. 2016-01.
+3. How the gains and losses attributable to changes in instrument-specific credit risk were determined.
+4. If a liability is settled during the period, the amount, if any, recognized in other comprehensive income that was recognized in net income at settlement.
+
+1. For each line item in the statement of financial position, the amounts of gains and losses from fair value changes included in earnings during the period and in which line in the income statement those gains and losses are reported. This Subtopic does not preclude an entity from meeting this requirement by disclosing amounts of gains and losses that include amounts of gains and losses for other items measured at fair value, such as items required to be measured at fair value.
 2. A description of how interest and dividends are measured and where they are reported in the income statement. This Subtopic does not address the methods used for recognizing and measuring the amount of dividend income, interest income, and interest expense for items for which the fair value option has been elected.
 1. The estimated amount of gains or losses included in earnings during the period attributable to changes in instrument-specific credit risk
 2. How the gains or losses attributable to changes in instrument-specific credit risk were determined.
@@ -987,22 +1167,30 @@ For each line item in the statement of financial position, the amounts of gains 
 
 **825-10-50-31** > Other Required Disclosures
 In annual periods only, an entity shall disclose the methods and significant assumptions used to estimate the fair value of items for which the fair value option has been elected. For required disclosures about the method(s) and significant assumptions used to estimate the fair value of financial instruments, see paragraph 820-10-50-2(bbb) except that an entity is not required to provide the quantitative disclosures about significant unobservable inputs used in fair value measurements categorized within Level 3 of the fair value hierarchy required by that paragraph.
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1In interim and annual periods, an entity shall disclose the methods and significant assumptions used to estimate the fair value of items for which the fair value option has been elected. For required disclosures about the method(s) and significant assumptions used to estimate the fair value of financial instruments, see paragraph 820-10-50-2(bbb) except that an entity is not required to provide the quantitative disclosures about significant unobservable inputs used in fair value measurements categorized within Level 3 of the fair value hierarchy required by that paragraph.
 **825-10-50-31** In annual periods only, an entity shall disclose the methods and significant assumptions used to estimate the fair value of items for which the fair value option has been elected. For required disclosures about the method(s) and significant assumptions used to estimate the fair value of financial instruments, see paragraph 820-10-50-2(bbb) except that an entity is not required to provide the quantitative disclosures about significant unobservable inputs used in fair value measurements categorized within Level 3 of the fair value hierarchy required by that paragraph.
-**825-10-50-32** Qualitative information about the nature of the event
+**825-10-50-32** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1In interim and annual periods, an entity shall disclose the methods and significant assumptions used to estimate the fair value of items for which the fair value option has been elected. For required disclosures about the method(s) and significant assumptions used to estimate the fair value of financial instruments, see paragraph 820-10-50-2(bbb) except that an entity is not required to provide the quantitative disclosures about significant unobservable inputs used in fair value measurements categorized within Level 3 of the fair value hierarchy required by that paragraph.
+Qualitative information about the nature of the event
+2. Quantitative information by line item in the statement of financial position indicating which line items in the income statement include the effect on earnings of initially electing the fair value option for an item.
+
+1. Qualitative information about the nature of the event
 2. Quantitative information by line item in the statement of financial position indicating which line items in the income statement include the effect on earnings of initially electing the fair value option for an item.
 
 **825-10-50-32** Qualitative information about the nature of the event
+2. Quantitative information by line item in the statement of financial position indicating which line items in the income statement include the effect on earnings of initially electing the fair value option for an item.
+
+1. Qualitative information about the nature of the event
 2. Quantitative information by line item in the statement of financial position indicating which line items in the income statement include the effect on earnings of initially electing the fair value option for an item.
 
 ## 55 Implementation Guidance and Illustrations
 
-> **General Note:** The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
 
 ### General
 
 ##### · > Concentrations Involving Loan Product Terms
 
-**825-10-55-1** > Implementation Guidance
+**825-10-55-1** Related Proposed ASUs > Implementation Guidance
 Borrowers subject to significant payment increases
 2. Loans with terms that permit negative amortization
 3. Loans with high loan-to-value ratios.
@@ -1024,7 +1212,7 @@ Borrowers subject to significant payment increases
 
 ##### · > Example 1: Fair Value Measurements and Changes in Fair Values Included in Current-Period Earnings
 
-**825-10-55-6** > Illustrations
+**825-10-55-6** Related Proposed ASUs > Illustrations
 The following Cases illustrate selected disclosure requirements for items reported at fair value
 1. The Fair Value Option Subsection of 825-10-50 disclosures with voluntary integration of the General Subsection of 825-10-50 disclosures (Case A)
 2. The Fair Value Option Subsection of 825-10-50 disclosures without voluntary integration of the General Subsection of 825-10-50 disclosures (Case B).
@@ -1053,8 +1241,8 @@ Disclosures required by paragraphs 825-10-50-28(c) and 825-10-50-30(a) are illus
 **825-10-55-10** Provide information about where in the income statement changes in fair values of assets and liabilities reported at fair value are included in earnings
 2. Voluntarily integrate selected disclosures required annually by the General Subsection of 825-10-50.
 
-**825-10-55-11** Disclosures required by paragraphs 825-10-50-28(c) and 825-10-50-30(a) are illustrated in the narrative disclosure that follows the table.
-Management's reasons for electing a fair value option for each eligible item or group of similar eligible items
+Disclosures required by paragraphs 825-10-50-28(c) and 825-10-50-30(a) are illustrated in the narrative disclosure that follows the table.
+**825-10-55-11** Management's reasons for electing a fair value option for each eligible item or group of similar eligible items
 1. A description of those similar items and the reasons for partial election
 2. Information to enable users to understand how the group of similar items relates to individual line items on the statement of financial position.
 
@@ -1075,7 +1263,7 @@ The following table illustrates an alternative presentation that does not integr
 
 ## 60 Relationships
 
-> **General Note:** The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
+General Note:The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
 
 ### General
 
@@ -1086,11 +1274,12 @@ of deposit liabilities, see paragraph 942-470-50-1.
 
 ## 65 Transition and Open Effective Date Information
 
-> **General Note:** The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
+General Note:The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
 
 ### General
 
-**825-10-65-1** Paragraph superseded on 04/13/2010 after the end of the transition period stated in FSP FAS 107-1 and APB 28-1, *Interim Disclosures about Fair Value of Financial Instruments*.
+**825-10-65-1** Related Proposed ASUs
+Paragraph superseded on 04/13/2010 after the end of the transition period stated in FSP FAS 107-1 and APB 28-1, *Interim Disclosures about Fair Value of Financial Instruments*.
 **825-10-65-1** Paragraph superseded on 04/13/2010 after the end of the transition period stated in FSP FAS 107-1 and APB 28-1, *Interim Disclosures about Fair Value of Financial Instruments*.
 **825-10-65-2** Paragraph superseded on 08/19/2021 after the end of the transition period stated in Accounting Standards Update No. 2016-01, *Financial Instruments—Overall (Subtopic 825-10): Recognition and Measurement of Financial Assets and Financial Liabilities*.
 **825-10-65-2** Paragraph superseded on 08/19/2021 after the end of the transition period stated in Accounting Standards Update No. 2016-01, *Financial Instruments—Overall (Subtopic 825-10): Recognition and Measurement of Financial Assets and Financial Liabilities*.

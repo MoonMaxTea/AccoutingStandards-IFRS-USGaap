@@ -13,7 +13,7 @@ subtopics: ["808-10"]
 
 ## 00 Status
 
-> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
 ### General
 
@@ -75,7 +75,7 @@ subtopics: ["808-10"]
 
 ## 05 Overview and Background
 
-> **General Note:** The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
 
 ### General
 
@@ -85,7 +85,7 @@ subtopics: ["808-10"]
 
 ## 10 Objectives
 
-> **General Note:** The Objectives Section provides the high-level objectives that the Subtopic is intended to accomplish or attain. The Section does not summarize or discuss the main principles of accounting and reporting requirements.
+General Note:The Objectives Section provides the high-level objectives that the Subtopic is intended to accomplish or attain. The Section does not summarize or discuss the main principles of accounting and reporting requirements.
 
 ### General
 
@@ -95,7 +95,7 @@ and to establish reporting requirements for transactions between participants in
 
 ## 15 Scope and Scope Exceptions
 
-> **General Note:** The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
 
 ### General
 
@@ -111,7 +111,9 @@ The guidance in this Topic does not apply to arrangements for which the accounti
 The guidance in this Topic does not apply to arrangements for which the accounting is specifically addressed within the scope of other authoritative accounting literature.
 **808-10-15-4** > Other Considerations
 A collaborative arrangement within the scope of this Topic is not primarily conducted through a separate legal entity created for that activity. However, in some situations part of a collaborative arrangement may be conducted in a legal entity for specific activities or for a specific geographic location. The existence of a legal entity for part of an arrangement does not prevent an arrangement from being a collaborative arrangement. The part of the arrangement that is conducted in a separate legal entity shall be accounted for under the guidance in Topic 810, Consolidation, Subtopic 323-10, Investments—Equity Method and Joint Ventures, or other related accounting literature. However, the disclosures required by paragraph 808-10-50-1 apply to the entire collaborative arrangement, notwithstanding that a portion of the collaborative arrangement may be conducted in a legal entity.
+PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 A collaborative arrangement within the scope of this Topic is not primarily conducted through a separate legal entity created for that activity. However, in some situations part of a collaborative arrangement may be conducted in a legal entity for specific activities or for a specific geographic location. The existence of a legal entity for part of an arrangement does not prevent an arrangement from being a collaborative arrangement. The part of the arrangement that is conducted in a separate legal entity shall be accounted for under the guidance in Topic 810, Consolidation, Subtopic 805-60, Business Combinations—Joint Venture Formations, Subtopic 323-10, Investments—Equity Method and Joint Ventures, or other related accounting literature. However, the disclosures required by paragraph 808-10-50-1 apply to the entire collaborative arrangement, notwithstanding that a portion of the collaborative arrangement may be conducted in a legal entity.
 A collaborative arrangement within the scope of this Topic is not primarily conducted through a separate legal entity created for that activity. However, in some situations part of a collaborative arrangement may be conducted in a legal entity for specific activities or for a specific geographic location. The existence of a legal entity for part of an arrangement does not prevent an arrangement from being a collaborative arrangement. The part of the arrangement that is conducted in a separate legal entity shall be accounted for under the guidance in Topic 810, Consolidation, Subtopic 323-10, Investments—Equity Method and Joint Ventures, or other related accounting literature. However, the disclosures required by paragraph 808-10-50-1 apply to the entire collaborative arrangement, notwithstanding that a portion of the collaborative arrangement may be conducted in a legal entity.
+**808-10-15-5** PENDING CONTENT Transition date: January 1, 2025; January 1, 2025Transition guidance: 805-60-65-1 A collaborative arrangement within the scope of this Topic is not primarily conducted through a separate legal entity created for that activity. However, in some situations part of a collaborative arrangement may be conducted in a legal entity for specific activities or for a specific geographic location. The existence of a legal entity for part of an arrangement does not prevent an arrangement from being a collaborative arrangement. The part of the arrangement that is conducted in a separate legal entity shall be accounted for under the guidance in Topic 810, Consolidation, Subtopic 805-60, Business Combinations—Joint Venture Formations, Subtopic 323-10, Investments—Equity Method and Joint Ventures, or other related accounting literature. However, the disclosures required by paragraph 808-10-50-1 apply to the entire collaborative arrangement, notwithstanding that a portion of the collaborative arrangement may be conducted in a legal entity.
 This Topic does not address all recognition or measurement matters related to collaborative arrangements, for example, determining the appropriate units of accounting, the appropriate recognition requirements for a given unit of account, or when the recognition criteria are met.
 This Topic does not address all recognition or measurement matters related to collaborative arrangements, for example, determining the appropriate units of accounting, the appropriate recognition requirements for a given unit of account, or when the recognition criteria are met.
 A collaborative arrangement within the scope of this Topic may be partially within the scope of other Topics, including, but not limited to, Topic 606 on revenue from contracts with customers.
@@ -170,27 +172,31 @@ Many collaborative arrangements involve licenses of intellectual property, and t
 
 ## 20 Glossary
 
-> **General Note:** The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
 
 ##### Collaborative Arrangement
 
 1. They are active participants in the activity (see paragraphs 808-10-15-8 through 15-9).
 2. They are exposed to significant risks and rewards dependent on the commercial success of the activity (see paragraphs 808-10-15-10 through 15-13).
 
-1. They are active participants in the activity (see paragraphs 808-10-15-8 through 15-9).
+They are active participants in the activity (see paragraphs 808-10-15-8 through 15-9
+1. ).
 2. They are exposed to significant risks and rewards dependent on the commercial success of the activity (see paragraphs 808-10-15-10 through 15-13).
 
 ##### Contract
 
 An agreement between two or more parties that creates enforceable rights and obligations.
+An agreement between two or more parties that creates enforceable rights and obligations.
 
 ##### Customer
 
-An agreement between two or more parties that creates enforceable rights and obligations. A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.
+A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.
+A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.
 
 ##### Endeavor
 
-A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.The activity that participants in a collaborative arrangement collaborate on. For example, in a biotechnology or pharmaceutical environment the endeavor may be the development and commercialization of a drug candidate. In the entertainment industry, it may be production and distribution of a motion picture.
+The activity that participants in a collaborative arrangement collaborate on. For example, in a biotechnology or pharmaceutical environment the endeavor may be the development and commercialization of a drug candidate. In the entertainment industry, it may be production and distribution of a motion picture.
+The activity that participants in a collaborative arrangement collaborate on. For example, in a biotechnology or pharmaceutical environment the endeavor may be the development and commercialization of a drug candidate. In the entertainment industry, it may be production and distribution of a motion picture.
 
 ##### Not-for-Profit Entity
 
@@ -201,11 +207,11 @@ A party that has contracted with an entity to obtain goods or services that are 
 1. All investor-owned entities
 2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
 
-1. Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
+Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
 2. Operating purposes other than to provide goods or services at a profit
 3. Absence of ownership interests like those of business entities.
 
-1. All investor-owned entities
+All investor-owned entities
 2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
 
 ##### Public Business Entity
@@ -217,7 +223,7 @@ A party that has contracted with an entity to obtain goods or services that are 
 5. It has one or more securities that are not subject to contractual restrictions on transfer, and it is required by law, contract, or regulation to prepare U.S. GAAP financial statements (including notes) and make them publicly available on a periodic basis (for example, interim or annual periods). An entity must meet both of these conditions to meet this criterion.
 
 An entity may meet the definition of a public business entity solely because its financial statements or financial information is included in another entity's filing with the SEC. In that case, the entity is only a public business entity for purposes of financial statements that are filed or furnished with the SEC.
-1. It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing).
+It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing).
 2. It is required by the Securities Exchange Act of 1934 (the Act), as amended, or rules or regulations promulgated under the Act, to file or furnish financial statements with a regulatory agency other than the SEC.
 3. It is required to file or furnish financial statements with a foreign or domestic regulatory agency in preparation for the sale of or for purposes of issuing securities that are not subject to contractual restrictions on transfer.
 4. It has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market.
@@ -226,6 +232,7 @@ An entity may meet the definition of a public business entity solely because its
 ##### Revenue
 
 An entity may meet the definition of a public business entity solely because its financial statements or financial information is included in another entity's filing with the SEC. In that case, the entity is only a public business entity for purposes of financial statements that are filed or furnished with the SEC. Inflows or other enhancements of assets of an entity or settlements of its liabilities (or a combination of both) from delivering or producing goods, rendering services, or other activities that constitute the entity's ongoing major or central operations.
+Inflows or other enhancements of assets of an entity or settlements of its liabilities (or a combination of both) from delivering or producing goods, rendering services, or other activities that constitute the entity's ongoing major or central operations.
 
 ##### Security
 
@@ -233,13 +240,13 @@ An entity may meet the definition of a public business entity solely because its
 2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
 3. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
 
-1. It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
+It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
 2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
 3. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
 
 ## 45 Other Presentation Matters
 
-> **General Note:** The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
 
 ### General
 
@@ -262,7 +269,7 @@ See Section 808-10-55 for additional guidance, including Examples 1 through 4.
 
 ## 50 Disclosure
 
-> **General Note:** The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
 
 ### General
 
@@ -281,7 +288,7 @@ Information related to individually significant collaborative arrangements shall
 
 ## 55 Implementation Guidance and Illustrations
 
-> **General Note:** The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
 
 ### General
 
@@ -298,7 +305,7 @@ This Example illustrates the guidance in Section 808-10-45. Pharma and Biotech a
 Based on an evaluation of the facts and circumstances, Pharma concludes that it is the principal on the sales transactions with third parties and will present 100 percent of the sales, cost of sales, and marketing expenses in its income statement. Pharma has concluded that other authoritative accounting literature does not apply directly to net payments to Biotech, including Topic 606 on revenue
 from contracts with customers because Biotech is not a customer. Pharma has concluded that Biotech is not a customer because Biotech has not contracted with Pharma to obtain goods or services that are an output of Pharma's ordinary activities in exchange for consideration. Pharma also has concluded that there is no other authoritative accounting literature that is appropriate to apply by analogy, and, accordingly, its accounting policy is to evaluate the presentation of amounts due from or owed to other participants associated with multiple activities in a collaborative arrangement based on the nature of each separate activity. As a result, Pharma disaggregates its $15 million net payable to Biotech in accordance with the nature of the individual components of the payable and characterizes the profit sharing portion of the payable for 50 percent of the profit related to the sales as cost of sales ($10 million) and characterizes the portion of the payable to Biotech for research and development activities as research and development expense ($5 million). Pharma presents the following information in its financial statements with respect to this collaborative arrangement (in thousands):
 Based on an evaluation of the facts and circumstances, Pharma concludes that it is the principal on the sales transactions with third parties and will present 100 percent of the sales, cost of sales, and marketing expenses in its income statement. Pharma has concluded that other authoritative accounting literature does not apply directly to net payments to Biotech, including Topic 606 on revenue
-**808-10-55-5** from contracts with customers because Biotech is not a customer. Pharma has concluded that Biotech is not a customer because Biotech has not contracted with Pharma to obtain goods or services that are an output of Pharma's ordinary activities in exchange for consideration. Pharma also has concluded that there is no other authoritative accounting literature that is appropriate to apply by analogy, and, accordingly, its accounting policy is to evaluate the presentation of amounts due from or owed to other participants associated with multiple activities in a collaborative arrangement based on the nature of each separate activity. As a result, Pharma disaggregates its $15 million net payable to Biotech in accordance with the nature of the individual components of the payable and characterizes the profit sharing portion of the payable for 50 percent of the profit related to the sales as cost of sales ($10 million) and characterizes the portion of the payable to Biotech for research and development activities as research and development expense ($5 million). Pharma presents the following information in its financial statements with respect to this collaborative arrangement (in thousands):
+from contracts with customers because Biotech is not a customer. Pharma has concluded that Biotech is not a customer because Biotech has not contracted with Pharma to obtain goods or services that are an output of Pharma's ordinary activities in exchange for consideration. Pharma also has concluded that there is no other authoritative accounting literature that is appropriate to apply by analogy, and, accordingly, its accounting policy is to evaluate the presentation of amounts due from or owed to other participants associated with multiple activities in a collaborative arrangement based on the nature of each separate activity. As a result, Pharma disaggregates its $15 million net payable to Biotech in accordance with the nature of the individual components of the payable and characterizes the profit sharing portion of the payable for 50 percent of the profit related to the sales as cost of sales ($10 million) and characterizes the portion of the payable to Biotech for research and development activities as research and development expense ($5 million). Pharma presents the following information in its financial statements with respect to this collaborative arrangement (in thousands):
 Biotech records research and development expense ($10 million) for its research and development activities. Biotech has concluded that the research and development services to Pharma represent a distinct service provided to Pharma as a customer. Biotech has concluded that Pharma is a customer because Pharma contracted with Biotech to obtain research and development services that are an output of Biotech's ordinary activities in exchange for consideration. Therefore, Biotech applies the guidance in Topic 606 on revenue from contracts with customers to account for and present its net receivable from Pharma, including profit-sharing payments, as revenue ($15 million) when recognized. Biotech will not present sales, cost of sales, or marketing expenses related to the sales transactions with third parties because it is not the principal on those transactions. Biotech presents the following information in its financial statements with respect to this collaborative arrangement (in thousands):
 Biotech records research and development expense ($10 million) for its research and development activities. Biotech has concluded that the research and development services to Pharma represent a distinct service provided to Pharma as a customer. Biotech has concluded that Pharma is a customer because Pharma contracted with Biotech to obtain research and development services that are an output of Biotech's ordinary activities in exchange for consideration. Therefore, Biotech applies the guidance in Topic 606 on revenue from contracts with customers to account for and present its net receivable from Pharma, including profit-sharing payments, as revenue ($15 million) when recognized. Biotech will not present sales, cost of sales, or marketing expenses related to the sales transactions with third parties because it is not the principal on those transactions. Biotech presents the following information in its financial statements with respect to this collaborative arrangement (in thousands):
 This evaluation is not intended to illustrate the appropriate revenue recognition requirements for any of the transactions described in this Example or the appropriateness of the conclusions reached on determining whether and how authoritative accounting literature applies directly or by analogy. Rather, those conclusions have been assumed as facts in this Example.
@@ -311,7 +318,7 @@ Based on an evaluation of the facts and circumstances, Pharma concludes that it 
 Biotech records research and development expense ($10 million) for its research and development activities. Biotech will characterize the portion of the net receivable from Pharma related to Pharma's sales to third parties ($16.25 million) as revenue. Biotech also considers performing research and development services to be part of its ordinary activities and is providing the output of those activities to Pharma as a customer in the context of the unit of account related to research and development services. Biotech analyzes its specific facts and circumstances under the guidance on consideration payable to a customer in paragraphs 606-10-32-25 through 32-27
 and determines that the portion of the net receivable that relates to a reimbursement of Pharma's research and development costs ($2.5 million) should be characterized as a reduction of revenue. Biotech will not present sales, cost of sales, or marketing expenses related to the sales transactions with third parties because it is not the principal on those transactions. Biotech presents the following information in its financial statements with respect to this collaborative arrangement (in thousands):
 Biotech records research and development expense ($10 million) for its research and development activities. Biotech will characterize the portion of the net receivable from Pharma related to Pharma's sales to third parties ($16.25 million) as revenue. Biotech also considers performing research and development services to be part of its ordinary activities and is providing the output of those activities to Pharma as a customer in the context of the unit of account related to research and development services. Biotech analyzes its specific facts and circumstances under the guidance on consideration payable to a customer in paragraphs 606-10-32-25 through 32-27
-**808-10-55-10** and determines that the portion of the net receivable that relates to a reimbursement of Pharma's research and development costs ($2.5 million) should be characterized as a reduction of revenue. Biotech will not present sales, cost of sales, or marketing expenses related to the sales transactions with third parties because it is not the principal on those transactions. Biotech presents the following information in its financial statements with respect to this collaborative arrangement (in thousands):
+and determines that the portion of the net receivable that relates to a reimbursement of Pharma's research and development costs ($2.5 million) should be characterized as a reduction of revenue. Biotech will not present sales, cost of sales, or marketing expenses related to the sales transactions with third parties because it is not the principal on those transactions. Biotech presents the following information in its financial statements with respect to this collaborative arrangement (in thousands):
 This evaluation is not intended to illustrate the appropriate revenue recognition requirements for any of the transactions described in this Example or the appropriateness of the conclusions reached on determining whether and how authoritative accounting literature applies directly or by analogy. Rather, those conclusions have been assumed as facts in this Example.
 This evaluation is not intended to illustrate the appropriate revenue recognition requirements for any of the transactions described in this Example or the appropriateness of the conclusions reached on determining whether and how authoritative accounting literature applies directly or by analogy. Rather, those conclusions have been assumed as facts in this Example.
 **808-10-55-11** > Example 3 : Unequal Participation in Results of Research, Development, and Commercialization Arrangement, Participants Perform Some of the Same Activities
@@ -341,7 +348,7 @@ This evaluation is not intended to illustrate the appropriate revenue recognitio
 
 ## 65 Transition and Open Effective Date Information
 
-> **General Note:** The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
+General Note:The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
 
 ### General
 

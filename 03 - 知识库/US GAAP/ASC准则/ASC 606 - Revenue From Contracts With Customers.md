@@ -14,7 +14,7 @@ key: true
 
 ## 00 Status
 
-> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
 ### General
 
@@ -422,7 +422,7 @@ key: true
 
 ## 05 Overview and Background
 
-> **General Note:** The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
 
 ### General
 
@@ -465,7 +465,7 @@ Paragraphs presented in **bold type** in this Topic state the main principles. A
 
 ## 10 Objectives
 
-> **General Note:** The Objectives Section provides the high-level objectives that the Subtopic is intended to accomplish or attain. The Section does not summarize or discuss the main principles of accounting and reporting requirements.
+General Note:The Objectives Section provides the high-level objectives that the Subtopic is intended to accomplish or attain. The Section does not summarize or discuss the main principles of accounting and reporting requirements.
 
 ### General
 
@@ -487,7 +487,7 @@ This guidance specifies the accounting for an individual contract with a custome
 
 ## 15 Scope and Scope Exceptions
 
-> **General Note:** The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
 
 ### General
 
@@ -533,6 +533,8 @@ An entity shall consider the guidance in Subtopic 958-605 on not-for-profit enti
 An entity shall consider the guidance in Subtopic 958-605 on not-for-profit entities—revenue recognition—contributions when determining whether a transaction is a contribution within the scope of Subtopic 958-605 or a transaction within the scope of this Topic.
 An entity shall apply the guidance in this Topic to a contract (other than a contract listed in paragraph 606-10-15-2) only if the counterparty to the contract is a customer. A customer is a party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.
 An entity shall apply the guidance in this Topic to a contract (other than a contract listed in paragraph 606-10-15-2) only if the counterparty to the contract is a customer. A customer is a party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.
+**606-10-15-3A** PENDING CONTENT Transition date: December 16, 2026; December 16, 2026Transition guidance:606-10-65-3An entity shall apply the guidance in this Topic, including the guidance on noncash consideration in paragraphs 606-10-32-21 through 32-24, to a contract with share-based noncash consideration (for example, shares, share options, or other equity instruments) from a customer for the transfer of goods or services. The guidance in other Topics (including Topic 815 on derivatives and hedging and Topic 321 on equity securities) does not apply to share-based noncash consideration from a customer for the transfer of goods or services unless and until the entity’s right to receive or retain the share-based noncash consideration is unconditional under this Topic. To assess whether the right is unconditional under this Topic, only the contract terms that relate to the entity’s performance obligations (or a specific outcome of the entity’s performance) within the scope of this Topic are evaluated. The determination of whether the right is unconditional is consistent with the guidance in paragraph 606-10-45-4, which states that a right to consideration is unconditional if only the passage of time is required before payment of that consideration is due.
+**606-10-15-4** PENDING CONTENT Transition date: December 16, 2026; December 16, 2026Transition guidance:606-10-65-3An entity shall apply the guidance in this Topic, including the guidance on noncash consideration in paragraphs 606-10-32-21 through 32-24, to a contract with share-based noncash consideration (for example, shares, share options, or other equity instruments) from a customer for the transfer of goods or services. The guidance in other Topics (including Topic 815 on derivatives and hedging and Topic 321 on equity securities) does not apply to share-based noncash consideration from a customer for the transfer of goods or services unless and until the entity’s right to receive or retain the share-based noncash consideration is unconditional under this Topic. To assess whether the right is unconditional under this Topic, only the contract terms that relate to the entity’s performance obligations (or a specific outcome of the entity’s performance) within the scope of this Topic are evaluated. The determination of whether the right is unconditional is consistent with the guidance in paragraph 606-10-45-4, which states that a right to consideration is unconditional if only the passage of time is required before payment of that consideration is due.
 If the other Topics specify how to separate and/or initially measure one or more parts of the contract, then an entity shall first apply the separation and/or measurement guidance in those Topics. An entity shall exclude from the transaction price
 1. the amount of the part (or parts) of the contract that are initially measured in accordance with other Topics and shall apply paragraphs 606-10-32-28 through 32-41 to allocate the amount of the transaction price that remains (if any) to each performance obligation within the scope of this Topic and to any other parts of the contract identified by paragraph 606-10-15-4(b).
 2. If the other Topics do not specify how to separate and/or initially measure one or more parts of the contract, then the entity shall apply the guidance in this Topic to separate and/or initially measure the part (or parts) of the contract.
@@ -546,35 +548,42 @@ Subtopic 340-40 on other assets and deferred costs from contracts with customers
 
 ## 20 Glossary
 
-> **General Note:** The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
 
 ##### Award
 
 The collective noun for multiple instruments with the same terms and conditions granted at the same time either to a single grantee or to a group of grantees. An award may specify multiple vesting dates, referred to as graded vesting, and different parts of an award may have different expected terms. References to an award also apply to a portion of an award.
+The collective noun for multiple instruments with the same terms and conditions granted at the same time either to a single grantee or to a group of grantees. An award may specify multiple vesting dates, referred to as graded vesting, and different parts of an award may have different expected terms. References to an award also apply to a portion of an award.
 
 ##### Contract
 
-The collective noun for multiple instruments with the same terms and conditions granted at the same time either to a single grantee or to a group of grantees. An award may specify multiple vesting dates, referred to as graded vesting, and different parts of an award may have different expected terms. References to an award also apply to a portion of an award. An agreement between two or more parties that creates enforceable rights and obligations.
+An agreement between two or more parties that creates enforceable rights and obligations.
+An agreement between two or more parties that creates enforceable rights and obligations.
 
 ##### Contract Asset
 
-An agreement between two or more parties that creates enforceable rights and obligations. An entity's right to consideration in exchange for goods or services that the entity has transferred to a customer when that right is conditioned on something other than the passage of time (for example, the entity's future performance).
+An entity's right to consideration in exchange for goods or services that the entity has transferred to a customer when that right is conditioned on something other than the passage of time (for example, the entity's future performance).
+An entity's right to consideration in exchange for goods or services that the entity has transferred to a customer when that right is conditioned on something other than the passage of time (for example, the entity's future performance).
 
 ##### Contract Liability
 
-An entity's right to consideration in exchange for goods or services that the entity has transferred to a customer when that right is conditioned on something other than the passage of time (for example, the entity's future performance). An entity's obligation to transfer goods or services to a customer for which the entity has received consideration (or the amount is due) from the customer.
+An entity's obligation to transfer goods or services to a customer for which the entity has received consideration (or the amount is due) from the customer.
+An entity's obligation to transfer goods or services to a customer for which the entity has received consideration (or the amount is due) from the customer.
 
 ##### Customer
 
-An entity's obligation to transfer goods or services to a customer for which the entity has received consideration (or the amount is due) from the customer.A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.
+A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.
+A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.
 
 ##### Grant Date
 
-A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.The date at which a grantor and a grantee reach a mutual understanding of the key terms and conditions of a share-based payment award. The grantor becomes contingently obligated on the grant date to issue equity instruments or transfer assets to a grantee who delivers goods or renders services or purchases goods or services as a customer. Awards made under an arrangement that is subject to shareholder approval are not deemed to be granted until that approval is obtained unless approval is essentially a formality (or perfunctory), for example, if management and the members of the board of directors control enough votes to approve the arrangement. Similarly, individual awards that are subject to approval by the board of directors, management, or both are not deemed to be granted until all such approvals are obtained. The grant date for an award of equity instruments is the date that a grantee begins to benefit from, or be adversely affected by, subsequent changes in the price of the grantor's equity shares. Paragraph 718-10-25-5 provides guidance on determining the grant date. See Service Inception Date.
+The date at which a grantor and a grantee reach a mutual understanding of the key terms and conditions of a share-based payment award. The grantor becomes contingently obligated on the grant date to issue equity instruments or transfer assets to a grantee who delivers goods or renders services or purchases goods or services as a customer. Awards made under an arrangement that is subject to shareholder approval are not deemed to be granted until that approval is obtained unless approval is essentially a formality (or perfunctory), for example, if management and the members of the board of directors control enough votes to approve the arrangement. Similarly, individual awards that are subject to approval by the board of directors, management, or both are not deemed to be granted until all such approvals are obtained. The grant date for an award of equity instruments is the date that a grantee begins to benefit from, or be adversely affected by, subsequent changes in the price of the grantor's equity shares. Paragraph 718-10-25-5 provides guidance on determining the grant date. See Service Inception Date.
+The date at which a grantor and a grantee reach a mutual understanding of the key terms and conditions of a share-based payment award. The grantor becomes contingently obligated on the grant date to issue equity instruments or transfer assets to a grantee who delivers goods or renders services or purchases goods or services as a customer. Awards made under an arrangement that is subject to shareholder approval are not deemed to be granted until that approval is obtained unless approval is essentially a formality (or perfunctory), for example, if management and the members of the board of directors control enough votes to approve the arrangement. Similarly, individual awards that are subject to approval by the board of directors, management, or both are not deemed to be granted until all such approvals are obtained. The grant date for an award of equity instruments is the date that a grantee begins to benefit from, or be adversely affected by, subsequent changes in the price of the grantor's equity shares. Paragraph 718-10-25-5 provides guidance on determining the grant date. See Service Inception Date.
 
 ##### Lease
 
-The date at which a grantor and a grantee reach a mutual understanding of the key terms and conditions of a share-based payment award. The grantor becomes contingently obligated on the grant date to issue equity instruments or transfer assets to a grantee who delivers goods or renders services or purchases goods or services as a customer. Awards made under an arrangement that is subject to shareholder approval are not deemed to be granted until that approval is obtained unless approval is essentially a formality (or perfunctory), for example, if management and the members of the board of directors control enough votes to approve the arrangement. Similarly, individual awards that are subject to approval by the board of directors, management, or both are not deemed to be granted until all such approvals are obtained. The grant date for an award of equity instruments is the date that a grantee begins to benefit from, or be adversely affected by, subsequent changes in the price of the grantor's equity shares. Paragraph 718-10-25-5 provides guidance on determining the grant date. See Service Inception Date. A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
+A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
+A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
 
 ##### Not-for-Profit Entity
 
@@ -585,11 +594,11 @@ The date at which a grantor and a grantee reach a mutual understanding of the ke
 1. All investor-owned entities
 2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
 
-1. Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
+Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
 2. Operating purposes other than to provide goods or services at a profit
 3. Absence of ownership interests like those of business entities.
 
-1. All investor-owned entities
+All investor-owned entities
 2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
 
 ##### Performance        Condition
@@ -600,16 +609,38 @@ The date at which a grantor and a grantee reach a mutual understanding of the ke
 1. Rendering service or delivering goods for a specified (either explicitly or implicitly) period of time
 2. Achieving a specified performance target that is defined solely by reference to the grantor's own operations (or activities) or by reference to the grantee's performance related to the grantor's own operations (or activities).
 
+2. Attaining a specified growth rate in return on assets, obtaining regulatory approval to market a specified product, selling shares in an initial public offering or other financing event, and a change in control are examples of performance conditions. A performance target also may be defined by reference to the same performance measure of another entity or group of entities. For example, attaining a growth rate in earnings per share (EPS) that exceeds the average growth rate in EPS of other entities in the same industry is a performance condition. A performance target might pertain to the performance of the entity as a whole or to some part of the entity, such as a division, or to the performance of the grantee if such performance is in accordance with the terms of the award and solely relates to the grantor's own operations (or activities).
+1. Achieving a specified performance target that is defined solely by reference to the grantor’s own operations (or activities) or by reference to the grantee’s (the customer’s) performance related to the grantor’s own operations (or activities)
+2. The grantee’s purchase (or potential purchase) of the grantor’s goods or services from either the grantor or the grantor’s customers
+3. A purchase (or potential purchase) of the grantor’s goods or services from either the grantee or the grantee’s customers.
+
+3. The performance targets listed in this definition for employee and nonemployee awards (for example, a change in control) are also examples of performance conditions for share-based consideration payable to a customer.
+
+Rendering service or delivering goods for a specified (either explicitly or implicitly) period of time
+2. Achieving a specified performance target that is defined solely by reference to the grantor's own operations (or activities) or by reference to the grantee's performance related to the grantor's own operations (or activities).
+
+Attaining a specified growth rate in return on assets, obtaining regulatory approval to market a specified product, selling shares in an initial public offering or other financing event, and a change in control are examples of performance conditions. A performance target also may be defined by reference to the same performance measure of another entity or group of entities. For example, attaining a growth rate in earnings per share (EPS) that exceeds the average growth rate in EPS of other entities in the same industry is a performance condition. A performance target might pertain to the performance of the entity as a whole or to some part of the entity, such as a division, or to the performance of the grantee if such performance is in accordance with the terms of the award and solely relates to the grantor's own operations (or activities).
+1. Rendering service or delivering goods for a specified (either explicitly or implicitly) period of time
+2. Achieving a specified performance target that is defined solely by reference to the grantor's own operations (or activities) or by reference to the grantee's performance related to the grantor's own operations (or activities).
+
+2. Attaining a specified growth rate in return on assets, obtaining regulatory approval to market a specified product, selling shares in an initial public offering or other financing event, and a change in control are examples of performance conditions. A performance target also may be defined by reference to the same performance measure of another entity or group of entities. For example, attaining a growth rate in earnings per share (EPS) that exceeds the average growth rate in EPS of other entities in the same industry is a performance condition. A performance target might pertain to the performance of the entity as a whole or to some part of the entity, such as a division, or to the performance of the grantee if such performance is in accordance with the terms of the award and solely relates to the grantor's own operations (or activities).
+1. Achieving a specified performance target that is defined solely by reference to the grantor’s own operations (or activities) or by reference to the grantee’s (the customer’s) performance related to the grantor’s own operations (or activities)
+2. The grantee’s purchase (or potential purchase) of the grantor’s goods or services from either the grantor or the grantor’s customers
+3. A purchase (or potential purchase) of the grantor’s goods or services from either the grantee or the grantee’s customers.
+
+3. The performance targets listed in this definition for employee and nonemployee awards (for example, a change in control) are also examples of performance conditions for share-based consideration payable to a customer.
+
 ##### Performance Obligation
 
 1. A good or service (or a bundle of goods or services) that is distinct
 2. A series of distinct goods or services that are substantially the same and that have the same pattern of transfer to the customer.
 
-1. A good or service (or a bundle of goods or services) that is distinct
+A good or service (or a bundle of goods or services) that is distinct
 2. A series of distinct goods or services that are substantially the same and that have the same pattern of transfer to the customer.
 
 ##### Probable
 
+The future event or events are likely to occur.
 The future event or events are likely to occur.
 
 ##### Public Business Entity
@@ -621,7 +652,7 @@ The future event or events are likely to occur.
 5. It has one or more securities that are not subject to contractual restrictions on transfer, and it is required by law, contract, or regulation to prepare U.S. GAAP financial statements (including notes) and make them publicly available on a periodic basis (for example, interim or annual periods). An entity must meet both of these conditions to meet this criterion.
 
 An entity may meet the definition of a public business entity solely because its financial statements or financial information is included in another entity's filing with the SEC. In that case, the entity is only a public business entity for purposes of financial statements that are filed or furnished with the SEC.
-1. It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing).
+It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing).
 2. It is required by the Securities Exchange Act of 1934 (the Act), as amended, or rules or regulations promulgated under the Act, to file or furnish financial statements with a regulatory agency other than the SEC.
 3. It is required to file or furnish financial statements with a foreign or domestic regulatory agency in preparation for the sale of or for purposes of issuing securities that are not subject to contractual restrictions on transfer.
 4. It has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market.
@@ -630,6 +661,7 @@ An entity may meet the definition of a public business entity solely because its
 ##### Revenue
 
 An entity may meet the definition of a public business entity solely because its financial statements or financial information is included in another entity's filing with the SEC. In that case, the entity is only a public business entity for purposes of financial statements that are filed or furnished with the SEC. Inflows or other enhancements of assets of an entity or settlements of its liabilities (or a combination of both) from delivering or producing goods, rendering services, or other activities that constitute the entity's ongoing major or central operations.
+Inflows or other enhancements of assets of an entity or settlements of its liabilities (or a combination of both) from delivering or producing goods, rendering services, or other activities that constitute the entity's ongoing major or central operations.
 
 ##### Security
 
@@ -637,17 +669,19 @@ An entity may meet the definition of a public business entity solely because its
 2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
 3. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
 
-1. It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
+It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
 2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
 3. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
 
 ##### Service Condition
 
 A condition affecting the vesting, exercisability, exercise price, or other pertinent factors used in determining the fair value of an award that depends solely on an employee rendering service to the employer for the requisite service period or a nonemployee delivering goods or rendering services to the grantor over a vesting period. A condition that results in the acceleration of vesting in the event of a grantee's death, disability, or termination without cause is a service condition.
+A condition affecting the vesting, exercisability, exercise price, or other pertinent factors used in determining the fair value of an award that depends solely on an employee rendering service to the employer for the requisite service period or a nonemployee delivering goods or rendering services to the grantor over a vesting period. A condition that results in the acceleration of vesting in the event of a grantee's death, disability, or termination without cause is a service condition.
 
 ##### Service Inception Date
 
-A condition affecting the vesting, exercisability, exercise price, or other pertinent factors used in determining the fair value of an award that depends solely on an employee rendering service to the employer for the requisite service period or a nonemployee delivering goods or rendering services to the grantor over a vesting period. A condition that results in the acceleration of vesting in the event of a grantee's death, disability, or termination without cause is a service condition. The date at which the employee's requisite service period or the nonemployee's vesting period begins. The service inception date usually is the grant date, but the service inception date may differ from the grant date (see Example 6 [see paragraph 718-10-55-107] for an illustration of the application of this term to an employee award).
+The date at which the employee's requisite service period or the nonemployee's vesting period begins. The service inception date usually is the grant date, but the service inception date may differ from the grant date (see Example 6 [see paragraph 718-10-55-107] for an illustration of the application of this term to an employee award).
+The date at which the employee's requisite service period or the nonemployee's vesting period begins. The service inception date usually is the grant date, but the service inception date may differ from the grant date (see Example 6 [see paragraph 718-10-55-107] for an illustration of the application of this term to an employee award).
 
 ##### Share-Based Payment Arrangements
 
@@ -656,25 +690,30 @@ A condition affecting the vesting, exercisability, exercise price, or other pert
 2. The awards require or may require settlement by issuance of the entity's shares.
 
 The term shares includes various forms of ownership interest that may not take the legal form of securities (for example, partnership interests), as well as other interests, including those that are liabilities in substance but not in form. Equity shares refers only to shares that are accounted for as equity. Also called share-based compensation arrangements.
-1. One or more suppliers of goods or services (including employees) receive awards of equity shares, equity share options, or other equity instruments.
+One or more suppliers of goods or services (including employees) receive awards of equity shares, equity share options, or other equity instruments.
 1. The amounts are based, at least in part, on the price of the entity's shares or other equity instruments. (The phrase at least in part is used because an award may be indexed to both the price of the entity's shares and something other than either the price of the entity's shares or a market, performance, or service condition.)
 2. The awards require or may require settlement by issuance of the entity's shares.
 
+The term shares includes various forms of ownership interest that may not take the legal form of securities (for example, partnership interests), as well as other interests, including those that are liabilities in substance but not in form. Equity shares refers only to shares that are accounted for as equity.
+Also called share-based compensation arrangements.
+
 ##### Standalone Selling Price
 
-The term shares includes various forms of ownership interest that may not take the legal form of securities (for example, partnership interests), as well as other interests, including those that are liabilities in substance but not in form. Equity shares refers only to shares that are accounted for as equity. Also called share-based compensation arrangements.The price at which an entity would sell a promised good or service separately to a customer.
+The price at which an entity would sell a promised good or service separately to a customer.
+The price at which an entity would sell a promised good or service separately to a customer.
 
 ##### Transaction Price
 
-The price at which an entity would sell a promised good or service separately to a customer. The amount of consideration to which an entity expects to be entitled in exchange for transferring promised goods or services to a customer, excluding amounts collected on behalf of third parties.
+The amount of consideration to which an entity expects to be entitled in exchange for transferring promised goods or services to a customer, excluding amounts collected on behalf of third parties.
+The amount of consideration to which an entity expects to be entitled in exchange for transferring promised goods or services to a customer, excluding amounts collected on behalf of third parties.
 
 ## 25 Recognition
 
-> **General Note:** The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
 
 ### General
 
-**606-10-25-1** > Identifying the Contract
+**606-10-25-1** Related Proposed ASUs > Identifying the Contract
 **An entity shall account for a contract
 1. **The parties to the contract have approved the contract (in writing, orally, or in accordance with other customary business practices) and are committed to perform their respective obligations.**
 2. **The entity can identify each party's rights regarding the goods or services to be transferred.**
@@ -938,7 +977,7 @@ In some circumstances (for example, in the early stages of a contract), an entit
 
 ## 32 Measurement
 
-> **General Note:** The Measurement Section provides guidance on both the initial and subsequent measurement. Specifically, this Section provides the criteria and amounts used to measure a particular item at the date of initial recognition. In addition, this Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, fair value adjustments, depreciation and amortization, and so forth.
+General Note:The Measurement Section provides guidance on both the initial and subsequent measurement. Specifically, this Section provides the criteria and amounts used to measure a particular item at the date of initial recognition. In addition, this Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, fair value adjustments, depreciation and amortization, and so forth.
 
 ### General
 
@@ -1079,17 +1118,25 @@ If a customer contributes goods or services (for example, materials, equipment, 
 2. Credit or other items (for example, a coupon or voucher) that can be applied against amounts owed to the entity (or to other parties that purchase the entity's goods or services from the customer)
 3. Equity instruments (liability or equity classified) granted in conjunction with selling goods or services (for example, shares, share options, or other equity instruments).
 
-**606-10-32-25** An entity shall account for consideration payable to a customer as a reduction of the transaction price and, therefore, of revenue unless the payment to the customer is in exchange for a distinct good or service (as described in paragraphs 606-10-25-18 through 25-22) that the customer transfers to the entity. If the consideration payable to a customer includes a variable amount, an entity shall estimate the transaction price (including assessing whether the estimate of variable consideration is constrained) in accordance with paragraphs 606-10-32-5 through 32-13.
-Consideration payable to a customer
+1. Cash amounts that an entity pays, or expects to pay, to the customer (or to other parties that purchase the entity's goods or services from the customer)
+2. Credit or other items (for example, a coupon or voucher) that can be applied against amounts owed to the entity (or to other parties that purchase the entity's goods or services from the customer)
+3. Share-based consideration (liability or equity classified) granted to the customer (or to other parties that purchase the grantor’s goods or services from the customer) in conjunction with selling goods or services. Share-based consideration encompasses the same instruments as share-based payment arrangements (for example, shares, cash-settled stock appreciation rights, share options and warrants, or other equity instruments), but the grantee (as a customer) need not be a supplier of goods or services to the grantor.
+
+An entity shall account for consideration payable to a customer as a reduction of the transaction price and, therefore, of revenue unless the payment to the customer is in exchange for a distinct good or service (as described in paragraphs 606-10-25-18 through 25-22) that the customer transfers to the entity. If the consideration payable to a customer (other than share-based consideration) includes a variable amount, an entity shall estimate the transaction price (including assessing whether the estimate of variable consideration is constrained) in accordance with paragraphs 606-10-32-5 through 32-13. See paragraph 606-10-32-25A for guidance applicable to share-based consideration payable to a customer.
+**606-10-32-25** Consideration payable to a customer
 1. Cash amounts that an entity pays, or expects to pay, to the customer (or to other parties that purchase the entity's goods or services from the customer)
 2. Credit or other items (for example, a coupon or voucher) that can be applied against amounts owed to the entity (or to other parties that purchase the entity's goods or services from the customer)
 3. Equity instruments (liability or equity classified) granted in conjunction with selling goods or services (for example, shares, share options, or other equity instruments).
 
-**606-10-32-25A** An entity shall account for consideration payable to a customer as a reduction of the transaction price and, therefore, of revenue unless the payment to the customer is in exchange for a distinct good or service (as described in paragraphs 606-10-25-18 through 25-22) that the customer transfers to the entity. If the consideration payable to a customer includes a variable amount, an entity shall estimate the transaction price (including assessing whether the estimate of variable consideration is constrained) in accordance with paragraphs 606-10-32-5 through 32-13.
+1. Cash amounts that an entity pays, or expects to pay, to the customer (or to other parties that purchase the entity's goods or services from the customer)
+2. Credit or other items (for example, a coupon or voucher) that can be applied against amounts owed to the entity (or to other parties that purchase the entity's goods or services from the customer)
+3. Share-based consideration (liability or equity classified) granted to the customer (or to other parties that purchase the grantor’s goods or services from the customer) in conjunction with selling goods or services. Share-based consideration encompasses the same instruments as share-based payment arrangements (for example, shares, cash-settled stock appreciation rights, share options and warrants, or other equity instruments), but the grantee (as a customer) need not be a supplier of goods or services to the grantor.
+
+**606-10-32-25A** An entity shall account for consideration payable to a customer as a reduction of the transaction price and, therefore, of revenue unless the payment to the customer is in exchange for a distinct good or service (as described in paragraphs 606-10-25-18 through 25-22) that the customer transfers to the entity. If the consideration payable to a customer (other than share-based consideration) includes a variable amount, an entity shall estimate the transaction price (including assessing whether the estimate of variable consideration is constrained) in accordance with paragraphs 606-10-32-5 through 32-13. See paragraph 606-10-32-25A for guidance applicable to share-based consideration payable to a customer.
 Equity instruments granted by an entity in conjunction with selling goods or services shall be measured and classified under Topic 718 on stock compensation. The equity instrument shall be measured at the grant date
-**606-10-32-25A** in accordance with Topic 718 (for both equity-classified and liability-classified share-based payment awards). Changes in the measurement of the equity instrument (through the application of Topic 718) after the grant date that are due to the form of the consideration shall not be included in the transaction price. Any changes due to the form of the consideration shall be reflected elsewhere in the grantor's income statement. See paragraphs 606-10-55-88A through 55-88B for implementation guidance on equity instruments granted as consideration payable to a customer.
-Equity instruments granted by an entity in conjunction with selling goods or services shall be measured and classified under Topic 718 on stock compensation. The equity instrument shall be measured at the grant date
-**606-10-32-26** in accordance with Topic 718 (for both equity-classified and liability-classified share-based payment awards). Changes in the measurement of the equity instrument (through the application of Topic 718) after the grant date that are due to the form of the consideration shall not be included in the transaction price. Any changes due to the form of the consideration shall be reflected elsewhere in the grantor's income statement. See paragraphs 606-10-55-88A through 55-88B for implementation guidance on equity instruments granted as consideration payable to a customer.
+in accordance with Topic 718 (for both equity-classified and liability-classified share-based payment awards). Changes in the measurement of the equity instrument (through the application of Topic 718) after the grant date that are due to the form of the consideration shall not be included in the transaction price. Any changes due to the form of the consideration shall be reflected elsewhere in the grantor's income statement. See paragraphs 606-10-55-88A through 55-88B for implementation guidance on equity instruments granted as consideration payable to a customer. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:606-10-65-2Share-based consideration granted by an entity in conjunction with selling goods or services shall be measured and classified under Topic 718 on stock compensation. The share-based consideration shall be measured at the grant date in accordance with Topic 718 (for both equity-classified and liability-classified awards). Changes in the measurement of the share-based consideration (through the application of Topic 718) after the grant date that are due to the form of the consideration shall not be included in the transaction price. Any changes due to the form of the consideration shall be reflected elsewhere in the grantor's income statement. See paragraphs 606-10-55-88A through 55-88C for implementation guidance on share-based consideration payable to a customer.
+**606-10-32-25A** Equity instruments granted by an entity in conjunction with selling goods or services shall be measured and classified under Topic 718 on stock compensation. The equity instrument shall be measured at the grant date
+**606-10-32-26** in accordance with Topic 718 (for both equity-classified and liability-classified share-based payment awards). Changes in the measurement of the equity instrument (through the application of Topic 718) after the grant date that are due to the form of the consideration shall not be included in the transaction price. Any changes due to the form of the consideration shall be reflected elsewhere in the grantor's income statement. See paragraphs 606-10-55-88A through 55-88B for implementation guidance on equity instruments granted as consideration payable to a customer. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:606-10-65-2Share-based consideration granted by an entity in conjunction with selling goods or services shall be measured and classified under Topic 718 on stock compensation. The share-based consideration shall be measured at the grant date in accordance with Topic 718 (for both equity-classified and liability-classified awards). Changes in the measurement of the share-based consideration (through the application of Topic 718) after the grant date that are due to the form of the consideration shall not be included in the transaction price. Any changes due to the form of the consideration shall be reflected elsewhere in the grantor's income statement. See paragraphs 606-10-55-88A through 55-88C for implementation guidance on share-based consideration payable to a customer.
 If consideration payable to a customer is a payment for a distinct good or service from the customer, then an entity shall account for the purchase of the good or service in the same way that it accounts for other purchases from suppliers. If the amount of consideration payable to the customer exceeds the fair value of the distinct good or service that the entity receives from the customer, then the entity shall account for such an excess as a reduction of the transaction price. If the entity cannot reasonably estimate the fair value of the good or service received from the customer, it shall account for all of the consideration payable to the customer as a reduction of the transaction price.
 **606-10-32-26** If consideration payable to a customer is a payment for a distinct good or service from the customer, then an entity shall account for the purchase of the good or service in the same way that it accounts for other purchases from suppliers. If the amount of consideration payable to the customer exceeds the fair value of the distinct good or service that the entity receives from the customer, then the entity shall account for such an excess as a reduction of the transaction price. If the entity cannot reasonably estimate the fair value of the good or service received from the customer, it shall account for all of the consideration payable to the customer as a reduction of the transaction price.
 **606-10-32-27** The entity recognizes revenue for the transfer of the related goods or services to the customer.
@@ -1194,7 +1241,7 @@ An entity shall allocate a change in the transaction price entirely to one or mo
 
 ## 45 Other Presentation Matters
 
-> **General Note:** The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
 
 ### General
 
@@ -1219,7 +1266,7 @@ This guidance uses the terms *contract asset* and *contract liability* but does 
 
 ## 50 Disclosure
 
-> **General Note:** The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
 
 ### General
 
@@ -1249,12 +1296,14 @@ Revenue
 ##### · > Disaggregation of Revenue
 
 **606-10-50-5** An entity shall disaggregate revenue
-**606-10-50-5** recognized from contracts with customers into categories that depict how the nature, amount, timing, and uncertainty of revenue and cash flows are affected by economic factors. An entity shall apply the guidance in paragraphs 606-10-55-89 through 55-91 when selecting the categories to use to disaggregate revenue.
-An entity shall disaggregate revenue
-**606-10-50-6** recognized from contracts with customers into categories that depict how the nature, amount, timing, and uncertainty of revenue and cash flows are affected by economic factors. An entity shall apply the guidance in paragraphs 606-10-55-89 through 55-91 when selecting the categories to use to disaggregate revenue.
+recognized from contracts with customers into categories that depict how the nature, amount, timing, and uncertainty of revenue and cash flows are affected by economic factors. An entity shall apply the guidance in paragraphs 606-10-55-89 through 55-91 when selecting the categories to use to disaggregate revenue.PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For interim and annual reporting periods, an entity shall disaggregate revenue recognized from contracts with customers into categories that depict how the nature, amount, timing, and uncertainty of revenue and cash flows are affected by economic factors. An entity shall apply the guidance in paragraphs 606-10-55-89 through 55-91 when selecting the categories to use to disaggregate revenue.
+**606-10-50-5** An entity shall disaggregate revenue
+**606-10-50-6** recognized from contracts with customers into categories that depict how the nature, amount, timing, and uncertainty of revenue and cash flows are affected by economic factors. An entity shall apply the guidance in paragraphs 606-10-55-89 through 55-91 when selecting the categories to use to disaggregate revenue.PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For interim and annual reporting periods, an entity shall disaggregate revenue recognized from contracts with customers into categories that depict how the nature, amount, timing, and uncertainty of revenue and cash flows are affected by economic factors. An entity shall apply the guidance in paragraphs 606-10-55-89 through 55-91 when selecting the categories to use to disaggregate revenue.
 In addition, an entity shall disclose sufficient information to enable users of financial statements to understand the relationship between the disclosure of disaggregated revenue (in accordance with paragraph 606-10-50-5) and revenue information that is disclosed for each reportable segment, if the entity applies Topic 280 on segment reporting.
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1In addition, in interim and annual reporting periods, an entity shall disclose sufficient information to enable users of financial statements to understand the relationship between the disclosure of disaggregated revenue (in accordance with paragraph 606-10-50-5) and revenue information that is disclosed for each reportable segment, if the entity applies Topic 280 on segment reporting.
 **606-10-50-6** In addition, an entity shall disclose sufficient information to enable users of financial statements to understand the relationship between the disclosure of disaggregated revenue (in accordance with paragraph 606-10-50-5) and revenue information that is disclosed for each reportable segment, if the entity applies Topic 280 on segment reporting.
-**606-10-50-7** An entity, except for a public business entity
+**606-10-50-7** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1In addition, in interim and annual reporting periods, an entity shall disclose sufficient information to enable users of financial statements to understand the relationship between the disclosure of disaggregated revenue (in accordance with paragraph 606-10-50-5) and revenue information that is disclosed for each reportable segment, if the entity applies Topic 280 on segment reporting.
+An entity, except for a public business entity
 , a not-for-profit entity that has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market, or an employee benefit plan that files or furnishes financial statements with or to the Securities and Exchange Commission (SEC), may elect not to apply the quantitative disaggregation disclosure guidance in paragraphs 606-10-50-5 through 50-6 and 606-10-55-89 through 55-91. If an entity elects not to provide those disclosures, the entity shall disclose, at a minimum, revenue disaggregated according to the timing of transfer of goods or services (for example, revenue from goods or services transferred to customers at a point in time and revenue from goods or services transferred to customers over time) and qualitative information about how economic factors (such as type of customer, geographical location of customers, and type of contract) affect the nature, amount, timing, and uncertainty of revenue and cash flows.
 **606-10-50-7** An entity, except for a public business entity
 
@@ -1266,8 +1315,16 @@ The opening and closing balances of receivables, contract assets
 2. Revenue recognized in the reporting period that was included in the contract liability balance at the beginning of the period
 3. Subparagraph superseded by Accounting Standards Update No. 2016-20.
 
+1. The opening and closing balances of receivables, contract assets, and contract liabilities from contracts with customers, if not otherwise separately presented or disclosed
+2. Revenue recognized in the reporting period that was included in the contract liability balance at the beginning of the period
+3. Subparagraph superseded by Accounting Standards Update No. 2016-20.
+
 **606-10-50-8** The opening and closing balances of receivables, contract assets
 1. , and contract liabilities from contracts with customers, if not otherwise separately presented or disclosed
+2. Revenue recognized in the reporting period that was included in the contract liability balance at the beginning of the period
+3. Subparagraph superseded by Accounting Standards Update No. 2016-20.
+
+1. The opening and closing balances of receivables, contract assets, and contract liabilities from contracts with customers, if not otherwise separately presented or disclosed
 2. Revenue recognized in the reporting period that was included in the contract liability balance at the beginning of the period
 3. Subparagraph superseded by Accounting Standards Update No. 2016-20.
 
@@ -1307,18 +1364,26 @@ An entity shall disclose information about its performance obligations
 5. Types of warranties and related obligations.
 
 **606-10-50-12A** An entity shall disclose revenue
-**606-10-50-12A** recognized in the reporting period from performance obligations satisfied (or partially satisfied) in previous periods (for example, changes in transaction price).
-An entity shall disclose revenue
+recognized in the reporting period from performance obligations satisfied (or partially satisfied) in previous periods (for example, changes in transaction price).PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For interim and annual reporting periods, an entity shall disclose revenue recognized in the reporting period from performance obligations satisfied (or partially satisfied) in previous periods (for example, changes in transaction price).
+**606-10-50-12A** An entity shall disclose revenue
 
 ##### · > Transaction Price Allocated to the Remaining Performance Obligations
 
-**606-10-50-13** recognized in the reporting period from performance obligations satisfied (or partially satisfied) in previous periods (for example, changes in transaction price).
+**606-10-50-13** recognized in the reporting period from performance obligations satisfied (or partially satisfied) in previous periods (for example, changes in transaction price).PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For interim and annual reporting periods, an entity shall disclose revenue recognized in the reporting period from performance obligations satisfied (or partially satisfied) in previous periods (for example, changes in transaction price).
 An entity shall disclose the following information about its remaining performance obligations
 1. The aggregate amount of the transaction price allocated to the performance obligations that are unsatisfied (or partially unsatisfied) as of the end of the reporting period
 1. On a quantitative basis using the time bands that would be most appropriate for the duration of the remaining performance obligations
 2. By using qualitative information.
 
+1. The aggregate amount of the transaction price allocated to the performance obligations that are unsatisfied (or partially unsatisfied) as of the end of the reporting period
+1. On a quantitative basis using the time bands that would be most appropriate for the duration of the remaining performance obligations
+2. By using qualitative information.
+
 **606-10-50-13** An entity shall disclose the following information about its remaining performance obligations
+1. The aggregate amount of the transaction price allocated to the performance obligations that are unsatisfied (or partially unsatisfied) as of the end of the reporting period
+1. On a quantitative basis using the time bands that would be most appropriate for the duration of the remaining performance obligations
+2. By using qualitative information.
+
 1. The aggregate amount of the transaction price allocated to the performance obligations that are unsatisfied (or partially unsatisfied) as of the end of the reporting period
 1. On a quantitative basis using the time bands that would be most appropriate for the duration of the remaining performance obligations
 2. By using qualitative information.
@@ -1340,9 +1405,9 @@ An entity shall disclose the following information about its remaining performan
 **606-10-50-14B** The optional exemptions in paragraphs 606-10-50-14(b) and 606-10-50-14A shall not be applied to fixed consideration.
 **606-10-50-14B** The optional exemptions in paragraphs 606-10-50-14(b) and 606-10-50-14A shall not be applied to fixed consideration.
 **606-10-50-15** An entity shall disclose which optional exemptions in paragraphs 606-10-50-14 through 50-14A it is applying. In addition, an entity applying the optional exemptions in paragraphs 606-10-50-14 through 50-14A shall disclose the nature of the performance obligations, the remaining duration (see paragraph 606-10-25-3), and a description of the variable consideration (for example, the nature of the variability and how that variability will be resolved) that has been excluded from the information disclosed in accordance with paragraph 606-10-50-13. This information shall include sufficient detail to enable users of financial statements to understand the remaining performance obligations that the entity excluded from the information disclosed in accordance with paragraph 606-10-50-13. In addition, an entity shall explain whether any consideration from contracts with customers
-**606-10-50-15** is not included in the transaction price and, therefore, not included in the information disclosed in accordance with paragraph 606-10-50-13. For example, an estimate of the transaction price would not include any estimated amounts of variable consideration that are constrained (see paragraphs 606-10-32-11 through 32-13).
-An entity shall disclose which optional exemptions in paragraphs 606-10-50-14 through 50-14A it is applying. In addition, an entity applying the optional exemptions in paragraphs 606-10-50-14 through 50-14A shall disclose the nature of the performance obligations, the remaining duration (see paragraph 606-10-25-3), and a description of the variable consideration (for example, the nature of the variability and how that variability will be resolved) that has been excluded from the information disclosed in accordance with paragraph 606-10-50-13. This information shall include sufficient detail to enable users of financial statements to understand the remaining performance obligations that the entity excluded from the information disclosed in accordance with paragraph 606-10-50-13. In addition, an entity shall explain whether any consideration from contracts with customers
-**606-10-50-16** is not included in the transaction price and, therefore, not included in the information disclosed in accordance with paragraph 606-10-50-13. For example, an estimate of the transaction price would not include any estimated amounts of variable consideration that are constrained (see paragraphs 606-10-32-11 through 32-13).
+is not included in the transaction price and, therefore, not included in the information disclosed in accordance with paragraph 606-10-50-13. For example, an estimate of the transaction price would not include any estimated amounts of variable consideration that are constrained (see paragraphs 606-10-32-11 through 32-13).PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For interim and annual reporting periods, an entity shall disclose which optional exemptions in paragraphs 606-10-50-14 through 50-14A it is applying. In addition, an entity applying the optional exemptions in paragraphs 606-10-50-14 through 50-14A shall disclose in interim and annual reporting periods the nature of the performance obligations, the remaining duration (see paragraph 606-10-25-3), and a description of the variable consideration (for example, the nature of the variability and how that variability will be resolved) that has been excluded from the information disclosed in accordance with paragraph 606-10-50-13. This information shall include sufficient detail to enable users of financial statements to understand the remaining performance obligations that the entity excluded from the information disclosed in accordance with paragraph 606-10-50-13. In addition, an entity shall explain whether any consideration from contracts with customers is not included in the transaction price and, therefore, not included in the information disclosed in accordance with paragraph 606-10-50-13. For example, an estimate of the transaction price would not include any estimated amounts of variable consideration that are constrained (see paragraphs 606-10-32-11 through 32-13).
+**606-10-50-15** An entity shall disclose which optional exemptions in paragraphs 606-10-50-14 through 50-14A it is applying. In addition, an entity applying the optional exemptions in paragraphs 606-10-50-14 through 50-14A shall disclose the nature of the performance obligations, the remaining duration (see paragraph 606-10-25-3), and a description of the variable consideration (for example, the nature of the variability and how that variability will be resolved) that has been excluded from the information disclosed in accordance with paragraph 606-10-50-13. This information shall include sufficient detail to enable users of financial statements to understand the remaining performance obligations that the entity excluded from the information disclosed in accordance with paragraph 606-10-50-13. In addition, an entity shall explain whether any consideration from contracts with customers
+**606-10-50-16** is not included in the transaction price and, therefore, not included in the information disclosed in accordance with paragraph 606-10-50-13. For example, an estimate of the transaction price would not include any estimated amounts of variable consideration that are constrained (see paragraphs 606-10-32-11 through 32-13).PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For interim and annual reporting periods, an entity shall disclose which optional exemptions in paragraphs 606-10-50-14 through 50-14A it is applying. In addition, an entity applying the optional exemptions in paragraphs 606-10-50-14 through 50-14A shall disclose in interim and annual reporting periods the nature of the performance obligations, the remaining duration (see paragraph 606-10-25-3), and a description of the variable consideration (for example, the nature of the variability and how that variability will be resolved) that has been excluded from the information disclosed in accordance with paragraph 606-10-50-13. This information shall include sufficient detail to enable users of financial statements to understand the remaining performance obligations that the entity excluded from the information disclosed in accordance with paragraph 606-10-50-13. In addition, an entity shall explain whether any consideration from contracts with customers is not included in the transaction price and, therefore, not included in the information disclosed in accordance with paragraph 606-10-50-13. For example, an estimate of the transaction price would not include any estimated amounts of variable consideration that are constrained (see paragraphs 606-10-32-11 through 32-13).
 An entity, except for a public business entity
 , a not-for-profit entity that has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market, or an employee benefit plan that files or furnishes financial statements with or to the SEC, may elect not to provide the disclosures in paragraphs 606-10-50-13 through 50-15.
 **606-10-50-16** An entity, except for a public business entity
@@ -1405,11 +1470,12 @@ An entity, except for a public business entity
 
 ## 55 Implementation Guidance and Illustrations
 
-> **General Note:** The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
 
 ### General
 
-**606-10-55-1** Implementation guidance is provided in paragraphs 606-10-55-2 through 55-91
+**606-10-55-1** Related Proposed ASUs
+Implementation guidance is provided in paragraphs 606-10-55-2 through 55-91
 1. with a listing of contents in paragraph 606-10-55-3.
 2. Illustrations are provided in paragraphs 606-10-55-92 through 55-413 with a listing of contents in paragraph 606-10-55-93.
 
@@ -1440,6 +1506,23 @@ Assessing collectibility (paragraphs 606-10-55-3A through 55-3C
 15. Equity instruments granted as consideration payable to a customer (paragraphs 606-10-55-88A through 55-88B)
 16. Disclosure of disaggregated revenue (paragraphs 606-10-55-89 through 55-91).
 
+1. Assessing collectibility (paragraphs 606-10-55-3A through 55-3C)
+2. Performance obligations satisfied over time (paragraphs 606-10-55-4 through 55-15)
+3. Methods for measuring progress toward complete satisfaction of a performance obligation (paragraphs 606-10-55-16 through 55-21)
+4. Sale with a right of return (paragraphs 606-10-55-22 through 55-29)
+5. Warranties (paragraphs 606-10-55-30 through 55-35)
+6. Principal versus agent considerations (paragraphs 606-10-55-36 through 55-40)
+7. Customer options for additional goods or services (paragraphs 606-10-55-41 through 55-45)
+8. Customers' unexercised rights (paragraphs 606-10-55-46 through 55-49)
+9. Nonrefundable upfront fees (and some related costs) (paragraphs 606-10-55-50 through 55-53)
+10. Licensing (paragraphs 606-10-55-54 through 55-60 and 606-10-55-62 through 55-65B)
+11. Repurchase agreements (paragraphs 606-10-55-66 through 55-78)
+12. Consignment arrangements (paragraphs 606-10-55-79 through 55-80)
+13. Bill-and-hold arrangements (paragraphs 606-10-55-81 through 55-84)
+14. Customer acceptance (paragraphs 606-10-55-85 through 55-88)
+15. Share-based consideration payable to a customer (paragraphs 606-10-55-88A through 55-88C)
+16. Disclosure of disaggregated revenue (paragraphs 606-10-55-89 through 55-91).
+
 **606-10-55-3** Assessing collectibility (paragraphs 606-10-55-3A through 55-3C
 1. )
 2. Performance obligations satisfied over time (paragraphs 606-10-55-4 through 55-15)
@@ -1456,6 +1539,23 @@ Assessing collectibility (paragraphs 606-10-55-3A through 55-3C
 13. Bill-and-hold arrangements (paragraphs 606-10-55-81 through 55-84)
 14. Customer acceptance (paragraphs 606-10-55-85 through 55-88)
 15. Equity instruments granted as consideration payable to a customer (paragraphs 606-10-55-88A through 55-88B)
+16. Disclosure of disaggregated revenue (paragraphs 606-10-55-89 through 55-91).
+
+1. Assessing collectibility (paragraphs 606-10-55-3A through 55-3C)
+2. Performance obligations satisfied over time (paragraphs 606-10-55-4 through 55-15)
+3. Methods for measuring progress toward complete satisfaction of a performance obligation (paragraphs 606-10-55-16 through 55-21)
+4. Sale with a right of return (paragraphs 606-10-55-22 through 55-29)
+5. Warranties (paragraphs 606-10-55-30 through 55-35)
+6. Principal versus agent considerations (paragraphs 606-10-55-36 through 55-40)
+7. Customer options for additional goods or services (paragraphs 606-10-55-41 through 55-45)
+8. Customers' unexercised rights (paragraphs 606-10-55-46 through 55-49)
+9. Nonrefundable upfront fees (and some related costs) (paragraphs 606-10-55-50 through 55-53)
+10. Licensing (paragraphs 606-10-55-54 through 55-60 and 606-10-55-62 through 55-65B)
+11. Repurchase agreements (paragraphs 606-10-55-66 through 55-78)
+12. Consignment arrangements (paragraphs 606-10-55-79 through 55-80)
+13. Bill-and-hold arrangements (paragraphs 606-10-55-81 through 55-84)
+14. Customer acceptance (paragraphs 606-10-55-85 through 55-88)
+15. Share-based consideration payable to a customer (paragraphs 606-10-55-88A through 55-88C)
 16. Disclosure of disaggregated revenue (paragraphs 606-10-55-89 through 55-91).
 
 ##### · > Assessing Collectibility
@@ -1955,16 +2055,35 @@ However, if an entity cannot objectively determine that the good or service prov
 ##### · > Equity Instruments Granted as                Consideration Payable to a Customer
 
 **606-10-55-88A** Paragraph 606-10-32-25A requires that equity instruments granted in conjunction with an entity selling goods or services be measured and classified under Topic 718 on stock compensation. If the number of equity instruments promised in a contract is variable due to a service condition
-**606-10-55-88A** or a performance condition that affects the vesting of an award, an entity should estimate the number of equity instruments that it will be obligated to issue to its customer and update the estimate of the number of equity instruments until the award ultimately vests in accordance with Topic 718. When measuring each instrument, the entity should include, in accordance with Topic 718, the effect of any market conditions and service or performance conditions that affect factors other than vesting. Examples of factors other than vesting are included in paragraph 718-10-30-15. Changes in the grant-date fair value of an award due to revisions in the expected outcome of a service condition or a performance condition (both those that affect vesting and those that affect factors other than vesting) are not deemed to be changes due to the form of the consideration (as described in paragraph 606-10-32-23) and, therefore, should be reflected in the transaction price.
-Paragraph 606-10-32-25A requires that equity instruments granted in conjunction with an entity selling goods or services be measured and classified under Topic 718 on stock compensation. If the number of equity instruments promised in a contract is variable due to a service condition
-**606-10-55-88B** or a performance condition that affects the vesting of an award, an entity should estimate the number of equity instruments that it will be obligated to issue to its customer and update the estimate of the number of equity instruments until the award ultimately vests in accordance with Topic 718. When measuring each instrument, the entity should include, in accordance with Topic 718, the effect of any market conditions and service or performance conditions that affect factors other than vesting. Examples of factors other than vesting are included in paragraph 718-10-30-15. Changes in the grant-date fair value of an award due to revisions in the expected outcome of a service condition or a performance condition (both those that affect vesting and those that affect factors other than vesting) are not deemed to be changes due to the form of the consideration (as described in paragraph 606-10-32-23) and, therefore, should be reflected in the transaction price.
+
+| Editor's Note: The content of paragraph 606-10-55-88A will change upon transition, together with a change in the heading noted below. |
+| --- |
+| • > Share-Based Consideration Payable to a Customer |
+
+or a performance condition that affects the vesting of an award, an entity should estimate the number of equity instruments that it will be obligated to issue to its customer and update the estimate of the number of equity instruments until the award ultimately vests in accordance with Topic 718. When measuring each instrument, the entity should include, in accordance with Topic 718, the effect of any market conditions and service or performance conditions that affect factors other than vesting. Examples of factors other than vesting are included in paragraph 718-10-30-15. Changes in the grant-date fair value of an award due to revisions in the expected outcome of a service condition or a performance condition (both those that affect vesting and those that affect factors other than vesting) are not deemed to be changes due to the form of the consideration (as described in paragraph 606-10-32-23) and, therefore, should be reflected in the transaction price.PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:606-10-65-2Paragraph 606-10-32-25A requires that share-based consideration granted in conjunction with an entity selling goods or services be measured and classified under Topic 718 on stock compensation. If the number of awardspromised in a contract is variable due to a service condition or a performance condition that affects vesting, the grantor should estimate the number of awards that it will be obligated to issue to the grantee and reduce the transaction price by the grant-date fair value of the number of awards that are expected to vest (for awards with service conditions in accordance with paragraph 718-10-35-1D(a)) or for which vesting is probable (for awards with performance conditions in accordance with paragraph 718-10-25-20). A grantor should update the estimate of the number of awards until the awards ultimately vest or are forfeited in accordance with Topic 718. When measuring each award, the grantor should include, in accordance with Topic 718, the effect of any market conditions and service or performance conditions that affect factors other than vesting. Examples of factors other than vesting are included in paragraph 718-10-30-15. Changes in the expected outcome of a service condition or a performance condition (both those that affect vesting and those that affect factors other than vesting) are not deemed to be changes due to the form of the consideration (as described in paragraph 606-10-32-23) and, therefore, should be reflected in the transaction price.
+**606-10-55-88A** Paragraph 606-10-32-25A requires that equity instruments granted in conjunction with an entity selling goods or services be measured and classified under Topic 718 on stock compensation. If the number of equity instruments promised in a contract is variable due to a service condition
+
+| Editor's Note: The content of paragraph 606-10-55-88A will change upon transition, together with a change in the heading noted below. |
+| --- |
+| • > Share-Based Consideration Payable to a Customer |
+
+1. A specified volume of goods or services (including over a specified period of time). This includes performance targets achieved upon the first purchase from the grantor (or the grantor’s customers).
+2. A specified monetary amount of goods or services (including over a specified period of time).
+
+1. A specified volume of goods or services (including over a specified period of time). This includes performance targets achieved upon the first purchase from the grantor (or the grantor’s customers).
+2. A specified monetary amount of goods or services (including over a specified period of time).
+
+**606-10-55-88AB** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:606-10-65-2If share-based consideration payable to a customer is a payment for a distinct good or service from the customer and the grantor accounts for any portion of the share-based consideration as a reduction of the transaction price in accordance with paragraph 606-10-32-26, the grantor should apply the definition of performance condition that is specific to share-based consideration payable to a customer that can result in a reduction of the transaction price in accordance with this Topic to the entire award (including the portion that is not accounted for as a reduction of the transaction price).
+**606-10-55-88AC** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:606-10-65-2If share-based consideration payable to a customer is a payment for a distinct good or service from the customer and the grantor accounts for any portion of the share-based consideration as a reduction of the transaction price in accordance with paragraph 606-10-32-26, the grantor should apply the definition of performance condition that is specific to share-based consideration payable to a customer that can result in a reduction of the transaction price in accordance with this Topic to the entire award (including the portion that is not accounted for as a reduction of the transaction price).PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:606-10-65-2A grantor should not apply by analogy the aspects of the definition of performance condition that are specific to share-based consideration payable to a customer that can result in a reduction of the transaction price in accordance with this Topic to awards that are solely within the scope of Topic 718.
+**606-10-55-88B** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:606-10-65-2A grantor should not apply by analogy the aspects of the definition of performance condition that are specific to share-based consideration payable to a customer that can result in a reduction of the transaction price in accordance with this Topic to awards that are solely within the scope of Topic 718.
 Paragraph 606-10-32-25A requires that equity instruments granted by an entity in conjunction with selling goods or services be measured and classified under Topic 718 at the grant date
-**606-10-55-88B** of the instrument. When an estimate of the fair value of an equity instrument is required before the grant date in accordance with the guidance on variable consideration in paragraph 606-10-32-7, the estimate should be based on the fair value of the award at the reporting dates that occur before the grant date. An entity should change the transaction price for the cumulative effect of measuring the fair value at each reporting period after the initial estimate until the grant date occurs. In the period in which the grant date occurs, the entity should change the transaction price for the cumulative effect of measuring the fair value at the grant date rather than the fair value previously used at any prior reporting date.
-Paragraph 606-10-32-25A requires that equity instruments granted by an entity in conjunction with selling goods or services be measured and classified under Topic 718 at the grant date
+of the instrument. When an estimate of the fair value of an equity instrument is required before the grant date in accordance with the guidance on variable consideration in paragraph 606-10-32-7, the estimate should be based on the fair value of the award at the reporting dates that occur before the grant date. An entity should change the transaction price for the cumulative effect of measuring the fair value at each reporting period after the initial estimate until the grant date occurs. In the period in which the grant date occurs, the entity should change the transaction price for the cumulative effect of measuring the fair value at the grant date rather than the fair value previously used at any prior reporting date. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:606-10-65-2Paragraph 606-10-32-25A requires that share-based consideration granted by an entity in conjunction with selling goods or services be measured and classified under Topic 718 at the grant date of the instrument. When an estimate of the fair value of share-based consideration is required before the grant date in accordance with the guidance on variable consideration in paragraph 606-10-32-7, the estimate should be based on the fair value (measured in accordance with Topic 718) of the award at the reporting dates that occur before the grant date. The grantor should change the transaction price for the cumulative effect of measuring the fair value at each reporting period after the initial estimate until the grant date occurs. In the period in which the grant date occurs, the grantor should change the transaction price for the cumulative effect of measuring the fair value at the grant date rather than the fair value previously used at any prior reporting date.
+**606-10-55-88B** Paragraph 606-10-32-25A requires that equity instruments granted by an entity in conjunction with selling goods or services be measured and classified under Topic 718 at the grant date
+**606-10-55-88C** of the instrument. When an estimate of the fair value of an equity instrument is required before the grant date in accordance with the guidance on variable consideration in paragraph 606-10-32-7, the estimate should be based on the fair value of the award at the reporting dates that occur before the grant date. An entity should change the transaction price for the cumulative effect of measuring the fair value at each reporting period after the initial estimate until the grant date occurs. In the period in which the grant date occurs, the entity should change the transaction price for the cumulative effect of measuring the fair value at the grant date rather than the fair value previously used at any prior reporting date. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:606-10-65-2Paragraph 606-10-32-25A requires that share-based consideration granted by an entity in conjunction with selling goods or services be measured and classified under Topic 718 at the grant date of the instrument. When an estimate of the fair value of share-based consideration is required before the grant date in accordance with the guidance on variable consideration in paragraph 606-10-32-7, the estimate should be based on the fair value (measured in accordance with Topic 718) of the award at the reporting dates that occur before the grant date. The grantor should change the transaction price for the cumulative effect of measuring the fair value at each reporting period after the initial estimate until the grant date occurs. In the period in which the grant date occurs, the grantor should change the transaction price for the cumulative effect of measuring the fair value at the grant date rather than the fair value previously used at any prior reporting date. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:606-10-65-2Regardless of whether an award’s grant date has occurred, the guidance on constraining estimates of variable consideration in paragraphs 606-10-32-11 through 32-12 should not be applied to share-based consideration payable to a customer that is measured and classified under Topic 718.
 
 ##### · > Disclosure of Disaggregated                Revenue
 
-**606-10-55-89** of the instrument. When an estimate of the fair value of an equity instrument is required before the grant date in accordance with the guidance on variable consideration in paragraph 606-10-32-7, the estimate should be based on the fair value of the award at the reporting dates that occur before the grant date. An entity should change the transaction price for the cumulative effect of measuring the fair value at each reporting period after the initial estimate until the grant date occurs. In the period in which the grant date occurs, the entity should change the transaction price for the cumulative effect of measuring the fair value at the grant date rather than the fair value previously used at any prior reporting date.
+**606-10-55-89** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:606-10-65-2Regardless of whether an award’s grant date has occurred, the guidance on constraining estimates of variable consideration in paragraphs 606-10-32-11 through 32-12 should not be applied to share-based consideration payable to a customer that is measured and classified under Topic 718.
 Paragraph 606-10-50-5 requires an entity to disaggregate revenue
 from contracts with customers into categories that depict how the nature, amount, timing, and uncertainty of revenue and cash flows are affected by economic factors. Consequently, the extent to which an entity's revenue is disaggregated for the purposes of this disclosure depends on the facts and circumstances that pertain to the entity's contracts with customers. Some entities may need to use more than one type of category to meet the objective in paragraph 606-10-50-5 for disaggregating revenue. Other entities may meet the objective by using only one type of category to disaggregate revenue.
 **606-10-55-89** Paragraph 606-10-50-5 requires an entity to disaggregate revenue
@@ -2099,6 +2218,76 @@ with a customer on the basis of the limited facts presented. The analysis in eac
 38. Example 29—Advance Payment and Assessment of the Discount Rate
 39. Example 30—Advance Payment
 41. Example 31—Entitlement to Noncash Consideration
+42. Example 31A—Share-Based Noncash Consideration
+44. Example 32—Consideration Payable to a Customer
+46. Example 33—Allocation Methodology
+47. Example 34—Allocating a Discount
+48. Example 35—Allocation of Variable Consideration
+50. Example 36—Incremental Costs of Obtaining a Contract
+51. Example 37—Costs That Give Rise to an Asset
+53. Example 38—Contract Liability and Receivable
+54. Example 39—Contract Asset Recognized for the Entity's Performance
+55. Example 40—Receivable Recognized for the Entity's Performance
+57. Example 41—Disaggregation of Revenue Quantitative Disclosure
+58. Example 42—Disclosure of the Transaction Price Allocated to the Remaining Performance Obligations
+59. Example 43—Disclosure of the Transaction Price Allocated to the Remaining Performance Obligations—Qualitative
+61. Example 44—Warranties
+63. Example 45—Arranging for the Provision of Goods or Services (Entity Is an Agent)
+64. Example 46—Promise to Provide Goods or Services (Entity Is a Principal)
+65. Example 46A—Promise to Provide Goods or Services (Entity Is a Principal)
+66. Example 47—Promise to Provide Goods or Services (Entity Is a Principal)
+67. Example 48—Arranging for the Provision of Goods or Services (Entity Is an Agent)
+68. Example 48A—Entity Is a Principal and an Agent in the Same Contract
+70. Example 49—Option That Provides the Customer with a Material Right (Discount Voucher)
+71. Example 50—Option That Does Not Provide the Customer with a Material Right (Additional Goods or Services)
+72. Example 51—Option That Provides the Customer with a Material Right (Renewal Option)
+73. Example 52—Customer Loyalty Program
+75. Example 53—Nonrefundable Upfront Fee
+77. Example 54—Right to Use Intellectual Property
+78. Example 55—License of Intellectual Property
+79. Example 56—Identifying a Distinct License
+80. Example 57—Franchise Rights
+81. Example 58—Access to Intellectual Property
+82. Example 59—Right to Use Intellectual Property
+83. Example 60—Sales-Based Royalty Promised in Exchange for a License of Intellectual Property and Other Goods and Services
+84. Example 61—Access to Intellectual Property
+85. Example 61A—Right to Use Intellectual Property
+86. Example 61B—Distinguishing Multiple Licenses from Attributes of a Single License
+88. Example 62—Repurchase Agreements
+90. Example 63—Bill-and-Hold Arrangement
+
+2. Example 1—Collectibility of the Consideration
+3. Example 2—Consideration Is Not the Stated Price—Implicit Price Concession
+4. Example 3—Implicit Price Concession
+5. Example 4—Reassessing the Criteria for Identifying a Contract
+7. Example 5—Modification of a Contract for Goods
+8. Example 6—Change in the Transaction Price after a Contract Modification
+9. Example 7—Modification of a Services Contract
+10. Example 8—Modification Resulting in a Cumulative Catch-Up Adjustment to Revenue
+11. Example 9—Unapproved Change in Scope and Price
+13. Example 10—Goods and Services Are Not Distinct
+14. Example 11—Determining Whether Goods or Services Are Distinct
+15. Example 12—Explicit and Implicit Promises in a Contract
+16. Example 12A—Series of Distinct Goods or Services
+18. Example 13—Customer Simultaneously Receives and Consumes the Benefits
+19. Example 14—Assessing Alternative Use and Right to Payment
+20. Example 15—Asset Has No Alternative Use to the Entity
+21. Example 16—Enforceable Right to Payment for Performance Completed to Date
+22. Example 17—Assessing Whether a Performance Obligation Is Satisfied at a Point in Time or Over Time
+24. Example 18—Measuring Progress When Making Goods or Services Available
+25. Example 19—Uninstalled Materials
+27. Example 20—Penalty Gives Rise to Variable Consideration
+28. Example 21—Estimating Variable Consideration
+30. Example 22—Right of Return
+31. Example 23—Price Concessions
+32. Example 24—Volume Discount Incentive
+33. Example 25—Management Fees Subject to the Constraint
+35. Example 26—Significant Financing Component and Right of Return
+36. Example 27—Withheld Payments on a Long-Term Contract
+37. Example 28—Determining the Discount Rate
+38. Example 29—Advance Payment and Assessment of the Discount Rate
+39. Example 30—Advance Payment
+41. Example 31—Entitlement to Noncash Consideration
 43. Example 32—Consideration Payable to a Customer
 45. Example 33—Allocation Methodology
 46. Example 34—Allocating a Discount
@@ -2135,6 +2324,76 @@ with a customer on the basis of the limited facts presented. The analysis in eac
 85. Example 61B—Distinguishing Multiple Licenses from Attributes of a Single License
 87. Example 62—Repurchase Agreements
 89. Example 63—Bill-and-Hold Arrangement
+
+2. Example 1—Collectibility of the Consideration
+3. Example 2—Consideration Is Not the Stated Price—Implicit Price Concession
+4. Example 3—Implicit Price Concession
+5. Example 4—Reassessing the Criteria for Identifying a Contract
+7. Example 5—Modification of a Contract for Goods
+8. Example 6—Change in the Transaction Price after a Contract Modification
+9. Example 7—Modification of a Services Contract
+10. Example 8—Modification Resulting in a Cumulative Catch-Up Adjustment to Revenue
+11. Example 9—Unapproved Change in Scope and Price
+13. Example 10—Goods and Services Are Not Distinct
+14. Example 11—Determining Whether Goods or Services Are Distinct
+15. Example 12—Explicit and Implicit Promises in a Contract
+16. Example 12A—Series of Distinct Goods or Services
+18. Example 13—Customer Simultaneously Receives and Consumes the Benefits
+19. Example 14—Assessing Alternative Use and Right to Payment
+20. Example 15—Asset Has No Alternative Use to the Entity
+21. Example 16—Enforceable Right to Payment for Performance Completed to Date
+22. Example 17—Assessing Whether a Performance Obligation Is Satisfied at a Point in Time or Over Time
+24. Example 18—Measuring Progress When Making Goods or Services Available
+25. Example 19—Uninstalled Materials
+27. Example 20—Penalty Gives Rise to Variable Consideration
+28. Example 21—Estimating Variable Consideration
+30. Example 22—Right of Return
+31. Example 23—Price Concessions
+32. Example 24—Volume Discount Incentive
+33. Example 25—Management Fees Subject to the Constraint
+35. Example 26—Significant Financing Component and Right of Return
+36. Example 27—Withheld Payments on a Long-Term Contract
+37. Example 28—Determining the Discount Rate
+38. Example 29—Advance Payment and Assessment of the Discount Rate
+39. Example 30—Advance Payment
+41. Example 31—Entitlement to Noncash Consideration
+42. Example 31A—Share-Based Noncash Consideration
+44. Example 32—Consideration Payable to a Customer
+46. Example 33—Allocation Methodology
+47. Example 34—Allocating a Discount
+48. Example 35—Allocation of Variable Consideration
+50. Example 36—Incremental Costs of Obtaining a Contract
+51. Example 37—Costs That Give Rise to an Asset
+53. Example 38—Contract Liability and Receivable
+54. Example 39—Contract Asset Recognized for the Entity's Performance
+55. Example 40—Receivable Recognized for the Entity's Performance
+57. Example 41—Disaggregation of Revenue Quantitative Disclosure
+58. Example 42—Disclosure of the Transaction Price Allocated to the Remaining Performance Obligations
+59. Example 43—Disclosure of the Transaction Price Allocated to the Remaining Performance Obligations—Qualitative
+61. Example 44—Warranties
+63. Example 45—Arranging for the Provision of Goods or Services (Entity Is an Agent)
+64. Example 46—Promise to Provide Goods or Services (Entity Is a Principal)
+65. Example 46A—Promise to Provide Goods or Services (Entity Is a Principal)
+66. Example 47—Promise to Provide Goods or Services (Entity Is a Principal)
+67. Example 48—Arranging for the Provision of Goods or Services (Entity Is an Agent)
+68. Example 48A—Entity Is a Principal and an Agent in the Same Contract
+70. Example 49—Option That Provides the Customer with a Material Right (Discount Voucher)
+71. Example 50—Option That Does Not Provide the Customer with a Material Right (Additional Goods or Services)
+72. Example 51—Option That Provides the Customer with a Material Right (Renewal Option)
+73. Example 52—Customer Loyalty Program
+75. Example 53—Nonrefundable Upfront Fee
+77. Example 54—Right to Use Intellectual Property
+78. Example 55—License of Intellectual Property
+79. Example 56—Identifying a Distinct License
+80. Example 57—Franchise Rights
+81. Example 58—Access to Intellectual Property
+82. Example 59—Right to Use Intellectual Property
+83. Example 60—Sales-Based Royalty Promised in Exchange for a License of Intellectual Property and Other Goods and Services
+84. Example 61—Access to Intellectual Property
+85. Example 61A—Right to Use Intellectual Property
+86. Example 61B—Distinguishing Multiple Licenses from Attributes of a Single License
+88. Example 62—Repurchase Agreements
+90. Example 63—Bill-and-Hold Arrangement
 
 ##### · > Identifying the Contract
 
@@ -2279,8 +2538,8 @@ An entity, a construction company, enters into a contract to construct a commerc
 **606-10-55-131** The entity determines that the input measure, on the basis of costs incurred, provides an appropriate measure of progress toward complete satisfaction of the performance obligation. By the end of the first year, the entity has satisfied 60 percent of its performance obligation on the basis of costs incurred to date ($420,000) relative to total expected costs ($700,000). The entity reassesses the variable consideration and concludes that the amount is still constrained in accordance with paragraphs 606-10-32-11 through 32-13
 . Consequently, the cumulative revenue and costs recognized for the first year are as follows:
 **606-10-55-131** The entity determines that the input measure, on the basis of costs incurred, provides an appropriate measure of progress toward complete satisfaction of the performance obligation. By the end of the first year, the entity has satisfied 60 percent of its performance obligation on the basis of costs incurred to date ($420,000) relative to total expected costs ($700,000). The entity reassesses the variable consideration and concludes that the amount is still constrained in accordance with paragraphs 606-10-32-11 through 32-13
-**606-10-55-132** . Consequently, the cumulative revenue and costs recognized for the first year are as follows:
-In the first quarter of the second year, the parties to the contract agree to modify the contract by changing the floor plan of the building. As a result, the fixed consideration and expected costs increase by $150,000 and $120,000, respectively. Total potential consideration after the modification is $1,350,000 ($1,150,000 fixed consideration + $200,000 completion bonus). In addition, the allowable time for achieving the $200,000 bonus is extended by 6 months to 30 months from the original contract inception date. At the date of the modification, on the basis of its experience and the remaining work to be performed, which is primarily inside the building and not subject to weather conditions, the entity concludes that it is probable that including the bonus in the transaction price will not result in a significant reversal in the amount of cumulative revenue recognized in accordance with paragraph 606-10-32-11 and includes the $200,000 in the transaction price. In assessing the contract modification, the entity evaluates paragraph 606-10-25-19(b) and concludes (on the basis of the factors in paragraph 606-10-25-21) that the remaining goods and services to be provided using the modified contract are not distinct from the goods and services transferred on or before the date of contract modification; that is, the contract remains a single performance obligation.
+. Consequently, the cumulative revenue and costs recognized for the first year are as follows:
+**606-10-55-132** In the first quarter of the second year, the parties to the contract agree to modify the contract by changing the floor plan of the building. As a result, the fixed consideration and expected costs increase by $150,000 and $120,000, respectively. Total potential consideration after the modification is $1,350,000 ($1,150,000 fixed consideration + $200,000 completion bonus). In addition, the allowable time for achieving the $200,000 bonus is extended by 6 months to 30 months from the original contract inception date. At the date of the modification, on the basis of its experience and the remaining work to be performed, which is primarily inside the building and not subject to weather conditions, the entity concludes that it is probable that including the bonus in the transaction price will not result in a significant reversal in the amount of cumulative revenue recognized in accordance with paragraph 606-10-32-11 and includes the $200,000 in the transaction price. In assessing the contract modification, the entity evaluates paragraph 606-10-25-19(b) and concludes (on the basis of the factors in paragraph 606-10-25-21) that the remaining goods and services to be provided using the modified contract are not distinct from the goods and services transferred on or before the date of contract modification; that is, the contract remains a single performance obligation.
 **606-10-55-132** In the first quarter of the second year, the parties to the contract agree to modify the contract by changing the floor plan of the building. As a result, the fixed consideration and expected costs increase by $150,000 and $120,000, respectively. Total potential consideration after the modification is $1,350,000 ($1,150,000 fixed consideration + $200,000 completion bonus). In addition, the allowable time for achieving the $200,000 bonus is extended by 6 months to 30 months from the original contract inception date. At the date of the modification, on the basis of its experience and the remaining work to be performed, which is primarily inside the building and not subject to weather conditions, the entity concludes that it is probable that including the bonus in the transaction price will not result in a significant reversal in the amount of cumulative revenue recognized in accordance with paragraph 606-10-32-11 and includes the $200,000 in the transaction price. In assessing the contract modification, the entity evaluates paragraph 606-10-25-19(b) and concludes (on the basis of the factors in paragraph 606-10-25-21) that the remaining goods and services to be provided using the modified contract are not distinct from the goods and services transferred on or before the date of contract modification; that is, the contract remains a single performance obligation.
 **606-10-55-133** Consequently, the entity accounts for the contract modification as if it were part of the original contract (in accordance with paragraph 606-10-25-13(b)). The entity updates its measure of progress and estimates that it has satisfied 51.2 percent of its performance obligation ($420,000 actual costs incurred ÷ $820,000 total expected costs). The entity recognizes additional revenue of $91,200 [(51.2 percent complete × $1,350,000 modified transaction price) - $600,000 revenue recognized to date] at the date of the modification as a cumulative catch-up adjustment.
 **606-10-55-133** Consequently, the entity accounts for the contract modification as if it were part of the original contract (in accordance with paragraph 606-10-25-13(b)). The entity updates its measure of progress and estimates that it has satisfied 51.2 percent of its performance obligation ($420,000 actual costs incurred ÷ $820,000 total expected costs). The entity recognizes additional revenue of $91,200 [(51.2 percent complete × $1,350,000 modified transaction price) - $600,000 revenue recognized to date] at the date of the modification as a cumulative catch-up adjustment.
@@ -2731,7 +2990,13 @@ Example 31 illustrates the guidance in paragraphs 606-10-32-21 through 32-24
 1. Paragraph 606-10-25-14 on identifying performance obligations
 2. Paragraphs 606-10-32-11 through 32-13 on constraining estimates of variable consideration.
 
+1. Paragraph 606-10-25-14 on identifying performance obligations
+2. Paragraphs 606-10-32-11 through 32-13 on constraining estimates of variable consideration.
+
 **606-10-55-247** Example 31 illustrates the guidance in paragraphs 606-10-32-21 through 32-24
+1. Paragraph 606-10-25-14 on identifying performance obligations
+2. Paragraphs 606-10-32-11 through 32-13 on constraining estimates of variable consideration.
+
 1. Paragraph 606-10-25-14 on identifying performance obligations
 2. Paragraphs 606-10-32-11 through 32-13 on constraining estimates of variable consideration.
 
@@ -2741,10 +3006,25 @@ Example 31 illustrates the guidance in paragraphs 606-10-32-21 through 32-24
 **606-10-55-249** In exchange for the service, the customer promises 100 shares of its common stock per week of service (a total of 5,200 shares for the contract). The terms in the contract require that the shares must be paid upon the successful completion of each week of service.
 **606-10-55-250** To determine the transaction price (and the amount of revenue to be recognized), the entity measures the estimated fair value of 5,200 shares at contract inception (that is, on January 1, 20X1). The entity measures its progress toward complete satisfaction of the performance obligation and recognizes revenue as each week of service is complete. The entity does not reflect any changes in the fair value of the 5,200 shares after contract inception in the transaction price. However, the entity assesses any related contract asset or receivable for impairment. Upon receipt of the noncash consideration, the entity would apply the guidance related to the form of the noncash consideration to determine whether and how any changes in fair value that occurred after contract inception should be recognized.
 **606-10-55-250** To determine the transaction price (and the amount of revenue to be recognized), the entity measures the estimated fair value of 5,200 shares at contract inception (that is, on January 1, 20X1). The entity measures its progress toward complete satisfaction of the performance obligation and recognizes revenue as each week of service is complete. The entity does not reflect any changes in the fair value of the 5,200 shares after contract inception in the transaction price. However, the entity assesses any related contract asset or receivable for impairment. Upon receipt of the noncash consideration, the entity would apply the guidance related to the form of the noncash consideration to determine whether and how any changes in fair value that occurred after contract inception should be recognized.
+1. Paragraph 606-10-25-14 on identifying performance obligations
+2. Paragraph 606-10-32-4 on determining transaction price
+3. Paragraphs 606-10-32-5 through 32-14 on variable consideration
+4. Paragraphs 606-10-32-28 through 32-41 on allocating transaction price to the performance obligations in the contract
+5. Paragraph 606-10-45-4 on an unconditional right to consideration.
+
+1. Paragraph 606-10-25-14 on identifying performance obligations
+2. Paragraph 606-10-32-4 on determining transaction price
+3. Paragraphs 606-10-32-5 through 32-14 on variable consideration
+4. Paragraphs 606-10-32-28 through 32-41 on allocating transaction price to the performance obligations in the contract
+5. Paragraph 606-10-45-4 on an unconditional right to consideration.
+
+**606-10-55-250B** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:606-10-65-3On January 1, 20X7, an entity enters into a contract with a customer to sell 5,000 units of Product A. The customer will pay $100 for each unit upon delivery. If the entity delivers all 5,000 units within 2 years from contract inception, the customer promises a performance bonus of 100 warrants for the customer’s common stock. The estimated fair value of the 100 warrants at contract inception is $100,000. At contract inception, the entity concludes that each unit is a performance obligation that is satisfied at a point in time. Based on its experience, the entity expects that all 5,000 units will be delivered to the customer before the end of 20X8. Accordingly, it concludes that the variable consideration related to the 100 warrants is not constrained and the transaction price is $600,000 ([5,000 units × $100] + $100,000 estimated fair value of 100 warrants at contract inception). Accordingly, the transaction price allocated to each unit is $120 ($600,000/5,000 units).
+**606-10-55-250C** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:606-10-65-3On January 1, 20X7, an entity enters into a contract with a customer to sell 5,000 units of Product A. The customer will pay $100 for each unit upon delivery. If the entity delivers all 5,000 units within 2 years from contract inception, the customer promises a performance bonus of 100 warrants for the customer’s common stock. The estimated fair value of the 100 warrants at contract inception is $100,000. At contract inception, the entity concludes that each unit is a performance obligation that is satisfied at a point in time. Based on its experience, the entity expects that all 5,000 units will be delivered to the customer before the end of 20X8. Accordingly, it concludes that the variable consideration related to the 100 warrants is not constrained and the transaction price is $600,000 ([5,000 units × $100] + $100,000 estimated fair value of 100 warrants at contract inception). Accordingly, the transaction price allocated to each unit is $120 ($600,000/5,000 units). PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:606-10-65-3During 20X7, the entity delivers 3,000 units to the customer. At the end of 20X7, the entity continues to expect that the remaining 2,000 units will be delivered to the customer before the end of 20X8. Therefore, the transaction price determined at contract inception is unchanged. For 20X7, the entity recognizes revenue of $360,000 (3,000 units × $120), cash of $300,000, and a contract asset of $60,000 ($100,000 estimated fair value of 100 warrants at contract inception × [3,000 delivered units/5,000 units]). The entity does not reflect any changes in the fair value of the 100 warrants in the transaction price. However, the entity assesses the related contract asset for impairment.
+**606-10-55-250D** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:606-10-65-3During 20X7, the entity delivers 3,000 units to the customer. At the end of 20X7, the entity continues to expect that the remaining 2,000 units will be delivered to the customer before the end of 20X8. Therefore, the transaction price determined at contract inception is unchanged. For 20X7, the entity recognizes revenue of $360,000 (3,000 units × $120), cash of $300,000, and a contract asset of $60,000 ($100,000 estimated fair value of 100 warrants at contract inception × [3,000 delivered units/5,000 units]). The entity does not reflect any changes in the fair value of the 100 warrants in the transaction price. However, the entity assesses the related contract asset for impairment. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:606-10-65-3During 20X8, the entity delivers the remaining 2,000 units to the customer. For 20X8, the entity recognizes revenue of $240,000 (2,000 units × $120), cash of $200,000, and a contract asset of $40,000 ($100,000 estimated fair value of 100 warrants at contract inception × [2,000 delivered units/5,000 units]). The entity does not reflect any changes in the fair value of the 100 warrants in the transaction price. However, the entity assesses the related contract asset for impairment. When all 5,000 units have been delivered, the entity concludes that its right to receive or retain the 100 warrants is unconditional under this Topic. At that point, the entity derecognizes the contract asset and applies the guidance in other Topics to account for the 100 warrants.
 
 ##### · > Consideration Payable to a                Customer
 
-**606-10-55-251** · · > Example 31A—Share-Based Noncash Consideration
+**606-10-55-251** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:606-10-65-3During 20X8, the entity delivers the remaining 2,000 units to the customer. For 20X8, the entity recognizes revenue of $240,000 (2,000 units × $120), cash of $200,000, and a contract asset of $40,000 ($100,000 estimated fair value of 100 warrants at contract inception × [2,000 delivered units/5,000 units]). The entity does not reflect any changes in the fair value of the 100 warrants in the transaction price. However, the entity assesses the related contract asset for impairment. When all 5,000 units have been delivered, the entity concludes that its right to receive or retain the 100 warrants is unconditional under this Topic. At that point, the entity derecognizes the contract asset and applies the guidance in other Topics to account for the 100 warrants.
 Example 32 illustrates the guidance in paragraphs 606-10-32-25 through 32-27
 on consideration payable to a customer.
 **606-10-55-251** Example 32 illustrates the guidance in paragraphs 606-10-32-25 through 32-27
@@ -3410,8 +3690,9 @@ The contract includes a call option that gives the entity the right to repurchas
 **606-10-55-403** Control of the asset does not transfer to the customer on January 1, 20X7, because the entity has a right to repurchase the asset and therefore the customer is limited in its ability to direct the use of, and obtain substantially all of the remaining benefits from, the asset. Consequently, in accordance with paragraph 606-10-55-68(b), the entity accounts for the transaction as a financing arrangement because the exercise price is more than the original selling price. In accordance with paragraph 606-10-55-70, the entity does not derecognize the asset and instead recognizes the cash received as a financial liability. The entity also recognizes interest expense for the difference between the exercise price ($1.1 million) and the cash received ($1 million), which increases the liability.
 **606-10-55-403** Control of the asset does not transfer to the customer on January 1, 20X7, because the entity has a right to repurchase the asset and therefore the customer is limited in its ability to direct the use of, and obtain substantially all of the remaining benefits from, the asset. Consequently, in accordance with paragraph 606-10-55-68(b), the entity accounts for the transaction as a financing arrangement because the exercise price is more than the original selling price. In accordance with paragraph 606-10-55-70, the entity does not derecognize the asset and instead recognizes the cash received as a financial liability. The entity also recognizes interest expense for the difference between the exercise price ($1.1 million) and the cash received ($1 million), which increases the liability.
 **606-10-55-404** On January 1, 20X7, the option lapses unexercised; therefore, the entity derecognizes the liability and recognizes revenue of $1.1 million.
+PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:105-10-65-10On December 31, 20X7, the option lapses unexercised; therefore, the entity derecognizes the liability and recognizes revenue of $1.1 million.
 **606-10-55-404** On January 1, 20X7, the option lapses unexercised; therefore, the entity derecognizes the liability and recognizes revenue of $1.1 million.
-**606-10-55-405** · · · > Case B—Put Option: Lease
+**606-10-55-405** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:105-10-65-10On December 31, 20X7, the option lapses unexercised; therefore, the entity derecognizes the liability and recognizes revenue of $1.1 million. · · · > Case B—Put Option: Lease
 Instead of having a call option, the contract includes a put option that obliges the entity to repurchase the asset at the customer's request for $900,000 on or before December 31, 20X7. The market value is expected to be $750,000 on December 31, 20X7.
 **606-10-55-405** Instead of having a call option, the contract includes a put option that obliges the entity to repurchase the asset at the customer's request for $900,000 on or before December 31, 20X7. The market value is expected to be $750,000 on December 31, 20X7.
 **606-10-55-406** At the inception of the contract, the entity assesses whether the customer has a significant economic incentive to exercise the put option, to determine the accounting for the transfer of the asset (see paragraphs 606-10-55-72 through 55-78
@@ -3443,7 +3724,7 @@ An entity enters into a contract with a customer on January 1, 20X8, for the sal
 
 ## 60 Relationships
 
-> **General Note:** The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
+General Note:The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
 
 ### General
 
@@ -3533,11 +3814,12 @@ For guidance on nonmonetary transactions (that is, transactions including noncas
 
 ## 65 Transition and Open Effective Date Information
 
-> **General Note:** The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
+General Note:The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
 
 ### General
 
-**606-10-65-1** Paragraph superseded on 12/14/2022 after the end of the transition period stated in Accounting Standards Updates No. 2014-09, *Revenue from Contracts with Customers (Topic 606)*, No. 2016-08, *Revenue from Contracts with Customers (Topic 606): Principal versus Agent Considerations (Reporting Revenue Gross versus Net),* No. 2016-10, *Revenue from Contracts with Customers (Topic 606): Identifying Performance Obligations and Licensing,* No. 2016-12, *Revenue from Contracts with Customers (Topic 606): Narrow-Scope Improvements and Practical Expedients,* No. 2016-20, *Technical Corrections and Improvements to Topic 606, Revenue from Contracts with Customers,* No. 2017-05, *Other Income—Gains and Losses from the Derecognition of Nonfinancial Assets (Subtopic 610-20): Clarifying the Scope of Asset Derecognition Guidance and Accounting for Partial Sales of Nonfinancial Assets*, and No. 2020-05, *Revenue from Contracts with Customers (Topic 606) and Leases (Topic 842): Effective Dates for Certain Entities*.
+**606-10-65-1** Related Proposed ASUs
+Paragraph superseded on 12/14/2022 after the end of the transition period stated in Accounting Standards Updates No. 2014-09, *Revenue from Contracts with Customers (Topic 606)*, No. 2016-08, *Revenue from Contracts with Customers (Topic 606): Principal versus Agent Considerations (Reporting Revenue Gross versus Net),* No. 2016-10, *Revenue from Contracts with Customers (Topic 606): Identifying Performance Obligations and Licensing,* No. 2016-12, *Revenue from Contracts with Customers (Topic 606): Narrow-Scope Improvements and Practical Expedients,* No. 2016-20, *Technical Corrections and Improvements to Topic 606, Revenue from Contracts with Customers,* No. 2017-05, *Other Income—Gains and Losses from the Derecognition of Nonfinancial Assets (Subtopic 610-20): Clarifying the Scope of Asset Derecognition Guidance and Accounting for Partial Sales of Nonfinancial Assets*, and No. 2020-05, *Revenue from Contracts with Customers (Topic 606) and Leases (Topic 842): Effective Dates for Certain Entities*.
 **606-10-65-1** Paragraph superseded on 12/14/2022 after the end of the transition period stated in Accounting Standards Updates No. 2014-09, *Revenue from Contracts with Customers (Topic 606)*, No. 2016-08, *Revenue from Contracts with Customers (Topic 606): Principal versus Agent Considerations (Reporting Revenue Gross versus Net),* No. 2016-10, *Revenue from Contracts with Customers (Topic 606): Identifying Performance Obligations and Licensing,* No. 2016-12, *Revenue from Contracts with Customers (Topic 606): Narrow-Scope Improvements and Practical Expedients,* No. 2016-20, *Technical Corrections and Improvements to Topic 606, Revenue from Contracts with Customers,* No. 2017-05, *Other Income—Gains and Losses from the Derecognition of Nonfinancial Assets (Subtopic 610-20): Clarifying the Scope of Asset Derecognition Guidance and Accounting for Partial Sales of Nonfinancial Assets*, and No. 2020-05, *Revenue from Contracts with Customers (Topic 606) and Leases (Topic 842): Effective Dates for Certain Entities*.
 **606-10-65-2** > Transition Related to Accounting Standards Update No. 2025-04, *Compensation—Stock Compensation (Topic 718) and Revenue from Contracts with Customers (Topic 606): Clarifications to Share-Based Consideration Payable to a Customer*Accounting Standards Update 2025-04
 All entities shall apply the pending content that links to this paragraph for annual reporting periods beginning after December 15, 2026, and interim reporting periods within those annual reporting periods.
@@ -3557,11 +3839,13 @@ All entities shall apply the pending content that links to this paragraph for an
 
 **606-10-65-2** Accounting Standards Update 2025-04
 All entities shall apply the pending content that links to this paragraph for annual reporting periods beginning after December 15, 2026, and interim reporting periods within those annual reporting periods.
-2. Early adoption of the pending content that links to this paragraph is permitted in an interim or annual reporting period in which financial statements have not yet been issued (or made available for issuance). If an entity adopts the pending content that links to this paragraph in an interim reporting period, it shall adopt the pending content as of the beginning of the annual reporting period that includes that interim reporting period.
+Early adoption of the pending content that links to this paragraph is permitted in an interim or annual reporting period in which financial statements have not yet been issued (or made available for issuance). If an entity adopts the pending content that links to this paragraph in an interim reporting period, it shall adopt the pending content as of the beginning of the annual reporting period that includes that interim reporting period.
 
+An entity shall apply the pending content that links to this paragraph using one of the following transition methods:
 1. On a modified retrospective basis through a cumulative-effect adjustment to the opening balance of retained earnings (or other appropriate components of equity or net assets in the statement of financial position) as of the beginning of the annual reporting period in which the pending content that links to this paragraph is adopted.
 2. On a retrospective basis through a cumulative-effect adjustment to the opening balance of retained earnings (or other appropriate components of equity or net assets in the statement of financial position) as of the beginning of the first period presented in accordance with the guidance on accounting changes in paragraphs 250-10-45-5 and 250-10-45-8. If retrospective transition is applied, an entity shall use the actual outcome, if known, of a performance condition or service condition as of the beginning of the annual reporting period in which the pending content that links to this paragraph is adopted for all prior-period estimates. If the actual outcome is unknown, an entity shall use its estimate of the probability of achieving a service condition or performance condition as of the beginning of the annual reporting period of adoption for all prior-period estimates.
 
+An entity applying the pending content that links to this paragraph in accordance with (c)(1) shall provide the following transition disclosures in the financial statements of both the interim reporting period (if applicable) and the annual reporting period of the change:
 1. The nature of the change in accounting principle, including an explanation of the newly adopted accounting principle
 2. The method of applying the change
 3. The cumulative effect of the change on retained earnings or other components of equity in the statement of financial position as of the annual reporting period in which the pending content that links to this paragraph is adopted.
@@ -3585,19 +3869,21 @@ The following represents the transition and effective date information related t
 
 **606-10-65-3** Accounting Standards Update 2025-07
 The following represents the transition and effective date information related to Accounting Standards Update No. 2025-07,* Derivatives and Hedging (Topic 815) and Revenue from Contracts with Customers (Topic 606): Derivatives Scope Refinements and Scope Clarification for Share-Based Noncash Consideration from a Customer in a Revenue Contract*:**Effective date and early adoption**
-1. All entities shall apply the pending content that links to this paragraph for annual reporting periods beginning after December 15, 2026, and interim reporting periods within those annual reporting periods.
+All entities shall apply the pending content that links to this paragraph for annual reporting periods beginning after December 15, 2026, and interim reporting periods within those annual reporting periods.
 2. Early adoption of the pending content that links to this paragraph is permitted in both interim and annual reporting periods for which financial statements have not yet been issued or made available for issuance. If an entity early adopts the pending content that links to this paragraph in an interim reporting period, it shall apply the pending content as of the beginning of the annual reporting period that includes that interim reporting period. If an entity early adopts the pending content that links to this paragraph, it also shall early adopt the pending content that links to paragraph 815-10-65-8 simultaneously.
 
+**Transition method**
 1. Prospectively to new contracts entered into on or after the date of adoption, including modified contracts accounted for as separate contracts in accordance with paragraph 606-10-25-12
 2. On a modified retrospective basis through a cumulative-effect adjustment to the opening balance of retained earnings (or other appropriate components of equity or net assets in the statement of financial position) as of the beginning of the annual reporting period of adoption for contracts existing as of the beginning of the annual reporting period of adoption.
 
+**Transition disclosures**
 1. An entity that applies the transition method in (c)(1) shall disclose the nature of and reason for the change in accounting principle in both the interim reporting period and the annual reporting period in which the entity adopts the pending content that links to this paragraph.
 1. The nature of and reason for the change in accounting principle
 2. The cumulative effect of the change on retained earnings or other components of equity or net assets in the statement of financial position as of the beginning of the annual reporting period of adoption.
 
 ## S00 Status
 
-> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
 ### General
 
@@ -3619,7 +3905,7 @@ The following represents the transition and effective date information related t
 
 ## S20 Glossary
 
-> **General Note:** The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
 
 ##### Not-for-Profit Entity
 
@@ -3630,11 +3916,11 @@ The following represents the transition and effective date information related t
 1. All investor-owned entities
 2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
 
-1. Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
+Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
 2. Operating purposes other than to provide goods or services at a profit
 3. Absence of ownership interests like those of business entities.
 
-1. All investor-owned entities
+All investor-owned entities
 2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
 
 ##### Public Business Entity
@@ -3646,7 +3932,7 @@ The following represents the transition and effective date information related t
 5. It has one or more securities that are not subject to contractual restrictions on transfer, and it is required by law, contract, or regulation to prepare U.S. GAAP financial statements (including notes) and make them publicly available on a periodic basis (for example, interim or annual periods). An entity must meet both of these conditions to meet this criterion.
 
 An entity may meet the definition of a public business entity solely because its financial statements or financial information is included in another entity's filing with the SEC. In that case, the entity is only a public business entity for purposes of financial statements that are filed or furnished with the SEC.
-1. It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing).
+It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing).
 2. It is required by the Securities Exchange Act of 1934 (the Act), as amended, or rules or regulations promulgated under the Act, to file or furnish financial statements with a regulatory agency other than the SEC.
 3. It is required to file or furnish financial statements with a foreign or domestic regulatory agency in preparation for the sale of or for purposes of issuing securities that are not subject to contractual restrictions on transfer.
 4. It has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market.
@@ -3658,23 +3944,74 @@ An entity may meet the definition of a public business entity solely because its
 2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
 3. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
 
-1. It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
+It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
 2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
 3. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
 
 ## S25 Recognition
 
-> **General Note:** The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
 
 ### General
 
 The following is the text of Interpretive Release No. 33-10403: Updates to Commission Guidance Regarding Accounting for Sales of Vaccines and Bioterror Countermeasures to the Federal Government for Placement into the Pediatric Vaccine Stockpile or the Strategic National Stockpile. **AGENCY:** Securities and Exchange Commission.
 **ACTION:** Interpretation. **SUMMARY:** The Securities and Exchange Commission is publishing this interpretive release to update previously issued guidance with respect to accounting for sales of vaccines and bioterror countermeasures to the Federal Government for placement into stockpiles related to the Vaccines for Children Program or the Strategic National Stockpile. This update is being provided to bring existing guidance into conformity with Financial Accounting Standards Board's Accounting Standards Codification Topic 606, *Revenue from Contracts with Customers*. This guidance is applicable upon a registrant's adoption of Accounting Standards Codification Topic 606 and is applicable to all arrangements for which revenue is recognized in accordance with Accounting Standards Codification Topic 606. **EFFECTIVE DATE:** August 29, 2017. **FOR FURTHER INFORMATION CONTACT:** Kevin L. Vaughn, Senior Associate Chief Accountant, or Joseph R. Epstein, Professional Accounting Fellow, Office of the Chief Accountant, at (202) 551-5300, U.S. Securities and Exchange Commission, 100 F Street, NE, Washington, DC 20549-6561. Inquiries about this interpretive release also can be directed to oca@sec.gov. **SUPPLEMENTARY INFORMATION:** **I. Introduction** The Securities and Exchange Commission (“Commission”) continues to be committed, as stated in previously-issued guidance (the “2005 Release”), ^FN1^ to addressing any unintended consequences of accounting requirements that could impair the nation's ability to create and maintain sufficient supplies of various vaccines and bioterror countermeasures (“enumerated vaccines”). The Commission issued the 2005 Release to address questions about the timing of revenue recognition for vaccines placed into the Vaccines for Children Program and the Strategic National Stockpile. At the time of the 2005 Release, some expressed concerns that the application of generally accepted accounting principles may require revenue recognition to be delayed beyond the period in which the vaccine is placed in the stockpile, and may have an unintended consequence of causing some vaccine manufacturers to decline to participate in these critical stockpile programs. The Commission published the guidance in the 2005 Release to resolve the accounting questions. With the Financial Accounting Standards Board's (“FASB”) issuance of Accounting Standards Codification (“ASC”) Topic 606, *Revenues from Contracts with Customers* (“ASC Topic 606”), ^FN2^ we are providing this updated guidance. FN1 *See Commission Guidance Regarding Accounting for Sales of Vaccines and Bioterror Countermeasures to the Federal Government for Placement into the Pediatric Vaccine Stockpile or the Strategic National Stockpile*, Release No. 33-8642 (Dec. 5, 2005). FN2 The International Accounting Standards Board (IASB) has also issued IFRS 15, *Revenue from Contracts with Customers* (IFRS 15). The issuance of ASC Topic 606 and IFRS 15 completes the joint effort by the FASB and IASB that was undertaken with the intent of improving financial reporting by creating converged comprehensive revenue recognition guidance for U.S. GAAP and IFRS. Government vaccine stockpile programs are unique in many respects. For example, the primary objective of purchasing the vaccines is not to take delivery for ultimate use but rather to be able to require immediate delivery on notice. An additional characteristic of vaccine stockpiles is the limited shelf life of the vaccines. For these and other reasons, the Commission continues to limit this guidance to the vaccines enumerated below. **II. The Application of Generally Accepted Accounting Principles for Revenue Recognition to Vaccine Stockpiles** The Commission historically has recognized pronouncements of the FASB as authoritative in the absence of any contrary determination by the Commission. ^FN3^ In Financial Reporting Release No. 70, ^FN4^ the Commission stated its determination that the FASB and its parent organization, the Financial Accounting Foundation, satisfied the criteria in Section 19(b) of the Securities Act of 1933 ^FN5^ and, accordingly, FASB's financial accounting and reporting standards are recognized as “generally accepted” for purposes of the federal securities laws. As a result, registrants are required to comply with those standards in preparing financial statements filed with the Commission, unless the Commission provides otherwise. ^FN6^ FN3 Rule 4-01(a)(1) of Regulation S-X, 17 CFR 210.4-01(a)(1). See Accounting Series Release (“ASR”) No. 150 (Dec. 20, 1973) and ASR No. 4 (Apr. 25, 1938). FN4 *Policy Statement: Reaffirming the Status of the FASB as a Designated Private-Sector Standard Setter*, Release Nos. 33-8221; 34-47743; IC-26028; FR-70 (Apr. 25, 2003) (“FR-70”); 68 FR 23333 (May 1, 2003). FN5 15 U.S.C 77s(b). FN6 *See* FR-70; Rule 4-01(a)(1) of Regulation S-X, 17 CFR 210.4-01(a)(1). Although no specific guidance has been published by the FASB related to revenue recognition for vaccine stockpiles, the FASB has issued comprehensive revenue recognition guidance in ASC Topic 606, which supersedes most previous revenue recognition guidance issued by the FASB. In response to the new, comprehensive revenue recognition model in ASC Topic 606, simultaneous with publication of this release, the Commission has issued an interpretation stating ^FN7^ that upon the registrant's adoption of ASC Topic 606, such registrant should no longer rely on the guidance in Securities Exchange Act Release No. 23507 and Accounting and Auditing Enforcement Release No. 108, *In the Matter of Stewart Parness* (“AAER 108”), ^FN8^ which set forth criteria to be met in order to recognize revenue when delivery has not occurred. The Commission staff had previously reiterated the guidance in AAER 108 in Staff Accounting Bulletin (“SAB”) Topic 13, *Revenue Recognition*, which the staff is modifying as a result of the FASB's issuance of ASC Topic 606. FN7 *Commission Guidance Regarding Revenue Recognition for Bill-and-Hold Arrangements*, Release No. 33-10402 (Aug. 18, 2017). FN8 *See In the Matter of Stewart Parness*, AAER 108 (Aug. 5, 1986). Under ASC Topic 606, the general criteria for revenue recognition includes identifying the contract(s) with a customer, identifying the performance obligations in the contract, determining the transaction price, allocating the transaction price to the performance obligations in the contract, and recognizing revenue when (or as) the entity satisfies a performance obligation by transferring a promised good or service to a customer. ^FN9^ A good or service is transferred when (or as) the customer obtains control of that good or service and ASC Topic 606 sets forth indicators of when control has been transferred. ^FN10^ FN9 *See* ASC paragraph 606-10-05-4. FN10 *See* ASC paragraphs 606-10-25-23 through 25-30. ASC Topic 606 also provides specific guidance on contracts under which an entity bills a customer for a product but the entity retains physical possession of the product until it is transferred to the customer at a point in time in the future (i.e., a bill-and-hold arrangement). ^FN11^ Topic 606 acknowledges that, for some contracts, a customer may obtain control of a product even though that product remains in an entity's physical possession. ^FN12^ In order to recognize revenue in a bill-and-hold arrangement, Topic 606 requires consideration of the indicators of when control has been transferred and sets forth additional criteria to be met. ^FN13^ FN11 *See* ASC paragraphs 606-10-55-81 through 55-84. FN12 *See* ASC paragraph 606-10-55-82. FN13 *See* ASC paragraph 606-10-55-83. **III. Updated Commission Guidance** The Commission believes vaccine manufacturers should recognize revenue and provide the disclosures required under ASC Topic 606 when vaccines are placed into Federal Governmental stockpile programs because control of the enumerated vaccines will have been transferred to the customer and the criteria to recognize revenue in a bill-and-hold arrangement under ASC Topic 606 will have been met. The following are the enumerated vaccines subject to this release: • Childhood disease vaccines; • Influenza vaccines; and • Other vaccines and countermeasures sold to the Federal Government for placement in the Strategic National Stockpile. Due to the uniqueness of the vaccine stockpile programs as discussed above, this interpretative guidance is not applicable to transactions other than the sales of enumerated vaccines by vaccine manufacturers. Prior to a registrant's adoption of ASC Topic 606, the guidance contained in the 2005 Release is still applicable to all arrangements for which revenue is recognized. **List of Subjects** 17 CFR Parts 231, 241, and 271 Securities. Amendments to the Code of Federal Regulations For the reasons set out in the preamble, the Commission is amending Title 17, chapter II of the Code of Federal Regulations as set forth below: **PART 231 - INTERPRETATIVE RELEASES RELATING TO THE SECURITIES ACT OF 1933 AND GENERAL RULES AND REGULATIONS THEREUNDER** Part 231 is amended by adding Release No. 33-10403 and the release date of August 18, 2017 to the list of interpretive releases. **PART 241 - INTERPRETATIVE RELEASES RELATING TO THE SECURITIES EXCHANGE ACT OF 1934 AND GENERAL RULES AND REGULATIONS THEREUNDER** Part 241 is amended by adding Release No. 34-81429 and the release date of August 18, 2017 to the list of interpretive releases. **PART 271 - INTERPRETATIVE RELEASES RELATING TO THE INVESTMENT COMPANY ACT OF 1940 AND GENERAL RULES AND REGULATIONS THEREUNDER** Part 271 is amended by adding Release No. IC-32785 and the release date of August 18, 2017 to the list of interpretive releases. By the Commission. Dated: August 18, 2017 Jill M. Peterson Assistant Secretary
 The following is the text of Interpretive Release No. 33-10403: Updates to Commission Guidance Regarding Accounting for Sales of Vaccines and Bioterror Countermeasures to the Federal Government for Placement into the Pediatric Vaccine Stockpile or the Strategic National Stockpile. **AGENCY:** Securities and Exchange Commission.
+**ACTION:** Interpretation.
+**SUMMARY:** The Securities and Exchange Commission is publishing this interpretive release to update previously issued guidance with respect to accounting for sales of vaccines and bioterror countermeasures to the Federal Government for placement into stockpiles related to the Vaccines for Children Program or the Strategic National Stockpile. This update is being provided to bring existing guidance into conformity with Financial Accounting Standards Board's Accounting Standards Codification Topic 606, *Revenue from Contracts with Customers*. This guidance is applicable upon a registrant's adoption of Accounting Standards Codification Topic 606 and is applicable to all arrangements for which revenue is recognized in accordance with Accounting Standards Codification Topic 606.
+**EFFECTIVE DATE:** August 29, 2017.
+**FOR FURTHER INFORMATION CONTACT:** Kevin L. Vaughn, Senior Associate Chief Accountant, or Joseph R. Epstein, Professional Accounting Fellow, Office of the Chief Accountant, at (202) 551-5300, U.S. Securities and Exchange Commission, 100 F Street, NE, Washington, DC 20549-6561. Inquiries about this interpretive release also can be directed to oca@sec.gov.
+**SUPPLEMENTARY INFORMATION:**
+**I. Introduction**
+The Securities and Exchange Commission (“Commission”) continues to be committed, as stated in previously-issued guidance (the “2005 Release”), ^FN1^ to addressing any unintended consequences of accounting requirements that could impair the nation's ability to create and maintain sufficient supplies of various vaccines and bioterror countermeasures (“enumerated vaccines”). The Commission issued the 2005 Release to address questions about the timing of revenue recognition for vaccines placed into the Vaccines for Children Program and the Strategic National Stockpile. At the time of the 2005 Release, some expressed concerns that the application of generally accepted accounting principles may require revenue recognition to be delayed beyond the period in which the vaccine is placed in the stockpile, and may have an unintended consequence of causing some vaccine manufacturers to decline to participate in these critical stockpile programs. The Commission published the guidance in the 2005 Release to resolve the accounting questions. With the Financial Accounting Standards Board's (“FASB”) issuance of Accounting Standards Codification (“ASC”) Topic 606, *Revenues from Contracts with Customers* (“ASC Topic 606”), ^FN2^ we are providing this updated guidance.
+FN1 *See Commission Guidance Regarding Accounting for Sales of Vaccines and Bioterror Countermeasures to the Federal Government for Placement into the Pediatric Vaccine Stockpile or the Strategic National Stockpile*, Release No. 33-8642 (Dec. 5, 2005).
+FN2 The International Accounting Standards Board (IASB) has also issued IFRS 15, *Revenue from Contracts with Customers* (IFRS 15). The issuance of ASC Topic 606 and IFRS 15 completes the joint effort by the FASB and IASB that was undertaken with the intent of improving financial reporting by creating converged comprehensive revenue recognition guidance for U.S. GAAP and IFRS.
+Government vaccine stockpile programs are unique in many respects. For example, the primary objective of purchasing the vaccines is not to take delivery for ultimate use but rather to be able to require immediate delivery on notice. An additional characteristic of vaccine stockpiles is the limited shelf life of the vaccines. For these and other reasons, the Commission continues to limit this guidance to the vaccines enumerated below.
+**II. The Application of Generally Accepted Accounting Principles for Revenue Recognition to Vaccine Stockpiles**
+The Commission historically has recognized pronouncements of the FASB as authoritative in the absence of any contrary determination by the Commission. ^FN3^ In Financial Reporting Release No. 70, ^FN4^ the Commission stated its determination that the FASB and its parent organization, the Financial Accounting Foundation, satisfied the criteria in Section 19(b) of the Securities Act of 1933 ^FN5^ and, accordingly, FASB's financial accounting and reporting standards are recognized as “generally accepted” for purposes of the federal securities laws. As a result, registrants are required to comply with those standards in preparing financial statements filed with the Commission, unless the Commission provides otherwise. ^FN6^
+FN3 Rule 4-01(a)(1) of Regulation S-X, 17 CFR 210.4-01(a)(1). See Accounting Series Release (“ASR”) No. 150 (Dec. 20, 1973) and ASR No. 4 (Apr. 25, 1938).
+FN4 *Policy Statement: Reaffirming the Status of the FASB as a Designated Private-Sector Standard Setter*, Release Nos. 33-8221; 34-47743; IC-26028; FR-70 (Apr. 25, 2003) (“FR-70”); 68 FR 23333 (May 1, 2003).
+FN5 15 U.S.C 77s(b).
+FN6 *See* FR-70; Rule 4-01(a)(1) of Regulation S-X, 17 CFR 210.4-01(a)(1).
+Although no specific guidance has been published by the FASB related to revenue recognition for vaccine stockpiles, the FASB has issued comprehensive revenue recognition guidance in ASC Topic 606, which supersedes most previous revenue recognition guidance issued by the FASB.
+In response to the new, comprehensive revenue recognition model in ASC Topic 606, simultaneous with publication of this release, the Commission has issued an interpretation stating ^FN7^ that upon the registrant's adoption of ASC Topic 606, such registrant should no longer rely on the guidance in Securities Exchange Act Release No. 23507 and Accounting and Auditing Enforcement Release No. 108, *In the Matter of Stewart Parness* (“AAER 108”), ^FN8^ which set forth criteria to be met in order to recognize revenue when delivery has not occurred. The Commission staff had previously reiterated the guidance in AAER 108 in Staff Accounting Bulletin (“SAB”) Topic 13, *Revenue Recognition*, which the staff is modifying as a result of the FASB's issuance of ASC Topic 606.
+FN7 *Commission Guidance Regarding Revenue Recognition for Bill-and-Hold Arrangements*, Release No. 33-10402 (Aug. 18, 2017).
+FN8 *See In the Matter of Stewart Parness*, AAER 108 (Aug. 5, 1986).
+Under ASC Topic 606, the general criteria for revenue recognition includes identifying the contract(s) with a customer, identifying the performance obligations in the contract, determining the transaction price, allocating the transaction price to the performance obligations in the contract, and recognizing revenue when (or as) the entity satisfies a performance obligation by transferring a promised good or service to a customer. ^FN9^ A good or service is transferred when (or as) the customer obtains control of that good or service and ASC Topic 606 sets forth indicators of when control has been transferred. ^FN10^
+FN9 *See* ASC paragraph 606-10-05-4.
+FN10 *See* ASC paragraphs 606-10-25-23 through 25-30
+.
+ASC Topic 606 also provides specific guidance on contracts under which an entity bills a customer for a product but the entity retains physical possession of the product until it is transferred to the customer at a point in time in the future (i.e., a bill-and-hold arrangement). ^FN11^ Topic 606 acknowledges that, for some contracts, a customer may obtain control of a product even though that product remains in an entity's physical possession. ^FN12^ In order to recognize revenue in a bill-and-hold arrangement, Topic 606 requires consideration of the indicators of when control has been transferred and sets forth additional criteria to be met. ^FN13^
+FN11 *See* ASC paragraphs 606-10-55-81 through 55-84
+. FN12 *See* ASC paragraph 606-10-55-82.
+FN13 *See* ASC paragraph 606-10-55-83.
+**III. Updated Commission Guidance**
+The Commission believes vaccine manufacturers should recognize revenue and provide the disclosures required under ASC Topic 606 when vaccines are placed into Federal Governmental stockpile programs because control of the enumerated vaccines will have been transferred to the customer and the criteria to recognize revenue in a bill-and-hold arrangement under ASC Topic 606 will have been met.
+The following are the enumerated vaccines subject to this release:
+• Childhood disease vaccines;
+• Influenza vaccines; and
+• Other vaccines and countermeasures sold to the Federal Government for placement in the Strategic National Stockpile.
+Due to the uniqueness of the vaccine stockpile programs as discussed above, this interpretative guidance is not applicable to transactions other than the sales of enumerated vaccines by vaccine manufacturers.
+Prior to a registrant's adoption of ASC Topic 606, the guidance contained in the 2005 Release is still applicable to all arrangements for which revenue is recognized.
+**List of Subjects**
+17 CFR Parts 231, 241, and 271
+Securities.
+Amendments to the Code of Federal Regulations
+For the reasons set out in the preamble, the Commission is amending Title 17, chapter II of the Code of Federal Regulations as set forth below:
+**PART 231 - INTERPRETATIVE RELEASES RELATING TO THE SECURITIES ACT OF 1933 AND GENERAL RULES AND REGULATIONS THEREUNDER**
+Part 231 is amended by adding Release No. 33-10403 and the release date of August 18, 2017 to the list of interpretive releases.
+**PART 241 - INTERPRETATIVE RELEASES RELATING TO THE SECURITIES EXCHANGE ACT OF 1934 AND GENERAL RULES AND REGULATIONS THEREUNDER**
+Part 241 is amended by adding Release No. 34-81429 and the release date of August 18, 2017 to the list of interpretive releases.
+**PART 271 - INTERPRETATIVE RELEASES RELATING TO THE INVESTMENT COMPANY ACT OF 1940 AND GENERAL RULES AND REGULATIONS THEREUNDER**
+Part 271 is amended by adding Release No. IC-32785 and the release date of August 18, 2017 to the list of interpretive releases.
+By the Commission.
+Dated: August 18, 2017
+Jill M. Peterson
+Assistant Secretary
 
 ## S65 Transition and Open Effective Date Information
 
-> **General Note:** The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
+General Note:The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
 
 ### General
 
@@ -3686,6 +4023,16 @@ The following is the text of SEC Staff Announcement: Transition Related to Accou
 
 An entity may meet the definition of a public business entity solely because its financial statements or financial information is included in another entity's filing with the SEC. In that case, the entity is only a public business entity for purposes of financial statements that are filed or furnished with the SEC. FN 2 Early adoption of ASC Topic 606 is permitted for public business entities and certain other specified entities only as of annual reporting periods beginning after December 15, 2016, including interim reporting periods within that reporting period. FN 3 Early adoption of ASC Topic 842 is permitted for public business entities and certain other specified entities, as well as for all other entities.
 **606-10-S65-1** The following is the text of SEC Staff Announcement: Transition Related to Accounting Standards Updates No. 2014-09 and 2016-02. FASB Accounting Standards Updates No. 2014-09, *Revenue from Contracts with Customers (Topic 606)*, issued in May 2014 and codified in ASC Topic 606, Revenue from Contracts with Customers, and No. 2016-02, *Leases (Topic 842)*, issued in February 2016 and codified in ASC Topic 842, Leases, provide effective dates that differ for (1) public business entities
+and certain other specified entities and (2) all other entities. The SEC staff has received inquiries from stakeholders regarding the application of the effective dates of ASC Topic 606 and ASC Topic 842 for a public business entity^FN1^ that otherwise would not meet the definition of a public business entity except for a requirement to include or the inclusion of its financial statements or financial information in another entity's filing with the SEC.
+The transition provisions in ASC Topic 606 require that a public business entity and certain other specified entities adopt ASC Topic 606 for annual reporting periods beginning after December 15, 2017, including interim reporting periods within that reporting period. ^FN2^ All other entities are required to adopt ASC Topic 606 for annual reporting periods beginning after December 15, 2018, and interim reporting periods within annual reporting periods beginning after December 15, 2019.
+The transition provisions in ASC Topic 842 require that a public business entity and certain other specified entities adopt ASC Topic 842 for fiscal years beginning after December 15, 2018, and interim periods within those fiscal years. ^FN3^ All other entities are required to adopt ASC Topic 842 for fiscal years beginning after December 15, 2019, and interim periods within fiscal years beginning after December 15, 2020.
+In response to the stakeholder inquiries outlined above, the SEC staff would not object to a public business entity that otherwise would not meet the definition of a public business entity except for a requirement to include or the inclusion of its financial statements or financial information in another entity's filing with the SEC adopting (1) ASC Topic 606 for annual reporting periods beginning after December 15, 2018, and interim reporting periods within annual reporting periods beginning after December 15, 2019, and (2) ASC Topic 842 for fiscal years beginning after December 15, 2019, and interim periods within fiscal years beginning after December 15, 2020.
+A public business entity that otherwise would not meet the definition of a public business entity except for a requirement to include or the inclusion of its financial statements or financial information in another entity's filing with the SEC may still elect to adopt ASC Topic 606 and ASC Topic 842 according to the public business entity effective dates outlined above.
+This announcement is applicable only to public business entities that otherwise would not meet the definition of a public business entity except for a requirement to include or the inclusion of its financial statements or financial information in another entity's filing with the SEC. This announcement is not applicable to other public business entities.
+FN 1 The definition of *Public Business Entity* in the FASB's ASC Master Glossary states, in part, the following:
+A public business entity is a business entity meeting any one of the criteria below . . .
 1. It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing) . . .
 
-An entity may meet the definition of a public business entity solely because its financial statements or financial information is included in another entity's filing with the SEC. In that case, the entity is only a public business entity for purposes of financial statements that are filed or furnished with the SEC. FN 2 Early adoption of ASC Topic 606 is permitted for public business entities and certain other specified entities only as of annual reporting periods beginning after December 15, 2016, including interim reporting periods within that reporting period. FN 3 Early adoption of ASC Topic 842 is permitted for public business entities and certain other specified entities, as well as for all other entities.
+An entity may meet the definition of a public business entity solely because its financial statements or financial information is included in another entity's filing with the SEC. In that case, the entity is only a public business entity for purposes of financial statements that are filed or furnished with the SEC.
+FN 2 Early adoption of ASC Topic 606 is permitted for public business entities and certain other specified entities only as of annual reporting periods beginning after December 15, 2016, including interim reporting periods within that reporting period.
+FN 3 Early adoption of ASC Topic 842 is permitted for public business entities and certain other specified entities, as well as for all other entities.

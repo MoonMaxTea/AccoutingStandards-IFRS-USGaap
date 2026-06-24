@@ -14,7 +14,7 @@ key: true
 
 ## 00 Status
 
-> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
 ### General
 
@@ -631,10 +631,9 @@ The following table identifies the changes made to this Subtopic.
 
 ## 05 Overview and Background
 
-> **General Note:** The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
 
-> **General Note:** The voting interest entity model
-
+The voting interest entity model
 2. The variable interest entity (VIE) model.
 
 Additional analysis also is required for consolidation of entities controlled by contract, which is applicable to entities that are not VIEs in this Subtopic.
@@ -729,7 +728,7 @@ Contractual arrangements between entities that are in business to practice and d
 
 ## 10 Objectives
 
-> **General Note:** The Objectives Section provides the high-level objectives that the Subtopic is intended to accomplish or attain. The Section does not summarize or discuss the main principles of accounting and reporting requirements.
+General Note:The Objectives Section provides the high-level objectives that the Subtopic is intended to accomplish or attain. The Section does not summarize or discuss the main principles of accounting and reporting requirements.
 
 ### General
 
@@ -739,11 +738,11 @@ is to present, primarily for the benefit of the owners and creditors of the pare
 
 ## 15 Scope and Scope Exceptions
 
-> **General Note:** The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
 
 ### General
 
-**810-10-15-1** > Overall Guidance
+**810-10-15-1** Related Proposed ASUs > Overall Guidance
 The Scope Section of the Overall Subtopic establishes the pervasive scope for all Subtopics of the Consolidation Topic. Unless explicitly addressed within specific Subtopics, the following scope guidance applies to all Subtopics of the Consolidation Topic.
 The Scope Section of the Overall Subtopic establishes the pervasive scope for all Subtopics of the Consolidation Topic. Unless explicitly addressed within specific Subtopics, the following scope guidance applies to all Subtopics of the Consolidation Topic.
 The General Subsection of this Section establishes the pervasive scope for this Subtopic, with specific exceptions noted in the other Subsections of this Section.
@@ -841,7 +840,7 @@ An employer shall not consolidate an employee benefit plan subject to the provis
 
 ### Variable Interest Entities
 
-**810-10-15-13** > Overall Guidance
+**810-10-15-13** Related Proposed ASUs > Overall Guidance
 The Variable Interest Entities Subsections follow the same Scope and Scope Exceptions as outlined in the General Subsection of this Subtopic (see paragraph 810-10-15-1), with specific transaction qualifications and exceptions noted below.
 **810-10-15-13** The Variable Interest Entities Subsections follow the same Scope and Scope Exceptions as outlined in the General Subsection of this Subtopic (see paragraph 810-10-15-1), with specific transaction qualifications and exceptions noted below.
 **810-10-15-13A** A legal entity's status as a variable interest entity
@@ -983,7 +982,7 @@ The guidance on collateralized financing entities
 
 ### Consolidation of Entities Controlled by Contract
 
-**810-10-15-18** > Overall Guidance
+**810-10-15-18** Related Proposed ASUs > Overall Guidance
 The Consolidation of Entities Controlled by Contract Subsections follow the same Scope and Scope Exceptions as outlined in the General Subsection of this Subtopic, see paragraph 810-10-15-1, with specific qualifications and exceptions noted below.
 The Consolidation of Entities Controlled by Contract Subsections follow the same Scope and Scope Exceptions as outlined in the General Subsection of this Subtopic, see paragraph 810-10-15-1, with specific qualifications and exceptions noted below.
 **810-10-15-19** > Entities
@@ -1024,7 +1023,7 @@ Term. The contractual arrangement between the physician practice management enti
 
 ## 20 Glossary
 
-> **General Note:** The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
 
 ##### Acquiree
 
@@ -1033,13 +1032,19 @@ The business or businesses that the acquirer obtains control of in a business co
 
 ##### Acquirer
 
+The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:805-10-65-5The entity that obtains control of the acquiree.See paragraphs 805-10-25-4 through 25-5 for guidance on determining the acquirer.
+The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer.
+PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:805-10-65-5The entity that obtains control of the acquiree.See paragraphs 805-10-25-4 through 25-5
+
 ##### Acquisition by a Not-for-Profit Entity
 
-The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer. The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer. A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.
+for guidance on determining the acquirer.A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.
+A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.
 
 ##### Acquisition, Development, and Construction Arrangements
 
-A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.Acquisition, development, or construction arrangements, in which a lender, usually a financial institution, participates in expected residual profit from the sale or refinancing of property.
+Acquisition, development, or construction arrangements, in which a lender, usually a financial institution, participates in expected residual profit from the sale or refinancing of property.
+Acquisition, development, or construction arrangements, in which a lender, usually a financial institution, participates in expected residual profit from the sale or refinancing of property.
 
 ##### Beneficial Interests
 
@@ -1048,7 +1053,7 @@ A transaction or other event in which a not-for-profit acquirer obtains control 
 3. Commercial paper obligations
 4. Residual interests, whether in the form of debt or equity.
 
-1. Senior and subordinated shares of interest, principal, or other cash inflows to be passed-through or paid-through
+Senior and subordinated shares of interest, principal, or other cash inflows to be passed-through or paid-through
 2. Premiums due to guarantors
 3. Commercial paper obligations
 4. Residual interests, whether in the form of debt or equity.
@@ -1056,80 +1061,101 @@ A transaction or other event in which a not-for-profit acquirer obtains control 
 ##### Business
 
 Paragraphs 805-10-55-3A through 55-6 and 805-10-55-8 through 55-9 define what is considered a business.
+Paragraphs 805-10-55-3A through 55-6
 
 ##### Business Combination
 
-Paragraphs 805-10-55-3A through 55-6 and 805-10-55-8 through 55-9 define what is considered a business. A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
+and 805-10-55-8 through 55-9 define what is considered a business. A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
+A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
 
 ##### Collateralized Financing Entity
 
-A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.A variable interest entity that holds financial assets, issues beneficial interests in those financial assets, and has no more than nominal equity. The beneficial interests have contractual recourse only to the related assets of the collateralized financing entity and are classified as financial liabilities. A collateralized financing entity may hold nonfinancial assets temporarily as a result of default by the debtor on the underlying debt instruments held as assets by the collateralized financing entity or in an effort to restructure the debt instruments held as assets by the collateralized financing entity. A collateralized financing entity also may hold other financial assets and financial liabilities that are incidental to the operations of the collateralized financing entity and have carrying values that approximate fair value (for example, cash, broker receivables, or broker payables).
+A variable interest entity that holds financial assets, issues beneficial interests in those financial assets, and has no more than nominal equity. The beneficial interests have contractual recourse only to the related assets of the collateralized financing entity and are classified as financial liabilities. A collateralized financing entity may hold nonfinancial assets temporarily as a result of default by the debtor on the underlying debt instruments held as assets by the collateralized financing entity or in an effort to restructure the debt instruments held as assets by the collateralized financing entity. A collateralized financing entity also may hold other financial assets and financial liabilities that are incidental to the operations of the collateralized financing entity and have carrying values that approximate fair value (for example, cash, broker receivables, or broker payables).
+A variable interest entity that holds financial assets, issues beneficial interests in those financial assets, and has no more than nominal equity. The beneficial interests have contractual recourse only to the related assets of the collateralized financing entity and are classified as financial liabilities. A collateralized financing entity may hold nonfinancial assets temporarily as a result of default by the debtor on the underlying debt instruments held as assets by the collateralized financing entity or in an effort to restructure the debt instruments held as assets by the collateralized financing entity. A collateralized financing entity also may hold other financial assets and financial liabilities that are incidental to the operations of the collateralized financing entity and have carrying values that approximate fair value (for example, cash, broker receivables, or broker payables).
 
 ##### Combined Financial Statements
 
-A variable interest entity that holds financial assets, issues beneficial interests in those financial assets, and has no more than nominal equity. The beneficial interests have contractual recourse only to the related assets of the collateralized financing entity and are classified as financial liabilities. A collateralized financing entity may hold nonfinancial assets temporarily as a result of default by the debtor on the underlying debt instruments held as assets by the collateralized financing entity or in an effort to restructure the debt instruments held as assets by the collateralized financing entity. A collateralized financing entity also may hold other financial assets and financial liabilities that are incidental to the operations of the collateralized financing entity and have carrying values that approximate fair value (for example, cash, broker receivables, or broker payables).The financial statements of a combined group of commonly controlled entities or commonly managed entities presented as those of a single economic entity. The combined group does not include the parent.
+The financial statements of a combined group of commonly controlled entities or commonly managed entities presented as those of a single economic entity. The combined group does not include the parent.
+The financial statements of a combined group of commonly controlled entities or commonly managed entities presented as those of a single economic entity. The combined group does not include the parent.
 
 ##### Consolidated Financial Statements
 
-The financial statements of a combined group of commonly controlled entities or commonly managed entities presented as those of a single economic entity. The combined group does not include the parent.The financial statements of a consolidated group of entities that include a parent and all its subsidiaries presented as those of a single economic entity.
+The financial statements of a consolidated group of entities that include a parent and all its subsidiaries presented as those of a single economic entity.
+The financial statements of a consolidated group of entities that include a parent and all its subsidiaries presented as those of a single economic entity.
 
 ##### Consolidated Group
 
-The financial statements of a consolidated group of entities that include a parent and all its subsidiaries presented as those of a single economic entity.A parent and all its subsidiaries.
+A parent and all its subsidiaries.
+A parent and all its subsidiaries.
 
 ##### Contract
 
-A parent and all its subsidiaries.An agreement between two or more parties that creates enforceable rights and obligations.
+An agreement between two or more parties that creates enforceable rights and obligations.
+An agreement between two or more parties that creates enforceable rights and obligations.
 
 ##### Corporate Joint Venture
 
-An agreement between two or more parties that creates enforceable rights and obligations. A corporation owned and operated by a small group of entities (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a corporate joint venture frequently is to share risks and rewards in developing a new market, product or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A corporate joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a corporate joint venture. The ownership of a corporate joint venture seldom changes, and its stock is usually not traded publicly. A noncontrolling interest held by public ownership, however, does not preclude a corporation from being a corporate joint venture.
+A corporation owned and operated by a small group of entities (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a corporate joint venture frequently is to share risks and rewards in developing a new market, product or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A corporate joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a corporate joint venture. The ownership of a corporate joint venture seldom changes, and its stock is usually not traded publicly. A noncontrolling interest held by public ownership, however, does not preclude a corporation from being a corporate joint venture.
+A corporation owned and operated by a small group of entities (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a corporate joint venture frequently is to share risks and rewards in developing a new market, product or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A corporate joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a corporate joint venture. The ownership of a corporate joint venture seldom changes, and its stock is usually not traded publicly. A noncontrolling interest held by public ownership, however, does not preclude a corporation from being a corporate joint venture.
 
 ##### Customer
 
-A corporation owned and operated by a small group of entities (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a corporate joint venture frequently is to share risks and rewards in developing a new market, product or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A corporate joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a corporate joint venture. The ownership of a corporate joint venture seldom changes, and its stock is usually not traded publicly. A noncontrolling interest held by public ownership, however, does not preclude a corporation from being a corporate joint venture. A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.
+A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.
+A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.
 
 ##### Decision Maker
 
-A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.An entity or entities with the power to direct the activities of another legal entity that most significantly impact the legal entity's economic performance according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
+An entity or entities with the power to direct the activities of another legal entity that most significantly impact the legal entity's economic performance according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
+An entity or entities with the power to direct the activities of another legal entity that most significantly impact the legal entity's economic performance according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
 
 ##### Decision-Making Authority
 
-An entity or entities with the power to direct the activities of another legal entity that most significantly impact the legal entity's economic performance according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.The power to direct the activities of a legal entity that most significantly impact the entity's economic performance according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
+The power to direct the activities of a legal entity that most significantly impact the entity's economic performance according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
+The power to direct the activities of a legal entity that most significantly impact the entity's economic performance according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
 
 ##### Direct Financing                Lease
 
-The power to direct the activities of a legal entity that most significantly impact the entity's economic performance according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.From the perspective of a lessor, a lease that meets none of the criteria in paragraph 842-10-25-2 but meets the criteria in paragraph 842-10-25-3(b)and is not an operating lease in accordance with paragraph 842-10-25-3A.
+From the perspective of a lessor, a lease that meets none of the criteria in paragraph 842-10-25-2 but meets the criteria in paragraph 842-10-25-3(b)and is not an operating lease in accordance with paragraph 842-10-25-3A.
+From the perspective of a lessor, a lease that meets none of the criteria in paragraph 842-10-25-2 but meets the criteria in paragraph 842-10-25-3(b)and is not an operating lease in accordance with paragraph 842-10-25-3A.
 
 ##### Equity Interests
 
-From the perspective of a lessor, a lease that meets none of the criteria in paragraph 842-10-25-2 but meets the criteria in paragraph 842-10-25-3(b)and is not an operating lease in accordance with paragraph 842-10-25-3A.Used broadly to mean ownership interests of investor-owned entities; owner, member, or participant interests of mutual entities; and owner or member interests in the net assets of not-for-profit entities.
+Used broadly to mean ownership interests of investor-owned entities; owner, member, or participant interests of mutual entities; and owner or member interests in the net assets of not-for-profit entities.
+Used broadly to mean ownership interests of investor-owned entities; owner, member, or participant interests of mutual entities; and owner or member interests in the net assets of not-for-profit entities.
 
 ##### Expected Cash Flow
 
-Used broadly to mean ownership interests of investor-owned entities; owner, member, or participant interests of mutual entities; and owner or member interests in the net assets of not-for-profit entities.The probability-weighted average (that is, mean of the distribution) of possible future cash flows.
+The probability-weighted average (that is, mean of the distribution) of possible future cash flows.
+The probability-weighted average (that is, mean of the distribution) of possible future cash flows.
 
 ##### Expected Losses
 
-The probability-weighted average (that is, mean of the distribution) of possible future cash flows.A legal entity that has no history of net losses and expects to continue to be profitable in the foreseeable future can be a variable interest entity (VIE). A legal entity that expects to be profitable will have expected losses. A VIE's expected losses are the expected negative variability in the fair value of its net assets exclusive of variable interests and not the anticipated amount or variability of the net income or loss.
+A legal entity that has no history of net losses and expects to continue to be profitable in the foreseeable future can be a variable interest entity (VIE). A legal entity that expects to be profitable will have expected losses. A VIE's expected losses are the expected negative variability in the fair value of its net assets exclusive of variable interests and not the anticipated amount or variability of the net income or loss.
+A legal entity that has no history of net losses and expects to continue to be profitable in the foreseeable future can be a variable interest entity (VIE). A legal entity that expects to be profitable will have expected losses. A VIE's expected losses are the expected negative variability in the fair value of its net assets exclusive of variable interests and not the anticipated amount or variability of the net income or loss.
 
 ##### Expected Losses and Expected    Residual Returns
 
+Expected losses and expected residual returns refer to amounts derived from expected cash flows as described in FASB Concepts Statement No. 7, *Using Cash Flow Information and Present Value in Accounting Measurements.* However, expected losses and expected residual returns refer to amounts discounted and otherwise adjusted for market factors and assumptions rather than to undiscounted cash flow estimates. The definitions of expected losses and expected residual returns specify which amounts are to be considered in determining expected losses and expected residual returns of a variable interest entity (VIE). PENDING CONTENT Transition date: December 16, 2024; December 16, 2025Transition guidance: 105-10-65-9 Expected losses and expected residual returns refer to amounts derived from expected cash flows. However, expected losses and expected residual returns refer to amounts discounted and otherwise adjusted for market factors and assumptions rather than to undiscounted cash flow estimates. The definitions of expected losses and expected residual returns specify which amounts are to be considered in determining expected losses and expected residual returns of a variable interest entity (VIE). A computation of expected losses, expected residual returns, and expected variability is illustrated in paragraphs 810-10-55-42 through 55-49.
+Expected losses and expected residual returns refer to amounts derived from expected cash flows as described in FASB Concepts Statement No. 7, *Using Cash Flow Information and Present Value in Accounting Measurements.* However, expected losses and expected residual returns refer to amounts discounted and otherwise adjusted for market factors and assumptions rather than to undiscounted cash flow estimates. The definitions of expected losses and expected residual returns specify which amounts are to be considered in determining expected losses and expected residual returns of a variable interest entity (VIE).
+PENDING CONTENT Transition date: December 16, 2024; December 16, 2025Transition guidance: 105-10-65-9 Expected losses and expected residual returns refer to amounts derived from expected cash flows. However, expected losses and expected residual returns refer to amounts discounted and otherwise adjusted for market factors and assumptions rather than to undiscounted cash flow estimates. The definitions of expected losses and expected residual returns specify which amounts are to be considered in determining expected losses and expected residual returns of a variable interest entity (VIE). A computation of expected losses, expected residual returns, and expected variability is illustrated in paragraphs 810-10-55-42 through 55-49
+
 ##### Expected Residual Returns
 
-A legal entity that has no history of net losses and expects to continue to be profitable in the foreseeable future can be a variable interest entity (VIE). A legal entity that expects to be profitable will have expected losses. A VIE's expected losses are the expected negative variability in the fair value of its net assets exclusive of variable interests and not the anticipated amount or variability of the net income or loss. Expected losses and expected residual returns refer to amounts derived from expected cash flows as described in FASB Concepts Statement No. 7, *Using Cash Flow Information and Present Value in Accounting Measurements.* However, expected losses and expected residual returns refer to amounts discounted and otherwise adjusted for market factors and assumptions rather than to undiscounted cash flow estimates. The definitions of expected losses and expected residual returns specify which amounts are to be considered in determining expected losses and expected residual returns of a variable interest entity (VIE). Expected losses and expected residual returns refer to amounts derived from expected cash flows as described in FASB Concepts Statement No. 7, *Using Cash Flow Information and Present Value in Accounting Measurements.* However, expected losses and expected residual returns refer to amounts discounted and otherwise adjusted for market factors and assumptions rather than to undiscounted cash flow estimates. The definitions of expected losses and expected residual returns specify which amounts are to be considered in determining expected losses and expected residual returns of a variable interest entity (VIE). A variable interest entity's (VIE's) expected residual returns are the expected positive variability in the fair value of its net assets exclusive of variable interests.
+. A variable interest entity's (VIE's) expected residual returns are the expected positive variability in the fair value of its net assets exclusive of variable interests.
+A variable interest entity's (VIE's) expected residual returns are the expected positive variability in the fair value of its net assets exclusive of variable interests.
 
 ##### Expected Variability
 
-A variable interest entity's (VIE's) expected residual returns are the expected positive variability in the fair value of its net assets exclusive of variable interests.Expected variability is the sum of the absolute values of the expected residual return and the expected loss. Expected variability in the fair value of net assets includes expected variability resulting from the operating results of the legal entity.
+Expected variability is the sum of the absolute values of the expected residual return and the expected loss. Expected variability in the fair value of net assets includes expected variability resulting from the operating results of the legal entity.
+Expected variability is the sum of the absolute values of the expected residual return and the expected loss. Expected variability in the fair value of net assets includes expected variability resulting from the operating results of the legal entity.
 
 ##### Fair Value
 
-Expected variability is the sum of the absolute values of the expected residual return and the expected loss. Expected variability in the fair value of net assets includes expected variability resulting from the operating results of the legal entity. The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
 
 ##### Finance Lease
 
-The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
 From the perspective of a lessee, a lease that meets one or more of the criteria in paragraph 842-10-25-2.
 From the perspective of a lessee, a lease that meets one or more of the criteria in paragraph 842-10-25-2.
 
@@ -1138,11 +1164,12 @@ From the perspective of a lessee, a lease that meets one or more of the criteria
 1. Receive cash or another financial instrument from a second entity
 2. Exchange other financial instruments on potentially favorable terms with the second entity.
 
-1. Receive cash or another financial instrument from a second entity
+Receive cash or another financial instrument from a second entity
 2. Exchange other financial instruments on potentially favorable terms with the second entity.
 
 ##### Financial Statements Are Available to Be Issued
 
+Financial statements are considered available to be issued when they are complete in a form and format that complies with GAAP and all approvals necessary for issuance have been obtained, for example, from management, the board of directors, and/or significant shareholders. The process involved in creating and distributing the financial statements will vary depending on an entity's management and corporate governance structure as well as statutory and regulatory requirements.
 Financial statements are considered available to be issued when they are complete in a form and format that complies with GAAP and all approvals necessary for issuance have been obtained, for example, from management, the board of directors, and/or significant shareholders. The process involved in creating and distributing the financial statements will vary depending on an entity's management and corporate governance structure as well as statutory and regulatory requirements.
 
 ##### Foreign Entity
@@ -1150,7 +1177,7 @@ Financial statements are considered available to be issued when they are complet
 1. Prepared in a currency other than the reporting currency of the reporting entity
 2. Combined or consolidated with or accounted for on the equity basis in the financial statements of the reporting entity.
 
-1. Prepared in a currency other than the reporting currency of the reporting entity
+Prepared in a currency other than the reporting currency of the reporting entity
 2. Combined or consolidated with or accounted for on the equity basis in the financial statements of the reporting entity.
 
 ##### Inventory
@@ -1160,49 +1187,56 @@ Financial statements are considered available to be issued when they are complet
 3. To be currently consumed in the production of goods or services to be available for sale.
 
 The term inventory embraces goods awaiting sale (the merchandise of a trading concern and the finished goods of a manufacturer), goods in the course of production (work in process), and goods to be consumed directly or indirectly in production (raw materials and supplies). This definition of inventories excludes long-term assets subject to depreciation accounting, or goods which, when put into use, will be so classified. The fact that a depreciable asset is retired from regular use and held for sale does not indicate that the item should be classified as part of the inventory. Raw materials and supplies purchased for production may be used or consumed for the construction of long-term assets or other purposes not related to production, but the fact that inventory items representing a small portion of the total may not be absorbed ultimately in the production process does not require separate classification. By trade practice, operating materials and supplies of certain types of entities such as oil producers are usually treated as inventory.
-1. Held for sale in the ordinary course of business
+Held for sale in the ordinary course of business
 2. In process of production for such sale
 3. To be currently consumed in the production of goods or services to be available for sale.
 
+The term inventory embraces goods awaiting sale (the merchandise of a trading concern and the finished goods of a manufacturer), goods in the course of production (work in process), and goods to be consumed directly or indirectly in production (raw materials and supplies). This definition of inventories excludes long-term assets subject to depreciation accounting, or goods which, when put into use, will be so classified. The fact that a depreciable asset is retired from regular use and held for sale does not indicate that the item should be classified as part of the inventory. Raw materials and supplies purchased for production may be used or consumed for the construction of long-term assets or other purposes not related to production, but the fact that inventory items representing a small portion of the total may not be absorbed ultimately in the production process does not require separate classification. By trade practice, operating materials and supplies of certain types of entities such as oil producers are usually treated as inventory.
+
 ##### Joint Venture
 
-The term inventory embraces goods awaiting sale (the merchandise of a trading concern and the finished goods of a manufacturer), goods in the course of production (work in process), and goods to be consumed directly or indirectly in production (raw materials and supplies). This definition of inventories excludes long-term assets subject to depreciation accounting, or goods which, when put into use, will be so classified. The fact that a depreciable asset is retired from regular use and held for sale does not indicate that the item should be classified as part of the inventory. Raw materials and supplies purchased for production may be used or consumed for the construction of long-term assets or other purposes not related to production, but the fact that inventory items representing a small portion of the total may not be absorbed ultimately in the production process does not require separate classification. By trade practice, operating materials and supplies of certain types of entities such as oil producers are usually treated as inventory. An entity owned and operated by a small group of businesses (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a joint venture frequently is to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a joint venture. The ownership of a joint venture seldom changes, and its equity interests usually are not traded publicly. A minority public ownership, however, does not preclude an entity from being a joint venture. As distinguished from a corporate joint venture, a joint venture is not limited to corporate entities.
+An entity owned and operated by a small group of businesses (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a joint venture frequently is to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a joint venture. The ownership of a joint venture seldom changes, and its equity interests usually are not traded publicly. A minority public ownership, however, does not preclude an entity from being a joint venture. As distinguished from a corporate joint venture, a joint venture is not limited to corporate entities.
+An entity owned and operated by a small group of businesses (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a joint venture frequently is to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a joint venture. The ownership of a joint venture seldom changes, and its equity interests usually are not traded publicly. A minority public ownership, however, does not preclude an entity from being a joint venture. As distinguished from a corporate joint venture, a joint venture is not limited to corporate entities.
 
 ##### Kick-Out Rights (VIE Definition)
 
-An entity owned and operated by a small group of businesses (the joint venturers) as a separate and specific business or project for the mutual benefit of the members of the group. A government may also be a member of the group. The purpose of a joint venture frequently is to share risks and rewards in developing a new market, product, or technology; to combine complementary technological knowledge; or to pool resources in developing production or other facilities. A joint venture also usually provides an arrangement under which each joint venturer may participate, directly or indirectly, in the overall management of the joint venture. Joint venturers thus have an interest or relationship other than as passive investors. An entity that is a subsidiary of one of the joint venturers is not a joint venture. The ownership of a joint venture seldom changes, and its equity interests usually are not traded publicly. A minority public ownership, however, does not preclude an entity from being a joint venture. As distinguished from a corporate joint venture, a joint venture is not limited to corporate entities. The ability to remove the entity with the power to direct the activities of a VIE that most significantly impact the VIE's economic performance or to dissolve (liquidate) the VIE without cause.
+The ability to remove the entity with the power to direct the activities of a VIE that most significantly impact the VIE's economic performance or to dissolve (liquidate) the VIE without cause.
+The ability to remove the entity with the power to direct the activities of a VIE that most significantly impact the VIE's economic performance or to dissolve (liquidate) the VIE without cause.
 
 ##### Kick-Out Rights (Voting Interest Entity Definition)
 
-The ability to remove the entity with the power to direct the activities of a VIE that most significantly impact the VIE's economic performance or to dissolve (liquidate) the VIE without cause.The rights underlying the limited partner's or partners' ability to dissolve (liquidate) the limited partnership or otherwise remove the general partners without cause.
+The rights underlying the limited partner's or partners' ability to dissolve (liquidate) the limited partnership or otherwise remove the general partners without cause.
+The rights underlying the limited partner's or partners' ability to dissolve (liquidate) the limited partnership or otherwise remove the general partners without cause.
 
 ##### Lease
 
-The rights underlying the limited partner's or partners' ability to dissolve (liquidate) the limited partnership or otherwise remove the general partners without cause. A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
+A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
+A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
 
 ##### Lease Payments
 
-A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
 See paragraph 842-10-30-5 for what constitutes lease payments from the perspective of a lessee and a lessor.
 See paragraph 842-10-30-5 for what constitutes lease payments from the perspective of a lessee and a lessor.
 
 ##### Legal Entity
 
 Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts.
+Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts.
 
 ##### Lessee
 
-Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts.
 An entity that enters into a contract to obtain the right to use an underlying asset for a period of time in exchange for consideration.
 An entity that enters into a contract to obtain the right to use an underlying asset for a period of time in exchange for consideration.
 
 ##### Lessor
 
 An entity that enters into a contract to provide the right to use an underlying asset for a period of time in exchange for consideration.
+An entity that enters into a contract to provide the right to use an underlying asset for a period of time in exchange for consideration.
 
 ##### Limited Partnership
 
-An entity that enters into a contract to provide the right to use an underlying asset for a period of time in exchange for consideration. An association in which one or more general partners have unlimited liability and one or more partners have limited liability. A limited partnership is usually managed by the general partner or partners, subject to limitations, if any, imposed by the partnership agreement.
+An association in which one or more general partners have unlimited liability and one or more partners have limited liability. A limited partnership is usually managed by the general partner or partners, subject to limitations, if any, imposed by the partnership agreement.
+An association in which one or more general partners have unlimited liability and one or more partners have limited liability. A limited partnership is usually managed by the general partner or partners, subject to limitations, if any, imposed by the partnership agreement.
 
 ##### Market Participants
 
@@ -1211,7 +1245,7 @@ An entity that enters into a contract to provide the right to use an underlying 
 3. They are able to enter into a transaction for the asset or liability
 4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
 
-1. They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
 2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
 3. They are able to enter into a transaction for the asset or liability
 4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
@@ -1227,6 +1261,7 @@ An entity that enters into a contract to provide the right to use an underlying 
 1. The physician practice management entity and the nominally owned entity incur no more than a nominal cost to cause a change in the nominee shareholder.
 2. Neither the physician practice management entity nor the nominally owned entity is subject to any significant adverse impact upon a change in the nominee shareholder.
 
+Time Frame:
 1. The physician practice management entity can at all times establish or effect a change in the nominee shareholder.
 2. The physician practice management entity can cause a change in the nominee shareholder an unlimited number of times, that is, changing the nominee shareholder one or more times does not affect the physician practice management entity's ability to change the nominee shareholder again and again.
 
@@ -1239,18 +1274,22 @@ An entity that enters into a contract to provide the right to use an underlying 
 ##### Noncontrolling Interest
 
 The portion of equity (net assets) in a subsidiary not attributable, directly or indirectly, to a parent. A noncontrolling interest is sometimes called a minority interest.
+The portion of equity (net assets) in a subsidiary not attributable, directly or indirectly, to a parent. A noncontrolling interest is sometimes called a minority interest.
 
 ##### Nonfinancial Asset
 
-The portion of equity (net assets) in a subsidiary not attributable, directly or indirectly, to a parent. A noncontrolling interest is sometimes called a minority interest.An asset that is not a financial asset. Nonfinancial assets include land, buildings, use of facilities or utilities, materials and supplies, intangible assets, or services.
+An asset that is not a financial asset. Nonfinancial assets include land, buildings, use of facilities or utilities, materials and supplies, intangible assets, or services.
+An asset that is not a financial asset. Nonfinancial assets include land, buildings, use of facilities or utilities, materials and supplies, intangible assets, or services.
 
 ##### Nonprofit Activity
 
-An asset that is not a financial asset. Nonfinancial assets include land, buildings, use of facilities or utilities, materials and supplies, intangible assets, or services. An integrated set of activities and assets that is capable of being conducted and managed for the purpose of providing benefits, other than goods or services at a profit or profit equivalent, as a fulfillment of an entity's purpose or mission (for example, goods or services to beneficiaries, customers, or members). As with a not-for-profit entity, a nonprofit activity possesses characteristics that distinguish it from a business or a for-profit business entity.
+An integrated set of activities and assets that is capable of being conducted and managed for the purpose of providing benefits, other than goods or services at a profit or profit equivalent, as a fulfillment of an entity's purpose or mission (for example, goods or services to beneficiaries, customers, or members). As with a not-for-profit entity, a nonprofit activity possesses characteristics that distinguish it from a business or a for-profit business entity.
+An integrated set of activities and assets that is capable of being conducted and managed for the purpose of providing benefits, other than goods or services at a profit or profit equivalent, as a fulfillment of an entity's purpose or mission (for example, goods or services to beneficiaries, customers, or members). As with a not-for-profit entity, a nonprofit activity possesses characteristics that distinguish it from a business or a for-profit business entity.
 
 ##### Nonreciprocal Transfer
 
-An integrated set of activities and assets that is capable of being conducted and managed for the purpose of providing benefits, other than goods or services at a profit or profit equivalent, as a fulfillment of an entity's purpose or mission (for example, goods or services to beneficiaries, customers, or members). As with a not-for-profit entity, a nonprofit activity possesses characteristics that distinguish it from a business or a for-profit business entity.Nonreciprocal transfer is a transfer of assets or services in one direction, either from an entity to its owners (whether or not in exchange for their ownership interests) or to another entity, or from owners or another entity to the entity. An entity's reacquisition of its outstanding stock is an example of a nonreciprocal transfer.
+Nonreciprocal transfer is a transfer of assets or services in one direction, either from an entity to its owners (whether or not in exchange for their ownership interests) or to another entity, or from owners or another entity to the entity. An entity's reacquisition of its outstanding stock is an example of a nonreciprocal transfer.
+Nonreciprocal transfer is a transfer of assets or services in one direction, either from an entity to its owners (whether or not in exchange for their ownership interests) or to another entity, or from owners or another entity to the entity. An entity's reacquisition of its outstanding stock is an example of a nonreciprocal transfer.
 
 ##### Not-for-Profit Entity
 
@@ -1261,11 +1300,11 @@ An integrated set of activities and assets that is capable of being conducted an
 1. All investor-owned entities
 2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
 
-1. Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
+Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
 2. Operating purposes other than to provide goods or services at a profit
 3. Absence of ownership interests like those of business entities.
 
-1. All investor-owned entities
+All investor-owned entities
 2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
 
 ##### Operating                Lease
@@ -1273,38 +1312,47 @@ An integrated set of activities and assets that is capable of being conducted an
 From the perspective of a lessee, any lease other than a finance lease.
 From the perspective of a lessor, any lease other than a sales-type lease or a direct financing lease.
 From the perspective of a lessee, any lease other than a finance lease.
+From the perspective of a lessor, any lease other than a sales-type lease or a direct financing lease.
 
 ##### Orderly Transaction
 
-From the perspective of a lessor, any lease other than a sales-type lease or a direct financing lease. A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
 
 ##### Ordinary Course of Business
 
-A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale). Decisions about matters of a type consistent with those normally expected to be addressed in directing and carrying out current business activities, regardless of whether the events or transactions that would necessitate such decisions are expected to occur in the near term. However, it must be at least reasonably possible that those events or transactions that would necessitate such decisions will occur. The ordinary course of business does not include self-dealing transactions.
+Decisions about matters of a type consistent with those normally expected to be addressed in directing and carrying out current business activities, regardless of whether the events or transactions that would necessitate such decisions are expected to occur in the near term. However, it must be at least reasonably possible that those events or transactions that would necessitate such decisions will occur. The ordinary course of business does not include self-dealing transactions.
+Decisions about matters of a type consistent with those normally expected to be addressed in directing and carrying out current business activities, regardless of whether the events or transactions that would necessitate such decisions are expected to occur in the near term. However, it must be at least reasonably possible that those events or transactions that would necessitate such decisions will occur. The ordinary course of business does not include self-dealing transactions.
 
 ##### Owners
 
-Decisions about matters of a type consistent with those normally expected to be addressed in directing and carrying out current business activities, regardless of whether the events or transactions that would necessitate such decisions are expected to occur in the near term. However, it must be at least reasonably possible that those events or transactions that would necessitate such decisions will occur. The ordinary course of business does not include self-dealing transactions. Used broadly to include holders of ownership interests (equity interests) of investor-owned entities, mutual entities, or not-for-profit entities. Owners include shareholders, partners, proprietors, or members or participants of mutual entities. Owners also include owner and member interests in the net assets of not-for-profit entities.
+Used broadly to include holders of ownership interests (equity interests) of investor-owned entities, mutual entities, or not-for-profit entities. Owners include shareholders, partners, proprietors, or members or participants of mutual entities. Owners also include owner and member interests in the net assets of not-for-profit entities.
+Used broadly to include holders of ownership interests (equity interests) of investor-owned entities, mutual entities, or not-for-profit entities. Owners include shareholders, partners, proprietors, or members or participants of mutual entities. Owners also include owner and member interests in the net assets of not-for-profit entities.
 
 ##### Parent
 
-Used broadly to include holders of ownership interests (equity interests) of investor-owned entities, mutual entities, or not-for-profit entities. Owners include shareholders, partners, proprietors, or members or participants of mutual entities. Owners also include owner and member interests in the net assets of not-for-profit entities.An entity that has a controlling financial interest in one or more subsidiaries. (Also, an entity that is the primary beneficiary of a variable interest entity.)
+An entity that has a controlling financial interest in one or more subsidiaries. (Also, an entity that is the primary beneficiary of a variable interest entity.)
+An entity that has a controlling financial interest in one or more subsidiaries. (Also, an entity that is the primary beneficiary of a variable interest entity.)
 
 ##### Participating Rights (VIE Definition)
 
-An entity that has a controlling financial interest in one or more subsidiaries. (Also, an entity that is the primary beneficiary of a variable interest entity.)The ability to block or participate in the actions through which an entity exercises the power to direct the activities of a VIE that most significantly impact the VIE's economic performance. Participating rights do not require the holders of such rights to have the ability to initiate actions.
+The ability to block or participate in the actions through which an entity exercises the power to direct the activities of a VIE that most significantly impact the VIE's economic performance. Participating rights do not require the holders of such rights to have the ability to initiate actions.
+The ability to block or participate in the actions through which an entity exercises the power to direct the activities of a VIE that most significantly impact the VIE's economic performance. Participating rights do not require the holders of such rights to have the ability to initiate actions.
 
 ##### Participating Rights (Voting Interest Entity Definition)
 
-The ability to block or participate in the actions through which an entity exercises the power to direct the activities of a VIE that most significantly impact the VIE's economic performance. Participating rights do not require the holders of such rights to have the ability to initiate actions.Participating rights allow the limited partners or noncontrolling shareholders to block or participate in certain significant financial and operating decisions of the limited partnership or corporation that are made in the ordinary course of business. Participating rights do not require the holders of such rights to have the ability to initiate actions.
+Participating rights allow the limited partners or noncontrolling shareholders to block or participate in certain significant financial and operating decisions of the limited partnership or corporation that are made in the ordinary course of business. Participating rights do not require the holders of such rights to have the ability to initiate actions.
+Participating rights allow the limited partners or noncontrolling shareholders to block or participate in certain significant financial and operating decisions of the limited partnership or corporation that are made in the ordinary course of business. Participating rights do not require the holders of such rights to have the ability to initiate actions.
 
 ##### Primary Beneficiary
 
-Participating rights allow the limited partners or noncontrolling shareholders to block or participate in certain significant financial and operating decisions of the limited partnership or corporation that are made in the ordinary course of business. Participating rights do not require the holders of such rights to have the ability to initiate actions.An entity that consolidates a variable interest entity (VIE). See paragraphs 810-10-25-38 through 25-38J for guidance on determining the primary beneficiary.
+An entity that consolidates a variable interest entity (VIE). See paragraphs 810-10-25-38 through 25-38J for guidance on determining the primary beneficiary.
+An entity that consolidates a variable interest entity (VIE). See paragraphs 810-10-25-38 through 25-38J for guidance on determining the primary beneficiary.
 
 ##### Private Company
 
-An entity that consolidates a variable interest entity (VIE). See paragraphs 810-10-25-38 through 25-38J for guidance on determining the primary beneficiary.An entity other than a public business entity, a not-for-profit entity, or an employee benefit plan within the scope of Topics 960 through 965 on plan accounting.
+An entity other than a public business entity, a not-for-profit entity, or an employee benefit plan within the scope of Topics 960 through 965 on plan accounting.
+An entity other than a public business entity, a not-for-profit entity, or an employee benefit plan within the scope of Topics 960 through 965 on plan accounting.
 
 ##### Protective Rights (VIE Definition)
 
@@ -1314,6 +1362,7 @@ An entity that consolidates a variable interest entity (VIE). See paragraphs 810
 3. The ability to remove the reporting entity that has a controlling financial interest in the entity in circumstances such as bankruptcy or on breach of contract by that reporting entity.
 4. Limitations on the operating activities of an entity. For example, a franchise agreement for which the entity is the franchisee might restrict certain activities of the entity but may not give the franchisor a controlling financial interest in the franchisee. Such rights may only protect the brand of the franchisor.
 
+Rights designed to protect the interests of the party holding those rights without giving that party a controlling financial interest in the entity to which they relate. For example, they include any of the following:
 1. A lender might have rights that protect the lender from the risk that the entity will change its activities to the detriment of the lender, such as selling important assets or undertaking activities that change the credit risk of the entity.
 2. Other interests might have the right to approve a capital expenditure greater than a particular amount or the right to approve the issuance of equity or debt instruments.
 
@@ -1322,6 +1371,7 @@ An entity that consolidates a variable interest entity (VIE). See paragraphs 810
 
 ##### Protective Rights (Voting Interest Entity Definition)
 
+Rights that are only protective in nature and that do not allow the limited partners or noncontrolling shareholders to participate in significant financial and operating decisions of the limited partnership or corporation that are made in the ordinary course of business.
 Rights that are only protective in nature and that do not allow the limited partners or noncontrolling shareholders to participate in significant financial and operating decisions of the limited partnership or corporation that are made in the ordinary course of business.
 
 ##### Public Business Entity
@@ -1333,7 +1383,7 @@ Rights that are only protective in nature and that do not allow the limited part
 5. It has one or more securities that are not subject to contractual restrictions on transfer, and it is required by law, contract, or regulation to prepare U.S. GAAP financial statements (including notes) and make them publicly available on a periodic basis (for example, interim or annual periods). An entity must meet both of these conditions to meet this criterion.
 
 An entity may meet the definition of a public business entity solely because its financial statements or financial information is included in another entity's filing with the SEC. In that case, the entity is only a public business entity for purposes of financial statements that are filed or furnished with the SEC.
-1. It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing).
+It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing).
 2. It is required by the Securities Exchange Act of 1934 (the Act), as amended, or rules or regulations promulgated under the Act, to file or furnish financial statements with a regulatory agency other than the SEC.
 3. It is required to file or furnish financial statements with a foreign or domestic regulatory agency in preparation for the sale of or for purposes of issuing securities that are not subject to contractual restrictions on transfer.
 4. It has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market.
@@ -1342,6 +1392,7 @@ An entity may meet the definition of a public business entity solely because its
 ##### Reinsurance
 
 An entity may meet the definition of a public business entity solely because its financial statements or financial information is included in another entity's filing with the SEC. In that case, the entity is only a public business entity for purposes of financial statements that are filed or furnished with the SEC. A transaction in which a reinsurer (assuming entity), for a consideration (premium), assumes all or part of a risk undertaken originally by another insurer (ceding entity). For indemnity reinsurance, the legal rights of the insured are not affected by the reinsurance transaction and the insurance entity issuing the insurance contract remains liable to the insured for payment of policy benefits. Assumption or novation reinsurance contracts that are legal replacements of one insurer by another extinguish the ceding entity's liability to the policyholder.
+A transaction in which a reinsurer (assuming entity), for a consideration (premium), assumes all or part of a risk undertaken originally by another insurer (ceding entity). For indemnity reinsurance, the legal rights of the insured are not affected by the reinsurance transaction and the insurance entity issuing the insurance contract remains liable to the insured for payment of policy benefits. Assumption or novation reinsurance contracts that are legal replacements of one insurer by another extinguish the ceding entity's liability to the policyholder.
 
 ##### Related Parties
 
@@ -1353,7 +1404,7 @@ An entity may meet the definition of a public business entity solely because its
 6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
 7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
 
-1. Affiliates of the entity
+Affiliates of the entity
 2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
 3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
 4. Principal owners of the entity and members of their immediate families
@@ -1364,14 +1415,17 @@ An entity may meet the definition of a public business entity solely because its
 ##### Revenue
 
 Inflows or other enhancements of assets of an entity or settlements of its liabilities (or a combination of both) from delivering or producing goods, rendering services, or other activities that constitute the entity's ongoing major or central operations.
+Inflows or other enhancements of assets of an entity or settlements of its liabilities (or a combination of both) from delivering or producing goods, rendering services, or other activities that constitute the entity's ongoing major or central operations.
 
 ##### Reverse Acquisition
 
-Inflows or other enhancements of assets of an entity or settlements of its liabilities (or a combination of both) from delivering or producing goods, rendering services, or other activities that constitute the entity's ongoing major or central operations. An acquisition in which the entity that issues securities (the legal acquirer) is identified as the acquiree for accounting purposes based on the guidance in paragraphs 805-10-55-11 through 55-15. The entity whose equity interests are acquired (the legal acquiree) must be the acquirer for accounting purposes for the transaction to be considered a reverse acquisition.
+An acquisition in which the entity that issues securities (the legal acquirer) is identified as the acquiree for accounting purposes based on the guidance in paragraphs 805-10-55-11 through 55-15. The entity whose equity interests are acquired (the legal acquiree) must be the acquirer for accounting purposes for the transaction to be considered a reverse acquisition.
+An acquisition in which the entity that issues securities (the legal acquirer) is identified as the acquiree for accounting purposes based on the guidance in paragraphs 805-10-55-11 through 55-15
 
 ##### Sales-Type                Lease
 
-An acquisition in which the entity that issues securities (the legal acquirer) is identified as the acquiree for accounting purposes based on the guidance in paragraphs 805-10-55-11 through 55-15. The entity whose equity interests are acquired (the legal acquiree) must be the acquirer for accounting purposes for the transaction to be considered a reverse acquisition. From the perspective of a lessor, a lease that meets one or more of the criteria in paragraph 842-10-25-2 and is not an operating lease in accordance with paragraph 842-10-25-3A.
+. The entity whose equity interests are acquired (the legal acquiree) must be the acquirer for accounting purposes for the transaction to be considered a reverse acquisition. From the perspective of a lessor, a lease that meets one or more of the criteria in paragraph 842-10-25-2 and is not an operating lease in accordance with paragraph 842-10-25-3A.
+From the perspective of a lessor, a lease that meets one or more of the criteria in paragraph 842-10-25-2 and is not an operating lease in accordance with paragraph 842-10-25-3A.
 
 ##### Security
 
@@ -1379,50 +1433,57 @@ An acquisition in which the entity that issues securities (the legal acquirer) i
 2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
 3. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
 
-1. It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
+It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
 2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
 3. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
 
 ##### Subordinated Financial Support
 
 Variable interests that will absorb some or all of a variable interest entity's (VIE's) expected losses.
+Variable interests that will absorb some or all of a variable interest entity's (VIE's) expected losses.
 
 ##### Subsidiary
 
-Variable interests that will absorb some or all of a variable interest entity's (VIE's) expected losses.An entity, including an unincorporated entity such as a partnership or trust, in which another entity, known as its parent, holds a controlling financial interest. (Also, a variable interest entity that is consolidated by a primary beneficiary.)
+An entity, including an unincorporated entity such as a partnership or trust, in which another entity, known as its parent, holds a controlling financial interest. (Also, a variable interest entity that is consolidated by a primary beneficiary.)
+An entity, including an unincorporated entity such as a partnership or trust, in which another entity, known as its parent, holds a controlling financial interest. (Also, a variable interest entity that is consolidated by a primary beneficiary.)
 
 ##### Underlying
 
-An entity, including an unincorporated entity such as a partnership or trust, in which another entity, known as its parent, holds a controlling financial interest. (Also, a variable interest entity that is consolidated by a primary beneficiary.)A specified interest rate, security price, commodity price, foreign exchange rate, index of prices or rates, or other variable (including the occurrence or nonoccurrence of a specified event such as a scheduled payment under a contract). An underlying may be a price or rate of an asset or liability but is not the asset or liability itself. An underlying is a variable that, along with either a notional amount or a payment provision, determines the settlement of a derivative instrument.
+A specified interest rate, security price, commodity price, foreign exchange rate, index of prices or rates, or other variable (including the occurrence or nonoccurrence of a specified event such as a scheduled payment under a contract). An underlying may be a price or rate of an asset or liability but is not the asset or liability itself. An underlying is a variable that, along with either a notional amount or a payment provision, determines the settlement of a derivative instrument.
+A specified interest rate, security price, commodity price, foreign exchange rate, index of prices or rates, or other variable (including the occurrence or nonoccurrence of a specified event such as a scheduled payment under a contract). An underlying may be a price or rate of an asset or liability but is not the asset or liability itself. An underlying is a variable that, along with either a notional amount or a payment provision, determines the settlement of a derivative instrument.
 
 ##### Underlying Asset
 
-A specified interest rate, security price, commodity price, foreign exchange rate, index of prices or rates, or other variable (including the occurrence or nonoccurrence of a specified event such as a scheduled payment under a contract). An underlying may be a price or rate of an asset or liability but is not the asset or liability itself. An underlying is a variable that, along with either a notional amount or a payment provision, determines the settlement of a derivative instrument.
 An asset that is the subject of a lease for which a right to use that asset has been conveyed to a lessee. The underlying asset could be a physically distinct portion of a single asset.
 An asset that is the subject of a lease for which a right to use that asset has been conveyed to a lessee. The underlying asset could be a physically distinct portion of a single asset.
 
 ##### Variable Interest Entity
 
 A legal entity subject to consolidation according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
+A legal entity subject to consolidation according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
 
 ##### Variable Interests
 
-A legal entity subject to consolidation according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10. The investments or other interests that will absorb portions of a variable interest entity's (VIE's) expected losses or receive portions of the entity's expected residual returns are called variable interests. Variable interests in a VIE are contractual, ownership, or other pecuniary interests in a VIE that change with changes in the fair value of the VIE's net assets exclusive of variable interests. Equity interests with or without voting rights are considered variable interests if the legal entity is a VIE and to the extent that the investment is at risk as described in paragraph 810-10-15-14. Paragraph 810-10-25-55 explains how to determine whether a variable interest in specified assets of a legal entity is a variable interest in the entity. Paragraphs 810-10-55-16 through 55-41 describe various types of variable interests and explain in general how they may affect the determination of the primary beneficiary of a VIE.
+The investments or other interests that will absorb portions of a variable interest entity's (VIE's) expected losses or receive portions of the entity's expected residual returns are called variable interests. Variable interests in a VIE are contractual, ownership, or other pecuniary interests in a VIE that change with changes in the fair value of the VIE's net assets exclusive of variable interests. Equity interests with or without voting rights are considered variable interests if the legal entity is a VIE and to the extent that the investment is at risk as described in paragraph 810-10-15-14. Paragraph 810-10-25-55 explains how to determine whether a variable interest in specified assets of a legal entity is a variable interest in the entity. Paragraphs 810-10-55-16 through 55-41 describe various types of variable interests and explain in general how they may affect the determination of the primary beneficiary of a VIE.
+The investments or other interests that will absorb portions of a variable interest entity's (VIE's) expected losses or receive portions of the entity's expected residual returns are called variable interests. Variable interests in a VIE are contractual, ownership, or other pecuniary interests in a VIE that change with changes in the fair value of the VIE's net assets exclusive of variable interests. Equity interests with or without voting rights are considered variable interests if the legal entity is a VIE and to the extent that the investment is at risk as described in paragraph 810-10-15-14. Paragraph 810-10-25-55 explains how to determine whether a variable interest in specified assets of a legal entity is a variable interest in the entity. Paragraphs 810-10-55-16 through 55-41
 
 ##### With Cause
 
-The investments or other interests that will absorb portions of a variable interest entity's (VIE's) expected losses or receive portions of the entity's expected residual returns are called variable interests. Variable interests in a VIE are contractual, ownership, or other pecuniary interests in a VIE that change with changes in the fair value of the VIE's net assets exclusive of variable interests. Equity interests with or without voting rights are considered variable interests if the legal entity is a VIE and to the extent that the investment is at risk as described in paragraph 810-10-15-14. Paragraph 810-10-25-55 explains how to determine whether a variable interest in specified assets of a legal entity is a variable interest in the entity. Paragraphs 810-10-55-16 through 55-41 describe various types of variable interests and explain in general how they may affect the determination of the primary beneficiary of a VIE. With cause generally restricts the limited partners' ability to dissolve (liquidate) the limited partnership or remove the general partners in situations that include, but that are not limited to, fraud, illegal acts, gross negligence, and bankruptcy of the general partners.
+describe various types of variable interests and explain in general how they may affect the determination of the primary beneficiary of a VIE. With cause generally restricts the limited partners' ability to dissolve (liquidate) the limited partnership or remove the general partners in situations that include, but that are not limited to, fraud, illegal acts, gross negligence, and bankruptcy of the general partners.
+With cause generally restricts the limited partners' ability to dissolve (liquidate) the limited partnership or remove the general partners in situations that include, but that are not limited to, fraud, illegal acts, gross negligence, and bankruptcy of the general partners.
 
 ##### Without Cause
 
-With cause generally restricts the limited partners' ability to dissolve (liquidate) the limited partnership or remove the general partners in situations that include, but that are not limited to, fraud, illegal acts, gross negligence, and bankruptcy of the general partners. Without cause means that no reason need be given for the dissolution (liquidation) of the limited partnership or removal of the general partners.
+Without cause means that no reason need be given for the dissolution (liquidation) of the limited partnership or removal of the general partners.
+Without cause means that no reason need be given for the dissolution (liquidation) of the limited partnership or removal of the general partners.
 
 ## 25 Recognition
 
-> **General Note:** The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
 
 ### General
 
+**810-10-25-1** Related Proposed ASUs
 For legal entities
 other than limited partnerships, consolidation is appropriate if a reporting entity has a controlling financial interest in another entity and a specific scope exception does not apply (see Section 810-10-15). The usual condition for a controlling financial interest is ownership of a majority voting interest, but in some circumstances control does not rest with the majority owner.
 For legal entities
@@ -1566,6 +1627,7 @@ Paragraph not used.
 
 ### Variable Interest Entities
 
+**810-10-25-20** Related Proposed ASUs
 This Subsection addresses various transactional considerations in determining whether a legal entity
 1. Terms of interests issued
 2. Subordination
@@ -1791,8 +1853,14 @@ In situations in which a single decision maker concludes, after performing the a
 The conditions in paragraph 810-10-25-44A are not met by a single decision maker and its related parties.
 2. Substantially all of the activities of the VIE either involve or are conducted on behalf of a single variable interest holder (excluding the single decision maker) in the single decision maker's related party group.
 
-**810-10-25-44B** The single variable interest holder for which substantially all of the activities either involve or are conducted on its behalf would be the primary beneficiary. The evaluation in (b) above should be based on a qualitative assessment of all relevant facts and circumstances. In some cases, when performing that qualitative assessment, quantitative information may be considered. This assessment is consistent with the assessments in paragraphs 810-10-15-14(c)(2) and 810-10-15-17(d)(2).
+1. The conditions in paragraph 810-10-25-44A are not met by a single decision maker and its related parties.
+2. Substantially all of the activities of the VIE either involve or are conducted on behalf of a single variable interest holder (excluding the single decision maker) in the single decision maker's related party group.
+
+The single variable interest holder for which substantially all of the activities either involve or are conducted on its behalf would be the primary beneficiary. The evaluation in (b) above should be based on a qualitative assessment of all relevant facts and circumstances. In some cases, when performing that qualitative assessment, quantitative information may be considered. This assessment is consistent with the assessments in paragraphs 810-10-15-14(c)(2) and 810-10-15-17(d)(2).
 The conditions in paragraph 810-10-25-44A are not met by a single decision maker and its related parties.
+2. Substantially all of the activities of the VIE either involve or are conducted on behalf of a single variable interest holder (excluding the single decision maker) in the single decision maker's related party group.
+
+1. The conditions in paragraph 810-10-25-44A are not met by a single decision maker and its related parties.
 2. Substantially all of the activities of the VIE either involve or are conducted on behalf of a single variable interest holder (excluding the single decision maker) in the single decision maker's related party group.
 
 ##### · > Sufficiency of Equity Investment at Risk
@@ -1859,7 +1927,7 @@ Acquisition, development, and construction loan structures
 
 ### Consolidation of Entities Controlled by Contract
 
-**810-10-25-60** may be VIEs subject to the guidance in the Variable Interest Entities Subsections. Guidance on determining whether a lender should account for an acquisition, development, and construction arrangement as a loan or as an investment in real estate or a joint venture is presented in Subtopic 310-10.
+**810-10-25-60** may be VIEs subject to the guidance in the Variable Interest Entities Subsections. Guidance on determining whether a lender should account for an acquisition, development, and construction arrangement as a loan or as an investment in real estate or a joint venture is presented in Subtopic 310-10. Related Proposed ASUs
 This Subsection addresses various considerations related to whether an entity is controlled by contract that is not a variable interest entity
 1. General guidance
 2. Term
@@ -2002,7 +2070,7 @@ Regardless of whether the consolidation status of the physician practice changes
 
 ## 30 Initial Measurement
 
-> **General Note:** The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
 
 ### Variable Interest Entities
 
@@ -2017,15 +2085,17 @@ of a variable interest entity (VIE) and the VIE are under common control, the pr
 
 **810-10-30-2** of a variable interest entity (VIE) and the VIE are under common control, the primary beneficiary shall initially measure the assets, liabilities, and noncontrolling interests of the VIE at amounts at which they are carried in the accounts of the reporting entity that controls the VIE (or would be carried if the reporting entity issued financial statements prepared in conformity with generally accepted accounting principles [GAAP]).
 The initial consolidation of a VIE that is a business
-**810-10-30-2** is a business combination and shall be accounted for in accordance with the provisions in Topic 805.
-The initial consolidation of a VIE that is a business
+is a business combination and shall be accounted for in accordance with the provisions in Topic 805.PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:805-10-65-5The initial consolidation of a VIE that is a business in which the primary beneficiary is the accounting acquireris a business combination and shall be accounted for in accordance with the provisions in Topic 805. If a business combination in which a VIE is acquired is effected primarily by exchanging equity interests, the factors in paragraphs 805-10-55-12 through 55-15 shall be considered in determining which entity is the accounting acquirer. If an acquisition transaction is a reverse acquisition and the accounting acquiree meets the definition of a business, the provisions of Subtopic 805-40 shall be applied. For a business combination that is not effected primarily by exchanging equity interests in which a VIE is acquired, the primary beneficiary of that entity is the accounting acquirer.
+**810-10-30-2** The initial consolidation of a VIE that is a business
 
 ##### · > All Primary Beneficiaries
 
-**810-10-30-3** is a business combination and shall be accounted for in accordance with the provisions in Topic 805.
+**810-10-30-3** is a business combination and shall be accounted for in accordance with the provisions in Topic 805.PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:805-10-65-5The initial consolidation of a VIE that is a business in which the primary beneficiary is the accounting acquireris a business combination and shall be accounted for in accordance with the provisions in Topic 805. If a business combination in which a VIE is acquired is effected primarily by exchanging equity interests, the factors in paragraphs 805-10-55-12 through 55-15 shall be considered in determining which entity is the accounting acquirer. If an acquisition transaction is a reverse acquisition and the accounting acquiree meets the definition of a business, the provisions of Subtopic 805-40 shall be applied. For a business combination that is not effected primarily by exchanging equity interests in which a VIE is acquired, the primary beneficiary of that entity is the accounting acquirer.
 When a reporting entity becomes the primary beneficiary of a VIE that is not a business, no goodwill shall be recognized. The primary beneficiary initially shall measure and recognize the assets (except for goodwill) and liabilities of the VIE in accordance with Sections 805-20-25 and 805-20-30. However, the primary beneficiary initially shall measure assets and liabilities that it has transferred to that VIE at, after, or shortly before the date that the reporting entity became the primary beneficiary at the same amounts at which the assets and liabilities would have been measured if they had not been transferred. No gain or loss shall be recognized because of such transfers.
 **810-10-30-3** When a reporting entity becomes the primary beneficiary of a VIE that is not a business, no goodwill shall be recognized. The primary beneficiary initially shall measure and recognize the assets (except for goodwill) and liabilities of the VIE in accordance with Sections 805-20-25 and 805-20-30. However, the primary beneficiary initially shall measure assets and liabilities that it has transferred to that VIE at, after, or shortly before the date that the reporting entity became the primary beneficiary at the same amounts at which the assets and liabilities would have been measured if they had not been transferred. No gain or loss shall be recognized because of such transfers.
-**810-10-30-4** The fair value of any consideration paid
+**810-10-30-3A** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:326-10-65-7A reporting entity that recognizes loans within the scope of Subtopic 326-20 on financial instruments measured at amortized cost through the consolidation of a VIE that is not a business in accordance with paragraph 810-10-30-3 shall apply the guidance in paragraph 326-20-30-16.
+**810-10-30-4** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:326-10-65-7A reporting entity that recognizes loans within the scope of Subtopic 326-20 on financial instruments measured at amortized cost through the consolidation of a VIE that is not a business in accordance with paragraph 810-10-30-3 shall apply the guidance in paragraph 326-20-30-16.
+The fair value of any consideration paid
 2. The fair value of any noncontrolling interests
 3. The reported amount of any previously held interests
 
@@ -2042,8 +2112,10 @@ When a reporting entity becomes the primary beneficiary of a VIE that is not a b
 3. Subparagraph not used.
 
 **810-10-30-5** Paragraph not used.
+PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1Paragraphs 810-10-30-3 through 30-4 shall not apply to a joint venture reporting entity that becomes the primary beneficiary of a VIE that is not a business upon a joint venture formation accounted for in accordance with Subtopic 805-60.
 **810-10-30-5** Paragraph not used.
-**810-10-30-6** Paragraph not used.
+**810-10-30-6** PENDING CONTENTTransition date: January 1, 2025; January 1, 2025Transition guidance:805-60-65-1Paragraphs 810-10-30-3 through 30-4 shall not apply to a joint venture reporting entity that becomes the primary beneficiary of a VIE that is not a business upon a joint venture formation accounted for in accordance with Subtopic 805-60.
+Paragraph not used.
 **810-10-30-6** Paragraph not used.
 **810-10-30-7** > Initial Consolidation when Earlier Consolidation Was Prevented Due to Lack of Information
 A reporting entity that has not applied the Variable Interest Entities Subsections to a legal entity
@@ -2116,7 +2188,7 @@ If a reporting entity does not elect to apply the measurement alternative to a c
 
 ## 35 Subsequent Measurement
 
-> **General Note:** The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
 
 ### General
 
@@ -2169,11 +2241,11 @@ If a reporting entity does not apply the measurement alternative to a collateral
 
 ## 40 Derecognition
 
-> **General Note:** The Derecognition Section provides guidance on determining whether and when an entity should remove an item from the financial statements. For example, the entity would derecognize an asset because it no longer has rights to the asset or it would derecognize a liability because it no longer has any obligation.
+General Note:The Derecognition Section provides guidance on determining whether and when an entity should remove an item from the financial statements. For example, the entity would derecognize an asset because it no longer has rights to the asset or it would derecognize a liability because it no longer has any obligation.
 
 ### General
 
-**810-10-40-1** > Redemption of Subsidiary's Redeemable Stock
+**810-10-40-1** Related Proposed ASUs > Redemption of Subsidiary's Redeemable Stock
 Accounting for the purchase (early extinguishment) of a wholly owned subsidiary's
 mandatorily redeemable preferred stock, including stock that contains a redemption feature but is not considered a mandatorily redeemable financial instrument under Topic 480, differs dependent on whether the preferred stock is required under Topic 480 to be accounted for as a liability.
 **810-10-40-1** Accounting for the purchase (early extinguishment) of a wholly owned subsidiary's
@@ -2259,7 +2331,7 @@ If a parent deconsolidates a subsidiary or derecognizes a group of assets throug
 
 ## 45 Other Presentation Matters
 
-> **General Note:** The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
 
 ### General
 
@@ -2387,7 +2459,7 @@ The guidance in paragraphs 810-10-45-22 through 45-24
 
 ## 50 Disclosure
 
-> **General Note:** The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
 
 ### General
 
@@ -2435,6 +2507,16 @@ The amount of any gain or loss recognized in accordance with paragraph 810-10-40
 7. Whether the transaction that resulted in the deconsolidation or derecognition was with a related party
 8. Whether the former subsidiary or entity acquiring a group of assets will be a related party after deconsolidation.
 
+1. The amount of any gain or loss recognized in accordance with paragraph 810-10-40-5
+2. The portion of any gain or loss related to the remeasurement of any retained investment in the former subsidiary or group of assets to its fair value
+3. The caption in the income statement in which the gain or loss is recognized unless separately presented on the face of the income statement
+4. A description of the valuation technique(s) used to measure the fair value of any direct or indirect retained investment in the former subsidiary or group of assets
+5. Information that enables users of the parent's financial statements to assess the inputs used to develop the fair value in item (d)
+6. The nature of continuing involvement with the subsidiary or entity acquiring the group of assets after it has been deconsolidated or derecognized
+7. Whether the transaction that resulted in the deconsolidation or derecognition was with a related party
+8. Whether the former subsidiary or entity acquiring a group of assets will be a related party after deconsolidation.
+
+See paragraphs 220-40-50-21 through 50-25 for additional disclosure requirements.
 **810-10-50-1B** The amount of any gain or loss recognized in accordance with paragraph 810-10-40-5
 2. The portion of any gain or loss related to the remeasurement of any retained investment in the former subsidiary or group of assets to its fair value
 3. The caption in the income statement in which the gain or loss is recognized unless separately presented on the face of the income statement
@@ -2444,7 +2526,17 @@ The amount of any gain or loss recognized in accordance with paragraph 810-10-40
 7. Whether the transaction that resulted in the deconsolidation or derecognition was with a related party
 8. Whether the former subsidiary or entity acquiring a group of assets will be a related party after deconsolidation.
 
-**810-10-50-2** > A Change in the Difference Between Parent and Subsidiary Fiscal Year-Ends
+1. The amount of any gain or loss recognized in accordance with paragraph 810-10-40-5
+2. The portion of any gain or loss related to the remeasurement of any retained investment in the former subsidiary or group of assets to its fair value
+3. The caption in the income statement in which the gain or loss is recognized unless separately presented on the face of the income statement
+4. A description of the valuation technique(s) used to measure the fair value of any direct or indirect retained investment in the former subsidiary or group of assets
+5. Information that enables users of the parent's financial statements to assess the inputs used to develop the fair value in item (d)
+6. The nature of continuing involvement with the subsidiary or entity acquiring the group of assets after it has been deconsolidated or derecognized
+7. Whether the transaction that resulted in the deconsolidation or derecognition was with a related party
+8. Whether the former subsidiary or entity acquiring a group of assets will be a related party after deconsolidation.
+
+See paragraphs 220-40-50-21 through 50-25
+**810-10-50-2** for additional disclosure requirements.> A Change in the Difference Between Parent and Subsidiary Fiscal Year-Ends
 An entity should make the disclosures required pursuant to Topic 250. This paragraph applies to all entities that change (or eliminate) a previously existing difference between the reporting periods of a parent and a consolidated entity or an investor and an equity method investee. This paragraph does not apply in situations in which a parent entity or an investor changes its fiscal year-end.
 **810-10-50-2** An entity should make the disclosures required pursuant to Topic 250. This paragraph applies to all entities that change (or eliminate) a previously existing difference between the reporting periods of a parent and a consolidated entity or an investor and an equity method investee. This paragraph does not apply in situations in which a parent entity or an investor changes its fiscal year-end.
 
@@ -2512,22 +2604,58 @@ The primary beneficiary
 4. Lack of recourse if creditors (or beneficial interest holders) of a consolidated VIE have no recourse to the general credit of the primary beneficiary
 5. Terms of arrangements, giving consideration to both explicit arrangements and implicit variable interests that could require the reporting entity to provide financial support (for example, liquidity arrangements and obligations to purchase assets) to the VIE, including events or circumstances that could expose the reporting entity to a loss.
 
-**810-10-50-3** A VIE may issue voting equity interests, and the entity that holds a majority voting interest also may be the primary beneficiary of the VIE. If so, and if the VIE meets the definition of a business and the VIE's assets can be used for purposes other than the settlement of the VIE's obligations, the disclosures in paragraph 810-10-50-3(bb) through (d) are not required.
-The primary beneficiary
 1. Subparagraph superseded by Accounting Standards Update No. 2009-17.
 2. Subparagraph superseded by Accounting Standards Update No. 2009-17.
 3. The carrying amounts and classification of the VIE's assets and liabilities in the statement of financial position that are consolidated in accordance with the Variable Interest Entities Subsections, including qualitative information about the relationship(s) between those assets and liabilities. For example, if the VIE's assets can be used only to settle obligations of the VIE, the reporting entity shall disclose qualitative information about the nature of the restrictions on those assets.
 4. Lack of recourse if creditors (or beneficial interest holders) of a consolidated VIE have no recourse to the general credit of the primary beneficiary
 5. Terms of arrangements, giving consideration to both explicit arrangements and implicit variable interests that could require the reporting entity to provide financial support (for example, liquidity arrangements and obligations to purchase assets) to the VIE, including events or circumstances that could expose the reporting entity to a loss.
 
-**810-10-50-4** A VIE may issue voting equity interests, and the entity that holds a majority voting interest also may be the primary beneficiary of the VIE. If so, and if the VIE meets the definition of a business and the VIE's assets can be used for purposes other than the settlement of the VIE's obligations, the disclosures in paragraph 810-10-50-3(bb) through (d) are not required. > Nonprimary Beneficiary Holder of a Variable Interest in a VIE
+1. Subparagraph superseded by Accounting Standards Update No. 2009-17.
+2. Subparagraph superseded by Accounting Standards Update No. 2009-17.
+3. The carrying amounts and classification of the VIE's assets and liabilities in the statement of financial position that are consolidated in accordance with the Variable Interest Entities Subsections, including qualitative information about the relationship(s) between those assets and liabilities. For example, if the VIE's assets can be used only to settle obligations of the VIE, the reporting entity shall disclose qualitative information about the nature of the restrictions on those assets.
+4. Lack of recourse if creditors (or beneficial interest holders) of a consolidated VIE have no recourse to the general credit of the primary beneficiary
+5. Terms of arrangements, giving consideration to both explicit arrangements and implicit variable interests that could require the reporting entity to provide financial support (for example, liquidity arrangements and obligations to purchase assets) to the VIE, including events or circumstances that could expose the reporting entity to a loss.
+
+A VIE may issue voting equity interests, and the entity that holds a majority voting interest also may be the primary beneficiary of the VIE. If so, and if the VIE meets the definition of a business and the VIE's assets can be used for purposes other than the settlement of the VIE's obligations, the disclosures in paragraph 810-10-50-3(bb) through (d) are not required. See paragraphs 220-40-50-21 through 50-25 for additional disclosure requirements.
+**810-10-50-3** The primary beneficiary
+1. Subparagraph superseded by Accounting Standards Update No. 2009-17.
+2. Subparagraph superseded by Accounting Standards Update No. 2009-17.
+3. The carrying amounts and classification of the VIE's assets and liabilities in the statement of financial position that are consolidated in accordance with the Variable Interest Entities Subsections, including qualitative information about the relationship(s) between those assets and liabilities. For example, if the VIE's assets can be used only to settle obligations of the VIE, the reporting entity shall disclose qualitative information about the nature of the restrictions on those assets.
+4. Lack of recourse if creditors (or beneficial interest holders) of a consolidated VIE have no recourse to the general credit of the primary beneficiary
+5. Terms of arrangements, giving consideration to both explicit arrangements and implicit variable interests that could require the reporting entity to provide financial support (for example, liquidity arrangements and obligations to purchase assets) to the VIE, including events or circumstances that could expose the reporting entity to a loss.
+
+1. Subparagraph superseded by Accounting Standards Update No. 2009-17.
+2. Subparagraph superseded by Accounting Standards Update No. 2009-17.
+3. The carrying amounts and classification of the VIE's assets and liabilities in the statement of financial position that are consolidated in accordance with the Variable Interest Entities Subsections, including qualitative information about the relationship(s) between those assets and liabilities. For example, if the VIE's assets can be used only to settle obligations of the VIE, the reporting entity shall disclose qualitative information about the nature of the restrictions on those assets.
+4. Lack of recourse if creditors (or beneficial interest holders) of a consolidated VIE have no recourse to the general credit of the primary beneficiary
+5. Terms of arrangements, giving consideration to both explicit arrangements and implicit variable interests that could require the reporting entity to provide financial support (for example, liquidity arrangements and obligations to purchase assets) to the VIE, including events or circumstances that could expose the reporting entity to a loss.
+
+1. Subparagraph superseded by Accounting Standards Update No. 2009-17.
+2. Subparagraph superseded by Accounting Standards Update No. 2009-17.
+3. The carrying amounts and classification of the VIE's assets and liabilities in the statement of financial position that are consolidated in accordance with the Variable Interest Entities Subsections, including qualitative information about the relationship(s) between those assets and liabilities. For example, if the VIE's assets can be used only to settle obligations of the VIE, the reporting entity shall disclose qualitative information about the nature of the restrictions on those assets.
+4. Lack of recourse if creditors (or beneficial interest holders) of a consolidated VIE have no recourse to the general credit of the primary beneficiary
+5. Terms of arrangements, giving consideration to both explicit arrangements and implicit variable interests that could require the reporting entity to provide financial support (for example, liquidity arrangements and obligations to purchase assets) to the VIE, including events or circumstances that could expose the reporting entity to a loss.
+
+**810-10-50-4** A VIE may issue voting equity interests, and the entity that holds a majority voting interest also may be the primary beneficiary of the VIE. If so, and if the VIE meets the definition of a business and the VIE's assets can be used for purposes other than the settlement of the VIE's obligations, the disclosures in paragraph 810-10-50-3(bb) through (d) are not required. See paragraphs 220-40-50-21 through 50-25 for additional disclosure requirements.> Nonprimary Beneficiary Holder of a Variable Interest in a VIE
 The carrying amounts and classification of the assets and liabilities in the reporting entity's statement of financial position that relate to the reporting entity's variable interest in the VIE.
 2. The reporting entity's maximum exposure to loss as a result of its involvement with the VIE, including how the maximum exposure is determined and the significant sources of the reporting entity's exposure to the VIE. If the reporting entity's maximum exposure to loss as a result of its involvement with the VIE cannot be quantified, that fact shall be disclosed.
 3. A tabular comparison of the carrying amounts of the assets and liabilities, as required by (a) above, and the reporting entity's maximum exposure to loss, as required by (b) above. A reporting entity shall provide qualitative and quantitative information to allow financial statement users to understand the differences between the two amounts. That discussion shall include, but is not limited to, the terms of arrangements, giving consideration to both explicit arrangements and implicit variable interests, that could require the reporting entity to provide financial support (for example, liquidity arrangements and obligations to purchase assets) to the VIE, including events or circumstances that could expose the reporting entity to a loss.
 4. Information about any liquidity arrangements, guarantees, and/or other commitments by third parties that may affect the fair value or risk of the reporting entity's variable interest in the VIE is encouraged.
 5. If applicable, significant factors considered and judgments made in determining that the power to direct the activities of a VIE that most significantly impact the VIE's economic performance is shared in accordance with the guidance in paragraph 810-10-25-38D.
 
+1. The carrying amounts and classification of the assets and liabilities in the reporting entity's statement of financial position that relate to the reporting entity's variable interest in the VIE.
+2. The reporting entity's maximum exposure to loss as a result of its involvement with the VIE, including how the maximum exposure is determined and the significant sources of the reporting entity's exposure to the VIE. If the reporting entity's maximum exposure to loss as a result of its involvement with the VIE cannot be quantified, that fact shall be disclosed.
+3. A tabular comparison of the carrying amounts of the assets and liabilities, as required by (a) above, and the reporting entity's maximum exposure to loss, as required by (b) above. A reporting entity shall provide qualitative and quantitative information to allow financial statement users to understand the differences between the two amounts. That discussion shall include, but is not limited to, the terms of arrangements, giving consideration to both explicit arrangements and implicit variable interests, that could require the reporting entity to provide financial support (for example, liquidity arrangements and obligations to purchase assets) to the VIE, including events or circumstances that could expose the reporting entity to a loss.
+4. Information about any liquidity arrangements, guarantees, and/or other commitments by third parties that may affect the fair value or risk of the reporting entity's variable interest in the VIE is encouraged.
+5. If applicable, significant factors considered and judgments made in determining that the power to direct the activities of a VIE that most significantly impact the VIE's economic performance is shared in accordance with the guidance in paragraph 810-10-25-38D.
+
 **810-10-50-4** The carrying amounts and classification of the assets and liabilities in the reporting entity's statement of financial position that relate to the reporting entity's variable interest in the VIE.
+2. The reporting entity's maximum exposure to loss as a result of its involvement with the VIE, including how the maximum exposure is determined and the significant sources of the reporting entity's exposure to the VIE. If the reporting entity's maximum exposure to loss as a result of its involvement with the VIE cannot be quantified, that fact shall be disclosed.
+3. A tabular comparison of the carrying amounts of the assets and liabilities, as required by (a) above, and the reporting entity's maximum exposure to loss, as required by (b) above. A reporting entity shall provide qualitative and quantitative information to allow financial statement users to understand the differences between the two amounts. That discussion shall include, but is not limited to, the terms of arrangements, giving consideration to both explicit arrangements and implicit variable interests, that could require the reporting entity to provide financial support (for example, liquidity arrangements and obligations to purchase assets) to the VIE, including events or circumstances that could expose the reporting entity to a loss.
+4. Information about any liquidity arrangements, guarantees, and/or other commitments by third parties that may affect the fair value or risk of the reporting entity's variable interest in the VIE is encouraged.
+5. If applicable, significant factors considered and judgments made in determining that the power to direct the activities of a VIE that most significantly impact the VIE's economic performance is shared in accordance with the guidance in paragraph 810-10-25-38D.
+
+1. The carrying amounts and classification of the assets and liabilities in the reporting entity's statement of financial position that relate to the reporting entity's variable interest in the VIE.
 2. The reporting entity's maximum exposure to loss as a result of its involvement with the VIE, including how the maximum exposure is determined and the significant sources of the reporting entity's exposure to the VIE. If the reporting entity's maximum exposure to loss as a result of its involvement with the VIE cannot be quantified, that fact shall be disclosed.
 3. A tabular comparison of the carrying amounts of the assets and liabilities, as required by (a) above, and the reporting entity's maximum exposure to loss, as required by (b) above. A reporting entity shall provide qualitative and quantitative information to allow financial statement users to understand the differences between the two amounts. That discussion shall include, but is not limited to, the terms of arrangements, giving consideration to both explicit arrangements and implicit variable interests, that could require the reporting entity to provide financial support (for example, liquidity arrangements and obligations to purchase assets) to the VIE, including events or circumstances that could expose the reporting entity to a loss.
 4. Information about any liquidity arrangements, guarantees, and/or other commitments by third parties that may affect the fair value or risk of the reporting entity's variable interest in the VIE is encouraged.
@@ -2544,7 +2672,21 @@ Its methodology for determining whether the reporting entity is the primary bene
 
 3. Qualitative and quantitative information about the reporting entity's involvement (giving consideration to both explicit arrangements and implicit variable interests) with the VIE, including, but not limited to, the nature, purpose, size, and activities of the VIE, including how the VIE is financed. Paragraphs 810-10-25-49 through 25-54 provide guidance on how to determine whether a reporting entity has an implicit variable interest in a VIE.
 
+1. Its methodology for determining whether the reporting entity is the primary beneficiary of a VIE, including, but not limited to, significant judgments and assumptions made. One way to meet this disclosure requirement would be to provide information about the types of involvements a reporting entity considers significant, supplemented with information about how the significant involvements were considered in determining whether the reporting entity is the primary beneficiary.
+2. If facts and circumstances change such that the conclusion to consolidate a VIE has changed in the most recent financial statements (for example, the VIE was previously consolidated and is not currently consolidated), the primary factors that caused the change and the effect on the reporting entity's financial statements.
+1. The type and amount of support, including situations in which the reporting entity assisted the VIE in obtaining another type of support
+2. The primary reasons for providing the support.
+
+3. Qualitative and quantitative information about the reporting entity's involvement (giving consideration to both explicit arrangements and implicit variable interests) with the VIE, including, but not limited to, the nature, purpose, size, and activities of the VIE, including how the VIE is financed. Paragraphs 810-10-25-49 through 25-54 provide guidance on how to determine whether a reporting entity has an implicit variable interest in a VIE.
+
 **810-10-50-5A** Its methodology for determining whether the reporting entity is the primary beneficiary of a VIE, including, but not limited to, significant judgments and assumptions made. One way to meet this disclosure requirement would be to provide information about the types of involvements a reporting entity considers significant, supplemented with information about how the significant involvements were considered in determining whether the reporting entity is the primary beneficiary.
+2. If facts and circumstances change such that the conclusion to consolidate a VIE has changed in the most recent financial statements (for example, the VIE was previously consolidated and is not currently consolidated), the primary factors that caused the change and the effect on the reporting entity's financial statements.
+1. The type and amount of support, including situations in which the reporting entity assisted the VIE in obtaining another type of support
+2. The primary reasons for providing the support.
+
+3. Qualitative and quantitative information about the reporting entity's involvement (giving consideration to both explicit arrangements and implicit variable interests) with the VIE, including, but not limited to, the nature, purpose, size, and activities of the VIE, including how the VIE is financed. Paragraphs 810-10-25-49 through 25-54 provide guidance on how to determine whether a reporting entity has an implicit variable interest in a VIE.
+
+1. Its methodology for determining whether the reporting entity is the primary beneficiary of a VIE, including, but not limited to, significant judgments and assumptions made. One way to meet this disclosure requirement would be to provide information about the types of involvements a reporting entity considers significant, supplemented with information about how the significant involvements were considered in determining whether the reporting entity is the primary beneficiary.
 2. If facts and circumstances change such that the conclusion to consolidate a VIE has changed in the most recent financial statements (for example, the VIE was previously consolidated and is not currently consolidated), the primary factors that caused the change and the effect on the reporting entity's financial statements.
 1. The type and amount of support, including situations in which the reporting entity assisted the VIE in obtaining another type of support
 2. The primary reasons for providing the support.
@@ -2561,8 +2703,18 @@ The number of legal entities
 3. The reporting entity's maximum exposure to loss because of its involvement with the legal entities
 4. The amount of income, expense, purchases, sales, or other measure of activity between the reporting entity and the legal entities for all periods presented. However, if it is not practicable to present that information for prior periods that are presented in the first set of financial statements for which this requirement applies, the information for those prior periods is not required.
 
+1. The number of legal entities to which the guidance in the Variable Interest Entities Subsections is not being applied and the reason why the information required to apply this guidance is not available
+2. The nature, purpose, size (if available), and activities of the legal entities and the nature of the reporting entity's involvement with the legal entities
+3. The reporting entity's maximum exposure to loss because of its involvement with the legal entities
+4. The amount of income, expense, purchases, sales, or other measure of activity between the reporting entity and the legal entities for all periods presented. However, if it is not practicable to present that information for prior periods that are presented in the first set of financial statements for which this requirement applies, the information for those prior periods is not required.
+
 **810-10-50-6** The number of legal entities
 1. to which the guidance in the Variable Interest Entities Subsections is not being applied and the reason why the information required to apply this guidance is not available
+2. The nature, purpose, size (if available), and activities of the legal entities and the nature of the reporting entity's involvement with the legal entities
+3. The reporting entity's maximum exposure to loss because of its involvement with the legal entities
+4. The amount of income, expense, purchases, sales, or other measure of activity between the reporting entity and the legal entities for all periods presented. However, if it is not practicable to present that information for prior periods that are presented in the first set of financial statements for which this requirement applies, the information for those prior periods is not required.
+
+1. The number of legal entities to which the guidance in the Variable Interest Entities Subsections is not being applied and the reason why the information required to apply this guidance is not available
 2. The nature, purpose, size (if available), and activities of the legal entities and the nature of the reporting entity's involvement with the legal entities
 3. The reporting entity's maximum exposure to loss because of its involvement with the legal entities
 4. The amount of income, expense, purchases, sales, or other measure of activity between the reporting entity and the legal entities for all periods presented. However, if it is not practicable to present that information for prior periods that are presented in the first set of financial statements for which this requirement applies, the information for those prior periods is not required.
@@ -2575,8 +2727,14 @@ The number of legal entities
 VIEs that are not consolidated because the reporting entity is not the primary beneficiary but has a variable interest
 2. VIEs that are consolidated.
 
-**810-10-50-9** In determining whether to aggregate VIEs, the reporting entity shall consider quantitative and qualitative information about the different risk and reward characteristics of each VIE and the significance of each VIE to the entity. The disclosures shall be presented in a manner that clearly explains to financial statement users the nature and extent of an entity's involvement with VIEs.
-VIEs that are not consolidated because the reporting entity is not the primary beneficiary but has a variable interest
+1. VIEs that are not consolidated because the reporting entity is not the primary beneficiary but has a variable interest
+2. VIEs that are consolidated.
+
+In determining whether to aggregate VIEs, the reporting entity shall consider quantitative and qualitative information about the different risk and reward characteristics of each VIE and the significance of each VIE to the entity. The disclosures shall be presented in a manner that clearly explains to financial statement users the nature and extent of an entity's involvement with VIEs.
+**810-10-50-9** VIEs that are not consolidated because the reporting entity is not the primary beneficiary but has a variable interest
+2. VIEs that are consolidated.
+
+1. VIEs that are not consolidated because the reporting entity is not the primary beneficiary but has a variable interest
 2. VIEs that are consolidated.
 
 **810-10-50-10** In determining whether to aggregate VIEs, the reporting entity shall consider quantitative and qualitative information about the different risk and reward characteristics of each VIE and the significance of each VIE to the entity. The disclosures shall be presented in a manner that clearly explains to financial statement users the nature and extent of an entity's involvement with VIEs.
@@ -2606,16 +2764,16 @@ and measures the financial assets and the financial liabilities using the measur
 **810-10-50-20** A reporting entity that consolidates a collateralized financing entity
 **810-10-50-21** and measures the financial assets and the financial liabilities using the measurement alternative in paragraphs 810-10-30-10 through 30-15 and 810-10-35-6 through 35-8 shall disclose the information required by Topic 820 on fair value measurement and Topic 825 on financial instruments for the financial assets and the financial liabilities of the consolidated collateralized financing entity.
 For the less observable of the fair value of the financial assets and the fair value of the financial liabilities of the collateralized financing entity that is measured in accordance with the measurement alternative in paragraphs 810-10-30-10 through 30-15
-**810-10-50-21** and 810-10-35-6 through 35-8, a reporting entity shall disclose that the amount was measured on the basis of the more observable of the fair value of the financial liabilities and the fair value of the financial assets.
-For the less observable of the fair value of the financial assets and the fair value of the financial liabilities of the collateralized financing entity that is measured in accordance with the measurement alternative in paragraphs 810-10-30-10 through 30-15
-**810-10-50-22** and 810-10-35-6 through 35-8, a reporting entity shall disclose that the amount was measured on the basis of the more observable of the fair value of the financial liabilities and the fair value of the financial assets.
+and 810-10-35-6 through 35-8, a reporting entity shall disclose that the amount was measured on the basis of the more observable of the fair value of the financial liabilities and the fair value of the financial assets.PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For the less observable of the fair value of the financial assets and the fair value of the financial liabilities of the collateralized financing entity that is measured in accordance with the measurement alternative in paragraphs 810-10-30-10 through 30-15 and 810-10-35-6 through 35-8, a reporting entity shall disclose that the amount was measured on the basis of the more observable of the fair value of the financial liabilities and the fair value of the financial assets in interim and annual reporting periods.
+**810-10-50-21** For the less observable of the fair value of the financial assets and the fair value of the financial liabilities of the collateralized financing entity that is measured in accordance with the measurement alternative in paragraphs 810-10-30-10 through 30-15
+**810-10-50-22** and 810-10-35-6 through 35-8, a reporting entity shall disclose that the amount was measured on the basis of the more observable of the fair value of the financial liabilities and the fair value of the financial assets.PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For the less observable of the fair value of the financial assets and the fair value of the financial liabilities of the collateralized financing entity that is measured in accordance with the measurement alternative in paragraphs 810-10-30-10 through 30-15 and 810-10-35-6 through 35-8, a reporting entity shall disclose that the amount was measured on the basis of the more observable of the fair value of the financial liabilities and the fair value of the financial assets in interim and annual reporting periods.
 The disclosures in paragraphs 810-10-50-20 through 50-21
 do not apply to the financial assets and the financial liabilities that are incidental to the operations of the collateralized financing entity and have carrying values that approximate fair value.
 **810-10-50-22** The disclosures in paragraphs 810-10-50-20 through 50-21
 
 ## 55 Implementation Guidance and Illustrations
 
-> **General Note:** The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
 
 ### General
 
@@ -3037,8 +3195,8 @@ This Example illustrates a computation of expected losses
 **810-10-55-44** The following table shows the computation of expected cash flows using the cash flow possibilities that the variable interest holder has identified. The items to be included in expected cash flows of a VIE are described in the definition of the terms expected losses
 , expected residual returns, and expected variability.
 **810-10-55-44** The following table shows the computation of expected cash flows using the cash flow possibilities that the variable interest holder has identified. The items to be included in expected cash flows of a VIE are described in the definition of the terms expected losses
-**810-10-55-45** , expected residual returns, and expected variability.
-The expected cash flows are $795,000, and the fair value of the pool of assets is $757,143.
+, expected residual returns, and expected variability.
+**810-10-55-45** The expected cash flows are $795,000, and the fair value of the pool of assets is $757,143.
 **810-10-55-45** The expected cash flows are $795,000, and the fair value of the pool of assets is $757,143.
 **810-10-55-46** The following table shows how expected losses are computed once the expected cash flows are determined. Estimated cash flows (possible outcomes) are compared with the computed expected cash flows (probability-weighted outcomes). Estimated cash flows that are less than the expected cash flows contribute to expected losses, and cash flow possibilities that exceed the expected cash flows contribute to expected residual returns.
 **810-10-55-46** The following table shows how expected losses are computed once the expected cash flows are determined. Estimated cash flows (possible outcomes) are compared with the computed expected cash flows (probability-weighted outcomes). Estimated cash flows that are less than the expected cash flows contribute to expected losses, and cash flow possibilities that exceed the expected cash flows contribute to expected residual returns.
@@ -3256,8 +3414,8 @@ Based on this analysis, it can be determined that the VIE was designed to create
 A VIE is created and financed with $950 of 5-year fixed-rate debt and $50 of equity. The VIE uses the proceeds from the issuance to purchase an underlying asset
 to be leased to a lessee with a AA credit rating. The equity provides protection (up to $50) to the debt related to both credit risk and interest rate risk because the debt is paid before any cash flows are available to the equity investors. The lease has a five-year term and is classified as a direct financing lease by the lessor and as an operating lease by the lessee. The lessee is required to provide a first-loss residual value guarantee for the expected future value of the underlying asset at the end of five years, and it has a fixed-price purchase option to acquire the underlying asset for the same amount. A third-party residual value guarantor provides a very small additional residual value guarantee to the lessor. The governing documents for the VIE do not permit the VIE to buy additional assets or sell existing assets during the five-year holding period. The VIE was formed so that the lessee will have rights to occupy and use the underlying asset under an operating lease and retain substantially all of the risks and rewards from appreciation or depreciation in value of the underlying asset. The transaction was marketed to potential investors as an investment in a portfolio of AA-rated assets collateralized by an underlying asset that would provide a fixed-rate return to debt holders equivalent to AA-rated assets. The return to equity investors is expected to be slightly greater than the return provided to the debt investors because the equity is subordinated with respect to the obligation of the lessee to the VIE.
 **810-10-55-78** A VIE is created and financed with $950 of 5-year fixed-rate debt and $50 of equity. The VIE uses the proceeds from the issuance to purchase an underlying asset
-**810-10-55-79** to be leased to a lessee with a AA credit rating. The equity provides protection (up to $50) to the debt related to both credit risk and interest rate risk because the debt is paid before any cash flows are available to the equity investors. The lease has a five-year term and is classified as a direct financing lease by the lessor and as an operating lease by the lessee. The lessee is required to provide a first-loss residual value guarantee for the expected future value of the underlying asset at the end of five years, and it has a fixed-price purchase option to acquire the underlying asset for the same amount. A third-party residual value guarantor provides a very small additional residual value guarantee to the lessor. The governing documents for the VIE do not permit the VIE to buy additional assets or sell existing assets during the five-year holding period. The VIE was formed so that the lessee will have rights to occupy and use the underlying asset under an operating lease and retain substantially all of the risks and rewards from appreciation or depreciation in value of the underlying asset. The transaction was marketed to potential investors as an investment in a portfolio of AA-rated assets collateralized by an underlying asset that would provide a fixed-rate return to debt holders equivalent to AA-rated assets. The return to equity investors is expected to be slightly greater than the return provided to the debt investors because the equity is subordinated with respect to the obligation of the lessee to the VIE.
-Price risk with respect to changes in fair value of the underlying asset
+to be leased to a lessee with a AA credit rating. The equity provides protection (up to $50) to the debt related to both credit risk and interest rate risk because the debt is paid before any cash flows are available to the equity investors. The lease has a five-year term and is classified as a direct financing lease by the lessor and as an operating lease by the lessee. The lessee is required to provide a first-loss residual value guarantee for the expected future value of the underlying asset at the end of five years, and it has a fixed-price purchase option to acquire the underlying asset for the same amount. A third-party residual value guarantor provides a very small additional residual value guarantee to the lessor. The governing documents for the VIE do not permit the VIE to buy additional assets or sell existing assets during the five-year holding period. The VIE was formed so that the lessee will have rights to occupy and use the underlying asset under an operating lease and retain substantially all of the risks and rewards from appreciation or depreciation in value of the underlying asset. The transaction was marketed to potential investors as an investment in a portfolio of AA-rated assets collateralized by an underlying asset that would provide a fixed-rate return to debt holders equivalent to AA-rated assets. The return to equity investors is expected to be slightly greater than the return provided to the debt investors because the equity is subordinated with respect to the obligation of the lessee to the VIE.
+**810-10-55-79** Price risk with respect to changes in fair value of the underlying asset
 2. Credit risk associated with possible default by the lessee of the underlying asset with respect to the lease payments
 3. Interest rate risk associated with changes in the fair value of the future lease payments.
 
@@ -3959,17 +4117,18 @@ It is the variable interest holder with the power to direct the activities of th
 **810-10-55-205AS** A reporting entity has determined that it must consolidate a collateralized financing entity
 under this Topic and is eligible to and has elected to apply the measurement alternative in paragraphs 810-10-30-10 through 30-15 and 810-10-35-6 through 35-8. The reporting entity retains certain beneficial interests in the collateralized financing entity as compensation for its services and also retains other beneficial interests. Since initial consolidation, the collateralized financing entity has not settled any of the outstanding beneficial interests related to compensation for services. The collateralized financing entity's only assets are corporate debt obligations, and its only liabilities (the beneficial interests issued by the collateralized financing entity) are thinly traded. The reporting entity determines that the fair value of the collateralized financing entity's financial assets is more observable than the fair value of its financial liabilities. Because the fair value of the financial assets is more observable, the reporting entity determines the amount of the financial liabilities of the collateralized financing entity (other than those beneficial interests retained by the reporting entity) as follows.
 **810-10-55-205AS** A reporting entity has determined that it must consolidate a collateralized financing entity
+under this Topic and is eligible to and has elected to apply the measurement alternative in paragraphs 810-10-30-10 through 30-15 and 810-10-35-6 through 35-8. The reporting entity retains certain beneficial interests in the collateralized financing entity as compensation for its services and also retains other beneficial interests. Since initial consolidation, the collateralized financing entity has not settled any of the outstanding beneficial interests related to compensation for services. The collateralized financing entity's only assets are corporate debt obligations, and its only liabilities (the beneficial interests issued by the collateralized financing entity) are thinly traded. The reporting entity determines that the fair value of the collateralized financing entity's financial assets is more observable than the fair value of its financial liabilities. Because the fair value of the financial assets is more observable, the reporting entity determines the amount of the financial liabilities of the collateralized financing entity (other than those beneficial interests retained by the reporting entity) as follows.
 
 ##### · > Example 10: Collateralized Financing        Entities—Application of the Measurement Alternative to the Financial Assets When the Fair        Value of the Financial Liabilities Is More Observable
 
-**810-10-55-205AT** under this Topic and is eligible to and has elected to apply the measurement alternative in paragraphs 810-10-30-10 through 30-15 and 810-10-35-6 through 35-8. The reporting entity retains certain beneficial interests in the collateralized financing entity as compensation for its services and also retains other beneficial interests. Since initial consolidation, the collateralized financing entity has not settled any of the outstanding beneficial interests related to compensation for services. The collateralized financing entity's only assets are corporate debt obligations, and its only liabilities (the beneficial interests issued by the collateralized financing entity) are thinly traded. The reporting entity determines that the fair value of the collateralized financing entity's financial assets is more observable than the fair value of its financial liabilities. Because the fair value of the financial assets is more observable, the reporting entity determines the amount of the financial liabilities of the collateralized financing entity (other than those beneficial interests retained by the reporting entity) as follows.
-A reporting entity has determined that it must consolidate a collateralized financing entity
+**810-10-55-205AT** A reporting entity has determined that it must consolidate a collateralized financing entity
 under this Topic and is eligible to and has elected to apply the measurement alternative in paragraphs 810-10-30-10 through 30-15 and 810-10-35-6 through 35-8. The reporting entity retains certain beneficial interests in the collateralized financing entity as compensation for its services and also retains other beneficial interests. Since initial consolidation, the collateralized financing entity has not settled any of the outstanding beneficial interests related to compensation for services. The collateralized financing entity's only assets are mortgages with primarily unobservable inputs, and its only liabilities are beneficial interests issued in those assets. The beneficial interests of the collateralized financing entity are frequently traded, although not in an active market. Because the fair value of the financial liabilities is more observable, the reporting entity determines the amount of the financial assets of the collateralized financing entity as follows.
 **810-10-55-205AT** A reporting entity has determined that it must consolidate a collateralized financing entity
+under this Topic and is eligible to and has elected to apply the measurement alternative in paragraphs 810-10-30-10 through 30-15 and 810-10-35-6 through 35-8. The reporting entity retains certain beneficial interests in the collateralized financing entity as compensation for its services and also retains other beneficial interests. Since initial consolidation, the collateralized financing entity has not settled any of the outstanding beneficial interests related to compensation for services. The collateralized financing entity's only assets are mortgages with primarily unobservable inputs, and its only liabilities are beneficial interests issued in those assets. The beneficial interests of the collateralized financing entity are frequently traded, although not in an active market. Because the fair value of the financial liabilities is more observable, the reporting entity determines the amount of the financial assets of the collateralized financing entity as follows.
 
 ##### · > Accounting Alternative for Entities        under Common Control
 
-**810-10-55-205AU** under this Topic and is eligible to and has elected to apply the measurement alternative in paragraphs 810-10-30-10 through 30-15 and 810-10-35-6 through 35-8. The reporting entity retains certain beneficial interests in the collateralized financing entity as compensation for its services and also retains other beneficial interests. Since initial consolidation, the collateralized financing entity has not settled any of the outstanding beneficial interests related to compensation for services. The collateralized financing entity's only assets are mortgages with primarily unobservable inputs, and its only liabilities are beneficial interests issued in those assets. The beneficial interests of the collateralized financing entity are frequently traded, although not in an active market. Because the fair value of the financial liabilities is more observable, the reporting entity determines the amount of the financial assets of the collateralized financing entity as follows.· · > Accounting Alternative—Determining Whether Common Control Exists
+**810-10-55-205AU** · · > Accounting Alternative—Determining Whether Common Control Exists
 Accounting Alternative—Common Control Exists (Example 11)
 2. Accounting Alternative—Common Control Does Not Exist (Example 12).
 
@@ -4151,7 +4310,7 @@ At the direction of the physician practice management entity, a physician who wi
 
 ## 60 Relationships
 
-> **General Note:** The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
+General Note:The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
 
 ### General
 
@@ -4183,11 +4342,12 @@ Paragraph superseded by Accounting Standards Update No. 2009-16.
 
 ## 65 Transition and Open Effective Date Information
 
-> **General Note:** The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
+General Note:The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
 
 ### General
 
-**810-10-65-1** Paragraph superseded on 06/20/2011 after the end of the transition period stated in FASB Statements No. 160, *Noncontrolling Interests in Consolidated Financial Statements—an amendment of ARB No. 51, and No. 164, Not-for-Profit Entities: Mergers and Acquisitions*.
+**810-10-65-1** Related Proposed ASUs
+Paragraph superseded on 06/20/2011 after the end of the transition period stated in FASB Statements No. 160, *Noncontrolling Interests in Consolidated Financial Statements—an amendment of ARB No. 51, and No. 164, Not-for-Profit Entities: Mergers and Acquisitions*.
 **810-10-65-1** Paragraph superseded on 06/20/2011 after the end of the transition period stated in FASB Statements No. 160, *Noncontrolling Interests in Consolidated Financial Statements—an amendment of ARB No. 51, and No. 164, Not-for-Profit Entities: Mergers and Acquisitions*.
 **810-10-65-2** Paragraph superseded on 06/20/2018 after the end of the transition period stated in FASB Statement No. 167, *Amendments to FASB Interpretation No. 46(R)*.
 **810-10-65-2** Paragraph superseded on 06/20/2018 after the end of the transition period stated in FASB Statement No. 167, *Amendments to FASB Interpretation No. 46(R)*.
@@ -4221,7 +4381,7 @@ Upon adoption of the accounting alternative, the guidance in the Variable Intere
 
 ## S00 Status
 
-> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
 ### General
 
@@ -4251,15 +4411,16 @@ The following table identifies the changes made to this Subtopic.
 
 ## S20 Glossary
 
-> **General Note:** The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
 
 ##### Rollup
 
 A way to create a master limited partnership in which two or more legally separate limited partnerships are combined into one master limited partnership.
+A way to create a master limited partnership in which two or more legally separate limited partnerships are combined into one master limited partnership.
 
 ## S25 Recognition
 
-> **General Note:** The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
 
 ### General
 
@@ -4275,7 +4436,7 @@ See paragraph 810-10-S99-5, SAB Topic 5.E, for SEC Staff views on when an accoun
 
 ## S35 Subsequent Measurement
 
-> **General Note:** The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
 
 ### General
 
@@ -4285,7 +4446,7 @@ See paragraph 810-10-S99-5, SAB Topic 5.E, for SEC Staff views on when an accoun
 
 ## S40 Derecognition
 
-> **General Note:** The Derecognition Section provides guidance on determining whether and when an entity should remove an item from the financial statements. For example, the entity would derecognize an asset because it no longer has rights to the asset or it would derecognize a liability because it no longer has any obligation.
+General Note:The Derecognition Section provides guidance on determining whether and when an entity should remove an item from the financial statements. For example, the entity would derecognize an asset because it no longer has rights to the asset or it would derecognize a liability because it no longer has any obligation.
 
 ### General
 
@@ -4298,7 +4459,7 @@ See paragraph 810-10-S99-6, SEC Observer Comment: Accounting for Gain Recognitio
 
 ## S45 Other Presentation Matters
 
-> **General Note:** The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
 
 ### General
 
@@ -4311,7 +4472,7 @@ See paragraph 810-10-S99-5, SAB Topic 5.E, for SEC Staff views on when an accoun
 
 ## S50 Disclosure
 
-> **General Note:** The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
 
 ### General
 
@@ -4327,7 +4488,7 @@ See paragraph 810-10-S99-4, Regulation S-X Rule 3A-04, for requirements for disc
 
 ## S99 SEC Materials
 
-> **General Note:** As more fully described in *About the Codification*, the Codification includes selected SEC and SEC Staff content for reference by public companies. The Codification does not replace or affect how the SEC or SEC Staff issues or updates SEC content. SEC Staff content does not constitute Commission-approved rules or interpretations of the SEC.
+General Note:As more fully described in *About the Codification*, the Codification includes selected SEC and SEC Staff content for reference by public companies. The Codification does not replace or affect how the SEC or SEC Staff issues or updates SEC content. SEC Staff content does not constitute Commission-approved rules or interpretations of the SEC.
 
 ### General
 
@@ -4340,11 +4501,16 @@ The following is the text of Regulation S-X Rule 3A-01, (17 CFR 210.3A-01).[Rese
 The following is the text of Regulation S-X Rule 3A-02, Consolidated Financial Statements of the Registrant and its Subsidiaries (17 CFR 210.3A-02).In deciding upon consolidation policy, the registrant must consider what financial presentation is most meaningful in the circumstances and should follow in the consolidated financial statements principles of inclusion or exclusion which will clearly exhibit the financial position and results of operations of the registrant. There is a presumption that consolidated financial statements are more meaningful than separate financial statements and that they are usually necessary for a fair presentation when one entity directly or indirectly has a controlling financial interest in another entity. Other particular facts and circumstances may require combined financial statements, an equity method of accounting, or valuation allowances in order to achieve a fair presentation.
 (a) Majority ownership: Among the factors that the registrant should consider in determining the most meaningful presentation is majority ownership. Generally, registrants shall consolidate entities that are majority owned and shall not consolidate entities that are not majority owned. The determination of *majority ownership* requires a careful analysis of the facts and circumstances of a particular relationship among entities. In rare situations, consolidation of a majority owned subsidiary may not result in a fair presentation, because the registrant, in substance, does not have a controlling financial interest (for example, when the subsidiary is in legal reorganization or in bankruptcy). In other situations, consolidation of an entity, notwithstanding the lack of technical majority ownership, is necessary to present fairly the financial position and results of operations of the registrant, because of the existence of a parent-subsidiary relationship by means other than record ownership of voting stock. (b) [Reserved][83 FR 50200, Oct. 4, 2018]
 **810-10-S99-2** The following is the text of Regulation S-X Rule 3A-02, Consolidated Financial Statements of the Registrant and its Subsidiaries (17 CFR 210.3A-02).In deciding upon consolidation policy, the registrant must consider what financial presentation is most meaningful in the circumstances and should follow in the consolidated financial statements principles of inclusion or exclusion which will clearly exhibit the financial position and results of operations of the registrant. There is a presumption that consolidated financial statements are more meaningful than separate financial statements and that they are usually necessary for a fair presentation when one entity directly or indirectly has a controlling financial interest in another entity. Other particular facts and circumstances may require combined financial statements, an equity method of accounting, or valuation allowances in order to achieve a fair presentation.
-**810-10-S99-3** (a) Majority ownership: Among the factors that the registrant should consider in determining the most meaningful presentation is majority ownership. Generally, registrants shall consolidate entities that are majority owned and shall not consolidate entities that are not majority owned. The determination of *majority ownership* requires a careful analysis of the facts and circumstances of a particular relationship among entities. In rare situations, consolidation of a majority owned subsidiary may not result in a fair presentation, because the registrant, in substance, does not have a controlling financial interest (for example, when the subsidiary is in legal reorganization or in bankruptcy). In other situations, consolidation of an entity, notwithstanding the lack of technical majority ownership, is necessary to present fairly the financial position and results of operations of the registrant, because of the existence of a parent-subsidiary relationship by means other than record ownership of voting stock. (b) [Reserved][83 FR 50200, Oct. 4, 2018]· · > Regulation S-X Rule 3A-03, Statement as to Principles of Consolidation or Combination Followed
+(a) Majority ownership: Among the factors that the registrant should consider in determining the most meaningful presentation is majority ownership. Generally, registrants shall consolidate entities that are majority owned and shall not consolidate entities that are not majority owned. The determination of *majority ownership* requires a careful analysis of the facts and circumstances of a particular relationship among entities. In rare situations, consolidation of a majority owned subsidiary may not result in a fair presentation, because the registrant, in substance, does not have a controlling financial interest (for example, when the subsidiary is in legal reorganization or in bankruptcy). In other situations, consolidation of an entity, notwithstanding the lack of technical majority ownership, is necessary to present fairly the financial position and results of operations of the registrant, because of the existence of a parent-subsidiary relationship by means other than record ownership of voting stock.
+(b) [Reserved]
+[83 FR 50200, Oct. 4, 2018]
+**810-10-S99-3** · · > Regulation S-X Rule 3A-03, Statement as to Principles of Consolidation or Combination Followed
 The following is the text of Regulation S-X Rule 3A-03, Statement as to Principles of Consolidation or Combination Followed (17 CFR 210.3A-03).(a) [Reserved]
 (b) As to each consolidated financial statement and as to each combined financial statement, if there has been a change in the persons included or excluded in the corresponding statement for the preceding fiscal period filed with the Commission that has a material effect on the financial statements, the persons included and the persons excluded shall be disclosed. [37 FR 14597, July 21, 1972. Redesignated at 45 FR 63687, Sept. 25, 1980, and 46 FR 56179, Nov. 16, 1981; 83 FR 50200, Oct. 4, 2018]
 **810-10-S99-3** The following is the text of Regulation S-X Rule 3A-03, Statement as to Principles of Consolidation or Combination Followed (17 CFR 210.3A-03).(a) [Reserved]
-**810-10-S99-4** (b) As to each consolidated financial statement and as to each combined financial statement, if there has been a change in the persons included or excluded in the corresponding statement for the preceding fiscal period filed with the Commission that has a material effect on the financial statements, the persons included and the persons excluded shall be disclosed. [37 FR 14597, July 21, 1972. Redesignated at 45 FR 63687, Sept. 25, 1980, and 46 FR 56179, Nov. 16, 1981; 83 FR 50200, Oct. 4, 2018]· · > Regulation S-X Rule 3A-04
+(b) As to each consolidated financial statement and as to each combined financial statement, if there has been a change in the persons included or excluded in the corresponding statement for the preceding fiscal period filed with the Commission that has a material effect on the financial statements, the persons included and the persons excluded shall be disclosed.
+[37 FR 14597, July 21, 1972. Redesignated at 45 FR 63687, Sept. 25, 1980, and 46 FR 56179, Nov. 16, 1981; 83 FR 50200, Oct. 4, 2018]
+**810-10-S99-4** · · > Regulation S-X Rule 3A-04
 The following is the text of Regulation S-X Rule 3A-04 (17 CFR 210.3A-04).[Reserved]
 **810-10-S99-4** The following is the text of Regulation S-X Rule 3A-04 (17 CFR 210.3A-04).[Reserved]
 
@@ -4354,10 +4520,14 @@ The following is the text of Regulation S-X Rule 3A-04 (17 CFR 210.3A-04).[Reser
 The following is the text of SAB Topic 5.E, Accounting for Divestiture of a Subsidiary or Other Business Operations.Facts: Company X transferred certain operations (including several subsidiaries) to a group of former employees who had been responsible for managing those operations. Assets and liabilities with a net book value of approximately $8 million were transferred to a newly formed entity-Company Y-wholly owned by the former employees. The consideration received consisted of $1,000 in cash and interest bearing promissory notes for $10 million, payable in equal annual installments of $1 million each, plus interest, beginning two years from the date of the transaction. The former employees possessed insufficient assets to pay the notes and Company X expected the funds for payments to come exclusively from future operations of the transferred business.
 Company X remained contingently liable for performance on existing contracts transferred and agreed to guarantee, at its discretion, performance on future contracts entered into by the newly formed entity. Company X also acted as guarantor under a line of credit established by Company Y. The nature of Company Y's business was such that Company X's guarantees were considered a necessary predicate to obtaining future contracts until such time as Company Y achieved profitable operations and substantial financial independence from Company X. Question: If deconsolidation of the subsidiaries and business operations is appropriate, can Company X recognize a gain?Interpretive Response: Before recognizing any gain, Company X should identify all of the elements of the divesture arrangement and allocate the consideration exchanged to each of those elements. In this regard, we believe that Company X would recognize the guarantees at fair value in accordance with FASB ASC Topic 460, Guarantees; the contingent liability for performance on existing contracts in accordance with FASB ASC Topic 450, Contingencies; and the promissory notes in accordance with FASB ASC Topic 310, Receivables, and FASB ASC Topic 835, Interest.
 **810-10-S99-5** The following is the text of SAB Topic 5.E, Accounting for Divestiture of a Subsidiary or Other Business Operations.Facts: Company X transferred certain operations (including several subsidiaries) to a group of former employees who had been responsible for managing those operations. Assets and liabilities with a net book value of approximately $8 million were transferred to a newly formed entity-Company Y-wholly owned by the former employees. The consideration received consisted of $1,000 in cash and interest bearing promissory notes for $10 million, payable in equal annual installments of $1 million each, plus interest, beginning two years from the date of the transaction. The former employees possessed insufficient assets to pay the notes and Company X expected the funds for payments to come exclusively from future operations of the transferred business.
+Company X remained contingently liable for performance on existing contracts transferred and agreed to guarantee, at its discretion, performance on future contracts entered into by the newly formed entity. Company X also acted as guarantor under a line of credit established by Company Y.
+The nature of Company Y's business was such that Company X's guarantees were considered a necessary predicate to obtaining future contracts until such time as Company Y achieved profitable operations and substantial financial independence from Company X.
+Question: If deconsolidation of the subsidiaries and business operations is appropriate, can Company X recognize a gain?
+Interpretive Response: Before recognizing any gain, Company X should identify all of the elements of the divesture arrangement and allocate the consideration exchanged to each of those elements. In this regard, we believe that Company X would recognize the guarantees at fair value in accordance with FASB ASC Topic 460, Guarantees; the contingent liability for performance on existing contracts in accordance with FASB ASC Topic 450, Contingencies; and the promissory notes in accordance with FASB ASC Topic 310, Receivables, and FASB ASC Topic 835, Interest.
 
 ##### · > Comments Made by SEC Observer at Emerging Issues Task Force (EITF) Meetings
 
-**810-10-S99-6** Company X remained contingently liable for performance on existing contracts transferred and agreed to guarantee, at its discretion, performance on future contracts entered into by the newly formed entity. Company X also acted as guarantor under a line of credit established by Company Y. The nature of Company Y's business was such that Company X's guarantees were considered a necessary predicate to obtaining future contracts until such time as Company Y achieved profitable operations and substantial financial independence from Company X. Question: If deconsolidation of the subsidiaries and business operations is appropriate, can Company X recognize a gain?Interpretive Response: Before recognizing any gain, Company X should identify all of the elements of the divesture arrangement and allocate the consideration exchanged to each of those elements. In this regard, we believe that Company X would recognize the guarantees at fair value in accordance with FASB ASC Topic 460, Guarantees; the contingent liability for performance on existing contracts in accordance with FASB ASC Topic 450, Contingencies; and the promissory notes in accordance with FASB ASC Topic 310, Receivables, and FASB ASC Topic 835, Interest. · · > SEC Observer Comment: Accounting for Gain Recognition in Certain Transactions Involving the General Partner in a Master Limited Partnership
+**810-10-S99-6** · · > SEC Observer Comment: Accounting for Gain Recognition in Certain Transactions Involving the General Partner in a Master Limited Partnership
 The following is the text of the SEC Observer Comment: Accounting for Gain Recognition in Certain Transactions Involving the General Partner in a Master Limited Partnership.The SEC staff has objected to immediate gain recognition when the general partner in a Master Limited Partnership has continuing exposure in forms such as debt guarantees, financing commitments, or restrictions on the sale of MLP units. The SEC staff also will not accept immediate gain recognition in transactions when the general partner (who will continue to act in that capacity and exercise significant influence but not control over the MLP) sponsors the rollup
 of several limited partnerships into a MLP and receives tradable limited partnership units in exchange for relinquishing the rights to certain future fees from the limited partnerships.
 **810-10-S99-6** The following is the text of the SEC Observer Comment: Accounting for Gain Recognition in Certain Transactions Involving the General Partner in a Master Limited Partnership.The SEC staff has objected to immediate gain recognition when the general partner in a Master Limited Partnership has continuing exposure in forms such as debt guarantees, financing commitments, or restrictions on the sale of MLP units. The SEC staff also will not accept immediate gain recognition in transactions when the general partner (who will continue to act in that capacity and exercise significant influence but not control over the MLP) sponsors the rollup

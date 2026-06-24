@@ -14,7 +14,7 @@ key: true
 
 ## 00 Status
 
-> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
 ### Status
 
@@ -144,7 +144,7 @@ key: true
 
 ## 05 Overview and Background
 
-> **General Note:** The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
 
 ### General
 
@@ -194,9 +194,9 @@ Recognition and measurement of the impairment
 
 ## 15 Scope and Scope Exceptions
 
-> **General Note:** The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
 
-> **General Note:** General Note for Financial Instruments:Some of the items subject to the guidance in this Subtopic are financial instruments
+General Note for Financial Instruments:Some of the items subject to the guidance in this Subtopic are financial instruments
 
 ### General
 
@@ -264,7 +264,7 @@ Entities that hold collections
 
 ## 20 Glossary
 
-> **General Note:** The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
 
 ##### Activities
 
@@ -441,9 +441,9 @@ An asset that is the subject of a lease for which a right to use that asset has 
 
 ## 25 Recognition
 
-> **General Note:** The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
 
-> **General Note:** General Note for Fair Value Option:Some of the items subject to the guidance in this Subtopic may qualify for application of the Fair Value Option Subsections of Subtopic 825-10. Those Subsections (see paragraph 825-10-05-5) address circumstances in which entities may choose, at specified election dates, to measure eligible items at fair value (the fair value option). See Section 825-10-15 for guidance on the scope of the Fair Value Option Subsections of the Financial Instruments Topic.
+General Note for Fair Value Option:Some of the items subject to the guidance in this Subtopic may qualify for application of the Fair Value Option Subsections of Subtopic 825-10. Those Subsections (see paragraph 825-10-05-5) address circumstances in which entities may choose, at specified election dates, to measure eligible items at fair value (the fair value option). See Section 825-10-15 for guidance on the scope of the Fair Value Option Subsections of the Financial Instruments Topic.
 
 ### General
 
@@ -469,7 +469,7 @@ See Section 805-20-25 for general guidance related to the recognition of the acq
 
 ## 30 Initial Measurement
 
-> **General Note:** The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
 
 ### General
 
@@ -507,7 +507,7 @@ See Subtopic 842-20 for guidance related to assets acquired under a lease.
 
 ## 35 Subsequent Measurement
 
-> **General Note:** The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
 
 ### General
 
@@ -718,7 +718,7 @@ Because the continued use of a long-lived asset demonstrates the presence of ser
 
 ## 40 Derecognition
 
-> **General Note:** The Derecognition Section provides guidance on determining whether and when an entity should remove an item from the financial statements. For example, the entity would derecognize an asset because it no longer has rights to the asset or it would derecognize a liability because it no longer has any obligation.
+General Note:The Derecognition Section provides guidance on determining whether and when an entity should remove an item from the financial statements. For example, the entity would derecognize an asset because it no longer has rights to the asset or it would derecognize a liability because it no longer has any obligation.
 
 ### General
 
@@ -726,8 +726,20 @@ Because the continued use of a long-lived asset demonstrates the presence of ser
 **360-10-40-1** Paragraph superseded by Accounting Standards Update No. 2014-09.
 **360-10-40-2** > Sale of Leased Property
 Paragraph 840-20-40-5 states that if a sale to a third party of property subject to an operating lease (or of property that is leased by or intended to be leased by the third-party purchaser to another party) is not to be recorded as a sale because the entity has not transferred control over the promised asset to the third party in accordance with paragraph 606-10-25-30, the transaction shall be accounted for as a borrowing.
+
+| Editor's Note: Paragraph 360-10-40-2 will be superseded upon transition, together with its heading: |
+| --- |
+| > Sale of Leased Property |
+
+PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:105-10-65-10Paragraph superseded by Accounting Standards Update No. 2025-12.
 **360-10-40-2** Paragraph 840-20-40-5 states that if a sale to a third party of property subject to an operating lease (or of property that is leased by or intended to be leased by the third-party purchaser to another party) is not to be recorded as a sale because the entity has not transferred control over the promised asset to the third party in accordance with paragraph 606-10-25-30, the transaction shall be accounted for as a borrowing.
-**360-10-40-3** Paragraph superseded by Accounting Standards Update No. 2014-09.
+
+| Editor's Note: Paragraph 360-10-40-2 will be superseded upon transition, together with its heading: |
+| --- |
+| > Sale of Leased Property |
+
+**360-10-40-3** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:105-10-65-10Paragraph superseded by Accounting Standards Update No. 2025-12.
+Paragraph superseded by Accounting Standards Update No. 2014-09.
 **360-10-40-3** Paragraph superseded by Accounting Standards Update No. 2014-09.
 **360-10-40-3A** > Transfer or Sale of Property, Plant, and Equipment
 An entity shall account for the derecognition of a nonfinancial asset, including an in substance nonfinancial asset and an asset subject to a lease , within the scope of this Topic in accordance with Subtopic 610-20 on gains and losses from the derecognition of nonfinancial assets, unless a scope exception from Subtopic 610-20 applies. For example, the derecognition of a nonfinancial asset in a contract
@@ -764,16 +776,17 @@ See paragraphs 360-10-35-47 through 35-48
 
 ## 45 Other Presentation Matters
 
-> **General Note:** The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
 
 ### General
 
-**360-10-45-1** > Planned Major Maintenance Activities
+**360-10-45-1** Related Proposed ASUs > Planned Major Maintenance Activities
 An entity shall apply the same method of accounting for planned major maintenance activities in annual and interim financial reporting periods.
 **360-10-45-1** An entity shall apply the same method of accounting for planned major maintenance activities in annual and interim financial reporting periods.
 
 ### Impairment or Disposal of Long-Lived Assets
 
+**360-10-45-2** Related Proposed ASUs
 This Subsection presents guidance for the presentation of impairment
 1. Held and used
 2. Held for sale
@@ -877,11 +890,12 @@ A long-lived asset to be disposed of other than by sale (for example, by abandon
 
 ## 50 Disclosure
 
-> **General Note:** The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
 
 ### General
 
-**360-10-50-1** Depreciation expense for the period
+**360-10-50-1** Related Proposed ASUs
+Depreciation expense for the period
 2. Balances of major classes of depreciable assets, by nature or function, at the balance sheet date
 3. Accumulated depreciation, either by major classes of depreciable assets or in total, at the balance sheet date
 4. A general description of the method or methods used in computing depreciation with respect to major classes of depreciable assets.
@@ -893,20 +907,32 @@ A long-lived asset to be disposed of other than by sale (for example, by abandon
 
 ### Impairment or Disposal of Long-Lived        Assets
 
-**360-10-50-2** > Impairment of Long-Lived Assets Classified as Held and Used
+**360-10-50-2** Related Proposed ASUs > Impairment of Long-Lived Assets Classified as Held and Used
 All of the following information shall be disclosed in the notes to financial statements that include the period in which an impairment
 1. A description of the impaired long-lived asset (asset group) and the facts and circumstances leading to the impairment
 2. If not separately presented on the face of the statement, the amount of the impairment loss and the caption in the income statement or the statement of activities that includes that loss
 3. The method or methods for determining fair value (whether based on a quoted market price, prices for similar assets, or another valuation technique)
 4. If applicable, the segment in which the impaired long-lived asset (asset group) is reported under Topic 280.
 
+1. A description of the impaired long-lived asset (asset group) and the facts and circumstances leading to the impairment
+2. If not separately presented on the face of the statement, the amount of the impairment loss and the caption in the income statement or the statement of activities that includes that loss
+3. The method or methods for determining fair value (whether based on a quoted market price, prices for similar assets, or another valuation technique)
+4. If applicable, the segment in which the impaired long-lived asset (asset group) is reported under Topic 280.
+
+See paragraphs 220-40-50-21 through 50-25 for additional disclosure requirements.
 **360-10-50-2** All of the following information shall be disclosed in the notes to financial statements that include the period in which an impairment
 1. A description of the impaired long-lived asset (asset group) and the facts and circumstances leading to the impairment
 2. If not separately presented on the face of the statement, the amount of the impairment loss and the caption in the income statement or the statement of activities that includes that loss
 3. The method or methods for determining fair value (whether based on a quoted market price, prices for similar assets, or another valuation technique)
 4. If applicable, the segment in which the impaired long-lived asset (asset group) is reported under Topic 280.
 
-**360-10-50-3** > Long-Lived Assets Classified as Held for Sale or Disposed Of
+1. A description of the impaired long-lived asset (asset group) and the facts and circumstances leading to the impairment
+2. If not separately presented on the face of the statement, the amount of the impairment loss and the caption in the income statement or the statement of activities that includes that loss
+3. The method or methods for determining fair value (whether based on a quoted market price, prices for similar assets, or another valuation technique)
+4. If applicable, the segment in which the impaired long-lived asset (asset group) is reported under Topic 280.
+
+See paragraphs 220-40-50-21 through 50-25
+**360-10-50-3** for additional disclosure requirements.> Long-Lived Assets Classified as Held for Sale or Disposed Of
 For any period in which a long-lived asset (disposal group
 1. A description of the facts and circumstances leading to the disposal or the expected disposal.
 2. The expected manner and timing of that disposal.
@@ -915,6 +941,14 @@ For any period in which a long-lived asset (disposal group
 5. If not separately presented on the face of the statement of financial position, the carrying amount(s) of the major classes of assets and liabilities included as part of a disposal group classified as held for sale. Any loss recognized on the disposal group classified as held for sale in accordance with paragraphs 360-10-35-37 through 35-45 and 360-10-40-5 shall not be allocated to the major classes of assets and liabilities of the disposal group.
 6. If applicable, the segment in which the long-lived asset (disposal group) is reported under Topic 280 on segment reporting.
 
+1. A description of the facts and circumstances leading to the disposal or the expected disposal.
+2. The expected manner and timing of that disposal.
+3. The gain or loss recognized in accordance with paragraphs 360-10-35-37 through 35-45 and 360-10-40-5.
+4. If not separately presented on the face of the statement where net income is reported (or in the statement of activities for a not-for-profit entity), the caption in the statement where net income is reported (or in the statement of activities for a not-for-profit entity) that includes that gain or loss.
+5. If not separately presented on the face of the statement of financial position, the carrying amount(s) of the major classes of assets and liabilities included as part of a disposal group classified as held for sale. Any loss recognized on the disposal group classified as held for sale in accordance with paragraphs 360-10-35-37 through 35-45 and 360-10-40-5 shall not be allocated to the major classes of assets and liabilities of the disposal group.
+6. If applicable, the segment in which the long-lived asset (disposal group) is reported under Topic 280 on segment reporting.
+
+See paragraphs 220-40-50-21 through 50-25 for additional disclosure requirements.
 **360-10-50-3** For any period in which a long-lived asset (disposal group
 1. A description of the facts and circumstances leading to the disposal or the expected disposal.
 2. The expected manner and timing of that disposal.
@@ -923,7 +957,22 @@ For any period in which a long-lived asset (disposal group
 5. If not separately presented on the face of the statement of financial position, the carrying amount(s) of the major classes of assets and liabilities included as part of a disposal group classified as held for sale. Any loss recognized on the disposal group classified as held for sale in accordance with paragraphs 360-10-35-37 through 35-45 and 360-10-40-5 shall not be allocated to the major classes of assets and liabilities of the disposal group.
 6. If applicable, the segment in which the long-lived asset (disposal group) is reported under Topic 280 on segment reporting.
 
-**360-10-50-3A** In addition to the disclosures in paragraph 360-10-50-3, if a long-lived asset (disposal group) includes an individually significant component of an entity
+1. A description of the facts and circumstances leading to the disposal or the expected disposal.
+2. The expected manner and timing of that disposal.
+3. The gain or loss recognized in accordance with paragraphs 360-10-35-37 through 35-45 and 360-10-40-5.
+4. If not separately presented on the face of the statement where net income is reported (or in the statement of activities for a not-for-profit entity), the caption in the statement where net income is reported (or in the statement of activities for a not-for-profit entity) that includes that gain or loss.
+5. If not separately presented on the face of the statement of financial position, the carrying amount(s) of the major classes of assets and liabilities included as part of a disposal group classified as held for sale. Any loss recognized on the disposal group classified as held for sale in accordance with paragraphs 360-10-35-37 through 35-45 and 360-10-40-5 shall not be allocated to the major classes of assets and liabilities of the disposal group.
+6. If applicable, the segment in which the long-lived asset (disposal group) is reported under Topic 280 on segment reporting.
+
+See paragraphs 220-40-50-21 through 50-25
+**360-10-50-3A** for additional disclosure requirements.
+In addition to the disclosures in paragraph 360-10-50-3, if a long-lived asset (disposal group) includes an individually significant component of an entity
+1. The pretax profit or loss (or change in net assets for a not-for-profit entity) of the individually significant component of an entity for the period in which it is disposed of or is classified as held for sale and for all prior periods that are presented in the statement where net income is reported (or statement of activities for a not-for-profit entity) calculated in accordance with paragraphs 205-20-45-6 through 45-9
+2. If the individually significant component of an entity includes a noncontrolling interest, the pretax profit or loss (or change in net assets for a not-for-profit entity) attributable to the parent for the period in which it is disposed of or is classified as held for sale and for all prior periods that are presented in the statement where net income is reported (or statement of activities for a not-for-profit entity).
+
+1. The pretax profit or loss (or change in net assets for a not-for-profit entity) of the individually significant component of an entity for the period in which it is disposed of or is classified as held for sale calculated in accordance with paragraphs 205-20-45-6 through 45-9
+2. If the individually significant component of an entity includes a noncontrolling interest, the pretax profit or loss (or change in net assets for a not-for-profit entity) attributable to the parent for the period in which it is disposed of or is classified as held for sale.
+
 1. The pretax profit or loss (or change in net assets for a not-for-profit entity) of the individually significant component of an entity for the period in which it is disposed of or is classified as held for sale and for all prior periods that are presented in the statement where net income is reported (or statement of activities for a not-for-profit entity) calculated in accordance with paragraphs 205-20-45-6 through 45-9
 2. If the individually significant component of an entity includes a noncontrolling interest, the pretax profit or loss (or change in net assets for a not-for-profit entity) attributable to the parent for the period in which it is disposed of or is classified as held for sale and for all prior periods that are presented in the statement where net income is reported (or statement of activities for a not-for-profit entity).
 
@@ -931,6 +980,12 @@ For any period in which a long-lived asset (disposal group
 2. If the individually significant component of an entity includes a noncontrolling interest, the pretax profit or loss (or change in net assets for a not-for-profit entity) attributable to the parent for the period in which it is disposed of or is classified as held for sale.
 
 **360-10-50-3A** In addition to the disclosures in paragraph 360-10-50-3, if a long-lived asset (disposal group) includes an individually significant component of an entity
+1. The pretax profit or loss (or change in net assets for a not-for-profit entity) of the individually significant component of an entity for the period in which it is disposed of or is classified as held for sale and for all prior periods that are presented in the statement where net income is reported (or statement of activities for a not-for-profit entity) calculated in accordance with paragraphs 205-20-45-6 through 45-9
+2. If the individually significant component of an entity includes a noncontrolling interest, the pretax profit or loss (or change in net assets for a not-for-profit entity) attributable to the parent for the period in which it is disposed of or is classified as held for sale and for all prior periods that are presented in the statement where net income is reported (or statement of activities for a not-for-profit entity).
+
+1. The pretax profit or loss (or change in net assets for a not-for-profit entity) of the individually significant component of an entity for the period in which it is disposed of or is classified as held for sale calculated in accordance with paragraphs 205-20-45-6 through 45-9
+2. If the individually significant component of an entity includes a noncontrolling interest, the pretax profit or loss (or change in net assets for a not-for-profit entity) attributable to the parent for the period in which it is disposed of or is classified as held for sale.
+
 1. The pretax profit or loss (or change in net assets for a not-for-profit entity) of the individually significant component of an entity for the period in which it is disposed of or is classified as held for sale and for all prior periods that are presented in the statement where net income is reported (or statement of activities for a not-for-profit entity) calculated in accordance with paragraphs 205-20-45-6 through 45-9
 2. If the individually significant component of an entity includes a noncontrolling interest, the pretax profit or loss (or change in net assets for a not-for-profit entity) attributable to the parent for the period in which it is disposed of or is classified as held for sale and for all prior periods that are presented in the statement where net income is reported (or statement of activities for a not-for-profit entity).
 
@@ -943,7 +998,7 @@ See paragraph 310-10-50-11 for guidance related to foreclosed and repossessed as
 
 ## 55 Implementation Guidance and Illustrations
 
-> **General Note:** The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
 
 ### Impairment or Disposal of Long-Lived		Assets
 
@@ -1037,7 +1092,7 @@ This Example illustrates the allocation of an impairment loss to the long-lived 
 An entity owns a manufacturing facility that together with other assets is tested for recoverability as a group. In addition to long-lived assets (Assets A-D), the asset group includes inventory measured using first-in, first-out (FIFO), which is reported at the lower of cost and net realizable value
 in accordance with Topic 330, and other current assets and liabilities that are not covered by this Subtopic. The $2.75 million aggregate carrying amount of the asset group is not recoverable and exceeds its fair value by $600,000. In accordance with paragraph 360-10-35-28, the impairment loss of $600,000 would be allocated as shown below to the long-lived assets of the group.
 An entity owns a manufacturing facility that together with other assets is tested for recoverability as a group. In addition to long-lived assets (Assets A-D), the asset group includes inventory measured using first-in, first-out (FIFO), which is reported at the lower of cost and net realizable value
-**360-10-55-22** in accordance with Topic 330, and other current assets and liabilities that are not covered by this Subtopic. The $2.75 million aggregate carrying amount of the asset group is not recoverable and exceeds its fair value by $600,000. In accordance with paragraph 360-10-35-28, the impairment loss of $600,000 would be allocated as shown below to the long-lived assets of the group.
+in accordance with Topic 330, and other current assets and liabilities that are not covered by this Subtopic. The $2.75 million aggregate carrying amount of the asset group is not recoverable and exceeds its fair value by $600,000. In accordance with paragraph 360-10-35-28, the impairment loss of $600,000 would be allocated as shown below to the long-lived assets of the group.
 If the fair value of an individual long-lived asset of an asset group is determinable without undue cost and effort and exceeds the adjusted carrying amount of that asset after an impairment loss is allocated initially, the excess impairment loss initially allocated to that asset would be reallocated to the other long-lived assets of the group. For example, if the fair value of Asset C is $822,000, the excess impairment loss of $100,000 initially allocated to that asset (based on its adjusted carrying amount of $722,000) would be reallocated as shown below to the other long-lived assets of the group on a pro rata basis using the relative adjusted carrying amounts of those assets.
 If the fair value of an individual long-lived asset of an asset group is determinable without undue cost and effort and exceeds the adjusted carrying amount of that asset after an impairment loss is allocated initially, the excess impairment loss initially allocated to that asset would be reallocated to the other long-lived assets of the group. For example, if the fair value of Asset C is $822,000, the excess impairment loss of $100,000 initially allocated to that asset (based on its adjusted carrying amount of $722,000) would be reallocated as shown below to the other long-lived assets of the group on a pro rata basis using the relative adjusted carrying amounts of those assets.
 
@@ -1165,7 +1220,7 @@ In this Example, the entity acknowledges that the carrying amount of the special
 
 ## 60 Relationships
 
-> **General Note:** The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
+General Note:The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
 
 ### General
 
@@ -1175,7 +1230,7 @@ For a discussion of the appropriate accounting affecting property, plant, and eq
 
 ## S00 Status
 
-> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
 ### General
 
@@ -1195,7 +1250,7 @@ For a discussion of the appropriate accounting affecting property, plant, and eq
 
 ## S45 Other Presentation Matters
 
-> **General Note:** The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
 
 ### General
 
@@ -1214,7 +1269,7 @@ See paragraph 360-10-S99-1, SAB Topic 5.B, for SEC Staff views on the presentati
 
 ## S50 Disclosure
 
-> **General Note:** The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
 
 ### General
 
@@ -1224,7 +1279,7 @@ See paragraph 210-10-S99-1, Regulation S-X Rule 5-02.13(a), for required disclos
 
 ## S55 Implementation Guidance and Illustrations
 
-> **General Note:** The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
 
 ### Impairment or Disposal of Long-lived Assets
 
@@ -1237,7 +1292,7 @@ See paragraph 360-10-S99-2, SAB Topic 5.CC, for SEC Staff views on estimating fu
 
 ## S99 SEC Materials
 
-> **General Note:** As more fully described in *About the Codification*, the Codification includes selected SEC and SEC Staff content for reference by public companies. The Codification does not replace or affect how the SEC or SEC Staff issues or updates SEC content. SEC Staff content does not constitute Commission-approved rules or interpretations of the SEC.
+General Note:As more fully described in *About the Codification*, the Codification includes selected SEC and SEC Staff content for reference by public companies. The Codification does not replace or affect how the SEC or SEC Staff issues or updates SEC content. SEC Staff content does not constitute Commission-approved rules or interpretations of the SEC.
 
 ### Impairment or Disposal of Long-lived Assets
 
@@ -1247,8 +1302,550 @@ See paragraph 360-10-S99-2, SAB Topic 5.CC, for SEC Staff views on estimating fu
 The following is the text of SAB Topic 5.B, Gain or Loss from Disposition of Equipment.Facts: Company A has adopted the policy of treating gains and losses from disposition of revenue producing equipment as adjustments to the current year's provision for depreciation. Company B reflects such gains and losses as a separate item in the statement of income.
 Question: Does the staff have any views as to which method is preferable? Interpretive Response: Gains and losses resulting from the disposition of revenue producing equipment should not be treated as adjustments to the provision for depreciation in the year of disposition, but should be shown as a separate item in the statement of income. If such equipment is depreciated on the basis of group of composite accounts for fleets of like vehicles, gains (or losses) may be charged (or credited) to accumulated depreciation with the result that depreciation is adjusted over a period of years on an average basis. It should be noted that the latter treatment would not be appropriate for (1) an enterprise (such as an airline) which replaces its fleet on an episodic rather than a continuing basis or (2) an enterprise (such as a car leasing company) where equipment is sold after limited use so that the equipment on hand is both fairly new and carried at amounts closely related to current acquisition cost.
 **360-10-S99-1** The following is the text of SAB Topic 5.B, Gain or Loss from Disposition of Equipment.Facts: Company A has adopted the policy of treating gains and losses from disposition of revenue producing equipment as adjustments to the current year's provision for depreciation. Company B reflects such gains and losses as a separate item in the statement of income.
-**360-10-S99-2** Question: Does the staff have any views as to which method is preferable? Interpretive Response: Gains and losses resulting from the disposition of revenue producing equipment should not be treated as adjustments to the provision for depreciation in the year of disposition, but should be shown as a separate item in the statement of income. If such equipment is depreciated on the basis of group of composite accounts for fleets of like vehicles, gains (or losses) may be charged (or credited) to accumulated depreciation with the result that depreciation is adjusted over a period of years on an average basis. It should be noted that the latter treatment would not be appropriate for (1) an enterprise (such as an airline) which replaces its fleet on an episodic rather than a continuing basis or (2) an enterprise (such as a car leasing company) where equipment is sold after limited use so that the equipment on hand is both fairly new and carried at amounts closely related to current acquisition cost. · · > SAB Topic 5.CC, Impairments
+Question: Does the staff have any views as to which method is preferable?
+Interpretive Response: Gains and losses resulting from the disposition of revenue producing equipment should not be treated as adjustments to the provision for depreciation in the year of disposition, but should be shown as a separate item in the statement of income.
+If such equipment is depreciated on the basis of group of composite accounts for fleets of like vehicles, gains (or losses) may be charged (or credited) to accumulated depreciation with the result that depreciation is adjusted over a period of years on an average basis. It should be noted that the latter treatment would not be appropriate for (1) an enterprise (such as an airline) which replaces its fleet on an episodic rather than a continuing basis or (2) an enterprise (such as a car leasing company) where equipment is sold after limited use so that the equipment on hand is both fairly new and carried at amounts closely related to current acquisition cost.
+**360-10-S99-2** · · > SAB Topic 5.CC, Impairments
 The following is the text of SAB Topic 5.CC, Impairments.Standards for recognizing and measuring impairment of the carrying amount of long-lived assets including certain identifiable intangibles to be held and used in operations are found in FASB ASC Topic 360, Property, Plant, and Equipment. Standards for recognizing and measuring impairment of the carrying amount of goodwill and identifiable intangible assets that are not currently being amortized are found in FASB ASC Topic 350, Intangibles—Goodwill and Other.
 Facts: Company X has mainframe computers that are to be abandoned in six to nine months as replacement computers are put in place. The mainframe computers were placed in service in January 20X0 and were being depreciated on a straight-line basis over seven years. No salvage value had been projected at the end of seven years and the original cost of the computers was $8,400. The board of directors, with the appropriate authority, approved the abandonment of the computers in March 20X3 when the computers had a remaining carrying value of $4,600. No proceeds are expected upon abandonment. Abandonment cannot occur prior to the receipt and installation of replacement computers, which is expected prior to the end of 20X3. Management had begun reevaluating its mainframe computer capabilities in January 20X2 and had included in its 20X3 capital expenditures budget an estimated amount for new mainframe computers. The 20X3 capital expenditures budget had been prepared by management in August 20X2, had been discussed with the company's board of directors in September 20X2 and was formally approved by the board of directors in March 20X3. Management had also begun soliciting bids for new mainframe computers beginning in the fall of 20X2. The mainframe computers, when grouped with assets at the lowest level of identifiable cash flows, were not impaired on a "held and used" basis throughout this time period. Management had not adjusted the original estimated useful life of the computers (seven years) since 20X0. Question 1: Company X proposes to recognize an impairment charge under FASB ASC Topic 360 for the carrying value of the mainframe computers of $4,600 in March 20X3. Does Company X meet the requirements in FASB ASC Topic 360 to classify the mainframe computer assets as "to be abandoned?" Interpretive Response: No. FASB ASC paragraph 360-10-35-47 provides that "a long-lived asset to be abandoned is disposed of when it ceases to be used. If an entity commits to a plan to abandon a long-lived asset before the end of its previously estimated useful life, depreciation estimates shall be revised in accordance with FASB ASC Topic 250, Accounting Changes and Error Corrections, to reflect the use of the asset over its shortened useful life." Question 2: Would the staff accept an adjustment to write down the carrying value of the computers to reflect a "normalized depreciation" rate for the period from March 20X3 through actual abandonment (e. g., December 20X3)? Normalized depreciation would represent the amount of depreciation otherwise expected to be recognized during that period without adjustment of the asset's useful life, or $1,000 ($100/month for ten months) in the example fact pattern. Interpretive Response: No. The mainframe computers would be viewed as "held and used" at March 20X3 under the fact pattern described. There is no basis under FASB ASC Topic 360 to write down an asset to an amount that would subsequently result in a "normalized depreciation" charge through the disposal date, whether disposal is to be by sale, abandonment, or other means. FASB ASC paragraph 360-10-35-43 requires the asset to be valued at the lower of carrying amount or fair value less cost to sell in order to be classified as "held for sale." For assets that are classified as "held and used" under FASB ASC Topic 360, an assessment must first be made as to whether the asset (asset group) is impaired. FASB ASC paragraph 360-10-35-17 indicates that an impairment loss shall be recognized only if the carrying amount of a long-lived asset (asset group) is not recoverable and exceeds its fair value. The carrying amount of a long-lived asset (asset group) is not recoverable if it exceeds the sum of the undiscounted cash flows expected to result from the use and eventual disposition of the asset (asset group). The staff would object to a write down of long-lived assets to a "normalized depreciation" value as representing an acceptable alternative to the approaches required in FASB ASC Topic 360. The staff also believes that registrants must continually evaluate the appropriateness of useful lives assigned to long-lived assets, including identifiable intangible assets and goodwill. In the above fact pattern, management had contemplated removal of the mainframe computers beginning in January 20X2 and, more formally, in August 20X2 as part of compiling the 20X3 capital expenditures budget. At those times, at a minimum, management should have reevaluated the original useful life assigned to the computers to determine whether a seven year amortization period remained appropriate given the company's current facts and circumstances, including ongoing technological changes in the market place. This reevaluation process should have continued at the time of the September 20X2 board of directors' meeting to discuss capital expenditure plans and, further, as the company pursued mainframe computer bids. Given the contemporaneous evidence that management's best estimate during much of 20X2 was that the current mainframe computers would be removed from service in 20X3, the depreciable life of the computers should have been adjusted prior to 20X3 to reflect this new estimate. The staff does not view the recognition of an impairment charge to be an acceptable substitute for choosing the appropriate initial amortization or depreciation period or subsequently adjusting this period as company or industry conditions change. The staff's view applies also to selection of, and changes to, estimated residual values. Consequently, the staff may challenge impairment charges for which the timely evaluation of useful life and residual value cannot be demonstrated. Question 3: Has the staff expressed any views with respect to company-determined estimates of cash flows used for assessing and measuring impairment of assets under FASB ASC Topic 360? Interpretive Response: In providing guidance on the development of cash flows for purposes of applying the provisions of that Topic, FASB ASC paragraph 360-10-35-30 indicates that "estimates of future cash flows used to test the recoverability of a long-lived asset (asset group) shall incorporate the entity's own assumptions about its use of the asset (asset group) and shall consider all available evidence. The assumptions used in developing those estimates shall be reasonable in relation to the assumptions used in developing other information used by the entity for comparable periods, such as internal budgets and projections, accruals related to incentive compensation plans, or information communicated to others." The staff recognizes that various factors, including management's judgments and assumptions about the business plans and strategies, affect the development of future cash flow projections for purposes of applying FASB ASC Topic 360. The staff, however, cautions registrants that the judgments and assumptions made for purposes of applying FASB ASC Topic 360 must be consistent with other financial statement calculations and disclosures and disclosures in MD&A. The staff also expects that forecasts made for purposes of applying FASB ASC Topic 360 be consistent with other forward-looking information prepared by the company, such as that used for internal budgets, incentive compensation plans, discussions with lenders or third parties, and/or reporting to management or the board of directors. For example, the staff has reviewed a fact pattern where a registrant developed cash flow projections for purposes of applying the provisions of FASB ASC Topic 360 using one set of assumptions and utilized a second, more conservative set of assumptions for purposes of determining whether deferred tax valuation allowances were necessary when applying the provisions of FASB ASC Topic 740, Income Taxes. In this case, the staff objected to the use of inconsistent assumptions. In addition to disclosure of key assumptions used in the development of cash flow projections, the staff also has required discussion in MD&A of the implications of assumptions. For example, do the projections indicate that a company is likely to violate debt covenants in the future? What are the ramifications to the cash flow projections used in the impairment analysis? If growth rates used in the impairment analysis are lower than those used by outside analysts, has the company had discussions with the analysts regarding their overly optimistic projections? Has the company appropriately informed the market and its shareholders of its reduced expectations for the future that are sufficient to cause an impairment charge? The staff believes that cash flow projections used in the impairment analysis must be both internally consistent with the company's other projections and externally consistent with financial statement and other public disclosures.
 **360-10-S99-2** The following is the text of SAB Topic 5.CC, Impairments.Standards for recognizing and measuring impairment of the carrying amount of long-lived assets including certain identifiable intangibles to be held and used in operations are found in FASB ASC Topic 360, Property, Plant, and Equipment. Standards for recognizing and measuring impairment of the carrying amount of goodwill and identifiable intangible assets that are not currently being amortized are found in FASB ASC Topic 350, Intangibles—Goodwill and Other.
-Facts: Company X has mainframe computers that are to be abandoned in six to nine months as replacement computers are put in place. The mainframe computers were placed in service in January 20X0 and were being depreciated on a straight-line basis over seven years. No salvage value had been projected at the end of seven years and the original cost of the computers was $8,400. The board of directors, with the appropriate authority, approved the abandonment of the computers in March 20X3 when the computers had a remaining carrying value of $4,600. No proceeds are expected upon abandonment. Abandonment cannot occur prior to the receipt and installation of replacement computers, which is expected prior to the end of 20X3. Management had begun reevaluating its mainframe computer capabilities in January 20X2 and had included in its 20X3 capital expenditures budget an estimated amount for new mainframe computers. The 20X3 capital expenditures budget had been prepared by management in August 20X2, had been discussed with the company's board of directors in September 20X2 and was formally approved by the board of directors in March 20X3. Management had also begun soliciting bids for new mainframe computers beginning in the fall of 20X2. The mainframe computers, when grouped with assets at the lowest level of identifiable cash flows, were not impaired on a "held and used" basis throughout this time period. Management had not adjusted the original estimated useful life of the computers (seven years) since 20X0. Question 1: Company X proposes to recognize an impairment charge under FASB ASC Topic 360 for the carrying value of the mainframe computers of $4,600 in March 20X3. Does Company X meet the requirements in FASB ASC Topic 360 to classify the mainframe computer assets as "to be abandoned?" Interpretive Response: No. FASB ASC paragraph 360-10-35-47 provides that "a long-lived asset to be abandoned is disposed of when it ceases to be used. If an entity commits to a plan to abandon a long-lived asset before the end of its previously estimated useful life, depreciation estimates shall be revised in accordance with FASB ASC Topic 250, Accounting Changes and Error Corrections, to reflect the use of the asset over its shortened useful life." Question 2: Would the staff accept an adjustment to write down the carrying value of the computers to reflect a "normalized depreciation" rate for the period from March 20X3 through actual abandonment (e. g., December 20X3)? Normalized depreciation would represent the amount of depreciation otherwise expected to be recognized during that period without adjustment of the asset's useful life, or $1,000 ($100/month for ten months) in the example fact pattern. Interpretive Response: No. The mainframe computers would be viewed as "held and used" at March 20X3 under the fact pattern described. There is no basis under FASB ASC Topic 360 to write down an asset to an amount that would subsequently result in a "normalized depreciation" charge through the disposal date, whether disposal is to be by sale, abandonment, or other means. FASB ASC paragraph 360-10-35-43 requires the asset to be valued at the lower of carrying amount or fair value less cost to sell in order to be classified as "held for sale." For assets that are classified as "held and used" under FASB ASC Topic 360, an assessment must first be made as to whether the asset (asset group) is impaired. FASB ASC paragraph 360-10-35-17 indicates that an impairment loss shall be recognized only if the carrying amount of a long-lived asset (asset group) is not recoverable and exceeds its fair value. The carrying amount of a long-lived asset (asset group) is not recoverable if it exceeds the sum of the undiscounted cash flows expected to result from the use and eventual disposition of the asset (asset group). The staff would object to a write down of long-lived assets to a "normalized depreciation" value as representing an acceptable alternative to the approaches required in FASB ASC Topic 360. The staff also believes that registrants must continually evaluate the appropriateness of useful lives assigned to long-lived assets, including identifiable intangible assets and goodwill. In the above fact pattern, management had contemplated removal of the mainframe computers beginning in January 20X2 and, more formally, in August 20X2 as part of compiling the 20X3 capital expenditures budget. At those times, at a minimum, management should have reevaluated the original useful life assigned to the computers to determine whether a seven year amortization period remained appropriate given the company's current facts and circumstances, including ongoing technological changes in the market place. This reevaluation process should have continued at the time of the September 20X2 board of directors' meeting to discuss capital expenditure plans and, further, as the company pursued mainframe computer bids. Given the contemporaneous evidence that management's best estimate during much of 20X2 was that the current mainframe computers would be removed from service in 20X3, the depreciable life of the computers should have been adjusted prior to 20X3 to reflect this new estimate. The staff does not view the recognition of an impairment charge to be an acceptable substitute for choosing the appropriate initial amortization or depreciation period or subsequently adjusting this period as company or industry conditions change. The staff's view applies also to selection of, and changes to, estimated residual values. Consequently, the staff may challenge impairment charges for which the timely evaluation of useful life and residual value cannot be demonstrated. Question 3: Has the staff expressed any views with respect to company-determined estimates of cash flows used for assessing and measuring impairment of assets under FASB ASC Topic 360? Interpretive Response: In providing guidance on the development of cash flows for purposes of applying the provisions of that Topic, FASB ASC paragraph 360-10-35-30 indicates that "estimates of future cash flows used to test the recoverability of a long-lived asset (asset group) shall incorporate the entity's own assumptions about its use of the asset (asset group) and shall consider all available evidence. The assumptions used in developing those estimates shall be reasonable in relation to the assumptions used in developing other information used by the entity for comparable periods, such as internal budgets and projections, accruals related to incentive compensation plans, or information communicated to others." The staff recognizes that various factors, including management's judgments and assumptions about the business plans and strategies, affect the development of future cash flow projections for purposes of applying FASB ASC Topic 360. The staff, however, cautions registrants that the judgments and assumptions made for purposes of applying FASB ASC Topic 360 must be consistent with other financial statement calculations and disclosures and disclosures in MD&A. The staff also expects that forecasts made for purposes of applying FASB ASC Topic 360 be consistent with other forward-looking information prepared by the company, such as that used for internal budgets, incentive compensation plans, discussions with lenders or third parties, and/or reporting to management or the board of directors. For example, the staff has reviewed a fact pattern where a registrant developed cash flow projections for purposes of applying the provisions of FASB ASC Topic 360 using one set of assumptions and utilized a second, more conservative set of assumptions for purposes of determining whether deferred tax valuation allowances were necessary when applying the provisions of FASB ASC Topic 740, Income Taxes. In this case, the staff objected to the use of inconsistent assumptions. In addition to disclosure of key assumptions used in the development of cash flow projections, the staff also has required discussion in MD&A of the implications of assumptions. For example, do the projections indicate that a company is likely to violate debt covenants in the future? What are the ramifications to the cash flow projections used in the impairment analysis? If growth rates used in the impairment analysis are lower than those used by outside analysts, has the company had discussions with the analysts regarding their overly optimistic projections? Has the company appropriately informed the market and its shareholders of its reduced expectations for the future that are sufficient to cause an impairment charge? The staff believes that cash flow projections used in the impairment analysis must be both internally consistent with the company's other projections and externally consistent with financial statement and other public disclosures.
+Facts: Company X has mainframe computers that are to be abandoned in six to nine months as replacement computers are put in place. The mainframe computers were placed in service in January 20X0 and were being depreciated on a straight-line basis over seven years. No salvage value had been projected at the end of seven years and the original cost of the computers was $8,400. The board of directors, with the appropriate authority, approved the abandonment of the computers in March 20X3 when the computers had a remaining carrying value of $4,600. No proceeds are expected upon abandonment. Abandonment cannot occur prior to the receipt and installation of replacement computers, which is expected prior to the end of 20X3. Management had begun reevaluating its mainframe computer capabilities in January 20X2 and had included in its 20X3 capital expenditures budget an estimated amount for new mainframe computers. The 20X3 capital expenditures budget had been prepared by management in August 20X2, had been discussed with the company's board of directors in September 20X2 and was formally approved by the board of directors in March 20X3. Management had also begun soliciting bids for new mainframe computers beginning in the fall of 20X2. The mainframe computers, when grouped with assets at the lowest level of identifiable cash flows, were not impaired on a "held and used" basis throughout this time period. Management had not adjusted the original estimated useful life of the computers (seven years) since 20X0.
+Question 1: Company X proposes to recognize an impairment charge under FASB ASC Topic 360 for the carrying value of the mainframe computers of $4,600 in March 20X3. Does Company X meet the requirements in FASB ASC Topic 360 to classify the mainframe computer assets as "to be abandoned?"
+Interpretive Response: No. FASB ASC paragraph 360-10-35-47 provides that "a long-lived asset to be abandoned is disposed of when it ceases to be used. If an entity commits to a plan to abandon a long-lived asset before the end of its previously estimated useful life, depreciation estimates shall be revised in accordance with FASB ASC Topic 250, Accounting Changes and Error Corrections, to reflect the use of the asset over its shortened useful life."
+Question 2: Would the staff accept an adjustment to write down the carrying value of the computers to reflect a "normalized depreciation" rate for the period from March 20X3 through actual abandonment (e. g., December 20X3)? Normalized depreciation would represent the amount of depreciation otherwise expected to be recognized during that period without adjustment of the asset's useful life, or $1,000 ($100/month for ten months) in the example fact pattern.
+Interpretive Response: No. The mainframe computers would be viewed as "held and used" at March 20X3 under the fact pattern described. There is no basis under FASB ASC Topic 360 to write down an asset to an amount that would subsequently result in a "normalized depreciation" charge through the disposal date, whether disposal is to be by sale, abandonment, or other means. FASB ASC paragraph 360-10-35-43 requires the asset to be valued at the lower of carrying amount or fair value less cost to sell in order to be classified as "held for sale." For assets that are classified as "held and used" under FASB ASC Topic 360, an assessment must first be made as to whether the asset (asset group) is impaired. FASB ASC paragraph 360-10-35-17 indicates that an impairment loss shall be recognized only if the carrying amount of a long-lived asset (asset group) is not recoverable and exceeds its fair value. The carrying amount of a long-lived asset (asset group) is not recoverable if it exceeds the sum of the undiscounted cash flows expected to result from the use and eventual disposition of the asset (asset group). The staff would object to a write down of long-lived assets to a "normalized depreciation" value as representing an acceptable alternative to the approaches required in FASB ASC Topic 360.
+The staff also believes that registrants must continually evaluate the appropriateness of useful lives assigned to long-lived assets, including identifiable intangible assets and goodwill. In the above fact pattern, management had contemplated removal of the mainframe computers beginning in January 20X2 and, more formally, in August 20X2 as part of compiling the 20X3 capital expenditures budget. At those times, at a minimum, management should have reevaluated the original useful life assigned to the computers to determine whether a seven year amortization period remained appropriate given the company's current facts and circumstances, including ongoing technological changes in the market place. This reevaluation process should have continued at the time of the September 20X2 board of directors' meeting to discuss capital expenditure plans and, further, as the company pursued mainframe computer bids. Given the contemporaneous evidence that management's best estimate during much of 20X2 was that the current mainframe computers would be removed from service in 20X3, the depreciable life of the computers should have been adjusted prior to 20X3 to reflect this new estimate. The staff does not view the recognition of an impairment charge to be an acceptable substitute for choosing the appropriate initial amortization or depreciation period or subsequently adjusting this period as company or industry conditions change. The staff's view applies also to selection of, and changes to, estimated residual values. Consequently, the staff may challenge impairment charges for which the timely evaluation of useful life and residual value cannot be demonstrated.
+Question 3: Has the staff expressed any views with respect to company-determined estimates of cash flows used for assessing and measuring impairment of assets under FASB ASC Topic 360?
+Interpretive Response: In providing guidance on the development of cash flows for purposes of applying the provisions of that Topic, FASB ASC paragraph 360-10-35-30 indicates that "estimates of future cash flows used to test the recoverability of a long-lived asset (asset group) shall incorporate the entity's own assumptions about its use of the asset (asset group) and shall consider all available evidence. The assumptions used in developing those estimates shall be reasonable in relation to the assumptions used in developing other information used by the entity for comparable periods, such as internal budgets and projections, accruals related to incentive compensation plans, or information communicated to others."
+The staff recognizes that various factors, including management's judgments and assumptions about the business plans and strategies, affect the development of future cash flow projections for purposes of applying FASB ASC Topic 360. The staff, however, cautions registrants that the judgments and assumptions made for purposes of applying FASB ASC Topic 360 must be consistent with other financial statement calculations and disclosures and disclosures in MD&A. The staff also expects that forecasts made for purposes of applying FASB ASC Topic 360 be consistent with other forward-looking information prepared by the company, such as that used for internal budgets, incentive compensation plans, discussions with lenders or third parties, and/or reporting to management or the board of directors.
+For example, the staff has reviewed a fact pattern where a registrant developed cash flow projections for purposes of applying the provisions of FASB ASC Topic 360 using one set of assumptions and utilized a second, more conservative set of assumptions for purposes of determining whether deferred tax valuation allowances were necessary when applying the provisions of FASB ASC Topic 740, Income Taxes. In this case, the staff objected to the use of inconsistent assumptions.
+In addition to disclosure of key assumptions used in the development of cash flow projections, the staff also has required discussion in MD&A of the implications of assumptions. For example, do the projections indicate that a company is likely to violate debt covenants in the future? What are the ramifications to the cash flow projections used in the impairment analysis? If growth rates used in the impairment analysis are lower than those used by outside analysts, has the company had discussions with the analysts regarding their overly optimistic projections? Has the company appropriately informed the market and its shareholders of its reduced expectations for the future that are sufficient to cause an impairment charge? The staff believes that cash flow projections used in the impairment analysis must be both internally consistent with the company's other projections and externally consistent with financial statement and other public disclosures.
+
+## 00 Status
+
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+
+### General
+
+**360-20-00-1** The following table identifies the changes made to this Subtopic.
+
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Conduit Debt Securities | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Conduit Debt Security | Added | Maintenance Update 2014-20 | 09/29/2014 |
+| Cost Recovery Method | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Deposit Method | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Fair Value (2nd def.) | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Fair Value (3rd def.) | Added | Accounting Standards Update No. 2012-04 | 10/01/2012 |
+| Installment Method | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Integral Equipment | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Market Participants | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Nonpublic Entity (1st def.) | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Nonpublic Entity (1st def.) | Amended | Maintenance Update 2014-20 | 09/29/2014 |
+| Orderly Transaction | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Reduced-Profit Method | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Related Parties | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Sale-Leaseback Accounting | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Sale-Leaseback Accounting | Added | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 360-10-05-1 | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 360-20-05-1 | Amended | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 360-10-05-2 | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 360-10-15-1 through 15-6 | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 360-20-15-1 through 15-3 | Amended | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 360-20-15-3 | Amended | Accounting Standards Update No. 2011-10 | 12/14/2011 |
+| 360-20-15-4 | Amended | Accounting Standards Update No. 2012-04 | 10/01/2012 |
+| 360-20-15-5 | Amended | Accounting Standards Update No. 2012-04 | 10/01/2012 |
+| 360-20-15-7 | Amended | Accounting Standards Update No. 2012-04 | 10/01/2012 |
+| 360-20-15-8 | Amended | Accounting Standards Update No. 2012-04 | 10/01/2012 |
+| 360-20-15-10 | Amended | Accounting Standards Update No. 2016-01 | 01/05/2016 |
+| 360-20-40-1 through 40-64 | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 360-20-55-1 through 55-10 | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 360-20-55-2 | Amended | Maintenance Update 2016-17 | 09/02/2016 |
+| 360-20-55-3 | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| 360-20-55-10 | Amended | Maintenance Update 2016-11 | 06/27/2016 |
+| 360-20-55-10 | Amended | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 360-20-55-11 | Superseded | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 360-20-55-12 through 55-17 | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 360-20-55-18 | Superseded | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 360-20-55-19 through 55-67 | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 360-20-55-21 | Amended | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 360-20-55-68 through 55-77 | Superseded | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 360-20-55-68 through 55-77 | Added | Accounting Standards Update No. 2011-10 | 12/14/2011 |
+| 360-20-60-1 through 60-3 | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 360-20-65-2 | Added | Accounting Standards Update No. 2011-10 | 12/14/2011 |
+
+
+**360-20-00-1** The following table identifies the changes made to this Subtopic.
+
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Conduit Debt Securities | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Conduit Debt Security | Added | Maintenance Update 2014-20 | 09/29/2014 |
+| Cost Recovery Method | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Deposit Method | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Fair Value (2nd def.) | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Fair Value (3rd def.) | Added | Accounting Standards Update No. 2012-04 | 10/01/2012 |
+| Installment Method | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Integral Equipment | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Market Participants | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Nonpublic Entity (1st def.) | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Nonpublic Entity (1st def.) | Amended | Maintenance Update 2014-20 | 09/29/2014 |
+| Orderly Transaction | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Reduced-Profit Method | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Related Parties | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Sale-Leaseback Accounting | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Sale-Leaseback Accounting | Added | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 360-10-05-1 | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 360-20-05-1 | Amended | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 360-10-05-2 | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 360-10-15-1 through 15-6 | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 360-20-15-1 through 15-3 | Amended | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 360-20-15-3 | Amended | Accounting Standards Update No. 2011-10 | 12/14/2011 |
+| 360-20-15-4 | Amended | Accounting Standards Update No. 2012-04 | 10/01/2012 |
+| 360-20-15-5 | Amended | Accounting Standards Update No. 2012-04 | 10/01/2012 |
+| 360-20-15-7 | Amended | Accounting Standards Update No. 2012-04 | 10/01/2012 |
+| 360-20-15-8 | Amended | Accounting Standards Update No. 2012-04 | 10/01/2012 |
+| 360-20-15-10 | Amended | Accounting Standards Update No. 2016-01 | 01/05/2016 |
+| 360-20-40-1 through 40-64 | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 360-20-55-1 through 55-10 | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 360-20-55-2 | Amended | Maintenance Update 2016-17 | 09/02/2016 |
+| 360-20-55-3 | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| 360-20-55-10 | Amended | Maintenance Update 2016-11 | 06/27/2016 |
+| 360-20-55-10 | Amended | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 360-20-55-11 | Superseded | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 360-20-55-12 through 55-17 | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 360-20-55-18 | Superseded | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 360-20-55-19 through 55-67 | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 360-20-55-21 | Amended | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 360-20-55-68 through 55-77 | Superseded | Accounting Standards Update No. 2014-09 | 05/28/2014 |
+| 360-20-55-68 through 55-77 | Added | Accounting Standards Update No. 2011-10 | 12/14/2011 |
+| 360-20-60-1 through 60-3 | Superseded | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 360-20-65-2 | Added | Accounting Standards Update No. 2011-10 | 12/14/2011 |
+
+## 05 Overview and Background
+
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+
+### General
+
+Paragraph superseded by Accounting Standards Update No. 2016-02.
+Paragraph superseded by Accounting Standards Update No. 2016-02.
+Paragraph superseded by Accounting Standards Update No. 2016-02.
+Paragraph superseded by Accounting Standards Update No. 2016-02.
+
+## 15 Scope and Scope Exceptions
+
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+
+General Note for Financial Instruments:Some of the items subject to the guidance in this Subtopic are financial instruments
+
+### General
+
+**360-20-15-1** . For guidance on matters related broadly to all financial instruments, (including the fair value option, accounting for registration payment arrangements, and broad financial instrument disclosure requirements), see Topic 825. See Section 825-10-15 for guidance on the scope of the Financial Instruments Topic.
+Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-15-1** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-15-2** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-15-2** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-15-3** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-15-3** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-15-4** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-15-4** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-15-5** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-15-5** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-15-6** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-15-6** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-15-7** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-15-7** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-15-8** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-15-8** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-15-9** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-15-9** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-15-10** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-15-10** Paragraph superseded by Accounting Standards Update No. 2016-02.
+
+## 20 Glossary
+
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+
+##### Conduit Debt Securities
+
+Certain limited-obligation revenue bonds, certificates of participation, or similar debt instruments issued by a state or local governmental entity for the express purpose of providing financing for a specific third party (the conduit bond obligor) that is not a part of the state or local government's financial reporting entity. Although conduit debt securities bear the name of the governmental entity that issues them, the governmental entity often has no obligation for such debt beyond the resources provided by a lease or loan agreement with the third party on whose behalf the securities are issued. Further, the conduit bond obligor is responsible for any future financial reporting requirements.
+Certain limited-obligation revenue bonds, certificates of participation, or similar debt instruments issued by a state or local governmental entity for the express purpose of providing financing for a specific third party (the conduit bond obligor) that is not a part of the state or local government's financial reporting entity. Although conduit debt securities bear the name of the governmental entity that issues them, the governmental entity often has no obligation for such debt beyond the resources provided by a lease or loan agreement with the third party on whose behalf the securities are issued. Further, the conduit bond obligor is responsible for any future financial reporting requirements.
+
+##### Fair Value
+
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+
+##### Market Participants
+
+1. They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
+3. They are able to enter into a transaction for the asset or liability
+4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
+
+They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
+3. They are able to enter into a transaction for the asset or liability
+4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
+
+##### Nonpublic Entity
+
+1. Its debt or equity securities trade in a public market either on a stock exchange (domestic or foreign) or in an over-the-counter market, including securities quoted only locally or regionally.
+2. It is a conduit bond obligor for conduit debt securities that are traded in a public market (a domestic or foreign stock exchange or an over-the-counter market, including local or regional markets).
+3. It files with a regulatory agency in preparation for the sale of any class of debt or equity securities in a public market.
+4. It is required to file or furnish financial statements with the Securities and Exchange Commission.
+5. It is controlled by an entity covered by criteria (a) through (d).
+
+Its debt or equity securities trade in a public market either on a stock exchange (domestic or foreign) or in an over-the-counter market, including securities quoted only locally or regionally.
+2. It is a conduit bond obligor for conduit debt securities that are traded in a public market (a domestic or foreign stock exchange or an over-the-counter market, including local or regional markets).
+3. It files with a regulatory agency in preparation for the sale of any class of debt or equity securities in a public market.
+4. It is required to file or furnish financial statements with the Securities and Exchange Commission.
+5. It is controlled by an entity covered by criteria (a) through (d).
+
+##### Orderly Transaction
+
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
+
+##### Related Parties
+
+1. Affiliates of the entity
+2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
+3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
+4. Principal owners of the entity and members of their immediate families
+5. Management of the entity and members of their immediate families
+6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
+7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
+
+Affiliates of the entity
+2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
+3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
+4. Principal owners of the entity and members of their immediate families
+5. Management of the entity and members of their immediate families
+6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
+7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
+
+## 40 Derecognition
+
+General Note:The Derecognition Section provides guidance on determining whether and when an entity should remove an item from the financial statements. For example, the entity would derecognize an asset because it no longer has rights to the asset or it would derecognize a liability because it no longer has any obligation.
+
+### General
+
+**360-20-40-1** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-1** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-2** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-2** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-3** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-3** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-4** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-4** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-5** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-5** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-6** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-6** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-7** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-7** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-8** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-8** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-9** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-9** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-10** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-10** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-11** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-11** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-12** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-12** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-13** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-13** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-14** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-14** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-15** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-15** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-16** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-16** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-17** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-17** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-18** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-18** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-19** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-19** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-20** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-20** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-21** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-21** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-22** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-22** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-23** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-23** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-24** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-24** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-25** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-25** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-26** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-26** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-27** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-27** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-28** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-28** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-29** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-29** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-30** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-30** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-31** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-31** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-32** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-32** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-33** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-33** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-34** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-34** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-35** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-35** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-36** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-36** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-37** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-37** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-38** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-38** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-39** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-39** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-40** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-40** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-41** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-41** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-42** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-42** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-43** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-43** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-44** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-44** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-45** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-45** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-46** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-46** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-47** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-47** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-48** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-48** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-49** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-49** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-50** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-50** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-51** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-51** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-52** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-52** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-53** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-53** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-54** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-54** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-55** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-55** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-56** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-56** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-57** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-57** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-58** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-58** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-59** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-59** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-60** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-60** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-61** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-61** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-62** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-62** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-63** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-63** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-64** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-40-64** Paragraph superseded by Accounting Standards Update No. 2016-02.
+
+## 55 Implementation Guidance and Illustrations
+
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+
+### General
+
+**360-20-55-1** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-1** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-2** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-2** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-3** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-3** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-4** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-4** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-5** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-5** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-6** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-6** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-7** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-7** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-8** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-8** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-9** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-9** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-10** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-10** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-11** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**360-20-55-11** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**360-20-55-12** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-12** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-13** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-13** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-14** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-14** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-15** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-15** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-16** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-16** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-17** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-17** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-18** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**360-20-55-18** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**360-20-55-19** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-19** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-20** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-20** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-21** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-21** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-21A** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-21A** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-22** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-22** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-23** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-23** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-24** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-24** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-25** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-25** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-26** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-26** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-27** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-27** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-28** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-28** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-29** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-29** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-30** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-30** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-31** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-31** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-32** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-32** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-33** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-33** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-34** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-34** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-35** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-35** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-36** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-36** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-37** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-37** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-38** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-38** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-39** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-39** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-40** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-40** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-41** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-41** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-42** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-42** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-43** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-43** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-44** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-44** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-45** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-45** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-46** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-46** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-47** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-47** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-48** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-48** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-49** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-49** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-50** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-50** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-51** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-51** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-52** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-52** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-53** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-53** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-54** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-54** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-55** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-55** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-56** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-56** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-57** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-57** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-58** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-58** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-59** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-59** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-60** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-60** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-61** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-61** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-62** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-62** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-63** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-63** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-64** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-64** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-65** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-65** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-66** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-66** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-67** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-67** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-55-68** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**360-20-55-68** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**360-20-55-69** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**360-20-55-69** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**360-20-55-70** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**360-20-55-70** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**360-20-55-71** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**360-20-55-71** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**360-20-55-72** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**360-20-55-72** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**360-20-55-73** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**360-20-55-73** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**360-20-55-74** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**360-20-55-74** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**360-20-55-75** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**360-20-55-75** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**360-20-55-76** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**360-20-55-76** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**360-20-55-77** Paragraph superseded by Accounting Standards Update No. 2014-09.
+**360-20-55-77** Paragraph superseded by Accounting Standards Update No. 2014-09.
+
+## 60 Relationships
+
+General Note:The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
+
+### General
+
+**360-20-60-1** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-60-1** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-60-2** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-60-2** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-60-3** Paragraph superseded by Accounting Standards Update No. 2016-02.
+**360-20-60-3** Paragraph superseded by Accounting Standards Update No. 2016-02.
+
+## 65 Transition and Open Effective Date Information
+
+General Note:The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
+
+### General
+
+**360-20-65-1** Paragraph superseded on 03/23/2010 after the end of the transition period stated in EITF Issue No. 07-6, "Accounting for the Sale of Real Estate Subject to the Requirements of FASB Statement No. 66 When the Agreement Includes a Buy-Sell Clause."
+**360-20-65-1** Paragraph superseded on 03/23/2010 after the end of the transition period stated in EITF Issue No. 07-6, "Accounting for the Sale of Real Estate Subject to the Requirements of FASB Statement No. 66 When the Agreement Includes a Buy-Sell Clause."
+**360-20-65-2** Paragraph superseded on 06/26/2015 after the end of the transition period stated in Accounting Standards Update No. 2011-10, *Property, Plant, and Equipment (Topic 360): Derecognition of in Substance Real Estate—a Scope Clarification*.
+**360-20-65-2** Paragraph superseded on 06/26/2015 after the end of the transition period stated in Accounting Standards Update No. 2011-10, *Property, Plant, and Equipment (Topic 360): Derecognition of in Substance Real Estate—a Scope Clarification*.

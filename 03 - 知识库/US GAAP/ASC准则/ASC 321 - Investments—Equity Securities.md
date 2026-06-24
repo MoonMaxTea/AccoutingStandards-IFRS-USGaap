@@ -13,7 +13,7 @@ subtopics: ["321-10"]
 
 ## 00 Status
 
-> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
 ### General
 
@@ -97,7 +97,7 @@ subtopics: ["321-10"]
 
 ## 05 Background
 
-> **General Note:** The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
 
 ### General
 
@@ -117,7 +117,7 @@ subtopics: ["321-10"]
 
 ## 15 Scope and Scope Exceptions
 
-> **General Note:** The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
 
 ### General
 
@@ -158,10 +158,11 @@ Derivative instruments that are subject to the requirements of Topic 815, includ
 
 **321-10-15-6** Paragraph 815-10-15-141 explains that the guidance in the Certain Contracts on Debt and Equity Securities Subsections applies to those forward contracts and purchased options that are not derivative instruments subject to Topic 815 but that involve the acquisition of securities that will be accounted for under Topic 321. Paragraph 815-10-15-141A provides guidance on applying the guidance in paragraph 815-10-15-141 to forward contracts and purchased options to purchase securities within the scope of Topic 321.
 **321-10-15-6** Paragraph 815-10-15-141 explains that the guidance in the Certain Contracts on Debt and Equity Securities Subsections applies to those forward contracts and purchased options that are not derivative instruments subject to Topic 815 but that involve the acquisition of securities that will be accounted for under Topic 321. Paragraph 815-10-15-141A provides guidance on applying the guidance in paragraph 815-10-15-141 to forward contracts and purchased options to purchase securities within the scope of Topic 321.
+**321-10-15-7** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:606-10-65-3An entity shall not apply the guidance in this Topic to share-based noncash consideration from a customer for the transfer of goods or services unless and until the entity’s right to receive or retain the share-based noncash consideration is unconditional under Topic 606 in accordance with paragraph 606-10-15-3A. Similarly, an entity shall not apply the guidance in this Topic to share-based noncash consideration from a counterparty for the transfer of nonfinancial assets or in substance nonfinancial assets unless and until the entity’s right to receive or retain the share-based noncash consideration is unconditional under Subtopic 610-20 in accordance with paragraph 610-20-15-3A.
 
 ## 20 Glossary
 
-> **General Note:** The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+**321-10-15-7** General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
 
 ##### Equity Security
 
@@ -169,17 +170,19 @@ Derivative instruments that are subject to the requirements of Topic 815, includ
 2. Cash-settled options on equity securities or options on equity-based indexes (because those instruments do not represent ownership interests in an entity)
 3. Convertible debt or preferred stock that by its terms either must be redeemed by the issuing entity or is redeemable at the option of the investor.
 
-1. Written equity options (because they represent obligations of the writer, not investments)
+Written equity options (because they represent obligations of the writer, not investments)
 2. Cash-settled options on equity securities or options on equity-based indexes (because those instruments do not represent ownership interests in an entity)
 3. Convertible debt or preferred stock that by its terms either must be redeemed by the issuing entity or is redeemable at the option of the investor.
 
 ##### Fair Value
 
 The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
 
 ##### Holding Gain or Loss
 
-The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. The net change in fair value of a security. The holding gain or loss does not include dividend or interest income recognized but not yet received, writeoffs, or the allowance for credit losses.
+The net change in fair value of a security. The holding gain or loss does not include dividend or interest income recognized but not yet received, writeoffs, or the allowance for credit losses.
+The net change in fair value of a security. The holding gain or loss does not include dividend or interest income recognized but not yet received, writeoffs, or the allowance for credit losses.
 
 ##### Market Participants
 
@@ -188,13 +191,14 @@ The price that would be received to sell an asset or paid to transfer a liabilit
 3. They are able to enter into a transaction for the asset or liability
 4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
 
-1. They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
 2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
 3. They are able to enter into a transaction for the asset or liability
 4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
 
 ##### Orderly Transaction
 
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
 A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
 
 ##### Readily Determinable Fair Value
@@ -203,7 +207,7 @@ A transaction that assumes exposure to the market for a period before the measur
 2. The fair value of an equity security traded only in a foreign market is readily determinable if that foreign market is of a breadth and scope comparable to one of the U.S. markets referred to above.
 3. The fair value of an equity security that is an investment in a mutual fund or in a structure similar to a mutual fund (that is, a limited partnership or a venture capital entity) is readily determinable if the fair value per share (unit) is determined and published and is the basis for current transactions.
 
-1. The fair value of an equity security is readily determinable if sales prices or bid-and-asked quotations are currently available on a securities exchange registered with the U.S. Securities and Exchange Commission (SEC) or in the over-the-counter market, provided that those prices or quotations for the over-the-counter market are publicly reported by the National Association of Securities Dealers Automated Quotations systems or by OTC Markets Group Inc. Restricted stock meets that definition if the restriction terminates within one year.
+The fair value of an equity security is readily determinable if sales prices or bid-and-asked quotations are currently available on a securities exchange registered with the U.S. Securities and Exchange Commission (SEC) or in the over-the-counter market, provided that those prices or quotations for the over-the-counter market are publicly reported by the National Association of Securities Dealers Automated Quotations systems or by OTC Markets Group Inc. Restricted stock meets that definition if the restriction terminates within one year.
 2. The fair value of an equity security traded only in a foreign market is readily determinable if that foreign market is of a breadth and scope comparable to one of the U.S. markets referred to above.
 3. The fair value of an equity security that is an investment in a mutual fund or in a structure similar to a mutual fund (that is, a limited partnership or a venture capital entity) is readily determinable if the fair value per share (unit) is determined and published and is the basis for current transactions.
 
@@ -217,7 +221,7 @@ A transaction that assumes exposure to the market for a period before the measur
 6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
 7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
 
-1. Affiliates of the entity
+Affiliates of the entity
 2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
 3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
 4. Principal owners of the entity and members of their immediate families
@@ -231,13 +235,13 @@ A transaction that assumes exposure to the market for a period before the measur
 2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
 3. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
 
-1. It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
+It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
 2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
 3. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
 
 ## 30 Initial Measurement
 
-> **General Note:** The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
 
 ### General
 
@@ -250,7 +254,7 @@ If an equity security
 
 ## 35 Subsequent Measurement
 
-> **General Note:** The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
 
 ### General
 
@@ -289,7 +293,7 @@ Dividend income from investments in equity securities shall be included in earni
 
 ## 40 Derecognition
 
-> **General Note:** The Derecognition Section provides guidance on determining whether and when an entity should remove an item from the financial statements. For example, the entity would derecognize an asset because it no longer has rights to the asset or it would derecognize a liability because it no longer has any obligation.
+General Note:The Derecognition Section provides guidance on determining whether and when an entity should remove an item from the financial statements. For example, the entity would derecognize an asset because it no longer has rights to the asset or it would derecognize a liability because it no longer has any obligation.
 
 ### General
 
@@ -300,7 +304,7 @@ shall be accounted for as a sale. With respect to equity securities, because all
 
 ## 45 Other Presentation Matters
 
-> **General Note:** The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
 
 ### General
 
@@ -314,7 +318,7 @@ An entity also shall refer to guidance in paragraph 825-10-45-1A on disaggregati
 
 ## 50 Disclosure
 
-> **General Note:** The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
 
 ### General
 
@@ -334,18 +338,30 @@ The disclosures in this Section are required for all interim and annual periods.
 3. The amount of upward adjustments, if any, both annual and cumulative
 4. As of the date of the most recent statement of financial position, additional information (in narrative form) that is sufficient to permit financial statement users to understand the quantitative disclosures and the information that the entity considered in reaching the carrying amounts and upward or downward adjustments resulting from observable price changes.
 
+1. The carrying amount of investments without readily determinable fair values
+2. The amount of impairments and downward adjustments, if any, both annual and cumulative
+3. The amount of upward adjustments, if any, both annual and cumulative
+4. As of the date of the most recent statement of financial position, additional information (in narrative form) that is sufficient to permit financial statement users to understand the quantitative disclosures and the information that the entity considered in reaching the carrying amounts and upward or downward adjustments resulting from observable price changes.
+
 **321-10-50-3** An entity that applies the guidance in paragraph 321-10-35-2 for equity securities without readily determinable fair values
 1. The carrying amount of investments without readily determinable fair values
 2. The amount of impairments and downward adjustments, if any, both annual and cumulative
 3. The amount of upward adjustments, if any, both annual and cumulative
 4. As of the date of the most recent statement of financial position, additional information (in narrative form) that is sufficient to permit financial statement users to understand the quantitative disclosures and the information that the entity considered in reaching the carrying amounts and upward or downward adjustments resulting from observable price changes.
 
+1. The carrying amount of investments without readily determinable fair values
+2. The amount of impairments and downward adjustments, if any, both annual and cumulative
+3. The amount of upward adjustments, if any, both annual and cumulative
+4. As of the date of the most recent statement of financial position, additional information (in narrative form) that is sufficient to permit financial statement users to understand the quantitative disclosures and the information that the entity considered in reaching the carrying amounts and upward or downward adjustments resulting from observable price changes.
+
 **321-10-50-4** For each period for which the results of operations are presented, an entity shall disclose the portion of unrealized gains and losses for the period that relates to equity securities still held at the reporting date. The portion of unrealized gains and losses for the period related to equity securities still held at the reporting date is calculated as follows.
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For each interim and annual reporting period for which the results of operations are presented, an entity shall disclose the portion of unrealized gains and losses for the period that relates to equity securities still held at the reporting date. The portion of unrealized gains and losses for the period related to equity securities still held at the reporting date is calculated as follows.
 **321-10-50-4** For each period for which the results of operations are presented, an entity shall disclose the portion of unrealized gains and losses for the period that relates to equity securities still held at the reporting date. The portion of unrealized gains and losses for the period related to equity securities still held at the reporting date is calculated as follows.
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For each interim and annual reporting period for which the results of operations are presented, an entity shall disclose the portion of unrealized gains and losses for the period that relates to equity securities still held at the reporting date. The portion of unrealized gains and losses for the period related to equity securities still held at the reporting date is calculated as follows.
 
 ## 55 Implementation Guidance and Illustrations
 
-> **General Note:** The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
 
 ### General
 
@@ -393,3 +409,4 @@ To identify observable price changes, an entity should consider relevant transac
 **321-10-55-9** · · > Identifying Similar Investment of Same Issuer
 To identify whether a security issued by the same issuer is similar to the equity security held by the entity, the entity should consider the different rights and obligations of the securities. Differences in rights and obligations could include characteristics such as voting rights, distribution rights and preferences, and conversion features. The entity should adjust the observable price of a similar security for the different rights and obligations to determine the amount that should be recorded as an upward or downward adjustment in the carrying value of the security measured in accordance with paragraph 321-10-35-2 to reflect the fair value of the security as of the date that the observable transaction for the similar security took place.
 To identify whether a security issued by the same issuer is similar to the equity security held by the entity, the entity should consider the different rights and obligations of the securities. Differences in rights and obligations could include characteristics such as voting rights, distribution rights and preferences, and conversion features. The entity should adjust the observable price of a similar security for the different rights and obligations to determine the amount that should be recorded as an upward or downward adjustment in the carrying value of the security measured in accordance with paragraph 321-10-35-2 to reflect the fair value of the security as of the date that the observable transaction for the similar security took place.
+About Help Contact Us Copyright Terms and Conditions FASB.org Assets 32X Investments 321 Investments—Equity Securities Print keyboard_arrow_upDisplaykeyboard_arrow_up

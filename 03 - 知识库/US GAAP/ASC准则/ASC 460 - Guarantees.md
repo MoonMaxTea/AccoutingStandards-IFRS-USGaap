@@ -13,7 +13,7 @@ subtopics: ["460-10"]
 
 ## 00 Status
 
-> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
 ### General
 
@@ -190,7 +190,7 @@ subtopics: ["460-10"]
 
 ## 05 Overview and Background
 
-> **General Note:** The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
 
 ### General
 
@@ -213,7 +213,7 @@ subtopics: ["460-10"]
 
 ## 10 Objectives
 
-> **General Note:** The Objectives Section provides the high-level objectives that the Subtopic is intended to accomplish or attain. The Section does not summarize or discuss the main principles of accounting and reporting requirements.
+General Note:The Objectives Section provides the high-level objectives that the Subtopic is intended to accomplish or attain. The Section does not summarize or discuss the main principles of accounting and reporting requirements.
 
 ### General
 
@@ -225,13 +225,13 @@ subtopics: ["460-10"]
 
 ## 15 Scope and Scope Exceptions
 
-> **General Note:** The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
 
-> **General Note:** General Note for Financial Instruments:Some of the items subject to the guidance in this Subtopic are financial instruments
+General Note for Financial Instruments:Some of the items subject to the guidance in this Subtopic are financial instruments
 
 ### General
 
-**460-10-15-1** . For guidance on matters related broadly to all financial instruments, (including the fair value option, accounting for registration payment arrangements, and broad financial instrument disclosure requirements), see Topic 825. See Section 825-10-15 for guidance on the scope of the Financial Instruments Topic.> Overall Guidance
+**460-10-15-1** . For guidance on matters related broadly to all financial instruments, (including the fair value option, accounting for registration payment arrangements, and broad financial instrument disclosure requirements), see Topic 825. See Section 825-10-15 for guidance on the scope of the Financial Instruments Topic.Related Proposed ASUs > Overall Guidance
 The General Subsection of this Section establishes the pervasive scope for the Guarantees Topic, with specific exceptions noted in the other Subsections of this Section.
 The General Subsection of this Section establishes the pervasive scope for the Guarantees Topic, with specific exceptions noted in the other Subsections of this Section.
 **460-10-15-2** > Entities
@@ -294,7 +294,7 @@ For related implementation guidance, see Section 460-10-55.
 
 ### Product Warranties
 
-**460-10-15-8** > Overall Guidance
+**460-10-15-8** Related Proposed ASUs > Overall Guidance
 The Product Warranties Subsections follow the same Scope and Scope Exceptions as outlined in the General Subsection of this Section, see paragraph 460-10-15-1, with specific transaction exceptions noted below.
 The Product Warranties Subsections follow the same Scope and Scope Exceptions as outlined in the General Subsection of this Section, see paragraph 460-10-15-1, with specific transaction exceptions noted below.
 **460-10-15-9** > Transactions
@@ -314,7 +314,7 @@ The guidance in the General Subsections of Sections 460-10-25 and 460-10-30 does
 
 ## 20 Glossary
 
-> **General Note:** The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
 
 ##### Acquiree
 
@@ -323,36 +323,46 @@ The business or businesses that the acquirer obtains control of in a business co
 
 ##### Acquirer
 
+The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer. PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:805-10-65-5The entity that obtains control of the acquiree.See paragraphs 805-10-25-4 through 25-5 for guidance on determining the acquirer.
+The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer.
+PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:805-10-65-5The entity that obtains control of the acquiree.See paragraphs 805-10-25-4 through 25-5
+
 ##### Acquisition by a Not-for-Profit Entity
 
-The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer. The entity that obtains control of the acquiree. However, in a business combination in which a variable interest entity (VIE) is acquired, the primary beneficiary of that entity always is the acquirer. A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.
+for guidance on determining the acquirer.A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.
+A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities.
 
 ##### Business
 
-A transaction or other event in which a not-for-profit acquirer obtains control of one or more nonprofit activities or businesses and initially recognizes their assets and liabilities in the acquirer's financial statements. When applicable guidance in Topic 805 is applied by a not-for-profit entity, the term business combination has the same meaning as this term has for a for-profit entity. Likewise, a reference to business combinations in guidance that links to Topic 805 has the same meaning as a reference to acquisitions by not-for-profit entities. Paragraphs 805-10-55-3A through 55-6 and 805-10-55-8 through 55-9 define what is considered a business.
+Paragraphs 805-10-55-3A through 55-6 and 805-10-55-8 through 55-9 define what is considered a business.
+Paragraphs 805-10-55-3A through 55-6
 
 ##### Business Combination
 
-Paragraphs 805-10-55-3A through 55-6 and 805-10-55-8 through 55-9 define what is considered a business. A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
+and 805-10-55-8 through 55-9 define what is considered a business. A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
+A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
 
 ##### Commencement Date of the Lease        (Commencement Date)
 
-A transaction or other event in which an acquirer obtains control of one or more businesses. Transactions sometimes referred to as true mergers or mergers of equals also are business combinations. See also Acquisition by a Not-for-Profit Entity.
 The date on which a lessor makes an underlying asset available for use by a lessee. See paragraphs 842-10-55-19 through 55-21
 for implementation guidance on the commencement date.
 The date on which a lessor makes an underlying asset available for use by a lessee. See paragraphs 842-10-55-19 through 55-21
+for implementation guidance on the commencement date.
 
 ##### Commercial Letter of Credit
 
-for implementation guidance on the commencement date. A document issued typically by a financial institution on behalf of its customer (the account party) authorizing a third party (the beneficiary), or in special cases the account party, to draw drafts on the institution up to a stipulated amount and with specified terms and conditions; it is a conditional commitment (except if prepaid by the account party) on the part of the institution to provide payment on drafts drawn in accordance with the terms of the document.
+A document issued typically by a financial institution on behalf of its customer (the account party) authorizing a third party (the beneficiary), or in special cases the account party, to draw drafts on the institution up to a stipulated amount and with specified terms and conditions; it is a conditional commitment (except if prepaid by the account party) on the part of the institution to provide payment on drafts drawn in accordance with the terms of the document.
+A document issued typically by a financial institution on behalf of its customer (the account party) authorizing a third party (the beneficiary), or in special cases the account party, to draw drafts on the institution up to a stipulated amount and with specified terms and conditions; it is a conditional commitment (except if prepaid by the account party) on the part of the institution to provide payment on drafts drawn in accordance with the terms of the document.
 
 ##### Contingency
 
-A document issued typically by a financial institution on behalf of its customer (the account party) authorizing a third party (the beneficiary), or in special cases the account party, to draw drafts on the institution up to a stipulated amount and with specified terms and conditions; it is a conditional commitment (except if prepaid by the account party) on the part of the institution to provide payment on drafts drawn in accordance with the terms of the document. An existing condition, situation, or set of circumstances involving uncertainty as to possible gain (gain contingency) or loss (loss contingency) to an entity that will ultimately be resolved when one or more future events occur or fail to occur.
+An existing condition, situation, or set of circumstances involving uncertainty as to possible gain (gain contingency) or loss (loss contingency) to an entity that will ultimately be resolved when one or more future events occur or fail to occur.
+An existing condition, situation, or set of circumstances involving uncertainty as to possible gain (gain contingency) or loss (loss contingency) to an entity that will ultimately be resolved when one or more future events occur or fail to occur.
 
 ##### Contract
 
-An existing condition, situation, or set of circumstances involving uncertainty as to possible gain (gain contingency) or loss (loss contingency) to an entity that will ultimately be resolved when one or more future events occur or fail to occur. An agreement between two or more parties that creates enforceable rights and obligations.
+An agreement between two or more parties that creates enforceable rights and obligations.
+An agreement between two or more parties that creates enforceable rights and obligations.
 
 ##### Credit Derivative
 
@@ -362,30 +372,38 @@ An existing condition, situation, or set of circumstances involving uncertainty 
 3. It exposes the seller to potential loss from credit-risk-related events specified in the contract.
 
 Examples of credit derivatives include, but are not limited to, credit default swaps, credit spread options, and credit index products.
+A derivative instrument that has both of the following characteristics:
 1. The credit risk of a specified entity (or a group of entities)
 2. An index based on the credit risk of a group of entities.
 
 3. It exposes the seller to potential loss from credit-risk-related events specified in the contract.
 
+Examples of credit derivatives include, but are not limited to, credit default swaps, credit spread options, and credit index products.
+
 ##### Customer
 
-Examples of credit derivatives include, but are not limited to, credit default swaps, credit spread options, and credit index products.A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.
+A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.
+A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.
 
 ##### Direct Guarantee of Indebtedness
 
-A party that has contracted with an entity to obtain goods or services that are an output of the entity's ordinary activities in exchange for consideration.An agreement in which a guarantor states that if the debtor fails to make payment to the creditor when due, the guarantor will pay the creditor. If the debtor defaults, the creditor has a direct claim on the guarantor.
+An agreement in which a guarantor states that if the debtor fails to make payment to the creditor when due, the guarantor will pay the creditor. If the debtor defaults, the creditor has a direct claim on the guarantor.
+An agreement in which a guarantor states that if the debtor fails to make payment to the creditor when due, the guarantor will pay the creditor. If the debtor defaults, the creditor has a direct claim on the guarantor.
 
 ##### Fair Value
 
-An agreement in which a guarantor states that if the debtor fails to make payment to the creditor when due, the guarantor will pay the creditor. If the debtor defaults, the creditor has a direct claim on the guarantor. The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
 
 ##### Financial Standby Letter of Credit
 
-The price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. An irrevocable undertaking (typically by a financial institution) to guarantee payment of a specified financial obligation.
+An irrevocable undertaking (typically by a financial institution) to guarantee payment of a specified financial obligation.
+An irrevocable undertaking (typically by a financial institution) to guarantee payment of a specified financial obligation.
 
 ##### Gain Contingency
 
-An irrevocable undertaking (typically by a financial institution) to guarantee payment of a specified financial obligation. An existing condition, situation, or set of circumstances involving uncertainty as to possible gain to an entity that will ultimately be resolved when one or more future events occur or fail to occur.
+An existing condition, situation, or set of circumstances involving uncertainty as to possible gain to an entity that will ultimately be resolved when one or more future events occur or fail to occur.
+An existing condition, situation, or set of circumstances involving uncertainty as to possible gain to an entity that will ultimately be resolved when one or more future events occur or fail to occur.
 
 ##### Indirect Guarantee of Indebtedness
 
@@ -393,16 +411,18 @@ An irrevocable undertaking (typically by a financial institution) to guarantee p
 2. Those creditors may enforce the debtor's claims against the guarantor under the agreement.
 
 In contrast, with a direct guarantee of indebtedness, if the debtor defaults, the creditor has a direct claim on the guarantor. Examples of indirect guarantees include agreements to advance funds if a debtor's net income, coverage of fixed charges, or working capital falls below a specified minimum.
-1. After funds are transferred from the guarantor to the debtor, the funds become legally available to creditors through their claims against the debtor
+After funds are transferred from the guarantor to the debtor, the funds become legally available to creditors through their claims against the debtor
 2. Those creditors may enforce the debtor's claims against the guarantor under the agreement.
+
+In contrast, with a direct guarantee of indebtedness, if the debtor defaults, the creditor has a direct claim on the guarantor. Examples of indirect guarantees include agreements to advance funds if a debtor's net income, coverage of fixed charges, or working capital falls below a specified minimum.
 
 ##### Lease
 
-In contrast, with a direct guarantee of indebtedness, if the debtor defaults, the creditor has a direct claim on the guarantor. Examples of indirect guarantees include agreements to advance funds if a debtor's net income, coverage of fixed charges, or working capital falls below a specified minimum. A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
+A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
+A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
 
 ##### Lease Payments
 
-A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
 See paragraph 842-10-30-5 for what constitutes lease payments from the perspective of a lessee and a lessor.
 See paragraph 842-10-30-5 for what constitutes lease payments from the perspective of a lessee and a lessor.
 
@@ -413,26 +433,28 @@ Periods covered by an option to extend the lease if the lessee is reasonably cer
 3. Periods covered by an option to extend (or not to terminate) the lease in which exercise of the option is controlled by the lessor.
 
 Periods covered by an option to extend the lease if the lessee is reasonably certain to exercise that option
-2. Periods covered by an option to terminate the lease if the lessee is reasonably certain not to exercise that option
+Periods covered by an option to terminate the lease if the lessee is reasonably certain not to exercise that option
 3. Periods covered by an option to extend (or not to terminate) the lease in which exercise of the option is controlled by the lessor.
 
 ##### Legal Entity
 
 Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts.
+Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts.
 
 ##### Lessee
 
-Any legal structure used to conduct activities or to hold assets. Some examples of such structures are corporations, partnerships, limited liability companies, grantor trusts, and other trusts.
 An entity that enters into a contract to obtain the right to use an underlying asset for a period of time in exchange for consideration.
 An entity that enters into a contract to obtain the right to use an underlying asset for a period of time in exchange for consideration.
 
 ##### Lessor
 
 An entity that enters into a contract to provide the right to use an underlying asset for a period of time in exchange for consideration.
+An entity that enters into a contract to provide the right to use an underlying asset for a period of time in exchange for consideration.
 
 ##### Loss Contingency
 
-An entity that enters into a contract to provide the right to use an underlying asset for a period of time in exchange for consideration. An existing condition, situation, or set of circumstances involving uncertainty as to possible loss to an entity that will ultimately be resolved when one or more future events occur or fail to occur. The term loss is used for convenience to include many charges against income that are commonly referred to as expenses and others that are commonly referred to as losses.
+An existing condition, situation, or set of circumstances involving uncertainty as to possible loss to an entity that will ultimately be resolved when one or more future events occur or fail to occur. The term loss is used for convenience to include many charges against income that are commonly referred to as expenses and others that are commonly referred to as losses.
+An existing condition, situation, or set of circumstances involving uncertainty as to possible loss to an entity that will ultimately be resolved when one or more future events occur or fail to occur. The term loss is used for convenience to include many charges against income that are commonly referred to as expenses and others that are commonly referred to as losses.
 
 ##### Market Participants
 
@@ -441,13 +463,14 @@ An entity that enters into a contract to provide the right to use an underlying 
 3. They are able to enter into a transaction for the asset or liability
 4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
 
-1. They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
+They are independent of each other, that is, they are not related parties, although the price in a related-party transaction may be used as an input to a fair value measurement if the reporting entity has evidence that the transaction was entered into at market terms
 2. They are knowledgeable, having a reasonable understanding about the asset or liability and the transaction using all available information, including information that might be obtained through due diligence efforts that are usual and customary
 3. They are able to enter into a transaction for the asset or liability
 4. They are willing to enter into a transaction for the asset or liability, that is, they are motivated but not forced or otherwise compelled to do so.
 
 ##### Minimum Revenue Guarantee
 
+A guarantee granted to a business or its owners that the revenue of the business (or a specific portion of the business) for a specified period of time will be at least a specified minimum amount.
 A guarantee granted to a business or its owners that the revenue of the business (or a specific portion of the business) for a specified period of time will be at least a specified minimum amount.
 
 ##### Not-for-Profit Entity
@@ -459,15 +482,16 @@ A guarantee granted to a business or its owners that the revenue of the business
 1. All investor-owned entities
 2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
 
-1. Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
+Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
 2. Operating purposes other than to provide goods or services at a profit
 3. Absence of ownership interests like those of business entities.
 
-1. All investor-owned entities
+All investor-owned entities
 2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
 
 ##### Orderly Transaction
 
+A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
 A transaction that assumes exposure to the market for a period before the measurement date to allow for marketing activities that are usual and customary for transactions involving such assets or liabilities; it is not a forced transaction (for example, a forced liquidation or distress sale).
 
 ##### Performance Obligation
@@ -475,16 +499,18 @@ A transaction that assumes exposure to the market for a period before the measur
 1. A good or service (or a bundle of goods or services) that is distinct
 2. A series of distinct goods or services that are substantially the same and that have the same pattern of transfer to the customer.
 
-1. A good or service (or a bundle of goods or services) that is distinct
+A good or service (or a bundle of goods or services) that is distinct
 2. A series of distinct goods or services that are substantially the same and that have the same pattern of transfer to the customer.
 
 ##### Performance Standby Letter of Credit
 
 An irrevocable undertaking by a guarantor to make payments in the event a specified third party fails to perform under a nonfinancial contractual obligation.
+An irrevocable undertaking by a guarantor to make payments in the event a specified third party fails to perform under a nonfinancial contractual obligation.
 
 ##### Probable
 
-An irrevocable undertaking by a guarantor to make payments in the event a specified third party fails to perform under a nonfinancial contractual obligation. The future event or events are likely to occur.
+The future event or events are likely to occur.
+The future event or events are likely to occur.
 
 ##### Registration Payment Arrangement
 
@@ -501,6 +527,7 @@ An irrevocable undertaking by a guarantor to make payments in the event a specif
 ##### Reinsurance
 
 A transaction in which a reinsurer (assuming entity), for a consideration (premium), assumes all or part of a risk undertaken originally by another insurer (ceding entity). For indemnity reinsurance, the legal rights of the insured are not affected by the reinsurance transaction and the insurance entity issuing the insurance contract remains liable to the insured for payment of policy benefits. Assumption or novation reinsurance contracts that are legal replacements of one insurer by another extinguish the ceding entity's liability to the policyholder.
+A transaction in which a reinsurer (assuming entity), for a consideration (premium), assumes all or part of a risk undertaken originally by another insurer (ceding entity). For indemnity reinsurance, the legal rights of the insured are not affected by the reinsurance transaction and the insurance entity issuing the insurance contract remains liable to the insured for payment of policy benefits. Assumption or novation reinsurance contracts that are legal replacements of one insurer by another extinguish the ceding entity's liability to the policyholder.
 
 ##### Related Parties
 
@@ -512,7 +539,7 @@ A transaction in which a reinsurer (assuming entity), for a consideration (premi
 6. Other parties with which the entity may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests
 7. Other parties that can significantly influence the management or operating policies of the transacting parties or that have an ownership interest in one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties might be prevented from fully pursuing its own separate interests.
 
-1. Affiliates of the entity
+Affiliates of the entity
 2. Entities for which investments in their equity securities would be required, absent the election of the fair value option under the Fair Value Option Subsection of Section 825-10-15, to be accounted for by the equity method by the investing entity
 3. Trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship of management
 4. Principal owners of the entity and members of their immediate families
@@ -523,44 +550,48 @@ A transaction in which a reinsurer (assuming entity), for a consideration (premi
 ##### Revenue
 
 Inflows or other enhancements of assets of an entity or settlements of its liabilities (or a combination of both) from delivering or producing goods, rendering services, or other activities that constitute the entity's ongoing major or central operations.
+Inflows or other enhancements of assets of an entity or settlements of its liabilities (or a combination of both) from delivering or producing goods, rendering services, or other activities that constitute the entity's ongoing major or central operations.
 
 ##### Take-or-Pay Contract
 
-Inflows or other enhancements of assets of an entity or settlements of its liabilities (or a combination of both) from delivering or producing goods, rendering services, or other activities that constitute the entity's ongoing major or central operations.An agreement between a purchaser and a seller that provides for the purchaser to pay specified amounts periodically in return for products or services. The purchaser must make specified minimum payments even if it does not take delivery of the contracted products or services.
+An agreement between a purchaser and a seller that provides for the purchaser to pay specified amounts periodically in return for products or services. The purchaser must make specified minimum payments even if it does not take delivery of the contracted products or services.
+An agreement between a purchaser and a seller that provides for the purchaser to pay specified amounts periodically in return for products or services. The purchaser must make specified minimum payments even if it does not take delivery of the contracted products or services.
 
 ##### Underlying
 
-An agreement between a purchaser and a seller that provides for the purchaser to pay specified amounts periodically in return for products or services. The purchaser must make specified minimum payments even if it does not take delivery of the contracted products or services. A specified interest rate, security price, commodity price, foreign exchange rate, index of prices or rates, or other variable (including the occurrence or nonoccurrence of a specified event such as a scheduled payment under a contract). An underlying may be a price or rate of an asset or liability but is not the asset or liability itself. An underlying is a variable that, along with either a notional amount or a payment provision, determines the settlement of a derivative instrument.
+A specified interest rate, security price, commodity price, foreign exchange rate, index of prices or rates, or other variable (including the occurrence or nonoccurrence of a specified event such as a scheduled payment under a contract). An underlying may be a price or rate of an asset or liability but is not the asset or liability itself. An underlying is a variable that, along with either a notional amount or a payment provision, determines the settlement of a derivative instrument.
+A specified interest rate, security price, commodity price, foreign exchange rate, index of prices or rates, or other variable (including the occurrence or nonoccurrence of a specified event such as a scheduled payment under a contract). An underlying may be a price or rate of an asset or liability but is not the asset or liability itself. An underlying is a variable that, along with either a notional amount or a payment provision, determines the settlement of a derivative instrument.
 
 ##### Underlying Asset
 
-A specified interest rate, security price, commodity price, foreign exchange rate, index of prices or rates, or other variable (including the occurrence or nonoccurrence of a specified event such as a scheduled payment under a contract). An underlying may be a price or rate of an asset or liability but is not the asset or liability itself. An underlying is a variable that, along with either a notional amount or a payment provision, determines the settlement of a derivative instrument.
 An asset that is the subject of a lease for which a right to use that asset has been conveyed to a lessee. The underlying asset could be a physically distinct portion of a single asset.
 An asset that is the subject of a lease for which a right to use that asset has been conveyed to a lessee. The underlying asset could be a physically distinct portion of a single asset.
 
 ##### Variable Interest Entity
 
 A legal entity subject to consolidation according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
+A legal entity subject to consolidation according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
 
 ##### Variable Lease        Payments
 
-A legal entity subject to consolidation according to the provisions of the Variable Interest Entities Subsections of Subtopic 810-10.
 Payments made by a lessee to a lessor for the right to use an underlying asset that vary because of changes in facts or circumstances occurring after the commencement date, other than the passage of time.
 Payments made by a lessee to a lessor for the right to use an underlying asset that vary because of changes in facts or circumstances occurring after the commencement date, other than the passage of time.
 
 ##### Warranty
 
 A guarantee for which the underlying is related to the performance (regarding function, not price) of nonfinancial assets that are owned by the guaranteed party. The obligation may be incurred in connection with the sale of goods or services; if so, it may require further performance by the seller after the sale has taken place.
+A guarantee for which the underlying is related to the performance (regarding function, not price) of nonfinancial assets that are owned by the guaranteed party. The obligation may be incurred in connection with the sale of goods or services; if so, it may require further performance by the seller after the sale has taken place.
 
 ##### Weather Derivative
 
-A guarantee for which the underlying is related to the performance (regarding function, not price) of nonfinancial assets that are owned by the guaranteed party. The obligation may be incurred in connection with the sale of goods or services; if so, it may require further performance by the seller after the sale has taken place. A forward-based or option-based contract for which settlement is based on a climatic or geological variable. One example of such a variable is the occurrence or nonoccurrence of a specified amount of snow at a specified location within a specified period of time.
+A forward-based or option-based contract for which settlement is based on a climatic or geological variable. One example of such a variable is the occurrence or nonoccurrence of a specified amount of snow at a specified location within a specified period of time.
+A forward-based or option-based contract for which settlement is based on a climatic or geological variable. One example of such a variable is the occurrence or nonoccurrence of a specified amount of snow at a specified location within a specified period of time.
 
 ## 25 Recognition
 
-> **General Note:** The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
 
-> **General Note:** General Note for Fair Value Option:Some of the items subject to the guidance in this Subtopic may qualify for application of the Fair Value Option Subsections of Subtopic 825-10. Those Subsections (see paragraph 825-10-05-5) address circumstances in which entities may choose, at specified election dates, to measure eligible items at fair value (the fair value option). See Section 825-10-15 for guidance on the scope of the Fair Value Option Subsections of the Financial Instruments Topic.
+General Note for Fair Value Option:Some of the items subject to the guidance in this Subtopic may qualify for application of the Fair Value Option Subsections of Subtopic 825-10. Those Subsections (see paragraph 825-10-05-5) address circumstances in which entities may choose, at specified election dates, to measure eligible items at fair value (the fair value option). See Section 825-10-15 for guidance on the scope of the Fair Value Option Subsections of the Financial Instruments Topic.
 
 ### General
 
@@ -620,7 +651,7 @@ Paragraph 605-20-25-6 provides guidance on recognizing a loss on separately pric
 
 ## 30 Initial Measurement
 
-> **General Note:** The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
 
 ### General
 
@@ -656,7 +687,7 @@ The amount that satisfies the fair value objective in accordance with paragraph 
 
 ## 35 Subsequent Measurement
 
-> **General Note:** The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
 
 ### General
 
@@ -679,7 +710,7 @@ Paragraph superseded by Accounting Standards Update No. 2016-13
 
 ## 45 Other Presentation Matters
 
-> **General Note:** The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
 
 ### General
 
@@ -689,7 +720,7 @@ Paragraph superseded by Accounting Standards Update No. 2016-13
 
 ## 50 Disclosure
 
-> **General Note:** The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
 
 ### General
 
@@ -706,17 +737,61 @@ An entity shall disclose certain loss contingencies
 3. Guarantees to repurchase receivables (or, in some cases, to repurchase the related property) that have been sold or otherwise assigned
 4. Other agreements that in substance have the same guarantee characteristic.
 
+1. Guarantees of indebtedness of others, including indirect guarantees of indebtedness of others
+2. Obligations of commercial banks under standby letters of credit
+3. Guarantees to repurchase receivables (or, in some cases, to repurchase the related property) that have been sold or otherwise assigned
+4. Other agreements that in substance have the same guarantee characteristic.
+
 **460-10-50-2** An entity shall disclose certain loss contingencies
 1. Guarantees of indebtedness of others, including indirect guarantees of indebtedness of others
 2. Obligations of commercial banks under standby letters of credit
 3. Guarantees to repurchase receivables (or, in some cases, to repurchase the related property) that have been sold or otherwise assigned
 4. Other agreements that in substance have the same guarantee characteristic.
 
+1. Guarantees of indebtedness of others, including indirect guarantees of indebtedness of others
+2. Obligations of commercial banks under standby letters of credit
+3. Guarantees to repurchase receivables (or, in some cases, to repurchase the related property) that have been sold or otherwise assigned
+4. Other agreements that in substance have the same guarantee characteristic.
+
 **460-10-50-3** The disclosure shall include the nature and amount of the guarantee. Consideration should be given to disclosing, if estimable, the value of any recovery that could be expected to result, such as from the guarantor's right to proceed against an outside party.
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For interim and annual reporting periods, the disclosure shall include the nature and amount of the guarantee. Consideration should be given to disclosing, if estimable, the value of any recovery that could be expected to result, such as from the guarantor's right to proceed against an outside party.
 **460-10-50-3** The disclosure shall include the nature and amount of the guarantee. Consideration should be given to disclosing, if estimable, the value of any recovery that could be expected to result, such as from the guarantor's right to proceed against an outside party.
 
 ##### · > Disclosures about a Guarantor's                Obligation
 
+**460-10-50-4** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For interim and annual reporting periods, the disclosure shall include the nature and amount of the guarantee. Consideration should be given to disclosing, if estimable, the value of any recovery that could be expected to result, such as from the guarantor's right to proceed against an outside party.
+The nature of the guarantee, including all of the following:
+1. The approximate term of the guarantee
+2. How the guarantee arose
+3. The events or circumstances that would require the guarantor to perform under the guarantee
+4. The current status (that is, as of the date of the statement of financial position) of the payment/performance risk of the guarantee (for example, the current status of the payment/performance risk of a credit-risk-related guarantee could be based on either recently issued external credit ratings or current internal groupings used by the guarantor to manage its risk)
+5. If the entity uses internal groupings for purposes of item (a)(4), how those groupings are determined and used for managing risk.
+
+1. The maximum potential amount of future payments (undiscounted) that the guarantor could be required to make under the guarantee, which shall not be reduced by the effect of any amounts that may possibly be recovered under recourse or collateralization provisions in the guarantee (which are addressed under (d) and (e))
+2. If the terms of the guarantee provide for no limitation to the maximum potential future payments under the guarantee, that fact
+3. If the guarantor is unable to develop an estimate of the maximum potential amount of future payments under its guarantee, the reasons why it cannot estimate the maximum potential amount.
+
+4. The current carrying amount of the liability, if any, for the guarantor's obligations under the guarantee (including the amount, if any, recognized under Section 450-20-30 or Subtopic 326-20 on financial instruments measured at amortized cost), regardless of whether the guarantee is freestanding or embedded in another contract
+5. The nature of any recourse provisions that would enable the guarantor to recover from third parties any of the amounts paid under the guarantee
+6. The nature of any assets held either as collateral or by third parties that, upon the occurrence of any triggering event or condition under the guarantee, the guarantor can obtain and liquidate to recover all or a portion of the amounts paid under the guarantee
+7. If estimable, the approximate extent to which the proceeds from liquidation of assets held either as collateral or by third parties would be expected to cover the maximum potential amount of future payments under the guarantee.
+
+1. The approximate term of the guarantee
+2. How the guarantee arose
+3. The events or circumstances that would require the guarantor to perform under the guarantee
+4. The current status (that is, as of the date of the statement of financial position) of the payment/performance risk of the guarantee (for example, the current status of the payment/performance risk of a credit-risk-related guarantee could be based on either recently issued external credit ratings or current internal groupings used by the guarantor to manage its risk)
+5. If the entity uses internal groupings for purposes of item (a)(4), how those groupings are determined and used for managing risk.
+
+1. The maximum potential amount of future payments (undiscounted) that the guarantor could be required to make under the guarantee, which shall not be reduced by the effect of any amounts that may possibly be recovered under recourse or collateralization provisions in the guarantee (which are addressed under (d) and (e))
+2. If the terms of the guarantee provide for no limitation to the maximum potential future payments under the guarantee, that fact
+3. If the guarantor is unable to develop an estimate of the maximum potential amount of future payments under its guarantee, the reasons why it cannot estimate the maximum potential amount.
+
+4. The current carrying amount of the liability, if any, for the guarantor's obligations under the guarantee (including the amount, if any, recognized under Section 450-20-30 or Subtopic 326-20 on financial instruments measured at amortized cost), regardless of whether the guarantee is freestanding or embedded in another contract
+5. The nature of any recourse provisions that would enable the guarantor to recover from third parties any of the amounts paid under the guarantee
+6. The nature of any assets held either as collateral or by third parties that, upon the occurrence of any triggering event or condition under the guarantee, the guarantor can obtain and liquidate to recover all or a portion of the amounts paid under the guarantee
+7. If estimable, the approximate extent to which the proceeds from liquidation of assets held either as collateral or by third parties would be expected to cover the maximum potential amount of future payments under the guarantee.
+
+See the Product Warranties Subsection of Section 460-10-50 for an exception to the requirements of (b).
 **460-10-50-4** The nature of the guarantee, including all of the following:
 1. The approximate term of the guarantee
 2. How the guarantee arose
@@ -733,8 +808,6 @@ An entity shall disclose certain loss contingencies
 6. The nature of any assets held either as collateral or by third parties that, upon the occurrence of any triggering event or condition under the guarantee, the guarantor can obtain and liquidate to recover all or a portion of the amounts paid under the guarantee
 7. If estimable, the approximate extent to which the proceeds from liquidation of assets held either as collateral or by third parties would be expected to cover the maximum potential amount of future payments under the guarantee.
 
-**460-10-50-4** See the Product Warranties Subsection of Section 460-10-50 for an exception to the requirements of (b).
-The nature of the guarantee, including all of the following:
 1. The approximate term of the guarantee
 2. How the guarantee arose
 3. The events or circumstances that would require the guarantor to perform under the guarantee
@@ -782,6 +855,23 @@ The information required to be disclosed by paragraph 460-10-50-4 except that a 
 4. The aggregate changes in the liability for accruals related to preexisting warranties (including adjustments related to changes in estimates)
 5. The ending balance of the aggregate product warranty liability.
 
+1. The information required to be disclosed by paragraph 460-10-50-4 except that a guarantor is not required to disclose the maximum potential amount of future payments specified in paragraph 460-10-50-4(b)
+2. The guarantor's accounting policy and methodology used in determining its liability for product warranties
+1. The beginning balance of the aggregate product warranty liability
+2. The aggregate reductions in that liability for payments made (in cash or in kind) under the warranty
+3. The aggregate changes in the liability for accruals related to product warranties issued during the reporting period
+4. The aggregate changes in the liability for accruals related to preexisting warranties (including adjustments related to changes in estimates)
+5. The ending balance of the aggregate product warranty liability.
+
+1. The information required to be disclosed by paragraph 460-10-50-4 except that a guarantor is not required to disclose the maximum potential amount of future payments specified in paragraph 460-10-50-4(b)
+2. The guarantor's accounting policy and methodology used in determining its liability for product warranties
+1. The beginning balance of the aggregate product warranty liability
+2. The aggregate reductions in that liability for payments made (in cash or in kind) under the warranty
+3. The aggregate changes in the liability for accruals related to product warranties issued during the reporting period
+4. The aggregate changes in the liability for accruals related to preexisting warranties (including adjustments related to changes in estimates)
+5. The ending balance of the aggregate product warranty liability.
+
+See paragraphs 220-40-50-21 through 50-25 for additional disclosure requirements.
 **460-10-50-8** The information required to be disclosed by paragraph 460-10-50-4 except that a guarantor is not required to disclose the maximum potential amount of future payments specified in paragraph 460-10-50-4(b)
 2. The guarantor's accounting policy and methodology used in determining its liability for product warranties
 1. The beginning balance of the aggregate product warranty liability
@@ -790,9 +880,28 @@ The information required to be disclosed by paragraph 460-10-50-4 except that a 
 4. The aggregate changes in the liability for accruals related to preexisting warranties (including adjustments related to changes in estimates)
 5. The ending balance of the aggregate product warranty liability.
 
+1. The information required to be disclosed by paragraph 460-10-50-4 except that a guarantor is not required to disclose the maximum potential amount of future payments specified in paragraph 460-10-50-4(b)
+2. The guarantor's accounting policy and methodology used in determining its liability for product warranties
+1. The beginning balance of the aggregate product warranty liability
+2. The aggregate reductions in that liability for payments made (in cash or in kind) under the warranty
+3. The aggregate changes in the liability for accruals related to product warranties issued during the reporting period
+4. The aggregate changes in the liability for accruals related to preexisting warranties (including adjustments related to changes in estimates)
+5. The ending balance of the aggregate product warranty liability.
+
+See paragraphs 220-40-50-21 through 50-25
+1. The information required to be disclosed by paragraph 460-10-50-4 except that a guarantor is not required to disclose the maximum potential amount of future payments specified in paragraph 460-10-50-4(b)
+2. The guarantor's accounting policy and methodology used in determining its liability for product warranties
+1. The beginning balance of the aggregate product warranty liability
+2. The aggregate reductions in that liability for payments made (in cash or in kind) under the warranty
+3. The aggregate changes in the liability for accruals related to product warranties issued during the reporting period
+4. The aggregate changes in the liability for accruals related to preexisting warranties (including adjustments related to changes in estimates)
+5. The ending balance of the aggregate product warranty liability.
+
+See paragraphs 220-40-50-21 through 50-25
+
 ## 55 Implementation Guidance and Illustrations
 
-> **General Note:** The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
 
 ### General
 
@@ -993,7 +1102,7 @@ Nonetheless, because a possibility exists, regardless of how remote, that an inf
 
 ## 60 Relationships
 
-> **General Note:** The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
+General Note:The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
 
 ### General
 
@@ -1123,7 +1232,7 @@ For recognition of revenue
 
 ## S00 Status
 
-> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
 ### General
 
@@ -1143,7 +1252,7 @@ For recognition of revenue
 
 ## S50 Disclosure
 
-> **General Note:** The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
 
 ### General
 

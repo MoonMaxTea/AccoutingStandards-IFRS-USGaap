@@ -13,7 +13,7 @@ subtopics: ["280-10"]
 
 ## 00 Status
 
-> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
 ### General
 
@@ -97,7 +97,7 @@ subtopics: ["280-10"]
 
 ## 05 Overview and Background
 
-> **General Note:** The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
 
 ### General
 
@@ -116,7 +116,7 @@ A public entity could provide complete sets of financial statements that are dis
 
 ## 10 Objectives
 
-> **General Note:** The Objectives Section provides the high-level objectives that the Subtopic is intended to accomplish or attain. The Section does not summarize or discuss the main principles of accounting and reporting requirements.
+General Note:The Objectives Section provides the high-level objectives that the Subtopic is intended to accomplish or attain. The Section does not summarize or discuss the main principles of accounting and reporting requirements.
 
 ### General
 
@@ -132,7 +132,7 @@ A public entity could provide complete sets of financial statements that are dis
 
 ## 15 Scope and Scope Exceptions
 
-> **General Note:** The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
 
 ### General
 
@@ -154,7 +154,7 @@ Parent entities, subsidiaries, joint ventures, or investees accounted for by the
 
 ## 20 Glossary
 
-> **General Note:** The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
 
 ##### Conduit Debt Securities
 
@@ -163,8 +163,11 @@ Certain limited-obligation revenue bonds, certificates of participation, or simi
 
 ##### Condensed                                Statements
 
+PENDING CONTENT Transition date: December 16, 2027; December 16, 2028Transition guidance: 270-10-65-1 Financial statements that are presented at a level that is more aggregated than the annual financial statements or have limited notes subject to the disclosure requirements in Topic 270 or both. (U.S. Securities and Exchange Commission [SEC] registrants are required to consider the guidance in paragraph 270-10-S45-2. See Regulation S-X Rule 10-01 [17 CFR 210.10-01] and Regulation S-X Rule 8-03 [17 CFR 210.8-03].)
+
 ##### Operating Segment
 
+PENDING CONTENT Transition date: December 16, 2027; December 16, 2028Transition guidance: 270-10-65-1 Financial statements that are presented at a level that is more aggregated than the annual financial statements or have limited notes subject to the disclosure requirements in Topic 270 or both. (U.S. Securities and Exchange Commission [SEC] registrants are required to consider the guidance in paragraph 270-10-S45-2. See Regulation S-X Rule 10-01 [17 CFR 210.10-01] and Regulation S-X Rule 8-03 [17 CFR 210.8-03].) A component of a public entity. See Section 280-10-50 for additional guidance on the definition of an operating segment.
 A component of a public entity. See Section 280-10-50 for additional guidance on the definition of an operating segment.
 
 ##### Public Entity
@@ -173,13 +176,13 @@ A component of a public entity. See Section 280-10-50 for additional guidance on
 2. It is required to file financial statements with the Securities and Exchange Commission (SEC).
 3. It provides financial statements for the purpose of issuing any class of securities in a public market.
 
-1. It has issued debt or equity securities or is a conduit bond obligor for conduit debt securities that are traded in a public market (a domestic or foreign stock exchange or an over-the-counter market, including local or regional markets).
+It has issued debt or equity securities or is a conduit bond obligor for conduit debt securities that are traded in a public market (a domestic or foreign stock exchange or an over-the-counter market, including local or regional markets).
 2. It is required to file financial statements with the Securities and Exchange Commission (SEC).
 3. It provides financial statements for the purpose of issuing any class of securities in a public market.
 
 ## 45 Other Presentation Matters
 
-> **General Note:** The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
 
 ### General
 
@@ -192,11 +195,11 @@ Nothing in this Subtopic is intended to discourage a public entity from reportin
 
 ## 50 Disclosure
 
-> **General Note:** The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
 
 ### General
 
-**280-10-50-1** > Operating Segments
+**280-10-50-1** Related Proposed ASUs > Operating Segments
 An operating segment
 1. It engages in business activities from which it may recognize revenues and incur expenses (including revenues and expenses relating to transactions with other components of the same public entity).
 2. Its operating results are regularly reviewed by the public entity's chief operating decision maker to make decisions about resources to be allocated to the segment and assess its performance.
@@ -361,7 +364,7 @@ A public entity shall disclose for each reportable segment an amount for other s
 4. The items and amounts required by paragraph 280-10-50-22 when those specified items and amounts are included within the reported measure of segment profit or loss but are not disclosed in accordance with paragraph 280-10-50-26A. For example, a public entity may report net income as the measure of a segment’s profit or loss. In that case, if income tax expense by segment is not regularly provided to the chief operating decision maker, it may be included within other segment items. However, income tax expense is still required to be disclosed in accordance with paragraph 280-10-50-22.
 
 **280-10-50-26B** A public entity shall disclose for each reportable segment an amount for other segment items. The amount for other segment items is the difference between reported segment revenues less the segment expenses disclosed in accordance with paragraph 280-10-50-26A and reported segment profit or loss. A qualitative description of the composition of other segment items also shall be disclosed. Other segment items may include:
-1. The total of a reportable segment’s expenses that are included in the reported measure(s) of a segment’s profit or loss but are not regularly provided to the chief operating decision maker.
+The total of a reportable segment’s expenses that are included in the reported measure(s) of a segment’s profit or loss but are not regularly provided to the chief operating decision maker.
 2. The total of a reportable segment’s expenses that are included in the reported measure(s) of a segment’s profit or loss but are not disclosed in accordance with paragraph 280-10-50-26A. A public entity is not precluded from separately disclosing an expense that is not significant for one reportable segment but is significant for another of its segments. However, if a segment expense that is not significant is not separately disclosed, it shall be included as part of other segment items.
 3. The total of a reportable segment’s gains, losses, or other amounts that also are included in each reported measure of a segment’s profit or loss.
 4. The items and amounts required by paragraph 280-10-50-22 when those specified items and amounts are included within the reported measure of segment profit or loss but are not disclosed in accordance with paragraph 280-10-50-26A. For example, a public entity may report net income as the measure of a segment’s profit or loss. In that case, if income tax expense by segment is not regularly provided to the chief operating decision maker, it may be included within other segment items. However, income tax expense is still required to be disclosed in accordance with paragraph 280-10-50-22.
@@ -419,7 +422,23 @@ Paragraph superseded by Accounting Standards Update No. 2023-07.
 6. The segment information required by paragraphs 280-10-50-22 through 50-26C and 280-10-50-28A through 50-28B
 7. A reconciliation of the total of the reportable segments' amount for each measure of profit or loss, including the total of the reportable segments’ amount for any additional measure of profit or loss disclosed in accordance with paragraph 280-10-50-28A, to the public entity's consolidated income before income taxes and discontinued operations. However, if a public entity allocates items such as income taxes to segments, the public entity may choose to reconcile the total of the segments' measures of profit or loss to consolidated income after those items. Significant reconciling items shall be separately identified and described in that reconciliation.
 
+1. Paragraph superseded by Accounting Standards Update No. 2023-07.
+2. Paragraph superseded by Accounting Standards Update No. 2023-07.
+3. Paragraph superseded by Accounting Standards Update No. 2023-07.
+4. Paragraph superseded by Accounting Standards Update No. 2023-07.
+5. A description of differences from the last annual report in the basis of segmentation or in the basis of measurement of segment profit or loss
+6. The segment information required by paragraphs 280-10-50-22 through 50-26C and 280-10-50-28A through 50-28B
+7. A reconciliation of the total of the reportable segments' amount for each measure of profit or loss, including the total of the reportable segments’ amount for any additional measure of profit or loss disclosed in accordance with paragraph 280-10-50-28A, to the public entity's consolidated income before income taxes and discontinued operations. However, if a public entity allocates items such as income taxes to segments, the public entity may choose to reconcile the total of the segments' measures of profit or loss to consolidated income after those items. Significant reconciling items shall be separately identified and described in that reconciliation.
+
 **280-10-50-32** Paragraph superseded by Accounting Standards Update No. 2023-07.
+2. Paragraph superseded by Accounting Standards Update No. 2023-07.
+3. Paragraph superseded by Accounting Standards Update No. 2023-07.
+4. Paragraph superseded by Accounting Standards Update No. 2023-07.
+5. A description of differences from the last annual report in the basis of segmentation or in the basis of measurement of segment profit or loss
+6. The segment information required by paragraphs 280-10-50-22 through 50-26C and 280-10-50-28A through 50-28B
+7. A reconciliation of the total of the reportable segments' amount for each measure of profit or loss, including the total of the reportable segments’ amount for any additional measure of profit or loss disclosed in accordance with paragraph 280-10-50-28A, to the public entity's consolidated income before income taxes and discontinued operations. However, if a public entity allocates items such as income taxes to segments, the public entity may choose to reconcile the total of the segments' measures of profit or loss to consolidated income after those items. Significant reconciling items shall be separately identified and described in that reconciliation.
+
+1. Paragraph superseded by Accounting Standards Update No. 2023-07.
 2. Paragraph superseded by Accounting Standards Update No. 2023-07.
 3. Paragraph superseded by Accounting Standards Update No. 2023-07.
 4. Paragraph superseded by Accounting Standards Update No. 2023-07.
@@ -464,11 +483,12 @@ A public entity shall provide information about the extent of its reliance on it
 
 ## 55 Implementation Guidance and Illustrations
 
-> **General Note:** The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
 
 ### General
 
-**280-10-55-1** This Implementation Guidance and Illustrations Section, which is an integral part of the requirements of this Subtopic, provides general guidance to assist users in the preparation of segment disclosures to be included in general-purpose financial statements of public entities. The Examples provide illustrations of the required disclosures and the determination of reportable segments.
+**280-10-55-1** Related Proposed ASUs
+This Implementation Guidance and Illustrations Section, which is an integral part of the requirements of this Subtopic, provides general guidance to assist users in the preparation of segment disclosures to be included in general-purpose financial statements of public entities. The Examples provide illustrations of the required disclosures and the determination of reportable segments.
 **280-10-55-1** This Implementation Guidance and Illustrations Section, which is an integral part of the requirements of this Subtopic, provides general guidance to assist users in the preparation of segment disclosures to be included in general-purpose financial statements of public entities. The Examples provide illustrations of the required disclosures and the determination of reportable segments.
 
 ##### · > Operating Segments - Equity Method                Investees
@@ -632,8 +652,10 @@ Because total external revenues of the segments identified as reportable in para
 **280-10-55-42** Paragraph 280-10-50-14 states that additional operating segments need to be identified as reportable segments (even if they do not meet the criteria in paragraph 280-10-50-12) until at least 75 percent of total consolidated revenue is included in reportable segments. Although in many instances it may be most logical that the next largest segment (in terms of revenues) be identified, paragraph 280-10-50-14 does not require that the additional segment or segments identified to satisfy this requirement be the next largest by any parameter. Therefore, in this Case, Segment A, C, E, or F may be identified as a reportable segment.
 **280-10-55-42** Paragraph 280-10-50-14 states that additional operating segments need to be identified as reportable segments (even if they do not meet the criteria in paragraph 280-10-50-12) until at least 75 percent of total consolidated revenue is included in reportable segments. Although in many instances it may be most logical that the next largest segment (in terms of revenues) be identified, paragraph 280-10-50-14 does not require that the additional segment or segments identified to satisfy this requirement be the next largest by any parameter. Therefore, in this Case, Segment A, C, E, or F may be identified as a reportable segment.
 **280-10-55-43** · · > Case E: Determining Reportable Segments After First Level of Aggregation
-Assume that operating income (loss) of each of the six segments is as follows. Assume that based on the above information (and an evaluation of revenues and assets) Segments A and C do not meet any of the quantitative threshold criteria. The public entity chooses to apply the aggregation criteria of paragraph 280-10-50-11. Segments B and E meet all of the aggregation criteria and the public entity aggregates them into a single operating segment. When the quantitative thresholds are then evaluated, Segment C (which previously did not meet any of the quantitative thresholds) now meets the 10 percent of segment profit or loss criterion.
-**280-10-55-43** Assume that operating income (loss) of each of the six segments is as follows. Assume that based on the above information (and an evaluation of revenues and assets) Segments A and C do not meet any of the quantitative threshold criteria. The public entity chooses to apply the aggregation criteria of paragraph 280-10-50-11. Segments B and E meet all of the aggregation criteria and the public entity aggregates them into a single operating segment. When the quantitative thresholds are then evaluated, Segment C (which previously did not meet any of the quantitative thresholds) now meets the 10 percent of segment profit or loss criterion.
+Assume that operating income (loss) of each of the six segments is as follows.
+Assume that based on the above information (and an evaluation of revenues and assets) Segments A and C do not meet any of the quantitative threshold criteria. The public entity chooses to apply the aggregation criteria of paragraph 280-10-50-11. Segments B and E meet all of the aggregation criteria and the public entity aggregates them into a single operating segment. When the quantitative thresholds are then evaluated, Segment C (which previously did not meet any of the quantitative thresholds) now meets the 10 percent of segment profit or loss criterion.
+**280-10-55-43** Assume that operating income (loss) of each of the six segments is as follows.
+Assume that based on the above information (and an evaluation of revenues and assets) Segments A and C do not meet any of the quantitative threshold criteria. The public entity chooses to apply the aggregation criteria of paragraph 280-10-50-11. Segments B and E meet all of the aggregation criteria and the public entity aggregates them into a single operating segment. When the quantitative thresholds are then evaluated, Segment C (which previously did not meet any of the quantitative thresholds) now meets the 10 percent of segment profit or loss criterion.
 **280-10-55-44** Threshold calculations based on the above assumptions are as follows.
 **280-10-55-44** Threshold calculations based on the above assumptions are as follows.
 **280-10-55-45** Segment C, which previously did not meet the quantitative thresholds but subsequent to the first level of aggregation meets one of the quantitative thresholds, would be considered a reportable segment. This Subtopic provides the order of the steps that should be performed for purposes of identifying reportable segments. That process is also diagrammed in paragraph 280-10-55-26 and further explained in Example 2, Case A (see paragraphs 280-10-55-33 through 55-34
@@ -668,7 +690,8 @@ Description of the types of products and services from which each reportable seg
 The following tables illustrate a format for presenting information about reported segment revenue, measures of a segment’s profit or loss, significant segment expenses, and measure of a segment's assets (see paragraphs 280-10-50-22, 280-10-50-25, and 280-10-50-26A through 50-26C
 ) for the current reporting period. The tables do not illustrate comparative period disclosures. Diversified Company does not allocate income taxes or unusual items to segments. In addition, not all segments have significant noncash items other than depreciation and amortization in reported profit or loss. The amounts in this Example are assumed to be the amounts in management’s reports that are regularly provided to the chief operating decision maker, including interest revenue and interest expense. The following tables also illustrate a format for presenting the reconciliations of reportable segment revenues and measures of profit or loss to Diversified Company’s consolidated totals (see paragraph 280-10-50-30(a) through (b)).
 **280-10-55-48** The following tables illustrate a format for presenting information about reported segment revenue, measures of a segment’s profit or loss, significant segment expenses, and measure of a segment's assets (see paragraphs 280-10-50-22, 280-10-50-25, and 280-10-50-26A through 50-26C
-**280-10-55-49** ) for the current reporting period. The tables do not illustrate comparative period disclosures. Diversified Company does not allocate income taxes or unusual items to segments. In addition, not all segments have significant noncash items other than depreciation and amortization in reported profit or loss. The amounts in this Example are assumed to be the amounts in management’s reports that are regularly provided to the chief operating decision maker, including interest revenue and interest expense. The following tables also illustrate a format for presenting the reconciliations of reportable segment revenues and measures of profit or loss to Diversified Company’s consolidated totals (see paragraph 280-10-50-30(a) through (b)).· · > Case C: Reconciliations of Reportable Segment Assets and Other Significant Items to the Consolidated Totals
+) for the current reporting period. The tables do not illustrate comparative period disclosures. Diversified Company does not allocate income taxes or unusual items to segments. In addition, not all segments have significant noncash items other than depreciation and amortization in reported profit or loss. The amounts in this Example are assumed to be the amounts in management’s reports that are regularly provided to the chief operating decision maker, including interest revenue and interest expense. The following tables also illustrate a format for presenting the reconciliations of reportable segment revenues and measures of profit or loss to Diversified Company’s consolidated totals (see paragraph 280-10-50-30(a) through (b)).
+**280-10-55-49** · · > Case C: Reconciliations of Reportable Segment Assets and Other Significant Items to the Consolidated Totals
 The following is an example of reconciliations of reportable segment assets and other significant items to the public entity's consolidated totals (see paragraph 280-10-50-30(c) through (d)). The public entity's financial statements are assumed not to include discontinued operations.
 **280-10-55-49** The following is an example of reconciliations of reportable segment assets and other significant items to the public entity's consolidated totals (see paragraph 280-10-50-30(c) through (d)). The public entity's financial statements are assumed not to include discontinued operations.
 **280-10-55-50** The reconciling item to adjust expenditures for assets is the amount of expenses incurred for the corporate headquarters building, which is not included in segment information. None of the other adjustments are significant.
@@ -714,7 +737,7 @@ The following table illustrates a format for presenting information about report
 
 ## 60 Relationships
 
-> **General Note:** The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
+General Note:The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
 
 ### General
 
@@ -735,7 +758,7 @@ For segment guidance in the casino industry, see Subtopic 924-280.
 
 ## 65 Transition and Open Effective Date Information
 
-> **General Note:** The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
+General Note:The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
 
 ### General
 
@@ -744,7 +767,7 @@ For segment guidance in the casino industry, see Subtopic 924-280.
 
 ## S50 Disclosure
 
-> **General Note:** The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
 
 ### General
 

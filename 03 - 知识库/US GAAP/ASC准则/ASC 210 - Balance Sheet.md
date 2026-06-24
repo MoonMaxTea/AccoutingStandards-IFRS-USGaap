@@ -13,7 +13,7 @@ subtopics: ["210-10"]
 
 ## 00 Status
 
-> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
 ### General
 
@@ -41,7 +41,7 @@ subtopics: ["210-10"]
 
 ## 05 Overview and Background
 
-> **General Note:** The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
 
 ### General
 
@@ -70,7 +70,7 @@ Financial position, as it is reflected by the records and accounts from which th
 
 ## 15 Scope and Scope Exceptions
 
-> **General Note:** The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
 
 ### General
 
@@ -85,7 +85,7 @@ The guidance in this Subtopic that relates to separate classification of current
 
 ## 20 Glossary
 
-> **General Note:** The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
 
 ##### Cash Equivalents
 
@@ -125,11 +125,11 @@ Working capital (also called net working capital) is represented by the excess o
 
 ## 45 Other Presentation Matters
 
-> **General Note:** The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
 
 ### General
 
-**210-10-45-1** > Classification of Current Assets
+**210-10-45-1** Related Proposed ASUs > Classification of Current Assets
 Current assets
 1. Cash available for current operations and items that are cash equivalents
 2. Inventories of merchandise, raw materials, goods in process, finished goods, operating supplies, and ordinary maintenance material and parts
@@ -232,7 +232,7 @@ Asset valuation allowances for losses such as those on receivables and investmen
 
 ## 50 Disclosure
 
-> **General Note:** The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
 
 ### General
 
@@ -243,7 +243,7 @@ are stated be supplemented by information that reveals, for the various classifi
 
 ## 60 Relationships
 
-> **General Note:** The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
+General Note:The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
 
 ### General
 
@@ -262,7 +262,7 @@ For guidance on the presentation of film costs in a classified balance sheet, se
 
 ## S00 Status
 
-> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
 ### General
 
@@ -284,7 +284,7 @@ For guidance on the presentation of film costs in a classified balance sheet, se
 
 ## S15 Scope and Scope Exceptions
 
-> **General Note:** The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
 
 ### General
 
@@ -294,7 +294,7 @@ See paragraph 205-10-S99-5, Regulation S-X Rule 5-01, for entities to which this
 
 ## S20 Glossary
 
-> **General Note:** The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
 
 ##### Long-Term Contracts
 
@@ -302,7 +302,7 @@ See paragraph 210-10-S99-1, Regulation S-X Rule 5-02.6(d), for a definition of l
 
 ## S45 Other Presentation Matters
 
-> **General Note:** The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
 
 ### General
 
@@ -312,7 +312,7 @@ See paragraph 210-10-S99-1, Regulation S-X Rule 5-02, for the presentation and c
 
 ## S50 Disclosure
 
-> **General Note:** The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
 
 ### General
 
@@ -356,7 +356,7 @@ See paragraph 210-10-S99-1, Regulation S-X Rule 5-02.27, for required disclosure
 
 ## S55 Implementation Guidance and Illustrations
 
-> **General Note:** The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
 
 ### General
 
@@ -366,7 +366,7 @@ See paragraph 210-10-S99-2, SAB Topic 6.H.3.c, for SEC Staff guidance related to
 
 ## S99 SEC Materials
 
-> **General Note:** As more fully described in *About the Codification*, the Codification includes selected SEC and SEC Staff content for reference by public companies. The Codification does not replace or affect how the SEC or SEC Staff issues or updates SEC content. SEC Staff content does not constitute Commission-approved rules or interpretations of the SEC.
+General Note:As more fully described in *About the Codification*, the Codification includes selected SEC and SEC Staff content for reference by public companies. The Codification does not replace or affect how the SEC or SEC Staff issues or updates SEC content. SEC Staff content does not constitute Commission-approved rules or interpretations of the SEC.
 
 ### General
 
@@ -535,3 +535,526 @@ Interpretive Response: Disclosure of compensating balance arrangements and other
 b. 10-Q Disclosures.
 Question: Are ASR 148 disclosures required in 10-Q's?
 Interpretive Response: In general, ASR 148 disclosures are not required in Form 10-Q. However, in some instances material changes in borrowing arrangements or borrowing levels may give rise to the need for disclosure either in Form 10-Q or Form 8-K.
+
+## 00 Status
+
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+
+### General
+
+**210-20-00-1** The following table identifies the changes made to this Subtopic.
+
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Cash | Added | Accounting Standards Update No. 2012-04 | 10/01/2012 |
+| Commencement Date of the Lease (Commencement Date) | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Contract | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lessee | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lessor | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Leveraged Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Repurchase Agreement Accounted for as a Collateralized Borrowing (formerly Repurchase Agreement [2nd def.]) | Added | Accounting Standards Update No. 2014-06 | 03/14/2014 |
+| Repurchase Agreement (2nd def) | Superseded | Accounting Standards Update No. 2014-06 | 03/14/2014 |
+| Reverse Repurchase Agreement Accounted for as a Collateralized Borrowing (formerly Reverse Repurchase Agreement) | Added | Accounting Standards Update No. 2014-06 | 03/14/2014 |
+| Reverse Repurchase Agreement | Superseded | Accounting Standards Update No. 2014-06 | 03/14/2014 |
+| Underlying Asset | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 210-20-05-3 | Amended | Accounting Standards Update No. 2014-06 | 03/14/2014 |
+| 210-20-15-3 | Amended | Maintenance Update 2017-21 | 12/22/2017 |
+| 210-20-15-3 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 210-20-15-3 | Amended | Accounting Standards Update No. 2013-11 | 07/18/2013 |
+| 210-20-15-3 | Amended | Accounting Standards Update No. 2012-04 | 10/01/2012 |
+| 210-20-45-11 | Amended | Accounting Standards Update No. 2014-06 | 03/14/2014 |
+| 210-20-50-1 through 50-5 | Amended | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| 210-20-50-1 | Amended | Accounting Standards Update No. 2014-06 | 03/14/2014 |
+| 210-20-50-1 | Amended | Accounting Standards Update No. 2013-01 | 01/31/2013 |
+| 210-20-50-1 through 50-6 | Added | Accounting Standards Update No. 2011-11 | 12/16/2011 |
+| 210-20-50-2 | Amended | Accounting Standards Update No. 2013-01 | 01/31/2013 |
+| 210-20-55-1 through 55-22 | Added | Accounting Standards Update No. 2011-11 | 12/16/2011 |
+| 210-20-55-2 through 55-5 | Superseded | Accounting Standards Update No. 2013-01 | 01/31/2013 |
+| 210-20-55-7 | Amended | Accounting Standards Update No. 2013-01 | 01/31/2013 |
+| 210-20-55-10A | Added | Accounting Standards Update No. 2013-01 | 01/31/2013 |
+| 210-20-55-18A | Added | Accounting Standards Update No. 2012-04 | 10/01/2012 |
+| 210-20-55-20 through 55-22 | Amended | Accounting Standards Update No. 2013-01 | 01/31/2013 |
+| 210-20-55-22 | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| 210-20-60-3 | Amended | Accounting Standards Update No. 2013-11 | 07/18/2013 |
+| 210-20-60-3A | Added | Accounting Standards Update No. 2012-04 | 10/01/2012 |
+| 210-20-60-4 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 210-20-60-7 | Amended | Maintenance Update 2017-21 | 12/22/2017 |
+| 210-20-65-1 | Amended | Accounting Standards Update No. 2013-01 | 01/31/2013 |
+| 210-20-65-1 | Added | Accounting Standards Update No. 2011-11 | 12/16/2011 |
+| 210-20-65-2 | Added | Accounting Standards Update No. 2013-01 | 01/31/2013 |
+
+
+**210-20-00-1** The following table identifies the changes made to this Subtopic.
+
+
+| Paragraph | Action | Accounting Standards Update | Date |
+| --- | --- | --- | --- |
+| Cash | Added | Accounting Standards Update No. 2012-04 | 10/01/2012 |
+| Commencement Date of the Lease (Commencement Date) | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Contract | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lessee | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Lessor | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Leveraged Lease | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| Repurchase Agreement Accounted for as a Collateralized Borrowing (formerly Repurchase Agreement [2nd def.]) | Added | Accounting Standards Update No. 2014-06 | 03/14/2014 |
+| Repurchase Agreement (2nd def) | Superseded | Accounting Standards Update No. 2014-06 | 03/14/2014 |
+| Reverse Repurchase Agreement Accounted for as a Collateralized Borrowing (formerly Reverse Repurchase Agreement) | Added | Accounting Standards Update No. 2014-06 | 03/14/2014 |
+| Reverse Repurchase Agreement | Superseded | Accounting Standards Update No. 2014-06 | 03/14/2014 |
+| Underlying Asset | Added | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 210-20-05-3 | Amended | Accounting Standards Update No. 2014-06 | 03/14/2014 |
+| 210-20-15-3 | Amended | Maintenance Update 2017-21 | 12/22/2017 |
+| 210-20-15-3 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 210-20-15-3 | Amended | Accounting Standards Update No. 2013-11 | 07/18/2013 |
+| 210-20-15-3 | Amended | Accounting Standards Update No. 2012-04 | 10/01/2012 |
+| 210-20-45-11 | Amended | Accounting Standards Update No. 2014-06 | 03/14/2014 |
+| 210-20-50-1 through 50-5 | Amended | Accounting Standards Update No. 2025-11 | 12/08/2025 |
+| 210-20-50-1 | Amended | Accounting Standards Update No. 2014-06 | 03/14/2014 |
+| 210-20-50-1 | Amended | Accounting Standards Update No. 2013-01 | 01/31/2013 |
+| 210-20-50-1 through 50-6 | Added | Accounting Standards Update No. 2011-11 | 12/16/2011 |
+| 210-20-50-2 | Amended | Accounting Standards Update No. 2013-01 | 01/31/2013 |
+| 210-20-55-1 through 55-22 | Added | Accounting Standards Update No. 2011-11 | 12/16/2011 |
+| 210-20-55-2 through 55-5 | Superseded | Accounting Standards Update No. 2013-01 | 01/31/2013 |
+| 210-20-55-7 | Amended | Accounting Standards Update No. 2013-01 | 01/31/2013 |
+| 210-20-55-10A | Added | Accounting Standards Update No. 2013-01 | 01/31/2013 |
+| 210-20-55-18A | Added | Accounting Standards Update No. 2012-04 | 10/01/2012 |
+| 210-20-55-20 through 55-22 | Amended | Accounting Standards Update No. 2013-01 | 01/31/2013 |
+| 210-20-55-22 | Amended | Accounting Standards Update No. 2016-19 | 12/14/2016 |
+| 210-20-60-3 | Amended | Accounting Standards Update No. 2013-11 | 07/18/2013 |
+| 210-20-60-3A | Added | Accounting Standards Update No. 2012-04 | 10/01/2012 |
+| 210-20-60-4 | Amended | Accounting Standards Update No. 2016-02 | 02/25/2016 |
+| 210-20-60-7 | Amended | Maintenance Update 2017-21 | 12/22/2017 |
+| 210-20-65-1 | Amended | Accounting Standards Update No. 2013-01 | 01/31/2013 |
+| 210-20-65-1 | Added | Accounting Standards Update No. 2011-11 | 12/16/2011 |
+| 210-20-65-2 | Added | Accounting Standards Update No. 2013-01 | 01/31/2013 |
+
+## 05 Overview and Background
+
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+
+### General
+
+**210-20-05-1** This Subtopic provides criteria for offsetting amounts related to certain contracts and provides guidance on presentation. It is a general principle of accounting that the offsetting of assets and liabilities in the balance sheet is improper except if a right of setoff
+exists.
+**210-20-05-1** This Subtopic provides criteria for offsetting amounts related to certain contracts and provides guidance on presentation. It is a general principle of accounting that the offsetting of assets and liabilities in the balance sheet is improper except if a right of setoff
+**210-20-05-2** exists.
+The general principle that the offsetting of assets and liabilities is improper except where a right of setoff exists is usually thought of in the context of unconditional receivables from and payables to another party. That general principle also applies to conditional amounts recognized for contracts under which the amounts to be received or paid or items to be exchanged in the future depend on future interest rates, future exchange rates, future commodity prices, or other factors.
+**210-20-05-2** The general principle that the offsetting of assets and liabilities is improper except where a right of setoff exists is usually thought of in the context of unconditional receivables from and payables to another party. That general principle also applies to conditional amounts recognized for contracts under which the amounts to be received or paid or items to be exchanged in the future depend on future interest rates, future exchange rates, future commodity prices, or other factors.
+**210-20-05-3** > Repurchase and Reverse Repurchase Agreements
+As defined, repurchase agreements accounted for as collateralized borrowings
+and reverse repurchase agreements accounted for as collateralized borrowings represent collateralized borrowing and lending transactions. These transactions may involve a master netting agreement between the parties. This Subtopic addresses offsetting for such borrowing and lending transactions.
+**210-20-05-3** As defined, repurchase agreements accounted for as collateralized borrowings
+
+## 15 Scope and Scope Exceptions
+
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+
+### General
+
+**210-20-15-1** > Entities
+The guidance in this Subtopic applies to all entities.
+The guidance in this Subtopic applies to all entities.
+**210-20-15-2** > Transactions
+The derecognition or nonrecognition of assets and liabilities. Derecognition by sale of an asset or extinguishment of a liability results in removal of a recognized asset or liability and generally results in the recognition of gain or loss. Although conceptually different, offsetting that results in a net amount of zero and derecognition with no gain or loss are indistinguishable in their effects on the statement of financial position. Likewise, not recognizing assets and liabilities of the same amount in financial statements achieves similar reported results.
+
+The derecognition or nonrecognition of assets and liabilities. Derecognition by sale of an asset or extinguishment of a liability results in removal of a recognized asset or liability and generally results in the recognition of gain or loss. Although conceptually different, offsetting that results in a net amount of zero and derecognition with no gain or loss are indistinguishable in their effects on the statement of financial position. Likewise, not recognizing assets and liabilities of the same amount in financial statements achieves similar reported results.
+
+**210-20-15-3** > Other Considerations
+The general principle of a right of setoff
+1. Subtopic 842-50 (leveraged leases)
+2. Subtopic 715-30 (accounting for pension plan assets and liabilities)
+3. Subtopic 715-60 (accounting for plan assets and liabilities)
+4. Subtopic 740-10 (net tax asset or liability amounts reported)
+5. Paragraphs 815-10-45-1 through 45-7 (derivative instruments with the right to reclaim cash collateral or the obligation to return cash collateral)
+6. Subtopics 940-320 (trade date accounting for trading portfolio positions) and 910-405 (advances received on construction contracts)
+7. Paragraph 942-210-45-3A (reciprocal balances with other banks).
+
+The general principle of a right of setoff
+1. Subtopic 842-50 (leveraged leases)
+2. Subtopic 715-30 (accounting for pension plan assets and liabilities)
+3. Subtopic 715-60 (accounting for plan assets and liabilities)
+4. Subtopic 740-10 (net tax asset or liability amounts reported)
+5. Paragraphs 815-10-45-1 through 45-7 (derivative instruments with the right to reclaim cash collateral or the obligation to return cash collateral)
+6. Subtopics 940-320 (trade date accounting for trading portfolio positions) and 910-405 (advances received on construction contracts)
+7. Paragraph 942-210-45-3A (reciprocal balances with other banks).
+
+## 20 Glossary
+
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+
+##### Cash
+
+Consistent with common usage, cash includes not only currency on hand but demand deposits with banks or other financial institutions. Cash also includes other kinds of accounts that have the general characteristics of demand deposits in that the customer may deposit additional funds at any time and also effectively may withdraw funds at any time without prior notice or penalty. All charges and credits to those accounts are cash receipts or payments to both the entity owning the account and the bank holding it. For example, a bank's granting of a loan by crediting the proceeds to a customer's demand deposit account is a cash payment by the bank and a cash receipt of the customer when the entry is made.
+Consistent with common usage, cash includes not only currency on hand but demand deposits with banks or other financial institutions. Cash also includes other kinds of accounts that have the general characteristics of demand deposits in that the customer may deposit additional funds at any time and also effectively may withdraw funds at any time without prior notice or penalty. All charges and credits to those accounts are cash receipts or payments to both the entity owning the account and the bank holding it. For example, a bank's granting of a loan by crediting the proceeds to a customer's demand deposit account is a cash payment by the bank and a cash receipt of the customer when the entry is made.
+
+##### Commencement Date of the Lease        (Commencement Date)
+
+The date on which a lessor makes an underlying asset available for use by a lessee. See paragraphs 842-10-55-19 through 55-21
+for implementation guidance on the commencement date.
+The date on which a lessor makes an underlying asset available for use by a lessee. See paragraphs 842-10-55-19 through 55-21
+for implementation guidance on the commencement date.
+
+##### Contract
+
+An agreement between two or more parties that creates enforceable rights and obligations.
+An agreement between two or more parties that creates enforceable rights and obligations.
+
+##### Daylight Overdraft
+
+Daylight overdraft or other intraday credit refers to the accommodation in the banking arrangements that allows transactions to be completed even if there is insufficient cash on deposit during the day provided there is sufficient cash to cover the net cash requirement at the end of the day. That accommodation may be through a credit facility, including a credit facility for which a fee is charged, or from a deposit of collateral.
+Daylight overdraft or other intraday credit refers to the accommodation in the banking arrangements that allows transactions to be completed even if there is insufficient cash on deposit during the day provided there is sufficient cash to cover the net cash requirement at the end of the day. That accommodation may be through a credit facility, including a credit facility for which a fee is charged, or from a deposit of collateral.
+
+##### Derivative Instrument
+
+Paragraphs 815-10-15-83 through 15-139 define the term *derivative instrument*.
+Paragraphs 815-10-15-83 through 15-139
+
+##### Lease
+
+define the term *derivative instrument*. A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
+A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
+
+##### Lessee
+
+An entity that enters into a contract to obtain the right to use an underlying asset for a period of time in exchange for consideration.
+An entity that enters into a contract to obtain the right to use an underlying asset for a period of time in exchange for consideration.
+
+##### Lessor
+
+An entity that enters into a contract to provide the right to use an underlying asset for a period of time in exchange for consideration.
+An entity that enters into a contract to provide the right to use an underlying asset for a period of time in exchange for consideration.
+
+##### Leveraged                Lease
+
+From the perspective of a lessor, a lease that was classified as a leveraged lease in accordance with the leases guidance in effect before the effective date and for which the commencement date is before the effective date.
+From the perspective of a lessor, a lease that was classified as a leveraged lease in accordance with the leases guidance in effect before the effective date and for which the commencement date is before the effective date.
+
+##### Repurchase Agreement Accounted for as a Collateralized Borrowing
+
+A repurchase agreement (repo) refers to a transaction in which a seller-borrower of securities sells those securities to a buyer-lender with an agreement to repurchase them at a stated price plus interest at a specified date or in specified circumstances. A repurchase agreement accounted for as a collateralized borrowing is a repo that does not qualify for sale accounting under Topic 860. The payable under a repurchase agreement accounted for as a collateralized borrowing refers to the amount of the seller-borrower's obligation recognized for the future repurchase of the securities from the buyer-lender. In certain industries, the terminology is reversed; that is, entities in those industries refer to this type of agreement as a reverse repo.
+A repurchase agreement (repo) refers to a transaction in which a seller-borrower of securities sells those securities to a buyer-lender with an agreement to repurchase them at a stated price plus interest at a specified date or in specified circumstances. A repurchase agreement accounted for as a collateralized borrowing is a repo that does not qualify for sale accounting under Topic 860. The payable under a repurchase agreement accounted for as a collateralized borrowing refers to the amount of the seller-borrower's obligation recognized for the future repurchase of the securities from the buyer-lender. In certain industries, the terminology is reversed; that is, entities in those industries refer to this type of agreement as a reverse repo.
+
+##### Reverse Repurchase Agreement Accounted for as a Collateralized Borrowing
+
+A reverse repurchase agreement accounted for as a collateralized borrowing (also known as a reverse repo) refers to a transaction that is accounted for as a collateralized lending in which a buyer-lender buys securities with an agreement to resell them to the seller-borrower at a stated price plus interest at a specified date or in specified circumstances. The receivable under a reverse repurchase agreement accounted for as a collateralized borrowing refers to the amount due from the seller-borrower for the repurchase of the securities from the buyer-lender. In certain industries, the terminology is reversed; that is, entities in those industries refer to this type of agreement as a repo.
+A reverse repurchase agreement accounted for as a collateralized borrowing (also known as a reverse repo) refers to a transaction that is accounted for as a collateralized lending in which a buyer-lender buys securities with an agreement to resell them to the seller-borrower at a stated price plus interest at a specified date or in specified circumstances. The receivable under a reverse repurchase agreement accounted for as a collateralized borrowing refers to the amount due from the seller-borrower for the repurchase of the securities from the buyer-lender. In certain industries, the terminology is reversed; that is, entities in those industries refer to this type of agreement as a repo.
+
+##### Right of Setoff
+
+A right of setoff is a debtor's legal right, by contract or otherwise, to discharge all or a portion of the debt owed to another party by applying against the debt an amount that the other party owes to the debtor.
+A right of setoff is a debtor's legal right, by contract or otherwise, to discharge all or a portion of the debt owed to another party by applying against the debt an amount that the other party owes to the debtor.
+
+##### Securities Custodian
+
+The securities custodian for a securities transfer system may be the bank or financial institution that executes securities transfers over the securities transfer system, and book entry securities exist only in electronic form on the records of the transfer system operator for each entity that has a security account with the transfer system operator.
+The securities custodian for a securities transfer system may be the bank or financial institution that executes securities transfers over the securities transfer system, and book entry securities exist only in electronic form on the records of the transfer system operator for each entity that has a security account with the transfer system operator.
+
+##### Underlying Asset
+
+An asset that is the subject of a lease for which a right to use that asset has been conveyed to a lessee. The underlying asset could be a physically distinct portion of a single asset.
+An asset that is the subject of a lease for which a right to use that asset has been conveyed to a lessee. The underlying asset could be a physically distinct portion of a single asset.
+
+## 45 Other Presentation Matters
+
+General Note:The Other Presentation Matters Section provides guidance on other presentation matters not addressed in the Recognition, Initial Measurement, Subsequent Measurement, and Derecognition Sections. Other presentation matters may include items such as current or long-term balance sheet classification, cash flow presentation, earnings per share matters, and so forth. The FASB Codification also contains Presentation Topics, which provide guidance for general presentation and display items. See those Topics for general guidance.
+
+### General
+
+**210-20-45-1** > Right of Setoff Conditions
+A right of setoff
+1. Each of two parties owes the other determinable amounts.
+2. The reporting party has the right to set off the amount owed with the amount owed by the other party.
+3. The reporting party intends to set off.
+4. The right of setoff is enforceable at law.
+
+A right of setoff
+1. Each of two parties owes the other determinable amounts.
+2. The reporting party has the right to set off the amount owed with the amount owed by the other party.
+3. The reporting party intends to set off.
+4. The right of setoff is enforceable at law.
+
+A debtor having a valid right of setoff may offset the related asset and liability and report the net amount.
+A debtor having a valid right of setoff may offset the related asset and liability and report the net amount.
+If the parties meet the criteria specified in paragraph 210-20-45-1, specifying currency or interest rate requirements is unnecessary. However, if maturities differ, only the party with the nearer maturity could offset because the party with the longer term maturity must settle in the manner that the other party selects at the earlier maturity date.
+If the parties meet the criteria specified in paragraph 210-20-45-1, specifying currency or interest rate requirements is unnecessary. However, if maturities differ, only the party with the nearer maturity could offset because the party with the longer term maturity must settle in the manner that the other party selects at the earlier maturity date.
+If a party does not intend to set off even though the ability to set off exists, an offsetting presentation in the statement of financial position is not representationally faithful.
+If a party does not intend to set off even though the ability to set off exists, an offsetting presentation in the statement of financial position is not representationally faithful.
+Acknowledgment of the intent to set off by the reporting party and, if applicable, demonstration of the execution of the setoff in similar situations meet the criterion of intent.
+Acknowledgment of the intent to set off by the reporting party and, if applicable, demonstration of the execution of the setoff in similar situations meet the criterion of intent.
+**210-20-45-6** > Offsetting Securities Against Taxes Payable
+The offset of cash or other assets against the tax liability or other amounts owing to governmental bodies shall not be acceptable except in the circumstances described in the following paragraph.
+The offset of cash or other assets against the tax liability or other amounts owing to governmental bodies shall not be acceptable except in the circumstances described in the following paragraph.
+Most securities issued by governments are not by their terms designed specifically for the payment of taxes and, accordingly, shall not be deducted from taxes payable on the balance sheet. The only exception to this general principle occurs when it is clear that a purchase of securities (acceptable for the payment of taxes) is in substance an advance payment of taxes that will be payable in the relatively near future, so that in the special circumstances the purchase is tantamount to the prepayment of taxes. This occurs at times, for example, as an accommodation to a local government and in some instances when governments issue securities that are specifically designated as being acceptable for the payment of taxes of those governments.
+Most securities issued by governments are not by their terms designed specifically for the payment of taxes and, accordingly, shall not be deducted from taxes payable on the balance sheet. The only exception to this general principle occurs when it is clear that a purchase of securities (acceptable for the payment of taxes) is in substance an advance payment of taxes that will be payable in the relatively near future, so that in the special circumstances the purchase is tantamount to the prepayment of taxes. This occurs at times, for example, as an accommodation to a local government and in some instances when governments issue securities that are specifically designated as being acceptable for the payment of taxes of those governments.
+**210-20-45-8** > Assurance that Right of Setoff Is Enforceable in a Bankruptcy
+State laws about the right of setoff may provide results different from those normally provided by contract or as a matter of common law. Similarly, the U.S. Bankruptcy Code imposes restrictions on or prohibitions against the right of setoff
+in bankruptcy under certain circumstances. Legal constraints should be considered to determine whether the right of setoff is enforceable.
+State laws about the right of setoff may provide results different from those normally provided by contract or as a matter of common law. Similarly, the U.S. Bankruptcy Code imposes restrictions on or prohibitions against the right of setoff
+**210-20-45-9** in bankruptcy under certain circumstances. Legal constraints should be considered to determine whether the right of setoff is enforceable.
+The phrase *enforceable at law* encompasses the idea that the right of setoff should be upheld in bankruptcy. The nature of support required for an assertion in financial statements that a right of setoff is enforceable at law is subject to a cost-benefit constraint and depends on facts and circumstances. All of the information that is available, either supporting or questioning enforceability, should be considered. Offsetting is appropriate only if the available evidence, both positive and negative, indicates that there is reasonable assurance that the right of setoff would be upheld in bankruptcy.
+The phrase *enforceable at law* encompasses the idea that the right of setoff should be upheld in bankruptcy. The nature of support required for an assertion in financial statements that a right of setoff is enforceable at law is subject to a cost-benefit constraint and depends on facts and circumstances. All of the information that is available, either supporting or questioning enforceability, should be considered. Offsetting is appropriate only if the available evidence, both positive and negative, indicates that there is reasonable assurance that the right of setoff would be upheld in bankruptcy.
+Paragraph not used.
+Paragraph not used.
+**210-20-45-11** > Repurchase and Reverse Repurchase Agreements
+Notwithstanding the condition in paragraph 210-20-45-1(c), an entity may, but is not required to, offset amounts recognized as payables under repurchase agreements accounted for as collateralized borrowings
+1. The repurchase and reverse repurchase agreements are executed with the same counterparty.
+2. The repurchase and reverse repurchase agreements have the same explicit settlement date specified at the inception of the agreement.
+3. The repurchase and reverse repurchase agreements are executed in accordance with a master netting arrangement.
+4. The securities underlying the repurchase and reverse repurchase agreements exist in book entry form and can be transferred only by means of entries in the records of the transfer system operator or securities custodian. Book entry securities meeting the criterion in this paragraph exist only as items in accounting records maintained by a transfer system operator. This requirement does not preclude offsetting of securities held in book entry form solely because other securities of the same issue exist in other forms.
+5. The repurchase and reverse repurchase agreements will be settled on a securities transfer system that operates in the manner described in paragraphs 210-20-45-14 through 45-17, and the entity must have associated banking arrangements in place as described in those paragraphs. Cash settlements for securities transferred shall be made under established banking arrangements that provide that the entity will need available cash on deposit only for any net amounts that are due at the end of the business day. It must be probable that the associated banking arrangements will provide sufficient daylight overdraft or other intraday credit at the settlement date for each of the parties. The term *probable* is used in this Subtopic consistent with its use in paragraph 450-20-25-1 to mean that a transaction or event is likely to occur.
+6. The entity intends to use the same account at the clearing bank or other financial institution at the settlement date in transacting both the cash inflows resulting from the settlement of the reverse repurchase agreement and the cash outflows in settlement of the offsetting repurchase agreement.
+
+Notwithstanding the condition in paragraph 210-20-45-1(c), an entity may, but is not required to, offset amounts recognized as payables under repurchase agreements accounted for as collateralized borrowings
+1. The repurchase and reverse repurchase agreements are executed with the same counterparty.
+2. The repurchase and reverse repurchase agreements have the same explicit settlement date specified at the inception of the agreement.
+3. The repurchase and reverse repurchase agreements are executed in accordance with a master netting arrangement.
+4. The securities underlying the repurchase and reverse repurchase agreements exist in book entry form and can be transferred only by means of entries in the records of the transfer system operator or securities custodian. Book entry securities meeting the criterion in this paragraph exist only as items in accounting records maintained by a transfer system operator. This requirement does not preclude offsetting of securities held in book entry form solely because other securities of the same issue exist in other forms.
+5. The repurchase and reverse repurchase agreements will be settled on a securities transfer system that operates in the manner described in paragraphs 210-20-45-14 through 45-17, and the entity must have associated banking arrangements in place as described in those paragraphs. Cash settlements for securities transferred shall be made under established banking arrangements that provide that the entity will need available cash on deposit only for any net amounts that are due at the end of the business day. It must be probable that the associated banking arrangements will provide sufficient daylight overdraft or other intraday credit at the settlement date for each of the parties. The term *probable* is used in this Subtopic consistent with its use in paragraph 450-20-25-1 to mean that a transaction or event is likely to occur.
+6. The entity intends to use the same account at the clearing bank or other financial institution at the settlement date in transacting both the cash inflows resulting from the settlement of the reverse repurchase agreement and the cash outflows in settlement of the offsetting repurchase agreement.
+
+The entity's choice to offset or not shall be applied consistently. Net receivables resulting from the application of this Subtopic shall not be offset against net payables resulting from the application of this Subtopic in the statement of financial position.
+The entity's choice to offset or not shall be applied consistently. Net receivables resulting from the application of this Subtopic shall not be offset against net payables resulting from the application of this Subtopic in the statement of financial position.
+Paragraph 210-20-45-11 does not apply to amounts recognized for other types of repurchase and reverse repurchase agreements executed under a master netting arrangement; however, those amounts could otherwise meet the conditions of paragraph 210-20-45-1 for a right of setoff. Therefore, unless all conditions in that paragraph are met, the amount recognized under a repurchase agreement that does not settle in accordance with all the conditions of paragraphs 210-20-45-11 through 45-17
+may not be offset against the amount recognized under a reverse repurchase agreement merely because the agreements are executed with the same counterparty under a master netting arrangement. The gross unconditional receivables and payables recognized in the statement of financial position related to those types of repurchase and reverse repurchase agreements provide useful information about the timing and amount of future cash flows that would be lost if those amounts were offset.
+Paragraph 210-20-45-11 does not apply to amounts recognized for other types of repurchase and reverse repurchase agreements executed under a master netting arrangement; however, those amounts could otherwise meet the conditions of paragraph 210-20-45-1 for a right of setoff. Therefore, unless all conditions in that paragraph are met, the amount recognized under a repurchase agreement that does not settle in accordance with all the conditions of paragraphs 210-20-45-11 through 45-17
+**210-20-45-14** may not be offset against the amount recognized under a reverse repurchase agreement merely because the agreements are executed with the same counterparty under a master netting arrangement. The gross unconditional receivables and payables recognized in the statement of financial position related to those types of repurchase and reverse repurchase agreements provide useful information about the timing and amount of future cash flows that would be lost if those amounts were offset. > Securities Transfer System
+This guidance describes a securities transfer system for repurchase agreements and reverse repurchase agreements (and associated banking arrangements) that meets the requirements of paragraph 210-20-45-11. In a securities transfer system for repurchase agreements and reverse repurchase agreements that meets the requirements of that paragraph, cash transfers are initiated by notification from the owner of record of the securities to its securities custodian to transfer those securities to the counterparty to the agreement. The securities custodian for a securities transfer system may be the bank or financial institution that executes securities transfers over the securities transfer system, and book entry securities exist only in electronic form on the records of the transfer system operator for each entity that has a security account with the transfer system operator. Book entry securities exist only as items of account on the controlling records of the transfer system operator. Banks or other financial institutions may maintain subsidiary records of book entry securities. Book entry securities may be transferred on the subsidiary records of a bank or financial institution but, for entities that have a security account with the transfer system operator, may be transferred from the account of such an entity only through the transfer system operator.
+This guidance describes a securities transfer system for repurchase agreements and reverse repurchase agreements (and associated banking arrangements) that meets the requirements of paragraph 210-20-45-11. In a securities transfer system for repurchase agreements and reverse repurchase agreements that meets the requirements of that paragraph, cash transfers are initiated by notification from the owner of record of the securities to its securities custodian to transfer those securities to the counterparty to the agreement. The securities custodian for a securities transfer system may be the bank or financial institution that executes securities transfers over the securities transfer system, and book entry securities exist only in electronic form on the records of the transfer system operator for each entity that has a security account with the transfer system operator. Book entry securities exist only as items of account on the controlling records of the transfer system operator. Banks or other financial institutions may maintain subsidiary records of book entry securities. Book entry securities may be transferred on the subsidiary records of a bank or financial institution but, for entities that have a security account with the transfer system operator, may be transferred from the account of such an entity only through the transfer system operator.
+Under associated banking arrangements, each party to a same-day settlement of both a repurchase agreement and a reverse repurchase agreement would be obligated to pay a gross amount of cash for the securities transferred from its counterparty but would be able to reduce that gross obligation by notifying its securities custodian to transfer other securities to that counterparty the same day.
+Under associated banking arrangements, each party to a same-day settlement of both a repurchase agreement and a reverse repurchase agreement would be obligated to pay a gross amount of cash for the securities transferred from its counterparty but would be able to reduce that gross obligation by notifying its securities custodian to transfer other securities to that counterparty the same day.
+Thus, each party is responsible for maintaining available cash on deposit only for the amount of any net payable unless it fails to instruct its securities custodian to transfer securities to its counterparty. Failure by either party to instruct its securities custodian to transfer securities owned of record would result in that party's failing to receive cash from the counterparty and, thereby, would require that party to have available cash on deposit for the gross payable due for securities transferred to it. The failure also shall be an event of default under the master netting arrangement required by paragraph 210-20-45-11. The event of default, in turn, shall entitle the other party to terminate the arrangement and demand the immediate net settlement of all contracts.
+Thus, each party is responsible for maintaining available cash on deposit only for the amount of any net payable unless it fails to instruct its securities custodian to transfer securities to its counterparty. Failure by either party to instruct its securities custodian to transfer securities owned of record would result in that party's failing to receive cash from the counterparty and, thereby, would require that party to have available cash on deposit for the gross payable due for securities transferred to it. The failure also shall be an event of default under the master netting arrangement required by paragraph 210-20-45-11. The event of default, in turn, shall entitle the other party to terminate the arrangement and demand the immediate net settlement of all contracts.
+If both parties transfer the appropriate securities in settlement of the repurchase and reverse repurchase agreements, the party with a net receivable will not need any cash to facilitate the settlement, while the party with a net payable will need only to have available the required net amount due at the end of the business day.
+If both parties transfer the appropriate securities in settlement of the repurchase and reverse repurchase agreements, the party with a net receivable will not need any cash to facilitate the settlement, while the party with a net payable will need only to have available the required net amount due at the end of the business day.
+
+## 50 Disclosure
+
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+
+### General
+
+**210-20-50-1** > Offsetting of Derivatives, Repurchase Agreements, and Securities Lending Transactions
+The disclosure requirements in paragraphs 210-20-50-2 through 50-5
+1. Subparagraph superseded by Accounting Standards Update No. 2013-01.
+2. Subparagraph superseded by Accounting Standards Update No. 2013-01.
+3. Recognized derivative instruments accounted for in accordance with Topic 815, including bifurcated embedded derivatives, repurchase agreements accounted for as collateralized borrowings and reverse repurchase agreements, and securities borrowing and securities lending transactions that are offset in accordance with either Section 210-20-45 or Section 815-10-45
+4. Recognized derivative instruments accounted for in accordance with Topic 815, including bifurcated embedded derivatives, repurchase agreements and reverse repurchase agreements, and securities borrowing and securities lending transactions that are subject to an enforceable master netting arrangement or similar agreement, irrespective of whether they are offset in accordance with either Section 210-20-45 or Section 815-10-45.
+
+1. Subparagraph superseded by Accounting Standards Update No. 2013-01.
+2. Subparagraph superseded by Accounting Standards Update No. 2013-01.
+3. Recognized derivative instruments accounted for in accordance with Topic 815, including bifurcated embedded derivatives, repurchase agreements accounted for as collateralized borrowings and reverse repurchase agreements, and securities borrowing and securities lending transactions that are offset in accordance with either Section 210-20-45 or Section 815-10-45
+4. Recognized derivative instruments accounted for in accordance with Topic 815, including bifurcated embedded derivatives, repurchase agreements and reverse repurchase agreements, and securities borrowing and securities lending transactions that are subject to an enforceable master netting arrangement or similar agreement, irrespective of whether they are offset in accordance with either Section 210-20-45 or Section 815-10-45.
+
+**210-20-50-1** The disclosure requirements in paragraphs 210-20-50-2 through 50-5
+1. Subparagraph superseded by Accounting Standards Update No. 2013-01.
+2. Subparagraph superseded by Accounting Standards Update No. 2013-01.
+3. Recognized derivative instruments accounted for in accordance with Topic 815, including bifurcated embedded derivatives, repurchase agreements accounted for as collateralized borrowings and reverse repurchase agreements, and securities borrowing and securities lending transactions that are offset in accordance with either Section 210-20-45 or Section 815-10-45
+4. Recognized derivative instruments accounted for in accordance with Topic 815, including bifurcated embedded derivatives, repurchase agreements and reverse repurchase agreements, and securities borrowing and securities lending transactions that are subject to an enforceable master netting arrangement or similar agreement, irrespective of whether they are offset in accordance with either Section 210-20-45 or Section 815-10-45.
+
+1. Subparagraph superseded by Accounting Standards Update No. 2013-01.
+2. Subparagraph superseded by Accounting Standards Update No. 2013-01.
+3. Recognized derivative instruments accounted for in accordance with Topic 815, including bifurcated embedded derivatives, repurchase agreements accounted for as collateralized borrowings and reverse repurchase agreements, and securities borrowing and securities lending transactions that are offset in accordance with either Section 210-20-45 or Section 815-10-45
+4. Recognized derivative instruments accounted for in accordance with Topic 815, including bifurcated embedded derivatives, repurchase agreements and reverse repurchase agreements, and securities borrowing and securities lending transactions that are subject to an enforceable master netting arrangement or similar agreement, irrespective of whether they are offset in accordance with either Section 210-20-45 or Section 815-10-45.
+
+**210-20-50-2** An entity shall disclose information to enable users of its financial statements to evaluate the effect or potential effect of netting arrangements on its financial position for recognized assets and liabilities within the scope of paragraph 210-20-50-1. This includes the effect or potential effect of rights of setoff
+associated with an entity's recognized assets and recognized liabilities that are in the scope of paragraph 210-20-50-1.PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For interim and annual reporting periods, an entity shall disclose information to enable users of its financial statements to evaluate the effect or potential effect of netting arrangements on its financial position for recognized assets and liabilities within the scope of paragraph 210-20-50-1. This includes the effect or potential effect of rights of setoff associated with an entity's recognized assets and recognized liabilities that are in the scope of paragraph 210-20-50-1.
+**210-20-50-2** An entity shall disclose information to enable users of its financial statements to evaluate the effect or potential effect of netting arrangements on its financial position for recognized assets and liabilities within the scope of paragraph 210-20-50-1. This includes the effect or potential effect of rights of setoff
+**210-20-50-3** associated with an entity's recognized assets and recognized liabilities that are in the scope of paragraph 210-20-50-1.PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For interim and annual reporting periods, an entity shall disclose information to enable users of its financial statements to evaluate the effect or potential effect of netting arrangements on its financial position for recognized assets and liabilities within the scope of paragraph 210-20-50-1. This includes the effect or potential effect of rights of setoff associated with an entity's recognized assets and recognized liabilities that are in the scope of paragraph 210-20-50-1.
+The gross amounts of those recognized assets and those recognized liabilities
+2. The amounts offset in accordance with the guidance in Sections 210-20-45 and 815-10-45 to determine the net amounts presented in the statement of financial position
+3. The net amounts presented in the statement of financial position
+1. Management makes an accounting policy election not to offset.
+2. Do not meet some or all of the guidance in either Section 210-20-45 or Section 815-10-45.
+
+3. The amounts related to financial collateral (including cash collateral).
+
+4. The net amount after deducting the amounts in (d) from the amounts in (c).
+
+1. The gross amounts of those recognized assets and those recognized liabilities
+2. The amounts offset in accordance with the guidance in Sections 210-20-45 and 815-10-45 to determine the net amounts presented in the statement of financial position
+3. The net amounts presented in the statement of financial position
+1. Management makes an accounting policy election not to offset.
+2. Do not meet some or all of the guidance in either Section 210-20-45 or Section 815-10-45.
+
+3. The amounts related to financial collateral (including cash collateral).
+
+4. The net amount after deducting the amounts in (d) from the amounts in (c).
+
+**210-20-50-3** The gross amounts of those recognized assets and those recognized liabilities
+2. The amounts offset in accordance with the guidance in Sections 210-20-45 and 815-10-45 to determine the net amounts presented in the statement of financial position
+3. The net amounts presented in the statement of financial position
+1. Management makes an accounting policy election not to offset.
+2. Do not meet some or all of the guidance in either Section 210-20-45 or Section 815-10-45.
+
+3. The amounts related to financial collateral (including cash collateral).
+
+4. The net amount after deducting the amounts in (d) from the amounts in (c).
+
+1. The gross amounts of those recognized assets and those recognized liabilities
+2. The amounts offset in accordance with the guidance in Sections 210-20-45 and 815-10-45 to determine the net amounts presented in the statement of financial position
+3. The net amounts presented in the statement of financial position
+1. Management makes an accounting policy election not to offset.
+2. Do not meet some or all of the guidance in either Section 210-20-45 or Section 815-10-45.
+
+3. The amounts related to financial collateral (including cash collateral).
+
+4. The net amount after deducting the amounts in (d) from the amounts in (c).
+
+**210-20-50-4** The information required by paragraph 210-20-50-3 shall be presented in a tabular format, separately for assets and liabilities, unless another format is more appropriate. The total amount disclosed in accordance with paragraph 210-20-50-3(d) for an instrument shall not exceed the amount disclosed in accordance with paragraph 210-20-50-3(c) for that instrument.
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For interim and annual reporting periods, the information required by paragraph 210-20-50-3 shall be presented in a tabular format, separately for assets and liabilities, unless another format is more appropriate. The total amount disclosed in accordance with paragraph 210-20-50-3(d) for an instrument shall not exceed the amount disclosed in accordance with paragraph 210-20-50-3(c) for that instrument.
+**210-20-50-4** The information required by paragraph 210-20-50-3 shall be presented in a tabular format, separately for assets and liabilities, unless another format is more appropriate. The total amount disclosed in accordance with paragraph 210-20-50-3(d) for an instrument shall not exceed the amount disclosed in accordance with paragraph 210-20-50-3(c) for that instrument.
+**210-20-50-5** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For interim and annual reporting periods, the information required by paragraph 210-20-50-3 shall be presented in a tabular format, separately for assets and liabilities, unless another format is more appropriate. The total amount disclosed in accordance with paragraph 210-20-50-3(d) for an instrument shall not exceed the amount disclosed in accordance with paragraph 210-20-50-3(c) for that instrument.
+An entity shall provide a description of the rights of setoff associated with an entity's recognized assets and recognized liabilities subject to an enforceable master netting arrangement or similar agreement disclosed in accordance with paragraph 210-20-50-3(d), including the nature of those rights.
+PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For interim and annual reporting periods, an entity shall provide a description of the rights of setoff associated with an entity's recognized assets and recognized liabilities subject to an enforceable master netting arrangement or similar agreement disclosed in accordance with paragraph 210-20-50-3(d), including the nature of those rights.
+**210-20-50-5** An entity shall provide a description of the rights of setoff associated with an entity's recognized assets and recognized liabilities subject to an enforceable master netting arrangement or similar agreement disclosed in accordance with paragraph 210-20-50-3(d), including the nature of those rights.
+**210-20-50-6** PENDING CONTENTTransition date: December 16, 2027; December 16, 2028Transition guidance:270-10-65-1For interim and annual reporting periods, an entity shall provide a description of the rights of setoff associated with an entity's recognized assets and recognized liabilities subject to an enforceable master netting arrangement or similar agreement disclosed in accordance with paragraph 210-20-50-3(d), including the nature of those rights.
+If the information required by paragraphs 210-20-50-1 through 50-5
+is disclosed in more than a single note to the financial statements, an entity shall cross-reference between those notes.
+**210-20-50-6** If the information required by paragraphs 210-20-50-1 through 50-5
+
+## 55 Implementation Guidance and Illustrations
+
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+
+### General
+
+**210-20-55-1** > Implementation Guidance
+This Section provides additional guidance and illustrations that address the application of the disclosures for derivative instruments and other financial instruments.
+This Section provides additional guidance and illustrations that address the application of the disclosures for derivative instruments and other financial instruments.
+Paragraphs 210-20-55-2 through 55-5 superseded by Accounting Standards Update No. 2013-01.
+Paragraphs 210-20-55-2 through 55-5 superseded by Accounting Standards Update No. 2013-01.
+
+##### · > Disclosure of Quantitative Information for Recognized Assets and Liabilities within the Scope of Paragraph 210-20-50-1
+
+Instruments disclosed in accordance with paragraph 210-20-50-3 may be subject to different measurement attributes (for example, a payable related to a repurchase agreement may be measured at amortized cost, while a derivative will be measured at fair value). An entity should include instruments at their recognized amounts and describe any resulting measurement differences in the related disclosures.
+Instruments disclosed in accordance with paragraph 210-20-50-3 may be subject to different measurement attributes (for example, a payable related to a repurchase agreement may be measured at amortized cost, while a derivative will be measured at fair value). An entity should include instruments at their recognized amounts and describe any resulting measurement differences in the related disclosures.
+
+##### · > Disclosure of the Gross Amounts of Recognized Assets and Liabilities
+
+The disclosures required by paragraph 210-20-50-3(a) relate solely to recognized assets and liabilities within the scope of paragraph 210-20-50-1.
+The disclosures required by paragraph 210-20-50-3(a) relate solely to recognized assets and liabilities within the scope of paragraph 210-20-50-1.
+
+##### · > Disclosure of the Amounts Offset in Accordance with Sections 210-20-45 and 815-10-45
+
+Paragraph 210-20-50-3(b) requires that entities disclose the amounts offset in accordance with Sections 210-20-45 and 815-10-45 to determine the net amounts presented in the statement of financial position. The amounts of both the recognized assets and the recognized liabilities subject to setoff under the same arrangement will be disclosed in the respective tables; however, the amounts included in the tables are limited to the amount that is subject to setoff. For example, an entity may have a recognized derivative asset and recognized derivative liability that meet the offsetting guidance in Section 815-10-45. If the gross amount of the derivative asset is larger than the gross amount of the derivative liability, the asset disclosure table will include the entire amount of the derivative asset and the entire amount of the derivative liability. The liability disclosures table, however, will include the entire amount of the derivative liability, but it will only include the amount of the derivative asset equal to the amount of the derivative liability.
+Paragraph 210-20-50-3(b) requires that entities disclose the amounts offset in accordance with Sections 210-20-45 and 815-10-45 to determine the net amounts presented in the statement of financial position. The amounts of both the recognized assets and the recognized liabilities subject to setoff under the same arrangement will be disclosed in the respective tables; however, the amounts included in the tables are limited to the amount that is subject to setoff. For example, an entity may have a recognized derivative asset and recognized derivative liability that meet the offsetting guidance in Section 815-10-45. If the gross amount of the derivative asset is larger than the gross amount of the derivative liability, the asset disclosure table will include the entire amount of the derivative asset and the entire amount of the derivative liability. The liability disclosures table, however, will include the entire amount of the derivative liability, but it will only include the amount of the derivative asset equal to the amount of the derivative liability.
+
+##### · > Disclosure of the Net Amounts Presented in the Statement of Financial Position
+
+If an entity has instruments that meet the scope of the disclosures but that do not meet the offsetting guidance in either Section 210-20-45 or Section 815-10-45 or that management does not elect to offset, the amounts required to be disclosed by paragraph 210-20-50-3(c) would equal the amounts required to be disclosed by paragraph 210-20-50-3(a).
+If an entity has instruments that meet the scope of the disclosures but that do not meet the offsetting guidance in either Section 210-20-45 or Section 815-10-45 or that management does not elect to offset, the amounts required to be disclosed by paragraph 210-20-50-3(c) would equal the amounts required to be disclosed by paragraph 210-20-50-3(a).
+The amounts required by paragraph 210-20-50-3(c) must be reconciled to the individual line item amount(s) presented in the statement of financial position. For example, if an entity determines that the aggregation or disaggregation of individual financial statement line items provides more relevant information, it must reconcile the aggregated or disaggregated amounts disclosed in accordance with paragraph 210-20-50-3(c) to the statement of financial position.
+The amounts required by paragraph 210-20-50-3(c) must be reconciled to the individual line item amount(s) presented in the statement of financial position. For example, if an entity determines that the aggregation or disaggregation of individual financial statement line items provides more relevant information, it must reconcile the aggregated or disaggregated amounts disclosed in accordance with paragraph 210-20-50-3(c) to the statement of financial position.
+An entity also may elect to include all recognized derivatives accounted for in accordance with Topic 815, including bifurcated embedded derivatives, repurchase agreements and reverse repurchase agreements, and securities borrowing and securities lending transactions in the scope of paragraph 210-20-50-1 to reconcile to the individual line-item amount(s) presented in the statement of financial position. For instruments not subject to an enforceable master netting arrangement or similar agreement, the amounts disclosed in accordance with paragraph 210-20-50-3(a) would equal the amounts disclosed for those instruments in accordance with both paragraph 210-20-50-3(c) and paragraph 210-20-50-3(e).
+An entity also may elect to include all recognized derivatives accounted for in accordance with Topic 815, including bifurcated embedded derivatives, repurchase agreements and reverse repurchase agreements, and securities borrowing and securities lending transactions in the scope of paragraph 210-20-50-1 to reconcile to the individual line-item amount(s) presented in the statement of financial position. For instruments not subject to an enforceable master netting arrangement or similar agreement, the amounts disclosed in accordance with paragraph 210-20-50-3(a) would equal the amounts disclosed for those instruments in accordance with both paragraph 210-20-50-3(c) and paragraph 210-20-50-3(e).
+
+##### · > Disclosure of Amounts Subject to an Enforceable Master Netting Arrangement or Similar Agreement Not Otherwise Included in Paragraph 210-20-50-3(b)
+
+Paragraph 210-20-50-3(d) requires that entities disclose other amounts for instruments that are within the scope of paragraph 210-20-50-1 but are not included in paragraph 210-20-50-3(b). These amounts include those that meet the guidance in either Section 210-20-45 or Section 815-10-45 to qualify for offsetting but management elects not to offset.
+Paragraph 210-20-50-3(d) requires that entities disclose other amounts for instruments that are within the scope of paragraph 210-20-50-1 but are not included in paragraph 210-20-50-3(b). These amounts include those that meet the guidance in either Section 210-20-45 or Section 815-10-45 to qualify for offsetting but management elects not to offset.
+An entity should also disclose the fair value amounts related to cash or financial instrument collateral received or pledged (see paragraph 210-20-50-3(d)(2)).
+An entity should also disclose the fair value amounts related to cash or financial instrument collateral received or pledged (see paragraph 210-20-50-3(d)(2)).
+
+##### · > Limits on the Amounts Disclosed in Paragraph 210-20-50-3(d)
+
+When disclosing amounts in accordance with paragraph 210-20-50-3(d), an entity must take into account the effect of overcollateralization by instrument. To do so, an entity must first deduct the amounts disclosed in accordance with paragraph 210-20-50-3(d)(1) from the amount disclosed in accordance with paragraph 210-20-50-3(c). An entity should then limit the amounts disclosed in accordance with paragraph 210-20-50-3(d)(2) to the remaining amount for the related instrument. However, if rights to collateral can be enforced across financial instruments, such rights may be included in the disclosure provided in accordance with 210-20-50-3(d).
+When disclosing amounts in accordance with paragraph 210-20-50-3(d), an entity must take into account the effect of overcollateralization by instrument. To do so, an entity must first deduct the amounts disclosed in accordance with paragraph 210-20-50-3(d)(1) from the amount disclosed in accordance with paragraph 210-20-50-3(c). An entity should then limit the amounts disclosed in accordance with paragraph 210-20-50-3(d)(2) to the remaining amount for the related instrument. However, if rights to collateral can be enforced across financial instruments, such rights may be included in the disclosure provided in accordance with 210-20-50-3(d).
+
+##### · > Description of the Rights of Setoff Subject to Enforceable Master Netting Arrangements and Similar Agreements
+
+An entity should describe the types of rights of setoff and similar agreements disclosed in accordance with paragraph 210-20-50-3(d), including the nature of those rights. For example, for a conditional right of setoff, an entity should describe the related condition(s). For any financial collateral received or pledged, an entity should describe the terms of the collateral agreement (for example, when the collateral is restricted).
+An entity should describe the types of rights of setoff and similar agreements disclosed in accordance with paragraph 210-20-50-3(d), including the nature of those rights. For example, for a conditional right of setoff, an entity should describe the related condition(s). For any financial collateral received or pledged, an entity should describe the terms of the collateral agreement (for example, when the collateral is restricted).
+
+##### · > Disclosure by Type of Financial Instrument or by Counterparty
+
+The disclosures required by paragraph 210-20-50-3(a) through (e) may be grouped by type of instrument or transaction (for example, derivatives, repurchase and reverse agreements, and securities borrowing and lending agreements).
+The disclosures required by paragraph 210-20-50-3(a) through (e) may be grouped by type of instrument or transaction (for example, derivatives, repurchase and reverse agreements, and securities borrowing and lending agreements).
+Alternatively, an entity may group the information required by paragraph 210-20-50-3(a) through (c) by type of instrument and paragraph 210-20-50-3(c) through (e) by counterparty. If an entity provides the required information by counterparty, the entity is not required to identify the counterparties by name. However, designation of the counterparties (Counterparty A, Counterparty B, Counterparty C, and so forth) should remain consistent from year to year to maintain comparability, and qualitative disclosures should be considered to give further information about the types of counterparties. When disclosure of the amounts in paragraph 210-20-50-3(c) through (e) is provided by counterparty, the amounts related to individually significant counterparties with respect to total counterparty amounts should be separately disclosed, and the remaining individually insignificant counterparties should be aggregated into one line item.
+Alternatively, an entity may group the information required by paragraph 210-20-50-3(a) through (c) by type of instrument and paragraph 210-20-50-3(c) through (e) by counterparty. If an entity provides the required information by counterparty, the entity is not required to identify the counterparties by name. However, designation of the counterparties (Counterparty A, Counterparty B, Counterparty C, and so forth) should remain consistent from year to year to maintain comparability, and qualitative disclosures should be considered to give further information about the types of counterparties. When disclosure of the amounts in paragraph 210-20-50-3(c) through (e) is provided by counterparty, the amounts related to individually significant counterparties with respect to total counterparty amounts should be separately disclosed, and the remaining individually insignificant counterparties should be aggregated into one line item.
+
+##### · > Other Considerations
+
+The disclosures required by paragraphs 210-20-50-3 through 50-5
+are minimum requirements, and to meet the objective in paragraph 210-20-50-2 an entity may need to supplement the disclosures with additional (qualitative) disclosures depending on the terms of the enforceable master netting arrangements and related agreements, including the nature of the rights of setoff and their effect or potential effect on the entity's financial position.
+The disclosures required by paragraphs 210-20-50-3 through 50-5
+**210-20-55-18** are minimum requirements, and to meet the objective in paragraph 210-20-50-2 an entity may need to supplement the disclosures with additional (qualitative) disclosures depending on the terms of the enforceable master netting arrangements and related agreements, including the nature of the rights of setoff and their effect or potential effect on the entity's financial position.
+An entity should present the disclosures in a manner that clearly explains to users of its financial statements the nature of rights of setoff and related arrangements and their effect on the entity's assets and liabilities in the scope of paragraph 210-20-50-1 and its financial position. An entity should determine how much detail it must provide to satisfy the disclosure requirements. The entity must strike a balance between obscuring important information because of excessive aggregation and obscuring important information because of excessive detail that may not help users of financial statements to understand the entity's financial position. For example, an entity should not disclose information that is so aggregated that it obscures important differences between the different types of rights of setoff or related arrangements.
+An entity should present the disclosures in a manner that clearly explains to users of its financial statements the nature of rights of setoff and related arrangements and their effect on the entity's assets and liabilities in the scope of paragraph 210-20-50-1 and its financial position. An entity should determine how much detail it must provide to satisfy the disclosure requirements. The entity must strike a balance between obscuring important information because of excessive aggregation and obscuring important information because of excessive detail that may not help users of financial statements to understand the entity's financial position. For example, an entity should not disclose information that is so aggregated that it obscures important differences between the different types of rights of setoff or related arrangements.
+Cash
+on deposit at a financial institution shall be considered by the depositor as cash rather than as an amount owed to the depositor.
+Cash
+**210-20-55-19** on deposit at a financial institution shall be considered by the depositor as cash rather than as an amount owed to the depositor. > Illustrations
+The following Examples illustrate ways to meet the quantitative disclosure requirements in paragraphs 210-20-50-1 through 50-5
+by type of financial instrument or other derivative instrument.
+The following Examples illustrate ways to meet the quantitative disclosure requirements in paragraphs 210-20-50-1 through 50-5
+
+##### · > Example 1: Disclosure by Type of Financial Instrument
+
+**210-20-55-20** by type of financial instrument or other derivative instrument.
+Counterparty A:
+1. The reporting entity has a derivative asset (fair value of $100 million) and a derivative liability (fair value of $80 million) with Counterparty A. Assume that the entity qualifies for and makes an accounting policy election to offset in accordance with Section 815-10-45. Cash collateral also has been received from Counterparty A for a portion of the net derivative asset ($10 million). The derivative liability and the cash collateral received are set off against the derivative asset in the statement of financial position, resulting in the presentation of a net derivative asset of $10 million.
+
+1. The reporting entity had entered into a sale and repurchase agreement with Counterparty B that is accounted for as a collateralized borrowing. The carrying value of the financial asset (bonds) used as collateral and held by the reporting entity for the transaction is $79 million, and their fair value is $85 million. The carrying value of the collateralized borrowing (repo payable) is $80 million.
+2. The reporting entity also has entered into a reverse sale and repurchase agreement with Counterparty B that is accounted for as a collateralized lending. The fair value of the asset (bonds) received as collateral (and not recognized in the statement of financial position) is $105 million. The carrying value of the secured lending (reverse repo receivable) is $90 million.
+3. Assume that the transactions are not offset.
+
+Counterparty A:
+1. The reporting entity has a derivative asset (fair value of $100 million) and a derivative liability (fair value of $80 million) with Counterparty A. Assume that the entity qualifies for and makes an accounting policy election to offset in accordance with Section 815-10-45. Cash collateral also has been received from Counterparty A for a portion of the net derivative asset ($10 million). The derivative liability and the cash collateral received are set off against the derivative asset in the statement of financial position, resulting in the presentation of a net derivative asset of $10 million.
+
+1. The reporting entity had entered into a sale and repurchase agreement with Counterparty B that is accounted for as a collateralized borrowing. The carrying value of the financial asset (bonds) used as collateral and held by the reporting entity for the transaction is $79 million, and their fair value is $85 million. The carrying value of the collateralized borrowing (repo payable) is $80 million.
+2. The reporting entity also has entered into a reverse sale and repurchase agreement with Counterparty B that is accounted for as a collateralized lending. The fair value of the asset (bonds) received as collateral (and not recognized in the statement of financial position) is $105 million. The carrying value of the secured lending (reverse repo receivable) is $90 million.
+3. Assume that the transactions are not offset.
+
+##### · > Example 2: Disclosure by Type of Financial Instrument and Type of Counterparty
+
+The following table illustrates how an entity might provide the quantitative disclosure requirements in paragraph 210-20-50-3(a) through (c) by type of instrument and the information required in paragraph 210-20-50-3(c) through (e) by counterparty.
+The following table illustrates how an entity might provide the quantitative disclosure requirements in paragraph 210-20-50-3(a) through (c) by type of instrument and the information required in paragraph 210-20-50-3(c) through (e) by counterparty.
+
+##### · > Example 3: Sophisticated Entity Disclosure by Type of Financial Instrument and Type of Counterparty
+
+The following table illustrates how a sophisticated entity that engages in significant derivative activity might provide the quantitative disclosure requirements in paragraph 210-20-50-3(a) through (c) by type of instrument and paragraph 210-20-50-3(c) through (e) by type of counterparty. In this Example, the entity further disaggregates the derivative line item by type of contract as discussed in paragraph 815-10-50-4D, with further disaggregation based on how the derivative is transacted.
+The following table illustrates how a sophisticated entity that engages in significant derivative activity might provide the quantitative disclosure requirements in paragraph 210-20-50-3(a) through (c) by type of instrument and paragraph 210-20-50-3(c) through (e) by type of counterparty. In this Example, the entity further disaggregates the derivative line item by type of contract as discussed in paragraph 815-10-50-4D, with further disaggregation based on how the derivative is transacted.
+
+## 60 Relationships
+
+General Note:The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
+
+### General
+
+**210-20-60-1** > Compensation—Retirement Benefits
+For guidance on accounting for pension plan assets and liabilities, see Subtopic 715-30.
+For guidance on accounting for pension plan assets and liabilities, see Subtopic 715-30.
+For guidance on accounting for plan assets and liabilities, see Subtopic 715-60.
+For guidance on accounting for plan assets and liabilities, see Subtopic 715-60.
+**210-20-60-3** > Income Taxes
+For guidance on amounts reported for net tax assets or liabilities, see Subtopic 740-10.
+For guidance on amounts reported for net tax assets or liabilities, see Subtopic 740-10.
+**210-20-60-3A** > Derivatives and Hedging
+For guidance on derivative instruments with the right to reclaim cash collateral or the obligation to return cash collateral, see paragraphs 815-10-45-1 through 45-7
+.
+For guidance on derivative instruments with the right to reclaim cash collateral or the obligation to return cash collateral, see paragraphs 815-10-45-1 through 45-7
+**210-20-60-4** . > Leases
+For guidance on leveraged leases
+, see Section 842-50-35.
+For guidance on leveraged leases
+**210-20-60-5** , see Section 842-50-35. > Contractors—Federal Government
+For guidance on advances received on construction contracts, see Subtopic 910-405.
+For guidance on advances received on construction contracts, see Subtopic 910-405.
+**210-20-60-6** > Financial Services—Brokers and Dealers
+For guidance on trade date accounting for trading portfolio positions, see Subtopic 940-320.
+For guidance on trade date accounting for trading portfolio positions, see Subtopic 940-320.
+**210-20-60-7** > Financial Services—Depository and Lending
+For guidance on reciprocal balances with other banks, see paragraph 942-210-45-3A.
+For guidance on reciprocal balances with other banks, see paragraph 942-210-45-3A.
+
+## 65 Transition and Open Effective Date Information
+
+General Note:The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
+
+### General
+
+**210-20-65-1** Paragraph superseded on 07/02/2014 after the end of the transition period stated in Accounting Standards Update No. 2011-11, *Balance Sheet (Topic 210): Disclosures about Offsetting Assets and Liabilities*.
+**210-20-65-1** Paragraph superseded on 07/02/2014 after the end of the transition period stated in Accounting Standards Update No. 2011-11, *Balance Sheet (Topic 210): Disclosures about Offsetting Assets and Liabilities*.
+**210-20-65-2** Paragraph superseded on 07/02/2014 after the end of the transition period stated in Accounting Standards Update No. 2013-01, *Balance Sheet (Topic 210): Clarifying the Scope of Disclosures about Offsetting Assets and Liabilities*.
+**210-20-65-2** Paragraph superseded on 07/02/2014 after the end of the transition period stated in Accounting Standards Update No. 2013-01, *Balance Sheet (Topic 210): Clarifying the Scope of Disclosures about Offsetting Assets and Liabilities*.

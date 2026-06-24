@@ -13,9 +13,9 @@ subtopics: ["430-10"]
 
 ## 00 Status
 
-> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
-> **General Note:** General Note on Deferred Revenue:Upon the effective date of Accounting Standards Update 2014-09, the title of this Topic will change to Deferred Revenue and Contract Liabilities.
+General Note on Deferred Revenue:Upon the effective date of Accounting Standards Update 2014-09, the title of this Topic will change to Deferred Revenue and Contract Liabilities.
 
 ### General
 
@@ -47,9 +47,9 @@ subtopics: ["430-10"]
 
 ## 05 Overview and Background
 
-> **General Note:** The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
 
-> **General Note:** General Note on Deferred Revenue:Upon the effective date of Accounting Standards Update 2014-09, the title of this Topic will change to Deferred Revenue and Contract Liabilities.
+General Note on Deferred Revenue:Upon the effective date of Accounting Standards Update 2014-09, the title of this Topic will change to Deferred Revenue and Contract Liabilities.
 
 ### General
 
@@ -59,9 +59,9 @@ and contract liabilities. See Topic 606 on revenue from contracts with customers
 
 ## 20 Glossary
 
-> **General Note:** The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
 
-> **General Note:** General Note on Deferred Revenue:Upon the effective date of Accounting Standards Update 2014-09, the title of this Topic will change to Deferred Revenue and Contract Liabilities.
+General Note on Deferred Revenue:Upon the effective date of Accounting Standards Update 2014-09, the title of this Topic will change to Deferred Revenue and Contract Liabilities.
 
 ##### Contract
 
@@ -85,9 +85,9 @@ Inflows or other enhancements of assets of an entity or settlements of its liabi
 
 ## 25 Recognition
 
-> **General Note:** The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
+General Note:The Recognition Section provides guidance on the required criteria, timing, and location (within the financial statements) for recording a particular item in the financial statements. Disclosure is not recognition.
 
-> **General Note:** General Note on Deferred Revenue:Upon the effective date of Accounting Standards Update 2014-09, the title of this Topic will change to Deferred Revenue and Contract Liabilities.
+General Note on Deferred Revenue:Upon the effective date of Accounting Standards Update 2014-09, the title of this Topic will change to Deferred Revenue and Contract Liabilities.
 
 ### General
 
@@ -96,9 +96,9 @@ Inflows or other enhancements of assets of an entity or settlements of its liabi
 
 ## 60 Relationships
 
-> **General Note:** The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
+General Note:The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
 
-> **General Note:** General Note on Deferred Revenue:Upon the effective date of Accounting Standards Update 2014-09, the title of this Topic will change to Deferred Revenue and Contract Liabilities.
+General Note on Deferred Revenue:Upon the effective date of Accounting Standards Update 2014-09, the title of this Topic will change to Deferred Revenue and Contract Liabilities.
 
 ### General
 

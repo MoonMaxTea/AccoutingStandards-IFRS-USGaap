@@ -13,7 +13,7 @@ subtopics: ["860-10"]
 
 ## 00 Status
 
-> **General Note:** The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
+General Note:The Status Section identifies changes to this Subtopic resulting from Accounting Standards Updates. The Section provides references to the affected Codification content and links to the related Accounting Standards Updates. Nonsubstantive changes for items such as editorial, link and similar corrections are included separately in Maintenance Updates.
 
 ### General
 
@@ -390,7 +390,7 @@ subtopics: ["860-10"]
 
 ## 05 Overview and Background
 
-> **General Note:** The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
+General Note:The Overview and Background Section provides overview and background material for the guidance contained in the Subtopic. It does not provide the historical background or due process. It may contain certain material that users generally consider useful to understand the typical situations addressed by the standards. The Section does not summarize the accounting and reporting requirements.
 
 ### General
 
@@ -539,7 +539,7 @@ A risk participation is a contract between the accepting bank and a participatin
 
 ## 10 Objectives
 
-> **General Note:** The Objectives Section provides the high-level objectives that the Subtopic is intended to accomplish or attain. The Section does not summarize or discuss the main principles of accounting and reporting requirements.
+General Note:The Objectives Section provides the high-level objectives that the Subtopic is intended to accomplish or attain. The Section does not summarize or discuss the main principles of accounting and reporting requirements.
 
 ### General
 
@@ -550,9 +550,9 @@ A risk participation is a contract between the accepting bank and a participatin
 
 ## 15 Scope and Scope Exceptions
 
-> **General Note:** The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
+General Note:The Scope and Scope Exceptions Section outlines the items (for example, the entities, transactions, instruments, or events) to which the guidance in the Subtopic does or does not apply. In some cases, the Section may contain definitional or other text to frame the scope.
 
-> **General Note:** General Note for Financial Instruments:Some of the items subject to the guidance in this Subtopic are financial instruments
+General Note for Financial Instruments:Some of the items subject to the guidance in this Subtopic are financial instruments
 
 ### General
 
@@ -594,7 +594,7 @@ Paragraph 860-10-55-2 provides further guidance on the application of the scope 
 
 ## 20 Glossary
 
-> **General Note:** The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
+General Note:The Master Glossary contains all terms identified as glossary terms throughout the Codification. Clicking on any term in the Master Glossary will display where the term is used. The Master Glossary may contain identical terms with different definitions, some of which may not be appropriate for a particular Subtopic. For any particular Subtopic, users should only use the glossary terms included in the particular Subtopic Glossary Section (Section 20).
 
 ##### Affiliate
 
@@ -733,25 +733,50 @@ Receive cash or another financial instrument from a second entity
 1. To receive cash or another financial instrument from the first entity
 2. To exchange other financial instruments on potentially favorable terms with the first entity.
 
+The use of the term financial instrument in this definition is recursive (because the term financial instrument is included in it), though it is not circular. The definition requires a chain of contractual obligations that ends with the delivery of cash or an ownership interest in an entity. Any number of obligations to deliver financial instruments can be links in a chain that qualifies a particular contract as a financial instrument. Contractual rights and contractual obligations encompass both those that are conditioned on the occurrence of a specified event and those that are not. Some contractual rights (contractual obligations) that are financial instruments may not be recognized in financial statements—that is, they may be off-balance-sheet—because they fail to meet some other criterion for recognition. For some financial instruments, the right is held by or the obligation is due from (or the obligation is owed to or by) a group of entities rather than a single entity.
+Imposes on one entity a contractual obligation either:
+1. To deliver cash or another financial instrument to a second entity
+2. To exchange other financial instruments on potentially unfavorable terms with the second entity.
+
+1. To receive cash or another financial instrument from the first entity
+2. To exchange other financial instruments on potentially favorable terms with the first entity.
+
+The use of the term financial instrument in this definition is recursive (because the term financial instrument is included in it), though it is not circular. The definition requires a chain of contractual obligations that ends with the delivery of cash or an ownership interest in an entity. Any number of obligations to deliver financial instruments can be links in a chain that qualifies a particular contract as a financial instrument.
+Contractual rights and contractual obligations encompass both those that are conditioned on the occurrence of a specified event and those that are not. All contractual rights (contractual obligations) that are financial instruments meet the definition of asset (liability) set forth in FASB Concepts Statement No. 6, Elements of Financial Statements, although some may not be recognized as assets (liabilities) in financial statements—that is, they may be off-balance-sheet—because they fail to meet some other criterion for recognition.
+For some financial instruments, the right is held by or the obligation is due from (or the obligation is owed to or by) a group of entities rather than a single entity.
+Imposes on one entity a contractual obligation either:
+1. To deliver cash or another financial instrument to a second entity
+2. To exchange other financial instruments on potentially unfavorable terms with the second entity.
+
+1. To receive cash or another financial instrument from the first entity
+2. To exchange other financial instruments on potentially favorable terms with the first entity.
+
+The use of the term financial instrument in this definition is recursive (because the term financial instrument is included in it), though it is not circular. The definition requires a chain of contractual obligations that ends with the delivery of cash or an ownership interest in an entity. Any number of obligations to deliver financial instruments can be links in a chain that qualifies a particular contract as a financial instrument.
+Contractual rights and contractual obligations encompass both those that are conditioned on the occurrence of a specified event and those that are not. Some contractual rights (contractual obligations) that are financial instruments may not be recognized in financial statements—that is, they may be off-balance-sheet—because they fail to meet some other criterion for recognition.
+For some financial instruments, the right is held by or the obligation is due from (or the obligation is owed to or by) a group of entities rather than a single entity.
+
 ##### Financial Liability
 
 1. Deliver cash or another financial instrument to a second entity
 2. Exchange other financial instruments on potentially unfavorable terms with the second entity.
 
-1. Deliver cash or another financial instrument to a second entity
+Deliver cash or another financial instrument to a second entity
 2. Exchange other financial instruments on potentially unfavorable terms with the second entity.
 
 ##### Fixed Participation Method
 
 Liquidation method used to allocate principal payments on the receivables in a trust to the investors, under which all principal payments on the receivables in the trust are allocated to the investors based on their respective participation interests in the credit card receivables in the trust at the end of the reinvestment period.
+Liquidation method used to allocate principal payments on the receivables in a trust to the investors, under which all principal payments on the receivables in the trust are allocated to the investors based on their respective participation interests in the credit card receivables in the trust at the end of the reinvestment period.
 
 ##### Floating Participation Method
 
-Liquidation method used to allocate principal payments on the receivables in a trust to the investors, under which all principal payments on the receivables in the trust are allocated to the investors based on their respective participation interests in the credit card receivables in the trust at the end of the reinvestment period. Liquidation method used to allocate principal payments on the receivables in a trust to the investors, under which principal payments allocated to the investors are based on the investors' actual participation interests in the receivables in the trust each month. Each month, investors' participation interests in the credit card receivables in the trust are redetermined for that month's allocation of principal payments.
+Liquidation method used to allocate principal payments on the receivables in a trust to the investors, under which principal payments allocated to the investors are based on the investors' actual participation interests in the receivables in the trust each month. Each month, investors' participation interests in the credit card receivables in the trust are redetermined for that month's allocation of principal payments.
+Liquidation method used to allocate principal payments on the receivables in a trust to the investors, under which principal payments allocated to the investors are based on the investors' actual participation interests in the receivables in the trust each month. Each month, investors' participation interests in the credit card receivables in the trust are redetermined for that month's allocation of principal payments.
 
 ##### Freestanding Call Option
 
-Liquidation method used to allocate principal payments on the receivables in a trust to the investors, under which principal payments allocated to the investors are based on the investors' actual participation interests in the receivables in the trust each month. Each month, investors' participation interests in the credit card receivables in the trust are redetermined for that month's allocation of principal payments. A call option that is neither embedded in nor attached to an asset subject to that call option.
+A call option that is neither embedded in nor attached to an asset subject to that call option.
+A call option that is neither embedded in nor attached to an asset subject to that call option.
 
 ##### Government National Mortgage Association Rolls
 
@@ -760,7 +785,7 @@ Liquidation method used to allocate principal payments on the receivables in a t
 3. Type 3. Fixed coupon dollar reverse repurchase agreements that are rolled at their maturities, that is, renewed in lieu of taking delivery of an underlying security (GNMA roll)
 4. Type 4. Forward commitment dollar rolls (also referred to as to-be-announced GNMA forward contracts or to-be-announced GNMA rolls), for which the underlying security does not yet exist.
 
-1. Type 1. Reverse repurchase agreements for which the exact same security is received at the end of the repurchase period (vanilla repo)
+Type 1. Reverse repurchase agreements for which the exact same security is received at the end of the repurchase period (vanilla repo)
 2. Type 2. Fixed coupon dollar reverse repurchase agreements (dollar repo)
 3. Type 3. Fixed coupon dollar reverse repurchase agreements that are rolled at their maturities, that is, renewed in lieu of taking delivery of an underlying security (GNMA roll)
 4. Type 4. Forward commitment dollar rolls (also referred to as to-be-announced GNMA forward contracts or to-be-announced GNMA rolls), for which the underlying security does not yet exist.
@@ -768,14 +793,15 @@ Liquidation method used to allocate principal payments on the receivables in a t
 ##### In Substance Nonfinancial Asset
 
 Paragraphs 610-20-15-5 through 15-8 define an in substance nonfinancial asset.
+Paragraphs 610-20-15-5 through 15-8
 
 ##### Lease
 
-Paragraphs 610-20-15-5 through 15-8 define an in substance nonfinancial asset. A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
+define an in substance nonfinancial asset. A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
+A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
 
 ##### Lease Payments
 
-A contract, or part of a contract, that conveys the right to control the use of identified property, plant, or equipment (an identified asset) for a period of time in exchange for consideration.
 See paragraph 842-10-30-5 for what constitutes lease payments from the perspective of a lessee and a lessor.
 See paragraph 842-10-30-5 for what constitutes lease payments from the perspective of a lessee and a lessor.
 
@@ -791,7 +817,7 @@ Periods covered by an option to extend the lease if the lessee is reasonably cer
 3. Periods covered by an option to extend (or not to terminate) the lease in which exercise of the option is controlled by the lessor.
 
 Periods covered by an option to extend the lease if the lessee is reasonably certain to exercise that option
-2. Periods covered by an option to terminate the lease if the lessee is reasonably certain not to exercise that option
+Periods covered by an option to terminate the lease if the lessee is reasonably certain not to exercise that option
 3. Periods covered by an option to extend (or not to terminate) the lease in which exercise of the option is controlled by the lessor.
 
 ##### Lessee
@@ -802,10 +828,12 @@ An entity that enters into a contract to obtain the right to use an underlying a
 ##### Lessor
 
 An entity that enters into a contract to provide the right to use an underlying asset for a period of time in exchange for consideration.
+An entity that enters into a contract to provide the right to use an underlying asset for a period of time in exchange for consideration.
 
 ##### Liquidation Method
 
-An entity that enters into a contract to provide the right to use an underlying asset for a period of time in exchange for consideration. The method used to allocate the principal payments on the receivables in a trust to the investors.
+The method used to allocate the principal payments on the receivables in a trust to the investors.
+The method used to allocate the principal payments on the receivables in a trust to the investors.
 
 ##### Loan Origination Fees
 
@@ -815,7 +843,7 @@ An entity that enters into a contract to provide the right to use an underlying 
 4. Fees that are not conditional on a loan being granted by the lender that receives the fee but are, in substance, implicit yield adjustments because a loan is granted at rates or terms that would not have otherwise been considered absent the fee (for example, certain syndication fees addressed in paragraph 310-20-25-19)
 5. Fees charged to the borrower in connection with the process of originating, refinancing, or restructuring a loan. This term includes, but is not limited to, points, management, arrangement, placement, application, underwriting, and other fees pursuant to a lending or leasing transaction and also includes syndication and participation fees to the extent they are associated with the portion of the loan retained by the lender.
 
-1. Fees that are being charged to the borrower as prepaid interest or to reduce the loan's nominal interest rate, such as interest buy-downs (explicit yield adjustments)
+Fees that are being charged to the borrower as prepaid interest or to reduce the loan's nominal interest rate, such as interest buy-downs (explicit yield adjustments)
 2. Fees to reimburse the lender for origination activities
 3. Other fees charged to the borrower that relate directly to making the loan (for example, fees that are paid to the lender as compensation for granting a complex loan or agreeing to lend quickly)
 4. Fees that are not conditional on a loan being granted by the lender that receives the fee but are, in substance, implicit yield adjustments because a loan is granted at rates or terms that would not have otherwise been considered absent the fee (for example, certain syndication fees addressed in paragraph 310-20-25-19)
@@ -824,14 +852,17 @@ An entity that enters into a contract to provide the right to use an underlying 
 ##### Loan Participation
 
 A transaction in which a single lender makes a large loan to a borrower and subsequently transfers undivided interests in the loan to groups of banks or other entities.
+A transaction in which a single lender makes a large loan to a borrower and subsequently transfers undivided interests in the loan to groups of banks or other entities.
 
 ##### Loan Syndication
 
-A transaction in which a single lender makes a large loan to a borrower and subsequently transfers undivided interests in the loan to groups of banks or other entities. A transaction in which several lenders share in lending to a single borrower. Each lender loans a specific amount to the borrower and has the right to repayment from the borrower. It is common for groups of lenders to jointly fund those loans when the amount borrowed is greater than any one lender is willing to lend.
+A transaction in which several lenders share in lending to a single borrower. Each lender loans a specific amount to the borrower and has the right to repayment from the borrower. It is common for groups of lenders to jointly fund those loans when the amount borrowed is greater than any one lender is willing to lend.
+A transaction in which several lenders share in lending to a single borrower. Each lender loans a specific amount to the borrower and has the right to repayment from the borrower. It is common for groups of lenders to jointly fund those loans when the amount borrowed is greater than any one lender is willing to lend.
 
 ##### Money-Over-Money Lease
 
-A transaction in which several lenders share in lending to a single borrower. Each lender loans a specific amount to the borrower and has the right to repayment from the borrower. It is common for groups of lenders to jointly fund those loans when the amount borrowed is greater than any one lender is willing to lend. A transaction in which an entity manufactures or purchases an asset, leases the asset to a lessee, and obtains nonrecourse financing in excess of the asset's cost using the leased asset and the future lease rentals as collateral.
+A transaction in which an entity manufactures or purchases an asset, leases the asset to a lessee, and obtains nonrecourse financing in excess of the asset's cost using the leased asset and the future lease rentals as collateral.
+A transaction in which an entity manufactures or purchases an asset, leases the asset to a lessee, and obtains nonrecourse financing in excess of the asset's cost using the leased asset and the future lease rentals as collateral.
 
 ##### Not-for-Profit Entity
 
@@ -842,20 +873,22 @@ A transaction in which several lenders share in lending to a single borrower. Ea
 1. All investor-owned entities
 2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
 
-1. Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
+Contributions of significant amounts of resources from resource providers who do not expect commensurate or proportionate pecuniary return
 2. Operating purposes other than to provide goods or services at a profit
 3. Absence of ownership interests like those of business entities.
 
-1. All investor-owned entities
+All investor-owned entities
 2. Entities that provide dividends, lower costs, or other economic benefits directly and proportionately to their owners, members, or participants, such as mutual insurance entities, credit unions, farm and rural electric cooperatives, and employee benefit plans.
 
 ##### Participating Interest
 
 Paragraph 860-10-40-6A defines the term participating interest.
+Paragraph 860-10-40-6A defines the term participating interest.
 
 ##### Preset Participation Method
 
-Paragraph 860-10-40-6A defines the term participating interest.Liquidation method used to allocate principal payments on receivables in a trust to investors. The preset participation method is similar to the fixed participation method except that the percentage used to determine the principal payments allocated to the investors is preset higher than the investors' expected participation interests in the receivables in the trust at the end of the reinvestment period. This method results in a faster payout to the investors than the fixed participation method because a higher percentage of the principal payments is allocated to the investors.
+Liquidation method used to allocate principal payments on receivables in a trust to investors. The preset participation method is similar to the fixed participation method except that the percentage used to determine the principal payments allocated to the investors is preset higher than the investors' expected participation interests in the receivables in the trust at the end of the reinvestment period. This method results in a faster payout to the investors than the fixed participation method because a higher percentage of the principal payments is allocated to the investors.
+Liquidation method used to allocate principal payments on receivables in a trust to investors. The preset participation method is similar to the fixed participation method except that the percentage used to determine the principal payments allocated to the investors is preset higher than the investors' expected participation interests in the receivables in the trust at the end of the reinvestment period. This method results in a faster payout to the investors than the fixed participation method because a higher percentage of the principal payments is allocated to the investors.
 
 ##### Public Business Entity
 
@@ -866,7 +899,7 @@ Paragraph 860-10-40-6A defines the term participating interest.Liquidation metho
 5. It has one or more securities that are not subject to contractual restrictions on transfer, and it is required by law, contract, or regulation to prepare U.S. GAAP financial statements (including notes) and make them publicly available on a periodic basis (for example, interim or annual periods). An entity must meet both of these conditions to meet this criterion.
 
 An entity may meet the definition of a public business entity solely because its financial statements or financial information is included in another entity's filing with the SEC. In that case, the entity is only a public business entity for purposes of financial statements that are filed or furnished with the SEC.
-1. It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing).
+It is required by the U.S. Securities and Exchange Commission (SEC) to file or furnish financial statements, or does file or furnish financial statements (including voluntary filers), with the SEC (including other entities whose financial statements or financial information are required to be or are included in a filing).
 2. It is required by the Securities Exchange Act of 1934 (the Act), as amended, or rules or regulations promulgated under the Act, to file or furnish financial statements with a regulatory agency other than the SEC.
 3. It is required to file or furnish financial statements with a foreign or domestic regulatory agency in preparation for the sale of or for purposes of issuing securities that are not subject to contractual restrictions on transfer.
 4. It has issued, or is a conduit bond obligor for, securities that are traded, listed, or quoted on an exchange or an over-the-counter market.
@@ -878,37 +911,44 @@ An entity may meet the definition of a public business entity solely because its
 2. The effects of prepayments
 3. Adjustments resulting from defects in the eligibility of the transferred receivables.
 
-1. Failure of debtors to pay when due
+Failure of debtors to pay when due
 2. The effects of prepayments
 3. Adjustments resulting from defects in the eligibility of the transferred receivables.
 
 ##### Remote
 
 The chance of the future event or events occurring is slight.
+The chance of the future event or events occurring is slight.
 
 ##### Repurchase Agreement
 
-The chance of the future event or events occurring is slight. An agreement under which the transferor (repo party) transfers a financial asset to a transferee (repo counterparty or reverse party) in exchange for cash and concurrently agrees to reacquire that financial asset at a future date for an amount equal to the cash exchanged plus or minus a stipulated interest factor. Instead of cash, other securities or letters of credit sometimes are exchanged. Some repurchase agreements call for repurchase of financial assets that need not be identical to the financial assets transferred.
+An agreement under which the transferor (repo party) transfers a financial asset to a transferee (repo counterparty or reverse party) in exchange for cash and concurrently agrees to reacquire that financial asset at a future date for an amount equal to the cash exchanged plus or minus a stipulated interest factor. Instead of cash, other securities or letters of credit sometimes are exchanged. Some repurchase agreements call for repurchase of financial assets that need not be identical to the financial assets transferred.
+An agreement under which the transferor (repo party) transfers a financial asset to a transferee (repo counterparty or reverse party) in exchange for cash and concurrently agrees to reacquire that financial asset at a future date for an amount equal to the cash exchanged plus or minus a stipulated interest factor. Instead of cash, other securities or letters of credit sometimes are exchanged. Some repurchase agreements call for repurchase of financial assets that need not be identical to the financial assets transferred.
 
 ##### Repurchase Financing
 
-An agreement under which the transferor (repo party) transfers a financial asset to a transferee (repo counterparty or reverse party) in exchange for cash and concurrently agrees to reacquire that financial asset at a future date for an amount equal to the cash exchanged plus or minus a stipulated interest factor. Instead of cash, other securities or letters of credit sometimes are exchanged. Some repurchase agreements call for repurchase of financial assets that need not be identical to the financial assets transferred.A repurchase agreement that relates to a previously transferred financial asset between the same counterparties (or consolidated affiliates of either counterparty) that is entered into contemporaneously with, or in contemplation of, the initial transfer.
+A repurchase agreement that relates to a previously transferred financial asset between the same counterparties (or consolidated affiliates of either counterparty) that is entered into contemporaneously with, or in contemplation of, the initial transfer.
+A repurchase agreement that relates to a previously transferred financial asset between the same counterparties (or consolidated affiliates of either counterparty) that is entered into contemporaneously with, or in contemplation of, the initial transfer.
 
 ##### Repurchase-to-Maturity Transaction
 
-A repurchase agreement that relates to a previously transferred financial asset between the same counterparties (or consolidated affiliates of either counterparty) that is entered into contemporaneously with, or in contemplation of, the initial transfer.A repurchase agreement in which the settlement date of the agreement to repurchase a transferred financial asset is at the maturity date of that financial asset and the agreement would not require the transferor to reacquire the financial asset.
+A repurchase agreement in which the settlement date of the agreement to repurchase a transferred financial asset is at the maturity date of that financial asset and the agreement would not require the transferor to reacquire the financial asset.
+A repurchase agreement in which the settlement date of the agreement to repurchase a transferred financial asset is at the maturity date of that financial asset and the agreement would not require the transferor to reacquire the financial asset.
 
 ##### Revolving-Period Securitizations
 
-A repurchase agreement in which the settlement date of the agreement to repurchase a transferred financial asset is at the maturity date of that financial asset and the agreement would not require the transferor to reacquire the financial asset.Securitizations in which receivables are transferred at the inception and also periodically (daily or monthly) thereafter for a defined period (commonly three to eight years), referred to as the revolving period. During the revolving period, the special-purpose entity uses most of the cash collections to purchase additional receivables from the transferor on prearranged terms.
+Securitizations in which receivables are transferred at the inception and also periodically (daily or monthly) thereafter for a defined period (commonly three to eight years), referred to as the revolving period. During the revolving period, the special-purpose entity uses most of the cash collections to purchase additional receivables from the transferor on prearranged terms.
+Securitizations in which receivables are transferred at the inception and also periodically (daily or monthly) thereafter for a defined period (commonly three to eight years), referred to as the revolving period. During the revolving period, the special-purpose entity uses most of the cash collections to purchase additional receivables from the transferor on prearranged terms.
 
 ##### Sales-Type                Lease
 
-Securitizations in which receivables are transferred at the inception and also periodically (daily or monthly) thereafter for a defined period (commonly three to eight years), referred to as the revolving period. During the revolving period, the special-purpose entity uses most of the cash collections to purchase additional receivables from the transferor on prearranged terms. From the perspective of a lessor, a lease that meets one or more of the criteria in paragraph 842-10-25-2 and is not an operating lease in accordance with paragraph 842-10-25-3A.
+From the perspective of a lessor, a lease that meets one or more of the criteria in paragraph 842-10-25-2 and is not an operating lease in accordance with paragraph 842-10-25-3A.
+From the perspective of a lessor, a lease that meets one or more of the criteria in paragraph 842-10-25-2 and is not an operating lease in accordance with paragraph 842-10-25-3A.
 
 ##### Securitization
 
-From the perspective of a lessor, a lease that meets one or more of the criteria in paragraph 842-10-25-2 and is not an operating lease in accordance with paragraph 842-10-25-3A. The process by which financial assets are transformed into securities.
+The process by which financial assets are transformed into securities.
+The process by which financial assets are transformed into securities.
 
 ##### Security
 
@@ -916,21 +956,24 @@ From the perspective of a lessor, a lease that meets one or more of the criteria
 2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
 3. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
 
-1. It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
+It is either represented by an instrument issued in bearer or registered form or, if not represented by an instrument, is registered in books maintained to record transfers by or on behalf of the issuer.
 2. It is of a type commonly dealt in on securities exchanges or markets or, when represented by an instrument, is commonly recognized in any area in which it is issued or dealt in as a medium for investment.
 3. It either is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations.
 
 ##### Seller
 
 A transferor that relinquishes control over financial assets by transferring them to a transferee in exchange for consideration.
+A transferor that relinquishes control over financial assets by transferring them to a transferee in exchange for consideration.
 
 ##### Set-off Right
 
-A transferor that relinquishes control over financial assets by transferring them to a transferee in exchange for consideration. A common law right of a party that is both a debtor and a creditor to the same counterparty to reduce its obligation to that counterparty if that counterparty fails to pay its obligation.
+A common law right of a party that is both a debtor and a creditor to the same counterparty to reduce its obligation to that counterparty if that counterparty fails to pay its obligation.
+A common law right of a party that is both a debtor and a creditor to the same counterparty to reduce its obligation to that counterparty if that counterparty fails to pay its obligation.
 
 ##### Standard Representations and Warranties
 
-A common law right of a party that is both a debtor and a creditor to the same counterparty to reduce its obligation to that counterparty if that counterparty fails to pay its obligation.Representations and warranties that assert the financial asset being transferred is what it is purported to be at the transfer date.
+Representations and warranties that assert the financial asset being transferred is what it is purported to be at the transfer date.
+Representations and warranties that assert the financial asset being transferred is what it is purported to be at the transfer date.
 
 ##### Transfer
 
@@ -942,21 +985,24 @@ A common law right of a party that is both a debtor and a creditor to the same c
 2. Settlement of a receivable
 3. The restructuring of a receivable into a security in a troubled debt restructuring.
 
-1. Selling a receivable
+The conveyance of a noncash financial asset by and to someone other than the issuer of that financial asset.
+Selling a receivable
 2. Putting a receivable into a securitization trust
 3. Posting a receivable as collateral.
 
-1. The origination of a receivable
+The origination of a receivable
 2. Settlement of a receivable
 3. The restructuring of a receivable into a security in a troubled debt restructuring.
 
 ##### Transferee
 
 An entity that receives a financial asset, an interest in a financial asset, or a group of financial assets from a transferor.
+An entity that receives a financial asset, an interest in a financial asset, or a group of financial assets from a transferor.
 
 ##### Transferor
 
-An entity that receives a financial asset, an interest in a financial asset, or a group of financial assets from a transferor. An entity that transfers a financial asset, an interest in a financial asset, or a group of financial assets that it controls to another entity.
+An entity that transfers a financial asset, an interest in a financial asset, or a group of financial assets that it controls to another entity.
+An entity that transfers a financial asset, an interest in a financial asset, or a group of financial assets that it controls to another entity.
 
 ##### Transferred Financial Assets
 
@@ -964,6 +1010,7 @@ An entity that receives a financial asset, an interest in a financial asset, or 
 2. A group of entire financial assets
 3. A participating interest in an entire financial asset.
 
+Transfers of any of the following:
 1. An entire financial asset
 2. A group of entire financial assets
 3. A participating interest in an entire financial asset.
@@ -981,10 +1028,11 @@ The amount that a lessor expects to derive from the underlying asset following t
 ##### Unilateral Ability
 
 A capacity for action not dependent on the actions (or failure to act) of any other party.
+A capacity for action not dependent on the actions (or failure to act) of any other party.
 
 ## 30 Initial Measurement
 
-> **General Note:** The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
+General Note:The Initial Measurement Section provides guidance on the criteria and amounts used to measure a particular item at the date of initial recognition.
 
 ### General
 
@@ -993,7 +1041,7 @@ A capacity for action not dependent on the actions (or failure to act) of any ot
 
 ## 35 Subsequent Measurement
 
-> **General Note:** The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
+General Note:The Subsequent Measurement Section provides guidance on an entity's subsequent measurement and subsequent recognition of an item. Situations that may result in subsequent changes to carrying amount include impairment, credit losses, fair value adjustments, depreciation and amortization, and so forth.
 
 ### General
 
@@ -1002,7 +1050,7 @@ A capacity for action not dependent on the actions (or failure to act) of any ot
 
 ## 40 Derecognition
 
-> **General Note:** The Derecognition Section provides guidance on determining whether and when an entity should remove an item from the financial statements. For example, the entity would derecognize an asset because it no longer has rights to the asset or it would derecognize a liability because it no longer has any obligation.
+General Note:The Derecognition Section provides guidance on determining whether and when an entity should remove an item from the financial statements. For example, the entity would derecognize an asset because it no longer has rights to the asset or it would derecognize a liability because it no longer has any obligation.
 
 ### General
 
@@ -1325,7 +1373,7 @@ Paragraph superseded by Accounting Standards Update No. 2014-11.
 
 ## 50 Disclosure
 
-> **General Note:** The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
 
 ### General
 
@@ -1371,7 +1419,13 @@ Disclosures required for a particular form of continuing involvement shall be co
 Disclose how similar transfers are aggregated
 2. Distinguish between transfers that are accounted for as secured borrowings and transfers that are accounted for as sales.
 
+1. Disclose how similar transfers are aggregated
+2. Distinguish between transfers that are accounted for as secured borrowings and transfers that are accounted for as sales.
+
 **860-10-50-4A** Disclose how similar transfers are aggregated
+2. Distinguish between transfers that are accounted for as secured borrowings and transfers that are accounted for as sales.
+
+1. Disclose how similar transfers are aggregated
 2. Distinguish between transfers that are accounted for as secured borrowings and transfers that are accounted for as sales.
 
 **860-10-50-5** The nature of the transferor's continuing involvement
@@ -1393,7 +1447,7 @@ included in the financial statements being presented, or its agents to be involv
 
 ## 55 Implementation Guidance and Illustrations
 
-> **General Note:** The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
+General Note:The Implementation Guidance and Illustrations Section contains implementation guidance and illustrations that are an integral part of the Subtopic. The implementation guidance and illustrations do not address all possible variations. Users must consider carefully the actual facts and circumstances in relation to the requirements of the Subtopic.
 
 ### General
 
@@ -1444,9 +1498,19 @@ All loan participations
 3. Transfers of cost-method investments
 4. With respect to the guidance in paragraph 860-10-40-5 only, transfers of financial assets in desecuritization transactions.
 
+1. All loan participations
+2. Transfers of equity method investments
+3. Transfers of investments accounted for in accordance with Topic 321 on investments—equity securities
+4. With respect to the guidance in paragraph 860-10-40-5 only, transfers of financial assets in desecuritization transactions.
+
 **860-10-55-3** All loan participations
 2. Transfers of equity method investments
 3. Transfers of cost-method investments
+4. With respect to the guidance in paragraph 860-10-40-5 only, transfers of financial assets in desecuritization transactions.
+
+1. All loan participations
+2. Transfers of equity method investments
+3. Transfers of investments accounted for in accordance with Topic 321 on investments—equity securities
 4. With respect to the guidance in paragraph 860-10-40-5 only, transfers of financial assets in desecuritization transactions.
 
 **860-10-55-4** · · > Application of the Term Transfer
@@ -1462,6 +1526,14 @@ Lease receivables
 5. Ownership interest in a consolidated subsidiary by its parent if the subsidiary holds nonfinancial assets
 6. Investment in a nonconsolidated investee.
 
+1. Lease receivables from sales-type leases and direct financing leases
+2. Securitized stranded costs
+3. Judgment from litigation
+4. Forward contract on a financial instrument
+5. Ownership interest in a consolidated subsidiary by its parent if the subsidiary holds nonfinancial assets
+6. Investment in a nonconsolidated investee.
+7. Receivables from contracts with customers.
+
 **860-10-55-5** Lease receivables
 1. from sales-type leases and direct financing leases
 2. Securitized stranded costs
@@ -1469,6 +1541,14 @@ Lease receivables
 4. Forward contract on a financial instrument
 5. Ownership interest in a consolidated subsidiary by its parent if the subsidiary holds nonfinancial assets
 6. Investment in a nonconsolidated investee.
+
+1. Lease receivables from sales-type leases and direct financing leases
+2. Securitized stranded costs
+3. Judgment from litigation
+4. Forward contract on a financial instrument
+5. Ownership interest in a consolidated subsidiary by its parent if the subsidiary holds nonfinancial assets
+6. Investment in a nonconsolidated investee.
+7. Receivables from contracts with customers.
 
 **860-10-55-6** · · · > Lease Receivables from Sales-Type and Direct Financing Leases
 Lease receivables from sales-type and direct financing leases are made up of two components: the right to receive lease payments and guaranteed residual values. Lease payments for sales-type and direct financing leases involve requirements for lessees to pay cash to lessors and meet the definition of a financial asset. Residual values represent the lessor's estimate of the salvage value of the underlying asset at the end of the lease term and may be either guaranteed or unguaranteed. Residual values meet the definition of financial assets to the extent that they are guaranteed at the commencement of the lease. Thus, transfers of lease receivables from sales-type and direct financing leases are subject to the requirements of this Subtopic. Unguaranteed residual assets
@@ -1497,10 +1577,12 @@ An ownership interest in a consolidated subsidiary is evidence of control of the
 **860-10-55-14** · · · > Investment in a Nonconsolidated Investee
 An entity (for example, a broker-dealer or an investment company) that carries an investment in a subsidiary at fair value will realize its investment by disposing of it rather than by realizing the values of the underlying assets through operations. Therefore, a transfer of an investment in a subsidiary by that entity is a transfer of the investment (a financial asset), not the underlying assets and liabilities (which might include nonfinancial assets). Generally, the guidance in this Subtopic applies to a transfer of an investment in a controlled entity that has not been consolidated by an entity because that entity accounts for its investment in the controlled entity at fair value.
 **860-10-55-14** An entity (for example, a broker-dealer or an investment company) that carries an investment in a subsidiary at fair value will realize its investment by disposing of it rather than by realizing the values of the underlying assets through operations. Therefore, a transfer of an investment in a subsidiary by that entity is a transfer of the investment (a financial asset), not the underlying assets and liabilities (which might include nonfinancial assets). Generally, the guidance in this Subtopic applies to a transfer of an investment in a controlled entity that has not been consolidated by an entity because that entity accounts for its investment in the controlled entity at fair value.
-**860-10-55-15** · · > Receivables from Contracts with Customers· · > Reacquisition by an Entity of Its Own Securities
+**860-10-55-14A** · · > Receivables from Contracts with CustomersPENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:105-10-65-10An entity may have an unconditional right to consideration from a customer that gives rise to a receivable before the entity transfers control of a good or service to the customer. A receivable recognized in accordance with paragraph 606-10-45-4 that meets the definition of a financial asset is subject to the requirements of this Subtopic.
+**860-10-55-15** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:105-10-65-10An entity may have an unconditional right to consideration from a customer that gives rise to a receivable before the entity transfers control of a good or service to the customer. A receivable recognized in accordance with paragraph 606-10-45-4 that meets the definition of a financial asset is subject to the requirements of this Subtopic.· · > Reacquisition by an Entity of Its Own Securities
 A reacquisition by an entity of its own securities by exchanging noncash financial assets (for example, U.S. Treasury bonds or shares of an unconsolidated investee) for its common shares constitutes a distribution by an entity to its owners, as defined in FASB Concepts Statement No. 6, Elements of Financial Statements, and, therefore, is excluded from the scope of this Subtopic.
+PENDING CONTENTTransition date: December 16, 2024; December 16, 2025Transition guidance:105-10-65-9A reacquisition by an entity of its own securities by exchanging noncash financial assets (for example, U.S. Treasury bonds or shares of an unconsolidated investee) for its common shares constitutes a distribution by an entity to its owners and, therefore, is excluded from the scope of this Subtopic.
 **860-10-55-15** A reacquisition by an entity of its own securities by exchanging noncash financial assets (for example, U.S. Treasury bonds or shares of an unconsolidated investee) for its common shares constitutes a distribution by an entity to its owners, as defined in FASB Concepts Statement No. 6, Elements of Financial Statements, and, therefore, is excluded from the scope of this Subtopic.
-**860-10-55-16** · · > Exchange of One Form of Beneficial Interest for Another
+**860-10-55-16** PENDING CONTENTTransition date: December 16, 2024; December 16, 2025Transition guidance:105-10-65-9A reacquisition by an entity of its own securities by exchanging noncash financial assets (for example, U.S. Treasury bonds or shares of an unconsolidated investee) for its common shares constitutes a distribution by an entity to its owners and, therefore, is excluded from the scope of this Subtopic. · · > Exchange of One Form of Beneficial Interest for Another
 A transferor's
 exchange of one form of beneficial interests in financial assets that have been transferred into a trust that is consolidated by the transferor for an equivalent, but different, form of beneficial interests in the same transferred financial assets would not be a transfer under this Subtopic if the exchange is with the trust that initially issued the beneficial interests. If the exchange is not a transfer, then the provisions of paragraph 860-20-40-1B would not be applied to the transaction.
 **860-10-55-16** A transferor's
@@ -1512,8 +1594,8 @@ is within the scope of this Subtopic if that agreement arises in connection with
 The purpose of this implementation guidance is to illustrate the characteristics of a transaction comprising an initial transfer and a repurchase financing
 and to preclude an analogy to other financing transactions that are outside the scope of the guidance in paragraph 860-10-40-4C, which states that items (b) through (c) in paragraph 860-10-40-4 do not apply to a transfer of financial assets and a related repurchase financing.
 **860-10-55-17A** The purpose of this implementation guidance is to illustrate the characteristics of a transaction comprising an initial transfer and a repurchase financing
-**860-10-55-17B** and to preclude an analogy to other financing transactions that are outside the scope of the guidance in paragraph 860-10-40-4C, which states that items (b) through (c) in paragraph 860-10-40-4 do not apply to a transfer of financial assets and a related repurchase financing.
-The initial transferor transfers a financial asset to the initial transferee in return for cash.
+and to preclude an analogy to other financing transactions that are outside the scope of the guidance in paragraph 860-10-40-4C, which states that items (b) through (c) in paragraph 860-10-40-4 do not apply to a transfer of financial assets and a related repurchase financing.
+**860-10-55-17B** The initial transferor transfers a financial asset to the initial transferee in return for cash.
 2. The initial transferee enters into a repurchase financing with the initial transferor. The initial transferee transfers the previously transferred financial asset to the initial transferor as collateral for the financing. The initial transferee receives cash from the initial transferor. As part of the repurchase financing, the initial transferee is obligated to repurchase the financial asset (or substantially the same financial asset) at a fixed price within a prescribed time period.
 3. The initial transferee makes the required payment to the initial transferor under the terms of the repurchase financing. Upon receipt of payment, the initial transferor returns the transferred asset (or substantially the same asset) to the initial transferee.
 
@@ -1754,8 +1836,10 @@ In a loan participation, the lead bank (that is also the transferor) allows the 
 **860-10-55-42A** This guidance illustrates the concept in paragraph 860-10-40-35 that a transferor maintains effective control if it has a right to reclaim specific transferred assets by paying fair value and also holds the residual interest in the transferred financial assets.If a transferor holds the residual interest in securitized financial assets and can reclaim the transferred financial assets at termination of the securitization entity by purchasing them in an auction, and thus at what might appear to be fair value, then sale accounting for the transfer of those financial assets it can reclaim would be precluded. Such circumstances provide the transferor with a more-than-trivial benefit and effective control over the financial assets, because it can pay any price it chooses in the auction and recover any excess paid over fair value through its residual interest in the transferred financial assets.
 **860-10-55-42A** This guidance illustrates the concept in paragraph 860-10-40-35 that a transferor maintains effective control if it has a right to reclaim specific transferred assets by paying fair value and also holds the residual interest in the transferred financial assets.If a transferor holds the residual interest in securitized financial assets and can reclaim the transferred financial assets at termination of the securitization entity by purchasing them in an auction, and thus at what might appear to be fair value, then sale accounting for the transfer of those financial assets it can reclaim would be precluded. Such circumstances provide the transferor with a more-than-trivial benefit and effective control over the financial assets, because it can pay any price it chooses in the auction and recover any excess paid over fair value through its residual interest in the transferred financial assets.
 **860-10-55-42B** Sale accounting is not appropriate if a cleanup call on a group of financial assets in a securitization entity is held by a party other than the servicer. A transferor's call option on the transferred financial assets in the securitization entity is not a cleanup call for accounting purposes because it is not the servicer or an affiliate of the servicer. in which the fair value of beneficial interests obtained by a transferor of financial assets that is not the servicer or an affiliate of the servicer is adversely affected by the amount of transferred financial assets declining to a low level.
+PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:105-10-65-10Sale accounting is not appropriate if a cleanup call on a group of financial assets in a securitization entity is held by a party other than the servicer. A transferor's call option on the transferred financial assets in the securitization entity is not a cleanup call for accounting purposes because it is not the servicer or an affiliate of the servicer. This is the case even when the fair value of beneficial interests obtained by a transferor of financial assets that is not the servicer or an affiliate of the servicer is adversely affected by the amount of transferred financial assets declining to a low level.
 **860-10-55-42B** Sale accounting is not appropriate if a cleanup call on a group of financial assets in a securitization entity is held by a party other than the servicer. A transferor's call option on the transferred financial assets in the securitization entity is not a cleanup call for accounting purposes because it is not the servicer or an affiliate of the servicer. in which the fair value of beneficial interests obtained by a transferor of financial assets that is not the servicer or an affiliate of the servicer is adversely affected by the amount of transferred financial assets declining to a low level.
-**860-10-55-42C** In a securitization transaction involving not-readily-obtainable financial assets, a transferor that is also the servicer may hold a cleanup call if it enters into a subservicing arrangement with a third party without precluding sale accounting. Under a subservicing arrangement, the transferor remains the servicer from the perspective of the securitization entity because the securitization entity does not have an agreement with the subservicer (that is, the transferor remains liable if the subservicer fails to perform under the subservicing arrangement). However, if the transferor sells the servicing rights to a third party (that is, the agreement for servicing is between the securitization entity and the third party after the sale of the servicing rights), then the transferor could not hold a cleanup call without precluding sale accounting.
+**860-10-55-42C** PENDING CONTENTTransition date: December 16, 2026; December 16, 2026Transition guidance:105-10-65-10Sale accounting is not appropriate if a cleanup call on a group of financial assets in a securitization entity is held by a party other than the servicer. A transferor's call option on the transferred financial assets in the securitization entity is not a cleanup call for accounting purposes because it is not the servicer or an affiliate of the servicer. This is the case even when the fair value of beneficial interests obtained by a transferor of financial assets that is not the servicer or an affiliate of the servicer is adversely affected by the amount of transferred financial assets declining to a low level.
+In a securitization transaction involving not-readily-obtainable financial assets, a transferor that is also the servicer may hold a cleanup call if it enters into a subservicing arrangement with a third party without precluding sale accounting. Under a subservicing arrangement, the transferor remains the servicer from the perspective of the securitization entity because the securitization entity does not have an agreement with the subservicer (that is, the transferor remains liable if the subservicer fails to perform under the subservicing arrangement). However, if the transferor sells the servicing rights to a third party (that is, the agreement for servicing is between the securitization entity and the third party after the sale of the servicing rights), then the transferor could not hold a cleanup call without precluding sale accounting.
 **860-10-55-42C** In a securitization transaction involving not-readily-obtainable financial assets, a transferor that is also the servicer may hold a cleanup call if it enters into a subservicing arrangement with a third party without precluding sale accounting. Under a subservicing arrangement, the transferor remains the servicer from the perspective of the securitization entity because the securitization entity does not have an agreement with the subservicer (that is, the transferor remains liable if the subservicer fails to perform under the subservicing arrangement). However, if the transferor sells the servicing rights to a third party (that is, the agreement for servicing is between the securitization entity and the third party after the sale of the servicing rights), then the transferor could not hold a cleanup call without precluding sale accounting.
 **860-10-55-42D** · · · > Other Arrangements
 A put option written to the transferee generally does not provide the transferor with effective control over the transferred financial asset under paragraph 860-10-40-5(c)(3).
@@ -2024,7 +2108,7 @@ This Example illustrates the guidance in paragraph 860-10-55-65. This Example ha
 
 ## 60 Relationships
 
-> **General Note:** The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
+General Note:The Relationships Section contains links to guidance that may be helpful to, but not required by, a user of the Subtopic. This Section may not be all-inclusive. The relationship items are organized according to the Topic structure in the Codification.
 
 ### General
 
@@ -2036,7 +2120,7 @@ For the requirements for preparation of consolidated financial statements, see t
 
 ## 65 Transition and Open Effective Date Information
 
-> **General Note:** The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
+General Note:The Transition Section contains a description of the required transition provisions and a list of the related paragraphs that have been modified. This Section will retain the transition content during the transition period. After the transition period, the transition content will be removed yet will be available in archived versions of the Section.
 
 ### General
 
@@ -2053,7 +2137,7 @@ For the requirements for preparation of consolidated financial statements, see t
 
 ## S40 Derecognition
 
-> **General Note:** The Derecognition Section provides guidance on determining whether and when an entity should remove an item from the financial statements. For example, the entity would derecognize an asset because it no longer has rights to the asset or it would derecognize a liability because it no longer has any obligation.
+General Note:The Derecognition Section provides guidance on determining whether and when an entity should remove an item from the financial statements. For example, the entity would derecognize an asset because it no longer has rights to the asset or it would derecognize a liability because it no longer has any obligation.
 
 ### General
 
@@ -2066,7 +2150,7 @@ See paragraph 942-810-S99-1, SAB Topic 5.V, for SEC Staff views on accounting an
 
 ## S50 Disclosure
 
-> **General Note:** The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
+General Note:The Disclosure Section provides guidance regarding the disclosure in the notes to financial statements. In some cases, disclosure may relate to disclosure on the face of the financial statements.
 
 ### General
 
@@ -2076,7 +2160,7 @@ See paragraph 235-10-S99-1, Regulation S-X Rule 4-08(m), for disclosure requirem
 
 ## S99 SEC Materials
 
-> **General Note:** As more fully described in *About the Codification*, the Codification includes selected SEC and SEC Staff content for reference by public companies. The Codification does not replace or affect how the SEC or SEC Staff issues or updates SEC content. SEC Staff content does not constitute Commission-approved rules or interpretations of the SEC.
+General Note:As more fully described in *About the Codification*, the Codification includes selected SEC and SEC Staff content for reference by public companies. The Codification does not replace or affect how the SEC or SEC Staff issues or updates SEC content. SEC Staff content does not constitute Commission-approved rules or interpretations of the SEC.
 
 ### General
 
